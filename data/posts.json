@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260703-531",
+    "title": "DC’s 250th Birthday Celebration Features Record-Setting Fireworks",
+    "slug": "dc-s-250th-birthday-celebration-features-record-setting-fireworks",
+    "content": "A record‑setting fireworks display will close out the United States’ 250th birthday celebration on the National Mall in Washington, D.C., Saturday evening. The show, which will be the largest in the city’s history, follows more than seven hours of military flyovers and a speech by President Donald Trump, marking the nation’s quadricentennial anniversary.\n\nThe event is proceeding amid sweltering temperatures that have prompted concerns about heat safety for thousands of spectators. Critics have also voiced objections to President Trump’s participation, citing his controversial tenure. Despite these complaints, organizers have confirmed that the fireworks, scheduled to launch at 10:30 p.m., will go on as planned.\n\nAs the nation gathers to mark 250 years of independence, the fireworks finale is expected to draw a record crowd, underscoring the enduring appeal of the National Mall as a venue for patriotic celebration.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/4/2026 5:11:46",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260703-530",
+    "title": "Global childhood vaccination rates fall amid hesitancy, politics, and disinformation",
+    "slug": "global-childhood-vaccination-rates-fall-amid-hesitancy-politics-and-disinformati",
+    "content": "Global childhood vaccination rates have declined sharply in recent years, according to health monitoring agencies. The downturn is evident across multiple regions, with several nations reporting coverage levels that fall below targets established by the World Health Organization. The trend coincides with a rise in vaccine hesitancy among parents, who cite concerns about safety and efficacy despite scientific consensus supporting immunisation benefits.\n\nAnalysts attribute the erosion of confidence to a combination of political and informational factors. Populist leaders in various countries have amplified skepticism toward governmental and scientific institutions, framing vaccination programs as overreach. Simultaneously, the proliferation of disinformation on digital platforms has fragmented public discourse, making it difficult to establish a shared factual basis for policy discussions. The convergence of these dynamics threatens progress toward herd immunity and underscores the need for coordinated communication strategies.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/4/2026 5:11:42",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260703-529",
+    "title": "KRISS unveils room-temperature plug‑play single‑photon source",
+    "slug": "kriss-unveils-room-temperature-plug-play-single-photon-source",
+    "content": "Seoul, South Korea – The Korea Research Institute of Standards and Science (KRISS) announced the creation of a room‑temperature single‑photon source integrated into a compact 19‑inch rack‑mounted unit that operates without the need for cryogenic cooling. The plug‑and‑play system powers up and begins generating quantum light immediately, marking a shift from laboratory‑bound experiments toward equipment that can be deployed directly in field settings.\n\nThe new device delivers a stable stream of individual photons at ambient conditions, simplifying the infrastructure required for quantum‑based technologies such as secure communications, precision metrology and emerging quantum computing architectures. By eliminating bulky cooling apparatus and fitting within a standard rack, the KRISS source is positioned to accelerate the transition of quantum light sources from research prototypes to practical, onsite applications across industry and government sectors.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/4/2026 5:11:37",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260703-528",
     "title": "SpaceX Starship Targets 2024 Launch",
     "slug": "spacex-starship-targets-2024-launch",
