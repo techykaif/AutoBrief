@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260704-342",
+    "title": "Morocco reaches World Cup quarterfinals after beating Canada",
+    "slug": "morocco-reaches-world-cup-quarterfinals-after-beating-canada",
+    "content": "Morocco secured a 1‑0 victory over Canada in the final group‑stage match of the 2026 FIFA World Cup, clinching a place in the last‑8 and ending what had been a fairy‑tale run for the North African side. The win, achieved through a late goal by Youssef En-Nesyri, gave the Atlas Lions a 10‑point tally that put them ahead of the United States and the Netherlands, who also advanced from Group C.\n\nThe match, played at the newly opened stadium in Toronto, saw Morocco dominate possession and create several chances, while Canada struggled to break down a disciplined Moroccan defense. En‑Nesyri’s strike in the 78th minute proved decisive, and the Moroccan coach, Walid Regragui, praised his team’s resilience after a 1‑1 draw with the United States and a 0‑0 stalemate against the Netherlands earlier in the group.\n\nWith the draw, Morocco’s World Cup campaign concludes at the round of 16. The team will now face the winner of Group D in the knockout stage, while Canada will be eliminated from the tournament. The victory underscores Morocco’s competitive performance, but it also marks the end of their unexpected journey from qualifiers to the brink of the quarter‑finals.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/5/2026 3:43:43",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260704-340",
+    "title": "Patriot Front members march through Washington D.C. neighborhood",
+    "slug": "patriot-front-members-march-through-washington-d-c-neighborhood",
+    "content": "Masked demonstrators marched through Washington, D.C.’s Eastern Market neighborhood on Saturday, coinciding with the nation’s 250th‑anniversary celebrations of independence. The group, identified by the white‑supremacist organization Patriot Front through their caps and other apparel, was seen gathering near Union Station before proceeding onto Capitol Hill. According to WTOP, the demonstrators wore khaki clothing, white face coverings, sunglasses, and caps emblazoned with the group’s logo.\n\nThe march drew attention from local law enforcement and security officials, who monitored the procession as it passed key federal sites. While the demonstrators did not engage in any reported incidents of violence or property damage, their presence added a layer of tension to an otherwise celebratory day. Authorities confirmed that no arrests were made and that the event remained peaceful.\n\nThe demonstration highlights ongoing concerns about extremist groups using public holidays and civic spaces to promote their ideology. As Washington continues to observe its bicentennial milestones, officials remain vigilant against potential disruptions and emphasize the importance of maintaining public safety during large gatherings.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/5/2026 3:43:34",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260704-339",
+    "title": "NHS App Uses AI to Match Patients with Best Services",
+    "slug": "nhs-app-uses-ai-to-match-patients-with-best-services",
+    "content": "The National Health Service (NHS) announced that a forthcoming update to its digital health platform will be made available to all users in England by April 2028. The update, which is part of the service’s broader strategy to modernise patient care, will introduce new features such as enhanced appointment scheduling, expanded telehealth capabilities, and improved data security protocols.\n\nAccording to NHS officials, the rollout will occur in staged phases, beginning with pilot sites in major urban centres before a full nationwide launch. The service highlighted that the update is expected to streamline patient interactions, reduce administrative burden for clinicians, and provide more robust tools for managing chronic conditions. Staff training and support resources will be deployed alongside the technical deployment to ensure a smooth transition.\n\nThe NHS has said that the April 2028 deadline reflects a commitment to delivering the upgrade within a realistic timeframe, allowing for thorough testing and stakeholder engagement. Once live, the update should enable patients across England to access a more integrated and user‑friendly health experience, aligning with the organisation’s long‑term digital transformation goals.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/5/2026 3:43:30",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260704-338",
+    "title": "Article “Better Models: Worse Tools” published on July 4 2026",
+    "slug": "article-better-models-worse-tools-published-on-july-4-2026",
+    "content": "A blog post published on July 4, 2026 on the Lucumr platform, “Better Models, Worse Tools,” argues that rapid advances in large‑scale AI models have outpaced the development of supporting software infrastructure. The author points out that while newer models deliver higher accuracy and broader capabilities, engineers increasingly encounter fragmented, hard‑to‑debug, and poorly integrated toolchains for tasks such as data preprocessing, model versioning, and deployment. The article cites recent releases of state‑of‑the‑art language and vision models that, despite their performance gains, still rely on ad‑hoc scripts and legacy frameworks, leading to longer development cycles and higher operational risk.\n\nThe post has attracted attention on the technology news aggregator Hacker News, where it received 19 points and eight comments, sparking discussion about the need for standardized, user‑friendly tooling. Commenters highlighted examples of emerging open‑source projects aiming to address these gaps, while also noting that industry adoption remains uneven. The author concludes that without coordinated investment in robust tooling ecosystems, the benefits of increasingly powerful models may be undermined by practical deployment challenges.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/5/2026 3:43:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260704-337",
+    "title": "Iranians continue funeral processions for Khamenei despite heatwave",
+    "slug": "iranians-continue-funeral-processions-for-khamenei-despite-heatwave",
+    "content": "Iran entered the second day of nationwide funeral processions for its late Supreme Leader Ali Khamenei, who died on Monday at the age of 88. The mourning schedule, organized by the state, saw crowds gather in Tehran’s Imam Khomeini Square and in provincial capitals, where participants carried portraits of the cleric and recited prayers. Government officials, including President Ebrahim Raisi, addressed the public, describing Khamenei as a “guiding light” whose legacy would continue to shape the Islamic Republic’s policies and values.\n\nSecurity forces maintained a heightened presence to manage the large assemblies, while state media broadcast live coverage of the ceremonies and highlighted messages of unity from religious leaders and party officials. The funeral rites are expected to conclude later this week, after which the government will announce a formal period of national mourning and the procedures for appointing Khamenei’s successor. The events underscore the central role of the Supreme Leader in Iran’s political and religious hierarchy.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 3:43:20",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260704-336",
     "title": "Michigan Retains 5-Star Recruit Brandon McCoy Jr.",
     "slug": "michigan-retains-5-star-recruit-brandon-mccoy-jr",
