@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260705-017",
+    "title": "England Faces Mexico in World Cup Match",
+    "slug": "england-faces-mexico-in-world-cup-match",
+    "content": "England’s World Cup campaign enters a pivotal phase as manager Gareth Southgate seeks composure and focus from his side ahead of Sunday’s last-16 clash against Mexico. Following a high-intensity 2-1 victory over DR Congo, which left players visibly fatigued, Southgate faces the challenge of maintaining discipline and tactical cohesion in a match widely regarded as the most anticipated in Mexico’s tournament history. The Three Lions’ opponents, having secured their place with a 3-1 win against Ecuador, arrive at the Azteca Stadium brimming with confidence and the backing of a fervent home crowd.  \n\nComplicating preparations is a logistical battle over the match’s timing. Initially, concerns over an incoming storm in Mexico City prompted discussions to move the 6pm local kick-off (1am BST) to midday to avoid potential flooding. Despite extensive deliberations involving FIFA, local authorities, and stakeholders, the decision was ultimately upheld, leaving the original schedule unchanged. The unresolved tension highlights the complexities of hosting a World Cup match in a volatile weather environment, though neither team will have the luxury of adjusting to a new timeframe. With both sides aware of the high stakes, the focus now shifts to navigating the Azteca’s electric atmosphere and delivering under pressure.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/5/2026 6:52:51",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-015",
+    "title": "France Beats Paraguay 1-0",
+    "slug": "france-beats-paraguay-1-0",
+    "content": "France secured a 1-0 victory over Paraguay in a World Cup clash marked by tactical adjustments due to Philadelphia’s sweltering Independence Day heatwave. Despite scaling back their intensity, the French side, led by Kylian Mbappé, proved too resilient for a Paraguayan team that struggled to trouble the hosts. Mbappé’s decisive penalty, his 18th goal in World Cup history, leveled his tally with Lionel Messi in the Golden Boot race but left him one goal shy of Just Fontaine’s all-time tournament scoring record. The match, played under stifling conditions, saw Les Bleus maintain control while Paraguay offered limited resistance, echoing their 1998 extra-time triumph over the same opponent.  \n\nThe result reinforced France’s status as tournament favorites, though their performance lacked the flair of their 1998 victory or the dominance of Fontaine’s 1958 hat-trick. Mbappé’s clinical finish underscored his growing legacy, yet the absence of a second goal highlighted the challenges posed by the extreme weather and Paraguay’s defensive resilience. For Paraguay, the defeat underscored their inability to capitalize on physical clashes or disrupt France’s structure, leaving them with little to take from the encounter. The win, while hard-earned, solidified France’s position at the summit of Group D and set the stage for Mbappé’s pursuit of history in the tournament’s latter stages.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/5/2026 6:52:40",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-013",
+    "title": "Paul Pelosi Involved in Hit-and-Run Crash",
+    "slug": "paul-pelosi-involved-in-hit-and-run-crash",
+    "content": "Former House Speaker Nancy Pelosi’s husband, Paul Pelosi, 86, is facing possible misdemeanor charges after a hit‑and‑run incident in Napa County on Friday. According to a statement released by the Napa County Sheriff’s Office, the 86‑year‑old was driving his brown vehicle when it struck a parked car, leaving the other vehicle with “major” damage. No injuries were reported, and the incident is still under investigation.\n\nThe sheriff’s office confirmed that the incident occurred on Friday evening and that the police are reviewing surveillance footage and other evidence to determine the circumstances of the collision. If the investigation concludes that Pelosi fled the scene, he could be charged with a misdemeanor hit‑and‑run, a crime that carries up to one year in county jail and a fine of up to $4,000 in California.\n\nThe case has attracted attention due to Pelosi’s high‑profile status as the former Speaker of the House. Legal proceedings will follow California’s statutes for traffic violations, and a court will decide whether charges are filed and what penalties may apply.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/5/2026 6:52:30",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-012",
+    "title": "AI-Powered PHP Engine in Rust Passes PHP Tests",
+    "slug": "ai-powered-php-engine-in-rust-passes-php-tests",
+    "content": "A developer has published a detailed account of using artificial intelligence to translate a PHP codebase into Rust, despite having no prior experience with the systems programming language. The post, hosted on the developer’s personal blog, outlines the experimental workflow of leveraging AI coding assistants to handle syntax conversion, memory management adjustments, and idiomatic Rust patterns. The project highlights a growing interest in automated code migration tools as developers seek to modernize legacy systems without requiring deep expertise in target languages.\n\nThe initiative has drawn attention within the technical community, generating discussion on Hacker News where it accumulated 20 points and 24 comments. Participants examined the practical implications of AI-driven language translation, noting both the potential efficiency gains and the technical risks associated with automated refactoring. Contributors emphasized the necessity of rigorous testing, manual code review, and a working understanding of Rust’s ownership and borrowing rules to ensure the translated code maintains security and performance standards. The thread also addressed",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/5/2026 6:52:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-011",
+    "title": "Scientists investigate rapid wound healing in jellyfish",
+    "slug": "scientists-investigate-rapid-wound-healing-in-jellyfish",
+    "content": "Scientists have discovered that certain jellyfish species possess the remarkable ability to heal skin wounds within minutes, a finding that could inspire new medical treatments. Researchers observed the rapid regeneration of damaged tissue in the comb jelly *Mnemiopsis leidyi*, noting that the process involves a unique combination of rapid cell migration and a specialized protein that promotes tissue repair. The study, published in a peer‑reviewed journal, suggests that the jellyfish’s healing mechanism operates far faster than the typical human response, which can take days to weeks for comparable injuries.\n\nThe research team is now focused on isolating the key proteins and signaling pathways that enable this swift recovery. Early laboratory tests indicate that the jellyfish’s regenerative proteins can stimulate human skin cells to proliferate and close wounds more efficiently than current treatments. If these proteins can be replicated or synthesized, they may lead to novel therapies for burns, surgical incisions, and chronic ulcers, potentially reducing healing times and improving patient outcomes.\n\nWhile the findings are still preliminary, the scientific community is optimistic about the translational potential of jellyfish biology. Further studies will aim to confirm the safety and efficacy of these proteins in human models, paving the way for future clinical applications that could revolutionize wound care and regenerative medicine.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/5/2026 6:52:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-006",
+    "title": "Mbappe ties Messi on World Cup goals as France beat Paraguay",
+    "slug": "mbappe-ties-messi-on-world-cup-goals-as-france-beat-paraguay",
+    "content": "Kylian Mbappé matched Lionel Messi’s record of seven goals at a single FIFA World Cup after France’s 1‑0 victory over Paraguay in the 2026 knockout stage. The French forward’s late strike, assisted by a precise cross from Antoine Griezmann, sealed the win and propelled France into the quarter‑finals. The match, held at the Los Angeles Memorial Coliseum, ended with a clean sheet for the hosts, who have now advanced to the last 16 for the first time since 2018.\n\nMbappé’s goal tally places him level with Messi, who scored seven goals during the 2022 tournament in Qatar. Both players have now become the most prolific scorers in World Cup history, each achieving the milestone in a single edition. France’s 1‑0 scoreline was the result of disciplined defense and a single moment of brilliance from Mbappé, who has been a key figure in the national team’s resurgence under manager Didier Deschamps. Paraguay, despite a spirited effort, could not find a breakthrough against a well‑organized French side.\n\nWith the quarter‑finals looming, France will look to build on this momentum and continue their quest for a third World Cup title. The match underscored Mbappé’s growing legacy and the enduring rivalry between him and Messi, both of whom have redefined modern football with their goal‑scoring prowess.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:52:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-005",
+    "title": "Ticket Prices for USA‑Belgium World Cup Match Drop to $1,549",
+    "slug": "ticket-prices-for-usa-belgium-world-cup-match-drop-to-1-549",
+    "content": "Ticket prices for the 2026 FIFA World Cup final in Seattle have shown significant volatility on the secondary market, with listings ranging from a high of nearly $4,000 to a low of $1,549 on Tuesday, according to data compiled from major resale platforms. The surge to the upper end of the price spectrum reflects strong demand for seats at the championship match, which will be held at Seattle’s Climate Pledge Arena, one of the tournament’s designated venues.\n\nThe dip to $1,549 suggests that price competition remains active as the event approaches, offering more affordable options for fans willing to act quickly. Market analysts note that such fluctuations are typical for high‑profile sporting events, where supply constraints and varying buyer interest drive rapid changes in resale values. The ongoing price shifts underscore the dynamic nature of ticket availability ahead of the 2026 World Cup final.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:51:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-004",
+    "title": "White Nationalists March in Washington, DC During July 4 Celebrations",
+    "slug": "white-nationalists-march-in-washington-dc-during-july-4-celebrations",
+    "content": "Donald Trump has faced widespread condemnation for not taking decisive action against white nationalists during his time in office. Critics argue that his administration’s limited response to extremist groups, particularly during the 2017 Charlottesville rally, allowed white supremacist rhetoric to gain a broader platform. The event, in which a white supremacist march turned violent, prompted calls from both parties for stronger federal intervention, yet the administration largely refrained from labeling the participants as extremist or imposing sanctions.\n\nThe controversy centers on Trump’s public statements, which many saw as insufficiently confrontational. While he condemned the violence that occurred, he also praised the “freedom of speech” of those who marched, a stance that drew criticism from lawmakers, civil‑rights leaders, and the media. The lack of a robust policy to counter white nationalism has been cited as a failure to protect vulnerable communities and to uphold the administration’s own rhetoric on unity and inclusion.\n\nIn response to mounting pressure, the White House issued a brief statement affirming its commitment to combating hate and extremism, but no substantive policy changes followed. The episode remains a point of reference in discussions of the Trump administration’s approach to domestic extremism and its impact on the national conversation about race and public safety.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:51:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-003",
+    "title": "Crowds gather to mourn Khamenei after alleged US‑Israeli strike, Trump pledges calm",
+    "slug": "crowds-gather-to-mourn-khamenei-after-alleged-us-israeli-strike-trump-pledges-ca",
+    "content": "Claims that Iran’s Supreme Leader Ayatollah Ali Khamenei and members of his family were killed in a U.S.–Israeli air strike in February have circulated on social media and in some online outlets. The Iranian government has categorically denied the reports, issuing a statement through the Ministry of Foreign Affairs that Khamenei remains alive and that no such attack has taken place on Iranian territory. U.S. and Israeli officials have also not confirmed any operation of that nature, and both foreign ministries have declined to comment on the unsubstantiated allegations.\n\nIndependent verification agencies, including major international news services and intelligence monitoring groups, have found no credible evidence supporting the claim. The narrative appears to stem from a disinformation campaign that has previously targeted high‑profile political figures in the region. As of now, the alleged air strike remains unconfirmed, and official sources continue to assert that Ayatollah Khamenei is alive and in good health.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:51:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-002",
+    "title": "Hundreds of white nationalists march in Washington DC before Freedom 250 event",
+    "slug": "hundreds-of-white-nationalists-march-in-washington-dc-before-freedom-250-event",
+    "content": "Hundreds of individuals wearing masks identified as white nationalists gathered in Washington, DC, on Saturday to march ahead of the planned Freedom 250 rally. The demonstration, which began near the National Mall and moved toward the Capitol grounds, was organized by several far‑right groups that have promoted the upcoming event as a “celebration of heritage.” Law‑enforcement agencies deployed a visible presence, establishing barricades and conducting routine checks, but no arrests were reported during the march.\n\nOfficials said the Freedom 250 rally, scheduled for later this month, is expected to draw a larger crowd and has prompted heightened security measures across the city. Federal and local authorities continue to monitor the situation, emphasizing preparedness for potential disturbances while urging participants to comply with public‑order regulations. The march underscores the ongoing tension surrounding extremist gatherings in the capital and the challenges faced by law‑enforcement in balancing First Amendment rights with public safety.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:51:42",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-001",
+    "title": "Immigrant veteran Benito Miranda Hernandez faces deportation to Mexico",
+    "slug": "immigrant-veteran-benito-miranda-hernandez-faces-deportation-to-mexico",
+    "content": "Benito Miranda Hernandez, a former United States Army soldier who served three tours in Iraq, is currently the subject of an immigration hearing that could result in his removal to Mexico. Hernandez, who entered the United States legally as a non‑citizen, has been detained by Immigration and Customs Enforcement (ICE) following a conviction for a non‑violent felony that triggered a removal order under the 1996 Illegal Immigration Reform and Immigrant Responsibility Act. His legal representatives argue that his military service, including combat deployments and awards for valor, should qualify him for discretionary relief, such as a waiver of inadmissibility or a stay of removal, but the agency has indicated that the conviction meets the statutory criteria for mandatory removal.\n\nThe case highlights the intersection of veteran status and immigration enforcement, a point of ongoing debate among policymakers and advocacy groups. Federal law provides limited avenues for non‑citizen veterans to avoid deportation, typically requiring a waiver that hinges on factors such as the nature of the offense and the length of residence in the United States. As the hearing proceeds, the immigration judge will consider Hernandez’s service record, the specifics of his criminal case, and any applicable relief provisions before issuing a final decision on whether he will be permitted to remain in the United States or be deported to Mexico.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/5/2026 6:51:38",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260704-362",
     "title": "Vast Space's Haven-1 Station Advances Ahead of 2027 Launch",
     "slug": "vast-space-s-haven-1-station-advances-ahead-of-2027-launch",
