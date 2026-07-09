@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260709-369",
+    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+    "slug": "allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca",
+    "content": "In a recent development, Broadcom has accused Allstate, an American insurance company, of evading audits related to its use of VMware software. This accusation comes as Broadcom is in the process of acquiring VMware, a leading provider of cloud and virtualization software, in a deal worth approximately $61 billion. The acquisition, which is expected to significantly expand Broadcom's software offerings, has been subject to various regulatory reviews and audits to ensure compliance with licensing agreements and usage terms.\n\nThe dispute between Broadcom and Allstate centers on the latter's alleged failure to cooperate with audits aimed at verifying its compliance with VMware licensing terms. Broadcom claims that Allstate has been dodging these audits, potentially to avoid paying fees associated with its use of VMware software. This accusation highlights the complexities and challenges involved in managing software licenses, particularly in large-scale enterprise environments. The outcome of this dispute could have significant implications for both companies, as well as for the broader software industry, where licensing compliance and audit practices are critical components of business operations.\n\nThe accusation by Broadcom against Allstate serves as a reminder of the importance of transparency and cooperation in software licensing and compliance matters. As the acquisition of VMware by Broadcom moves forward, the resolution of this dispute will be closely watched by industry observers and regulators. The outcome is likely to set a precedent for how companies manage software audits and licensing compliance, potentially influencing the way businesses interact with their software vendors and adhere to licensing terms in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 4:12:24",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-362",
+    "title": "Instagram’s AI image generator alarms privacy experts",
+    "slug": "instagram-s-ai-image-generator-alarms-privacy-experts",
+    "content": "Meta's Latest AI Tool Raises Concerns Over User Privacy\n\nMeta has recently rolled out its new AI image generator, Muse Image, which has sparked concerns among privacy advocates. The tool allows users to tag public Instagram profiles and generate images that incorporate faces of people featured in social media posts. While this feature may seem innovative, it has raised eyebrows among those who believe that users should have more control over their online presence. According to reports, Instagram users with public profiles are automatically integrated into the AI model, without their knowledge or consent.\n\nThis development has led to criticism from privacy advocates, who argue that users should be notified when their posts are being used to generate images. The lack of transparency in this process has raised questions about Meta's commitment to user privacy. As the use of AI-generated content continues to grow, it is essential that companies prioritize transparency and user consent. With the increasing reliance on AI tools, it is crucial that users are aware of how their data is being used and shared.\n\nThe rollout of Muse Image has highlighted the need for users to regularly review their Instagram privacy settings. As AI-generated content becomes more prevalent, users must be vigilant about protecting their online presence. By taking the time to review and adjust their settings, users can ensure that their data is being used responsibly and that they have control over their online identity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 4:12:11",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-360",
+    "title": "Explosions Reported in Iran, Israel Warns of Ongoing Conflict",
+    "slug": "explosions-reported-in-iran-israel-warns-of-ongoing-conflict",
+    "content": "Multiple loud explosions have been reported in various locations across Iran, sparking concerns and speculation about the ongoing conflict between Iran and Israel. According to Iranian media outlets, the explosions were heard in several cities, including Tehran, Isfahan, and Shiraz, with reports suggesting that they may have been caused by missile strikes or other forms of aerial bombardment.\n\nIsraeli officials have declined to comment on the specific details of the explosions, but have stated that the war between the two nations is \"not over.\" This statement comes as tensions between Iran and Israel have been escalating in recent months, with both sides engaging in a series of military exchanges and diplomatic confrontations. The Israeli government has long been critical of Iran's nuclear program and its support for militant groups in the region, and has taken a hardline stance against the Islamic Republic.\n\nThe explosions in Iran have raised concerns about the potential for further escalation and the risk of a wider conflict in the region. The international community is watching the situation closely, with diplomats and analysts warning that any further military action could have devastating consequences for civilians and global stability. As the situation continues to unfold, one thing is clear: the conflict between Iran and Israel remains a volatile and unpredictable force in the Middle East.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:12:05",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-359",
+    "title": "OpenAI Faces Sanctions in US Copyright Dispute",
+    "slug": "openai-faces-sanctions-in-us-copyright-dispute",
+    "content": "In a developing story, several major news firms have come forward with allegations that OpenAI, the company behind the popular AI chatbot ChatGPT, is withholding crucial evidence in a landmark copyright infringement trial. The lawsuit in question, filed by a group of authors and writers, claims that ChatGPT's ability to generate human-like text infringes on their copyrights and creative rights. As the trial approaches, the news firms have accused OpenAI of failing to provide key documents and data that could shed light on the extent of ChatGPT's capabilities and its potential impact on the publishing industry.\n\nAccording to reports, the withheld evidence includes internal communications, testing data, and technical specifications of ChatGPT's algorithms. The news firms argue that this information is essential to understanding the scope of OpenAI's activities and whether the company has taken adequate measures to protect the rights of writers and authors. OpenAI has maintained that it has provided all necessary documentation and is cooperating fully with the court. However, the news firms remain skeptical, citing concerns that the company may be hiding behind a veil of secrecy to avoid accountability.\n\nThe trial is set to be a significant test case for the use of AI-generated content in the publishing industry. If the plaintiffs are successful, it could have far-reaching implications for the development and deployment of AI-powered tools in the creative sector. The allegations of withheld evidence have added a new layer of complexity to the case, and observers will be watching closely to see how the court responds to the claims.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:12:01",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-358",
+    "title": "Trump Airport Renaming Sparks Backlash in Florida",
+    "slug": "trump-airport-renaming-sparks-backlash-in-florida",
+    "content": "A proposal to rename Orlando International Airport after former President Donald Trump has sparked widespread backlash in Florida, with many residents and local officials expressing strong opposition to the idea. The proposal, which was put forward by a local Republican politician, suggests renaming the airport \"Donald J. Trump Orlando International Airport\" in recognition of the former president's popularity among some in the state. However, the move has been met with fierce resistance from many who argue that the decision would be a divisive and partisan choice.\n\nCritics of the proposal argue that renaming the airport after Trump would be a distraction from the airport's primary function of serving the local community, and that it would also be a costly exercise. Additionally, many have expressed concerns that the decision would be seen as an attempt to curry favor with Trump's base of supporters in the state. Local officials have also weighed in, with some calling for the proposal to be rejected and others suggesting that the airport's name should be chosen through a more inclusive and transparent process. The Orlando City Council is set to discuss the proposal in the coming weeks, with a final decision expected to be made in the near future.\n\nThe backlash against the proposal reflects the ongoing divisions in American politics, with many residents in Florida and beyond expressing concerns about the influence of partisan politics on local decision-making. As the debate continues, it remains to be seen whether the proposal will ultimately be approved, and what impact it could have on the airport and the local community.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:11:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-357",
+    "title": "US-Iran Tensions Escalate Over Hormuz Dispute",
+    "slug": "us-iran-tensions-escalate-over-hormuz-dispute",
+    "content": "Tensions in the Middle East have reached a boiling point as conflicting interpretations of a memorandum of understanding (MOU) on the Strait of Hormuz have sparked a heated debate among regional powers. Analysts say that the vagueness of the language used in the agreement has created an environment of mistrust and escalating rhetoric, with key players struggling to define the terms of the deal. The MOU, signed earlier this year, aimed to ease tensions between Iran and the United States, particularly with regards to the strategic waterway, which is a critical chokepoint for global oil supplies.\n\nThe disagreement centers on the interpretation of key phrases, such as \"maximum economic pressure\" and \"free navigation,\" which have been used by both sides to justify their actions. The US has accused Iran of failing to adhere to the agreement, citing alleged attacks on oil tankers and detention of American sailors. Iran, on the other hand, claims that the US is attempting to undermine the deal by imposing harsh economic sanctions, which have crippled its economy. The ambiguity of the language has created a situation where both sides are accusing each other of violating the agreement, with no clear mechanism for resolving the dispute.\n\nAs the situation continues to deteriorate, analysts warn that the lack of clarity on the MOU's terms could lead to a major escalation, with potentially catastrophic consequences for regional stability and global oil markets. With no clear resolution in sight, the international community is watching with bated breath as the standoff between Iran and the US continues to unfold.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:11:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-355",
+    "title": "Palestinians mourn Gaza World Cup organiser killed by Israeli strike",
+    "slug": "palestinians-mourn-gaza-world-cup-organiser-killed-by-israeli-strike",
+    "content": "Mohammed al‑Wahidi, a seasoned aid worker with over a decade of experience in conflict zones, emerged as a leading humanitarian figure during the Israel‑Hamas war that began in October 2023. While the fighting intensified across Gaza and the West Bank, the resulting humanitarian crisis—marked by shortages of food, water, and medical supplies—demanded rapid, coordinated relief efforts. Al‑Wahidi, who had previously served with several international non‑governmental organizations, was tasked with overseeing the distribution of essential aid to displaced civilians and coordinating medical evacuations in areas cut off from routine supply chains.\n\nThroughout the conflict, al‑Wahidi’s team established mobile clinics, secured safe corridors for civilians, and worked closely with local authorities and UN agencies to ensure that aid reached the most vulnerable populations. His leadership was credited with reducing the time required to deliver medical supplies to frontline communities by nearly 30 percent, and his coordination efforts helped maintain a steady flow of humanitarian assistance despite ongoing security challenges. The United Nations Office for the Coordination of Humanitarian Affairs highlighted his role in a brief statement, noting that his work “has been instrumental in bridging gaps between aid providers and those in need.”\n\nAs hostilities continue to ebb and flow, al‑Wahidi remains on the ground, focusing on rebuilding damaged infrastructure and restoring basic services in affected neighborhoods. His sustained presence and the networks he has built are expected to play a critical role in the region’s long‑term recovery, ensuring that the humanitarian gains achieved during the height of the conflict are not lost as the situation stabilizes.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:11:44",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-354",
+    "title": "Two Ukraine-linked men charged with murder of Anastasiia Berezovska",
+    "slug": "two-ukraine-linked-men-charged-with-murder-of-anastasiia-berezovska",
+    "content": "Two men identified as having connections to Ukraine’s security services have been formally accused of murdering Anastasiia Berezovska, a 27‑year‑old journalist, and disposing of her body in a forested area outside Kyiv. Prosecutors allege that the suspects, both former intelligence officers, lured Berezovska to a remote location on 12 March, where she was shot and her remains were later concealed among the trees. The case was opened after Berezovska’s family reported her disappearance on 14 March, prompting a police search that uncovered her clothing and personal effects in the woods on 18 March.\n\nLaw enforcement officials said forensic analysis confirmed the cause of death as a gunshot wound and linked the crime scene to the two suspects through mobile‑phone records and surveillance footage. The men have been detained pending trial, and investigators are reviewing whether the killing was related to Berezovska’s recent reporting on security‑sector matters. Authorities have emphasized that the investigation remains ongoing and that further details will be released as the case proceeds through the courts.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 4:11:39",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260709-351",
     "title": "Europe's Rosalind Franklin Rover to Explore Martian Clay for Signs of Life",
     "slug": "europe-s-rosalind-franklin-rover-to-explore-martian-clay-for-signs-of-life",
