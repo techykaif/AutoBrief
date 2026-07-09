@@ -40,11 +40,24 @@ function safeSlug(text: string): string {
 }
 
 function stripThinkingBlocks(text: string): string {
-  // Remove <think>...</think> blocks from Qwen reasoning models
+  // Remove <think>...</think> blocks from Qwen/gpt-oss reasoning models
   return text
     .replace(/<think>[\s\S]*?<\/think>/gi, "")
     .replace(/^[\s\n]+/, "")
     .trim()
+}
+
+function hasUnclosedThinkingBlock(text: string): boolean {
+  // Groq sometimes truncates a reasoning model's response at the max_tokens
+  // limit before it emits </think>. When that happens the ENTIRE response is
+  // raw chain-of-thought with no closing tag, so stripThinkingBlocks() can't
+  // remove it (its regex requires a matching close). Detect that case here
+  // so the caller can treat it as a failed generation instead of publishing
+  // raw reasoning text.
+  const lower = text.toLowerCase()
+  const openCount = (lower.match(/<think>/g) || []).length
+  const closeCount = (lower.match(/<\/think>/g) || []).length
+  return openCount > closeCount
 }
 
 function isValidAiOutput(value: string): boolean {
@@ -66,8 +79,13 @@ function rowToPost(row: any[]) {
   const titleBase = String(row[2] || "").trim()
   const slugBase = String(row[3] || "").trim()
   const contentBase = String(row[4] || "").trim()
-  const aiTitle = stripThinkingBlocks(String(row[16] || "").trim())
-  const aiContent = stripThinkingBlocks(String(row[15] || "").trim())
+  const rawAiTitle = String(row[16] || "").trim()
+  const rawAiContent = String(row[15] || "").trim()
+
+  // If the reasoning block got cut off mid-thought, there's no usable
+  // output at all — don't try to salvage it, just fall back to base content.
+  const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
+  const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
   const finalTitle = isValidAiOutput(aiTitle) ? aiTitle : titleBase
   const finalContent = isValidAiOutput(aiContent) ? aiContent : contentBase
