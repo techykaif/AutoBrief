@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260709-376",
+    "title": "GitHub Introduces Durable Owners for All Repositories",
+    "slug": "github-introduces-durable-owners-for-all-repositories",
+    "content": "GitHub Introduces Durable Owner Feature for All Repositories\n\nIn a move aimed at enhancing repository security, GitHub has announced the rollout of a \"durable owner\" feature, which grants each repository a unique owner identity that persists even if the original owner's account is deleted or suspended. This change is part of GitHub's ongoing efforts to strengthen application security and user trust. \n\nThe introduction of durable owners is significant, as it addresses a long-standing issue where repositories were tied to the original owner's account, creating vulnerabilities in the event of account deletion or suspension. With this new feature, repository owners can now transfer ownership to another user, ensuring that their projects remain accessible and secure even in the event of account changes. \n\nThe implementation of durable owners reflects GitHub's commitment to providing a secure and reliable platform for developers to collaborate and share their work. By mitigating the risks associated with account changes, GitHub is further solidifying its position as a trusted platform for the global developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 4:21:48",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260709-374",
+    "title": "WIRED@NIGHT02 Film Screening Showcases Documentary The Oldest Person in the World",
+    "slug": "wired-night02-film-screening-showcases-documentary-the-oldest-person-in-the-worl",
+    "content": "The documentary *The Oldest Person in the World* is now available for online viewing ahead of its scheduled theatrical release. The film follows the life of the current world record holder for longest confirmed human lifespan, offering a detailed portrait of the subject’s daily routine, family relationships, and reflections on aging. It is being streamed on the official website and select digital platforms, giving audiences an early chance to experience the story before it opens in cinemas.\n\nProduced by [Production Company] and directed by [Director’s Name], the documentary combines intimate interviews with the subject, her family, and medical experts who discuss the science of longevity. The film’s narrative is framed by archival footage and contemporary scenes that illustrate how the subject has navigated major historical events over more than a century. The release strategy places the film online first, followed by a theatrical run slated for [release date], allowing viewers",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 4:21:40",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260709-369",
     "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
     "slug": "allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca",
