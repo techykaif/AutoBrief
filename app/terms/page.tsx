@@ -96,12 +96,12 @@ export default function TermsPage() {
               For any questions regarding these terms, please contact us through the GitHub repository
               at{" "}
               <a
-                href="https://github.com/techykaif/news_automation_website"
+                href="https://github.com/techykaif/autobrief"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                github.com/techykaif/news_automation_website
+                github.com/techykaif/autobrief
               </a>
               .
             </p>
