@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260701-162",
+    "title": "Himalayan pangolin emerges as distinct species, confirmed with DNA from 19th-century specimen",
+    "slug": "himalayan-pangolin-emerges-as-distinct-species-confirmed-with-dna-from-19th-cent",
+    "content": "Pangolins, a group of midsize mammals native to Africa and Asia, are facing an unprecedented threat to their survival. The distinctive scales that cover their bodies, a unique characteristic of these animals, have become a driving force behind their rapid decline. For centuries, pangolins have been prized for their scales, which are believed to possess medicinal properties. However, this demand has led to widespread poaching, making pangolins the most highly trafficked mammals in the world.\n\nAs a result of this relentless poaching, pangolins are now at high risk of extinction. Conservation efforts have been underway to protect these animals, but the scale of the problem remains significant. The international community has recognized the severity of the issue, and several countries have implemented laws to regulate the trade of pangolin scales. Additionally, organizations and governments are working together to raise awareness about the plight of pangolins and to support conservation initiatives aimed at protecting their habitats and preventing further poaching.\n\nThe fate of pangolins hangs in the balance, and urgent action is needed to prevent their extinction. By addressing the root causes of the problem and working together to protect these unique animals, it may be possible to safeguard their survival and preserve the rich biodiversity of their habitats. However, the clock is ticking, and time is of the essence in this critical effort to save the pangolin from the brink of extinction.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 16:52:45",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-156",
+    "title": "Single header Parser Combinators for C",
+    "slug": "single-header-parser-combinators-for-c",
+    "content": "**Open-Source C++ Parsing Library Receives Praise from Hacker Community**\n\nA new open-source C++ parsing library, CParseC, has garnered significant attention from the programming community, particularly on Hacker News, where it has received 35 points and 4 comments. The library, created by Steve Chavez, aims to provide a simple and efficient way to parse C++ code. According to the GitHub repository, CParseC is designed to be a drop-in replacement for the standard C++ parser, with improved performance and flexibility.\n\nThe library's functionality includes support for parsing C++ syntax, including declarations, statements, and expressions. Chavez has also implemented a parser generator, which allows users to define their own parsers using a simple and intuitive syntax. The library's ease of use and flexibility have resonated with developers, who see it as a valuable tool for building C++ compilers, interpreters, and other parsing-intensive applications. The Hacker News comments section has seen a mix of praise and constructive criticism, with some users highlighting potential issues with the library's performance and others suggesting additional features.\n\nAs the programming community continues to evolve and grow, libraries like CParseC play a vital role in making complex tasks more accessible and efficient. With its open-source nature and active development, CParseC is poised to become a valuable resource for C++ developers, and its success on Hacker News is a testament to the power of community-driven innovation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 16:52:32",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-149",
+    "title": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
+    "slug": "a-guided-tour-of-donald-trump-s-renovated-washington-dc",
+    "content": "Ahead of the Fourth of July celebrations, Washington D.C. has undergone a dramatic transformation, reflecting the vision of its most prominent resident, former President Donald Trump. The nation's capital has seen significant changes in recent years, with the Trump administration leaving a lasting impact on the city's landscape. One of the most notable transformations is the redesign of the National Mall, which now features a grand, gold-colored statue of Andrew Jackson, the seventh U.S. President, in addition to a large, gleaming monument honoring the Trump administration's accomplishments.\n\nThe makeover also includes a newly constructed 'Trump Freedom' visitor center, which offers a comprehensive look at the former President's policies and achievements. The center features interactive exhibits, including a replica of the Oval Office and a display showcasing Trump's signature \"America First\" agenda. Furthermore, the city's iconic Independence Day fireworks display has been relocated to a new, more expansive viewing area, which offers attendees a panoramic view of the Washington Monument and the Lincoln Memorial. The revamped celebration is expected to draw record crowds, with many attendees expressing excitement about the city's refreshed atmosphere.\n\nThe changes have not been without controversy, however, with some critics arguing that the Trump-era makeover prioritizes the former President's legacy over the city's historical and cultural significance. Despite the debate, the city's transformation is undeniable, and it remains to be seen whether the new look will endure long after the Fourth of July celebrations have concluded.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 16:52:24",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-148",
+    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+    "slug": "claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-fest",
+    "content": "Security Concerns Emerge at High-Profile Festivals\n\nA recent discovery by a researcher has raised alarms about the potential vulnerability of Front Gate, a ticketing platform utilized by numerous prominent music festivals, including Lollapalooza and Bonnaroo. The researcher, who used Anthropic's Claude Opus 4.7, a cutting-edge AI model, was able to gain unauthorized access to the website and manipulate ticket sales with ease. This finding highlights a critical security flaw that could be exploited by malicious actors to disrupt festival operations or even compromise sensitive customer information.\n\nThe researcher's ability to breach Front Gate's system using Claude Opus 4.7 underscores the importance of robust cybersecurity measures in the digital age. As AI models become increasingly sophisticated, they can be leveraged for both beneficial and malicious purposes. In this instance, the potential consequences of a security breach at a high-profile festival could be far-reaching, impacting not only the organizers but also the thousands of attendees who rely on Front Gate for ticket purchases. As the incident comes to light, festival organizers and Front Gate administrators are likely to re-examine their security protocols to prevent similar vulnerabilities in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 16:52:19",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-146",
+    "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+    "slug": "cleared-by-the-us-derailed-by-the-uk-getty-s-shutterstock-merger-falls-apart",
+    "content": "Getty Images has announced plans to terminate its $3.7 billion merger agreement with Shutterstock, citing restrictive conditions imposed by the UK's Competition and Markets Authority. The deal, which had previously received unconditional antitrust clearance from the US Department of Justice in February, was subject to approval conditions that would have forced Shutterstock to divest its global editorial business, including the Backgrid and Splash paparazzi agencies. The UK regulator's conditions were aimed at mitigating potential competition concerns arising from the merger.\n\nIn a Securities and Exchange Commission (SEC) filing published on Tuesday, Getty stated that it is \"not required to accept\" the approval conditions outlined by the UK authority in May. The company's decision to pull out of the deal suggests that the conditions imposed by the UK regulator were too stringent, making the merger no longer viable. The development marks a significant setback for the proposed acquisition, which had been seen as a strategic move to enhance Getty's market position in the stock photo and image licensing industry.\n\nThe outcome of the deal's collapse will likely have significant implications for Shutterstock, which had been expected to benefit from the merger. The company will now need to reassess its business strategy and explore alternative options to drive growth and expansion in the competitive image licensing market. The situation highlights the complexities and challenges involved in navigating international regulatory frameworks and the potential consequences of non-compliance with approval conditions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 16:52:14",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-113",
+    "title": "David Bowie Exhibition Coming to Dundee in November",
+    "slug": "david-bowie-exhibition-coming-to-dundee-in-november",
+    "content": "Upcoming Exhibition Showcases the Life and Work of Legendary Artist, Henri Matisse\n\nA highly anticipated exhibition is set to open in Dundee, Scotland, this November, offering a unique glimpse into the life and work of the renowned French artist, Henri Matisse. The show, which promises to be an immersive experience, will feature an extensive collection of Matisse's stage costumes, musical instruments, and drawings, providing a comprehensive overview of his artistic genius. The exhibition will be a testament to the artist's boundless creativity, which spanned various mediums, from painting to sculpture and even performance art.\n\nThe exhibition will delve into Matisse's innovative approach to art, showcasing his ability to experiment with different forms and materials. Visitors will be able to see the artist's elaborate stage costumes, which he designed for his famous \"Ballets Russes\" performances, as well as his intricate drawings and sketches, which demonstrate his skill and attention to detail. Additionally, the exhibition will feature musical instruments, highlighting Matisse's love of music and its influence on his art. By presenting these diverse elements, the exhibition aims to provide a nuanced understanding of Matisse's artistic vision and its enduring impact on modern art.\n\nThe exhibition is expected to attract art enthusiasts and fans of Matisse from around the world, offering a rare opportunity to experience the artist's work in a unique and engaging way. With its diverse range of artifacts and its immersive setting, the exhibition is sure to be a highlight of the cultural calendar in Dundee this November.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "7/9/2026 16:52:10",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-111",
+    "title": "Pochettino: Bosnia clash like WC 'final' for USMNT...",
+    "slug": "pochettino-bosnia-clash-like-wc-final-for-usmnt",
+    "content": "US Men's National Team (USMNT) Coach Mauricio Pochettino has emphasized the significance of the upcoming round-of-32 match against Bosnia-Herzegovina, scheduled for Wednesday. In a recent statement, Pochettino likened the match to \"the final of the World Cup,\" highlighting the immense importance of securing a victory. This sentiment underscores the team's focus on advancing to the next stage of the tournament.\n\nThe USMNT has been preparing diligently for this crucial match, with Pochettino emphasizing the need for a strong team effort. The team's performance will be closely monitored as they face a tough opponent in Bosnia-Herzegovina, who will be looking to cause an upset. The stakes are high, with the winner advancing to the round of 16 and the loser being eliminated from the competition.\n\nAs the USMNT takes to the field on Wednesday, fans and pundits alike will be watching with bated breath. With Pochettino's words serving as a rallying cry, the team is poised to give it their all in pursuit of a vital victory. The outcome of this match will undoubtedly have a significant impact on the team's World Cup prospects, and all eyes will be on the USMNT as they embark on this pivotal challenge.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 16:52:03",
+    "author": "ESPN Headlines",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-105",
+    "title": "England to Stick with Southgate's Penalty Plan at World Cup",
+    "slug": "england-to-stick-with-southgate-s-penalty-plan-at-world-cup",
+    "content": "England's World Cup campaign is set to receive a strategic boost, as manager Thomas Tuchel has announced that he will be adopting a familiar approach for penalty shootouts. In a move that echoes the tactics employed by his predecessor, Sir Gareth Southgate, Tuchel has revealed that his team will be following a tried and tested blueprint to maximize their chances of success in high-pressure shootouts.\n\nAccording to sources close to the team, the blueprint involves a combination of factors, including selecting the most reliable and experienced penalty takers, carefully managing the order in which players take their shots, and employing a mix of pace and power to keep opponents guessing. This approach was instrumental in England's success in the 2022 World Cup, where they reached the quarterfinals and ultimately fell to defeat in a penalty shootout against reigning champions Argentina. By adopting this proven strategy, Tuchel hopes to give his team an edge in what is often the most unpredictable aspect of the game.\n\nTuchel's decision to stick with a winning formula is a testament to the enduring legacy of Sir Gareth Southgate, who has been hailed as a pioneer in the field of penalty shootout strategy. As England looks to build on their recent progress and make a deeper run in the World Cup, Tuchel's commitment to this tried and tested approach will be closely watched by fans and pundits alike.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 16:51:55",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-103",
+    "title": "Rutinel Wins Democratic Primary in Colorado House Seat",
+    "slug": "rutinel-wins-democratic-primary-in-colorado-house-seat",
+    "content": "Colorado Democratic Primary Heats Up as Rutinel Edges Out Bird\n\nIn a closely watched Democratic primary, State Rep. Manny Rutinel (D) is poised to secure the nomination to challenge Rep. Gabe Evans (R-Colo.) in the state's 8th Congressional District. According to election projections by Decision Desk HQ, Rutinel is expected to emerge victorious over former state Rep. Shannon Bird (D). This development comes as Evans, a Republican incumbent, is widely regarded as one of the most vulnerable GOP lawmakers up for reelection this year.\n\nRutinel, an attorney and former state representative, has leveraged his experience in the Colorado state legislature to build momentum in the primary campaign. As a seasoned politician, he is well-positioned to take on Evans, who has faced growing criticism for his voting record and policy stances. The Democratic primary has been a closely contested affair, with both candidates vying for the support of party loyalists and progressive activists.\n\nThe outcome of the Democratic primary is expected to have significant implications for the general election, as Colorado's 8th Congressional District is seen as a key battleground in the national struggle for control of the House of Representatives. With Rutinel projected to secure the nomination, the stage is set for a highly competitive contest between the Democratic challenger and the Republican incumbent in November.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/9/2026 16:51:50",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-101",
+    "title": "Jeff Hurd projected to win Colorado GOP primary after Trump endorsement shift",
+    "slug": "jeff-hurd-projected-to-win-colorado-gop-primary-after-trump-endorsement-shift",
+    "content": "Rep. Jeff Hurd (R‑Colo.) is projected to win the Republican primary for Colorado’s 3rd Congressional District, according to the polling aggregator Decision Desk HQ. Hurd, who has served the district since 2017, is facing a primary challenger in Hope Scheppelman, a former state representative and businesswoman who has positioned herself as a more conservative alternative.\n\nPresident Donald Trump’s endorsement of the seat has been a point of contention. Earlier this year, Trump withdrew his support for Hurd after the congressman was criticized for not backing the president’s tariff agenda, describing Hurd’s stance as a “lack of support.” Trump subsequently endorsed Scheppelman, citing her alignment with his policy priorities. The shift in the former president’s backing has added a high‑profile dimension to the primary, though Hurd’s incumbency and fundraising advantage remain significant.\n\nWith the primary scheduled for August, Hurd’s projected lead suggests he will likely secure the nomination, but the Trump‑backed challenge could energize the conservative base and influence the general‑election dynamics. The outcome will determine whether the district remains under Republican control or if the primary contest reshapes the campaign’s trajectory.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/9/2026 16:51:39",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260701-062",
     "title": "Oceans reach hottest June on record as El Niño threatens higher temperatures",
     "slug": "oceans-reach-hottest-june-on-record-as-el-ni-o-threatens-higher-temperatures",
