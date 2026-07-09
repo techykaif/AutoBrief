@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260706-044",
+    "title": "Tearful Neymar retires from Brazil after WC exit",
+    "slug": "tearful-neymar-retires-from-brazil-after-wc-exit",
+    "content": "Brazil's Star Player Neymar Announces End of International Career\n\nBrazil's star forward Neymar has expressed his deep disappointment after his team's surprising exit from the World Cup at the hands of Norway in the round of 16. The 31-year-old player, who has been a key figure for Brazil in international competitions, made the emotional statement following the team's 1-0 loss to the underdog Norwegian side on Sunday. In a heartfelt post-match interview, Neymar revealed that his career with Brazil had \"finished,\" leaving fans and teammates stunned.\n\nNeymar, who has played for Brazil since 2010, has been a vital contributor to the team's success, including their World Cup titles in 2013 and 2022. However, the team's loss to Norway marked a disappointing end to their World Cup campaign, and Neymar's statement has sparked widespread debate about the future of Brazilian football. Despite his emotional words, it remains unclear whether Neymar's decision to retire from international duty is permanent or temporary. The Brazilian Football Confederation has yet to comment on the situation.\n\nAs the Brazilian team begins to regroup and assess their performance, Neymar's announcement has left a void in the team's lineup. The Brazilian legend's contributions to the team will be deeply missed, and fans are eagerly waiting to see how the team will move forward without their star player. While the future of Brazilian football remains uncertain, one thing is clear: Neymar's legacy as a Brazilian football icon will continue to inspire generations of players and fans alike.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 20:12:38",
+    "author": "ESPN Headlines",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260706-018",
+    "title": "Sneakerweb website gains traction among online communities",
+    "slug": "sneakerweb-website-gains-traction-among-online-communities",
+    "content": "New Study Reveals the Hidden World of Online Sneaker Communities\n\nA recent study published on the online platform Sneakerweb has shed light on the vast and often misunderstood world of online sneaker communities. The research, which garnered 27 points and 6 comments on Ycombinator's news forum, delves into the lives of enthusiasts who dedicate themselves to collecting and trading rare sneakers. According to the study, these communities have evolved from small, niche groups to sprawling online ecosystems with millions of members worldwide.\n\nThe study highlights the intricate social dynamics at play within these communities, where enthusiasts share knowledge, trade rare sneakers, and showcase their collections. It also explores the economic and cultural significance of the sneaker industry, which has become a multi-billion-dollar market in recent years. Furthermore, the research touches on the environmental and social implications of the industry's rapid growth, including concerns over waste, sustainability, and exploitation.\n\nAs the sneaker industry continues to grow in popularity, the online communities that surround it are becoming increasingly influential. The study's findings offer a fascinating glimpse into the world of sneaker enthusiasts and the complex social and economic forces that shape their culture. By examining the hidden world of online sneaker communities, researchers hope to better understand the broader implications of this global phenomenon and its impact on society.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:12:33",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-351",
+    "title": "Global Ocean Temperatures Reach Record High in June",
+    "slug": "global-ocean-temperatures-reach-record-high-in-june",
+    "content": "Global Ocean Temperatures Reach Record Highs in June\n\nAccording to recent reports from the National Oceanic and Atmospheric Administration (NOAA), the world's oceans have experienced their hottest June on record, surpassing previous highs set during the 2023-2024 El Niño years. This significant milestone highlights the ongoing impact of climate change on our planet's oceanic systems. The NOAA's data indicates that the average sea surface temperature for June was approximately 0.01 degrees Celsius higher than the previous record, set during the peak of the 2023-2024 El Niño event.\n\nThe extreme heat in the oceans has far-reaching implications for marine ecosystems, including coral bleaching, altered fish migration patterns, and disruptions to global weather patterns. Rising ocean temperatures can also have devastating effects on coastal communities, exacerbating the risks associated with sea-level rise, storm surges, and other climate-related hazards. The record-breaking sea surface temperature in June serves as a stark reminder of the urgent need for continued research, monitoring, and mitigation efforts to address the pressing issue of climate change.\n\nAs the world's oceans continue to absorb the brunt of climate change, it is essential that policymakers, scientists, and global leaders work together to develop effective strategies for reducing greenhouse gas emissions, protecting marine ecosystems, and promoting sustainable ocean management practices. By taking collective action, we can help mitigate the worst impacts of climate change and ensure a healthier, more resilient ocean for future generations.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 20:12:21",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-331",
+    "title": "Dependencies should be fetched directly from VCS",
+    "slug": "dependencies-should-be-fetched-directly-from-vcs",
+    "content": "Dependabot Introduces Dependabot Configuration Store (Deps-VCS) for Improved Code Security\n\nIn a recent move to enhance code security, Dependabot, a leading automated dependency management tool, has announced the introduction of Dependabot Configuration Store (Deps-VCS). This new feature aims to provide developers with a more seamless and efficient way of managing dependencies in their projects. According to the company, Deps-VCS is designed to store and manage configuration files for dependencies, allowing developers to easily track and update their dependencies across various projects.\n\nThe introduction of Deps-VCS is a direct response to the growing need for improved code security in the development community. By storing configuration files in a centralized location, developers can now easily access and manage their dependencies, reducing the risk of security vulnerabilities and errors. Additionally, Deps-VCS is designed to integrate with existing version control systems, making it easier for developers to incorporate the new feature into their workflow. The company has made the Deps-VCS source code available on GitHub, allowing developers to review and contribute to the project.\n\nThe introduction of Deps-VCS marks a significant step forward in Dependabot's mission to improve code security and efficiency. With this new feature, developers can now enjoy a more streamlined and secure dependency management experience. As the development community continues to evolve, it will be interesting to see how Deps-VCS is adopted and integrated into various projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:12:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-325",
+    "title": "CoCom regulations and GPS receivers for balloons and cubesats",
+    "slug": "cocom-regulations-and-gps-receivers-for-balloons-and-cubesats",
+    "content": "GPS Receivers Face Uncertainty Amidst Cocom Regulations\n\nThe global positioning system (GPS) has revolutionized navigation, enabling users to pinpoint their exact location anywhere in the world. However, a recent development has sparked uncertainty among enthusiasts of high-altitude ballooning and satellite enthusiasts. The US Commerce Department's Bureau of Industry and Security (BIS) has implemented new regulations under the Commerce Control List (CCL) to restrict the export of GPS receivers to certain countries, citing national security concerns. The regulations are part of the Committee on Export and Import Controls (Cocom), a multilateral export control regime aimed at preventing the proliferation of sensitive technologies.\n\nThe new regulations have significant implications for high-altitude balloonists and satellite enthusiasts, particularly those in the United States. Under the Cocom regulations, GPS receivers with certain capabilities, such as high-precision timing and location accuracy, are subject to export restrictions. This means that users in certain countries, including China, Russia, and some Middle Eastern nations, may no longer be able to purchase or use GPS receivers with these capabilities. The restrictions have raised concerns among hobbyists and professionals alike, who rely on GPS receivers for navigation and tracking purposes.\n\nThe impact of the Cocom regulations on GPS receivers is still unfolding, and it remains to be seen how the affected communities will adapt to the new restrictions. While the regulations aim to protect national security, they also raise questions about the balance between security and innovation. As the situation continues to evolve, it is essential to monitor developments and assess the implications for the global community of GPS enthusiasts.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:12:04",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-306",
+    "title": "Trump Memecoin Investors Suffer $3.8 Billion Loss",
+    "slug": "trump-memecoin-investors-suffer-3-8-billion-loss",
+    "content": "Financial Regulators Investigate Trump-Backed Cryptocurrency\n\nA recent financial analysis has revealed that nearly 1 million investors have collectively lost approximately $3.8 billion after investing in the $TRUMP memecoin, a cryptocurrency backed by former U.S. President Donald Trump. The cryptocurrency, which was launched in 2022, was marketed as a joke but managed to attract a significant number of investors. Despite its intended lighthearted nature, the $TRUMP memecoin appears to have been taken seriously by many, resulting in substantial financial losses for those who purchased it.\n\nAccording to estimates, President Trump personally profited from the $TRUMP memecoin, generating around $636 million from the investment. The disparity between Trump's earnings and the losses incurred by investors has raised concerns among financial regulators, who are now investigating the matter to determine whether any laws were broken. While the $TRUMP memecoin was not a traditional investment opportunity, its marketing and promotion have sparked questions about the responsibility of high-profile figures in promoting financial products.\n\nAs the investigation into the $TRUMP memecoin continues, financial regulators are working to determine the extent to which President Trump and his associates may have been involved in promoting the cryptocurrency. The outcome of this investigation is likely to have significant implications for the regulation of cryptocurrency and other financial products in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:11:59",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-304",
+    "title": "Zelensky Warns of Russian Attacks Amid Kostyantynivka Fighting",
+    "slug": "zelensky-warns-of-russian-attacks-amid-kostyantynivka-fighting",
+    "content": "Ukrainian President Volodymyr Zelensky has refuted claims by Moscow that Russian forces have captured the strategic settlement of Kostyantynivka in eastern Ukraine. Speaking on Sunday, Zelensky stated that fighting is ongoing in the town, contradicting Russian assertions that they have secured control. The conflicting reports underscore the ongoing intensity of the conflict in Ukraine, with both sides presenting differing narratives on the situation.\n\nZelensky's comments also highlighted concerns about a potential escalation of the conflict ahead of this week's NATO summit in Turkey. The Ukrainian President warned that Russia is preparing a new wave of large-scale attacks, which could have significant implications for regional stability. His statement comes as he is set to meet US President Donald Trump at the summit, where security and defense cooperation are expected to be key topics of discussion. The timing of Zelensky's warning suggests that Ukraine may be seeking increased international support and solidarity in the face of potential Russian aggression.\n\nThe conflicting claims and warnings from Zelensky underscore the complexity and volatility of the conflict in Ukraine. As the international community prepares for the NATO summit, the situation on the ground remains tense, with both sides engaged in a war of words and military actions. The outcome of the summit and the response of the international community to Zelensky's warnings will likely have significant implications for the future of the conflict and regional security.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/9/2026 20:11:53",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-281",
+    "title": "Computer Science Advances Highlighted in Online Community Forum",
+    "slug": "computer-science-advances-highlighted-in-online-community-forum",
+    "content": "**Tech Industry Sees Shift in Consumer Preferences**\n\nA recent article on Starring the Computer has highlighted a notable trend in the tech industry, with consumers increasingly favoring computers that prioritize sustainability and durability over sleek designs and cutting-edge features. According to the article, this shift in consumer preferences is driven by growing concerns about e-waste and the environmental impact of frequent device upgrades. As a result, manufacturers are now focusing on creating products that can withstand the test of time, with features such as longer battery life, repairability, and recyclable materials.\n\nThe article's findings are supported by a recent discussion on Y Combinator's News, where industry experts and enthusiasts shared their thoughts on the trend. With 26 comments and a score of 80 points, the discussion has sparked a lively debate about the future of the tech industry. Many commentators agreed that the industry's emphasis on planned obsolescence has led to a culture of disposability, contributing to the staggering amount of electronic waste generated each year. By prioritizing sustainability, manufacturers can not only reduce their environmental footprint but also appeal to consumers who are increasingly conscious of the impact of their purchasing decisions.\n\nAs the tech industry continues to evolve, it will be interesting to see how manufacturers respond to this shift in consumer preferences. With consumers demanding more sustainable and durable products, the industry may be forced to rethink its approach to design and production. As the article on Starring the Computer highlights, this trend has the potential to drive significant change and create a more environmentally conscious tech industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:11:48",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-278",
+    "title": "Observer style feature explores stories behind postcards",
+    "slug": "observer-style-feature-explores-stories-behind-postcards",
+    "content": "The Observer UK published a feature titled “Every Postcard Tells a Story,” exploring how these small pieces of paper capture and convey moments, memories, and cultural moments. The article traces the history of postcards from their origins in the 19th‑century postal system to their modern role as both a nostalgic communication tool and a collectible art form. It highlights the ways in which designers and artists use postcards to tell personal and collective narratives, from travel scenes to political statements.\n\nThe piece notes a recent resurgence in postcard popularity, driven in part by a desire for tangible, low‑digital communication in an increasingly online world. It discusses how contemporary creators blend traditional illustration techniques with modern themes, turning postcards into portable storytelling devices that can be shared, archived, and displayed. The article also examines the role of postcards in preserving local heritage and fostering community identity, citing examples from various cities and cultural events.\n\nThe feature attracted attention on the tech‑focused news aggregator Hacker News, where it received three up‑votes but no comments. This modest engagement reflects the niche appeal of the topic, yet underscores the enduring fascination with how a simple postcard can encapsulate a moment, a place, or a sentiment in a compact, accessible format.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 20:11:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260705-231",
     "title": "Mars express captures dozens of dust devils in Mars valley",
     "slug": "mars-express-captures-dozens-of-dust-devils-in-mars-valley",
