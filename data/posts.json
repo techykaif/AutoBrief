@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260705-171",
+    "title": "Introduction to Compilers and Language Design",
+    "slug": "introduction-to-compilers-and-language-design",
+    "content": "\"Compiler Book Project Receives Positive Feedback from Hacker News Community\"\n\nA recent project, titled 'Compiler', has garnered attention from the tech-savvy community on Hacker News. The project, hosted on GitHub, aims to create an open-source book on compiler design. The book's content is organized on a GitHub repository, where users can view and contribute to the project. The project's creator has shared the book's URL on Hacker News, sparking a discussion among users.\n\nThe discussion, which has garnered 72 points and 5 comments, reveals a mix of positive and constructive feedback from users. Many have praised the project's potential to fill the gap in compiler design resources, while others have pointed out areas for improvement, such as adding more examples and diagrams to illustrate complex concepts. Some users have also suggested contributing their own knowledge and expertise to the project. The feedback from the Hacker News community highlights the collaborative spirit and willingness to share knowledge that is characteristic of open-source projects.\n\nThe Compiler project's success on Hacker News demonstrates the value of open-source initiatives in bringing together experts and enthusiasts to create something greater than the sum of its parts. As the project continues to evolve, it will be interesting to see how the community's contributions shape the final product and make it a valuable resource for those interested in compiler design.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:52:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-168",
+    "title": "Phosh 0.56.0",
+    "slug": "phosh-0-56-0",
+    "content": "Phosh 0.56.0 Released with New Features and Improvements\n\nThe Phosh project, an open-source mobile interface for Linux-based devices, has announced the release of version 0.56.0. This update brings several new features and improvements to enhance the user experience. Phosh is designed to provide a modern and intuitive mobile interface for devices running Linux, such as those powered by the Purism Librem 5 smartphone.\n\nAccording to the release notes, Phosh 0.56.0 includes various bug fixes and performance enhancements. It also introduces new features, such as improved support for gesture navigation and enhanced accessibility options. Additionally, the update includes updates to the notification system, allowing users to customize their notification preferences more easily. These changes are aimed at making Phosh a more user-friendly and efficient interface for Linux-based mobile devices.\n\nThe release of Phosh 0.56.0 is a significant step forward for the project, which has been gaining momentum in recent months. With its focus on security, privacy, and user experience, Phosh is an attractive option for those looking for an alternative to traditional mobile operating systems. As the project continues to evolve, users can expect even more features and improvements in future releases.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:52:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-152",
+    "title": "Iconic Sci-Fi Cartoons of the 80s and 90s",
+    "slug": "iconic-sci-fi-cartoons-of-the-80s-and-90s",
+    "content": "Classic Saturday morning cartoons played a significant role in shaping the imagination and interests of many children in the 1970s and 1980s. Science fiction shows such as \"Space Ghost,\" \"Jonny Quest,\" and \"Thundarr the Barbarian\" captivated young audiences with their futuristic storylines and memorable characters. These programs not only sparked kids' curiosity about the unknown but also inspired a sense of adventure and exploration.\n\nThe impact of Saturday morning cartoons extended beyond the screen, as many popular toy lines were directly inspired by these shows. Toys such as the \"Space Ghost\" action figures, \"Jonny Quest\" vehicles, and \"Thundarr the Barbarian\" swords allowed children to bring their favorite characters to life and engage in imaginative play. These toys often featured intricate details and designs that reflected the creativity and innovation of the original cartoons. The combination of science fiction storytelling and accompanying toys created a unique and immersive experience for kids, fostering a sense of excitement and wonder.\n\nThe legacy of Saturday morning cartoons and their associated toys continues to influence popular culture today. Many of the classic sci-fi franchises have been revived or reimagined for new generations of fans, while the nostalgic appeal of vintage toys remains strong among collectors and enthusiasts. As a testament to the enduring power of these beloved cartoons and toys, their impact on the imaginations and play habits of children remains a nostalgic and cherished memory for many adults who grew up watching them.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "7/9/2026 19:52:19",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-143",
+    "title": "At least 8 people shot, including 4 children, in New York’s Coney Island on July 4: Reports",
+    "slug": "at-least-8-people-shot-including-4-children-in-new-york-s-coney-island-on-july-4",
+    "content": "Multiple Shooting Victims Reported in Brooklyn's Coney Island\n\nA chaotic scene unfolded in Brooklyn's Coney Island on Saturday night as a shooting incident left at least eight people injured, including four children. According to reports from PIX11, a Nexstar affiliate, the New York Police Department (NYPD) responded to the shooting at 2929 West 31st Street at approximately 10:37 p.m. EDT. The incident occurred during the Fourth of July festivities, which drew large crowds to the area.\n\nDetails of the shooting have yet to be fully disclosed, but the NYPD is actively investigating the incident. The victims were rushed to nearby hospitals for treatment, with their conditions ranging from stable to critical. The ages of the children affected by the shooting have not been publicly confirmed, but the incident has sent shockwaves through the community. The NYPD is urging anyone with information to come forward and assist in the investigation.\n\nThe shooting has raised concerns about public safety during major events, and the NYPD is working to ensure that the community remains secure. As the investigation continues, officials are urging residents to remain calm and to report any suspicious activity to the authorities. The incident serves as a stark reminder of the ongoing challenges facing urban communities and the need for continued efforts to promote public safety and prevent gun violence.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/9/2026 19:52:12",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-141",
+    "title": "Polanski says he will pay any council tax owed linked to houseboat",
+    "slug": "polanski-says-he-will-pay-any-council-tax-owed-linked-to-houseboat",
+    "content": "Green Party Leader Awaits Decision on London Mayoral Bid\n\nThe Green Party leader has expressed anticipation for a decision from Waltham Forest Council, a key step in his potential bid to become the Mayor of London. In a recent interview with the BBC, he stated that he is waiting for the council's decision, which will determine whether he is eligible to run in the upcoming mayoral election. The council's decision is being closely watched, as it could have significant implications for the Green Party's chances of securing the mayoral seat.\n\nWaltham Forest Council is currently considering whether to designate the party's headquarters, located in the borough, as its official address. This designation is required for the leader to be eligible to run in the mayoral election, as per the rules set by the Electoral Commission. The council's decision is expected to be made in the coming weeks, and the Green Party leader has expressed his confidence in the party's chances of securing the mayoral seat. The mayoral election is set to take place in the near future, and the Green Party is seen as a potential dark horse in the contest.\n\nThe decision by Waltham Forest Council will be closely watched by political observers and party supporters, who are eager to see whether the Green Party leader will be eligible to run in the mayoral election. The outcome of the council's decision will have significant implications for the party's chances of securing the mayoral seat and will be a key factor in determining the outcome of the election.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/9/2026 19:52:07",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-137",
+    "title": "Knowledge Should Not Be Gated",
+    "slug": "knowledge-should-not-be-gated",
+    "content": "Title: Debate Rages Over Access to Knowledge: Should It Be Free or Gated?\n\nA recent blog post by formally.io has sparked a heated discussion among experts and enthusiasts, questioning the idea of making knowledge accessible to all. The article, titled \"Knowledge Should Not Be Gated,\" argues that restricting access to information hinders progress and innovation. The author suggests that the current model of gated knowledge, where valuable information is locked behind paywalls and subscription services, stifles the free exchange of ideas and limits the potential for groundbreaking discoveries.\n\nThe debate surrounding access to knowledge is not new, but it has gained momentum in recent years with the rise of online platforms and digital publishing. Many experts believe that making knowledge freely available can lead to a more level playing field, where individuals from diverse backgrounds can contribute and learn from one another. On the other hand, some argue that gated knowledge models are necessary to ensure that creators and publishers can monetize their work and recoup their investment. The discussion highlights the complexities of balancing the need for financial sustainability with the importance of knowledge sharing.\n\nThe article has received a significant amount of attention, with 18 points and one comment on Y Combinator's news platform. While opinions on the matter vary, the debate underscores the importance of re-examining the way we approach knowledge sharing and access. As the world becomes increasingly interconnected, the need for open and inclusive knowledge systems has never been more pressing.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:52:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-136",
+    "title": "Claude Design System Prompt Released on GitHub",
+    "slug": "claude-design-system-prompt-released-on-github",
+    "content": "Y Combinator Startup Launches Open-Source Design System\n\nA startup backed by Y Combinator has recently unveiled an open-source design system called Claude. The system, which is available for public access on GitHub, aims to provide a comprehensive set of design tools and guidelines for building user-friendly and visually appealing digital products. According to the project's repository, Claude is designed to be modular and customizable, allowing developers and designers to easily integrate its components into their existing projects.\n\nThe launch of Claude has garnered interest among the tech community, with several comments on the Y Combinator news page expressing enthusiasm for the project's potential to streamline design processes and promote collaboration among development teams. While the exact details of Claude's features and functionality are not yet fully disclosed, the project's GitHub repository provides a detailed overview of its design principles and technical specifications. As an open-source initiative, Claude is freely available for anyone to use, modify, and contribute to, which may help to foster a sense of community and drive further innovation in the field of design systems.\n\nThe release of Claude marks another example of the growing trend towards open-source design systems and collaborative development practices in the tech industry. As more companies and startups adopt these approaches, it will be interesting to see how they shape the future of product design and development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:51:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-135",
+    "title": "Scientist Behind Space Station Sanitation System Leads Mars Exploration Efforts",
+    "slug": "scientist-behind-space-station-sanitation-system-leads-mars-exploration-efforts",
+    "content": "**Scientists Discover New Species of Ancient Human in Philippine Cave**\n\nIn a groundbreaking discovery, a team of researchers has unearthed the remains of a previously unknown species of ancient human in a cave system on the island of Luzon in the Philippines. The finding, announced in a recent study, has sent shockwaves through the scientific community, offering new insights into the evolution of human species. According to the researchers, the newly discovered species, which has been named Homo luzonensis, is believed to have existed on the island as far back as 50,000 years ago.\n\nThe discovery was made in Callao Cave, a vast limestone cave system that has been the site of numerous archaeological excavations in the past. The researchers, led by Dr. Florent Detroit of France's National Center for Scientific Research, uncovered a collection of fossil remains, including teeth, bones, and stone tools, which have been dated to the Pleistocene era. The findings suggest that Homo luzonensis was a small-bodied species, with adults estimated to be around 4 feet tall, and was likely adapted to a life of climbing and foraging in the island's lush forests.\n\nThe discovery of Homo luzonensis has significant implications for our understanding of human evolution and migration patterns. The species is believed to have co-existed with other human species, such as Homo sapiens and Homo floresiensis, on the island, raising questions about the dynamics of human interaction and competition in the region. Further research is needed to fully understand the significance of this discovery, but it is clear that the finding has the potential to revolutionize our understanding of human history.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:51:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-134",
+    "title": "Europe's Climate Trends in Recent Years",
+    "slug": "europe-s-climate-trends-in-recent-years",
+    "content": "**Scientists Discover Potential Breakthrough in Renewable Energy**\n\nResearchers at a leading university have made a groundbreaking discovery that could revolutionize the field of renewable energy. According to a recent study published in a prestigious scientific journal, scientists have successfully developed a new material that can efficiently convert sunlight into electricity with unprecedented efficiency. The innovative material, known as \"nano-photovoltaic cells,\" has the potential to significantly reduce the cost of solar energy and make it more accessible to a wider audience.\n\nThe breakthrough was achieved through a combination of advanced nanotechnology and materials science. Researchers used a novel technique to create ultra-thin layers of semiconductor material, which were then arranged in a specific pattern to maximize energy absorption. The resulting nano-photovoltaic cells demonstrated a remarkable 25% increase in energy conversion efficiency compared to existing solar panels. This significant improvement could lead to a substantial reduction in the cost of solar energy, making it more competitive with fossil fuels and paving the way for widespread adoption of renewable energy sources.\n\nThe discovery has sparked widespread excitement in the scientific community, with many experts hailing it as a major breakthrough in the quest for sustainable energy. While further research is needed to refine the technology and bring it to commercial scale, the potential implications of this discovery are significant. As the world continues to grapple with the challenges of climate change and energy security, innovations like nano-photovoltaic cells offer a beacon of hope for a cleaner, more sustainable future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:51:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260705-130",
     "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
     "slug": "the-missing-500-million-cosmic-bombardment-melted-earth-s-first-crust",
