@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260701-418",
+    "title": "Defending champion Sinner beats Borges to reach round three",
+    "slug": "defending-champion-sinner-beats-borges-to-reach-round-three",
+    "content": "Italian tennis sensation Jannik Sinner has successfully navigated a challenging first-round match at the ongoing tennis tournament, emerging victorious against Portugal's Nuno Borges on Centre Court. The world number one player faced a stern test, with Borges pushing him to the limits in a highly competitive encounter. Sinner ultimately secured a hard-fought 7-6 (7-4), 7-6 (7-2), 6-4 victory, showcasing his resilience and skill under intense pressure.\n\nThe match was a closely contested affair, with both players trading blows and neither able to gain a decisive advantage until the tiebreakers. Sinner's experience and composure ultimately proved to be the deciding factors, as he capitalized on Borges's mistakes to claim the crucial points. The Italian's victory marks a significant milestone in his campaign, as he advances to the third round of the tournament with renewed confidence.\n\nSinner's progress will undoubtedly be closely monitored by tennis fans and pundits alike, as he looks to build on this impressive win and make a deep run in the competition. With his impressive skillset and determination, the world number one player will be a force to be reckoned with in the coming rounds.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 17:12:29",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-298",
+    "title": "Infant iron supplements linked to fewer behavior problems at age three",
+    "slug": "infant-iron-supplements-linked-to-fewer-behavior-problems-at-age-three",
+    "content": "Research from Umeå University has shed new light on the effects of iron supplementation in breastfed infants. A recent study published in the journal Scientific Reports found that infants who received iron supplementation exhibited fewer aggressive behaviors at the age of 3 compared to those who did not receive supplementation. This finding suggests a potential link between early iron intake and later behavioral development in children.\n\nThe study's findings are significant, as breastfed infants are at a higher risk of iron deficiency due to the limited iron content in breast milk. However, the researchers emphasize that while the results are promising, more research is needed to determine the long-term effects of iron supplementation and to establish whether it should be recommended as a standard practice for all breastfed infants. The current study's results are based on a small sample size and further investigation is required to confirm the findings and identify any potential risks or benefits.\n\nWhile the study's conclusions are intriguing, they also highlight the complexity of infant nutrition and development. As research continues to uncover the intricacies of early childhood development, parents and healthcare professionals can remain informed and up-to-date on the latest recommendations and findings.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/9/2026 17:12:17",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-278",
+    "title": "Medicare Pilot Program Offers Cheaper GLP-1 for Seniors",
+    "slug": "medicare-pilot-program-offers-cheaper-glp-1-for-seniors",
+    "content": "Medicare Announces Temporary GLP-1 Program for Seniors\n\nIn a move aimed at improving healthcare outcomes for older adults, Medicare has introduced a temporary program, Medicare GLP-1, which will provide discounted access to a medication that aids in weight management. Eligible individuals aged 65 and above will be able to obtain the drug at a reduced price of $50. This initiative is expected to benefit seniors who struggle with weight-related issues, such as Kathryn, a 66-year-old retiree from Denver, Colorado. Kathryn has experienced recurring cycles of weight loss and gain throughout her life, leading to unhealthy fluctuations in her weight.\n\nKathryn's situation is not unique, as many seniors face similar challenges. At her heaviest, Kathryn weighed 220 pounds, and the constant weight fluctuations have taken a toll on her overall health. The Medicare GLP-1 program is designed to provide affordable access to a medication that can help stabilize weight and improve overall well-being. By addressing weight-related issues, this program aims to reduce the risk of associated health problems, such as diabetes, heart disease, and certain types of cancer.\n\nThe temporary Medicare GLP-1 program is a significant step towards improving healthcare outcomes for seniors. By providing affordable access to a medication that aids in weight management, Medicare is demonstrating its commitment to addressing the unique healthcare needs of older adults. As the program rolls out, it is expected to have a positive impact on the lives of many seniors, including Kathryn, who hopes to finally break the cycle of weight loss and gain.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 17:12:09",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-274",
+    "title": "NASA's Curiosity Rover Explores Light-Toned Unit on Mars",
+    "slug": "nasa-s-curiosity-rover-explores-light-toned-unit-on-mars",
+    "content": "NASA's Curiosity Rover Explores Light-Toned Terrain on Mars\n\nIn a recent development, the Curiosity Rover has entered a new phase of its Martian exploration, focusing on a light-toned unit that appears smooth from earlier rover positions. According to a report from the Space Science Institute, the rover's planning cycles, which took place on two separate Mondays, have been aimed at exploring this intriguing geological feature. The unit, as observed from orbital imagery, presents a unique light-toned appearance, sparking curiosity among scientists and researchers.\n\nThe Curiosity Rover has been studying this unit, which has been identified as a distinct geological feature, since its arrival on the Martian surface. The rover's advanced instruments have been collecting data and conducting experiments to gain a deeper understanding of the unit's composition and characteristics. The findings from this research are expected to provide valuable insights into the Martian geology and the planet's history. The smooth appearance of the unit from earlier rover positions suggests that it may have undergone significant changes over time, making it an exciting area of study for scientists.\n\nAs the Curiosity Rover continues to explore the Martian terrain, its discoveries are shedding new light on the planet's geological history and the potential for life on Mars. The ongoing research efforts are a testament to the rover's capabilities and the dedication of the scientific community to unraveling the mysteries of the Red Planet.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 17:12:02",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-267",
+    "title": "Open-Source Ray Tracer Implemented in SQL",
+    "slug": "open-source-ray-tracer-implemented-in-sql",
+    "content": "ClickHouse Developers Create Open-Source Ray Tracer\n\nIn a recent development, the team behind the popular open-source column-store database management system ClickHouse has created an open-source ray tracer. The project, which has been made available on GitHub, is designed to visualize complex 3D scenes and simulate real-world lighting effects. This move reflects the team's continued commitment to innovation and community engagement.\n\nAccording to the GitHub repository, the ClickHouse ray tracer is built using C++ and utilizes the ClickHouse database as its rendering engine. This allows users to leverage the power of ClickHouse's column-store architecture to efficiently render complex scenes. The project's developers have also shared a link to a Hacker News discussion, where users can provide feedback and engage with the community. With 17 points and 2 comments on Hacker News, the project has already garnered attention from the tech community.\n\nThe ClickHouse ray tracer is expected to have applications in various fields, including computer-aided design, scientific visualization, and gaming. As an open-source project, it is also likely to attract contributions from developers and researchers interested in rendering and visualization. The ClickHouse team's latest initiative showcases the potential for interdisciplinary collaboration and innovation in the tech industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 17:11:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-266",
+    "title": "GolemUI: Open-Source Library for Dynamic Form Generation",
+    "slug": "golemui-open-source-library-for-dynamic-form-generation",
+    "content": "**Open Source Library Revolutionizes Dynamic Form Generation**\n\nA team of experienced developers has released GolemUI, an Open Source library designed to simplify the process of generating forms dynamically from JSON definitions. This innovative tool has been in the making for over a decade, with its creators combining their expertise in forms and Open Source to bring forth a comprehensive solution. GolemUI offers a wide range of features that cater to the needs of developers, including a JSON engine, a library of headless components, and a typed authoring layer.\n\nThe library's core functionality is centered around a JSON engine, which allows users to define forms using a JSON schema that can be stored in a database, versioned, or even generated using Large Language Models (LLMs). Additionally, GolemUI provides 28 headless components that can be styled using CSS variables, as well as APIs for integrating with popular frameworks such as Material and Shoelace. The library also boasts a deterministic Model-Component-Processor (MCP) that enables validation, JSON generation, and code generation, ensuring that the definition returned by the LLM is always valid. Furthermore, GolemUI supports multiple rendering engines, including React, Angular, Vue, Lit, and Vanilla JS.\n\nThe release of GolemUI marks a significant milestone in the world of dynamic form generation, offering developers a powerful and flexible tool that can simplify their workflow. As the library continues to grow and evolve, its creators are eager to receive feedback and engage with the community, with a comments thread available on Y Combinator's news site. With its impressive feature set and Open Source nature, GolemUI is poised to make a lasting impact on the development landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 17:11:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260701-264",
+    "title": "Meta loses bid to dismiss states' lawsuit over Facebook and Instagram's impact on children",
+    "slug": "meta-loses-bid-to-dismiss-states-lawsuit-over-facebook-and-instagram-s-impact-on",
+    "content": "A federal judge in New York on June 30 rejected Meta Platforms’ attempt to dismiss a lawsuit filed by several U.S. states alleging that the company’s Facebook and Instagram services are designed to addict children. The court ruled that the plaintiffs’ claims are sufficiently plausible to allow the case to proceed, meaning the states will continue to pursue their allegations that Meta’s platforms harm minors through addictive design features.\n\nThe lawsuit, brought by states such as California, New York, and Illinois, contends that Meta’s algorithms, notifications, and content‑curation practices exploit psychological vulnerabilities in young users, encouraging prolonged and compulsive use. Meta’s defense argued that the claims were speculative and lacked concrete evidence, but the judge found the allegations to be credible enough to warrant further examination. The court’s decision does not determine liability; it simply permits the litigation to move forward to discovery and potential trial.\n\nThis ruling follows a wave of regulatory and legal scrutiny over social‑media companies’ impact on youth. If the states succeed, they could secure substantial damages and compel Meta to implement stricter safeguards for minors. The case underscores the growing pressure on tech firms to address concerns about addictive design and its effects on young audiences.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 17:11:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260701-256",
     "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
     "slug": "anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administration",
