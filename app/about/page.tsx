@@ -1,6 +1,7 @@
 import Link from "next/link"
+import Image from "next/image"
 import type { Metadata } from "next"
-import { Zap, Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "lucide-react"
+import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 
 const SITE_URL = "https://autobrief-ai.netlify.app"
@@ -68,8 +69,14 @@ export default function AboutPage() {
 
           {/* Hero */}
           <section className="text-center mb-20">
-            <div className="flex items-center justify-center w-16 h-16 rounded-2xl bg-primary mx-auto mb-6">
-              <Zap className="w-8 h-8 text-primary-foreground" />
+            <div className="flex items-center justify-center w-24 h-24 mx-auto mb-6">
+              <Image 
+                src="/logo.png" 
+                alt="AutoBrief Logo" 
+                width={96} 
+                height={96} 
+                className="w-full h-full object-contain drop-shadow-2xl" 
+              />
             </div>
 
             <Badge variant="secondary" className="mb-4">Non-profit · Ad-free · Open</Badge>

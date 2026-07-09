@@ -3,10 +3,11 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useState, useEffect } from "react"
-import { Zap, X, Menu, Home, LayoutGrid, Activity, Info } from "lucide-react"
+import { X, Menu, Home, LayoutGrid, Activity, Info } from "lucide-react"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { SearchDialog } from "@/components/search-dialog"
 import { cn } from "@/lib/utils"
+import Image from "next/image"
 
 const NAV_LINKS = [
   { href: "/",           label: "Home",       icon: Home },
@@ -36,9 +37,13 @@ export function Header() {
 
             {/* Logo */}
             <Link href="/" className="flex items-center gap-2">
-              <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-primary">
-                <Zap className="w-5 h-5 text-primary-foreground" />
-              </div>
+              <Image 
+                src="/logo.png" 
+                alt="AutoBrief Logo" 
+                width={32} 
+                height={32} 
+                className="w-8 h-8 object-contain" 
+              />
               <span className="text-xl font-bold text-foreground">AutoBrief</span>
             </Link>
 

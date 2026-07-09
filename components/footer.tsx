@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Zap } from "lucide-react"
+import Image from "next/image"
 
 export function Footer() {
   const currentYear = new Date().getFullYear()
@@ -12,9 +12,13 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-primary">
-                <Zap className="w-5 h-5 text-primary-foreground" />
-              </div>
+              <Image 
+                src="/logo.png" 
+                alt="AutoBrief Logo" 
+                width={32} 
+                height={32} 
+                className="w-8 h-8 object-contain" 
+              />
               <span className="text-xl font-bold text-foreground">AutoBrief</span>
             </Link>
 
