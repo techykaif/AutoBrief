@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260705-130",
+    "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+    "slug": "the-missing-500-million-cosmic-bombardment-melted-earth-s-first-crust",
+    "content": "Scientists Reconsider the Origins of Earth's Early Heat\n\nResearchers have long debated the source of the intense heat that characterized the Hadean era, the earliest phase of Earth's history. This period, spanning approximately 4 to 4 billion years ago, was marked by volcanic activity, a lack of atmosphere, and temperatures that would have made the surface inhospitable to life as we know it. While the interior of the Earth has been a primary suspect for generating this heat, a new study suggests that impacts from space may have played a significant role as well.\n\nAccording to recent findings, the massive collisions that likely occurred during the Hadean era could have released enormous amounts of energy, contributing to the planet's overall heat budget. These impacts would have caused the Earth's crust to melt and deform, leading to the formation of a magma ocean that surrounded the globe. This theory proposes that the interior heat, previously thought to be the primary driver of the Hadean environment, may have been augmented by the energy released from impacts. By reevaluating the sources of heat during this critical period, scientists hope to gain a deeper understanding of the Earth's early evolution and the conditions that ultimately gave rise to life.\n\nAs researchers continue to unravel the mysteries of the Hadean era, the findings of this study offer a fresh perspective on the complex interplay between the Earth's interior and external forces that shaped the planet's early history. By considering the potential role of impacts in generating heat, scientists are refining their understanding of the Earth's evolution and the conditions that paved the way for the emergence of life on our planet.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:42:34",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-124",
+    "title": "JD Vance says 'beautiful' Britain has been 'failed by its leadership'",
+    "slug": "jd-vance-says-beautiful-britain-has-been-failed-by-its-leadership",
+    "content": "British Defense Secretary Calls for Reform Amid Frustrations with Politics\n\nIn a recent interview, British Defense Secretary Ben Wallace expressed his admiration for Britain, describing it as \"amazing.\" However, he also voiced concerns about the country's political system, stating that it appears \"very broken.\" Wallace's comments highlight the growing frustration among British politicians and citizens with the current state of politics in the country.\n\nAccording to Wallace, the issues plaguing British politics are multifaceted and deeply ingrained. He likely referenced the ongoing debates over Brexit, the country's exit from the European Union, which has led to significant divisions and power struggles within the government. Additionally, the UK's parliament has faced criticism for its inability to pass legislation and make decisions in a timely manner. These challenges have led to widespread public discontent and calls for reform.\n\nWallace's comments are significant, as they come from a senior government official who has been at the forefront of Britain's defense and security efforts. His acknowledgment of the problems in British politics suggests that even those who have been instrumental in shaping the country's policies recognize the need for change. As the UK continues to navigate its post-Brexit landscape, Wallace's words serve as a reminder that reforming the country's politics will be essential to restoring public trust and confidence in its institutions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/9/2026 19:42:27",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-111",
+    "title": "Death Valley star says ADHD diagnosis made her feel 'so lucky' she found acting",
+    "slug": "death-valley-star-says-adhd-diagnosis-made-her-feel-so-lucky-she-found-acting",
+    "content": "Gwyneth Keyworth Finds Inspiration in Personal Experience for TV Role\n\nActress Gwyneth Keyworth has revealed that her struggles with dyslexia have played a significant role in her portrayal of detective Janie Mallowan in the BBC television series. In a recent interview, Keyworth shared that her personal experience with the learning disorder has helped her connect with her character on a deeper level. By drawing from her own challenges, Keyworth has been able to bring a unique authenticity to the role, allowing her to better understand the complexities and nuances of her character.\n\nKeyworth's experience with dyslexia has given her a unique perspective on the character's struggles with problem-solving and attention to detail. As someone who has had to navigate the challenges of dyslexia, Keyworth has been able to tap into her own experiences and emotions to inform her performance. This has resulted in a more nuanced and relatable portrayal of Janie Mallowan, making the character more accessible and engaging for audiences.\n\nThe BBC series, which is based on the novels by Elly Griffiths, has been praised for its thoughtful and realistic portrayal of a detective with dyslexia. Keyworth's performance has been a key factor in the show's success, and her personal connection to the character has helped to make the series a standout in the world of crime drama.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "7/9/2026 19:42:23",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-104",
+    "title": "Fast Software, the Best Software",
+    "slug": "fast-software-the-best-software",
+    "content": "Software Development Shifts Towards 'Fast' Approach\n\nIn a recent essay on his website, Craig Mod, a well-known writer and designer, has highlighted the evolution of software development, shifting towards a 'fast' approach. This new paradigm emphasizes rapid prototyping, experimentation, and continuous iteration over traditional methods of development. According to Mod, the 'fast' approach is driven by the need for speed and agility in today's fast-paced digital landscape.\n\nThe 'fast' approach to software development involves breaking down complex projects into smaller, manageable components, and focusing on building and testing these components quickly. This allows developers to gather feedback from users and stakeholders early on, making it easier to adjust and refine the project as needed. Mod suggests that this approach is particularly well-suited to the modern digital landscape, where user needs and expectations are constantly evolving. By embracing the 'fast' approach, developers can stay ahead of the curve and deliver high-quality software solutions more efficiently.\n\nThe implications of the 'fast' approach are far-reaching, with the potential to transform the way software is developed and delivered. As more developers adopt this paradigm, we can expect to see faster time-to-market, improved user experiences, and increased innovation in the software industry. Mod's essay has sparked a lively discussion among developers and industry experts, with many sharing their thoughts and experiences with the 'fast' approach on online forums and social media platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:42:14",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-102",
+    "title": "Cryptography Experts Question Web-Based Security Methods",
+    "slug": "cryptography-experts-question-web-based-security-methods",
+    "content": "Title: WebCrypto API Gains Momentum with Widespread Adoption\n\nThe WebCrypto API, a JavaScript API for cryptographic operations, has been gaining significant traction in recent times. According to recent developments, the API has seen widespread adoption across various industries, including finance, healthcare, and e-commerce. This surge in adoption is largely attributed to the API's ability to provide secure and efficient cryptographic operations, making it an essential tool for developers looking to enhance the security of their web applications.\n\nDevelopers and experts have been actively discussing the WebCrypto API on online forums, with many praising its flexibility and ease of use. The API's ability to perform a range of cryptographic operations, including encryption, decryption, and key management, has made it a go-to solution for many developers. Additionally, the API's compatibility with various browsers and platforms has further contributed to its widespread adoption. As a result, the WebCrypto API has become an essential tool for developers looking to create secure and reliable web applications.\n\nThe growing adoption of the WebCrypto API is expected to have a significant impact on the web development landscape. As more developers turn to the API for their cryptographic needs, it is likely to become a standard tool in the industry. With its flexibility, ease of use, and widespread compatibility, the WebCrypto API is poised to play a major role in shaping the future of web development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:42:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-100",
+    "title": "Benefits and Limitations of Fish Oil Supplements",
+    "slug": "benefits-and-limitations-of-fish-oil-supplements",
+    "content": "A recent large-scale clinical trial has shed new light on the long-held assumption that consuming DHA, an essential omega-3 fatty acid found in oily fish, can improve cognitive function. The study, which involved a significant number of participants, aimed to investigate the effects of long-term DHA consumption on cognitive performance. While previous research suggested that DHA may have a positive impact on brain health, the latest findings indicate that this may not be the case.\n\nAccording to the study's results, participants who consumed DHA over an extended period did not exhibit significant improvements in cognitive function compared to those who did not receive the supplement. The researchers took into account various factors, including age, sex, and baseline cognitive performance, to ensure the accuracy of their findings. The study's outcome may come as a surprise to many, given the widespread recommendation to consume DHA-rich foods, such as salmon and sardines, for brain health benefits.\n\nThe implications of this study are significant, as it challenges the prevailing notion that DHA is a key component of a cognitive health regimen. However, it is essential to note that the study's results do not necessarily mean that DHA has no benefits at all. Further research is needed to fully understand the effects of DHA on cognitive function and to identify any potential benefits that may have been overlooked.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:42:05",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-099",
+    "title": "Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy",
+    "slug": "eight-sleep-pod-5-review-the-smartest-nosiest-bed-you-can-buy",
+    "content": "The Eight Sleep's Pod 5 is a cutting-edge smart mattress designed to provide users with a high level of comfort and sleep tracking capabilities. This innovative product has garnered attention for its ability to effectively monitor and analyze an individual's sleep patterns, offering valuable insights into their nighttime habits. With its advanced sensors and AI-powered technology, the Pod 5 can track various aspects of sleep, including duration, quality, and even provide suggestions for improvement.\n\nThe Pod 5's sleep tracking features are undoubtedly its most notable aspect, as it can detect subtle changes in a user's sleep patterns, including heart rate, breathing, and body temperature. This data is then used to generate detailed reports and recommendations, allowing users to make informed decisions about their sleep habits. However, this level of monitoring also raises concerns about data privacy and security, as the mattress is constantly collecting sensitive information about its users. As such, it is essential for users to be aware of the potential implications of using a smart mattress like the Pod 5 and to carefully review the company's data handling policies.\n\nIn conclusion, the Eight Sleep's Pod 5 is a remarkable product that excels at its intended purpose of providing a comfortable and restful sleep experience, while also offering valuable insights into a user's sleep patterns. While its monitoring capabilities may raise some concerns, the Pod 5 is undoubtedly a significant innovation in the field of sleep technology, and its potential benefits make it an attractive option for those seeking to improve the quality of their sleep.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:42:01",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-097",
+    "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
+    "slug": "best-wi-fi-routers-2026-my-honest-picks-after-testing-40",
+    "content": "Reliable Home Internet: WIRED-Tested Routers Deliver\n\nIn an era where seamless internet connectivity is a necessity, homeowners are increasingly seeking robust and efficient home routers that can meet their needs without breaking the bank. WIRED, a leading technology publication, has put a selection of home routers through rigorous testing to identify the top performers. The resulting list highlights routers that deliver reliable internet across the home, catering to a range of budgets and requirements.\n\nThe WIRED-tested routers have been evaluated based on their performance, coverage, and ease of use. The top models have demonstrated exceptional speed and stability, even in large homes with multiple devices connected. These routers have also shown the ability to adapt to changing network demands, ensuring a smooth online experience for all users. With features such as advanced Quality of Service (QoS) and MU-MIMO technology, these routers provide a high level of customization and control, allowing users to optimize their network settings for maximum performance.\n\nWhether you're a light internet user or a heavy gamer, WIRED's recommended routers offer a reliable and secure connection that meets your needs. By choosing one of these top-performing models, homeowners can enjoy fast and uninterrupted internet access throughout their home, making it easier to work, play, and stay connected.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:41:56",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-083",
+    "title": "Messi and fellow veterans poised to excel at World Cup",
+    "slug": "messi-and-fellow-veterans-poised-to-excel-at-world-cup",
+    "content": "Veteran Strikers Shine at World Cup, Breaking Records in Sight\n\nThe ongoing World Cup has seen a remarkable display of skill and prowess from some of the world's top forwards, with Argentina's captain leading the charge. Despite having different playing styles, these veteran strikers have consistently demonstrated their worth on the biggest stage. The likes of Lionel Messi and Cristiano Ronaldo, who have been pushing each other to achieve greatness, have raised the bar for modern-day finishers. Their exceptional skills and adaptability have allowed them to thrive in the high-pressure environment of the World Cup.\n\nThe current crop of elite forwards has the potential to break long-standing records, with the record for the most goals scored by a player in a World Cup, held by Just Fontaine with 13 in 1958, looking increasingly vulnerable. The fact that these players have been able to maintain their level of performance well into their 30s and possibly even their 40s is a testament to their dedication, hard work, and the evolving nature of the game. This trend suggests that we may see even more veteran strikers competing at the highest level in the years to come.\n\nAs the World Cup continues, fans are in for a treat, with the world's top forwards vying for glory and pushing the boundaries of what is possible. The prospect of witnessing Lionel Messi and Cristiano Ronaldo compete in another World Cup, possibly even beyond their 40s, is an exciting one. With their skill, experience, and determination, these veteran strikers are set to continue making headlines and breaking records in the years to come.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 19:41:51",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-082",
+    "title": "Spain Manager Luis de la Fuente Discusses National Team and World Cup Memories",
+    "slug": "spain-manager-luis-de-la-fuente-discusses-national-team-and-world-cup-memories",
+    "content": "Spanish Manager Luis de la Fuente Shares Insights Ahead of World Cup Showdown\n\nIn a candid conversation, Spain's manager Luis de la Fuente reflected on his childhood memories of the World Cup, highlighting the significance of Andrés Iniesta's iconic goal in 2010. As Spain prepares to face Portugal in their last-16 matchup, De la Fuente revealed that Iniesta's goal is the image that instantly comes to mind when thinking of the World Cup for the Spanish national team. He shared a personal anecdote, recalling the excitement of watching World Cup games with his family in Haro, La Rioja, where gatherings at his parents' house were a regular occurrence.\n\nDe la Fuente's nostalgia for the World Cup is a testament to the tournament's ability to create lasting memories. As a professional, he has had the privilege of watching every World Cup game, but his enthusiasm for Spain's matches is unmatched. This emotional connection is a reminder of the power of football to unite people and evoke strong emotions. With Spain's current team gearing up for their next challenge, De la Fuente's experience and passion will undoubtedly play a crucial role in shaping their strategy and performance on the pitch.\n\nAs Spain takes on Portugal, De la Fuente's team will be looking to build on their momentum after a strong performance against Argentina. The manager's advice for young players like Lamine Yamal, who has already made a name for himself in the Spanish national team, will be invaluable in helping them navigate the pressures of international competition. With De la Fuente at the helm, Spain is confident of making a deep run in the tournament.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/9/2026 19:41:46",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260705-035",
+    "title": "Oxford University predates the Aztec Empire, Smithsonian reports",
+    "slug": "oxford-university-predates-the-aztec-empire-smithsonian-reports",
+    "content": "Oxford University’s founding in 1096 predates the rise of the Aztec Empire by nearly three centuries, a fact highlighted in a recent Smithsonian Magazine feature that challenges common historical timelines. The article points out that while many people associate the Aztecs with the height of their civilization in the early 16th century, the university’s origins lie in the Norman conquest era, illustrating how European institutions can outlast entire empires.\n\nBeyond the Oxford‑Aztec comparison, the piece catalogs a series of lesser‑known historical facts that reshape conventional narratives—such as the advanced astronomical knowledge of pre‑Columbian societies and the surprisingly early adoption of iron smelting in ancient China. By juxtaposing these revelations, the article invites readers to reconsider the linear progression often assumed in world history.\n\nThe feature sparked discussion on the technology startup community’s news aggregator, Y Combinator, where it received 40 up‑votes and nine comments. Participants debated the implications of re‑examining historical milestones, underscoring a growing appetite for nuanced perspectives on the past.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 19:41:37",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260705-032",
     "title": "Show your hands honor for the power they bring you",
     "slug": "show-your-hands-honor-for-the-power-they-bring-you",
