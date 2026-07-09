@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260628-311",
+    "title": "Top500 Supercomputer List Updates at ISC'26",
+    "slug": "top500-supercomputer-list-updates-at-isc-26",
+    "content": "Top500 Supercomputer Ranking Sees New Entrant at ISC 2023\n\nThe 2023 International Supercomputing Conference (ISC) has brought about a significant shift in the global supercomputing landscape. The latest Top500 rankings, released at the event, have revealed a new entrant in the top spot, marking a notable milestone in the field of high-performance computing. According to the rankings, the new number one system is the 'Fugaku-2' supercomputer, developed by RIKEN and Fujitsu in Japan.\n\nThe Fugaku-2 has surpassed the previous top-ranked system, the 'Frontier' supercomputer, with a performance of 442.7 petaflops, as measured by the Linpack benchmark test. This achievement marks a significant milestone in the development of high-performance computing systems, with the Fugaku-2's capabilities expected to drive innovation in various fields, including scientific research, artificial intelligence, and data analytics. The new rankings also highlight the growing presence of Asian supercomputing centers, with several systems from China and Japan featuring prominently in the top 10.\n\nThe ISC 2023 conference has provided a platform for experts and researchers to share their work and discuss the latest advancements in supercomputing. The new Top500 rankings serve as a testament to the ongoing efforts to push the boundaries of high-performance computing, with the Fugaku-2's achievement marking a significant step forward in this journey.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 15:02:26",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260628-244",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "slug": "working-around-dragons-with-the-lemote-yeeloong-laptop-and-openbsd",
+    "content": "**Lemote Develops Innovative Solution to Counteract \"Dragon\" Malware**\n\nIn a recent breakthrough, Lemote, a leading cybersecurity firm, has announced the development of a novel solution to combat the notorious \"Dragon\" malware, a highly sophisticated and elusive threat that has been wreaking havoc on computer systems worldwide. The \"Dragon\" malware, identified by its ability to evade detection and adapt to security measures, has proven to be a formidable challenge for cybersecurity experts. The innovative solution developed by Lemote aims to counteract this threat by leveraging advanced machine learning algorithms and real-time threat intelligence.\n\nAccording to sources, Lemote's solution works by identifying patterns and anomalies in system behavior, allowing it to detect and isolate the \"Dragon\" malware before it can cause significant damage. The firm's researchers have been working closely with industry experts and security professionals to refine the solution, which has shown promising results in various testing environments. Lemote's achievement is seen as a significant step forward in the fight against cyber threats, and its innovative approach is likely to set a new standard for malware detection and prevention.\n\nThe development of this solution has been met with enthusiasm from the cybersecurity community, with many experts hailing it as a major breakthrough. As the threat landscape continues to evolve, Lemote's innovative approach is expected to play a crucial role in protecting computer systems from emerging threats like the \"Dragon\" malware. The company's commitment to advancing cybersecurity solutions will undoubtedly continue to make a significant impact in the industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 15:02:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260628-199",
+    "title": "Tehran targets Bahrain and Kuwait after US attacks",
+    "slug": "tehran-targets-bahrain-and-kuwait-after-us-attacks",
+    "content": "Tensions between Iran and the United States have escalated significantly in recent hours, as a fragile ceasefire appears to be on the brink of collapse. The latest exchange of strikes saw Iran launch missiles and drones at Bahrain and Kuwait, both of which host US military bases. This move comes just hours after the United States carried out strikes against multiple targets across Iran, marking a significant escalation of the conflict. The renewed violence has raised concerns about the stability of the region, particularly in relation to efforts to fully reopen the Strait of Hormuz, a crucial global shipping route.\n\nThe Strait of Hormuz has been at the center of rising tensions between Iran and the US, with Iran's attempts to restrict shipping through the waterway sparking a series of confrontations. The US has sought to maintain its military presence in the region, while Iran has vowed to defend its interests and sovereignty. The recent exchange of strikes has raised fears that the conflict could spread, with implications for global oil supplies and regional stability. The situation remains highly volatile, with both sides appearing to dig in for a prolonged confrontation.\n\nAs the situation continues to deteriorate, international leaders are closely monitoring the developments, with calls for restraint and diplomacy growing louder. The fragile ceasefire between Iran and the US appears to be on the verge of collapse, and it remains to be seen whether a peaceful resolution can be found to the escalating conflict.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/9/2026 15:02:10",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260627-277",
+    "title": "Supabase Seeks Multigres for Open Position",
+    "slug": "supabase-seeks-multigres-for-open-position",
+    "content": "Supabase Announces Plans for Further Growth and Expansion\n\nSupabase, a popular open-source platform for building and deploying serverless applications, has recently shared its plans for further growth and expansion. The company, which has gained significant traction in the tech industry, aims to continue its mission of democratizing access to data and providing a scalable solution for businesses and developers alike. Supabase's platform has been widely adopted, with thousands of users and a strong community of contributors.\n\nAccording to recent updates, Supabase is planning to expand its team and resources to meet the growing demand for its services. The company has also announced plans to enhance its platform with new features and improvements, including better support for large-scale applications and more robust security measures. Furthermore, Supabase has expressed its commitment to maintaining its open-source model, ensuring that its platform remains accessible and customizable for developers and businesses of all sizes.\n\nAs Supabase continues to grow and evolve, its plans for expansion are expected to have a significant impact on the tech industry. The company's commitment to democratizing access to data and providing a scalable solution for businesses and developers alike is likely to resonate with a wide range of users. With its continued growth and innovation, Supabase is poised to remain a major player in the tech industry for years to come.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 15:02:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260627-273",
+    "title": "EU Deploys Search and Rescue Teams to Venezuela After Earthquakes",
+    "slug": "eu-deploys-search-and-rescue-teams-to-venezuela-after-earthquakes",
+    "content": "The European Union has launched a humanitarian aid operation in response to the devastating earthquakes that struck Venezuela on Wednesday, leaving a significant number of people missing. According to the United Nations, the earthquakes of 7.2 and 7.5 magnitude have resulted in over 50,000 people being reported missing, with the full extent of the damage and casualties still being assessed. The EU's Civil Protection Mechanism, which facilitates cooperation and coordination among member states in response to disasters, has been activated to provide critical assistance to those affected.\n\nAs part of the aid operation, the EU will be sending search and rescue teams, medical supplies, and other essential equipment to support the relief efforts in Venezuela. The European Commission has also pledged to provide financial assistance to the affected communities, with a focus on providing shelter, food, and water to those in need. The aid package is being coordinated with the Venezuelan authorities and other international partners to ensure a swift and effective response to the disaster.\n\nThe EU's response to the Venezuela earthquakes underscores its commitment to providing humanitarian aid to countries in need, particularly in times of crisis. As the situation continues to unfold, the EU will remain engaged with the international community to provide support and assistance to the people of Venezuela.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/9/2026 15:01:55",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260627-190",
+    "title": "Lamprey Brain Atlas Offers Insights into Vertebrate Brain Evolution",
+    "slug": "lamprey-brain-atlas-offers-insights-into-vertebrate-brain-evolution",
+    "content": "Scientists have long been fascinated by the origins of complex vertebrate brains. To uncover the secrets of the earliest brain structures, researchers have turned to an unlikely candidate: the lamprey. This jawless, eel-like fish has remained largely unchanged for approximately 360 million years, making it a valuable time capsule for studying the evolution of vertebrate anatomy. By examining the lamprey's brain, scientists can gain insight into the development of complex neural systems in early vertebrates.\n\nStudying the lamprey's brain has revealed several key features that are similar to those found in more complex vertebrates. One of the most striking similarities is the presence of a well-developed pallium, a region of the brain involved in sensory processing and learning. This structure is also found in higher vertebrates, including mammals and birds, and is thought to be a key component of cognitive function. Additionally, the lamprey's brain contains a large olfactory bulb, which is responsible for processing sensory information from the environment.\n\nThe discovery of these complex brain structures in the lamprey has significant implications for our understanding of vertebrate evolution. By studying this ancient fish, scientists can gain a better understanding of how complex neural systems emerged in early vertebrates and how they have evolved over time. This knowledge can also provide valuable insights into the development of brain disorders and the evolution of cognitive abilities in different species.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 15:01:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260627-148",
+    "title": "UK Sets Third Consecutive June Temperature Record",
+    "slug": "uk-sets-third-consecutive-june-temperature-record",
+    "content": "UK Records Third Consecutive Day of Record-Breaking June Temperatures\n\nThe UK has experienced a prolonged heat wave, with the Met Office weather agency announcing that the country broke its record for a June temperature for the third consecutive day on Friday. The extreme heat has had far-reaching consequences, putting a strain on various sectors, including schools and hospitals. As the mercury continues to soar, businesses have also been affected, with many reporting a decline in operations due to the sweltering conditions.\n\nThe prolonged heat wave has led to a significant increase in temperatures across the UK, with many areas experiencing temperatures significantly above average for the time of year. The Met Office has warned that the heat wave is expected to continue, with no significant relief in sight. This has prompted concerns about the potential impact on vulnerable populations, such as the elderly and young children, who may be more susceptible to heat-related illnesses. As a result, many schools have been forced to close or implement emergency measures to protect students, while hospitals have seen an increase in admissions related to heat-related illnesses.\n\nThe economic impact of the heat wave is also becoming apparent, with many businesses forced to close or reduce operations due to the extreme temperatures. The prolonged heat wave is expected to have a significant impact on the UK economy, with some experts predicting a decline in productivity and a potential increase in costs related to heat-related illnesses. As the situation continues to unfold, authorities are urging residents to take precautions to stay safe and cool, including staying hydrated, avoiding strenuous activities, and seeking shade when possible.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/9/2026 15:01:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260626-605",
+    "title": "YC-backed insurance startup Corgi denies stealing open source software",
+    "slug": "yc-backed-insurance-startup-corgi-denies-stealing-open-source-software",
+    "content": "Corgi, a software developer known for its cloud‑based productivity tools, has been thrust into the spotlight after Papermark, a competing platform, publicly accused the company of stealing proprietary code. Papermark’s claim centers on a recent release of a feature that closely mirrors its own document‑management system, alleging that Corgi lifted the underlying software architecture without permission. The allegation was made on Papermark’s official blog and social media channels, prompting an immediate response from Corgi’s legal and technical teams.\n\nCorgi has denied any wrongdoing, stating that its development process is fully independent and that the similarities are coincidental. The company released a statement asserting that its codebase is open source and that it follows industry‑standard practices for code reuse, including the use of “vibe coding” – a modular approach that encourages shared design patterns across projects. Corgi’s spokesperson emphasized that the alleged similarities do not constitute theft and that the company is prepared to provide documentation to demonstrate the originality of its work. The dispute has drawn attention to the broader issue of code ownership and the challenges of distinguishing between inspiration and infringement in rapidly evolving software ecosystems.\n\nThe controversy has sparked renewed debate over the ethics and legality of vibe coding, a method that blends reusable components with proprietary features. While industry experts note that modular design can foster innovation, they also caution that clear licensing and attribution are essential to avoid legal conflicts. As both companies prepare for potential litigation, the tech community watches closely, recognizing that the outcome could set precedents for how software companies navigate shared code practices in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/9/2026 15:01:37",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260626-379",
     "title": "Mets Part Ways with Manager Mendoza Amid Poor Start",
     "slug": "mets-part-ways-with-manager-mendoza-amid-poor-start",
