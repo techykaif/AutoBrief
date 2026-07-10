@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260710-243",
+    "title": "Java 27 Release Highlights New Features and Improvements",
+    "slug": "java-27-release-highlights-new-features-and-improvements",
+    "content": "Java 27: A New Era in Software Development\n\nOracle Corporation, the developer of the widely-used programming language Java, has recently released Java 27. This latest update brings numerous enhancements and improvements to the platform, catering to the evolving needs of developers worldwide. Java 27 is designed to provide better performance, security, and compatibility, making it an ideal choice for building scalable and reliable software applications.\n\nAccording to official documentation, Java 27 introduces several key features, including improved garbage collection, enhanced cryptography support, and better support for modern web technologies. Additionally, the update includes various bug fixes and performance optimizations, aimed at enhancing the overall developer experience. The release also marks the transition of Java from a proprietary to an open-source model, allowing for greater community involvement and collaboration. This shift is expected to foster innovation and accelerate the development of new Java-based applications.\n\nThe release of Java 27 is a significant milestone in the history of the programming language, marking a new era in software development. As the industry continues to evolve, Java remains a popular choice among developers, and this update is likely to further solidify its position. With its improved performance, enhanced security, and open-source model, Java 27 is poised to play a key role in shaping the future of software development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 19:12:42",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260710-241",
+    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "slug": "eu-commission-addictive-design-instagram-and-facebook-in-breach-of-the-dsa",
+    "content": "EU Proposes New Regulations to Enhance Digital Services\n\nThe European Commission has recently unveiled a set of proposals aimed at strengthening the digital services law in the European Union. The proposed regulations, which will be subject to a thorough legislative process, aim to improve the safety and security of online platforms, particularly social media and online marketplaces. According to the Commission, the proposed changes will ensure that digital services companies are held accountable for the content they host and the impact it has on users.\n\nThe proposed regulations would require digital services companies to implement robust measures to detect and remove hate speech, misinformation, and other forms of harmful content. They would also be obligated to provide users with more transparency and control over their data, as well as to ensure that online platforms are free from manipulation and bias. Furthermore, the regulations would introduce stricter rules for online marketplaces, making it easier for consumers to resolve disputes and receive refunds when necessary. The proposed changes are seen as a significant step towards creating a safer and more trustworthy digital environment for EU citizens.\n\nThe European Commission's proposals have sparked a lively debate among stakeholders, with some experts hailing the move as a much-needed step towards regulating the digital landscape, while others have expressed concerns about the potential impact on free speech and the competitiveness of online businesses. As the legislative process unfolds, it remains to be seen how the proposed regulations will be shaped and implemented.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 19:12:33",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260710-237",
+    "title": "Anthropic Discovers Hidden Space in Large Language Model Claude",
+    "slug": "anthropic-discovers-hidden-space-in-large-language-model-claude",
+    "content": "**Anthropic Uncovers Hidden Space within Large Language Models**\n\nIn a significant breakthrough, AI firm Anthropic has made a major discovery in the world of artificial intelligence. The company has identified a hidden space within large language models, where the AI system, Claude, engages in introspective thinking and puzzle-solving. This finding provides a deeper understanding of the internal workings of these complex models, which have revolutionized the field of natural language processing. By gaining insight into Claude's thought processes, researchers can now better comprehend how large language models arrive at their responses and make decisions.\n\nThe discovery was made possible through Anthropic's innovative approach, which involved probing the internal workings of Claude's model. By analyzing the AI's behavior and responses, the team was able to uncover a hidden space where Claude engages in concept exploration and puzzle-solving. This space, dubbed the \"concept space,\" is a novel area of research that has the potential to shed light on the inner workings of large language models. The findings of this study have significant implications for the development of more advanced and sophisticated AI systems.\n\nThe discovery by Anthropic marks a significant milestone in the field of artificial intelligence and natural language processing. As researchers continue to explore the concept space and its applications, we can expect to see significant advancements in the development of more intelligent and capable AI systems. The findings of this study will undoubtedly have a lasting impact on the field, paving the way for future breakthroughs and innovations in AI research.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 19:12:21",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260710-235",
+    "title": "id Software Releases Doom Expansion",
+    "slug": "id-software-releases-doom-expansion",
+    "content": "Doom Developer id Software Muted by Xbox Layoffs\n\nThis week was supposed to be a celebration for id Software, the renowned developer behind the iconic Doom franchise. The studio had just released Revelations, a significant expansion for Doom: The Dark Ages, adding a new powerful weapon and more challenging demonic levels to the game. However, the excitement was short-lived as the launch was overshadowed by a major development in the gaming industry. Revelations, which offers a seamless gaming experience, drew players back into the fast-paced action reminiscent of id's modern Doom games.\n\nThe expansion's release marked a return to the roots of Doom, with its signature blend of intense shooter action and addictive gameplay. Despite the differences between each game in the series, they all share a common foundation that sets them apart from other titles. However, the momentum was disrupted by news of Xbox's mass layoffs, which has left the gaming community reeling.\n\nThe layoffs have cast a shadow over the gaming industry, affecting not only id Software but many other studios as well. As the gaming world grapples with the aftermath of these layoffs, the release of Revelations serves as a reminder of the hard work and dedication that goes into creating engaging gaming experiences. Despite the challenges ahead, id Software's latest expansion is a testament to the enduring appeal of the Doom franchise.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 19:12:12",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260710-234",
+    "title": "Xreal A01 Plus AR Glasses Launched at Lower Price Point",
+    "slug": "xreal-a01-plus-ar-glasses-launched-at-lower-price-point",
+    "content": "Xreal Unveils Budget-Friendly AR Glasses, the A01 Plus\n\nXreal, a leading manufacturer of augmented reality (AR) glasses, has introduced the A01 Plus, a more affordable variant of its popular 1S model. Priced at $299, the A01 Plus offers a stripped-down version of the 1S, focusing on retaining the essential features that made the original a hit. Despite the cost reduction, the A01 Plus still manages to deliver a comfortable and stylish design, with surprisingly bright and contrast-rich screens that are a significant improvement for the price.\n\nWeighing in at just 62 grams, the A01 Plus is a notable 20 grams lighter than its 1S counterpart, making it an incredibly lightweight option. However, the frame's flimsiness is a notable trade-off, with some users questioning its durability. The temple arms, which require a firmer grip to adjust, may be a point of contention for some users. Despite these minor drawbacks, the A01 Plus is an attractive option for those looking for a more affordable entry into the world of AR glasses.\n\nThe A01 Plus is a testament to Xreal's commitment to innovation and accessibility, offering a more budget-friendly alternative to its premium 1S model. While it may not boast all the features of its more expensive counterpart, the A01 Plus still delivers on comfort, style, and performance, making it an exciting option for those looking to experience the world of AR glasses without breaking the bank.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/10/2026 19:12:07",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260710-227",
+    "title": "Spain wildfire near Almeria kills 11, triggers evacuations",
+    "slug": "spain-wildfire-near-almeria-kills-11-triggers-evacuations",
+    "content": "A severe wildfire has engulfed the Los Gallardos area near Almería, killing at least 11 residents as of 10 July. The blaze, which has spread across a semi‑arid landscape adjacent to the Sierra de los Filabres, has forced the evacuation of nearby villages and prompted a large‑scale firefighting response from local and national authorities.\n\nFirefighters, supported by aerial water drops and ground crews, are battling the flames while rescuers search for missing persons. The Spanish Civil Guard and the Ministry of the Interior have coordinated efforts to contain the fire and protect critical infrastructure. Preliminary investigations suggest that the combination of high temperatures, low humidity, and strong winds contributed to the rapid spread of the fire.\n\nThe incident has drawn attention to the growing risk of wildfires in southern Spain, where climate change has increased the frequency and intensity of such events. Authorities are reviewing emergency protocols and reinforcing community preparedness measures as the firefighting operation continues.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/10/2026 19:11:40",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260710-220",
     "title": "12 dead, 19 missing in Andalusia wildfire",
     "slug": "12-dead-19-missing-in-andalusia-wildfire",
