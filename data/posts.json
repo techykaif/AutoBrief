@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260711-352",
+    "title": "Fitzpatrick Leads Scottish Open",
+    "slug": "fitzpatrick-leads-scottish-open",
+    "content": "Fog Delays and High Scores Mark Third Round of Genesis Scottish Open\n\nThe Genesis Scottish Open experienced a chaotic third round, with fog causing significant disruptions to the schedule. Despite the challenges, English golfer Matt Fitzpatrick emerged as one of the leaders, sharing the top spot with a few other players. Fitzpatrick's impressive performance was a highlight amidst the difficulties faced by many golfers, including Northern Ireland's Rory McIlroy, who struggled to find his footing.\n\nThe fog, which rolled in early in the day, forced officials to suspend play for several hours, leaving many golfers with limited time to complete their rounds. As a result, scores were higher than expected, with several top players struggling to navigate the challenging conditions. McIlroy, a four-time major winner, was among those who struggled, posting a disappointing score that left him well off the pace. Despite the setbacks, the tournament remains highly competitive, with several players still in contention for the title.\n\nAs the tournament enters its final round, the weather is expected to improve, allowing golfers to focus on their game without the added challenge of fog. With Fitzpatrick and others vying for the top spot, the Genesis Scottish Open is shaping up to be a thrilling conclusion, with many golfers still in the running to take home the coveted title.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/12/2026 3:02:25",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-351",
+    "title": "Linda Noskova Wins Historic Wimbledon Match",
+    "slug": "linda-noskova-wins-historic-wimbledon-match",
+    "content": "In a thrilling display of skill and determination, Czech tennis player Linda Noskova secured a historic victory at Wimbledon, producing what many have hailed as \"one of the all-time greatest efforts on Centre Court.\" The 18-year-old prodigy emerged victorious in the women's singles final, defeating her opponent in a closely contested match that showcased her exceptional talent and grit.\n\nNoskova's remarkable performance was made all the more poignant by her emotional tribute to her late mother, Ivana, who passed away in 2018. The young tennis star has often spoken about the significant role her mother played in her life and career, and her Wimbledon win was a testament to the enduring legacy of her mother's inspiration. Throughout the match, Noskova's focus and composure were a testament to her mother's influence, as she drew upon the strength and resilience she had instilled in her.\n\nWith this triumph, Noskova becomes the youngest champion in Wimbledon history, cementing her status as one of the most promising young talents in the world of tennis. As she stands on the threshold of a bright and illustrious career, it is clear that Linda Noskova's dedication, hard work, and unwavering passion for the sport have been the driving forces behind her success.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/12/2026 3:02:20",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-346",
+    "title": "Synthetic Rotation Mimics Black Hole Energy Extraction in Lab",
+    "slug": "synthetic-rotation-mimics-black-hole-energy-extraction-in-lab",
+    "content": "Sir Roger Penrose first described, more than half a century ago, a mechanism by which a rapidly spinning black hole could act as an energy source. In his 1971 proposal, a particle entering the ergosphere—the region of spacetime dragged around by the black hole’s rotation—could split into two fragments. One fragment would plunge into the event horizon while the other would escape with greater energy than the original particle, effectively extracting rotational energy from the black hole.\n\nBuilding on Penrose’s idea, physicist Yakov Zel’dovich predicted that the same principle could apply to waves interacting with any sufficiently fast, rotating object. According to Zel’dovich, a wave that scatters off such an object can be amplified, drawing energy from the rotation and emerging with increased amplitude. This theoretical framework has since guided research into superradiant scattering and the potential for extracting energy from astrophysical rotators.\n\nThe Penrose–Zel’dovich mechanism remains a cornerstone of modern theoretical astrophysics, offering insight into how extreme gravitational environments might power high‑energy phenomena. While practical extraction of energy from black holes remains speculative, the concepts continue to inform studies of accretion disks, jet formation, and the fundamental limits of energy extraction in relativistic systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/12/2026 3:02:01",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-345",
+    "title": "Ant JavaScript runtime and ecosystem launched on Hacker News",
+    "slug": "ant-javascript-runtime-and-ecosystem-launched-on-hacker-news",
+    "content": "A new JavaScript ecosystem called Ant has been unveiled by its author on Hacker News. Ant centers on a custom runtime that ships its own JavaScript engine and is accompanied by a suite of complementary tools: a package manager named the ants, a Land package registry, a deployment and hosting platform, and Ant Desktop for building native desktop applications with web technologies in a manner similar to Electron.\n\nThe ecosystem is designed to function as a unified platform while remaining interoperable with the broader JavaScript ecosystem. By integrating these components, Ant aims to provide developers with an end‑to‑end solution for application development, distribution, and deployment without relying on the fragmented stack of existing JavaScript tools. The author notes that the project is still in its early stages and is actively seeking community feedback on its overall direction and the features that would make it a viable alternative to current JavaScript stacks.\n\nEarly adopters on Hacker News have expressed interest in the potential of Ant to streamline workflows, though the community has also highlighted the need for robust documentation and clear integration guidelines. The project’s progress will be tracked through its comments and updates on the Hacker News thread, where developers can contribute suggestions and report issues.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 3:01:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-344",
+    "title": "Claude's Latest Models Face Backlash from Loyal Users",
+    "slug": "claude-s-latest-models-face-backlash-from-loyal-users",
+    "content": "Android Authority recently reported on the release of Claude’s newest AI models and the mixed reception they have sparked. The article details how Anthropic’s updated versions—labelled “Claude 3” in the press release—introduce expanded knowledge bases, refined instruction‑following capabilities, and tighter safety filters aimed at reducing hallucinations and disallowed content. According to the piece, the company claims these changes improve both accuracy and user trust, while also offering a new “safety‑first” API tier for developers.\n\nThe piece notes that the rollout has drawn criticism from some users and reviewers, who argue that the stricter content controls can overly constrain legitimate queries and that the models still generate occasional factual inaccuracies. The discussion on Hacker News, where the article was shared, garnered seven up‑votes and four comments, reflecting a modest but engaged community debate over the trade‑offs between safety and utility in the latest Claude iteration.  \n\nOverall, the coverage underscores the ongoing tension in the AI field between enhancing safety mechanisms and maintaining robust, flexible performance. As Anthropic continues to iterate on its models, the broader conversation—highlighted by both the Android Authority article and the Hacker News thread—illustrates the challenges developers and users face in balancing responsible AI deployment with practical usability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 3:01:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-343",
+    "title": "Nopia synth near market launch with £550 price tag",
+    "slug": "nopia-synth-near-market-launch-with-550-price-tag",
+    "content": "Nopia, the hybrid synthesizer unveiled by creators Martin Grieco and Rocío Gal, is poised to hit the market in the coming months. The duo first revealed the device in a 2023 preview that set the online music‑gear community abuzz, and a recent in‑depth look at MusicRadar confirmed that the product will launch for roughly £550. The announcement comes as the pair prepare to transition the prototype from concept to commercial release.\n\nThe Nopia is engineered around harmonic interplay rather than a single patch. Its design fuses multiple modules—keys, bass, arpeggiator, and pad—into one cohesive performance, resembling a drum‑less groovebox. A one‑octave “Chord Builder” keyboard and a 12‑note sequencer provide the core of its interface, while the integrated modules allow users to blend sounds in real time without the need for external software. This modular approach gives the instrument a distinctive workflow that differentiates it from conventional synthesizers.\n\nWith production slated to begin shortly, the Nopia’s launch represents a notable addition to the boutique synth market. Its hybrid architecture and affordable price point are expected to attract both seasoned producers and newcomers seeking a compact, all‑in‑one solution for live performance and studio work. The Verge will publish the full story, offering a deeper dive into the device’s specifications and the creators’ vision.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 3:01:48",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-342",
+    "title": "Norway vs England World Cup quarter-final live updates",
+    "slug": "norway-vs-england-world-cup-quarter-final-live-updates",
+    "content": "Norway and England will meet in a quarter‑final match at the World Cup, each side looking to secure a place in the semi‑finals. The English team, known as the Three Lions, aim to continue their knockout‑stage run, while the Norwegian squad hopes to overcome the odds against one of football’s traditional powers. The encounter marks a pivotal moment for both nations as they vie for a spot in the tournament’s final four.\n\nThe game will be covered live, with minute‑by‑minute commentary available for fans following the action. A victory for either side will not only advance them to the next round but also add a notable chapter to their World Cup histories, as both teams seek to capitalize on their performances and progress further in the competition.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 3:01:43",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-341",
+    "title": "UK police launch murder investigation after death of politician Ann Widdecombe",
+    "slug": "uk-police-launch-murder-investigation-after-death-of-politician-ann-widdecombe",
+    "content": "A senior British politician, former Member of Parliament Ann Widdecombe, was discovered dead on Thursday morning in a residential area of London after sustaining serious injuries, police said. Officers responding to a 911 call at the scene found her unresponsive and pronounced her deceased at the location. The Metropolitan Police confirmed that a murder investigation has been launched, and detectives are treating the case as a homicide pending further forensic analysis.\n\nAuthorities have not released details about any potential suspects or motives, and they have asked the public to refrain from speculation while the inquiry proceeds. A spokesperson for the police indicated that standard procedures, including a full crime scene examination and the collection of CCTV footage, are underway. The investigation will be coordinated by the homicide unit, and updates will be provided as new information becomes available.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 3:01:39",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260711-340",
     "title": "Former England captain Heather Knight to retire from international cricket",
     "slug": "former-england-captain-heather-knight-to-retire-from-international-cricket",
