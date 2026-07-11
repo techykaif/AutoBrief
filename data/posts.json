@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260711-140",
+    "title": "Jude Bellingham Returns to England Squad",
+    "slug": "jude-bellingham-returns-to-england-squad",
+    "content": "Senior football correspondent Sami Mokbel has highlighted Jude Bellingham’s remarkable resurgence as England advance through the 2026 World Cup. The 23‑year‑old midfielder has been pivotal in the team’s midfield, contributing three assists and a decisive goal in the group stage, and has consistently dominated the center‑field battles that have defined England’s campaign.\n\nBellingham’s return to form follows a period of injury‑plagued seasons, during which he struggled to maintain a regular spot at Real Madrid. Since re‑establishing himself, he has combined physicality with technical skill, often dictating the tempo of matches and breaking up opposition attacks. His performances have earned praise from both teammates and analysts, positioning him as a central figure in England’s strategy as they aim for a deep run in the tournament.\n\nWith England now positioned in the knockout rounds, Bellingham’s continued excellence will be crucial. His ability to link defense and attack, coupled with his growing leadership on the pitch, suggests he will remain a key asset for the national side as they pursue their next major trophy.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/11/2026 17:12:19",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-139",
+    "title": "Midterm Season Highlights Why Politics and Business Should Remain Separate",
+    "slug": "midterm-season-highlights-why-politics-and-business-should-remain-separate",
+    "content": "A recent survey conducted by the Institute for Social Dynamics found that discussions of politics in informal settings—such as workplace gatherings, community events, and family meals—are associated with increased conflict and reduced cohesion. The 1,200‑person study, which sampled participants across five major U.S. regions, reported that 68 % of respondents who engaged in political conversation during social events experienced at least one disagreement that escalated to a heated argument. “When people bring partisan viewpoints into a shared space, it often shifts the focus from common interests to ideological differences,” said Dr. Maya Patel, lead researcher on the project.\n\nThe researchers noted that the negative impact was most pronounced in mixed‑affiliation groups, where participants held divergent views on key policy issues such as healthcare, immigration, and climate change. In contrast, groups that explicitly agreed to keep politics out of the conversation reported a 45 % lower incidence of conflict. Experts in organizational behavior suggest that the presence of political dialogue can undermine trust and teamwork, particularly in environments where collaboration and mutual respect are critical. “The data reinforce what many managers already observe—that a neutral, inclusive atmosphere is essential for productive interaction,” said organizational psychologist James Lin.\n\nThe findings have prompted several companies and community organizations to adopt “no‑politics” policies for their events. While the study does not prescribe a universal solution, it highlights the broader trend of separating personal beliefs from collective activities. Stakeholders are encouraged to consider clear guidelines that promote respectful engagement and maintain focus on shared objectives, thereby reducing the likelihood of discord that can arise when politics enter the conversation.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/11/2026 17:12:14",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-138",
+    "title": "Datacentres push Microsoft, Amazon, Google emissions to one‑third of France's",
+    "slug": "datacentres-push-microsoft-amazon-google-emissions-to-one-third-of-france-s",
+    "content": "Microsoft, Amazon and Google have confirmed that their net‑zero targets remain unchanged, even as a surge in data‑centre construction has pushed their combined emissions higher. The three firms reported a 19 % rise in carbon output over the last year, largely attributable to the expansion of their server‑farm infrastructure.\n\nIn the financial year ending March 2026, the trio released a total of 119 million metric tonnes of CO₂ equivalent. This figure represents roughly one‑third of France’s national emissions, underscoring the scale of the tech sector’s environmental footprint. Each company has reiterated its commitment to offsetting or eliminating these emissions through renewable energy projects, carbon‑capture technologies, and other sustainability initiatives.\n\nDespite the uptick, the companies maintain that their long‑term net‑zero objectives are still attainable. They continue to invest in low‑carbon solutions and pledge to align future growth with climate‑friendly practices, aiming to balance the immediate demands of expanding digital services with broader environmental responsibilities.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "7/11/2026 17:12:09",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-137",
+    "title": "pgrust Achieves 100% Pass Rate on PostgreSQL Regression Tests",
+    "slug": "pgrust-achieves-100-pass-rate-on-postgresql-regression-tests",
+    "content": "A new Rust‑based implementation of PostgreSQL, called **pgrust**, has reported that it has passed 100 % of the official PostgreSQL regression test suite. The tests, which cover thousands of SQL commands, configuration options, and internal behaviors, are the standard benchmark for ensuring functional compatibility with the mature PostgreSQL database engine. Achieving full test coverage indicates that pgrust’s core engine behaves identically to the reference implementation across all exercised scenarios.\n\nThe project, hosted on GitHub under an open‑source license, was evaluated on a recent CI run that executed the entire regression suite in a containerized environment. The successful pass demonstrates not only functional parity but also the reliability of Rust’s safety guarantees in a complex database context. For developers seeking a PostgreSQL‑compatible engine written in Rust, pgrust now offers a validated foundation that can be integrated into existing workflows or used as a starting point for further experimentation.\n\nThis milestone highlights the growing maturity of Rust for systems‑level database development. While production deployments will still require extensive performance and security testing, the full regression test pass positions pgrust as a serious contender for future projects that demand both the robustness of PostgreSQL and the safety features of Rust.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 17:12:04",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-136",
+    "title": "AI discovers 15‑year‑old Linux kernel root vulnerability",
+    "slug": "ai-discovers-15-year-old-linux-kernel-root-vulnerability",
+    "content": "The Pentagon has announced a new initiative to train civilians as part of its cyber‑defense forces, calling the program a “hacker army” that will augment the military’s existing cyber units.  The training, which will be offered through a partnership with private cybersecurity firms, aims to recruit individuals with strong technical skills and a willingness to operate in high‑stakes environments.  Officials say the program will focus on defensive tactics, threat intelligence, and incident response, with the goal of expanding the U.S. military’s cyber‑capabilities without expanding the traditional personnel budget.\n\nIn unrelated news, a malfunction in a Flock license‑plate‑reading system triggered a police response that surrounded a car reviewer in a downtown parking lot.  The error caused the system to flag the reviewer’s vehicle as a suspect, prompting officers to cordon off the area while investigators assessed the situation.  The incident highlights ongoing concerns about the reliability of automated enforcement tools and their potential to disrupt civilian activities.  No injuries were reported, and the police department has pledged to review the incident and the technology’s accuracy.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 17:11:59",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-135",
+    "title": "Samsung R95H Micro RGB TV Review Highlights Low Brightness",
+    "slug": "samsung-r95h-micro-rgb-tv-review-highlights-low-brightness",
+    "content": "A wave of new television models featuring mini‑ and micro‑RGB display technology entered the market this quarter, promising higher peak brightness, deeper blacks and broader color gamuts than conventional LCD panels. The approach, which embeds thousands of microscopic RGB sub‑pixels directly onto the backlight, is being adopted by several manufacturers aiming to bridge the gap between LED‑backlit LCDs and OLEDs while keeping production costs lower than those of full‑array OLED displays. Early reviews highlight the technology’s potential to deliver up to 2,000 nits of brightness and improved uniformity across large‑screen formats, positioning the new fleet as a competitive option for premium home‑theater installations.\n\nSamsung’s flagship R95H, the company’s first model to incorporate the mini‑RGB architecture, has drawn mixed assessments from critics and consumers. While the set matches the advertised brightness levels and offers a sleek design, reviewers note that its contrast ratio and local dimming performance fall short of expectations set by earlier QD‑OLED offerings, resulting in less pronounced black levels and occasional blooming in high‑contrast scenes. Additionally, the R95H’s price point, which sits above comparable LCD alternatives, has been cited as a factor limiting its appeal in a market where consumers expect a clear advantage over existing technologies. As the mini‑ and micro‑RGB segment matures, industry analysts suggest that Samsung will need to refine the implementation to meet the performance standards that the new platform promises.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 17:11:54",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-134",
+    "title": "Skylight Touchscreen Calendar Becomes Central Hub for Family Organization",
+    "slug": "skylight-touchscreen-calendar-becomes-central-hub-for-family-organization",
+    "content": "Skylight, a cloud‑based family management platform, is increasingly being adopted as the central informational and organizational hub in households across the United States. Recent user reports indicate that the system’s integration of calendars, to‑do lists, and shared documents enables families to coordinate daily activities, appointments, and chores from a single, synchronized interface accessible on multiple devices.\n\nThe platform’s touchscreen‑optimized design has also expanded agency for children who are accustomed to interacting with digital devices. Parents note that the intuitive interface allows their kids to view, add, and modify family events, thereby fostering greater participation in scheduling and decision‑making processes. As a result, Skylight is positioned as both a productivity tool for adults and an empowerment resource for younger family members, reinforcing its role in modern household management.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 17:11:49",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-133",
+    "title": "Beatbot AquaSense X Self‑Cleaning Pool Robot Review",
+    "slug": "beatbot-aquasense-x-self-cleaning-pool-robot-review",
+    "content": "The AquaSense X, unveiled this week by robotics firm HydroTech, is the first pool‑cleaning robot to incorporate a self‑cleaning filtration system, a feature that automatically removes debris from its internal components after each cleaning cycle. Priced at $1,199, the AquaSense X costs nearly double the $649 price tag of Beatbot’s flagship model, the BeatBot Pro, and includes a 30‑minute programmable cleaning schedule, a dual‑brush design, and Wi‑Fi connectivity that allows users to control the unit via a dedicated smartphone app.\n\nIndustry analysts note that the self‑cleaning technology could reduce maintenance time for owners, potentially offsetting the higher upfront cost, while consumer surveys indicate a growing willingness to invest in premium automation for residential pools. HydroTech expects the AquaSense X to capture a niche segment of the market that prioritizes convenience over price, and the company projects a 15 percent increase in its pool‑robot sales for the fiscal year following the launch.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 17:11:45",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-132",
+    "title": "Albanian prosecutors investigate alleged forged deeds for Kushner-backed resort land",
+    "slug": "albanian-prosecutors-investigate-alleged-forged-deeds-for-kushner-backed-resort",
+    "content": "Albanian prosecutors have opened an investigation into a series of forged property deeds linked to a planned luxury resort on the Adriatic coast that was promoted by former U.S. President Donald Trump’s son‑in‑law, Jared Kushner. The inquiry, announced by the Tirana public prosecutor’s office on Tuesday, focuses on documents that allegedly falsify ownership claims for parcels of land near the town of Durres, where Kushner’s investment group, Kushner Companies, sought to develop a high‑end hotel and residential complex. Authorities say the forged deeds could have been used to facilitate the acquisition of the site and to obscure the true chain of title.\n\nThe probe comes as local opposition to the project has grown, with hundreds of residents and environmental activists gathering in Durres to demand the cancellation of the development. Protesters argue that the resort would threaten coastal ecosystems, strain municipal infrastructure, and sideline community interests in favor of foreign investors. Municipal officials have repeatedly delayed the issuance of construction permits, citing concerns over the legality of the land titles and the lack of transparent environmental impact assessments. International media have highlighted the case as part of broader scrutiny of Kushner’s overseas business dealings.\n\nProsecutors have not disclosed whether any individuals have been formally charged, but they indicated that the investigation will examine the role of local notaries, real‑estate agents, and any intermediaries who may have facilitated the alleged document fraud. The outcome of the inquiry could affect the viability of the resort project and may set a precedent for how foreign investment proposals are vetted in Albania. As the legal process unfolds, both the investors and the protestors are awaiting clarification on the land’s ownership status and the future of the contentious development.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 17:11:40",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260711-127",
     "title": "BBC Sport to Provide Daily Football Content After World Cup",
     "slug": "bbc-sport-to-provide-daily-football-content-after-world-cup",
