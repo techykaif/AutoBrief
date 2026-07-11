@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260711-117",
+    "title": "US Struggles to Produce Domestic Medical Gloves",
+    "slug": "us-struggles-to-produce-domestic-medical-gloves",
+    "content": "Bloomberg’s feature on July 7th examined why no U.S. manufacturer currently produces a fully American‑made line of medical gloves. The article notes that the supply chain for critical raw materials—primarily natural rubber—remains largely anchored in Latin America and Southeast Asia, where extraction and processing costs are far lower than in the United States. Coupled with the fact that the bulk of glove‑making expertise and high‑volume production capacity is concentrated overseas, U.S. firms face steep cost premiums and logistical hurdles that make a domestic supply line economically unviable without significant subsidies or policy incentives.\n\nThe piece also highlights regulatory and quality‑control challenges. U.S. manufacturers must meet stringent FDA and OSHA standards, which require specialized testing equipment and trained personnel that are scarce in the domestic market. The COVID‑19 pandemic exposed the fragility of this arrangement, as sudden spikes in demand outpaced the limited domestic production capacity, prompting a scramble for imports. A discussion thread on YCombinator’s news forum, where 21 points were logged and 10 comments exchanged, echoed these concerns, with participants debating whether technological innovation, such as automation or alternative materials, could bridge the cost gap or whether strategic stockpiling and tariff adjustments might be more realistic solutions.\n\nIn sum, while a fully American‑made medical glove supply chain would enhance national resilience, the convergence of high material costs, limited manufacturing expertise, and rigorous regulatory requirements creates a formidable barrier. Achieving domestic production will likely require coordinated industry‑government efforts, including investment in local manufacturing infrastructure and incentives to lower the cost of raw materials and labor.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 16:02:44",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-115",
+    "title": "China's Tianwen-2 Probe Meets Earth's Quasi-Moon",
+    "slug": "china-s-tianwen-2-probe-meets-earth-s-quasi-moon",
+    "content": "A spacecraft has released the first images of the near‑Earth asteroid Kamo’oalewa, marking a milestone in the mission’s exploration phase. The probe, which has been orbiting the asteroid for several months, captured high‑resolution photographs that reveal a rugged, irregular surface and a range of boulder fields and craters. The images are being transmitted back to mission control for detailed analysis and will help refine navigation and landing strategies.\n\nScientists are now preparing the next phase: a soft‑landing maneuver followed by the collection of surface samples. Engineers have designed a robotic arm capable of scooping regolith from the asteroid’s low‑gravity environment, with the collected material to be stored in a sealed capsule for return to Earth. The sample‑return plan builds on the success of earlier missions and aims to provide insights into the composition and history of this relatively pristine object.\n\nIf the landing and sampling operations proceed as scheduled, the mission could deliver the first extraterrestrial samples from a Kamo’oalewa‑type asteroid to Earth laboratories later this decade. The data gathered will enhance our understanding of asteroid formation, evolution, and potential resource utilization, while also advancing the technology required for future deep‑space exploration.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/11/2026 16:02:36",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-112",
+    "title": "Trump Threatens Iran with Military Action",
+    "slug": "trump-threatens-iran-with-military-action",
+    "content": "Former President Donald J. Trump posted a brief statement on his social‑media account, claiming that “1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran.” The tweet, which was shared by several of his supporters, did not provide any technical details about the missiles, their deployment locations, or the specific branch of the U.S. military involved. No official U.S. government source has confirmed the claim, and the White House has not issued a response.\n\nThe assertion comes amid heightened tensions between the United States and Iran over a range of issues, including Iran’s nuclear program and regional influence. Analysts note that while the U.S. maintains a robust missile defense and deterrence posture, publicly announcing a specific number of missiles directed at a foreign nation would be unprecedented and could be interpreted as a provocative escalation. The lack of corroborating evidence from defense officials suggests that the statement may be an exaggeration or a political statement rather than a factual report.\n\nUntil an authoritative source confirms the deployment, the claim remains unverified. Observers caution that such statements can inflame diplomatic relations and potentially influence the strategic calculations of both sides. The situation will be monitored closely by policymakers and international observers as the U.S. and Iran continue to navigate a complex security environment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:02:25",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-109",
+    "title": "EU Parliament Calls for Terrorist Listing of RSF in Sudan",
+    "slug": "eu-parliament-calls-for-terrorist-listing-of-rsf-in-sudan",
+    "content": "The European Parliament adopted a landmark resolution on July 8 that condemns the ongoing armed conflict in Sudan and specifically the recent attacks by the Rapid Support Forces (RSF) in El Obeid, the capital of North Kordofan. The motion, passed by a broad majority, calls for an immediate cease‑fire, unrestricted humanitarian access to affected regions, and the protection of civilians. It also urges the European Union to consider targeted sanctions against individuals and entities responsible for the violence and to support diplomatic efforts to restore stability.\n\nThe resolution follows a surge of violence in Sudan’s north‑central provinces, where RSF forces have reportedly carried out shelling and ground assaults that have displaced thousands and intensified the humanitarian crisis. By formally addressing the situation, the Parliament signals its commitment to holding perpetrators accountable and to facilitating international mediation. The motion underscores the EU’s role as a key stakeholder in regional peace initiatives, while reaffirming its support for the United Nations’ calls for an end to hostilities.\n\nIn conclusion, the European Parliament’s July 8 resolution marks a significant step in the international community’s response to Sudan’s conflict. By demanding a cease‑fire, humanitarian relief, and accountability, it aims to curb further bloodshed and lay the groundwork for a negotiated settlement. The resolution’s adoption may influence the EU’s future policy measures and diplomatic engagement with the parties involved.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:02:18",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-108",
+    "title": "Ugandan Farmers Sue UK Company Over EACOP Pipeline",
+    "slug": "ugandan-farmers-sue-uk-company-over-eacop-pipeline",
+    "content": "A group of four Ugandan farmers whose farmland lies directly along the planned route of the East African Crude Oil Pipeline (EACOP) has filed a lawsuit this week in the London High Court. The plaintiffs, representing the British company that is financing and developing the 1,400‑kilometre pipeline that will link Uganda’s oil fields to a port on the Tanzanian coast, allege that the project has infringed their property rights and failed to provide adequate compensation for land taken for construction.\n\nEACOP, a joint venture involving British and Ugandan interests, has faced mounting criticism from environmental groups and local communities for its potential ecological impact and the displacement of residents. The farmers’ claim focuses on the lack of fair compensation and the absence of a transparent consultation process before the pipeline’s route was finalized. They seek damages and an injunction to halt construction until a proper settlement is reached. The case marks the latest legal challenge to the project, which has already been stalled by regulatory reviews and opposition from civil society groups across the region.\n\nIf the High Court rules in favour of the farmers, it could force a reassessment of the pipeline’s route or its compensation framework, potentially delaying the project’s completion. The British company has said it will defend the lawsuit and will continue to pursue the pipeline’s development in accordance with Ugandan law and international investment standards. The outcome of the case will be closely watched by stakeholders in the East African energy sector and by investors monitoring the regulatory environment for large infrastructure projects in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:02:14",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-107",
+    "title": "Kenya High Court to Decide on Rastafarian Cannabis Petition",
+    "slug": "kenya-high-court-to-decide-on-rastafarian-cannabis-petition",
+    "content": "Kenya’s High Court is scheduled to deliver a landmark ruling on July 15, deciding whether the use of cannabis by Rastafarians can be legally sanctioned for religious purposes. The faith, which is officially recognised in Kenya, has long argued that cannabis is an essential sacrament for its adherents. The court’s decision will weigh the constitutional guarantee of freedom of religion against the country’s stringent anti‑narcotics legislation.\n\nThe case centres on the tension between the 2010 Constitution’s protection of religious liberty and the Narcotic Drugs Control Act, which classifies cannabis as a controlled substance. Rastafarian leaders contend that prohibiting cannabis use infringes on their right to practice their faith, citing precedents in other jurisdictions where religious use of controlled substances has been permitted. Opponents argue that allowing an exception would undermine national drug‑control efforts and set a precedent for other illicit substances. The High Court will examine legal arguments, international human‑rights obligations, and the practical implications of a potential exemption.\n\nIf the court grants the exemption, it could reshape Kenya’s drug policy and reinforce the primacy of religious freedom in the legal system. Conversely, a ruling against the Rastafarians would reaffirm the supremacy of anti‑narcotics laws and could prompt further legal challenges. The outcome is expected to have significant ramifications for both the religious community involved and the broader framework of drug regulation in Kenya.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:02:10",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-105",
+    "title": "Kenyan Birdman goes viral for rescuing birds as health officials warn of disease risk",
+    "slug": "kenyan-birdman-goes-viral-for-rescuing-birds-as-health-officials-warn-of-disease",
+    "content": "A Nairobi‑based man who calls himself “Birdman” has attracted widespread attention after posting videos of himself caring for injured wild birds. The former homeless individual says that rescuing and rehabilitating the birds gave him a sense of purpose, and his online platform now centers on a conservation message that highlights the importance of protecting Kenya’s avian wildlife. His videos, which show him sharing food and space with the birds, have gone viral across social media, drawing both admiration and curiosity from viewers worldwide.\n\nKenyan health officials have cautioned that eating from the same plate as wild birds could facilitate the transmission of zoonotic diseases, urging the public to avoid close contact with potentially infected animals. Birdman, whose real name is Magutha, rejected the warnings, stating that the birds are released once they recover and that his practices pose no health risk. The debate underscores the tension between grassroots wildlife rescue efforts and public health guidelines as the story continues to circulate online.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:02:02",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-104",
+    "title": "France beats Australia 42-26 in Nations Championship comeback",
+    "slug": "france-beats-australia-42-26-in-nations-championship-comeback",
+    "content": "France secured a 42‑26 victory over Australia on Saturday in the second round of the Rugby Nations Championship, completing a dramatic comeback after trailing early in the match. Aaron Grandidier‑Nkanang contributed two tries, while fly‑half Romain Ntamack directed the French attack, scoring a try himself and adding crucial points through his kicking to overturn the deficit.\n\nThe win moves France to the top of the competition standings, strengthening their position ahead of the upcoming fixtures, while Australia remains in the lower half of the table. Both teams will look to build on the performances, with France aiming to maintain momentum and Australia seeking to recover in their next encounter.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:01:58",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-103",
+    "title": "Southern Spain wildfire that killed 12 begins to ease",
+    "slug": "southern-spain-wildfire-that-killed-12-begins-to-ease",
+    "content": "A wildfire raging in the southern Spanish province of Cádiz has killed at least 12 people and forced the evacuation of dozens of homes, officials said. The blaze, which ignited on Thursday amid high temperatures and strong winds, rapidly spread across scrubland and pine forests, prompting the deployment of more than 500 firefighters, aerial water bombers and military personnel. By Saturday, satellite imagery and ground reports indicated that the fire’s intensity was decreasing, allowing crews to move from indirect containment to a direct attack on the flames for the first time.\n\nAuthorities highlighted that the shift to a direct assault will enable a faster extinguishment of the remaining hotspots, though they warned that hot spots could persist for several days. The regional government has pledged additional resources to support recovery efforts and to investigate the cause of the fire, which is still under review. Sarah Morris reported from the scene that the situation remains under close monitoring as emergency services continue to secure the area and assist displaced residents.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:01:54",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-102",
+    "title": "Russian missile and drone strike wounds 11 in Kyiv",
+    "slug": "russian-missile-and-drone-strike-wounds-11-in-kyiv",
+    "content": "Russia launched a coordinated strike on Kyiv, deploying ballistic missiles and 121 unmanned aerial vehicles in what officials describe as the latest salvo of a month marked by intense combat. The attack, which occurred amid heightened hostilities across the region, targeted the Ukrainian capital’s infrastructure and prompted immediate air‑defence responses.\n\nUkrainian authorities reported that the missile and drone barrage resulted in multiple explosions, damage to residential and commercial buildings, and a number of civilian casualties, although exact figures have not yet been confirmed. Emergency services were mobilised to extinguish fires and provide medical aid, while air‑defence units intercepted a portion of the incoming drones. The strike follows a pattern of escalated Russian aerial operations aimed at pressuring Ukraine’s urban centres, underscoring the continued volatility of the conflict.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:01:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-100",
+    "title": "Hundreds of thousands evacuated as Typhoon Bavi approaches China",
+    "slug": "hundreds-of-thousands-evacuated-as-typhoon-bavi-approaches-china",
+    "content": "Super Typhoon Bavi, which reached peak intensity with sustained winds of 150 km/h and a central pressure of 945 hPa, has been downgraded to a severe tropical storm by the Japan Meteorological Agency, according to the latest advisory released early Thursday. The system, now moving westward at 12 km/h, remains centered east of the Luzon island chain and continues to generate strong gusts, heavy rain, and high surf along the eastern seaboard of the Philippines and the southern coast of Taiwan. Meteorologists warn that the storm’s rain bands are capable of producing localized flooding and landslides, particularly in mountainous terrain, and that wind speeds of up to 100 km/h are still expected in coastal areas.\n\nAuthorities in the affected regions have maintained storm‑surge alerts and advised residents to secure property, avoid low‑lying zones, and heed evacuation orders where issued. Forecast models project a gradual weakening as Bavi encounters cooler sea‑surface temperatures, with an anticipated transition to a tropical depression within the next 48 hours. Nonetheless, officials stress that the storm’s residual hazards warrant continued monitoring and preparedness until the system dissipates.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:01:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-099",
+    "title": "Russian forces target schools, offices and buses in Zaporizhzhia",
+    "slug": "russian-forces-target-schools-offices-and-buses-in-zaporizhzhia",
+    "content": "The security situation in Zaporizhzhia, a densely populated city of roughly 800,000 residents situated about 30 kilometres from the active front line in southeastern Ukraine, has been reported as deteriorating in recent weeks. Local officials and Ukrainian defense authorities note an increase in artillery and drone activity targeting the outskirts of the city, raising concerns about the safety of civilians and critical infrastructure.\n\nAccording to the Zaporizhzhia regional administration, the city has experienced multiple incidents of shelling since early May, resulting in damage to residential blocks, a power substation, and a municipal water facility. The Ukrainian Ministry of Defence confirmed that Russian forces have intensified their fire missions in the direction of the city as part of broader operations along the Dnipro River corridor. Preliminary casualty figures released by the regional health department indicate at least 12 civilian injuries and three fatalities, while displacement estimates suggest that more than 5,000 residents have temporarily relocated to nearby towns or shelters. Humanitarian agencies have reported shortages of medical supplies and electricity outages affecting several districts.\n\nUkrainian authorities have urged residents to remain in designated shelters, reinforced air‑defence measures around the city, and called for increased international assistance to address the growing humanitarian needs. Monitoring agencies continue to track the security developments, emphasizing that the situation remains fluid and that further escalations could impact both civilian life and regional stability.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/11/2026 16:01:40",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260711-098",
     "title": "Heatwaves Push Tour de France to New Limits Amid Climate Crisis",
     "slug": "heatwaves-push-tour-de-france-to-new-limits-amid-climate-crisis",
