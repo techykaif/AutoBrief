@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260711-369",
+    "title": "Online therapy lowers depression and anxiety in dementia caregivers after six months",
+    "slug": "online-therapy-lowers-depression-and-anxiety-in-dementia-caregivers-after-six-mo",
+    "content": "A University of East Anglia research team has announced that its new digital therapy platform, designed to support caregivers of people with dementia, has been deemed a success after extensive testing. The project aimed to provide accessible, evidence‑based tools that could be used on both mobile devices and computers, allowing caregivers to receive guidance and support wherever they are.\n\nIn a trial involving nearly 500 volunteers, participants reported that the platform helped them manage the emotional and practical challenges of caregiving. The study, which was peer‑reviewed and funded by national health research bodies, highlighted the platform’s usability, the relevance of its content, and its potential to reduce caregiver stress. Researchers noted that the digital format made the intervention scalable and could be integrated into existing support networks for families caring for dementia patients.\n\nThe University of East Anglia team plans to expand the program’s reach by partnering with local health services and community organisations. By offering a flexible, technology‑driven resource, the project demonstrates a promising approach to enhancing caregiver well‑being and improving the overall quality of care for individuals living with dementia.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/12/2026 5:02:05",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-368",
+    "title": "Virtual fences mimic cattle response to electric fences",
+    "slug": "virtual-fences-mimic-cattle-response-to-electric-fences",
+    "content": "Virtual fences, which use GPS‑enabled collars and wireless signals to create invisible boundaries for livestock, may offer a more flexible and efficient way to manage grazing while addressing animal‑welfare concerns. A new study from the University of Göttingen examined how cattle respond to these virtual barriers and found that their movement patterns are comparable to those observed when animals are kept within conventional electric fences.\n\nThe researchers tracked the behavior of herds in a controlled field setting, measuring how the animals approached, crossed, and avoided the virtual fence lines. Their data show that cattle exhibit similar avoidance and boundary‑following behaviors to those seen with physical electric fences, suggesting that the virtual system can effectively guide herd movement without the need for physical infrastructure. The study, published in the peer‑reviewed journal *Animal*, indicates that the perceived welfare risks of virtual fencing may be less severe than previously feared, as the animals’ responses align with established, humane management practices.\n\nThese findings support the growing interest in precision livestock farming, where technology can reduce labor costs and improve pasture utilization. By demonstrating that virtual fences elicit natural herd behavior, the study provides a scientific basis for wider adoption of this technology, potentially leading to more sustainable and welfare‑friendly grazing systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/12/2026 5:02:00",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-367",
+    "title": "RISCBoy open-source portable gaming console released on GitHub",
+    "slug": "riscboy-open-source-portable-gaming-console-released-on-github",
+    "content": "A new open‑source project titled **RISCBoy** has been uploaded to GitHub under the account of user *Wren6991*. The repository, located at `https://github.com/Wren6991/RISCBoy`, presents a software implementation that combines elements of the RISC‑V instruction set architecture with the functionality of a classic handheld gaming system. The codebase includes an emulator core, supporting the execution of original game ROMs, as well as a development environment for building and testing custom software on the simulated platform.\n\nThe project quickly attracted attention on the technology news aggregator Hacker News, where the submission received 13 points and generated three comments as of the latest update. Discussion threads highlighted the technical approach of mapping Game Boy hardware behavior onto RISC‑V primitives, the potential educational value for developers learning low‑level programming, and the completeness of the emulator’s feature set. No formal releases or external endorsements have been reported beyond the initial community response.\n\nOverall, RISCBoy adds to the growing ecosystem of RISC‑V‑based emulation tools, offering a niche yet functional platform for hobbyists and researchers interested in retro gaming and processor architecture experimentation. The repository remains publicly accessible for further contributions and collaborative development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 5:01:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-366",
+    "title": "Blog post critiques overreliance on large language models",
+    "slug": "blog-post-critiques-overreliance-on-large-language-models",
+    "content": "A recent blog post titled “Stop telling me to ask an LLM” has sparked discussion across the tech community after it was highlighted on Hacker News. Authored by Yael, the piece critiques the growing habit of directing users to large language models (LLMs) for answers to everyday problems, arguing that the practice can obscure critical thinking and lead to over‑reliance on automated responses. The article outlines several scenarios where the default recommendation to “just ask an LLM” falls short, including nuanced technical troubleshooting, ethical decision‑making, and contexts where data privacy is paramount. Yael emphasizes that while LLMs are powerful tools, they should complement, not replace, human expertise and thorough research.\n\nThe post quickly garnered attention on the Hacker News thread (item ID 48876441), where it accumulated 66 points and generated 29 comments. Readers debated the balance between leveraging AI assistance and maintaining independent problem‑solving skills, with many echoing the author’s call for more discerning use of LLMs. The conversation underscores a broader industry dialogue about responsible AI integration, highlighting both the enthusiasm for rapid, AI‑driven solutions and the caution urged by practitioners wary of complacency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 5:01:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-365",
+    "title": "Mesh LLM introduces distributed AI computing on Iroh platform",
+    "slug": "mesh-llm-introduces-distributed-ai-computing-on-iroh-platform",
+    "content": "A new blog post titled “Mesh‑LLM” was published on the Iroh Computer blog, outlining a proposed architecture for scaling large language models across distributed hardware. The article details how the mesh topology enables parallel processing of model parameters, reduces communication overhead, and aims to improve training efficiency for models exceeding hundreds of billions of parameters. Technical diagrams illustrate the partitioning strategy, and the author compares the approach with existing data‑parallel and pipeline‑parallel methods, highlighting potential gains in throughput and cost‑effectiveness.\n\nThe post attracted attention on Hacker News, where it received 16 up‑votes and generated five comments discussing its feasibility, potential use cases, and implementation challenges. Commenters raised questions about latency, fault tolerance, and integration with existing deep‑learning frameworks, while also noting the relevance of such a design for emerging AI workloads. The discussion reflects broader industry interest in novel distributed training techniques as the scale of language models continues to expand.\n\nOverall, the “Mesh‑LLM” proposal adds to ongoing research into more efficient model parallelism, and the early community response suggests both curiosity and cautious optimism about its practical impact on large‑scale AI development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 5:01:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-364",
+    "title": "Weightlifting more effective than running for blood sugar control, study shows",
+    "slug": "weightlifting-more-effective-than-running-for-blood-sugar-control-study-shows",
+    "content": "A research team at Virginia Tech’s Fralin Biomedical Research Institute published a study in November 2025 examining the physiological impacts of structured weight‑lifting programs on adult health markers. Led by senior scientist Dr. Yan Liu, the investigation tracked 312 participants over a twelve‑month period, measuring changes in muscle mass, bone density, cardiovascular fitness, and metabolic profiles. The results indicated statistically significant improvements in lean body mass and bone mineral density, alongside modest reductions in resting blood pressure and fasting glucose levels, suggesting that regular resistance training can contribute to broader preventive health benefits. The study employed a randomized controlled design, with participants assigned to either a supervised weight‑lifting regimen three times per week or a control group maintaining usual activity levels, and findings were peer‑reviewed and published in the journal *Biomedical Research Advances*.\n\nThe publication quickly attracted attention on the technology news aggregator Hacker News, where the article’s link garnered 28 points and sparked a discussion thread that generated twelve comments. Participants in the discussion highlighted the study’s methodological rigor and debated its implications for public health guidelines, while some raised questions about the long‑term adherence to resistance‑training programs in diverse populations. The research adds to a growing body of evidence supporting resistance exercise as a viable component of comprehensive health strategies, and the authors plan follow‑up studies to explore age‑specific outcomes and the integration of weight‑lifting protocols into community health initiatives.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 5:01:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260711-363",
+    "title": "FIFA to sell World Cup final stadium turf pieces",
+    "slug": "fifa-to-sell-world-cup-final-stadium-turf-pieces",
+    "content": "The stadium announced that fragments of the playing surface will be offered as collectible memorabilia, with individual pieces priced between $450 and $1,200. The initiative targets fans and collectors who wish to own a tangible piece of the venue’s recent history, and the items will be made available through the stadium’s official sales channels.\n\nThe memorabilia sale is scheduled to begin shortly, with a limited supply of turf sections expected to be released. Pricing reflects the rarity and condition of each piece, and purchasers will receive a certificate of authenticity confirming the origin of the material. The offering provides a new revenue stream for the stadium while giving supporters a unique way to commemorate their experiences.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 5:01:38",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260711-360",
     "title": "US Crypto Regulation Bill Nears Deadline",
     "slug": "us-crypto-regulation-bill-nears-deadline",
