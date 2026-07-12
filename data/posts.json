@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260712-127",
+    "title": "Apple Trade Secrets Allegedly Stolen",
+    "slug": "apple-trade-secrets-allegedly-stolen",
+    "content": "Apple has filed a lawsuit against OpenAI alleging that the AI company unlawfully accessed and used proprietary trade secrets related to battery technology and design. The suit, filed in 2026, centers on Apple’s use of Masimo’s A123 lithium‑ion battery technology in its latest devices and claims that confidential design schematics—some of which were developed by former Apple design chief Jony Ive—were misappropriated by OpenAI. Apple argues that the stolen information enabled OpenAI to train models that could replicate or improve battery performance, thereby eroding Apple’s competitive advantage.\n\nAccording to the complaint, OpenAI obtained the confidential data through a series of data‑sharing agreements that Apple later deemed non‑disclosure. Apple contends that the data included detailed specifications, performance metrics, and design drawings that were essential to the integration of the A123 battery into its product line. The lawsuit also cites evidence that Jony Ive’s design documents, which outline the aesthetic and functional integration of the battery within Apple’s hardware, were included in the stolen material. Apple seeks injunctive relief and damages for the alleged theft and misuse of its intellectual property.\n\nThe case underscores the broader industry debate over how AI firms handle proprietary information from hardware manufacturers. While the lawsuit has yet to reach trial, analysts suggest it could establish a new legal benchmark for the use of confidential data in AI training. Public discussion of the case has been limited, with only a handful of comments appearing on a Y Combinator discussion thread, indicating that the matter remains largely confined to legal and industry circles.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 16:32:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-125",
+    "title": "Scientists Use AI and Quantum Computing to Generate New Peptides",
+    "slug": "scientists-use-ai-and-quantum-computing-to-generate-new-peptides",
+    "content": "A collaborative team of researchers has demonstrated how quantum computing can accelerate drug discovery for rare diseases and medically underserved communities. By applying advanced quantum algorithms to simulate complex molecular interactions, the study illustrates how next-generation computational systems can process biological data that exceeds the capacity of conventional supercomputers. The work establishes a technical foundation for directing pharmaceutical research toward conditions that have historically received limited industry attention.\n\nThe initiative operated on a combination of academic grants, private",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 16:32:27",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-124",
+    "title": "Top STEM Toys for Kids",
+    "slug": "top-stem-toys-for-kids",
+    "content": "A fresh wave of STEM‑focused playthings has emerged, offering young learners a hands‑on gateway to mathematics and science. These toys let kids assemble intricate structures, bake edible experiments, squish soft materials, or tear apart and rebuild their creations, turning everyday play into a dynamic learning experience.\n\nThe assortment spans a range of concepts—from building blocks that teach geometry and symmetry to chemistry kits that demonstrate reactions in a safe, edible format. Some sets require precise measurements, encouraging the application of algebraic thinking, while others feature magnetic or modular components that illustrate principles of physics such as balance and force. Designed for children as young as five, the products are marketed to parents and educators seeking engaging tools that reinforce curriculum goals in a playful, tactile way.\n\nBy blending creativity with concrete scientific principles, these toys help nurture curiosity and problem‑solving skills. They provide a versatile resource for home and classroom use, allowing children to explore, experiment, and iterate in a supportive environment that celebrates both failure and discovery.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 16:32:22",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-123",
+    "title": "Apple Updates Child Safety Features in iOS",
+    "slug": "apple-updates-child-safety-features-in-ios",
+    "content": "Apple announced a suite of new child‑safety features that will arrive on iPhones, iPads, Apple Watches and other devices in the coming months. The company said the updates will expand the existing Screen Time and Family Sharing tools, adding finer‑grained controls for app usage, content filtering and location sharing. Parents will be able to set limits on how long children can spend on specific apps, block or approve new downloads, and view a daily activity report that shows time spent on each app. The new location‑sharing feature will let parents see a child’s real‑time whereabouts on a map and receive alerts if the child leaves a pre‑defined safe zone.\n\nApple also highlighted privacy‑first design choices. The updated controls will be integrated with the device’s built‑in privacy settings, ensuring that any data shared with family members is encrypted and only visible to authorized users. The company said the changes will be rolled out through the next iOS, iPadOS, and watchOS updates, with beta releases already available to developers. Apple’s announcement follows growing public and regulatory attention to digital safety for minors, and the company reiterated its commitment to giving parents more tools to protect children while maintaining a user‑friendly experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/12/2026 16:32:18",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-120",
+    "title": "Argentina fans erupt as Messi's side reach World Cup semi",
+    "slug": "argentina-fans-erupt-as-messi-s-side-reach-world-cup-semi",
+    "content": "Argentina secured a place in the World Cup semifinals after a dramatic 3‑1 extra‑time victory over a reduced‑strength Switzerland, sparking celebrations across Buenos Aires. The defending champions, who entered the knockout stage as favorites, overcame a resilient Swiss side that had been reduced to ten men early in the second half, forcing the match into extra time before clinching the win.\n\nThe triumph marks Argentina’s progression to the tournament’s penultimate round, where they will face the winner of the other quarter‑final. Fans gathered in the capital’s main squares, waving flags and chanting as news of the result spread, while the team’s coach praised the squad’s composure under pressure and highlighted the tactical adjustments that capitalised on Switzerland’s numerical disadvantage. The semifinal matchup is set for next week, with the outcome poised to determine whether Argentina can defend their title.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:32:10",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-119",
+    "title": "Jude Bellingham scores twice as England beats Norway to reach World Cup semifinals",
+    "slug": "jude-bellingham-scores-twice-as-england-beats-norway-to-reach-world-cup-semifina",
+    "content": "England secured a 2‑1 victory over Norway in extra time on 12 July 2026, advancing to the World Cup semifinals. The match, played in front of a packed stadium, saw Jude Bellingham score twice to give the Three Lions a narrow win after regulation time ended 1‑1. Bellingham’s goals, a powerful header and a precise finish from the edge of the box, proved decisive in the extended 120 minutes.\n\nThe win has sparked celebrations across London, where thousands of fans streamed onto the streets to cheer the national team. England’s triumph follows a disciplined performance that saw them hold Norway to a single goal before the extra‑time period. With the victory, England will now face Argentina in the semifinal, a clash that is expected to be a high‑profile showdown between the two footballing powerhouses.\n\nAs the tournament moves into its final stages, England’s journey to the World Cup final has been marked by resilience and key individual performances. The upcoming match against Argentina will determine whether the Three Lions can maintain their momentum and secure a place in the championship game.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:32:05",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-118",
+    "title": "Eiffel Tower to close early on weekend because of heatwave",
+    "slug": "eiffel-tower-to-close-early-on-weekend-because-of-heatwave",
+    "content": "The Eiffel Tower will close earlier than usual this weekend, with the operator announcing that the iconic Paris landmark will shut its doors at 4 p.m. (1400 GMT) on Saturday and Sunday. The decision comes as France experiences a third heatwave since May, with temperatures soaring above 35 °C (95 °F) in many regions, prompting authorities to take precautionary measures at major tourist sites.\n\nThe early closure is part of a broader effort to protect visitors and staff from the intense heat. While the tower typically opens at 9 a.m. and remains open until 10 p.m., the new schedule will reduce the operating window by two hours. The operator urged visitors to plan accordingly and to check the official website for any last‑minute changes or special arrangements.\n\nThis temporary adjustment reflects the ongoing challenges posed by France’s current heatwave, which has led to a series of early‑closing measures across the country. Tourists are advised to stay hydrated, wear light clothing, and consider visiting the tower during cooler morning hours to avoid the peak heat.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:32:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-117",
+    "title": "Pitbull Sets Guinness World Record for Largest Gathering of Bald Caps at London Show",
+    "slug": "pitbull-sets-guinness-world-record-for-largest-gathering-of-bald-caps-at-london",
+    "content": "US rapper Pit Bull has earned a place in the Guinness World Records books after orchestrating the largest gathering of people wearing bald caps. The event, held on a Saturday in downtown Miami, saw 1,200 participants donning the iconic headpieces that have become a staple of the artist’s signature look. According to Guinness officials, the record was officially ratified after a thorough verification process that included photographic evidence and independent witnesses.\n\nPit Bull, whose real name is Armando Christian Pérez, has long embraced the bald cap as a symbol of his flamboyant persona. The record‑breaking assembly was part of a promotional tour for his latest album and also served as a charity fundraiser for local youth programs. Organizers reported that the crowd was diverse, ranging from long‑time fans to newcomers, all unified by a shared enthusiasm for the rapper’s music and theatrical style. The event drew attention from both media outlets and the music community, highlighting Pit Bull’s influence beyond the studio and into pop culture.\n\nThe Guinness World Record not only underscores Pit Bull’s creative flair but also showcases the power of fan engagement in contemporary music marketing. By turning a playful costume element into a record‑setting spectacle, the rapper has set a new benchmark for how artists can connect with audiences and generate buzz. The achievement is expected to inspire similar large‑scale fan events in the future, further blending entertainment with community participation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:31:57",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-116",
+    "title": "Le Pen cleared to run, Khamenei funeral, Mbappé scores wonder goal",
+    "slug": "le-pen-cleared-to-run-khamenei-funeral-mbapp-scores-wonder-goal",
+    "content": "Marine Le Pen, the leader of France’s far‑right National Rally, was cleared to stand in next year’s presidential election after a court upheld her embezzlement conviction but ruled that the penalty did not bar her from running. The decision, announced on Thursday, comes amid a week that also saw Iran hold days‑long funeral ceremonies for the late Supreme Leader Ayatollah Ali Khamenei, and football stars Kylian Mbappé and Lionel Messi deliver decisive performances that propelled their teams into the World Cup semi‑finals. France 24 has highlighted the week’s most striking images, from the solemn mourning in Tehran to the jubilant celebrations on the pitch.\n\nThe ruling on Le Pen’s candidacy underscores the French judiciary’s stance that a criminal conviction does not automatically disqualify a candidate, a point that has drawn both domestic and international scrutiny. Meanwhile, Iran’s elaborate tribute to Khamenei reflected the nation’s reverence for its former leader, while Mbappé and Messi’s standout displays—Mbappé’s late goal against Argentina and Messi’s hat‑trick against the United States—captured the imagination of football fans worldwide. Together, these events illustrate the diverse array of political, cultural, and sporting narratives that defined the week.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:31:53",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-114",
+    "title": "Iran's Supreme Leader Khamenei funeral highlights media narrative limits",
+    "slug": "iran-s-supreme-leader-khamenei-funeral-highlights-media-narrative-limits",
+    "content": "Tehran’s streets were lined with mourners on Saturday as Iran’s Supreme Leader, Ayatollah Ali Khamenei, lay in state at the Imam Reza shrine, marking the first funeral of a living head of state in the Islamic Republic’s history. State television broadcast a continuous feed of the ceremony, highlighting the presence of senior clerics, military officials, and representatives from the Revolutionary Guard, while also showing crowds of ordinary citizens holding candles and reciting prayers. International news agencies reported on the unprecedented scale of the event, noting that more than 500,000 people were estimated to have gathered despite strict limits on public assembly, and that security forces deployed additional checkpoints and surveillance drones to manage the flow of participants. Coverage from regional outlets emphasized the ritual’s religious significance and the continuity of the theocratic system, whereas Western media focused on the tightly controlled narrative, the absence of dissenting voices, and the symbolic messages conveyed by the tightly choreographed procession.\n\nAnalysts observing the divergent reporting agreed that the funeral exposed the constraints of familiar narratives about Iran that often reduce the country to a monolithic portrait of repression or religious zealotry. The extensive visual documentation of personal grief, intergenerational attendance, and spontaneous expressions of loyalty suggested a more complex social fabric than the binary depictions commonly seen in foreign press. Simultaneously, the state’s meticulous management of the event, including the suppression of unsanctioned chants and the rapid removal of any signs of protest, reinforced longstanding concerns about limited freedoms. The juxtaposition of these elements in the funeral’s coverage underscores the need for nuanced reporting that accounts for both the regime’s orchestrated messaging and the varied, sometimes contradictory, experiences of the Iranian populace.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:31:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-113",
+    "title": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
+    "slug": "former-qatar-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74",
+    "content": "Sheikh Hamad bin Khalifa Al Thani, the former emir of Qatar who ruled from 1995 until his abdication in 2013, died at the age of 74. His death was confirmed by Qatar’s Amiri Diwan, which announced that the former leader passed away peacefully after a brief illness. Hamad succeeded his father, Sheikh Khalifa bin Hamad Al Thani, and during his 18‑year tenure oversaw a rapid transformation of the Gulf state, diversifying the economy, expanding the nation’s global diplomatic profile and launching major infrastructure projects such as the new capital city, Lusail, and the 2022 FIFA World Cup stadiums.\n\nIn 2013 Sheikh Hamad voluntarily transferred power to his son, Sheikh Tamim bin Hamad Al Thani, marking a rare peaceful succession in the region. Under Hamad’s rule, Qatar’s per‑capita income rose sharply, the country became a major player in natural‑gas exports, and its media outlet Al Jazeera gained worldwide influence. His death closes a significant chapter in Qatar’s modern history, and the current emir is expected to lead a period of national mourning while continuing the policies established by his father.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:31:42",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260712-112",
+    "title": "British couple rescued with severe burns in Spain wildfires",
+    "slug": "british-couple-rescued-with-severe-burns-in-spain-wildfires",
+    "content": "Rescue teams in Spain’s Almería province discovered two unidentified individuals semi‑conscious after they were trapped by rapidly spreading wildfires that have engulfed large swaths of the region. Emergency responders reported that both victims sustained burns covering approximately 40 percent of their bodies and were quickly transported to a nearby medical facility for treatment.\n\nAuthorities said the blazes, driven by strong winds and high temperatures, have forced the evacuation of several villages and prompted the deployment of aerial water drops and ground crews to contain the flames. The incident underscores the ongoing challenges faced by firefighters as they work to protect residents and prevent further casualties in the province’s worst fire season in recent years.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/12/2026 16:31:38",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260712-111",
     "title": "Conor McGregor Suffers Knee Injury in UFC Return",
     "slug": "conor-mcgregor-suffers-knee-injury-in-ufc-return",
@@ -486,7 +618,7 @@
   {
     "id": "BLOG-20260712-055",
     "title": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
-    "slug": "former-qatar-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74",
+    "slug": "former-qatar-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-1",
     "content": "Sheikh Hamad bin Khalifa Al Thani, who ascended to the Qatari throne in 1995 and reigned until 2013, is widely credited with steering the country from a modest oil and gas producer into a global energy powerhouse. During his 18‑year reign he implemented a series of economic reforms, diversified public investment, and positioned Qatar as a leading exporter of liquefied natural gas, generating a surplus that financed extensive infrastructure projects and social programs.\n\nUnder Sheikh Hamad’s leadership, Qatar also modernized its financial sector, established the Qatar Investment Authority, and pursued a diplomatic strategy that elevated the nation’s international profile. His administration oversaw the construction of world‑class sporting venues, the expansion of the Hamad International Airport, and the launch of the Doha Metro, all of which have become integral to the country’s economic and cultural development.\n\nThe legacy of Sheikh Hamad’s rule is evident in Qatar’s current standing as one of the world’s richest nations per capita and a key player in global energy markets. His tenure laid the foundations for the nation’s continued growth and its role as a mediator in regional and international affairs.",
     "category": "World",
     "categorySlug": "world",
