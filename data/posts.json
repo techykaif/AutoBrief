@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260713-395",
+    "title": "SpaceX Starship Flight 13 launch updates: SpaceX sets target date for next Starship rocket launch",
+    "slug": "spacex-starship-flight-13-launch-updates-spacex-sets-target-date-for-next-starsh",
+    "content": "SpaceX is gearing up for a crucial milestone in its ambitious Starship program, with preparations underway for the next major test launch. The Starship, a reusable spacecraft designed to take both people and cargo to the Moon, Mars, and other destinations in the solar system, has been undergoing a series of rigorous tests and development phases. The upcoming launch, which is expected to take place at the company's Starbase facility in Boca Chica, Texas, will mark a significant step forward in the spacecraft's development.\n\nAccording to sources, the test launch will focus on the Starship's Super Heavy booster, a massive rocket designed to propel the spacecraft into orbit. The Super Heavy booster has been undergoing its own series of tests, including a successful static fire test earlier this year. The upcoming launch will provide an opportunity for SpaceX to demonstrate the booster's capabilities and further validate its design. The success of this test will be crucial for the Starship program, as it will bring the spacecraft one step closer to its ultimate goal of establishing a human presence on Mars.\n\nThe Starship program has been making rapid progress in recent years, with several successful test flights and a growing team of engineers and technicians working to bring the spacecraft to fruition. With the upcoming test launch, SpaceX is poised to take another significant step forward in its quest to make humanity a multi-planetary species. As the company continues to push the boundaries of space technology, the world watches with bated breath, eager to see the next major milestone in the Starship program.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "7/14/2026 3:52:21",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-393",
+    "title": "Police arrest man at Capitol with firearm",
+    "slug": "police-arrest-man-at-capitol-with-firearm",
+    "content": "A 67-year-old Mississippi man was taken into custody by U.S. Capitol Police after allegedly being spotted with a handgun in his vehicle outside the North Barricade of the U.S. Capitol building on Monday. Wendell J. Royster, a resident of Columbia, Mississippi, is facing a single charge of carrying a pistol without a license and without a permit. According to the U.S. Capitol Police statement, the incident occurred around 11:22 a.m.\n\nDetails surrounding the incident are still emerging, but authorities have confirmed that Royster was stopped and detained by USCP officers after they observed the handgun in his possession. The North Barricade is a secure area of the U.S. Capitol complex, and the presence of a firearm in this location is a serious concern for law enforcement. The incident has been referred to the U.S. Attorney's Office for further review and potential prosecution.\n\nThe arrest of Wendell J. Royster serves as a reminder of the heightened security measures in place around the U.S. Capitol building, particularly in the wake of recent high-profile incidents. The U.S. Capitol Police will continue to work to ensure the safety and security of visitors, staff, and lawmakers within the complex.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/14/2026 3:52:16",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-391",
+    "title": "Maine senators demand independent investigation after ICE shooting",
+    "slug": "maine-senators-demand-independent-investigation-after-ice-shooting",
+    "content": "Maine's Senators Call for Investigation into Fatal Shooting by Immigration Authorities\n\nIn a developing story, Maine's two senators have requested an impartial investigation into the fatal shooting of a Colombian man by immigration authorities. The incident has sparked concerns and raised questions about the circumstances surrounding the shooting. According to Senator Angus King (I-Maine), the Department of Homeland Security (DHS) has disclosed that the man had allegedly weaponized his vehicle, which led to the fatal confrontation. King shared this information after speaking with Homeland Security Secretary Markwayne Mullin.\n\nThe details of the incident remain scarce, and the senators' demand for an impartial investigation aims to shed light on the events leading up to the shooting. An independent probe would help determine the facts and provide clarity on the actions taken by the immigration authorities. The investigation will also assess whether the use of force was justified and whether any protocols were violated. The incident has garnered significant attention, and the senators' call for an investigation reflects the need for transparency and accountability.\n\nAs the investigation unfolds, the public will be watching closely to understand the circumstances surrounding the fatal shooting. The demand for an impartial investigation by Maine's senators underscores the importance of transparency and accountability in such incidents. The outcome of the investigation will provide valuable insights into the actions of the immigration authorities and help ensure that similar incidents are prevented in the future.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/14/2026 3:52:10",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-389",
+    "title": "Trial finds combined exercise-nutrition intervention safe but not more effective in ICU",
+    "slug": "trial-finds-combined-exercise-nutrition-intervention-safe-but-not-more-effective",
+    "content": "A groundbreaking national clinical trial is revolutionizing the field of recovery research for critically ill patients, yielding significant insights into the optimal delivery of rehabilitation and nutrition interventions during severe illness. The comprehensive study, which involved a large cohort of ICU survivors, aimed to investigate the effectiveness of various rehabilitation and nutrition strategies in improving outcomes for patients recovering from critical illness. The trial's findings are expected to have a profound impact on the development of evidence-based guidelines for ICU care, ultimately shaping the future of recovery research and informing the next generation of studies focused on improving patient outcomes.\n\nKey findings from the trial have provided valuable new evidence on the importance of timely and targeted rehabilitation interventions, including physical therapy and occupational therapy, in facilitating recovery and reducing the risk of long-term disability among ICU survivors. The study also highlighted the significance of personalized nutrition planning, emphasizing the need for tailored nutritional support to meet the unique needs of critically ill patients. By shedding light on these critical aspects of ICU care, the trial's results are poised to influence clinical practice and research priorities, ultimately transforming the landscape of recovery research and improving the prospects for critically ill patients.\n\nThe trial's results are expected to have far-reaching implications for the development of more effective rehabilitation and nutrition interventions, ultimately leading to better outcomes for ICU survivors. By informing the next generation of research and clinical practice, the study's findings have the potential to make a lasting impact on the lives of critically ill patients and their families, underscoring the importance of continued investment in recovery research and its translation into improved patient care.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/14/2026 3:52:05",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-384",
+    "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+    "slug": "show-hn-sigwire-a-live-tui-switchboard-for-every-signal-on-your-linux-box",
+    "content": "**Linux Developers Gain Insight into Signal Handling with New Tool**\n\nA new open-source tool has been released, allowing Linux developers to inspect signals across processes in a more detailed and efficient manner. The tool, which has garnered attention on the popular tech forum Y Combinator, has been designed to provide a deeper understanding of signal handling in Linux, a crucial aspect of process management.\n\nAccording to the tool's comments section, it has been developed to cater to the needs of Linux developers who often struggle to diagnose and troubleshoot signal-related issues. By providing a clear and organized view of signal activity across multiple processes, the tool aims to streamline the debugging process and reduce the time spent on troubleshooting. The tool's creator has shared the project's URL on Y Combinator, where it has received attention and feedback from the developer community.\n\nThe release of this tool is expected to benefit Linux developers and system administrators who work with complex systems and need to monitor signal activity in real-time. As the tool continues to gain traction, it may also pave the way for further innovation in Linux process management and signal handling.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:51:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-382",
+    "title": "Apple Expands Siri Capabilities in iOS 27 Beta",
+    "slug": "apple-expands-siri-capabilities-in-ios-27-beta",
+    "content": "Apple has unveiled a revamped version of its iconic voice assistant, Siri, which is poised to play a pivotal role in the iPhone user experience. The latest iteration of Siri is now available for public testing through the iOS 27 beta program. This significant upgrade marks a major shift in the way users interact with their iPhones, as Siri is no longer just a voice assistant, but a more integral part of the overall interface.\n\nThe revamped Siri is designed to be more intuitive and proactive, allowing users to access various features and functions with ease. With its advanced capabilities, Siri can now seamlessly integrate with other Apple services, such as Messages, Mail, and Maps, to provide a more cohesive and streamlined experience. Additionally, Siri's language processing capabilities have been enhanced, enabling it to better understand complex queries and provide more accurate responses. This upgrade is expected to revolutionize the way users navigate their iPhones, making it faster, more efficient, and more user-friendly.\n\nAs the public beta of iOS 27 becomes available, iPhone users can now experience the revamped Siri firsthand. With its advanced features and capabilities, this upgraded voice assistant is set to transform the iPhone user experience, providing users with a more intuitive and seamless way to interact with their devices. As Apple continues to refine and improve Siri, it will be interesting to see how this revamped version evolves and shapes the future of iPhone user interaction.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:51:49",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-381",
+    "title": "OnePlus to Exit US and European Markets",
+    "slug": "oneplus-to-exit-us-and-european-markets",
+    "content": "OnePlus, a popular smartphone brand, is reportedly planning to exit the US and European markets. According to a machine translation of a WinFuture report, the company and its parent, Oppo, are set to announce the move in the coming days. This development marks the culmination of months of speculation surrounding the future of OnePlus.\n\nThe news follows previous rumors and reports that suggested OnePlus was being dismantled. In January, Android Headlines reported that the brand was being phased out, but OnePlus swiftly denied these claims, stating that its North American operations were continuing as usual, with guarantees for user support, software updates, and rights commitments. More recently, 9to5Google reported that OnePlus might cease operations in global markets, further fueling concerns about the brand's future.\n\nIf the exit from the US and European markets is confirmed, it would likely have significant implications for OnePlus customers in these regions. The company's decision to leave these markets may be attributed to various factors, including increased competition and changing market dynamics. As more information becomes available, it is expected that OnePlus and Oppo will provide further clarification on the situation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:51:45",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-379",
+    "title": "Ukraine strikes halt shipments on major wheat route amid Russian fuel shortage",
+    "slug": "ukraine-strikes-halt-shipments-on-major-wheat-route-amid-russian-fuel-shortage",
+    "content": "The global equity markets closed higher on Friday, with the U.S. S&P 500 and Nasdaq Composite both posting gains of 0.8 % and 1.2 % respectively, while Europe’s STOXX 600 slipped 0.3 %. The rally was driven by strong earnings reports from several technology and consumer‑goods firms, and a muted reaction to the Federal Reserve’s latest policy statement, which reaffirmed its commitment to a gradual tapering of asset‑purchase programs. In Asia, Japan’s Nikkei 225 edged up 0.6 % on a positive outlook for domestic retail sales, whereas Hong Kong’s Hang Seng Index fell 0.4 % amid concerns over tightening liquidity in the property sector.\n\nOn the macro front, the U.S. Treasury Department released data showing a 0.2 % rise in the 10‑year yield, the highest level in three months, as investors priced in a continued tightening cycle. Meanwhile, the European Central Bank’s Governing Council announced a modest increase in its key rate to 4.25 %, citing persistent inflationary pressures in the eurozone. In the corporate arena, Apple reported a 12 % year‑over‑year increase in quarterly revenue, while a major oil producer in the Middle East announced a 5 % cut in its dividend payout to shore up balance sheets amid volatile crude prices.\n\nLooking ahead, market participants will closely monitor the upcoming U.S. non‑farm payroll report due next week, as well as the European Central Bank’s policy meeting on Thursday. Analysts suggest that any sign of a softer labor market or a shift in inflation expectations could influence the pace of future rate hikes. The day’s overall sentiment remains cautiously optimistic, with investors balancing the backdrop of robust corporate earnings against the backdrop of tightening monetary conditions and geopolitical uncertainties.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/14/2026 3:51:37",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260713-378",
     "title": "Wildfire Rages South of Paris, Containment Efforts Underway",
     "slug": "wildfire-rages-south-of-paris-containment-efforts-underway",
