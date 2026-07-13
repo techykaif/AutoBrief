@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260713-317",
+    "title": "Ferroelectric Materials Behavior Revealed",
+    "slug": "ferroelectric-materials-behavior-revealed",
+    "content": "New research is providing valuable insights into the behavior of ferroelectric materials when exposed to electric fields, a topic that has been the subject of ongoing debates among scientists. Ferroelectric materials have the ability to exhibit spontaneous electric polarization, and their properties make them useful in a wide range of applications, including memory devices, sensors, and actuators. The behavior of these materials when subjected to electric fields is complex, and understanding the underlying mechanisms is crucial for optimizing their performance and exploiting their potential.\n\nThe breakthrough in this research stems from the development of a novel technique that enables researchers to observe the real-time behavior of domain walls in ferroelectric materials as they are \"poled\" and \"depoled.\" Domain walls are the boundaries between regions of different polarization in a ferroelectric material, and their movement and dynamics play a critical role in determining the material's overall behavior. By observing the domain walls in real-time, researchers can gain a deeper understanding of the underlying mechanisms that govern the behavior of ferroelectric materials, and shed light on the longstanding debates that have surrounded this topic.\n\nThe findings of this research have significant implications for the development of ferroelectric materials and devices, and are expected to contribute to the advancement of fields such as materials science and electronics. As researchers continue to explore the properties and behavior of ferroelectric materials, this new technique is likely to play a key role in unlocking their full potential and enabling the creation of new and innovative technologies. With its potential to resolve longstanding debates and provide new insights into the behavior of ferroelectric materials, this research represents an important step forward in the field.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:55",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-315",
+    "title": "Earthquake Size Patterns Linked to Location",
+    "slug": "earthquake-size-patterns-linked-to-location",
+    "content": "Japan is renowned for its significant earthquake activity, but the frequency and magnitude of these seismic events vary across different regions. To better comprehend the patterns of earthquake occurrence, researchers have long relied on the b-value, a crucial statistical measure. The b-value is a key indicator used to assess seismicity and understand the likelihood of large or small earthquakes in a particular area. By analyzing the b-value, scientists can gain valuable insights into the underlying mechanisms that drive earthquake activity, ultimately informing their understanding of seismic hazard and risk.\n\nThe b-value is calculated based on the frequency-magnitude distribution of earthquakes, providing a quantitative measure of the relative number of large and small earthquakes in a given region. A lower b-value indicates a higher proportion of large earthquakes, while a higher b-value suggests a greater number of small earthquakes. By examining the b-value across different regions in Japan, researchers can identify areas that are more prone to significant seismic activity and those that tend to experience smaller, more frequent earthquakes. This information is essential for seismic hazard assessment and mitigation efforts, as it enables authorities to develop targeted strategies for reducing the impact of earthquakes on communities and infrastructure.\n\nIn conclusion, the b-value is a vital tool for understanding earthquake patterns in Japan, a country with a complex and dynamic seismic landscape. By analyzing the b-value, researchers and authorities can gain a deeper understanding of the underlying seismic processes and develop more effective strategies for mitigating the risks associated with earthquake activity. This knowledge can ultimately contribute to saving lives, reducing damage, and promoting resilience in the face of seismic hazards, making Japan a safer and more resilient place for its inhabitants.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:47",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-313",
+    "title": "AI-Powered Electronic Nose Detects Thousands of Odors",
+    "slug": "ai-powered-electronic-nose-detects-thousands-of-odors",
+    "content": "A significant breakthrough has been made in the development of an \"artificial olfactory system\" that mimics the human sense of smell, with a research team presenting a comprehensive roadmap for its creation. Led by Hyuk-Jun Kwon from the Department of Electrical Engineering & Computer Science at Daegu Gyeongbuk Institute of Science and Technology, the team has outlined a systematic approach to building an electronic nose that can detect and analyze odors using artificial intelligence (AI). This innovative system leverages metal-organic frameworks (MOFs), which are being explored for their potential in sensing and recognizing various odor patterns.\n\nThe research team's work involves a thorough review of key trends in electronic nose technology, covering MOF material design, sensor implementation, and AI-based odor pattern recognition. By organizing and analyzing existing research in this field, the team aims to provide a foundation for the development of a highly sensitive and accurate artificial olfactory system. The publication of their work in the journal Progress in Materials Science marks an important milestone in this endeavor, as it highlights the potential of MOFs and AI in creating a cutting-edge electronic nose. This technology has the potential to be applied in various fields, including healthcare, environmental monitoring, and food safety.\n\nThe presentation of this roadmap is a significant step forward in the development of an artificial olfactory system, and the research team's work is expected to pave the way for further innovation in this area. With the publication of their findings, the team has provided a valuable resource for researchers and scientists working on similar projects, and their work is likely to contribute to the advancement of electronic nose technology in the years to come. As research in this field continues to evolve, the potential applications of an artificial olfactory system are likely to expand, leading to new and exciting developments in the future.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:38",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-311",
+    "title": "AI Data Center Emissions Reduced by Carbon Storage",
+    "slug": "ai-data-center-emissions-reduced-by-carbon-storage",
+    "content": "The increasing demand for computing power in the United States, driven by the rapid growth of artificial intelligence, has significant implications for the environment. As data centers expand to meet this demand, their energy consumption and associated greenhouse gas emissions are expected to rise substantially. In response to this challenge, a recent study co-authored by Hon Chung Lau, an adjunct professor at Rice University and founder of Low Carbon Energies LLC, has explored the potential of carbon capture and storage (CCS) in mitigating the climate impact of data centers.\n\nThe study suggests that the integration of CCS technology into data center operations could play a crucial role in reducing the carbon footprint of these facilities. By capturing and storing the carbon dioxide emissions generated by data centers, CCS can help limit the contribution of these emissions to climate change. This approach is particularly relevant in the context of the growing demand for computing power, as it offers a potential solution for minimizing the environmental impact of data centers while still meeting the increasing demand for digital services. The study's findings highlight the importance of considering the environmental implications of emerging technologies and the need for innovative solutions to address these challenges.\n\nIn conclusion, the study's findings underscore the potential of carbon capture and storage as a key strategy for reducing the climate impact of data centers. As the demand for computing power continues to accelerate, the development and deployment of CCS technology could help mitigate the environmental effects of this growth, supporting a more sustainable future for the digital economy. By exploring innovative solutions like CCS, researchers and industry leaders can work together to minimize the carbon footprint of data centers and promote a more environmentally responsible approach to technological development.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:29",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-310",
+    "title": "New Catalyst Enables Mild Ammonia Synthesis",
+    "slug": "new-catalyst-enables-mild-ammonia-synthesis",
+    "content": "Researchers at Science Tokyo have made a significant breakthrough in the development of a new material, BaSiN2:O, known as a surface electrene. This innovative material has shown great promise in enabling efficient ammonia synthesis under mild conditions, a process that has long been hindered by the instability of electrene materials in air. The discovery of BaSiN2:O has the potential to revolutionize the field of ammonia production, which is a crucial component in the manufacture of fertilizers, pharmaceuticals, and other industrial chemicals.\n\nThe BaSiN2:O material is synthesized through the doping of barium silicon nitride with oxygen, resulting in the formation of a stable layer of freely floating electrons on its surface. This unique property allows the material to facilitate ammonia synthesis with greater efficiency and under less stringent conditions than traditional methods. The stability of BaSiN2:O in air is a major advancement, as electrene materials have historically been prone to degradation when exposed to oxygen. By overcoming this long-standing limitation, the researchers at Science Tokyo have opened up new avenues for the application of electrene materials in various industrial processes.\n\nThe development of BaSiN2:O is a significant step forward in the pursuit of more efficient and sustainable methods for ammonia synthesis. With its potential to enable mild-condition synthesis, this material could contribute to reduced energy consumption and lower environmental impact in the production of ammonia. As research continues to explore the properties and applications of BaSiN2:O, it is likely that this breakthrough will have far-reaching implications for various industries and fields of study, ultimately leading to innovative solutions and advancements in the years to come.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:24",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-309",
+    "title": "Sauna Use Linked to Various Health Benefits",
+    "slug": "sauna-use-linked-to-various-health-benefits",
+    "content": "While prolonged exposure to extreme temperatures poses significant health risks and can be fatal, controlled heat therapies such as sauna use are emerging as a measurable intervention for improving overall well-being. Public health officials have long documented the dangers of unmanaged heat stress, which can overwhelm the body’s thermoregulatory systems and lead to dehydration, cardiovascular strain, and heat-related emergencies. In contrast, recent",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:19",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-307",
+    "title": "Human Ancestors Were Smaller Than Modern Humans",
+    "slug": "human-ancestors-were-smaller-than-modern-humans",
+    "content": "Ancient human depictions in art and popular culture have long portrayed men as towering, muscular figures, yet recent research suggests that our prehistoric ancestors were actually smaller in both height and body mass. Columnist Michael Marshall, writing for *The Guardian*, examined skeletal evidence and anthropometric data that challenge the myth of the “short kings” of prehistory, revealing that early Homo sapiens and other hominin species tended to be more compact than modern humans.\n\nMarshall’s analysis draws on a range of fossil records, including the robust skeletons of early Neanderthals and the gracile remains of early Homo sapiens from Africa and Eurasia. The data indicate that average adult males in these populations stood roughly 5 feet 6 inches tall and weighed between 120 and 150 pounds—substantially less than the contemporary average. The article also highlights how these smaller statures were well-suited to the environmental pressures of the time, providing advantages in thermoregulation, mobility, and energy efficiency.\n\nThe findings underscore the importance of reexamining long‑held assumptions about our evolutionary past. By correcting the narrative around ancient human physiques, Marshall’s piece invites a more nuanced understanding of how early humans adapted to their surroundings, ultimately reshaping the way we view the relationship between body size, culture, and survival.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 3:12:09",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-301",
+    "title": "Telegram Suspends t.me Domain",
+    "slug": "telegram-suspends-t-me-domain",
+    "content": "A recent WHOIS lookup of the short domain t.me, which is widely used by the messaging platform Telegram for deep‑linking, revealed its registration details. The domain is registered to Telegram Messenger LLP, a company incorporated in the United Kingdom, and was first registered on May 15, 2018. The registrar listed in the WHOIS record is Namecheap, Inc., with the domain’s name servers pointing to ns1.telegram.org and ns2.telegram.org.\n\nThe lookup was highlighted on Hacker News, where the post received 68 points and 51 comments. Users discussed the significance of the domain’s ownership information, noting that the WHOIS record provides transparency about the entity responsible for the domain and its contact details. The discussion also touched on the role of short domains in facilitating user‑friendly links within the Telegram ecosystem.\n\nOverall, the WHOIS data confirms that t.me is officially managed by Telegram’s UK subsidiary, illustrating the company’s approach to domain registration and the public availability of such information for widely used internet services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:11:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-300",
+    "title": "Climate.gov Destroyed, Open Data Rescues Platform",
+    "slug": "climate-gov-destroyed-open-data-rescues-platform",
+    "content": "Climate.gov, the U.S. government portal that aggregates climate data from NOAA and other federal agencies, was temporarily taken offline after a significant infrastructure failure was discovered in early June.  The outage, which disrupted access to temperature, precipitation, and sea‑level datasets used by researchers, policymakers, and the public, prompted an immediate response from the National Oceanic and Atmospheric Administration (NOAA) and the broader data‑sharing community.  While the official website’s servers were restored within 48 hours, the incident highlighted the vulnerability of centralized data repositories to cyber threats and operational errors.\n\nIn the wake of the shutdown, a coordinated effort among open‑source developers, data scientists, and climate‑science stakeholders leveraged publicly available datasets and code repositories to rebuild the site’s core functionality.  Key contributors used GitHub‑hosted mirrors of Climate.gov’s data catalogs, along with the Climate Data Initiative’s open‑data framework, to re‑establish the API endpoints and user interface.  The rapid deployment of these community‑driven resources not only minimized downtime but also demonstrated the resilience that open data ecosystems can provide when official infrastructure fails.  NOAA’s subsequent review cited the incident as a catalyst for revising its data‑management policies, including the adoption of more robust backup protocols and a formal partnership with the open‑data community.\n\nThe episode underscores the critical role of open data in safeguarding climate information against disruptions.  By enabling rapid recovery and ensuring continuous access to essential datasets, the collaborative restoration of Climate.gov serves as a model for how government agencies can integrate community‑driven tools and practices into their data‑management strategies.  The incident also reinforces the need for ongoing investment in secure, redundant data infrastructures to support the scientific and policy work that depends on reliable climate data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:11:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-299",
+    "title": "PlanWright Introduces MCP-Based Control Plane for AI Coding Agents",
+    "slug": "planwright-introduces-mcp-based-control-plane-for-ai-coding-agents",
+    "content": "A new post on the Hacker News front page has drawn attention to an emerging architecture for autonomous software development, titled “MCP driven control plane for Agentic Engineering.” The article outlines a workflow in which a planning phase is generated by Claude Desktop, the code is produced in Codex, and a custom triage agent reviews the output—all orchestrated through a Multi‑Component Platform (MCP). Every step is logged and fully documented, allowing developers to trace the decisions made by each autonomous agent.\n\nAccording to the post, the MCP serves as the central hub that coordinates the various components: Claude Desktop supplies high‑level plans, Codex translates those plans into executable code, and the triage agent evaluates the results before they are merged into the codebase. The system’s design emphasizes transparency, with a comprehensive audit trail that records every decision point. The discussion link (https://news.ycombinator.com/item?id=48897969) currently has six up‑votes and two comments, indicating early but cautious interest from the community.\n\nWhile the post is brief, it signals a growing trend toward fully automated engineering pipelines that rely on AI agents for planning, coding, and quality assurance. The detailed logging and documentation framework could make such systems more trustworthy and easier to integrate into existing development workflows. As the community continues to evaluate the approach, further updates and real‑world case studies will likely follow.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 3:11:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260713-298",
     "title": "Neural Network Implemented in SQL",
     "slug": "neural-network-implemented-in-sql",
