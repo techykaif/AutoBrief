@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260713-015",
+    "title": "McConnell Postpones Return to Senate Floor Due to Health Concerns",
+    "slug": "mcconnell-postpones-return-to-senate-floor-due-to-health-concerns",
+    "content": "Senate Majority Leader Mitch McConnell has announced that he will not be returning to the Capitol for votes in the near future. In a statement on Sunday, McConnell revealed that he is still recovering and will not be able to return to the Senate floor to vote \"quite yet\" due to the advice of his doctors. This decision comes as lawmakers prepare to return from recess, leaving the status of key legislation uncertain.\n\nMcConnell's health has been a concern in recent weeks, and his decision not to return to the Capitol at this time underscores the importance of prioritizing his well-being. As Senate Majority Leader, McConnell plays a crucial role in guiding policy and legislation through the Senate, and his absence may have significant implications for the legislative agenda. The timing of his return will be closely watched by lawmakers and observers alike, as the Senate prepares to tackle pressing issues in the coming weeks.\n\nThe exact timeline for McConnell's return to the Senate floor remains unclear, but his statement suggests that it will be some time before he is able to participate in votes. As lawmakers return from recess, they will likely face a busy schedule of debates and votes on key legislation, and McConnell's absence may have a significant impact on the outcome of these efforts.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/13/2026 5:42:47",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-013",
+    "title": "UK Heatwaves Claim Over 2,700 Lives",
+    "slug": "uk-heatwaves-claim-over-2-700-lives",
+    "content": "UK Heatwave Death Toll Reaches Alarming Levels\n\nA preliminary assessment has revealed that the prolonged period of scorching temperatures in the UK has claimed the lives of over 2,700 individuals, with heat-related causes being the primary cause of death. This staggering figure is a stark reminder of the devastating impact of extreme weather conditions on the nation's health. The recent heatwave, which has seen temperatures soar to record highs, has left many communities reeling, with the most vulnerable members of society being disproportionately affected.\n\nAccording to sources, the death toll is expected to rise as more data becomes available, with experts warning that the true extent of the heat-related deaths may never be fully known. The UK's National Health Service (NHS) has reported a significant increase in hospital admissions and emergency calls related to heat-related illnesses, with many patients requiring intensive care. The elderly, young children, and those with pre-existing medical conditions have been particularly affected by the extreme heat.\n\nAs the UK continues to navigate the aftermath of this exceptional heatwave, authorities are urging residents to remain vigilant and take necessary precautions to prevent heat-related illnesses. The government has also announced measures to support those who have been affected by the heatwave, including increased funding for heat-related health services and emergency relief packages for those in need.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/13/2026 5:42:39",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-012",
+    "title": "Gibraltar Removes 118-Year-Old Border Controls with Spain",
+    "slug": "gibraltar-removes-118-year-old-border-controls-with-spain",
+    "content": "UK and Spain Sign Agreement on Free Movement, Expected to Boost Economy\n\nIn a significant development, the UK and Spain have signed an agreement allowing for free movement between the two territories. This move is expected to have a positive impact on the economy, as it will enable greater exchange of goods, services, and people between the two nations. The agreement is a result of ongoing efforts to strengthen economic ties and promote cooperation between the UK and Spain.\n\nThe free movement agreement is seen as a crucial step in revitalizing trade and investment between the UK and Spain. With the UK's departure from the European Union, there have been concerns about the potential impact on trade and economic growth. The agreement will provide a much-needed boost to businesses and entrepreneurs on both sides, as it will simplify customs procedures, reduce bureaucratic hurdles, and increase access to new markets. Additionally, the agreement is expected to attract more tourists and students, further contributing to the economic growth of both nations.\n\nAs the agreement takes effect, businesses and individuals on both sides are eagerly anticipating the benefits of free movement. With the UK and Spain working together to promote economic cooperation, it is hoped that this agreement will mark the beginning of a new era of prosperity and growth for both nations.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "7/13/2026 5:42:34",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-011",
+    "title": "Switching Suppliers Made Easier",
+    "slug": "switching-suppliers-made-easier",
+    "content": "The process of switching service providers has become increasingly streamlined in recent years. Changing one's broadband, energy supplier, or even bank is now a relatively straightforward task, thanks to advancements in technology and regulatory efforts to promote competition. This shift has empowered consumers to seek out better deals and services that meet their needs, fostering a more dynamic and consumer-centric market.\n\nThe simplification of the switching process can be attributed to various factors, including the introduction of comparison websites and online tools that enable consumers to easily evaluate and compare different providers. Additionally, regulatory bodies have implemented measures to facilitate seamless transitions between suppliers, such as ensuring that customers can retain their existing account details and minimizing disruptions to their services. As a result, consumers are now more inclined to shop around and switch to alternative providers that offer more competitive rates, improved services, or enhanced features, ultimately driving innovation and competition within these industries.\n\nIn conclusion, the increased ease of switching service providers has significant implications for consumers and the market as a whole. With the barriers to switching reduced, consumers are now better equipped to make informed decisions about their broadband, energy, and banking services, and to seek out the best available deals. This, in turn, is likely to continue driving competition and innovation in these sectors, ultimately benefiting consumers and promoting a more efficient and responsive market.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "7/13/2026 5:42:28",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-007",
+    "title": "Housing Bottleneck Analysis",
+    "slug": "housing-bottleneck-analysis",
+    "content": "A recent piece published on laxmena.com titled “Same Capacity, Less Throughput” examines a counter‑intuitive trend observed in modern networking equipment. The article argues that while many new hardware upgrades maintain the same nominal capacity—measured in gigabits per second—the actual data throughput delivered to end users can fall short of expectations. The piece cites a handful of case studies in data‑center environments where increased packet overhead, protocol fragmentation, and stricter quality‑of‑service (QoS) enforcement have contributed to this discrepancy.\n\nAccording to the report, the root causes of the throughput drop are largely administrative and design‑related. First, the adoption of more granular traffic shaping policies can reduce effective bandwidth for bulk transfers, even though the raw link capacity remains unchanged. Second, newer firmware updates that prioritize latency‑sensitive applications often introduce additional encapsulation layers, adding overhead that consumes part of the available capacity. Finally, the article notes that many vendors now bundle security features—such as deep packet inspection and encryption acceleration—into their switches and routers, which, while enhancing security, can also consume CPU cycles and reduce the throughput available for user traffic.\n\nThe implications of this phenomenon are significant for both service providers and enterprise IT teams. While the headline capacity numbers remain attractive, the real‑world performance may not meet the demands of high‑bandwidth workloads, potentially leading to increased congestion and higher operational costs. The article concludes that stakeholders should evaluate not only advertised capacity but also empirical throughput metrics under realistic traffic patterns before committing to new infrastructure.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/13/2026 5:42:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-005",
+    "title": "Cyberpunk Comics, Manga & Graphic Novels Overview",
+    "slug": "cyberpunk-comics-manga-graphic-novels-overview",
+    "content": "Shellzine recently published an in‑depth feature on the evolution of cyberpunk in comic books, tracing the genre’s roots from early noir‑inspired strips to contemporary graphic novels that blend high‑tech aesthetics with gritty urban narratives. The piece, titled “Cyberpunk Comics,” examines key titles, influential artists, and the cultural forces that have shaped the genre’s visual and thematic language. It was shared on Hacker News, where it accumulated 20 points and generated two comments from the community.\n\nThe article highlights seminal works such as “Akira,” “Blade Runner: The Graphic Novel,” and newer releases like “Cyberpunk 2077: The Graphic Novel.” It discusses how these comics translate cyberpunk’s core concerns—technological determinism, corporate hegemony, and identity fragmentation—into panel‑by‑panel storytelling. Reviewers on Hacker News praised the piece for its comprehensive coverage and noted its relevance to both comic aficionados and readers of cyberpunk fiction, though the discussion remained brief with only a couple of comments.\n\nThe modest engagement on Hacker News suggests that while the article resonated with a niche audience, it sparked limited debate. Nonetheless, the 20 points indicate a solid level of interest and recognition for Shellzine’s coverage of a genre that continues to influence visual storytelling across media.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/13/2026 5:42:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-004",
+    "title": "Architecture Description Languages PDF Overview",
+    "slug": "architecture-description-languages-pdf-overview",
+    "content": "The University of California, Irvine has made available a research paper titled “2000‑ADLs‑TSE.pdf” through its institutional repository. The document, which appears to be a scholarly work on Activity‑Based Development Languages (ADLs) in the context of the *Transactions on Software Engineering* (TSE), was uploaded by a UCI author and can be accessed directly at the provided URL. The paper was originally published in 2000 and explores early approaches to modularity and aspect‑oriented design within software engineering.\n\nThe PDF was subsequently shared on the Hacker News platform, where it was assigned the item ID 48885708. The post garnered six upvotes and one comment, indicating a modest level of engagement from the tech community. While the discussion was brief, the presence of the paper on a mainstream technology forum underscores its continued relevance to researchers and practitioners interested in the historical evolution of ADL concepts and their application to software design.\n\nFor those studying the foundations of aspect‑oriented programming or the development of modular software frameworks, the paper remains a valuable resource. Its availability on both the university’s site and a popular technology news aggregator provides easy access for scholars and industry professionals seeking to understand the early contributions to ADL research and their lasting impact on contemporary software engineering practices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/13/2026 5:41:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-003",
+    "title": "First PCB design and assembly process shared online",
+    "slug": "first-pcb-design-and-assembly-process-shared-online",
+    "content": "A post published on July 11, 2026 on the website vilkeliskis.com (URL: https://vilkeliskis.com/b/2026/0711.html) was subsequently shared on the Hacker News discussion platform (https://news.ycombinator.com/item?id=48885728). According to the Hacker News entry, the submission garnered 11 points from the community and did not receive any comments.\n\nThe lack of commentary suggests limited engagement beyond the initial up‑votes, a pattern sometimes observed for niche or specialized content. The article’s visibility on Hacker News, however, indicates that it reached a broader audience of technology‑interested readers, despite the modest interaction metrics.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/13/2026 5:41:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-002",
+    "title": "US launches new strikes on Iran targeting military capabilities",
+    "slug": "us-launches-new-strikes-on-iran-targeting-military-capabilities",
+    "content": "Sunday’s attacks marked the latest escalation in a series of retaliatory strikes between Iran and the United States, coming after three consecutive days of tit‑for‑tat exchanges that have strained a June cease‑fire agreement brokered earlier this month. The Sunday incidents, reported by regional authorities, involved missile and drone launches targeting U.S. military installations in Iraq and Syria, prompting a swift defensive response from American forces that included air‑defense intercepts and ground‑based counter‑measures.\n\nThe preceding three days saw Iran fire a barrage of rockets at the Al‑Ubaydi airbase in Iraq, followed by a U.S. drone strike on a convoy linked to Iran‑backed militia groups in eastern Syria, and a subsequent Iranian missile salvo aimed at a U.S. forward operating base in the same region. These actions have eroded confidence in the cease‑fire framework, with diplomatic sources indicating that negotiations in Geneva are now at risk of collapse. Both sides have reiterated a willingness to avoid further civilian casualties, but the continued military exchanges underscore the fragility of the current truce and raise concerns about a broader regional escalation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/13/2026 5:41:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260713-001",
+    "title": "Mitch McConnell reports regaining strength after weeks-long hospitalization",
+    "slug": "mitch-mcconnell-reports-regaining-strength-after-weeks-long-hospitalization",
+    "content": "A Republican senator has been absent from congressional duties after being hospitalized for a period of several weeks, prompting concern among party leaders and staff. The senator’s medical leave began early last month, and officials confirmed that the extended hospitalization prevents participation in scheduled committee hearings, floor votes, and constituent meetings. The Senate’s leadership noted that the senator’s absence creates a temporary gap in the party’s voting bloc, particularly on pending legislation that requires a narrow majority.\n\nParty officials have expressed support for the senator’s recovery while emphasizing the need to maintain legislative momentum. Statements from the Senate Republican Conference highlighted plans to reassign the senator’s committee responsibilities and to coordinate with the office on any potential interim measures. As the senator’s health status remains under medical review, the party is monitoring the situation closely and will update members on the timeline for a return to full duties.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/13/2026 5:41:40",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260712-424",
     "title": "Phillies' Sanchez, Blue Jays' Cease Named ASG Starting Pitchers",
     "slug": "phillies-sanchez-blue-jays-cease-named-asg-starting-pitchers",
