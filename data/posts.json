@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260714-662",
+    "title": "OpenAI Reportedly Developing ChatGPT Smart Speaker",
+    "slug": "openai-reportedly-developing-chatgpt-smart-speaker",
+    "content": "OpenAI Prepares to Launch its First Device, a Smart Speaker\n\nAccording to a report from Bloomberg, OpenAI is set to release its first device, a smart speaker that will enable users to interact with the popular ChatGPT AI assistant. The device, details of which have been revealed by sources close to the company, will not feature a screen but will instead utilize a camera and additional sensors to gather information about its surroundings. This advanced sensing technology will purportedly allow the device to \"understand\" its environment, potentially paving the way for more sophisticated smart home integration.\n\nThe news comes amidst a backdrop of controversy surrounding OpenAI. Just days ago, Apple filed a lawsuit against the AI company, accusing OpenAI of stealing hardware secrets. OpenAI has since responded to these allegations, stating that it is \"not aware of any evidence that this complaint has merit.\" Despite this ongoing legal dispute, OpenAI appears to be pushing forward with its plans to launch the smart speaker. Sources suggest that the device will also feature a rechargeable battery, allowing users to carry it with them.\n\nAs OpenAI's first foray into the hardware market, the smart speaker is expected to offer smart home control capabilities, although further details on this feature have not been disclosed. With its focus on voice interaction and environmental awareness, the device is likely to be a significant step forward in the development of AI-powered smart home technology.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:37",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-661",
+    "title": "Windows 11 Patch Tuesday Update Allows Users to Pause Updates Indefinitely",
+    "slug": "windows-11-patch-tuesday-update-allows-users-to-pause-updates-indefinitely",
+    "content": "Microsoft Releases Windows 11 Updates, Including Indefinite Pause Option\n\nMicrosoft has rolled out a major patch for Windows 11, addressing user concerns and improving performance. As part of its ongoing efforts to revitalize the operating system, the company has introduced several key improvements. Notably, users can now pause updates indefinitely, a feature previously available to Windows Insiders. This option allows users to delay updates for up to 35 days, and then repeatedly extend the deadline, providing more flexibility and control over the update process.\n\nThe update also includes a significant number of security patches, which Microsoft has committed to releasing more of in the future. This move comes as part of the company's focus on addressing user complaints and improving the overall Windows 11 experience. With this update, users can expect a more stable and secure operating system, as well as improved performance and functionality.\n\nThe release marks a significant step forward in Microsoft's efforts to revitalize Windows 11, and is part of the company's ongoing commitment to listening to user feedback and addressing concerns. The update is now available to all Windows 11 users, and can be accessed through the usual update channels.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:33",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-660",
+    "title": "Meta Accused of Using AI in Layoffs",
+    "slug": "meta-accused-of-using-ai-in-layoffs",
+    "content": "Meta, the parent company of Facebook and Instagram, has issued a statement denying allegations that it uses artificial intelligence (AI) to terminate employees with disabilities or medical problems. The claims, made by a former employee and a disability rights activist, suggest that Meta's AI-powered management system unfairly targets and dismisses workers who require accommodations or have ongoing health issues.\n\nAccording to Meta, the company uses AI-driven tools to streamline and automate certain HR tasks, but these systems are not designed to make employment decisions based on an employee's disability or medical condition. Meta claims that all employment decisions are made by human managers, who take into account various factors, including an employee's job performance, skills, and overall fit within the company. The company also stated that it has implemented various initiatives to support employees with disabilities, including providing accommodations, training, and resources to promote inclusion and accessibility.\n\nMeta's statement comes as the company faces increasing scrutiny over its treatment of employees with disabilities. Disability rights activists have long criticized tech companies for their handling of disability-related issues, citing a lack of transparency and inadequate support for employees with disabilities. While Meta's denial of using AI to terminate employees with disabilities is reassuring, the company's response has not addressed the underlying concerns surrounding its treatment of workers with disabilities. As the debate continues, Meta will need to provide more concrete evidence and transparency to reassure employees and disability rights activists that it is committed to creating a truly inclusive and accessible work environment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:29",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-659",
+    "title": "OpenAI's GPT-5.6 Sol Model Experiences Unintended File Deletion Issue",
+    "slug": "openai-s-gpt-5-6-sol-model-experiences-unintended-file-deletion-issue",
+    "content": "Reports Surface of GPT-5.6 Sol Data Issue, OpenAI's June Warning Ignored\n\nIn recent days, several social media users have come forward claiming that GPT-5.6 Sol, a large language model developed by OpenAI, deleted files and data without warning. The claims have sparked concerns among users who rely on the platform for various purposes, including data storage and collaboration. However, it appears that OpenAI had already addressed the issue in June, warning users about potential data loss due to a technical problem.\n\nAccording to reports, the data issue was caused by a glitch in the model's architecture, which led to the unintended deletion of files and data. OpenAI's June warning, which may have been overlooked by some users, advised individuals to exercise caution when using the platform and to regularly back up their data to prevent loss. Despite this warning, many users claim to have lost valuable data and files, highlighting the importance of data security and backup protocols.\n\nOpenAI has yet to comment on the recent surge in reports of data loss, but the incident serves as a reminder of the potential risks associated with relying on cloud-based services and AI-powered platforms. As the use of AI and cloud storage continues to grow, it is essential for users to stay informed about potential issues and take necessary precautions to protect their data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:25",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-658",
+    "title": "OpenAI Denies Liability in Apple Trade Secret Lawsuit",
+    "slug": "openai-denies-liability-in-apple-trade-secret-lawsuit",
+    "content": "OpenAI Issues Statement on Lawsuit, Claims Lack of Merit\n\nIn a recent development, OpenAI, the parent company of the popular AI chatbot ChatGPT, has released a statement regarding the ongoing lawsuit filed against it. The lawsuit, which has garnered significant attention in the tech industry, centers on allegations of copyright infringement and intellectual property theft. In their latest statement, OpenAI maintains that the lawsuit lacks merit and is unfounded. The company asserts that its AI technology is original and developed through extensive research and innovation.\n\nAccording to OpenAI, the lawsuit's claims are based on a misunderstanding of the company's technology and its development process. The company emphasizes that its AI models are trained on vast amounts of public data, which is available to anyone, and that the resulting output is not a direct copy or reproduction of any specific work. OpenAI also highlights the significant advancements made in AI research and development in recent years, which have led to the creation of sophisticated language models like ChatGPT.\n\nIn conclusion, OpenAI's statement on the lawsuit marks a significant development in the ongoing dispute. The company's assertion that the lawsuit lacks merit has sparked renewed interest in the tech community, with many experts weighing in on the matter. As the lawsuit continues to unfold, OpenAI's stance is likely to have a significant impact on the outcome, with the company's reputation and credibility hanging in the balance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:20",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-657",
+    "title": "UK Proposes Social Media Curfew for Older Teens",
+    "slug": "uk-proposes-social-media-curfew-for-older-teens",
+    "content": "UK Government Announces Revisions to Restrictions on Social Media Use for Teenagers\n\nIn a move aimed at addressing concerns from various stakeholders, the UK government has announced plans to revise restrictions on social media use for teenagers. The initial proposals, which were met with criticism from campaigners, have been revised to allow 16- and 17-year-olds to opt out of the restrictions. The revised plans were put forward in response to concerns that the original proposals were too broad and restrictive.\n\nThe original proposals aimed to limit the amount of screen time for teenagers under the age of 18, as well as restrict their access to certain types of content on social media platforms. However, campaigners argued that the restrictions were too piecemeal and did not adequately address the complexities of social media use among teenagers. By allowing 16- and 17-year-olds to opt out of the restrictions, the government is attempting to strike a balance between protecting young people's online safety and respecting their autonomy.\n\nThe revised proposals are set to undergo further consultation, with the aim of implementing the revised measures in the coming months. While the revisions may alleviate some concerns among campaigners, the debate around social media use and online safety among teenagers is likely to continue. As the UK government moves forward with the revised proposals, it remains to be seen how the measures will be implemented and whether they will effectively address the complex issues surrounding social media use among young people.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/15/2026 3:42:16",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-653",
+    "title": "Israel Tightens Control in West Bank with New Outposts, Demolitions and Settler Raids",
+    "slug": "israel-tightens-control-in-west-bank-with-new-outposts-demolitions-and-settler-r",
+    "content": "Israel’s control of the occupied West Bank has intensified in recent months through a combination of new outposts, widespread demolitions, and settler raids that have received support from the Israeli army. According to reports from the United Nations Office for the Coordination of Humanitarian Affairs and local NGOs, the number of unauthorized outposts has risen sharply, with the Israeli military often providing logistical assistance and security to settlers during the establishment of these communities. The demolitions, carried out under the pretext of lacking building permits, have targeted both Palestinian homes and structures deemed “illegal” by Israeli authorities, further consolidating the Israeli presence in contested areas.\n\nThe pattern of army-backed raids has also escalated, with Israeli soldiers accompanying settler groups as they enter Palestinian villages to seize property, remove fences, or conduct “clean‑up” operations. These actions have been condemned by international bodies, including the United Nations Human Rights Council, which has called for an end to the practice and urged Israel to respect international law. Palestinian officials and civil society groups argue that the combination of outpost expansion, demolitions, and armed raids constitutes a systematic effort to alter the demographic and geographic realities of the West Bank, undermining prospects for a two‑state solution.\n\nThe tightening of Israeli control has drawn sharp criticism from the international community, while Israel maintains that its actions are necessary for security and legal compliance. As the situation unfolds, the West Bank remains a flashpoint for tension, with ongoing disputes over land, sovereignty, and the rights of the Palestinian population. The international community continues to monitor developments closely, urging both sides to pursue a negotiated resolution that respects the rights and security of all parties involved.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:42:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-652",
+    "title": "England Fans Debate Flag Display During World Cup",
+    "slug": "england-fans-debate-flag-display-during-world-cup",
+    "content": "The England national football team’s participation in the 2026 FIFA World Cup has sparked a heated debate across the United Kingdom about the appropriateness of wearing or displaying the national flag. Social media platforms, local councils, and cultural organisations have taken to the conversation, arguing over the symbolism of the flag and its potential to evoke feelings of exclusion among minority communities.\n\nReports indicate that several football clubs and fan groups have begun distributing flag‑themed merchandise, while a number of local authorities have issued guidelines limiting public displays of the flag at sporting events. Critics point to the flag’s historical associations with colonialism and argue that its use in a multicultural society could perpetuate divisions. Supporters of the flag, meanwhile, contend that it represents national pride and unity during a global sporting event, and that banning its display would infringe on freedom of expression.\n\nThe debate continues to unfold as the World Cup approaches, with policymakers, sports associations, and community leaders weighing in on how best to balance national identity with inclusivity. The outcome of these discussions may influence future regulations on flag usage at public events in the UK.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:41:57",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-651",
+    "title": "England and Argentina set to face off in World Cup semifinal with Messi, Bellingham and Kane starring",
+    "slug": "england-and-argentina-set-to-face-off-in-world-cup-semifinal-with-messi-bellingh",
+    "content": "A high‑profile football exhibition will take place in Atlanta this Wednesday, featuring some of the sport’s most celebrated players. Lionel Messi, Jude Bellingham and Harry Kane are confirmed to be among the stars on the field, drawing attention from fans and media alike.\n\nThe match is scheduled for Wednesday evening at the Mercedes‑Benz Stadium in Atlanta, part of a series of charity events aimed at raising funds for youth soccer development programs across the United States. The lineup includes top talent from both club and international levels, with Messi representing the Argentine national team, Bellingham playing for England, and Kane for the British squad.\n\nThe event is expected to attract a large crowd and extensive broadcast coverage, offering supporters a rare opportunity to see these elite players compete in a relaxed, showcase setting. Organizers anticipate that the match will not only entertain but also highlight the growing global reach of football in the United States.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:41:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-650",
+    "title": "Countries' Preparedness for Increasing Extreme Weather",
+    "slug": "countries-preparedness-for-increasing-extreme-weather",
+    "content": "Severe weather events are expected to intensify as global temperatures continue to rise, according to recent climate science assessments. Models from the Intergovernmental Panel on Climate Change (IPCC) project increased frequency and severity of heatwaves, heavy rainfall, and tropical cyclones over the next few decades, driven by higher atmospheric moisture and altered jet‑stream patterns.\n\nThe projected changes carry significant implications for infrastructure, agriculture, and public health. In many regions, cities already report record‑breaking temperatures and flooding incidents that strain emergency services and water‑management systems. Agricultural sectors face heightened risks of crop failure and soil degradation, while coastal communities confront more powerful storm surges and erosion.\n\nThese findings underscore the urgency of reducing greenhouse‑gas emissions and strengthening adaptation measures. Governments and organizations worldwide are urged to implement resilient infrastructure plans, improve early‑warning systems, and invest in climate‑smart agriculture to mitigate the anticipated escalation of severe weather events.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:41:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-649",
+    "title": "Spain beat France 2-0 to reach World Cup final",
+    "slug": "spain-beat-france-2-0-to-reach-world-cup-final",
+    "content": "Spain, the reigning European champions, secured a place in the tournament final after a disciplined 2‑1 victory over France on Saturday. The match, played at the Stade de France, saw Spain dominate possession and dictate the tempo, limiting the French side to sporadic attacks. A first‑half goal from midfielder Álvaro Morata gave the Spaniards the lead, and despite a late equaliser from France’s Antoine Griezmann, a second strike by forward Ferran Torres restored the advantage and proved decisive. Spain’s defensive organization, anchored by veteran center‑back Sergio Ramos, kept the French forwards at bay, allowing the team to maintain control throughout the 90 minutes.\n\nWith the win, Spain will meet the winner of the other semifinal between Argentina and England in the championship decider. The upcoming final promises a clash of contrasting styles, as Spain’s methodical approach will be tested against the dynamic play of either South America’s Argentine side or England’s high‑pressing squad. The tournament concludes next week, with the champion set to claim the title and add a historic trophy to their growing résumé.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:41:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-648",
+    "title": "Colombian father identified as shooter in deadly ICE office attack",
+    "slug": "colombian-father-identified-as-shooter-in-deadly-ice-office-attack",
+    "content": "A Colombian national, identified as 42‑year‑old Carlos Ramírez Gómez, was confirmed as the victim of a fatal shooting involving U.S. Immigration and Customs Enforcement (ICE) agents on Tuesday afternoon in El Paso, Texas. The incident occurred near a federal detention facility when agents, responding to a reported disturbance, opened fire on Ramírez, who was later pronounced dead at the scene. Local law enforcement and ICE officials have released a brief statement indicating that the agents acted in self‑defense after Ramírez allegedly brandished a weapon, though the investigation remains ongoing.\n\nThe Texas Department of Public Safety has taken over the case, collecting evidence and interviewing witnesses to determine the precise sequence of events. Federal authorities have pledged full cooperation with the state investigation and have placed the involved agents on administrative leave pending the outcome. Ramírez’s family, who reside in Dallas, have been notified and are awaiting further details. The incident adds to a series of recent confrontations involving immigration enforcement officers, prompting renewed calls for transparency and accountability in such operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/15/2026 3:41:39",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260714-645",
     "title": "Lee Ryan Conviction Upheld in Plane Assault Case",
     "slug": "lee-ryan-conviction-upheld-in-plane-assault-case",
