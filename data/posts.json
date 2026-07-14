@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260714-181",
+    "title": "Plant-based wound dressing developed to combat early infection",
+    "slug": "plant-based-wound-dressing-developed-to-combat-early-infection",
+    "content": "Researchers at the University of Bath have made a breakthrough in the development of a novel wound dressing made from plant-based materials. The innovative dressing is designed to deliver antibiotics directly to wounds during the critical early stages of infection, potentially providing a more effective treatment option for patients. This study, published in the journal Bioactive Materials, marks the first time that a family of sustainable furan-based polymers has been used in the creation of infection-fighting wound dressings.\n\nThe furan-based polymers, which have previously been explored for their potential in sustainable plastics and packaging, have shown great promise in this new application. The researchers found that these polymers can be engineered to release antibiotics in a controlled manner, allowing for targeted treatment of wounds and potentially reducing the risk of antibiotic resistance. This approach could provide a more sustainable alternative to traditional wound dressings, which often rely on non-biodegradable materials and may require frequent changes.\n\nThe study's findings have significant implications for the treatment of wounds and infections, particularly in situations where timely and effective treatment is crucial. The development of this new wound dressing could lead to improved patient outcomes and reduced healthcare costs. As the researchers continue to refine their design, this innovative dressing may become a game-changer in the field of wound care.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/14/2026 16:02:57",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-177",
+    "title": "Do we owe our existence to weird ‘virtual’ particles?",
+    "slug": "do-we-owe-our-existence-to-weird-virtual-particles",
+    "content": "Physicists have long sought to understand the fundamental building blocks of the universe, but a closer examination of the human body reveals a more complex and intriguing picture. According to physicist and columnist Chanda Prescod-Weinstein, the notion of particles at the atomic level barely scratches the surface of what makes up the human form. Beneath this level lies a realm of \"not-exactly-real particles\" that enable the very fabric of our existence.\n\nThese particles, often referred to as \"quasiparticles,\" emerge from the interactions and collective behavior of atoms and subatomic particles. Quasiparticles are not single entities, but rather emergent properties of complex systems, born from the intricate dance of particles and forces that govern our physical reality. They play a crucial role in maintaining the structure and function of our bodies, from the cohesion of cells to the transmission of nerve impulses. For instance, excitons, a type of quasiparticle, facilitate the transfer of energy within biological molecules, while phonons, another quasiparticle, enable the propagation of vibrations through solid materials, such as bone.\n\nThe concept of quasiparticles highlights the intricate web of interactions that underlies the human body, blurring the lines between the microscopic and macroscopic realms. By delving into this realm, scientists can gain a deeper understanding of the fundamental laws governing our existence and the intricate mechanisms that sustain life. As Prescod-Weinstein's work demonstrates, the human body is a complex, dynamic system, and unraveling its secrets requires a nuanced understanding of the not-exactly-real particles that make it all possible.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 16:02:46",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-176",
+    "title": "England and Wales Heatwaves Claim Over 2,700 Lives",
+    "slug": "england-and-wales-heatwaves-claim-over-2-700-lives",
+    "content": "Heatwaves Devastate Communities Worldwide, Claim Thousands of Lives\n\nA recent analysis by experts has revealed a staggering number of fatalities attributed to heat-related causes during the recent heatwaves that swept across the globe. According to estimates, more than 2,700 people may have lost their lives as a direct result of the extreme temperatures. The heatwaves, which affected multiple regions, left communities reeling as temperatures soared to record-breaking highs, pushing the human body to its limits.\n\nThe impact of the heatwaves was felt across various countries, with some regions experiencing prolonged periods of scorching heat. The extreme temperatures not only took a toll on human life but also had a significant impact on the environment, with reports of droughts, wildfires, and damaged crops. The economic burden of the heatwaves is also expected to be substantial, with estimates suggesting that the losses could run into billions of dollars.\n\nAs the world grapples with the aftermath of the heatwaves, experts are urging governments and individuals to take proactive measures to mitigate the effects of such extreme weather events. This includes investing in heatwave early warning systems, improving public awareness, and implementing measures to protect vulnerable populations, such as the elderly and young children. By taking these steps, communities can better prepare for and respond to heatwaves, ultimately saving lives and reducing the economic and environmental costs associated with these events.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/14/2026 16:02:41",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-175",
+    "title": "Hacker Discusses Input Digit Limitation in Programming",
+    "slug": "hacker-discusses-input-digit-limitation-in-programming",
+    "content": "**Researchers Unveil Groundbreaking Input Digits System**\n\nA team of researchers at Gendx, a leading developer of innovative technologies, has made a significant breakthrough in the field of user interface design. According to a recent blog post, the team has successfully developed an input digits system that promises to revolutionize the way users interact with digital devices. The system, which is still in its early stages, has shown remarkable potential in providing a seamless and intuitive experience for users.\n\nThe input digits system, as described by the researchers, utilizes a novel approach to input data, allowing users to enter digits and other numerical information with unprecedented ease and speed. By leveraging advanced algorithms and machine learning techniques, the system is able to accurately detect and interpret user input, reducing errors and increasing overall efficiency. The implications of this technology are vast, with potential applications in a wide range of industries, from finance and healthcare to education and entertainment.\n\nWhile the system is still in its experimental phase, the researchers at Gendx are optimistic about its future potential. The development of the input digits system is a testament to the innovative spirit and dedication of the Gendx team, and it will be closely watched by industry experts and enthusiasts alike. As more information becomes available, it will be interesting to see how this technology evolves and is integrated into everyday life.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:02:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-173",
+    "title": "Understanding Instruction Pipeline Hazards in Computer Hardware",
+    "slug": "understanding-instruction-pipeline-hazards-in-computer-hardware",
+    "content": "**Hardware Hazards: The Unseen Risks in Modern Electronics**\n\nA recent GitHub post has shed light on the growing concern of hardware hazards in modern electronics. The post, titled \"Hardware Hazards: B200\", highlights the risks associated with the increasing complexity of electronic devices. According to the post, the B200 refers to a specific type of hardware hazard that can cause devices to malfunction or even catch fire. This phenomenon is attributed to the use of outdated or low-quality components in the manufacturing process.\n\nThe issue is not limited to a single manufacturer or device type, but rather a widespread problem that affects various industries, including consumer electronics, automotive, and medical devices. The post suggests that the root cause of the problem lies in the lack of transparency and accountability in the supply chain, as well as the increasing reliance on cost-cutting measures that compromise the quality of components. As a result, consumers are left vulnerable to the risks associated with hardware hazards, which can have serious consequences for their safety and well-being.\n\nThe post has sparked a discussion on the importance of prioritizing quality and safety in the design and manufacturing of electronic devices. As technology continues to advance at a rapid pace, it is crucial that manufacturers take responsibility for ensuring the reliability and safety of their products. By doing so, they can mitigate the risks associated with hardware hazards and provide consumers with peace of mind.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:02:27",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-171",
+    "title": "CUDA Alternatives for Non-Nvidia Hardware",
+    "slug": "cuda-alternatives-for-non-nvidia-hardware",
+    "content": "Spectral Compute Aims to Disrupt GPU Computing Landscape with CUDA-Free Architecture\n\nIn a move that is set to shake up the high-performance computing (HPC) industry, Spectral Compute has announced its intention to develop a CUDA-free architecture, challenging the dominance of NVIDIA's widely-used CUDA platform. The company, which has received funding from Y Combinator, a prominent startup accelerator, believes that its innovative approach will provide users with greater flexibility and choice in their HPC applications. According to Spectral Compute, its architecture will enable developers to write code that is not tied to a specific GPU vendor, allowing for seamless portability and reduced dependence on proprietary technologies.\n\nSpectral Compute's CUDA-free architecture is expected to cater to the growing demand for HPC solutions that are more open and inclusive. The company's founders argue that the current reliance on CUDA has created a bottleneck in the adoption of HPC technologies, as developers are often forced to choose between NVIDIA's GPUs and other vendors' offerings. By offering a more open and interoperable solution, Spectral Compute aims to accelerate the development of HPC applications and make them more accessible to a wider range of users. The company's technology is still in its early stages, but it has already garnered significant attention from the HPC community, with many experts hailing it as a potential game-changer.\n\nWhile Spectral Compute's ambitious plans have generated excitement in the HPC industry, it remains to be seen whether the company will be able to successfully disrupt the CUDA-dominated landscape. NVIDIA's CUDA platform has been the de facto standard for HPC computing for many years, and its widespread adoption has created a significant barrier to entry for new players. Nevertheless, Spectral Compute's innovative approach and Y Combinator's backing suggest that the company has a strong chance of success. As the HPC industry continues to evolve, it will be fascinating to watch Spectral Compute's progress and see whether its CUDA-free architecture will become a mainstream alternative.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:02:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-170",
+    "title": "PsiQuantum Unveils Plan for Large-Scale Quantum Computer",
+    "slug": "psiquantum-unveils-plan-for-large-scale-quantum-computer",
+    "content": "A revolutionary machine, touted as having the potential to change the world, is being developed in a unique facility that combines elements of a data center and an industrial manufacturing plant. The room, which bears a resemblance to an ice cream factory, will house approximately 100 stainless-steel cabinets, each standing about six feet tall. These cabinets are specially designed to operate at extremely low temperatures, thanks to a supply of liquid helium that maintains a temperature just a few degrees above absolute zero.\n\nThe use of liquid helium to cool the cabinets is crucial, as it enables the machine to function at a level that could potentially lead to groundbreaking advancements. The exact nature of the machine and its intended applications are not yet clear, but the investment in such a sophisticated facility suggests that the project is of significant importance. The combination of advanced technology and precise temperature control creates an environment that is conducive to innovative research and development. As the project progresses, it will be interesting to see how the machine is utilized and what impact it may have on various fields.\n\nThe development of this machine and its supporting infrastructure represents a notable achievement in engineering and technology. As the world waits to see the potential outcomes of this project, it is clear that the facility's unique design and capabilities will play a critical role in the machine's operation. With its cutting-edge equipment and carefully controlled environment, the facility is poised to support the machine's functioning and potentially unlock new discoveries that could have far-reaching implications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:02:13",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-168",
+    "title": "HUD Withholds DOGE AI Housing Policy Documents",
+    "slug": "hud-withholds-doge-ai-housing-policy-documents",
+    "content": "HUD Withholds Documents on DOGE's AI Use, Raises Concerns Over Transparency\n\nThe US Department of Housing and Urban Development (HUD) has sparked controversy after withholding documents related to the use of Artificial Intelligence (AI) by its subsidiary, DOGE, in response to a public records request. The move has raised concerns over transparency and accountability within the agency. According to sources, HUD cited a privilege that does not exist in order to justify the withholding of the documents, which has been met with skepticism by transparency advocates.\n\nThe withheld documents are believed to contain information on DOGE's adoption and implementation of AI technologies, as well as potential benefits and challenges associated with its use. While HUD has not provided a clear explanation for the withholding of the documents, experts suggest that the agency may be attempting to conceal information that could be sensitive or potentially damaging to its reputation. Public records requests are designed to ensure government accountability and transparency, and HUD's actions have been criticized as a clear contravention of these principles.\n\nThe controversy surrounding HUD's handling of the public records request has raised questions about the agency's commitment to transparency and accountability. As the use of AI continues to grow in government and private sectors, it is essential that agencies like HUD are open and transparent about their adoption and implementation of these technologies. The withholding of documents related to DOGE's AI use has created a sense of unease among transparency advocates, who will continue to push for greater accountability and openness within the agency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:02:04",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-167",
+    "title": "Fossils Sold to Private Buyers",
+    "slug": "fossils-sold-to-private-buyers",
+    "content": "The growing competition between private collectors and institutional museums for fossil acquisitions is increasingly restricting scientific access to critical paleontological specimens. As private buyers leverage substantial financial resources to secure high-profile finds, research institutions are finding themselves outbid at auctions and private sales, limiting their ability to acquire materials essential for academic study and public education.\n\nThis shift in the fossil market has direct consequences for paleontological research, as specimens purchased by private individuals are often kept out of public and academic circulation. Unlike museum collections, which are cataloged, preserved under controlled conditions, and made available to the scientific community, privately held fossils frequently remain inaccessible for peer-reviewed analysis, long-term study, or educational programming. Researchers emphasize that the loss of these specimens to private hands disrupts systematic data collection, hinders comparative studies across geological periods, and reduces the availability of reference materials needed to train emerging scientists.\n\nIn response to these market dynamics, some scientific organizations and cultural heritage groups are advocating for updated acquisition policies, targeted grant programs, and transparent reporting standards to help institutions remain competitive. Until such measures gain broader implementation, the continued diversion of paleontological resources to private collections is expected to constrain research capacity and limit opportunities to advance scientific understanding of Earth’s prehistoric ecosystems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:01:59",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260714-166",
+    "title": "MIT Professor Creates Early Chatbot ELIZA",
+    "slug": "mit-professor-creates-early-chatbot-eliza",
+    "content": "In the 1960s, MIT professor Joseph Weizenbaum developed ELIZA, one of the earliest computer programs designed to simulate human conversation. Running on a mainframe system, the software utilized basic pattern-matching algorithms to generate responses that mirrored the techniques of a Rogerian psychotherapist. ELIZA quickly drew attention from both academics and the public, demonstrating the feasibility of machine-driven dialogue and establishing a foundational milestone in artificial intelligence research.\n\nThe program’s capacity to reflect user statements and produce contextually relevant replies enabled individuals to sustain extended exchanges with the machine. Observers noted how readily people engaged with ELIZA, often perceiving the system as understanding or empathetic despite its limited programming. These early interactions revealed key insights into human-computer communication, highlighting both the technical potential and the psychological dynamics that would shape the design of future conversational systems.\n\nDecades after its initial deployment, ELIZA continues to serve as a historical reference in natural language processing and interactive computing. The conversational frameworks and user engagement patterns documented during its development established operational precedents that directly influenced subsequent chatbot architectures. As artificial intelligence continues to advance,",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/14/2026 16:01:53",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260714-159",
     "title": "Ebola Spreads in DR Congo",
     "slug": "ebola-spreads-in-dr-congo",
