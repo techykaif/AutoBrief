@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260716-349",
+    "title": "Canadian and US Wildfires Spread Smoke",
+    "slug": "canadian-and-us-wildfires-spread-smoke",
+    "content": "Wildfires in Ontario have been causing widespread concern in recent days, as smoke from the blazes has spread across the US-Canada border, blanketing several major cities with hazardous air quality. The affected regions include the US states of Michigan, Ohio, and Pennsylvania, as well as Canadian provinces such as Ontario and Quebec. According to air quality indexes, many areas have been classified as \"hazardous\" due to the high levels of particulate matter in the air, posing significant health risks to residents.\n\nThe Ontario wildfires, fueled by hot and dry conditions, have been burning for several weeks, with over 100 fires currently active in the province. Emergency services and firefighters are working tirelessly to contain the blazes, but the sheer scale of the fires has made it a challenging task. The smoke from the fires has been carried by winds across the Great Lakes, resulting in the hazardous air quality in neighboring regions. Residents in affected areas are advised to stay indoors, avoid strenuous activities, and wear masks when outdoors to minimize exposure to the smoke.\n\nAs the situation continues to unfold, local authorities are urging residents to take necessary precautions to protect their health. Governments and health organizations are also providing updates and guidance on the air quality situation, advising people to stay informed and follow local guidelines. The situation is being closely monitored, and emergency services are on standby to respond to any emerging issues.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/17/2026 0:13:22",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-348",
+    "title": "UK Weather Forecast: Rainfall Outlook for July and August",
+    "slug": "uk-weather-forecast-rainfall-outlook-for-july-and-august",
+    "content": "After an unusually dry July across much of the United Kingdom, meteorologists are tracking shifting atmospheric patterns that signal the return of rainfall in the coming weeks. The extended period of minimal precipitation has prompted monitoring by environmental and agricultural sectors, as soil moisture levels and river flows have fallen below typical seasonal benchmarks. Weather forecasting centres are currently analysing the gradual breakdown of the dominant high-pressure system, alongside incoming Atlantic fronts that are expected to reintroduce unsettled conditions.\n\nAccording",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/17/2026 0:13:16",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-347",
+    "title": "Texas Floods Displace Residents",
+    "slug": "texas-floods-displace-residents",
+    "content": "A severe deluge has struck a region that is still reeling from a devastating flood that occurred in 2025. The recent downpour has prompted evacuations and water rescues, bringing back memories of the tragic incident that claimed the lives of 25 children and two counsellors at Camp Mystic. The flooding has once again highlighted the vulnerability of the region to extreme weather events, and the need for effective emergency response measures to mitigate the impact of such disasters.\n\nThe region's history of flooding has led to increased vigilance and preparedness among local authorities, who have been working to evacuate people from low-lying areas and provide assistance to those affected by the deluge. Water rescues have been underway, with emergency responders working to reach stranded individuals and provide them with the necessary support. The incident serves as a reminder of the importance of disaster preparedness and the need for continued investment in flood mitigation measures, such as improved drainage systems and early warning systems.\n\nThe situation is being closely monitored by local authorities, who are working to ensure the safety of those affected by the flooding. As the region begins to recover from the deluge, it is likely that there will be a renewed focus on implementing measures to prevent or minimize the impact of future flooding events. For now, the priority remains on providing support to those affected and ensuring that the region can recover from this latest disaster.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/17/2026 0:13:09",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-345",
+    "title": "Programmer Creates DOOM in Custom Language",
+    "slug": "programmer-creates-doom-in-custom-language",
+    "content": "Betlang.dev, a new project hosted on the developer‑focused domain betlang.dev, was recently highlighted on Hacker News (item 48936657). The post garnered 21 up‑votes and 15 comments, indicating a modest but engaged response from the community. The discussion centers on the project’s goal of providing a streamlined language or framework tailored to a specific niche, though the precise scope remains under discussion.\n\nAccording to the project’s own “About” page, Betlang is designed to simplify the creation of domain‑specific applications by offering a lightweight syntax and a set of built‑in utilities that reduce boilerplate code. The developers emphasize that the language is open source and aims to foster rapid prototyping for developers who need to build custom solutions quickly. Early adopters in the comments have noted the potential for Betlang to accelerate development cycles, particularly in areas where existing languages are perceived as too verbose or complex.\n\nWhile the project is still in its early stages, the interest shown on Hacker News suggests that Betlang could fill a gap for developers seeking a more focused toolset. Continued community feedback and contributions will likely shape its evolution, and the project’s maintainers have indicated plans for further documentation and example projects in the coming months.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:12:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-344",
+    "title": "Rust Numeric Casts Using Galois Connections",
+    "slug": "rust-numeric-casts-using-galois-connections",
+    "content": "A recent post on GitHub has garnered attention from the developer community, with a repository created by user cmk titled \"connections\" sparking interest. The repository, which can be found at https://github.com/cmk/connections, appears to be a collection of code and resources related to building connections between different systems or applications. Although the exact purpose and scope of the repository are not immediately clear, its creation has prompted discussion and commentary from others in the tech community.\n\nThe conversation surrounding the \"connections\" repository has also extended to the news aggregation site Hacker News, where it has been shared and discussed by users. On the site, which can be accessed at https://news.ycombinator.com/, the post has received 7 points and attracted 1 comment, indicating a moderate level of interest and engagement from the community. The comments section, available at https://news.ycombinator.com/item?id=48936803, provides a space for users to share their thoughts and insights on the repository and its potential applications. As the discussion continues to unfold, it may provide valuable insights into the potential uses and implications of the \"connections\" repository.\n\nIn conclusion, the \"connections\" repository on GitHub has generated interest and discussion within the developer community, with its potential applications and implications being explored and debated by users on sites like Hacker News. As the conversation continues to evolve, it will be worth monitoring to see how the repository and its associated discussions contribute to the broader landscape of technology and software development. With its focus on building connections between systems and applications, the repository may ultimately play a role in shaping the future of tech and its many applications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:12:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-342",
+    "title": "AI Generated Unauthorized Biography Appears Online",
+    "slug": "ai-generated-unauthorized-biography-appears-online",
+    "content": "A recent development in the realm of artificial intelligence has sparked interest among book enthusiasts and technology experts alike. According to a report, AI-generated books have started to appear on online platforms, including Amazon. These books, often biographies, are created using sophisticated algorithms that can compile and organize vast amounts of information into a coherent narrative. The emergence of such books has raised questions about the role of AI in content creation and the potential implications for the publishing industry.\n\nThe AI-generated books in question are reportedly produced by leveraging large datasets and natural language processing capabilities. This enables the algorithms to generate text that is often indistinguishable from that written by humans. While some may view this as a remarkable achievement, others have expressed concerns about the lack of human touch and the potential for inaccuracies or biases in the generated content. Furthermore, the fact that these books are being sold on platforms like Amazon has led to discussions about authorship, ownership, and the need for greater transparency in the publishing process. As the technology continues to evolve, it is likely that we will see more AI-generated content, prompting a reevaluation of the boundaries between human and machine creativity.\n\nThe rise of AI-generated books serves as a reminder of the rapid advancements being made in the field of artificial intelligence. As machines become increasingly capable of producing high-quality content, it is essential to consider the implications for various industries, including publishing, education, and entertainment. While the potential benefits of AI-generated content are significant, it is crucial to address the challenges and concerns associated with this technology, ensuring that its development and deployment are guided by a commitment to accuracy, transparency, and ethical considerations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:12:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-337",
+    "title": "Apple iPad Mini to Get OLED Display Upgrade",
+    "slug": "apple-ipad-mini-to-get-oled-display-upgrade",
+    "content": "Apple’s current 7th‑generation iPad Mini, which debuted with a Liquid Retina display, is poised for its most substantial redesign since the 2021 model. Bloomberg analyst Mark Gurman reports that an OLED‑backlit version could arrive as early as October, marking a significant visual upgrade for the compact tablet. The shift to OLED is expected to bring deeper blacks and higher contrast, aligning the Mini with Apple’s recent high‑end device trends.\n\nAlongside the display change, Apple is likely to raise the Mini’s price. The company recently increased prices across its lineup, adding $100 to the base model of the current iPad Mini. Gurman has linked the price hike to the upcoming OLED upgrade and noted that AppleCare Plus for Macs and iPads will also see higher rates. Tim Cook has cited the need to offset rising component costs as the rationale for the broader price adjustments.\n\nIf the OLED refresh and price increase materialize, the iPad Mini will offer a sharper, more vibrant screen at a higher price point, potentially reshaping its position in the mid‑range tablet market. Apple’s strategy appears to balance feature enhancements with cost recovery, aiming to sustain profitability while delivering a refreshed user experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:12:13",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-336",
+    "title": "Tesla driver overrides FSD, kills woman in Texas crash",
+    "slug": "tesla-driver-overrides-fsd-kills-woman-in-texas-crash",
+    "content": "A National Transportation Safety Board (NTSB) preliminary report released Wednesday confirmed that the Tesla Model 3 involved in the fatal crash in Katy, Texas, was traveling at speeds exceeding 70 mph at the time of impact. Investigators found that the driver, 44‑year‑old Michael Butler, had manually overridden the vehicle’s Full Self‑Driving (FSD) system by pressing the accelerator to 100 percent, a move that caused the car to accelerate beyond the 30 mph speed limit on the two‑lane road where the incident occurred.\n\nThe crash, which took place in June, saw Butler’s vehicle plow into a home, killing 76‑year‑old Martha Avila inside. The NTSB’s analysis of the car’s electronic data indicates that the driver’s override directly contributed to the vehicle’s excessive speed, leading to the fatal impact. The report also noted that the vehicle’s FSD system was engaged at the time of the crash, but the driver’s actions disabled its safety interventions.\n\nThe NTSB will continue its investigation into the circumstances surrounding the incident and the role of Tesla’s autonomous driving features. The agency’s findings underscore the importance of driver attention and the potential risks associated with manual overrides of advanced driver‑assist systems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:12:08",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-333",
+    "title": "Roblox Adds AI Game Creation to Mobile App",
+    "slug": "roblox-adds-ai-game-creation-to-mobile-app",
+    "content": "Roblox is set to introduce in‑app AI tools that will let mobile users create games directly from the platform, expanding the company’s already extensive library of user‑generated content. The update, announced today, adds a preview of a new AI world‑model system reminiscent of Google’s Project Genie, a foundation model that can generate 3‑D game assets, and an AI‑powered chatbot to assist developers during the building process.\n\nThe move is part of Roblox’s broader strategy to embrace artificial intelligence across its ecosystem. While the initial rollout will be modest, the company aims to make AI integration more accessible to casual creators and mobile players, potentially lowering the barrier to entry for game development. However, critics warn that an influx of AI‑generated games could exacerbate existing concerns about content quality and moderation on the platform.\n\nIf the tools prove successful, Roblox could see a surge in new titles and a shift in how creators approach game design. The company will monitor user engagement and quality metrics closely, adjusting the AI features as needed to balance innovation with community standards.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:11:53",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-332",
+    "title": "EU orders Google to give AI rivals access to Android",
+    "slug": "eu-orders-google-to-give-ai-rivals-access-to-android",
+    "content": "The European Union has ordered Google to grant its artificial‑intelligence competitors broader access to the Android operating system, the platform that powers billions of smartphones worldwide. The Commission’s decision, issued Thursday as part of a broader scrutiny of Google’s market power, requires the company to allow rival AI assistants to integrate more fully with Android’s core services, a move that could reshape the ecosystem of mobile voice assistants.\n\nThe ruling follows a series of regulatory actions aimed at curbing Google’s dominance in digital markets. While the order may appear as a setback on paper, it represents a strategic win for the tech giant, which has historically resisted such access. By navigating Brussels’ competition framework more deftly than Apple, Google has positioned itself to maintain a competitive edge while complying with EU mandates.\n\nThe decision underscores the EU’s commitment to fostering competition in the tech sector and signals a shift in how major platforms will interact with emerging AI technologies. As the industry adapts, the broader implications for developers and consumers will unfold in the coming months.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:11:49",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-331",
+    "title": "Ecovacs Deebot X11 Robot Vacuum Now $699 After $400 Discount",
+    "slug": "ecovacs-deebot-x11-robot-vacuum-now-699-after-400-discount",
+    "content": "The Ecovacs Deebot X11, a robot vacuum‑mop hybrid, is now available for $699—$400 less than its original price—through Amazon and directly from Ecovacs. The discount represents a new low for the model, which has long been regarded as a strong contender in the robot cleaning market. The X11 delivers 19,500 Pa of suction power and a suite of features designed to automate floor maintenance, from mapping and navigation to scheduled cleaning and smart home integration.\n\nWhile the Deebot Matic has recently moved to the top of Ecovacs’ own rankings, the X11 remains a compelling option, especially given its steep price reduction. The hybrid’s dual‑mode cleaning—vacuuming and mopping—offers versatility for households that need both dust and liquid removal. The combination of powerful suction, efficient navigation, and a comprehensive feature set makes the X11 a practical choice for consumers looking for a budget‑friendly yet capable robot cleaner.\n\nFor full details on the Deebot X11’s specifications, performance, and how the new pricing fits into the broader landscape of robot vacuums, readers can consult the complete review on The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:11:45",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260716-330",
+    "title": "NY Governor Hochul Uses AI to Scrutinize Outdated State Laws",
+    "slug": "ny-governor-hochul-uses-ai-to-scrutinize-outdated-state-laws",
+    "content": "New York Governor Kathy Hochul has reportedly signed a moratorium on the construction of new artificial‑intelligence data centers in the state, a move that has drawn attention from technology and policy observers. In a recent interview with Bloomberg’s Odd Lots podcast, Hochul explained that the moratorium does not reflect a wholesale opposition to AI; instead, her administration is actively deploying the technology to audit the state’s legal framework.\n\nAccording to Hochul, her team is using AI tools to scan every rule, regulation and policy to flag outdated provisions. She cited examples such as a $25 fee required for a dog to participate in hunting and a regulation that would have forced pregnant workers to obtain a permit to work after midnight. Hochul noted that a manual review of all state laws would have taken her staff roughly five years, underscoring the efficiency gains AI can bring to legislative oversight. The full story was reported by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 0:11:40",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260716-329",
     "title": "Tesla Autopilot Crash Caused by Driver Error",
     "slug": "tesla-autopilot-crash-caused-by-driver-error",
