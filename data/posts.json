@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260717-013",
+    "title": "Water's Role in Older Women's Lives",
+    "slug": "water-s-role-in-older-women-s-lives",
+    "content": "Recent findings from Austrian researchers indicate that water plays a significantly more complex and influential role in the daily lives of older women than previously documented. The study, conducted by academic institutions in Austria, challenges existing assumptions about how aging women interact with and depend on water resources, highlighting both practical and socio-cultural dimensions that have long been overlooked in demographic and public health research.\n\nAccording to the report, older women demonstrate distinct patterns of water usage that extend beyond basic consumption, encompassing caregiving duties, household management, and community engagement. Researchers noted",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/17/2026 6:42:34",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-012",
+    "title": "PathSay Project Uses AI to Bridge Language Gaps",
+    "slug": "pathsay-project-uses-ai-to-bridge-language-gaps",
+    "content": "Thousands of the world’s languages remain largely invisible to modern translation technology, a gap that researchers and students at Brigham Young University (BYU) are actively working to close. In a new initiative called Pathsay, BYU’s MATRIX lab is collaborating with international students from the BYU‑Pathway Worldwide program to gather speech and text data for low‑resource languages. The effort aims to enrich machine‑learning models with authentic linguistic material that has historically been underrepresented.\n\nThe Pathsay project focuses on collecting high‑quality recordings and written samples from communities that lack robust digital resources. By engaging native speakers in the data‑collection process, the team ensures cultural accuracy and linguistic nuance while building a repository that can be used to train translation algorithms. The initiative also serves an archival purpose, preserving endangered languages and dialects for future generations.\n\nThrough this partnership, BYU hopes to improve access to translation tools for populations that are often overlooked by mainstream technology. The project underscores the importance of inclusive language technology and demonstrates how academic collaboration can bridge the digital divide, offering both practical benefits and a safeguard for linguistic heritage.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/17/2026 6:42:28",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-010",
+    "title": "Modal scales to 1M concurrent sandboxes in seconds",
+    "slug": "modal-scales-to-1m-concurrent-sandboxes-in-seconds",
+    "content": "Modal, the serverless platform that lets developers run Python code in isolated “sandboxes,” announced a new architecture that can spin up one million concurrent sandboxes in a matter of seconds. In a recent blog post, the company detailed how the redesign of its runtime and scheduler allows it to handle a dramatic increase in parallel workloads while keeping latency low and resource usage efficient. The update is aimed at data‑science teams and machine‑learning workflows that require rapid, on‑demand compute without the overhead of managing infrastructure.\n\nThe key technical advance is a lightweight container model that shares a minimal runtime image across all sandboxes, coupled with a highly‑scalable event‑driven scheduler that distributes work across a pool of pre‑warmed execution nodes. By leveraging a combination of cloud‑native primitives and fine‑tuned caching, Modal can allocate new sandboxes in under a second, even when scaling to a million concurrent instances. The blog also highlights real‑world use cases, such as batch data‑processing pipelines and interactive notebooks, where the new scaling capability reduces turnaround time from minutes to seconds.\n\nIndustry observers note that this leap in scalability positions Modal as a competitive alternative to traditional container orchestration and cloud function services, especially for Python‑centric workloads. The update promises to accelerate experimentation cycles for data scientists and lower the barrier to deploying large‑scale machine‑learning applications, potentially reshaping how teams approach cloud‑native development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 6:42:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-009",
+    "title": "Hegseth Proposes Testosterone Therapy for Troops",
+    "slug": "hegseth-proposes-testosterone-therapy-for-troops",
+    "content": "The U.S. Department of Defense has announced plans to offer testosterone therapy to active‑duty personnel as part of a broader initiative to address hormone-related health issues. The proposal, introduced by Secretary of Defense Lloyd Austin, cites rising reports of low testosterone levels among service members and aims to improve physical performance, morale, and overall readiness.\n\nMedical experts caution that testosterone regulation is highly individualized, with significant risks of side effects such as cardiovascular complications, infertility, and mood disturbances. Critics argue that the program lacks a robust framework for screening, monitoring, and managing long‑term health outcomes. The Department of Defense has not yet released detailed guidelines or clinical protocols, and several professional associations have called for a more evidence‑based approach before widespread implementation.\n\nUntil comprehensive studies and clear safety protocols are established, the initiative remains controversial. The Defense Department will reportedly conduct a pilot program and gather data to assess efficacy and safety, but stakeholders emphasize the need for rigorous oversight to avoid unintended health consequences for service members.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 6:42:15",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-008",
+    "title": "HP fined 1.4 billion rupees for cartel practices in ink, toner and PC markets",
+    "slug": "hp-fined-1-4-billion-rupees-for-cartel-practices-in-ink-toner-and-pc-markets",
+    "content": "Resellers of Hewlett‑Packard (HP) printers have warned that they may abandon the company’s official supplies in favor of cheaper, counterfeit alternatives, citing rising costs and supply chain delays. The move comes amid growing pressure on small‑to‑mid‑size businesses to cut operating expenses, prompting some distributors to explore lower‑priced third‑party cartridges that promise similar performance at a fraction of the price.\n\nHP has responded by tightening its supply chain controls and warning that counterfeit products can compromise print quality, void warranties, and pose safety risks. Industry analysts note that while counterfeit supplies can offer short‑term savings, they also expose resellers to legal liability and damage to brand reputation. The company is reportedly working with law enforcement to track and shut down counterfeit operations, while also exploring new pricing strategies to keep its official products competitive.\n\nIf resellers follow through on their threat, the printing market could see a shift toward unregulated cartridge vendors, potentially increasing the prevalence of substandard products. HP’s efforts to safeguard its supply chain and maintain product integrity will be closely watched by both resellers and end‑users as the industry navigates the balance between cost and quality.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 6:42:10",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-007",
+    "title": "Two Trump health nominees stumble during Senate hearing",
+    "slug": "two-trump-health-nominees-stumble-during-senate-hearing",
+    "content": "Senate committee hearings this week saw two nominees for the federal agency’s top post stumble under pressure as lawmakers demanded clarification on key policy positions. The nominees, both long‑time industry leaders, appeared to flail in distinct ways when confronted with questions about regulatory priorities, budget allocations and their track record on environmental compliance. Senators from both parties pressed for concrete answers, citing the urgency of the agency’s mandate and the need for transparent leadership.\n\nDuring the session, one nominee offered broad, generalized statements about “upholding the agency’s mission” without addressing specific legislative proposals, prompting a flurry of follow‑up questions from the panel. The second nominee, when asked about past controversies involving environmental oversight, responded with vague assurances and a pivot to personal anecdotes, which many senators found unsatisfactory. The hearing highlighted the nominees’ differing communication styles and raised concerns about their readiness to navigate the agency’s complex policy landscape.\n\nThe committee will now consider whether to recommend the nominees for confirmation. While the hearing did not resolve the questions raised, it underscored the importance of clear, detailed responses in the confirmation process. Senators have indicated that the next steps will involve further scrutiny of the nominees’ records and potential additional hearings before a final vote is taken.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/17/2026 6:42:06",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-006",
+    "title": "US Strikes Hit Iranian Airport, Bridges, Railway Station, Killing Three",
+    "slug": "us-strikes-hit-iranian-airport-bridges-railway-station-killing-three",
+    "content": "U.S. forces launched a series of airstrikes overnight that struck an airport, a railway station and two bridges in Iran, Iranian state media reported on Friday. The attacks, which occurred in the early hours of the day, resulted in the deaths of three people and caused significant damage to the targeted infrastructure. The Iranian Ministry of Information confirmed the casualties and described the strikes as a deliberate attempt to disrupt transportation and logistics in the region.\n\nThe strikes are part of an escalating conflict between the United States and Iran that has intensified over control of the Strait of Hormuz, a critical waterway for global oil shipments. Both sides have repeatedly exchanged threats and retaliatory actions, with the U.S. citing security concerns and Iran accusing Washington of aggression. The latest attacks come amid heightened tensions as the U.S. seeks to deter Iranian influence in the Gulf while Iran defends its strategic interests.\n\nThe incident underscores the growing volatility in the Middle East and the potential for further escalation. International observers are monitoring the situation closely, as any additional hostilities could disrupt maritime trade and regional stability. The U.S. and Iran have yet to issue formal statements on the specific targets, but the pattern of attacks signals a continuation of the current standoff.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:42:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-005",
+    "title": "Sadiq Khan Joins House of Lords as 26 New Peers Announced",
+    "slug": "sadiq-khan-joins-house-of-lords-as-26-new-peers-announced",
+    "content": "Prime Minister Keir Starmer has released his final honours list, marking the last set of awards he will confer before leaving office. The list, published ahead of the upcoming New Year Honours, recognises a broad spectrum of public service, extending beyond politicians to include campaigners, senior military figures and high‑ranking civil servants.\n\nAmong the recipients are environmental and human‑rights campaigners honoured for decades of advocacy, senior officers from the British Armed Forces awarded for distinguished service, and senior civil servants acknowledged for their contributions to government efficiency and policy implementation. The honours, ranging from Commander of the Order of the British Empire (CBE) to knighthoods, follow the United Kingdom’s long‑standing tradition of rewarding exceptional achievement across society. Starmer’s final list underscores the administration’s emphasis on diverse forms of public contribution as it concludes its tenure.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:41:57",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-004",
+    "title": "Qatar denies reports of involvement in Israeli military action against Iran",
+    "slug": "qatar-denies-reports-of-involvement-in-israeli-military-action-against-iran",
+    "content": "Doha – Qatar’s foreign ministry on Tuesday dismissed reports circulated by Israeli media that the Gulf state had consented to join a military operation against Iran. In a brief statement, the ministry said the allegations were “baseless and unfounded,” and reiterated Qatar’s commitment to diplomatic solutions and regional stability. The denial came after several Israeli outlets quoted unnamed sources claiming that Qatari officials had been approached to provide logistical support for a potential strike on Iranian territory.\n\nThe clarification arrives amid heightened tensions in the Persian Gulf, where Iran’s recent missile tests and Israel’s expressed concerns over Tehran’s activities have fueled speculation about coordinated responses. Qatar, which maintains a complex relationship with both Iran and Israel, has previously emphasized its role as a mediator in regional disputes and has not confirmed any involvement in military planning. The ministry’s response underscores Qatar’s stance of non‑participation in armed actions and its preference for dialogue to address security challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:41:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-003",
+    "title": "Vietnamese activist Bao Ngoc highlights Gaza crisis",
+    "slug": "vietnamese-activist-bao-ngoc-highlights-gaza-crisis",
+    "content": "Vietnamese human‑rights activist Bao Ngoc has recently highlighted the humanitarian situation of Palestinians, staging a small, privately organized gathering in Hanoi to call for an end to the conflict in Gaza. The event, which featured a moment of silence and the distribution of informational leaflets, was conducted under the country's strict regulations on public assembly, which require prior approval from authorities and limit the size and visibility of demonstrations. Bao Ngoc, known for her work on freedom of expression and minority rights, said the gathering aimed to raise awareness among Vietnamese citizens about the civilian casualties and displacement caused by the ongoing war between Israel and Hamas.\n\nOfficials did not intervene during the brief gathering, but the Ministry of Public Security reiterated that any future public expression on foreign conflicts must comply with existing legal procedures. International observers have noted that Vietnam’s tightly controlled protest environment often curtails spontaneous solidarity actions, even on humanitarian issues. Bao Ngoc’s initiative underscores the challenges faced by activists seeking to discuss global crises within a framework that prioritizes state oversight of public discourse.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:41:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-002",
+    "title": "Venezuela earthquake death toll nears 5,000, UN estimates 50,000 missing",
+    "slug": "venezuela-earthquake-death-toll-nears-5-000-un-estimates-50-000-missing",
+    "content": "The United Nations has reported that approximately 50,000 people remain missing after the recent disaster, with authorities fearing that many more have perished beneath the collapsed structures. Initial rescue operations focused on locating survivors amid the rubble, but as the scale of destruction became clearer, the emphasis has shifted toward systematic recovery and the reconstruction of affected neighborhoods.\n\nInternational aid agencies and local governments are now coordinating efforts to clear debris, assess damage, and begin rebuilding critical infrastructure. While the full extent of the loss of life may not be known for months, officials stress that restoring housing, utilities, and public services is essential to support the displaced population and to lay the groundwork for long‑term recovery.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:41:43",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260717-001",
+    "title": "US strikes hit civilian infrastructure in southern Iran",
+    "slug": "us-strikes-hit-civilian-infrastructure-in-southern-iran",
+    "content": "Officials in Iran’s southern province of Hormozgan have confirmed widespread power outages following a reported attack on a train station in the coastal city of Bandar Abbas. Local authorities said the blast, which occurred early Tuesday morning, damaged the station’s electrical infrastructure and disrupted rail services across the region. Emergency crews were dispatched to contain the incident, and temporary generators were installed to restore limited electricity to critical facilities, including hospitals and water treatment plants.\n\nIn a separate statement, Iran’s Ministry of Foreign Affairs reiterated that the strategic Strait of Hormuz will not revert to its pre‑war operational levels, citing ongoing security concerns and the need for sustained maritime safety measures. The ministry emphasized that the country remains committed to safeguarding navigation through the waterway while addressing the infrastructural challenges highlighted by the recent attack. Authorities continue to monitor the situation, urging residents to conserve electricity and remain vigilant as repair work proceeds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/17/2026 6:41:39",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260716-593",
     "title": "SpaceX Aborts Starship Flight 13 Test Launch",
     "slug": "spacex-aborts-starship-flight-13-test-launch",
