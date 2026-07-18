@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260718-103",
+    "title": "Hockney Print Sells for £41K",
+    "slug": "hockney-print-sells-for-41k",
+    "content": "A rare and valuable print was recently discovered in a book donated to a Salvation Army shop, and it has been sold to an anonymous bidder. The print, which was found by chance among the pages of the donated book, is a significant cultural artifact that has garnered significant attention from collectors and enthusiasts. The Salvation Army shop, which receives a wide range of donations, often uncovers hidden gems, but this particular find is considered to be one of the most remarkable in recent memory.\n\nThe details of the print, including its origin, age, and condition, were not publicly disclosed, but it is believed to be a highly sought-after item among collectors. The anonymous bidder who purchased the print was willing to pay a substantial amount for the privilege of owning it, highlighting the significant value that is placed on such rare and unique items. The sale of the print has also brought attention to the important work of the Salvation Army, which relies on donations to support its charitable activities and provide essential services to those in need.\n\nThe sale of the print has been hailed as a significant windfall for the Salvation Army, and the organization is grateful for the unexpected donation that led to its discovery. The identity of the anonymous bidder and the final sale price of the print remain unknown, but it is clear that the discovery and sale of the print have made a significant impact on the cultural and charitable communities. The incident serves as a reminder of the importance of donating to charitable organizations and the potential for unexpected surprises to be found among donated items.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "7/18/2026 15:32:30",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-101",
+    "title": "2026 World Cup Marred by Controversy",
+    "slug": "2026-world-cup-marred-by-controversy",
+    "content": "The 2026 World Cup has been marred by controversy, with several issues making headlines throughout the tournament. One of the primary concerns has been the high ticket prices, which have made it difficult for many fans to attend matches. This has led to criticism from supporters and officials alike, with some arguing that the costs are pricing out dedicated fans and undermining the spirit of the event. Additionally, the tournament has seen the introduction of hydration breaks, a measure aimed at protecting player health and safety in the face of challenging environmental conditions.\n\nThe 2026 World Cup has also been subject to various new laws and political interventions, which have added to the complexity and drama of the event. These developments have drawn attention to the intersection of sports and politics, highlighting the ways in which global events like the World Cup can be influenced by external factors. As the tournament continues to unfold, it remains to be seen how these issues will be addressed and what impact they will have on the overall experience of players, teams, and fans. With the world watching, the organizers and stakeholders are under pressure to ensure a successful and enjoyable event for all involved.\n\nIn conclusion, the 2026 World Cup has been a tournament marked by controversy and challenge, with high ticket prices, hydration breaks, and political interventions all making headlines. As the event draws to a close, it is likely that these issues will continue to be debated and discussed, with lessons learned and applied to future tournaments. Despite the challenges, the World Cup remains a premier international sporting event, and its ability to captivate and inspire audiences around the world remains unparalleled.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/18/2026 15:32:22",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-097",
+    "title": "Labour Plans New North Sea Drilling",
+    "slug": "labour-plans-new-north-sea-drilling",
+    "content": "The Labour Party’s 2024 manifesto pledged that no new drilling licences would be issued, a promise that has come under scrutiny as the government moves forward with several high‑profile projects. Recent announcements of licence approvals for offshore wind and deep‑sea exploration have sparked debate within the party, with senior members arguing that the pledge was not honoured and that the policy’s integrity is at risk.\n\nCritics point to the approval of licences for the North Sea and the Atlantic coast, citing the potential environmental impact and the need for a clear transition to renewable energy. Labour’s environmental policy team has issued statements demanding a review of the decision‑making process, while industry groups argue that the licences are essential for energy security and economic growth. The controversy has prompted calls for a parliamentary inquiry into the licensing process and the extent to which the government adhered to its campaign commitments.\n\nIn response, the government has defended the licences as part of a broader strategy to balance energy needs with climate goals, emphasizing regulatory safeguards and community consultation. The Labour Party has indicated it will seek a formal clarification from the cabinet and, if necessary, pursue legal action to enforce the manifesto pledge. The issue remains a focal point for the upcoming election campaign, with stakeholders closely monitoring the outcome.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/18/2026 15:32:06",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-094",
+    "title": "Reducing Daily Choices Can Ease Decision Fatigue",
+    "slug": "reducing-daily-choices-can-ease-decision-fatigue",
+    "content": "A growing consumer trend highlights a quest for the “perfect” in everyday life, from jeans that fit flawlessly to the ideal Netflix show for a Tuesday night, and even the search for a one‑and‑only soulmate. Retailers and streaming services report that customers increasingly demand highly tailored options, with many turning to advanced fit‑prediction tools and curated content libraries to meet their preferences. The trend is also evident in the dating arena, where users of modern matchmaking platforms report a heightened desire for a single, compatible partner rather than a series of casual connections.\n\nModern life’s abundance of choices is a key driver of this shift. With a wide array of denim brands offering customizable sizing and a vast selection of streaming titles, consumers can more easily locate the product or entertainment that best suits their individual tastes. Similarly, dating apps now provide sophisticated matching algorithms that sift through large user bases to identify a potential soulmate. This emphasis on personalization reflects a broader market movement toward curated experiences that align closely with individual lifestyle and preference data.\n\nThe convergence of these trends suggests that businesses across fashion, media, and technology are responding by expanding their personalization capabilities. Companies are investing in data analytics, AI‑powered recommendations, and flexible product lines to cater to consumers’ desire for precise fit, optimal entertainment, and meaningful relationships. As the market continues to evolve, the pursuit of the “best of everything” remains a central narrative in contemporary consumer behavior.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/18/2026 15:31:55",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-093",
+    "title": "New Mouse Study Reveals Biological Process Behind Adolescent Memory Maturation",
+    "slug": "new-mouse-study-reveals-biological-process-behind-adolescent-memory-maturation",
+    "content": "Scientists have long observed that the human brain continues to develop well beyond the teenage years, with significant changes in decision‑making and emotional regulation extending into the mid‑to‑late twenties. In a new study, researchers at the Albert Einstein College of Medicine have identified a specific biological process in mice that sheds light on how memory circuits mature during this prolonged developmental window. The discovery provides a potential framework for understanding the neural mechanisms that support the refinement of memory functions as the brain ages.\n\nThe team focused on a molecular pathway that appears to regulate the growth and pruning of synapses within the hippocampus, the brain region critical for forming and retrieving memories. By manipulating this pathway in adult mice, they observed alterations in synaptic density and changes in the strength of neural connections that mirror the gradual maturation of memory circuits seen in humans. The findings suggest that similar processes may operate in the human brain, offering new targets for interventions aimed at enhancing memory performance or mitigating age‑related cognitive decline.\n\nThese results underscore the importance of studying animal models to unravel the complex biology of brain development that extends into adulthood. While further research is needed to confirm whether the same mechanisms exist in humans, the study opens avenues for exploring how memory systems evolve and how they might be supported or restored in later life.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/18/2026 15:31:50",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-092",
+    "title": "Trump Media to Sell Priority Access to Truth Social Posts",
+    "slug": "trump-media-to-sell-priority-access-to-truth-social-posts",
+    "content": "Donald Trump’s media company announced on Thursday that it will begin charging for a premium, high‑speed feed of posts on its Truth Social platform, a service that could include the former president’s own updates.  The plan is designed to give Wall Street trading firms and other institutional investors first access to content from the platform’s top contributors, allowing them to react to new information before the general public.\n\nBy offering a “first‑look” service, the company is effectively creating a new avenue for market participants to anticipate and capitalize on price movements in stocks, bonds, and interest rates that may be triggered by political or social media announcements.  The proposal has raised concerns about market fairness and the potential for insider‑style advantages, as well as broader national‑security implications if political messaging can be monetized in a way that directly influences financial markets.\n\nRegulators and market observers are monitoring the development closely, with some calling for clearer rules on the use of social‑media information for trading purposes.  No official response from the Securities and Exchange Commission has yet been issued, but the move underscores the growing intersection between political communication and financial market dynamics.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "7/18/2026 15:31:46",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260718-091",
+    "title": "Gazundering: buyers cut offers before exchange as UK property market issue grows",
+    "slug": "gazundering-buyers-cut-offers-before-exchange-as-uk-property-market-issue-grows",
+    "content": "A growing concern in the property market is the rise of hidden fees and misrepresentation in home sales, prompting buyers to seek greater safeguards. Recent investigations by consumer watchdogs have uncovered a pattern of unscrupulous agents and developers adding unexpected costs to purchase agreements, while some listings omit critical information about structural defects or zoning restrictions. The trend, which has been noted across several major cities, threatens to erode trust in the real‑estate sector and could leave buyers with unexpected financial burdens after closing.\n\nIndustry experts advise a multi‑step verification process to protect oneself. First, obtain a comprehensive property report from an independent surveyor before signing any contracts. Second, review all documents—title deeds, planning permissions, and disclosure statements—under legal counsel to confirm there are no undisclosed encumbrances or pending litigation. Third, negotiate a clear, itemised breakdown of all fees, including broker commissions, transfer taxes, and any ancillary charges, and insist on a written clause that holds the seller liable for any post‑sale discrepancies. Regulatory bodies are also tightening enforcement, with penalties for non‑compliance now exceeding $50,000 in some jurisdictions.\n\nBy adopting these precautionary measures, buyers can mitigate the risk of falling victim to hidden costs or incomplete disclosures. As the property market continues to evolve, vigilance and due diligence remain the most reliable tools for safeguarding investments and ensuring transparent, fair transactions.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "7/18/2026 15:31:41",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260718-085",
     "title": "Context Bombing Stops Malicious AI Agents",
     "slug": "context-bombing-stops-malicious-ai-agents",
