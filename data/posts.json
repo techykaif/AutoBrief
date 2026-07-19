@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260719-287",
+    "title": "Scientists Develop Bispecific Immunotherapy for Ovarian Cancer",
+    "slug": "scientists-develop-bispecific-immunotherapy-for-ovarian-cancer",
+    "content": "Wistar Institute Researchers Make Breakthrough in Immunotherapy for Ovarian Cancer\n\nScientists at the Wistar Institute have achieved a significant milestone in the fight against ovarian cancer with the development of a novel bispecific T cell engager (BTE). In preclinical studies, this innovative treatment has demonstrated effectiveness against ovarian cancer, marking a major step forward in immunotherapy research. Historically, BTEs have shown promise in treating blood cancers, but their application in solid tumors, such as ovarian cancer, has proven challenging.\n\nThe new BTE, developed by the Wistar team, leverages the body's immune system to target and eliminate cancer cells. By combining two distinct proteins, the treatment enables T cells to recognize and attack ovarian cancer cells with unprecedented precision. According to the researchers, this breakthrough has the potential to revolutionize the treatment of ovarian cancer, a disease that affects hundreds of thousands of women worldwide.\n\nThe success of this new BTE in preclinical studies offers hope for patients who have limited treatment options. As the scientific community continues to explore the potential of immunotherapy, this development serves as a significant stepping stone in the pursuit of more effective treatments for ovarian cancer. Further research is needed to confirm the efficacy and safety of this treatment, but the initial results are promising and warrant continued investigation.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/20/2026 0:13:00",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-285",
+    "title": "Portable Fluorescence Analytical Device Developed",
+    "slug": "portable-fluorescence-analytical-device-developed",
+    "content": "The advent of advanced medical technology has revolutionized the healthcare landscape by making it possible for patients to access key aspects of care from the comfort of their own homes. This shift has significantly improved overall health outcomes by increasing accessibility and convenience. With the ability to track symptoms and monitor health remotely, individuals are now empowered to take a more proactive role in managing their well-being.\n\nThe development of portable and user-friendly medical devices has been instrumental in bringing healthcare into the home. These innovations enable patients to screen for certain types of illnesses outside of a traditional laboratory or clinical setting, reducing the need for frequent hospital visits and allowing for earlier detection and intervention. By putting more control into the hands of patients, this technology has the potential to improve health outcomes, enhance patient engagement, and reduce the burden on healthcare systems. As a result, individuals are better equipped to manage chronic conditions, monitor their health, and make informed decisions about their care.\n\nThe integration of medical technology into daily life is likely to continue transforming the way healthcare is delivered and received. As patients become more empowered to manage their health, the traditional boundaries between healthcare providers and individuals are likely to blur, leading to a more collaborative and patient-centered approach to care. Ultimately, the advancement of medical technology has the potential to improve health outcomes, enhance the overall quality of care, and create a more sustainable and effective healthcare system.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/20/2026 0:12:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-278",
+    "title": "GCC and Clang Not Fully C++ Standard‑Compliant",
+    "slug": "gcc-and-clang-not-fully-c-standard-compliant",
+    "content": "On July 8, 2026 a defect in the GNU C++ standard library (libstdc++) was reported by the developer community at Sebsite. The issue, dubbed “badstdcxx,” triggered undefined behavior in certain string manipulation routines, causing crashes in a range of applications that depend on the library. The bug was first identified during the compilation of a large codebase and subsequently confirmed by the GCC development team.\n\nAffected releases include GCC 12.2 and later builds that incorporate the libstdc++ 12.2.1 snapshot. The problem arises when the library’s internal string handling fails to correctly manage null-terminated data, leading to segmentation faults in programs that perform frequent string concatenation or substring extraction. A patch was released within 48 hours of the initial report, and all major Linux distributions have since updated their packages to include the fix. The GCC project has documented the root cause and the mitigation steps in its release notes.\n\nThe swift response from the open‑source community and the timely patch release have mitigated the risk of widespread application failures. Users are advised to update to the patched version of libstdc++ and to monitor their systems for any residual instability. The incident underscores the importance of rigorous testing in library development and the value of rapid issue tracking in open‑source ecosystems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/20/2026 0:12:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-277",
+    "title": "1010Benja’s AI-Generated EP Receives Mixed Reactions",
+    "slug": "1010benja-s-ai-generated-ep-receives-mixed-reactions",
+    "content": "A Toronto‑based producer known as 1010Benja has released the EP *Time Has Nothing To Do With What You Choose…*, a collection that openly incorporates generative artificial intelligence. Benja has publicly stated that he will not apologize for the AI‑generated elements of the record, citing the broader debate around machine‑made music and the influence of artists such as Holly Herndon. The EP’s opening track, “Semiramis’ Dream,” has drawn particular attention for its energetic jungle beat and layered vocal textures, which many listeners find more engaging than the remaining three songs on the release.\n\nThe EP’s title track showcases the producer’s use of AI tools to craft rhythmic patterns and harmonic progressions, a technique that has sparked discussion among critics who often criticize generative outputs from platforms like Suno as “offensively boring.” Despite this, “Semiramis’ Dream” has been praised for its infectious groove and dynamic production, standing out against the rest of the EP’s material, which some reviewers feel does not match the quality of Benja’s 2024 album *Ten Total*. As the conversation around AI in music continues to evolve, 1010Benja’s unapologetic stance and the reception of his latest work underscore the growing acceptance of machine‑assisted creativity in contemporary pop and electronic scenes.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/20/2026 0:12:20",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-276",
+    "title": "Argentina and Spain to meet in 2026 World Cup final",
+    "slug": "argentina-and-spain-to-meet-in-2026-world-cup-final",
+    "content": "The 2026 FIFA World Cup concluded with a dramatic final between Argentina and Spain, held at the Los Angeles Memorial Coliseum on July 12. Argentina entered the match as the defending champions, having secured the title in 2022, while Spain arrived as a rising power, having advanced to the final for the first time in their history. The encounter promised a clash of generations, with Lionel Messi, the Argentine legend, facing Spain’s teenage prodigy Lamine Yamal, who had already attracted global attention for his performances in the UEFA Champions League.\n\nThe game unfolded as a tightly contested affair. Argentina dominated possession early, with Messi orchestrating several attacking moves, but Spain’s disciplined defense and swift counter‑attacks kept the score level. Yamal, in his first World Cup final, created multiple chances and demonstrated composure beyond his years, earning praise from pundits for his tactical awareness. In the 78th minute, a well‑timed header from Argentina’s forward secured a 1‑0 lead, and the team held on to win the tournament, marking their second World Cup triumph.\n\nArgentina’s victory cements Lionel Messi’s legacy as one of the greatest players of all time, while Spain’s performance signals the emergence of a new generation of talent on the world stage. The final, watched by millions worldwide, underscored the global appeal of football and the enduring appeal of the World Cup as a showcase for both seasoned stars and rising stars.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:12:16",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-275",
+    "title": "Spain vs Argentina World Cup Final at MetLife Stadium",
+    "slug": "spain-vs-argentina-world-cup-final-at-metlife-stadium",
+    "content": "Spain and Argentina will contest the FIFA World Cup final on Sunday at New York’s MetLife Stadium, a showdown that pits the reigning European champions against the defending world champions. Both sides arrive in New Jersey after navigating a demanding knockout phase, with Spain seeking its first World Cup title and Argentina aiming to retain the trophy they captured in Qatar. The match will feature a contrast of tactical approaches: Spain’s possession‑based, high‑pressing game against Argentina’s blend of individual flair and disciplined defending.\n\nThe final, scheduled to kick off at 8 p.m. ET, marks the culmination of a tournament that has highlighted the depth of talent across continents. With millions of viewers expected worldwide, the encounter offers a decisive test of experience and ambition for the two footballing nations. As the teams line up for the opening whistle, the outcome will determine which country adds the coveted World Cup crown to its sporting legacy.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:12:11",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-274",
+    "title": "Israel and Jordan intercept Iranian missile targeting Aqaba",
+    "slug": "israel-and-jordan-intercept-iranian-missile-targeting-aqaba",
+    "content": "Israeli and Jordanian forces intercepted an Iranian missile on Sunday that had been launched toward the Jordanian city of Aqaba, the Israeli military confirmed. The missile was destroyed before it could reach its target, but the interception produced shrapnel that struck Israeli territory. No casualties were reported, though the incident prompted heightened alertness among Israeli forces.\n\nThe event underscores the growing tensions in the region, with the Israeli Defense Forces noting that the interception has intensified the perception of an escalating conflict. Analysts point out that the missile launch and subsequent interception demonstrate Iran’s continued willingness to project power across the Red Sea corridor, while also highlighting the close coordination between Israel and Jordan in monitoring and neutralizing threats.\n\nWhile the immediate impact was limited to material damage and a brief scramble of troops, officials from both countries have reiterated their commitment to maintaining security and preventing further escalation. The incident serves as a reminder of the fragile security environment in the Middle East and the importance of rapid response capabilities in mitigating potential threats.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:12:07",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-273",
+    "title": "Haiti faces daily hardships amid gang violence and political uncertainty",
+    "slug": "haiti-faces-daily-hardships-amid-gang-violence-and-political-uncertainty",
+    "content": "Millions of Haitians are now confronting a daily reality marked by insecurity, food scarcity and restricted mobility within their own neighborhoods. Recent assessments by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) indicate that over 5 million people—roughly half the country’s population—are experiencing acute food insecurity, while a surge in gang‑related violence has limited residents’ ability to travel safely for work, education or medical care.\n\nThe deteriorating conditions stem from a combination of political instability, an economic downturn that has eroded purchasing power, and the proliferation of armed groups that control key urban districts. Humanitarian agencies report that food aid deliveries have been hampered by road blockades, and health services are strained as clinics struggle to operate amid threats of attacks. While international partners have pledged additional funding and are scaling up nutrition programs, officials caution that without a sustained reduction in violence and improvements in governance, the basic needs of millions of Haitians will remain unmet.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:12:03",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-272",
+    "title": "5.5‑Magnitude Earthquake in Peru Kills at Least Five",
+    "slug": "5-5-magnitude-earthquake-in-peru-kills-at-least-five",
+    "content": "A 5.5‑magnitude earthquake struck the Andes region of Peru on Saturday night, killing at least five people, injuring more than 20 and displacing roughly 300 residents, officials said Sunday. The tremor’s epicenter was located 2 km (1.2 miles) west‑south‑west of the town of Sicaya in Huancayo province, at a depth of 10 km (6.2 miles), according to the U.S. Geological Survey.\n\nEmergency crews were dispatched to the affected area after the quake, which occurred at 9:24 p.m. local time, caused several buildings to collapse and left many families without shelter. Local authorities are coordinating rescue operations and providing temporary accommodation for those displaced, while medical teams treat the injured. The incident underscores the region’s vulnerability to seismic activity, and officials have urged residents to remain vigilant for aftershocks as recovery efforts continue.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:11:58",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-271",
+    "title": "Syria's Al-Sharaa government reshuffles security and intelligence leadership",
+    "slug": "syria-s-al-sharaa-government-reshuffles-security-and-intelligence-leadership",
+    "content": "The government announced a cabinet reshuffle on Monday, stating that the changes are intended to strengthen national security and clear the way for a broader reconstruction effort. In a press briefing, a senior spokesperson said the reorganization will consolidate command structures, improve coordination among security agencies, and allocate additional resources to critical infrastructure projects that have been delayed by recent instability.\n\nThe shake‑up includes the appointment of new officials to key ministries overseeing defense, interior affairs, and public works, as well as the reassignment of several senior advisers. Officials emphasized that the restructuring is part of a planned transition to restore public services, rebuild damaged facilities, and attract investment. The government expects the reforms to enhance stability, accelerate reconstruction timelines, and lay the groundwork for sustained economic recovery.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:11:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-270",
+    "title": "Iraqi-born singer Emmanuel Kelly named World Cup halftime show headliner",
+    "slug": "iraqi-born-singer-emmanuel-kelly-named-world-cup-halftime-show-headliner",
+    "content": "A young artist known only as Kelly, who was abandoned as an infant and subsequently raised by a community of nuns in Baghdad, is set to share the stage with several internationally recognized performers at a high‑profile concert series slated for later this month. According to organizers, the event will feature a lineup of global megastars across pop, rock and world music genres, and Kelly’s inclusion marks her first appearance on a platform of this scale. The singer, whose full name has not been disclosed for privacy reasons, began vocal training at the convent’s music school and later attracted the attention of talent scouts after a series of viral videos showcasing her powerful voice and multilingual repertoire.\n\nThe upcoming performances, scheduled to take place in multiple venues across Europe and the Middle East, will be broadcast live and streamed online, providing Kelly with unprecedented exposure. Event coordinators say her story of resilience and cross‑cultural upbringing adds a compelling narrative to the concert’s promotional campaign, while also highlighting the role of charitable institutions in nurturing artistic talent. Kelly’s participation is expected to draw significant media interest, underscoring the broader conversation about opportunities for artists emerging from unconventional backgrounds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:11:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-269",
+    "title": "Marc Lamont Hill discusses Jewish Labour Bund and anti‑Zionism with Molly Crabapple",
+    "slug": "marc-lamont-hill-discusses-jewish-labour-bund-and-anti-zionism-with-molly-crabap",
+    "content": "Marc Lamont Hill sat down with artist and writer Molly Crabapple for a televised conversation that examined the historical legacy of the Jewish Labour Bund and its relevance to contemporary debates within the Jewish left. Hill, a scholar of African‑American studies and a frequent commentator on social justice issues, outlined the Bund’s early‑20th‑century roots as a secular, socialist organization that championed Yiddish culture, workers’ rights, and a vision of Jewish autonomy distinct from nationalist aspirations. Crabapple, whose recent work has focused on political activism and visual storytelling, prompted Hill to discuss how the Bund’s anti‑Zionist stance—rooted in opposition to a state‑centered model of Jewish identity—continues to shape current discourse among left‑leaning Jewish groups.\n\nDuring the interview, Hill highlighted the resurgence of anti‑Zionist sentiment among younger Jews who view the Israeli government’s policies as incompatible with progressive values, while emphasizing that the Bund’s emphasis on diaspora solidarity and cultural preservation remains a touchstone for many activists. He noted that contemporary Jewish left organizations often invoke the Bund’s legacy to argue for a pluralistic approach to Jewish identity that separates cultural affiliation from state allegiance. The discussion concluded with both participants acknowledging the complexity of navigating historical memory, political ideology, and the evolving landscape of Jewish communal life, underscoring the ongoing relevance of the Bund’s ideas in today’s debates over anti‑Zionism and left‑wing Jewish politics.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:11:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260719-268",
+    "title": "NYC World Cup draws Spanish, Argentinian fans as mayor promotes progressive message",
+    "slug": "nyc-world-cup-draws-spanish-argentinian-fans-as-mayor-promotes-progressive-messa",
+    "content": "The upcoming World Cup matches scheduled for New York City have given Mayor Zohran Mamdani a high‑visibility platform to promote the city’s progressive agenda to an international audience. The tournament, part of the broader 2026 FIFA World Cup program, will bring thousands of visitors to venues across the boroughs, positioning the city at the center of global sports coverage.\n\nMayor Mamdani plans to use the event to highlight initiatives on climate resilience, affordable housing, and immigrant integration, aligning local policy goals with the tournament’s emphasis on diversity and sustainability. Officials expect the messaging to reinforce New York’s commitment to inclusive growth while showcasing the city’s capacity to host large‑scale international events.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/20/2026 0:11:40",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260719-267",
     "title": "James Cameron's 'Aliens' Celebrates 40 Years Despite Production Challenges",
     "slug": "james-cameron-s-aliens-celebrates-40-years-despite-production-challenges",
