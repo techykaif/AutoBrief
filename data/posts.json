@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260722-592",
+    "title": "Researchers Pivot to Domestic Study Amid Pandemic Travel Restrictions",
+    "slug": "researchers-pivot-to-domestic-study-amid-pandemic-travel-restrictions",
+    "content": "Michigan State University researcher Eric Benbow and his team faced a significant setback in 2020 when the COVID-19 pandemic brought international travel to a halt. The researchers were in the midst of a $2.5 million project aimed at studying an environmental pathogen in South America. The sudden interruption of fieldwork left them with a pressing question: how to proceed with their research in the face of uncertainty.\n\nIn response, Benbow and his collaborators developed a novel approach to adapt their research to the new circumstances. By leveraging cutting-edge technology, the team was able to create a controlled environment that simulated the conditions found in South America, allowing them to collect data and continue their research without the need for international travel. This innovative solution not only ensured the continuation of their project but also provided valuable insights into the pathogen's behavior and potential implications for public health.\n\nThe success of this experiment demonstrates the resilience and adaptability of researchers in the face of unexpected challenges. By thinking creatively and embracing new technologies, Benbow and his team were able to overcome the obstacles posed by the pandemic and make significant progress in their research. This achievement serves as a testament to the power of scientific collaboration and the importance of staying agile in the face of uncertainty.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/23/2026 3:23:05",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-591",
+    "title": "Why 78 degrees isn't the right thermostat setting for everyone during a heat wave",
+    "slug": "why-78-degrees-isn-t-the-right-thermostat-setting-for-everyone-during-a-heat-wav",
+    "content": "Heatwaves are sweeping across the United States, leading to soaring electricity prices and prompting public officials and corporations to advise consumers to set their thermostats to 78°F (25.6°C) or 81°F (27.2°C) in an effort to conserve energy and reduce costs. However, experts like myself who have studied energy costs are aware that the situation is more complex than a simple thermostat adjustment.\n\nIn reality, the energy efficiency of a home is influenced by a multitude of factors, including insulation, window quality, and air sealing. A home with poor insulation or inefficient windows may not be able to maintain a comfortable temperature even when the thermostat is set at a moderate level. Furthermore, the age and type of air conditioning system can also play a significant role in determining energy costs. For example, an older air conditioning unit may consume more energy than a newer, more efficient model. Therefore, simply setting the thermostat to a higher temperature may not be enough to achieve significant energy savings.\n\nTo effectively reduce energy costs during heatwaves, homeowners may need to take a more comprehensive approach, including conducting energy audits, upgrading to energy-efficient appliances and insulation, and maintaining their air conditioning systems. By taking these steps, individuals can make more informed decisions about their energy usage and potentially achieve greater savings than by simply adjusting their thermostats.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/23/2026 3:23:00",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-587",
+    "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+    "slug": "ai-and-quantum-chemistry-combine-to-identify-efficient-blue-oled-materials",
+    "content": "Researchers at Nagoya University and Kyushu University have made significant strides in advancing the technology of organic light-emitting diodes (OLEDs). A key challenge in the development of OLEDs lies in the creation of blue-emitting materials, as they are notoriously difficult to produce. Blue OLEDs are essential for the creation of high-definition displays, which require a wide range of colors to produce crisp and vibrant images. To overcome this hurdle, scientists at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have employed an innovative approach by combining quantum chemistry with machine learning.\n\nBy leveraging the power of quantum chemistry and machine learning, the researchers have been able to identify new materials that possess the necessary properties to create efficient blue OLEDs. This breakthrough has the potential to revolutionize the display industry, enabling the production of ultra-high-definition displays with unparalleled color accuracy and contrast. The research team's findings were published in the prestigious scientific journal Angewandte Chemie on July 21, 2026, providing a significant contribution to the ongoing efforts to improve OLED technology.\n\nThe development of more accessible and affordable OLED technology has been a gradual process, with significant advancements in recent years. As the technology continues to improve, it is likely that OLEDs will become even more widespread in modern devices, from smartphones to televisions. The discovery of new materials for blue OLEDs by the researchers at Nagoya University and Kyushu University is a crucial step forward in this process, paving the way for the creation of next-generation displays with unprecedented visual fidelity.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 3:22:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-586",
+    "title": "Crowd reactions influence whether people receive controversial political messages positively or negatively",
+    "slug": "crowd-reactions-influence-whether-people-receive-controversial-political-message",
+    "content": "A recent study conducted by Dr. Carl Senior, a psychologist at Aston University, has shed light on the impact of crowd reactions on the perception of controversial political messages. The research found that positive audience responses, such as applause and laughter, can significantly influence viewers' acceptance of divisive issues and populist figures. This phenomenon is particularly relevant in the context of broadcasting and content creation, where the use of crowd reactions can subtly shape public opinion.\n\nAccording to Dr. Senior's findings, the strategic deployment of applause, laughter, and even booing by broadcasters and content creators can have a profound effect on how viewers perceive contentious topics, such as immigration. By carefully manipulating the tone and volume of crowd reactions, creators can create a sense of social validation or rejection, which can, in turn, influence viewers' attitudes towards polarizing issues. This insight highlights the importance of considering the role of audience reactions in shaping public discourse and the potential consequences of exploiting these reactions for persuasive purposes.\n\nThe implications of Dr. Senior's research are significant, as they suggest that the way we consume and engage with political content can be subtly influenced by the emotional cues embedded in it. As the media landscape continues to evolve, understanding the impact of crowd reactions on public perception can help creators and broadcasters develop more nuanced and effective strategies for presenting complex issues, ultimately fostering a more informed and engaged citizenry.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 3:22:44",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-584",
+    "title": "Neural networks unlock larger quantum simulations with lower computational costs",
+    "slug": "neural-networks-unlock-larger-quantum-simulations-with-lower-computational-costs",
+    "content": "Researchers have made significant strides in utilizing artificial intelligence to predict material properties, with a notable focus on neural network quantum Monte Carlo methods. These advanced simulation techniques have garnered attention for their exceptional accuracy, enabling scientists to model complex materials with high precision. However, their immense computational requirements have hindered their widespread application, particularly to larger, more intricate systems.\n\nA recent study has introduced a groundbreaking new method that addresses this limitation, paving the way for the broader adoption of neural network quantum Monte Carlo methods. By developing a more efficient approach, scientists can now harness the full potential of these techniques, expanding their scope to larger molecular systems and unlocking new possibilities for materials research. This breakthrough is expected to have far-reaching implications for fields such as materials science and chemistry.\n\nThe introduction of this new computational method marks a significant milestone in the ongoing quest to harness artificial intelligence for materials research. By overcoming the previous limitations of neural network quantum Monte Carlo methods, researchers can now tackle more complex problems and explore new avenues of investigation, driving innovation and discovery in the field.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 3:22:36",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-582",
+    "title": "Europe's summer drought linked to weather pattern shifts",
+    "slug": "europe-s-summer-drought-linked-to-weather-pattern-shifts",
+    "content": "Researchers at Leipzig University have made a significant breakthrough in understanding the causes behind the severe summer soil drying and rising temperatures observed across Europe. According to their study, changes in atmospheric circulation patterns are a major contributor to this trend. These changes refer to shifts in the typical weather regimes that occur over Europe, and they account for approximately 55% of the observed summer drought trend.\n\nThe researchers found that the shift towards more frequent and persistent high-pressure systems is a key factor in the reduced rainfall and drier conditions experienced during the summer months. High-pressure systems are characterized by sinking air, which suppresses the formation of clouds and precipitation, leading to dry conditions. The persistence of these systems further exacerbates the drought, as it prevents the necessary rainfall from reaching the affected areas. This study provides valuable insights into the underlying causes of the severe summer droughts and rising temperatures observed in Europe.\n\nThe findings of this study have important implications for climate change research and mitigation efforts. Understanding the role of atmospheric circulation patterns in shaping the European climate can inform strategies for predicting and preparing for future droughts and heatwaves. By addressing the root causes of these extreme weather events, policymakers and scientists can work together to develop effective solutions for reducing their impact and protecting vulnerable communities.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 3:22:29",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-581",
+    "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
+    "slug": "reusable-magnetic-invention-removes-microplastics-plus-some-pfas-from-water",
+    "content": "Researchers at RMIT University have made significant strides in addressing the growing issue of microplastics in water systems. A team of scientists has developed a novel water treatment material capable of efficiently removing micro- and nanoplastics, as well as some per- and polyfluoroalkyl substances (PFAS), from contaminated water. This breakthrough innovation builds upon the team's previous achievement in 2022, which successfully demonstrated the removal of microplastics.\n\nThe new technology has been shown to effectively target and eliminate even the smallest plastic particles, extending its capabilities to more complex wastewater. This advancement brings the team's research closer to real-world implementation, offering a promising solution to the pervasive problem of microplastics in global water systems. The presence of micro- and nanoplastics has been linked to various environmental and health concerns, making the development of effective removal methods a pressing priority.\n\nThe RMIT University researchers' achievement marks a crucial step towards mitigating the impact of microplastics on our environment. As the technology continues to be refined and tested, it has the potential to play a vital role in protecting public health and preserving the integrity of our water resources.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 3:22:23",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-580",
+    "title": "Tech Commentator John C. Dvorak Passes Away",
+    "slug": "tech-commentator-john-c-dvorak-passes-away",
+    "content": "X.com, the financial services platform founded by Elon Musk, has announced its decision to discontinue its cryptocurrency trading services. In a statement posted on the company's website, X.com cited the current market conditions and regulatory requirements as the primary reasons for this decision.\n\nThe move comes as a significant development in the rapidly evolving cryptocurrency market, where regulatory hurdles have been a persistent challenge for many exchanges. X.com had been one of the few major platforms to offer cryptocurrency trading services, alongside its traditional stock and options trading capabilities. The company's decision to discontinue this service is likely to impact its users, who will no longer be able to buy, sell, or trade cryptocurrencies through the platform.\n\nThe announcement has sparked a mix of reactions from the cryptocurrency community, with some users expressing disappointment and frustration at the loss of a convenient trading option. However, others have welcomed the decision, citing the need for greater regulatory clarity and oversight in the cryptocurrency market. As the cryptocurrency landscape continues to evolve, X.com's decision is likely to have far-reaching implications for the industry as a whole.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:22:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-579",
+    "title": "Fairphone 6 Wide Camera Receives Experimental Linux Support",
+    "slug": "fairphone-6-wide-camera-receives-experimental-linux-support",
+    "content": "Fairphone 6 Receives Wide Camera Support for Linux\n\nIn a recent development, the Fairphone 6, a smartphone known for its focus on sustainability and repairability, has gained support for its wide camera in Linux environments. This update is significant for Linux users who rely on the Fairphone 6 for their mobile photography needs. The addition of wide camera support allows users to capture high-quality images with a broader field of view, further enhancing the device's capabilities.\n\nThe Fairphone 6's wide camera support was initially lacking in Linux, a limitation that has now been addressed by the development community. This update is part of an ongoing effort to improve the device's compatibility with Linux, making it a more viable option for users who prefer an open-source operating system. The Fairphone 6's wide camera support is now available through a software update, which can be installed by users who have the necessary technical expertise.\n\nThe Fairphone 6's wide camera support is a welcome addition for Linux users who value the device's unique features and commitment to sustainability. As the development community continues to work on improving the device's compatibility with Linux, users can expect even more features and capabilities to become available in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:22:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-578",
+    "title": "Hacker Discovers Malware in Take-Home Interview Project",
+    "slug": "hacker-discovers-malware-in-take-home-interview-project",
+    "content": "**Fake Job Interview Git Hook Malware Exposed**\n\nA recent discovery has shed light on a sophisticated malware attack that targets developers through seemingly legitimate job interviews. The malicious tactic involves the use of a Git hook, a script that automates tasks within a Git repository, to infect a victim's system. According to reports, the malware presents itself as a job interview, with the attacker posing as a potential employer. Once the victim engages with the fake interview, the malware is triggered, allowing the attacker to gain access to the victim's system and potentially steal sensitive information.\n\nThe malware, which has been dubbed a \"fake job interview\" attack, uses a combination of social engineering and technical expertise to deceive its victims. The attacker creates a fake Git repository, complete with a legitimate-looking job posting and a series of questions designed to elicit sensitive information from the victim. The victim, unaware of the true nature of the \"interview,\" provides the requested information, which is then used to trigger the malware. Once activated, the malware can steal sensitive data, including login credentials and source code, and transmit it back to the attacker.\n\nThe discovery of this malware highlights the importance of vigilance in the development community. As the threat landscape continues to evolve, developers must remain aware of the latest tactics and techniques used by attackers. By being cautious and verifying the authenticity of job postings and interview requests, developers can protect themselves from falling victim to this type of attack. As the security community continues to investigate and respond to this threat, it is clear that the development community must remain proactive in its defense against malware and other cyber threats.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:22:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-576",
+    "title": "Emacs' Role in Malleable Computing Explained",
+    "slug": "emacs-role-in-malleable-computing-explained",
+    "content": "Malleable Computing: A New Frontier in Emacs and Beyond\n\nIn a recent online discussion, the concept of malleable computing has garnered significant attention from tech enthusiasts and developers. Malleable computing refers to the ability to dynamically modify and adapt software systems, such as the popular text editor Emacs, to suit specific needs and environments. This approach is being explored as a potential solution to the growing complexity of modern computing, where traditional rigid software frameworks often struggle to keep pace with evolving user requirements.\n\nThe idea of malleable computing is being driven by the Emacs community, where developers are experimenting with novel techniques to create flexible and customizable interfaces. By leveraging emerging technologies such as Lisp and domain-specific languages, Emacs users can now craft tailored solutions that adapt to their workflow and preferences. This paradigm shift has sparked interest beyond the Emacs community, with implications for a broader range of applications and industries. As the concept of malleable computing continues to evolve, it is likely to inspire new approaches to software development and user interface design.\n\nThe online discussion surrounding malleable computing has highlighted the potential for this concept to revolutionize the way we interact with software systems. As the tech community continues to explore and refine this idea, it will be interesting to see how malleable computing shapes the future of computing and user experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:21:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-575",
+    "title": "Red-Light Therapy Devices on Sale at Nordstrom's Anniversary Sale",
+    "slug": "red-light-therapy-devices-on-sale-at-nordstrom-s-anniversary-sale",
+    "content": "Save on High-Tech LED Therapy Devices from Top Brands\n\nIn a bid to promote healthier skin and improved overall well-being, several leading brands in the wellness industry have launched discounts on their LED therapy devices. TheraFace, HigherDose, and other top brands are now offering significant savings on their cutting-edge devices, which utilize light-emitting diodes (LEDs) to stimulate cellular regeneration and boost collagen production. These devices have been extensively tested by WIRED, a renowned technology publication, and have received positive reviews for their effectiveness.\n\nTheraFace, known for its innovative face masks and skincare devices, is offering a 20% discount on its Pro device, which features a range of LED settings and a built-in facial steamer. HigherDose, a popular brand in the wellness space, is also offering a 15% discount on its device, which combines LED therapy with red light and infrared technology to promote cellular rejuvenation. Other brands, such as Joovv and LightStim, are also participating in the sale, with discounts ranging from 10% to 25% off their devices.\n\nFor those looking to upgrade their skincare routine or experience the benefits of LED therapy, this sale presents a unique opportunity to try out these high-tech devices at a discounted price. With their scientifically-backed technology and user-friendly interfaces, these devices have the potential to revolutionize the way we approach skin care and overall wellness. By taking advantage of these discounts, consumers can experience the benefits of LED therapy for themselves and start their journey towards healthier, more radiant skin.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:21:53",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-573",
+    "title": "Tesla Q2 2026 revenue rises as profit stays weak",
+    "slug": "tesla-q2-2026-revenue-rises-as-profit-stays-weak",
+    "content": "Electric Vehicle Leader Tesla Reports Strong Second Quarter Sales. \n\nTesla, the pioneering electric vehicle manufacturer, has posted a significant increase in sales for the second quarter of 2026. According to the company's latest earnings report, Tesla delivered 480,126 vehicles during this period, marking a 25 percent rise compared to the same quarter in 2025. This improvement comes as a welcome respite for the company, which had faced a challenging two-year period characterized by weakening demand, declining sales, and damage to its brand due to Elon Musk's high-profile political activities.\n\nThe surge in sales can be attributed to the company's ongoing efforts to revamp its operations and expand its product offerings. Despite Musk's ambitious vision to transform Tesla into a leader in AI and robotics, the company remains a major player in the electric vehicle market. Tesla's ability to adapt to changing consumer preferences and maintain a strong presence in the industry has been a key factor in its recovery. The company's impressive delivery report, coupled with its robust earnings, suggests that Tesla is well on its way to regaining its footing in the competitive electric vehicle market.\n\nAs the global demand for electric vehicles continues to grow, Tesla's strong performance in the second quarter is a positive sign for the company and the industry as a whole. With its commitment to innovation and its focus on delivering high-quality vehicles, Tesla is well-positioned to maintain its leadership position in the electric vehicle market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 3:21:43",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260722-572",
     "title": "New Clayface Trailer Explores Body Horror Themes",
     "slug": "new-clayface-trailer-explores-body-horror-themes",
