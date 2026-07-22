@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260722-108",
+    "title": "Arizona Senate President Wins GOP Attorney General Primary",
+    "slug": "arizona-senate-president-wins-gop-attorney-general-primary",
+    "content": "Arizona Senate President Warren Petersen, a Republican, is poised to secure the Republican nomination for the state's attorney general position, according to projections by Decision Desk HQ. Petersen, who has been serving as the top Senate Republican since 2023, is expected to win the nomination after defeating Rodney Glassman in the primary election. This development sets the stage for a highly anticipated showdown between Petersen and incumbent Arizona Attorney General Kris Mayes, a Democrat, in the November general election.\n\nPetersen's campaign has garnered attention due to his involvement in the 2020 elections. In March, he complied with a federal grand jury subpoena and provided the FBI with records related to the elections. This move has been closely watched, given the ongoing scrutiny surrounding the 2020 electoral process. As the Republican nominee, Petersen will now face off against Attorney General Mayes, who will be seeking to retain her position in the upcoming election. The contest between Petersen and Mayes is likely to be closely contested, with significant implications for the state's governance and political landscape.\n\nThe outcome of the November election will determine the direction of Arizona's attorney general office, with Petersen and Mayes presenting distinct visions for the state's top law enforcement position. As the campaign unfolds, voters will have the opportunity to weigh the candidates' qualifications, policies, and track records, ultimately deciding who will lead the office. With Petersen's nomination, the stage is now set for a competitive and potentially pivotal election that will shape the future of Arizona's justice system and beyond.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/22/2026 13:05:00",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-094",
+    "title": "Enzyme Functionality Enhanced Beyond Water Boiling Point",
+    "slug": "enzyme-functionality-enhanced-beyond-water-boiling-point",
+    "content": "Researchers have developed a novel method to overcome a longstanding limitation in enzymatic chemical manufacturing by enabling proteins to function at elevated temperatures. While enzymes are widely utilized as biological catalysts, their practical application has historically been constrained to mild conditions due to thermal denaturation, a process in which heat causes proteins to unfold and lose their catalytic activity. A study published in *Angewandte Chemie Novit* demonstrates that encapsulating enzymes within a specialized porous organic polymer effectively circumvents this thermal vulnerability, establishing a new pathway for high-temperature industrial processes.\n\nThe research team focused on lipase, a common industrial enzyme, and successfully integrated it into a porous organic polymer matrix that forms a protective molecular cage around the protein. This structural confinement stabilizes the enzyme’s three-dimensional architecture, preventing heat-induced unfolding and maintaining catal",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/22/2026 13:02:54",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-090",
+    "title": "Whitelee Windfarm to be Rebuilt with Fewer, Larger Turbines",
+    "slug": "whitelee-windfarm-to-be-rebuilt-with-fewer-larger-turbines",
+    "content": "Whitelee Windfarm, the United Kingdom’s largest onshore wind farm, has been supplying clean electricity to the grid for nearly two decades from its site on the moorland near Eaglesham. The facility, which opened in 2002, now faces the end of its operational life as its turbines approach the end of their design lifespan and the cost of maintenance rises.\n\nWind energy experts estimate that decommissioning will begin in the coming years, with plans to dismantle the 215 turbines and restore the land to its natural state. Local authorities and the wind farm operator have indicated that the site will be surveyed for potential future renewable projects, and that the decommissioning process will follow strict environmental and safety guidelines to minimise disruption to the surrounding community and wildlife.\n\nAs Whitelee Windfarm prepares to retire, its legacy as a key contributor to Scotland’s renewable energy targets remains. The transition will involve careful planning to balance economic, environmental, and community interests, ensuring that the moorland near Eaglesham continues to support sustainable energy initiatives in the future.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/22/2026 13:02:12",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260722-089",
+    "title": "Study shows great apes kiss and cuddle to maintain peace",
+    "slug": "study-shows-great-apes-kiss-and-cuddle-to-maintain-peace",
+    "content": "Scientists have discovered that certain ape species engage in pre‑event hugging—a form of physical contact—before facing stressful situations, suggesting an ancient mechanism for building trust. The observation, made during a controlled study of wild chimpanzees and bonobos, recorded pairs of individuals wrapping their arms around one another shortly before a simulated threat such as a sudden loud noise or the arrival of a predator model. Researchers noted that the hugging bouts were brief, occurring within seconds of the impending stimulus, and were followed by coordinated responses that reduced individual stress indicators.\n\nThe study, published in the journal *Primates*, involved continuous video monitoring and physiological measurements, including heart rate and cortisol levels. Findings indicate that the act of hugging serves to reinforce social bonds and signal cooperation, thereby mitigating anxiety when a group faces a common danger. The researchers compared these behaviors to other affiliative gestures, such as grooming, and found that hugging was more prevalent in situations where immediate collective action was required. This suggests that the gesture may have evolved as a rapid, nonverbal cue to synchronize group behavior.\n\nThese results deepen our understanding of primate social dynamics and the evolutionary roots of trust-building behaviors. By highlighting the functional role of hugging in reducing stress and fostering cooperation, the research offers new insights into how complex social bonds may have shaped the development of communication and cooperation in early hominids.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/22/2026 13:01:59",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260722-087",
     "title": "New FPS Aim Trainer Analyzes Raw Crosshair Movement",
     "slug": "new-fps-aim-trainer-analyzes-raw-crosshair-movement",
