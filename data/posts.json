@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260723-116",
+    "title": "UK Millionaires Request Higher Taxes",
+    "slug": "uk-millionaires-request-higher-taxes",
+    "content": "In a notable development, former footballer Gary Lineker and renowned music producer Brian Eno have jointly penned a letter to the newly appointed Prime Minister, conveying a message of financial capability. The letter, which has garnered significant attention, emphasizes that the country has the financial means to undertake various initiatives and investments. This assertion by two prominent figures from different fields has sparked interest and curiosity, with many awaiting the Prime Minister's response to their sentiments.\n\nThe letter from Lineker and Eno comes at a time when the new government is navigating various challenges and making key decisions regarding the nation's budget and resource allocation. By stating \"we can afford it,\" the duo is essentially urging the Prime Minister to consider a more expansive and ambitious approach to addressing the country's needs and priorities. Their intervention is likely to fuel ongoing debates about public spending, economic policy, and the role of government in driving growth and development. As the government sets its agenda and outlines its plans for the future, the input from Lineker and Eno serves as a reminder of the diverse perspectives and expectations that must be taken into account.\n\nThe letter from Gary Lineker and Brian Eno serves as a testament to the ongoing dialogue between public figures and policymakers. As the government moves forward with its agenda, it remains to be seen how their message will be received and what impact it may have on the decision-making process. The exchange underscores the importance of open communication and the value of contributions from individuals across various sectors, highlighting the complex and multifaceted nature of governance and public policy.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "7/23/2026 15:53:03",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-114",
+    "title": "UK Heat Wave Costs Economy Over £1bn",
+    "slug": "uk-heat-wave-costs-economy-over-1bn",
+    "content": "Britain’s record‑breaking heat wave in June has taken a heavy toll on the economy, a new estimate from the London School of Economics (LSE) shows.  The study, released on Thursday, calculates that workers lost an estimated 24 million hours of productivity during the hottest month on record.\n\nThe LSE’s analysis translates those lost hours into a cost of £1.15 billion (about $1.5 billion) to the national economy.  The figure reflects a combination of reduced output, increased absenteeism, and the need for businesses to adapt to higher temperatures, underscoring the broader economic impact of extreme weather events.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 15:52:54",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-110",
+    "title": "Europe Drought Worsened by Climate Change",
+    "slug": "europe-drought-worsened-by-climate-change",
+    "content": "Scientists have linked the deepening drought affecting large parts of Europe to human‑induced climate change, noting that extreme heat—not a lack of rainfall—is the primary driver behind the unusually dry conditions. An international research team released the findings on Thursday, emphasizing that while precipitation levels have remained relatively stable, rising temperatures have increased evaporation rates and soil moisture loss, thereby intensifying drought severity.\n\nThe study, published in a peer‑reviewed journal, analyzed climate model outputs and historical weather data across the continent. It found that heat waves have become more frequent and intense over the past decade, especially in southern and central Europe, where temperatures have exceeded 35 °C (95 °F) on multiple occasions. Even in regions that have received normal or above‑average rainfall, the combination of high temperatures and prolonged dry spells has led to significant reductions in groundwater recharge and crop yields, according to the researchers.\n\nThese findings underscore the urgent need for adaptive water‑management strategies and climate‑resilient agricultural practices. Policymakers and stakeholders are urged to incorporate heat‑driven drought risks into planning and to accelerate efforts to curb greenhouse‑gas emissions, as the study warns that continued warming will likely exacerbate Europe's vulnerability to water scarcity.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 15:52:38",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-108",
+    "title": "FLOSS Commons Protection from LLMs",
+    "slug": "floss-commons-protection-from-llms",
+    "content": "Codeberg, the community‑run Git hosting platform, has released a new blog post outlining measures to safeguard free and open‑source software (FLOSS) from potential misuse by large language models (LLMs). The article, titled “Protecting Our FLOSS Commons from LLMs,” argues that the rapid adoption of LLMs in software development tools raises concerns about the inadvertent or intentional duplication of open‑source code, which could infringe on licensing terms and erode the collaborative nature of the FLOSS ecosystem. The post was discussed on Hacker News, where it received 57 up‑votes and nine comments, indicating significant interest from the developer community.\n\nIn the blog, Codeberg explains how LLMs trained on vast code corpora can generate snippets that closely resemble existing open‑source projects, potentially leading to copyright violations or the spread of licensing ambiguities. To mitigate these risks, the platform proposes a set of guidelines for both LLM developers and users: explicit code‑line attribution, adherence to license compatibility checks, and the creation of a “LLM‑Safe” tagging system for repositories. Codeberg also highlights the importance of community‑driven monitoring and the role of maintainers in reviewing AI‑generated contributions before they are merged. The post cites recent incidents where LLM‑generated code was mistakenly released under incompatible licenses, underscoring the urgency of proactive safeguards.\n\nThe article concludes by calling on the broader open‑source community to collaborate on standardized policies that balance innovation with legal and ethical responsibility. Codeberg invites developers, maintainers, and LLM providers to contribute to an evolving framework that protects the integrity of FLOSS while enabling the benefits of AI‑assisted coding. The discussion on Hacker News suggests that many stakeholders recognize the need for clearer guidelines, and the conversation is expected to shape future best practices for integrating LLMs into open‑source workflows.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:52:30",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-107",
+    "title": "Cruller Continues Bun's Zig Runtime on Zig 0.16",
+    "slug": "cruller-continues-bun-s-zig-runtime-on-zig-0-16",
+    "content": "The Zig programming language community has announced that the “Cruller buns” runtime has been updated to work with Zig 0.16, the latest release of the compiler. The update brings full compatibility with the new compiler features, along with a number of bug fixes and performance improvements that streamline memory management and standard‑library bindings.\n\nDeveloped and maintained by community contributors, the Cruller buns runtime now supports the expanded capabilities of Zig 0.16, including enhanced type inference and improved error handling. The announcement was posted on ZigGit and quickly drew attention on Hacker News, where it received 53 up‑votes and 20 comments, indicating a healthy level of interest and engagement from developers looking to adopt the new runtime.\n\nWith this update, Zig users can now rely on a stable, lightweight runtime that takes advantage of the latest compiler optimizations. The continued community support for Cruller buns suggests that further enhancements and refinements are likely to follow, reinforcing Zig’s position as a modern systems‑programming language.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:52:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-104",
+    "title": "Apple iOS 27 Beta Tested with Maximum Transparency Setting",
+    "slug": "apple-ios-27-beta-tested-with-maximum-transparency-setting",
+    "content": "Apple has released the initial developer beta of iOS 27, introducing a new maximum transparency setting that fundamentally alters the iPhone’s visual interface. The update, now accessible to registered developers and public beta testers, implements a system-wide transparency layer that adjusts background visibility and interface opacity across native applications and home screen layouts. The feature is positioned as an experimental design shift aimed at redefining how users interact with layered content on Apple devices.\n\nWhen set to its highest level, the transparency mode applies a pronounced refractive effect that distorts icons, widgets, and navigation bars. Early testing reveals that the visual warping intensifies during screen transitions and when viewing dynamic content, creating a noticeable shift in how interface elements are rendered. Apple’s engineering team has structured the beta to gather data on performance stability, battery impact, and",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:52:13",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-102",
+    "title": "Google Posts 12th Straight Quarter of Revenue Growth",
+    "slug": "google-posts-12th-straight-quarter-of-revenue-growth",
+    "content": "Alphabet announced double‑digit revenue growth for its second‑quarter earnings on Wednesday, marking the tech giant’s 12th straight quarter of substantial gains. The company’s results exceeded market expectations even as the highly anticipated Gemini Pro AI model was delayed, underscoring Alphabet’s resilience amid a rapidly evolving AI landscape.\n\nInvestors are closely examining how Alphabet’s significant AI spending has impacted its bottom line and what strategies the company will employ to sustain these investments. In response, Alphabet revised its annual capital‑expenditure forecast to $200 billion, noting that quarterly spending has doubled year‑over‑year. The update signals a continued commitment to large‑scale AI development and infrastructure expansion.\n\nWith robust revenue growth and a clear capital‑spending plan, Alphabet remains positioned to capitalize on AI opportunities while maintaining its trajectory of financial strength. The company’s ongoing investment strategy is expected to support future innovation and market leadership in the coming years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:52:03",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-101",
+    "title": "Tesla Q2 Profits Fall as Revenue Grows, Stock Slides",
+    "slug": "tesla-q2-profits-fall-as-revenue-grows-stock-slides",
+    "content": "Tesla Inc. shares slid more than 3 % in after‑hours trading on Wednesday after the company reported second‑quarter earnings that fell short of Wall Street expectations.  The electric‑vehicle maker disclosed earnings per share that missed analyst forecasts, prompting a sell‑off that added to the stock’s already steep 14 % decline for the year.\n\nThe earnings miss comes amid a broader shift in Elon Musk’s focus away from Tesla toward his other ventures.  Musk’s SpaceX rocket and AI company made the largest initial public offering in history last month, briefly propelling him to the status of the world’s first trillionaire before his net worth subsequently fell from its peak.  The market reaction to Tesla’s weaker-than‑expected results reflects investors’ growing concern about the company’s profitability and its position relative to Musk’s expanding portfolio.\n\nIn the wake of the earnings report, Tesla’s stock will likely be closely monitored as analysts reassess the company’s growth prospects and Musk’s strategic priorities.  The broader market will watch for guidance on future production targets and profitability plans, which will shape investor sentiment in the coming weeks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:51:58",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-100",
+    "title": "Teen Withdraws Meta Lawsuit Days Before Trial",
+    "slug": "teen-withdraws-meta-lawsuit-days-before-trial",
+    "content": "A lawsuit filed by a 15‑year‑old Florida teen, known in court as RKC, against Meta’s Instagram was withdrawn just days before its Los Angeles trial was scheduled to begin. The case had alleged that the platform’s design contributed to the boy’s depression and anxiety, adding to a growing wave of litigation targeting social‑media giants for allegedly creating addictive products that harm young users.  \n\nThe suit named four defendants—Google’s YouTube, Meta’s Instagram, Snap Inc’s Snapchat, and ByteDance’s TikTok. Earlier this year, YouTube and TikTok settled their respective claims in June, while Snap reached a tentative settlement, according to Bloomberg. The terms of those agreements remain confidential. The withdrawal of the Instagram claim leaves Meta without a pending trial on the addictive‑product allegations, following its recent loss in a landmark case that found the company’s design features contributed to user harm.  \n\nWith the case dismissed, Meta’s legal exposure from this particular lawsuit is now limited, though other related suits continue to move forward. The outcome underscores the increasing scrutiny social‑media platforms face over their impact on adolescent mental health.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:51:54",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-099",
+    "title": "Origin Energy hack exposes personal and banking details of Australian customers",
+    "slug": "origin-energy-hack-exposes-personal-and-banking-details-of-australian-customers",
+    "content": "Origin Energy confirmed that hackers accessed personal data belonging to its Australian customers, including names, addresses, dates of birth, phone numbers and partial bank account details. The breach, which the company said involved a sophisticated intrusion, exposed information from its 4.8 million customer accounts that cover electricity, fossil gas, LPG and internet services for homes and businesses across the country.\n\nThe company has notified affected customers and is cooperating with Australian cybersecurity authorities to investigate the extent of the compromise. Origin Energy stated it is reviewing its security protocols and will provide guidance on how customers can protect themselves from potential identity‑theft risks. The incident underscores the growing threat to utility providers and the importance of robust data protection measures for large customer bases.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 15:51:50",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-097",
+    "title": "Spanish police evacuate residents amid wildfire near Madrid",
+    "slug": "spanish-police-evacuate-residents-amid-wildfire-near-madrid",
+    "content": "Guardia Civil officers began evacuating residents of Villa del Prado, a town in central Spain, after a fast‑moving wildfire approached the outskirts of the community near Toledo. Smoke and visible flames prompted authorities to act swiftly, moving families from homes that were directly in the fire’s projected path.\n\nThe blaze, which ignited in the surrounding countryside, has been driven by strong winds and dry conditions typical of the region’s summer season. Firefighters from the local civil guard, aided by aerial support, are working to contain the flames while maintaining a safety perimeter around the residential area. Officials have warned that the fire could spread further if weather conditions remain unfavorable, and they continue to monitor the situation closely.\n\nAs of the latest reports, the evacuation process is ongoing, with shelters set up to accommodate displaced residents. Authorities have assured the public that resources are being mobilized to suppress the fire and protect additional structures, emphasizing that the priority remains the safety of the community while efforts to bring the wildfire under control continue.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/23/2026 15:51:45",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-096",
+    "title": "Divers clean Christ of the Abyss statue in San Fruttuoso, Italy",
+    "slug": "divers-clean-christ-of-the-abyss-statue-in-san-fruttuoso-italy",
+    "content": "Divers from a local marine‑conservation team removed algae, barnacles and other marine growth from the Christ of the Abyss statue off the coast of San Fruttuoso, Italy, in a coordinated cleaning operation carried out on Monday. The bronze figure, depicting a seated Christ with outstretched arms, has rested on the seabed of the Bay of San Fruttuoso since its installation in 1954 and has become a well‑known landmark for scuba divers and tourists alike.\n\nThe cleaning, conducted under the supervision of the Italian Navy’s environmental unit and supported by the San Fruttuoso diving association, aimed to preserve the statue’s structural integrity and visual appearance while minimizing impact on the surrounding marine ecosystem. Officials noted that regular maintenance is essential to prevent corrosion and to ensure the monument remains safe for the estimated 30,000 annual visitors who dive to view it. The successful completion of the task underscores ongoing efforts to protect Italy’s underwater cultural heritage.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/23/2026 15:51:41",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260723-095",
     "title": "Russia approves law to freeze assets and block consular services for citizens abroad",
     "slug": "russia-approves-law-to-freeze-assets-and-block-consular-services-for-citizens-ab",
