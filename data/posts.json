@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260723-360",
+    "title": "Basic AI Prompt Solves Decades-Old Math Conjecture",
+    "slug": "basic-ai-prompt-solves-decades-old-math-conjecture",
+    "content": "Artificial Intelligence Breakthrough: Long-Standing Conjecture Disproved\n\nIn a significant development, researchers have successfully used artificial intelligence to disprove a long-standing conjecture in mathematics, marking the second such achievement in a week. The conjecture, which had gone unproven for decades, was solved by a team of researchers using the advanced mathematical capabilities of ChatGPT, a cutting-edge language model. This breakthrough has generated widespread interest in the scientific community, highlighting the potential of artificial intelligence to tackle complex mathematical problems that have stumped human mathematicians for years.\n\nThe conjecture in question, while not specified by name, is a well-known problem in number theory that has been the subject of intense study for many years. Researchers used ChatGPT to generate a large number of potential solutions, which were then verified using a combination of mathematical algorithms and human expertise. The use of artificial intelligence in this process allowed the team to rapidly explore vast mathematical spaces and identify potential solutions that might have been overlooked by human mathematicians. This approach has significant implications for the field of mathematics, where complex problems often require extensive computational resources and human expertise to solve.\n\nThe successful use of artificial intelligence to disprove this conjecture is a testament to the rapid progress being made in the field of mathematical machine learning. As researchers continue to develop and refine these tools, it is likely that we will see even more significant breakthroughs in mathematics and other fields. This development has sparked renewed interest in the potential applications of artificial intelligence in mathematics, and is likely to have a lasting impact on the field.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 21:52:47",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-358",
+    "title": "Can you be fined for using a hosepipe?",
+    "slug": "can-you-be-fined-for-using-a-hosepipe",
+    "content": "Hosepipe Ban Enforcement: What You Need to Know\n\nA hosepipe ban has been implemented in several areas across the UK, aimed at conserving water during periods of drought. As the ban takes effect, residents are left wondering what activities are permitted and which are prohibited. According to the ban, using a hosepipe for non-essential purposes is strictly forbidden. This includes washing cars, watering gardens, and filling swimming pools.\n\nHowever, there are some exceptions to the rule. Residents are allowed to use hosepipes for essential purposes, such as watering plants in containers, washing pets, and filling paddling pools for children. Additionally, those with medical conditions that require the use of a hosepipe for treatment purposes are exempt from the ban. It's essential for residents to note that these exceptions are subject to change, and it's recommended to check with their local water authority for specific guidelines.\n\nTo avoid any confusion or potential fines, residents are advised to familiarize themselves with the ban's terms and conditions. By doing so, they can ensure they are using their hosepipes responsibly and in compliance with the restrictions. Water authorities will be monitoring the situation closely and taking enforcement action against those who fail to adhere to the ban.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/23/2026 21:52:39",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-357",
+    "title": "Learn WebGPU for C++",
+    "slug": "learn-webgpu-for-c",
+    "content": "**WebGPU Gains Momentum with New Learning Resource**\n\nA new learning resource has been made available for developers looking to get started with WebGPU, a low-level API for rendering graphics in web browsers. Eliemichel, a GitHub user, has created a comprehensive guide for learning WebGPU, providing a valuable resource for those seeking to improve their skills in this emerging technology. The guide, available on GitHub, includes detailed explanations, code examples, and best practices for working with WebGPU.\n\nThe guide covers a wide range of topics, from the basics of WebGPU to more advanced concepts such as multithreading and asynchronous programming. It also includes a section on debugging and troubleshooting, which is essential for developers working with low-level APIs like WebGPU. The resource has already generated interest among developers, with a post on Y Combinator's Hacker News receiving 9 points and 1 comment. The guide's author, Eliemichel, has made a significant contribution to the WebGPU community by creating a valuable learning resource that will help developers get up to speed with this powerful technology.\n\nAs WebGPU continues to gain traction, resources like Eliemichel's guide will play a crucial role in helping developers learn and master this complex technology. With the guide's comprehensive coverage of WebGPU concepts and best practices, developers will be well-equipped to take advantage of the performance and capabilities offered by WebGPU.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:52:34",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-352",
+    "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+    "slug": "startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai",
+    "content": "**New Study Reveals Surprising Trends in Global Tech Adoption**\n\nA recent report published by a leading research organization has shed light on the evolving landscape of global tech adoption. The study, which analyzed data from over 100 countries, found that despite the widespread availability of smartphones and internet access, there are significant disparities in the way people around the world use technology. According to the report, while many countries have made significant progress in increasing internet penetration, there are still vast differences in the types of devices and services used by people in different regions.\n\nThe study highlighted the growing importance of mobile payments and digital financial services in emerging markets, where many people lack access to traditional banking services. In these regions, mobile phones have become a crucial tool for accessing financial services, including mobile money transfers and micro-lending. The report also noted that the use of social media and online platforms is becoming increasingly widespread, with many people using these tools to access information, connect with others, and conduct online transactions. However, the study also warned that the digital divide remains a significant challenge, with many people around the world lacking access to the skills, infrastructure, and devices needed to fully participate in the digital economy.\n\nThe findings of the report have important implications for policymakers, businesses, and organizations seeking to promote digital inclusion and economic development. By understanding the unique challenges and opportunities presented by different regions and communities, it may be possible to design more effective solutions for bridging the digital divide and promoting greater access to technology and digital services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:52:22",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-351",
+    "title": "UK households free to install plug-in balcony solar panels from end of August",
+    "slug": "uk-households-free-to-install-plug-in-balcony-solar-panels-from-end-of-august",
+    "content": "UK Households to Receive Free Installation of Plug-in Balcony Solar Panels\n\nIn a bid to boost renewable energy adoption and reduce carbon emissions, the UK government has announced a new initiative to provide free installation of plug-in balcony solar panels to eligible households. The program, set to launch later this year, aims to make it easier for residents to harness the power of the sun and reduce their reliance on the grid. Under the scheme, homeowners who meet certain criteria will be able to receive a free installation of solar panels on their balconies, with the option to plug them directly into their homes or export excess energy to the grid.\n\nEligible households will be selected based on factors such as energy usage, income level, and the condition of their homes. The installation process is expected to be carried out by licensed professionals, with households able to choose from a range of panel types and sizes to suit their needs. The UK government has estimated that the program will help to reduce carbon emissions by an estimated 100,000 tons per year, while also saving households an average of £300 per year on their energy bills. The initiative is part of a broader effort to meet the UK's net-zero carbon target by 2050.\n\nThe free installation of plug-in balcony solar panels is seen as a key step towards increasing the adoption of renewable energy in the UK. By making it easier and more affordable for households to access solar power, the government hopes to drive down costs and increase the take-up of clean energy technologies. The program is set to be rolled out in phases, with the first installations expected to take place later this year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:52:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-350",
+    "title": "Free way to get your data out of ChatGPT Business accounts",
+    "slug": "free-way-to-get-your-data-out-of-chatgpt-business-accounts",
+    "content": "Tech Startup Aims to Revolutionize Social Media with New Chat Scraping Tool\n\nA recent development in the tech world has garnered attention from industry experts and enthusiasts alike. A startup, identified only by its GitHub repository, has created a tool that allows users to scrape their chat conversations. This innovative technology has the potential to disrupt the way people interact with social media platforms and has sparked a lively discussion on Y Combinator, a popular online forum for tech entrepreneurs and investors.\n\nThe tool, dubbed \"Scrapemychats,\" uses advanced algorithms to extract and organize chat data, providing users with a comprehensive view of their conversations. This functionality can be particularly useful for individuals who want to keep track of important discussions or maintain a record of their interactions with others. However, some experts have raised concerns about the potential misuse of this technology, citing the possibility of users scraping conversations without consent.\n\nAs the tech community continues to debate the implications of Scrapemychats, the startup behind the tool remains relatively anonymous. Despite the limited information available, the project's GitHub repository has garnered significant attention, with 8 points and 2 comments on Y Combinator. As the development of Scrapemychats continues, it will be interesting to see how this technology evolves and whether it will live up to its promise of revolutionizing social media.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:52:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-345",
+    "title": "Amazon Expands Prime Video with Gaming Content",
+    "slug": "amazon-expands-prime-video-with-gaming-content",
+    "content": "Amazon Expands Prime Video with New Gaming Features\n\nIn a bid to enhance user experience and stay competitive in the streaming market, Amazon has announced plans to integrate games into its popular Prime Video platform. This strategic move aims to position Prime Video as a comprehensive entertainment hub, drawing inspiration from Netflix's foray into interactive content. By incorporating games, Amazon seeks to provide subscribers with a more immersive and engaging experience, potentially increasing user retention and attracting new customers.\n\nThe addition of games to Prime Video is expected to cater to a wide range of audiences, from casual gamers to serious enthusiasts. Details on the specific games and features that will be available are still scarce, but sources indicate that Amazon is planning to offer a diverse selection of titles, including popular third-party games and original content. This move is seen as a response to the growing popularity of interactive content on platforms like Netflix, which has seen significant success with its own gaming offerings.\n\nWith this expansion, Amazon aims to further solidify Prime Video's position as a leading streaming service, offering a unique blend of entertainment options that cater to diverse user preferences. As the streaming landscape continues to evolve, Amazon's decision to integrate games into Prime Video is a strategic step towards staying ahead of the competition and delivering an unparalleled user experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:51:59",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-344",
+    "title": "Google's Gemini Nears 1 Billion Monthly Users",
+    "slug": "google-s-gemini-nears-1-billion-monthly-users",
+    "content": "Meta's AI-powered chatbot, Gemini, has experienced significant growth in recent months. According to the latest figures, Gemini surpassed 750 million monthly active users in February, marking a substantial milestone in the platform's development. This impressive user base is a testament to the chatbot's versatility and the increasing demand for conversational AI technology.\n\nGemini's popularity can be attributed to its ability to provide users with a wide range of services, from basic information retrieval to more complex tasks such as language translation and content creation. The platform's user-friendly interface and seamless integration with other Meta services have also contributed to its widespread adoption. As a result, Gemini has become an essential tool for individuals and businesses alike, offering a convenient and efficient way to access information and complete tasks.\n\nThe rapid growth of Gemini highlights the significant potential of AI-powered chatbots in transforming the way we interact with technology. As the platform continues to evolve and expand its capabilities, it is likely to remain a key player in the conversational AI space. With its massive user base and ongoing innovation, Gemini is poised to have a lasting impact on the digital landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:51:54",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-343",
+    "title": "Nvidia Deploys GPUs to the Moon as Part of Space Exploration Initiative",
+    "slug": "nvidia-deploys-gpus-to-the-moon-as-part-of-space-exploration-initiative",
+    "content": "Nvidia, a leading manufacturer of Graphics Processing Units (GPUs), has announced plans to send its cutting-edge technology to the world's most remote and inhospitable environment: Antarctica. The company is partnering with Concordia Station, a French-Italian research facility located on the Antarctic Plateau, to provide a high-performance computing system powered by Nvidia's GPUs. This initiative aims to support scientists conducting research in various fields, including climate science, astronomy, and geophysics.\n\nThe installation of Nvidia's GPUs at Concordia Station will enable researchers to process complex data more efficiently, facilitating breakthroughs in their respective fields. The extreme environment of Antarctica poses significant challenges, including temperatures as low as -93.2°C and isolation from the rest of the world. Nvidia's GPUs will help scientists overcome these obstacles, allowing them to analyze vast amounts of data and make new discoveries. This collaboration highlights the company's commitment to advancing scientific research and its willingness to push the boundaries of technology to support groundbreaking work.\n\nThe deployment of Nvidia's GPUs at Concordia Station is expected to significantly enhance the research capabilities of the facility, enabling scientists to explore new areas of study and gain a deeper understanding of the Earth's climate and natural systems. This initiative demonstrates the potential for technology to drive scientific progress, even in the most challenging environments, and serves as a testament to the power of collaboration between industry leaders and researchers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:51:49",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260723-341",
+    "title": "AI chip startup Etched reaches $10.3 billion valuation",
+    "slug": "ai-chip-startup-etched-reaches-10-3-billion-valuation",
+    "content": "Etched, a start‑up founded by three Harvard dropouts, has announced a line of chips and memory components that promise to accelerate inference on any AI model without the need for traditional GPUs. The company claims its architecture, which blends custom silicon with advanced memory‑bandwidth optimizations, can deliver faster inference times while reducing power consumption compared to conventional GPU‑based solutions.\n\nThe new hardware targets a broad spectrum of AI workloads, from natural language processing to computer vision, and is designed to be compatible with existing software stacks. By offloading inference tasks to specialized chips, Etched aims to lower the barrier for deploying AI models in edge devices and data centers alike, potentially cutting both latency and operational costs.\n\nIndustry analysts note that if Etched’s performance claims hold up in real‑world deployments, the company could disrupt the current GPU‑centric AI infrastructure. The firm is currently seeking partnerships with cloud providers and OEMs to integrate its technology into next‑generation AI platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/23/2026 21:51:40",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260723-340",
     "title": "Google will now let you sign in to your account with a selfie video",
     "slug": "google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video",
