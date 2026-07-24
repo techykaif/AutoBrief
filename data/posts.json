@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260724-115",
+    "title": "Anti-Ageing Supplements Efficacy",
+    "slug": "anti-ageing-supplements-efficacy",
+    "content": "As the global population ages, the quest for supplements that can stave off the effects of ageing has become increasingly popular. However, many claims made by manufacturers have been met with scepticism by experts, including columnist Graham Lawton. Lawton, a self-proclaimed hardened sceptic, has delved into the world of anti-ageing supplements, seeking evidence to support their purported benefits. While many supplements have been debunked as ineffective, Lawton's investigation has uncovered a few that show promise in improving biological age as we grow older.\n\nLawton's research has led him to identify certain supplements that have been shown to have a positive impact on biological markers of ageing. These include supplements that target specific cellular processes, such as inflammation and oxidative stress, which are known to contribute to the ageing process. By mitigating these effects, certain supplements may be able to improve biological age, potentially leading to improved overall health and wellbeing. Lawton's findings are based on a thorough review of existing scientific literature, and his conclusions are grounded in empirical evidence, providing a nuanced and informed perspective on the complex issue of anti-ageing supplements.\n\nIn conclusion, while the anti-ageing supplement industry is often plagued by exaggerated claims and misinformation, Lawton's investigation suggests that a select few supplements may indeed have a beneficial impact on biological age. As the search for effective anti-ageing interventions continues, Lawton's work serves as a reminder of the importance of rigorous scientific inquiry and evidence-based decision making. By separating fact from fiction, Lawton's research provides a valuable contribution to the ongoing conversation about healthy ageing and the potential role of supplements in promoting overall wellbeing.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/24/2026 15:43:01",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-114",
+    "title": "Black Hole Ejection Mechanism Discovered",
+    "slug": "black-hole-ejection-mechanism-discovered",
+    "content": "The discovery of a black hole fleeing its galaxy has long been a puzzling phenomenon for researchers, with the initial finding leaving many questions unanswered. However, recent advancements have shed light on this enigmatic event, providing a plausible explanation for this extraordinary occurrence. At the heart of this explanation lies the understanding that such a black hole is likely the result of a merger between two galaxies, each possessing a supermassive black hole at its center.\n\nDuring the merger, the two supermassive black holes collide and eventually merge, resulting in a massive release of energy. This energy release can propel the newly formed black hole out of its original galaxy, sending it hurtling through space. The merger process and subsequent ejection of the black hole can be attributed to a complex interplay of gravitational forces and the dynamics of galaxy interactions. This explanation not only provides insight into the mechanisms governing black hole behavior but also offers a unique perspective on the evolution and interaction of galaxies within the universe.\n\nThe newfound understanding of black hole ejection offers significant implications for our comprehension of galaxy evolution and the role of black holes within these systems. As researchers continue to explore and refine this explanation, they may uncover further details about the intricate processes governing the behavior of these cosmic phenomena. Ultimately, this discovery and its subsequent explanation have expanded our knowledge of the universe, highlighting the complex and dynamic nature of galaxy interactions and the enigmatic role of black holes within these systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/24/2026 15:42:56",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-112",
+    "title": "Galápagos Islands Feel Impact of El Niño",
+    "slug": "gal-pagos-islands-feel-impact-of-el-ni-o",
+    "content": "The Galápagos Islands, an archipelago in the Pacific, are currently at the centre of the extreme weather phenomenon known as El Niño. This phenomenon occurs when the prevailing trade winds slow, allowing warm water to spread east along the coast of South America, resulting in unusually high ocean temperatures. The El Niño pattern is expected to build from this year into next, likely bringing record temperatures to an already overheating world, with 2027 predicted to be the hottest year on record if 2026 is not.\n\nThe Galápagos Islands' unique location makes them a crucial area of study for scientists seeking to understand the impact of climate change on marine ecosystems. By examining how the islands' ecosystem adapts to the warming climate, scientists can gain valuable insights into how other marine ecosystems around the world may respond to similar changes. The El Niño phenomenon has been observed for centuries by fishers in the Pacific, and its effects are being closely monitored by scientists, who are working to predict and prepare for the potential consequences of this extreme weather event.\n\nThe study of the Galápagos Islands and the El Niño phenomenon is critical in the context of the current climate crisis. As the world continues to warm, understanding how marine ecosystems will adapt and respond to these changes is essential for developing effective strategies to mitigate the impacts of climate change. By examining the effects of El Niño on the Galápagos Islands, scientists can gain a better understanding of the complex relationships between ocean temperatures, marine ecosystems, and the global climate, ultimately informing efforts to address the pressing issue of climate change.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/24/2026 15:42:44",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-111",
+    "title": "C++26 adds std::indirect type to streamline PImpl idiom",
+    "slug": "c-26-adds-std-indirect-type-to-streamline-pimpl-idiom",
+    "content": "A recent development in the C++ programming language has garnered attention from the developer community, particularly with regards to the PIMPL idiom and the introduction of `std::indirect` type in C++26. The PIMPL idiom, which stands for \"Pointer to Implementation,\" is a design pattern used to hide the implementation details of a class from its interface, thereby reducing compilation dependencies and improving code organization. This idiom has been a staple in C++ programming for years, allowing developers to separate the public interface of a class from its private implementation.\n\nThe introduction of `std::indirect` in C++26 aims to provide a standardized way to apply the PIMPL idiom, making it easier for developers to work with pointer-to-implementation types. This new type is designed to automatically manage the memory of the implementation object, eliminating the need for manual memory management using pointers. The `std::indirect` type has sparked a discussion among developers, with some praising its potential to simplify code and reduce errors, while others have raised concerns about its implications on performance and compatibility with existing codebases. The debate has been ongoing, with 39 comments on a recent news post discussing the topic, highlighting the interest and investment of the C++ community in this development.\n\nIn conclusion, the introduction of `std::indirect` in C++26 has significant implications for the C++ programming community, particularly in relation to the PIMPL idiom. As the community continues to discuss and refine this new feature, it is likely that we will see improvements in code quality, maintainability, and performance. With the C++ community actively engaging in discussions and sharing their expertise, the future of C++ development looks promising, and it will be interesting to see how `std::indirect` is adopted and utilized in the years to come.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:42:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-109",
+    "title": "Book Prize Index Released",
+    "slug": "book-prize-index-released",
+    "content": "A newly launched online platform, accessible at https://book-prize-index.vercel.app, has been introduced to the public. The website appears to be dedicated to tracking and indexing book prizes, potentially serving as a valuable resource for authors, publishers, and literary enthusiasts. Although the exact features and scope of the platform are not immediately clear, its creation suggests an effort to organize and make accessible information about book awards and prizes.\n\nThe platform's launch has garnered some attention, with a discussion thread initiated on the news aggregator website https://news.ycombinator.com/, specifically at item ID 49032756. At the time of reporting, the discussion has garnered 4 points but has not yet generated any comments. This lack of commentary may indicate that the platform is still in its early stages, and users are awaiting more information or are observing its development before engaging in discussion. As the platform evolves, it is likely that its purpose and functionality will become clearer, potentially attracting more attention and feedback from the literary community.\n\nIn conclusion, the introduction of the book prize index platform marks a new development in the literary world, with potential implications for how book awards and prizes are tracked and accessed. As the platform continues to develop and gain attention, it will be interesting to observe how it is received by authors, publishers, and readers, and whether it fulfills its potential as a valuable resource for the literary community. Further updates and feedback from users will likely provide a clearer understanding of the platform's capabilities and its potential impact on the literary landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:42:30",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-105",
+    "title": "Flux 3 Mimic Video-Action Model Released",
+    "slug": "flux-3-mimic-video-action-model-released",
+    "content": "BFL.ai has announced the release of Flux 3 Mimic, an open‑source diffusion model that expands on the Flux 3 architecture to produce high‑quality images from textual prompts. The new “mimic” module is designed to emulate the stylistic characteristics of other popular models, allowing users to generate artwork that closely resembles the output of established systems while retaining Flux 3’s efficient inference pipeline.\n\nAccording to the blog post, Flux 3 Mimic was trained on a diverse dataset of millions of images and text pairs, employing a novel curriculum that balances fidelity and speed. The model can run on consumer‑grade GPUs, supports resolutions up to 4 K, and reportedly achieves competitive scores on standard benchmarks such as LAION‑400M and OpenImage. The release includes full source code, pretrained weights, and a set of example prompts that showcase the model’s ability to replicate various artistic styles.\n\nThe announcement has drawn modest attention on Hacker News, where the post currently holds seven up‑votes and no comments. By making the technology freely available, BFL.ai aims to lower the barrier for developers and artists interested in exploring advanced text‑to‑image generation without the computational overhead of larger commercial models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:42:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-102",
+    "title": "Trump Endorses Mike Lindell for Minnesota Governor; GOP Pushes Back",
+    "slug": "trump-endorses-mike-lindell-for-minnesota-governor-gop-pushes-back",
+    "content": "Former President Donald J. Trump publicly endorsed Mike Lindell, a Minnesota‑based pillow salesman who has become a prominent election‑denier, as the Republican nominee for governor. Lindell’s campaign, which has centered on allegations of widespread voter fraud in the 2020 election, has gained traction among a segment of the party’s base, but the endorsement has also attracted scrutiny from political observers.\n\nIn response, local Republican leaders in Minnesota have issued a sharp rebuke. Party officials have expressed concern that aligning with Lindell’s unsubstantiated claims could damage the GOP’s credibility in the state and alienate moderate voters. The Minnesota GOP has called for a more measured approach to the gubernatorial race, emphasizing the need for candidates who can unite the party and appeal to the broader electorate.\n\nThe backlash from Minnesota Republicans underscores the tension within the party between its grassroots supporters and its establishment wing. While Trump’s endorsement may energize a specific voter bloc, the local GOP’s pushback signals a willingness to distance itself from figures whose rhetoric has been widely criticized as lacking evidence and potentially divisive.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:42:01",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-101",
+    "title": "Kagi Offers Human-Curated Search Experience",
+    "slug": "kagi-offers-human-curated-search-experience",
+    "content": "Kagi, a new entrant in the search‑engine arena, has positioned itself as a curated, human‑centric alternative to the ad‑laden and AI‑summarized results that dominate the market. The platform promises a cleaner experience by filtering out sponsored content and providing search results that are manually vetted for relevance and quality. Its design prioritizes user intent, aiming to deliver more precise answers without the noise of algorithmic summarization.\n\nDeveloped by a team of former search‑engine engineers, Kagi offers a subscription model that removes ads and enhances privacy. The service includes features such as customizable filters, a “human‑reviewed” result layer, and the ability to save and organize searches. Early adopters report faster, more accurate results for niche queries, citing the platform’s emphasis on context and relevance over click‑through revenue.\n\nWhile still in its early stages, Kagi’s approach could influence how search engines balance monetization with user experience. By emphasizing curated content and privacy, it challenges the prevailing model of ad‑driven search results, potentially encouraging other providers to rethink their strategies for delivering information.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:41:56",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-100",
+    "title": "Microsoft forces LG to stop McAfee pop‑ups on Windows 11",
+    "slug": "microsoft-forces-lg-to-stop-mcafee-pop-ups-on-windows-11",
+    "content": "Microsoft has intervened to stop Windows 11 users who connect LG monitors from being inundated with McAfee trial pop‑ups. After a wave of complaints about the “LG bloatware” that appears when the LG Monitor App Installer updates drivers, Microsoft’s Windows chief Pavan Davuluri confirmed that LG has agreed to disable the pop‑up immediately and will work with Microsoft to prevent similar issues in the future.\n\nThe crackdown follows backlash over large pop‑up ads for McAfee antivirus and LG’s own apps that appeared on Windows 11 PCs after a driver update was silently installed when a monitor was connected. Microsoft said it will continue to improve the experience with its ecosystem partners, pledging to keep the ecosystem free of intrusive advertising.\n\nWith the pop‑up disabled, users can now connect LG monitors to Windows 11 without the disruptive McAfee prompts, and Microsoft has signaled its commitment to working with hardware partners to avoid similar problems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:41:52",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-099",
+    "title": "British Gas Owner to Cut 1,300 Call Centre Jobs, Favors AI Chatbots",
+    "slug": "british-gas-owner-to-cut-1-300-call-centre-jobs-favors-ai-chatbots",
+    "content": "Centrica, the FTSE 100 owner of British Gas, announced a rise in retail profits as it pursues higher margin growth, while CEO Chris O’Shea defended a planned restructuring that will see 1,300 call‑centre staff cut. The company said the move is part of a “targeted deployment of AI tools” designed to streamline customer interactions, noting that many households now prefer to use an AI chatbot over speaking with a human representative.\n\nO’Shea explained that the new strategy will cut 800 jobs in the call centre and add to the 500 positions already announced for removal last month. The company’s focus on bigger margins is reflected in the improved retail earnings, which have driven the decision to invest in automation and reduce operational costs. Despite the workforce reductions, Centrica maintains that the changes will support long‑term profitability and enhance customer service efficiency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 15:41:47",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-098",
+    "title": "Wildfire forces evacuation of France's Cap Ferret peninsula",
+    "slug": "wildfire-forces-evacuation-of-france-s-cap-ferret-peninsula",
+    "content": "A wildfire that swept across the Cap Ferret peninsula forced the evacuation of every resident and business on the strip of land between Arcachon Bay and the Atlantic Ocean. The fire, which was described as “fast‑moving” by local authorities, destroyed dozens of homes and threatened the historic fishing villages that line the coast. Residents were given a short notice to leave, and emergency services set up temporary shelters on the mainland.\n\nFirefighters from the regional fire department and national emergency units—totaling about 700 personnel—worked around the clock to contain the blaze. They deployed aerial water drops and ground crews to create firebreaks, while the French Civil Protection coordinated with local municipalities to manage the evacuation and provide medical support. The rapid spread of the fire was attributed to strong winds and dry conditions that had prevailed in the area over the past weeks.\n\nThe incident has prompted a review of fire‑risk management in the region, with officials calling for increased monitoring of vegetation and improved emergency response protocols. While the damage to property is still being assessed, authorities have confirmed that all evacuees have been accounted for and are being housed safely. The peninsula remains closed to the public until the fire is fully contained and the area is declared safe for return.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 15:41:42",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260724-097",
     "title": "Ukrainian drone strike sparks fire at Saint Petersburg warehouse",
     "slug": "ukrainian-drone-strike-sparks-fire-at-saint-petersburg-warehouse",
