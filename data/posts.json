@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260724-294",
+    "title": "WebGPU Unleashed: A Practical Tutorial",
+    "slug": "webgpu-unleashed-a-practical-tutorial",
+    "content": "WebGPU Unleashed: A New Framework for Accelerated Graphics\n\nA recent GitHub repository, WebGPU Unleashed, has garnered attention from the tech community with its promise of unleashing the full potential of WebGPU, a new API developed by browser vendors to provide a low-level, cross-platform API for accessing graphics and compute resources. The repository, created by Shi-yan, aims to provide a comprehensive guide and implementation of WebGPU, allowing developers to tap into its capabilities and create high-performance graphics applications.\n\nThe WebGPU API is designed to provide a unified interface for accessing graphics and compute resources across different platforms, including desktop and mobile devices. It allows developers to create complex graphics effects, perform compute tasks, and leverage the power of modern graphics processing units (GPUs). With WebGPU Unleashed, developers can explore the API's capabilities and learn how to implement it in their applications. The repository includes code examples, tutorials, and documentation to help developers get started with WebGPU development.\n\nAs the WebGPU API continues to evolve and gain traction, the WebGPU Unleashed repository is poised to play a significant role in helping developers unlock its full potential. By providing a comprehensive resource for WebGPU development, the repository has the potential to accelerate the adoption of this powerful API and enable the creation of high-performance graphics applications that can run across multiple platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 21:12:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-287",
+    "title": "Silicon Valley Divided On Chinese AI",
+    "slug": "silicon-valley-divided-on-chinese-ai",
+    "content": "The recent surge in AI development has led to the emergence of numerous startups, some of which have reached valuations of billions of dollars. These high-valued AI startups have been sounding the alarm about the rapid advancements being made in Chinese AI, citing concerns over the potential implications for global technological dominance. This has sparked a heated debate about the trajectory of AI development and the role that China is likely to play in shaping its future.\n\nHowever, not all players in the AI ecosystem share the same concerns as the high-valued startups. Smaller AI companies and startups have a distinctly different perspective on the rise of Chinese AI. These smaller players often view the growth of Chinese AI as an opportunity for collaboration and innovation, rather than a threat. They argue that the global nature of AI development means that advancements made in one country can have benefits that extend far beyond its borders, and that international cooperation can help to drive progress in the field. This divergent view highlights the complexity of the AI landscape and the varied ways in which different stakeholders are approaching the issue of Chinese AI.\n\nIn conclusion, the differing perspectives on Chinese AI among high-valued startups and smaller players reflect the multifaceted nature of the AI ecosystem. While some companies are sounding the alarm about the potential implications of Chinese AI, others see it as an opportunity for growth and collaboration. As the development of AI continues to accelerate, it will be important to consider the diverse range of views and interests at play in order to navigate the complex and rapidly evolving landscape of this critical technology.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 21:12:31",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-286",
+    "title": "The tech-broification of American science has officially begun",
+    "slug": "the-tech-broification-of-american-science-has-officially-begun",
+    "content": "The Trump Administration Unveils Ambitious AI-Driven Science Initiative\n\nThe White House has announced the first \"Genesis Mission\" grants, a $5 billion initiative aimed at driving hundreds of artificial intelligence (AI)-driven science projects. This move is part of a broader effort described as \"comparable in urgency and ambition to the Manhattan Project,\" a reference to the historic US research and development program that produced the atomic bomb during World War II. The ambitious goal is to propel the US to a \"New Golden Age\" of science, with a focus on AI, robotics, and nuclear energy.\n\nHowever, concerns have been raised about the leadership behind this initiative. Michael Kratsios, Trump's science adviser, lacks a science background, which has sparked criticism from experts and lawmakers. Despite this, Kratsios has been actively promoting the administration's vision for a science-driven future, emphasizing the need to prioritize AI, robotics, and nuclear energy over life sciences. The juxtaposition of the administration's grandiose promises and the lack of scientific expertise among its leaders has raised questions about the feasibility and direction of this ambitious initiative.\n\nThe Genesis Mission grants are a significant investment in the development of AI-driven science projects, but the underlying leadership and priorities remain unclear. As the initiative moves forward, it will be crucial to monitor the administration's commitment to scientific expertise and the potential consequences of its prioritization of certain areas over others.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 21:12:25",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-284",
+    "title": "Acer Chromebook Plus Spin 514 discounted to $559 at Best Buy",
+    "slug": "acer-chromebook-plus-spin-514-discounted-to-559-at-best-buy",
+    "content": "Best Buy Offers Discount on Acer Chromebook Plus Spin 514\n\nIn a move to capitalize on the growing demand for budget-friendly Chromebooks, Best Buy is currently offering a significant discount on Acer's Chromebook Plus Spin 514. The device, which boasts impressive specs including a 16:10 aspect ratio IPS touchscreen and a 120Hz refresh rate, is available for $559, down from its original price of $749. This deal is for the configuration with 12GB of RAM, a MediaTek Kompanio Ultra 910 processor, and 256GB of UFS storage, making it an attractive option for multitaskers who require more memory.\n\nThe Spin 514 is widely regarded as one of the best Chromebooks available in the market, and reviewers have praised its capabilities, battery life, and versatility. The device can be used as both a laptop and a tablet, thanks to its 14-inch 1920 x 1200 120Hz IPS touchscreen that can bend backwards. Although a stylus is not included, users can opt for any USI 2.0 stylus they prefer. For those seeking more RAM and additional features, Lenovo's Chromebook Plus 14 is also available at a discounted price of $649 at Best Buy.\n\nIn addition to the Acer Chromebook deal, Best Buy is also offering discounts on other products, including Anker's 140W wall charger and Logitech's USB-C Bolt receivers. The charger, which is normally priced at $79.99, is available for $55.99, while the Bolt receivers are available at just over half off their original price of $14.99. These deals provide customers with a range of options to upgrade their devices and accessories at affordable prices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 21:12:17",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-280",
+    "title": "Rivian Seeks Refund of Trump Tariffs",
+    "slug": "rivian-seeks-refund-of-trump-tariffs",
+    "content": "The automaker announced that it is seeking a refund estimated in the “tens of millions of dollars,” a figure it disclosed in a recent corporate statement. The claim stems from a dispute over payments related to a prior agreement, and the company says the amount is owed based on contractual obligations that have not been fulfilled.\n\nThe manufacturer indicated that it is pursuing the refund through negotiations and, if necessary, legal channels, though no specific timeline for resolution was provided. The pending claim could have a material impact on the automaker’s financial results, and stakeholders will be monitoring the development as the parties work toward a settlement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/24/2026 21:12:03",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-279",
+    "title": "Niger's Military Regime Under Scrutiny After Three Years",
+    "slug": "niger-s-military-regime-under-scrutiny-after-three-years",
+    "content": "In 2023, the military junta that seized power in Niger pledged sweeping reforms aimed at improving social welfare, tightening security, and boosting economic growth. The leadership announced plans to expand healthcare coverage, increase investment in infrastructure, and crack down on insurgent activity in the Sahel region, positioning itself as a force for stability and development.\n\nOver the past three years, the junta’s record has been uneven. While the government has secured new funding for rural clinics and launched a nationwide road‑repair initiative that has created jobs, security forces have struggled to contain the rise of jihadist groups in the eastern provinces. Economic indicators show modest growth, yet inflation and unemployment remain high, and many citizens report that promised public services have not materialized at the scale initially promised.\n\nThe mixed assessment of the military government’s performance reflects a complex reality: achievements in infrastructure and health are offset by persistent security challenges and limited economic gains. As Niger continues to navigate these contradictions, stakeholders remain divided on whether the junta’s agenda has ultimately delivered the promised improvements.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 21:11:57",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-278",
+    "title": "NDP leader urges Canada to block Thomson Reuters data deal with US ICE",
+    "slug": "ndp-leader-urges-canada-to-block-thomson-reuters-data-deal-with-us-ice",
+    "content": "ICE will pay Canadian media giant Thomson Reuters US$125 million to access its investigative database for identifying “immigration fraud,” a deal that has drawn sharp criticism from federal opposition. The agreement, disclosed by Canada’s National Observer, would allow the U.S. Immigration and Customs Enforcement (ICE) agency to tap Reuters’ data‑mining tools to track and prosecute alleged fraudsters. The contract raises concerns about privacy, data sovereignty and the potential for the Canadian company to be complicit in U.S. immigration enforcement.\n\nFederal New Democratic Party (NDP) leader Avi Lewis has called on Prime Minister Mark Carney’s government to block the arrangement and to impose broader restrictions on Canadian corporations that do business with ICE. Lewis argued that the deal undermines Canada’s commitment to protecting the rights of immigrants and could expose Canadian citizens to foreign law‑enforcement scrutiny without adequate safeguards. He urged Ottawa to review the contract’s terms and to consider legislation that would limit Canadian entities’ participation in U.S. immigration operations.\n\nThe controversy highlights growing tensions over cross‑border data sharing and the role of private media firms in law‑enforcement. While the Canadian government has yet to respond formally, the debate is likely to intensify as lawmakers weigh the economic benefits of the deal against potential risks to civil liberties and national sovereignty.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 21:11:53",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-277",
+    "title": "White House Correspondents' Dinner returns with Trump attending after April shooting",
+    "slug": "white-house-correspondents-dinner-returns-with-trump-attending-after-april-shoot",
+    "content": "A highly contested dinner event is scheduled to resume this week, with former President Donald J. Trump confirmed as a guest. The gathering, organized by a coalition of conservative donors and hosted at a private club in Washington, D.C., is intended to raise funds for a political action committee that has faced criticism for its opaque funding sources and alleged ties to extremist groups. The event’s return follows a violent interruption in April, when a gunman opened fire during a similar dinner, injuring several attendees and prompting a temporary suspension of the series.\n\nThe April shooting, which occurred on the same venue’s lawn, was investigated by federal authorities and linked to a disgruntled former staffer who had been denied a job with the committee. The incident prompted calls for stricter security at political fundraisers and led to a temporary halt of the dinner series. Despite the controversy, organizers have announced that the upcoming dinner will proceed with enhanced security measures. Trump’s presence is expected to draw additional media attention and donors, underscoring the event’s continued significance in the conservative fundraising landscape.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 21:11:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-276",
+    "title": "Man City midfielder Rodri to undergo back surgery before new season",
+    "slug": "man-city-midfielder-rodri-to-undergo-back-surgery-before-new-season",
+    "content": "Spain’s midfield anchor, Rodri, will undergo surgery and a period of rest before he can rejoin Manchester City, according to the club’s newly appointed head coach, Pep Maresca. The 27‑year‑old, who also captains the Spanish national team, suffered a serious knee injury in the final weeks of the domestic season, prompting medical staff to recommend an operative procedure to address the damage and prevent long‑term complications.\n\nMaresca confirmed that the surgery is scheduled for early August, with an estimated rehabilitation timeline of three to four months before Rodri is cleared for competitive action. The coach emphasized that the player’s recovery will be managed carefully to ensure full fitness for the upcoming Premier League campaign and international duties. The club will rely on other midfield options in the interim while maintaining confidence that Rodri will return to his pivotal role once fully recovered.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 21:11:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-275",
+    "title": "CAS schedules October hearing for Senegal's AFCON title appeal",
+    "slug": "cas-schedules-october-hearing-for-senegal-s-afcon-title-appeal",
+    "content": "The Court of Arbitration for Sport (CAS) has scheduled an October hearing for Senegal’s appeal to overturn the result of the African Cup of Nations (AFCON) final that took place in January against Morocco. The match, which ended in a chaotic conclusion marked by disputed refereeing decisions and a subsequent protest from the Senegalese side, left the title’s legitimacy in question and prompted the Senegalese Football Federation to seek a formal review.\n\nThe appeal seeks to have the championship awarded to Senegal, arguing that procedural irregularities and on‑field errors affected the outcome. CAS will examine the evidence presented by both federations and deliver a ruling before the end of the year, a decision that could either confirm Morocco’s victory or reassign the title to Senegal, thereby resolving the dispute that has lingered since the contentious final.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/24/2026 21:11:40",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260724-274",
     "title": "Viking Mars Landings 50th Anniversary Commemorated on Live TV",
     "slug": "viking-mars-landings-50th-anniversary-commemorated-on-live-tv",
