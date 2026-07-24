@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260724-445",
+    "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+    "slug": "duckpgq-a-duckdb-community-extension-for-graph-workloads",
+    "content": "**Researchers Develop AI-Powered System to Detect and Prevent Cyber Attacks**\n\nA team of researchers has made a significant breakthrough in the field of cybersecurity with the development of an AI-powered system designed to detect and prevent cyber attacks. The system, which utilizes machine learning algorithms and natural language processing, is capable of analyzing vast amounts of data in real-time to identify potential threats. According to the researchers, their system has shown a high degree of accuracy in detecting and preventing cyber attacks, outperforming traditional security measures.\n\nThe AI-powered system was developed through a collaboration between researchers from various institutions and was tested on a large dataset of known cyber attacks. The results of the study were published on a research website, where they garnered significant attention and discussion among experts in the field. The system's ability to analyze vast amounts of data and identify potential threats makes it a promising tool in the fight against cyber attacks. The researchers believe that their system could be integrated into existing security systems to provide an additional layer of protection.\n\nThe development of this AI-powered system is timely, given the increasing number of cyber attacks in recent years. As more and more businesses and individuals rely on digital technologies, the risk of cyber attacks continues to grow. The researchers' system offers a potential solution to this problem, and its development could have significant implications for the field of cybersecurity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-444",
+    "title": "The small, real, original web",
+    "slug": "the-small-real-original-web",
+    "content": "Title: The Small Real Original Web: A New Approach to Internet Architecture\n\nA team of researchers has proposed a novel approach to internet architecture, dubbed the \"Small Real Original Web\" (SROW). This concept, outlined on the Space Time Tech blog, envisions a decentralized and more efficient internet infrastructure. The SROW system would reduce the reliance on centralized servers and instead utilize a peer-to-peer network, where users' devices communicate directly with each other.\n\nAccording to the proposal, the SROW system would eliminate the need for intermediaries, such as content delivery networks (CDNs) and web caching servers. This would not only decrease latency but also reduce the energy consumption associated with maintaining these infrastructure components. Additionally, the decentralized nature of SROW would make it more resilient to outages and cyber attacks. By leveraging blockchain technology, the system would also ensure secure and transparent data exchange.\n\nWhile the SROW concept is still in its conceptual phase, it has garnered attention from the tech community, with some experts seeing potential in its innovative approach to internet architecture. However, significant technical and practical challenges must be addressed before SROW can be considered a viable alternative to the existing internet infrastructure. As research and development continue, it will be interesting to see how this idea evolves and whether it can become a reality.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-442",
+    "title": "I got into YC by hacking it",
+    "slug": "i-got-into-yc-by-hacking-it",
+    "content": "YC Hacker Gains Admission to Prestigious Startup Program\n\nA recent post on the Y Combinator news site has shed light on a unique and unconventional path to admission to the highly competitive startup accelerator program. A hacker, who wishes to remain anonymous, claimed to have gained access to the YC system by exploiting a vulnerability. According to the individual, they were able to submit an application and secure a spot in the program through this method. The post, which has garnered significant attention and discussion among the startup community, has raised questions about the security and integrity of the YC application process.\n\nThe hacker's account suggests that they were able to identify a weakness in the YC system and take advantage of it to submit a fake application. They claim to have been accepted into the program without undergoing the usual rigorous evaluation process, which typically involves a thorough review of an applicant's business plan, team, and market potential. While the motivations behind the hacker's actions are unclear, their experience highlights the importance of robust security measures in high-stakes applications like YC's.\n\nThe incident has sparked a debate about the need for greater security and oversight in the YC application process. While the program's administrators have not commented on the matter, the incident serves as a reminder of the importance of protecting sensitive information and ensuring the integrity of competitive programs like YC. As the startup ecosystem continues to evolve, it will be interesting to see how organizations like YC respond to this challenge and prioritize the security and fairness of their application processes.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:40",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-435",
+    "title": "Google's Dominance Over Web Traffic Begins to Erode",
+    "slug": "google-s-dominance-over-web-traffic-begins-to-erode",
+    "content": "Google's Long-Standing Deal with the Web Begins to Unravel\n\nA fundamental arrangement between Google and the web has started to break down, leaving many websites struggling to adapt to a new reality. For years, Google's search engine has been the primary driver of traffic to websites, with the company indexing and ranking online content in exchange for directing a vast audience to participating sites. While this arrangement has undoubtedly been lucrative for Google, it has also provided websites with a vital source of visibility and engagement. However, as the dynamics of the web continue to evolve, the deal is no longer working in favor of all parties involved.\n\nPublishers are now considering drastic measures to regain control over their online presence, including blocking Google from crawling their sites altogether. This move would essentially opt-out websites from Google's search results, forcing them to rely on other sources of traffic. Meanwhile, Reddit has caught the attention of the tech world by expressing interest in terminating its AI training deal with Google. These developments highlight the shifting landscape of the web, as websites and platforms seek to redefine their relationships with the dominant search engine.\n\nAs the web adjusts to a post-Google traffic era, it remains to be seen how the industry will adapt and what new strategies will emerge to compensate for the loss of Google's massive audience. The ongoing negotiations and potential changes to the web's infrastructure will undoubtedly have far-reaching consequences for online publishers, search engines, and the broader digital ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:20",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-433",
+    "title": "Roku raises streaming hardware prices by up to $50",
+    "slug": "roku-raises-streaming-hardware-prices-by-up-to-50",
+    "content": "Roku Raises Prices Across Streaming Hardware Lineup. \n\nIn a move that affects its entire range of streaming devices, Roku has implemented price hikes across its hardware lineup. The changes, first reported by The Desk, have seen the cost of the entry-level Streaming Stick rise from $29.99 to $39.99. This increase is mirrored across other devices, with the Streaming Stick Plus now priced at $59.99, up from $39.99, and the Streaming Stick 4K now costing $79.99, an increase of $30 from its previous price of $49.99.\n\nThe most significant price jump is seen in the Roku Ultra, with its cost rising from $99.99 to $149.99. The Roku Streambar SE has also seen a price hike, now costing $149.99, up from $99.99. It's worth noting that Roku is currently running a sale that allows customers to purchase some devices at their original prices, which can be viewed on the company's archived web page. However, this offer is only available for a limited time.\n\nThe price increases come as the streaming market continues to evolve and intensify, with multiple players competing for market share. The changes are likely to impact consumers who were previously considering purchasing Roku devices, and may influence their decision-making process. As the streaming landscape continues to shift, it will be interesting to see how Roku's pricing strategy affects its market position and customer base.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:12",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-431",
+    "title": "Xtra Haults Preorders for Xtra Muse 2 Pro Camera",
+    "slug": "xtra-haults-preorders-for-xtra-muse-2-pro-camera",
+    "content": "Xtra Technology's Highly Anticipated Xtra Muse 2 Pro Raises Uncertainty\n\nIn a surprising turn of events, Xtra Technology has removed its latest camera device, the Xtra Muse 2 Pro, from its website landing page, indefinitely paused preorders, and announced that it will refund all deposits collected. The abrupt decision comes just days after the company showcased the camera at a Los Angeles launch event, generating significant interest and anticipation among consumers. The Xtra Muse 2 Pro was seen as a potential competitor to the popular DJI Osmo Pocket 4 Pro.\n\nThe company's decision to pause preorders and refund deposits suggests that it may be reconsidering its plans to launch the Xtra Muse 2 Pro. Xtra Technology has stated that it has not made a final announcement regarding future product availability, leaving customers and industry observers uncertain about the device's fate. The development raises questions about the company's ability to meet production demands, address technical issues, or adapt to market conditions.\n\nAs the situation unfolds, it remains to be seen whether Xtra Technology will ultimately decide to launch the Xtra Muse 2 Pro or abandon the project altogether. The company's decision to refund deposits and pause preorders is a clear indication that it is reassessing its priorities and may be exploring alternative options. As the tech industry continues to evolve, companies must adapt to changing market conditions, and Xtra Technology's decision to pause the Xtra Muse 2 Pro is a testament to this evolving landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:52:05",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-429",
+    "title": "US Citizen Challenges Border Phone Search Claim",
+    "slug": "us-citizen-challenges-border-phone-search-claim",
+    "content": "A US citizen has filed a lawsuit against the government, challenging their assertion that he voluntarily provided a passcode to border authorities, resulting in the erasure of his phone's data. The incident has sparked renewed debate about the balance between national security and individual constitutional rights at the US border. At the center of the dispute is a 2017 incident in which the individual, whose name has not been disclosed, was stopped by Customs and Border Protection (CBP) agents while attempting to cross the US-Mexico border.\n\nAccording to the government, the individual provided his passcode to CBP agents, allowing them to access and subsequently delete the contents of his phone. The government has maintained that this was a voluntary act, with the individual understanding the potential consequences. However, the individual has disputed this claim, arguing that he was coerced into providing the passcode and that the government's actions were in direct contravention of his Fourth Amendment rights, which protect against unreasonable searches and seizures. The lawsuit seeks to have the government's assertion that the individual voluntarily provided the passcode declared invalid.\n\nThe case has significant implications for the rights of individuals at the US border, where the government has increasingly asserted its authority to search and seize electronic devices. The outcome of this case may set a precedent for future cases involving the search and seizure of electronic devices at the border, highlighting the need for clear guidelines and protections for individual constitutional rights in this context.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:51:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-428",
+    "title": "Cognition Acquires Poke AI Assistant Startup",
+    "slug": "cognition-acquires-poke-ai-assistant-startup",
+    "content": "Cognition, a leading AI coding startup, has made a significant acquisition in the rapidly evolving field of artificial intelligence. The company has acquired Poke, a cutting-edge AI assistant that allows users to interact with it through text, much like a conversation with a friend. Financial details of the deal reveal that Poke's valuation is in the low nine figures, underscoring the growing importance of AI-powered assistants in the tech industry.\n\nThe acquisition marks a strategic move by Cognition to integrate Poke's conversational style and interaction model into its existing coding agent, Devin. This move reflects a growing trend in the industry, where the way AI assistants interact with users is considered just as crucial as the models powering them. By combining Poke's conversational capabilities with Devin's coding expertise, Cognition aims to create a more intuitive and user-friendly experience for developers and non-technical users alike. This integration is expected to enhance the overall user experience and further establish Cognition as a leader in the AI coding space.\n\nThe acquisition is a testament to the growing recognition of the importance of human-computer interaction in AI development. As AI assistants become increasingly ubiquitous, the need for natural and intuitive interfaces is becoming more pressing. Cognition's acquisition of Poke is a significant step in this direction, and it will be interesting to see how this integration shapes the future of AI-powered coding and development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/25/2026 0:51:51",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260724-426",
+    "title": "Wildfires increase 57% in Europe over four years, WHO warns",
+    "slug": "wildfires-increase-57-in-europe-over-four-years-who-warns",
+    "content": "Wildfires are intensifying across Europe, prompting the World Health Organization (WHO) to issue a warning about a sharp rise in fire incidents and their escalating impact on public health. The organization noted that the frequency and scale of wildfires have increased in recent years, driven by hotter, drier conditions and changing land‑use patterns, and that these events are now affecting larger populations than before.\n\nAccording to WHO data, the health toll of wildfire smoke includes respiratory and cardiovascular problems, with vulnerable groups such as children, the elderly, and individuals with pre‑existing conditions at heightened risk. The agency has urged governments to strengthen early‑warning systems, improve air‑quality monitoring, and ensure that emergency response teams have adequate resources to protect communities and mitigate long‑term health consequences.\n\nThe WHO’s call for action underscores the need for coordinated regional strategies to address both the environmental drivers of wildfires and their human health implications. As Europe continues to grapple with these challenges, authorities are urged to prioritize prevention, preparedness, and public health safeguards to reduce the growing burden of wildfire‑related illnesses.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/25/2026 0:51:42",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260724-425",
     "title": "Trump and Zelenskyy Scheduled to Meet in Washington",
     "slug": "trump-and-zelenskyy-scheduled-to-meet-in-washington",
