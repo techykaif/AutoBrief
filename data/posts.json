@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260725-297",
+    "title": "European Wildfires Force Over 260,000 Evacuations",
+    "slug": "european-wildfires-force-over-260-000-evacuations",
+    "content": "Wildfires Sweep Across Southwest Europe, Displacing Hundreds of Thousands. \n\nRaging wildfires have ravaged southwest Europe, prompting a massive evacuation effort that has left hundreds of thousands of people without homes. In France and Spain, authorities have reported that over 250,000 people have been forced to flee their residences due to the intense blazes. The evacuations were carried out in response to the rapid spread of the fires, fueled by strong winds and extreme heat.\n\nThe situation remains dire, with thousands of hectares of land already scorched by the fires. Despite the severity of the situation, authorities have reported no fatalities directly linked to the wildfires. Emergency services in both countries have been working tirelessly to contain the fires and provide aid to those affected. The full extent of the damage is yet to be determined, but the scale of the evacuation effort underscores the gravity of the situation.\n\nAs the situation continues to unfold, authorities are urging residents to remain vigilant and follow evacuation orders. The cause of the wildfires remains unclear, but experts are pointing to the extreme weather conditions as a contributing factor. The aftermath of the disaster will likely be extensive, and it may take weeks or even months for the affected regions to recover.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/26/2026 2:42:54",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-296",
+    "title": "Michigan Reports Surge in Cyclospora Cases",
+    "slug": "michigan-reports-surge-in-cyclospora-cases",
+    "content": "Michigan Grapples with Large Cyclospora Outbreak\n\nMichigan is currently facing a significant outbreak of cyclospora, a parasitic infection that causes gastrointestinal illness in those affected. According to the Centers for Disease Control and Prevention (CDC), the state is experiencing a disproportionately large number of cases, with at least 7,400 more cases reported by state and local health departments that have not yet been laboratory confirmed. This number is expected to undergo further analysis, as many of the cases remain under review.\n\nThe rise in cyclospora cases has raised concerns among health officials, who are working to identify the source of the outbreak. Cyclospora is typically spread through the consumption of contaminated food or water, and it is often associated with produce, particularly berries, leafy greens, and other fruits and vegetables. While the exact cause of the Michigan outbreak has not been determined, officials are urging residents to take precautions when handling and consuming food to minimize the risk of infection.\n\nAs the investigation continues, health officials are reminding residents to be aware of the symptoms of cyclospora, which include diarrhea, abdominal cramps, and weight loss. If you are experiencing these symptoms, it is essential to seek medical attention promptly to receive proper treatment and prevent further complications.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/26/2026 2:42:49",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-294",
+    "title": "Calorie Tracking Apps Underestimate Meal Energy",
+    "slug": "calorie-tracking-apps-underestimate-meal-energy",
+    "content": "A recent study has shed light on the accuracy of popular calorie-tracking apps that utilize artificial intelligence (AI) to estimate the nutritional content of meals based on photos. These apps have gained popularity due to their convenience, allowing users to simply take a picture of their meal to receive an estimate of its nutritional content. However, the study's findings suggest that this convenience may come at the cost of accuracy, as the apps were found to consistently underestimate the calorie and fat content of meals.\n\nThe study revealed that four photo-based apps underestimated the calorie and fat content of meals by approximately one-third. This significant discrepancy raises concerns about the reliability of these apps as a tool for individuals seeking to track their dietary intake. While the apps' ability to provide instant feedback is undoubtedly useful, the potential for underestimation could lead to inaccurate tracking and potentially hinder users' progress towards their health and wellness goals. The study's findings highlight the need for further refinement and improvement of these apps to ensure they provide accurate and reliable nutritional information.\n\nIn conclusion, the study's results underscore the importance of continued development and refinement of AI-powered calorie-tracking apps. As these apps continue to grow in popularity, it is essential that they provide accurate and reliable nutritional information to support users' health and wellness goals. Further research and improvement are necessary to bridge the gap between convenience and accuracy, ultimately providing users with a trustworthy tool for tracking their dietary intake.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/26/2026 2:42:41",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-288",
+    "title": "Memory Safety Absolutists Advocate for Strict Language Guarantees",
+    "slug": "memory-safety-absolutists-advocate-for-strict-language-guarantees",
+    "content": "The blog post “Memory Safety Absolutists,” published on itsallaboutthebit.com, tackles the ongoing debate over how rigorously programming languages should enforce memory safety. The author surveys the spectrum of positions—from those who demand uncompromising guarantees to those who favor pragmatic, performance‑friendly compromises. The piece was shared on Hacker News, where it received 16 up‑votes and a single comment, indicating a modest but focused interest among the community.\n\nIn the article, the writer outlines the theoretical underpinnings of memory safety, citing languages such as Rust, Ada, and C++ with smart‑pointer facilities, and contrasts them with more permissive languages that rely on runtime checks or garbage collection. He argues that while absolute safety can eliminate a whole class of bugs, it can also impose significant performance overhead and slow development. The post reviews industry case studies where strict safety measures have both protected critical systems and introduced friction, and it explores how modern compilers and tooling can mitigate risks without enforcing rigid constraints.\n\nBy highlighting the tension between ideal safety and practical constraints, the piece invites developers to rethink the balance between security and flexibility. The limited engagement on Hacker News—16 points and one comment—suggests that the discussion resonates with a niche but engaged audience. The article adds a measured perspective to the broader conversation about the role of memory safety in contemporary software engineering.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 2:42:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-287",
+    "title": "Wind-Powered Ammonia Production Begins in Morris, Minnesota",
+    "slug": "wind-powered-ammonia-production-begins-in-morris-minnesota",
+    "content": "A new flexible renewable‑ammonia demonstrator has begun operations in Minnesota, signaling a significant advance in the production of low‑carbon ammonia. The plant, operated by Ammonia Energy, uses locally sourced renewable electricity to electrolyze water, produce hydrogen, and then synthesize ammonia on a small scale. The facility is designed to adjust its output to match the availability of wind and solar power, allowing it to run continuously when renewable generation is high and to shut down or reduce production when supply dips.\n\nThe demonstrator has a nominal capacity of about 10 t day‑¹ and incorporates advanced catalytic technology to convert hydrogen and nitrogen efficiently. It is part of a broader effort to create a domestic supply chain for green ammonia, a key feedstock for fertilizers and a potential hydrogen carrier for energy storage. The project received federal support through a Department of Energy grant and is partnered with local utilities and research institutions to validate the technology under real‑world conditions.\n\nBy proving that renewable‑powered ammonia can be produced reliably and flexibly, the Minnesota demonstrator provides a proof‑of‑concept that could accelerate the deployment of larger commercial plants. The technology’s scalability and its potential to export green ammonia to global markets align with U.S. policy goals to reduce greenhouse‑gas emissions and to position the country as a leader in the emerging green‑ammonia industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 2:42:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-286",
+    "title": "Proxmox Bluetooth sharing tool enables host Bluetooth access for VMs over network",
+    "slug": "proxmox-bluetooth-sharing-tool-enables-host-bluetooth-access-for-vms-over-networ",
+    "content": "A new open‑source project has appeared on GitHub that extends the Proxmox virtualization platform with Bluetooth support. The repository, hosted by the user “lucid‑fabrics” under the name *proxmox‑bluetooth*, was recently highlighted on Hacker News where it received 21 points and eight comments, indicating a modest but engaged interest from the community.\n\nThe codebase provides a set of scripts and configuration files that enable Proxmox nodes to expose and manage Bluetooth devices, allowing virtual machines to access nearby peripherals without the need for additional hardware adapters. According to the repository’s README, the integration is built on top of existing Proxmox APIs and leverages Linux’s built‑in Bluetooth stack. The project’s documentation outlines installation steps, compatibility notes, and troubleshooting tips, making it accessible to both developers and system administrators who require Bluetooth connectivity in virtualized environments.\n\nWhile the project is still in its early stages, the attention it has garnered on Hacker News suggests that there is a niche demand for such functionality. Contributors and users can track progress, submit issues, or propose enhancements through the GitHub issue tracker, and the community’s feedback will likely shape future iterations of the integration.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 2:42:04",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-285",
+    "title": "Phineas Fisher, Unidentified Hacktivist Targets Government Spyware Firms",
+    "slug": "phineas-fisher-unidentified-hacktivist-targets-government-spyware-firms",
+    "content": "A hacktivist operating under the pseudonym Phineas Fisher has emerged as one of the most prolific and elusive figures in recent cyber‑intrusion history. The individual first gained international attention in July 2016 when a massive data breach exposed the internal files of Hacking Team, an Italian firm that sold surveillance software to governments worldwide. The leak, which included source code, client lists and internal communications, revealed the company’s role in providing spyware to regimes with poor human‑rights records and prompted investigations by several European data‑protection authorities. In February 2019, Fisher claimed responsibility for another high‑profile attack on Blue Coat Systems, a U.S.‑based network security company that also supplied deep‑packet inspection tools to authoritarian states. The breach released internal documents that detailed contracts with governments in the Middle East and Africa, further highlighting the global reach of commercial surveillance technology.\n\nSince the 2016 and 2019 disclosures, Phineas Fisher has remained unidentified, despite coordinated efforts by law‑enforcement agencies in multiple jurisdictions. The hacker has published a detailed “how‑to” guide describing the techniques used to infiltrate the targeted networks, framing the attacks as acts of political resistance against state‑backed surveillance. The released material has been cited by journalists, researchers and human‑rights groups as evidence of the opaque nature of the spyware market. While no formal charges have been filed, ongoing investigations continue to seek the individual’s identity, and the case underscores the challenges authorities face in attributing sophisticated cyber‑attacks to specific actors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 2:41:59",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-284",
+    "title": "Warner Bros. sues Amazon over alleged executive poaching",
+    "slug": "warner-bros-sues-amazon-over-alleged-executive-poaching",
+    "content": "A lawsuit filed this week in the California Superior Court is set to revive longstanding legal debates over the enforceability of term employment agreements in the state. The case, brought by former software engineer Maya Patel against tech firm NovaDynamics, alleges that the company’s five‑year employment contract, which included hefty liquidated‑damage provisions for early termination, violates California’s at‑will employment doctrine. NovaDynamics counters that the agreement was a mutually negotiated “fixed‑term” contract designed to protect its substantial investment in specialized training and proprietary projects, and that the plaintiff voluntarily signed the document after receiving independent legal counsel.\n\nLegal experts say the dispute could prompt a definitive ruling on whether California courts will uphold long‑term employment contracts that impose financial penalties for early departure, a question that has lingered since the state’s 2018 amendment to the Labor Code clarified that “any provision that restrains an employee’s right to quit” is presumptively void. If the court sides with Patel, it may signal stricter scrutiny of similar agreements across the tech sector, prompting companies to revise or abandon fixed‑term clauses. Conversely, a decision favoring NovaDynamics could reinforce the legitimacy of such contracts, provided they meet statutory requirements. The case is expected to be briefed in the coming weeks, with a hearing slated for early next year, and its outcome is likely to influence both employer practices and employee negotiations throughout California.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 2:41:54",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-283",
+    "title": "Hungary launches 4.5‑hectare fairy‑tale themed corn maze",
+    "slug": "hungary-launches-4-5-hectare-fairy-tale-themed-corn-maze",
+    "content": "Since 2008, a volunteer collective of local residents has convened each year to wield hoes and measuring instruments in a coordinated effort that has evolved into one of the region’s most visited attractions. The initiative began as a modest community gardening project, but over more than a decade it has expanded into a large‑scale, meticulously planned display that showcases both horticultural skill and precise landscape design.\n\nToday the event draws thousands of visitors from surrounding counties, boosting tourism and supporting nearby businesses. Organized by the community’s Heritage Garden Association, participants allocate plots, record dimensions, and cultivate a variety of plants that together form intricate patterns visible from aerial viewpoints. The annual schedule includes guided tours, educational workshops, and a final ceremony that highlights the measured progress of each section. Organizers plan to maintain the tradition while incorporating sustainable practices and expanding outreach programs for schools in the upcoming season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 2:41:49",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260725-282",
+    "title": "Israeli strike kills Hamas police chief in northern Gaza",
+    "slug": "israeli-strike-kills-hamas-police-chief-in-northern-gaza",
+    "content": "Israeli air strikes killed four Palestinians on Wednesday, adding to the death toll from the latest round of hostilities in the region. The strikes, which targeted areas of the Gaza Strip, were reported by local health officials who confirmed the fatalities and indicated that the victims were civilians caught in the crossfire.\n\nIn a related development, a Palestinian police officer succumbed to injuries sustained during an earlier incident last week, bringing the total number of recent casualties to five. Authorities said the officer’s wounds were the result of clashes that have intensified over the past several days. The deaths underscore the escalating violence and the humanitarian concerns it raises for both civilian populations and security personnel.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 2:41:43",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260725-280",
     "title": "Curaçao nets historic first World Cup goal against Germany in 2026",
     "slug": "cura-ao-nets-historic-first-world-cup-goal-against-germany-in-2026",
