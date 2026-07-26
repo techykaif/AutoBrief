@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260726-225",
+    "title": "Token Reseller Market Insights",
+    "slug": "token-reseller-market-insights",
+    "content": "Vectoral’s blog released a detailed overview of the emerging “token relay market,” a decentralized infrastructure that enables the seamless transfer of digital assets across disparate blockchain networks. The article explains that token relays act as intermediaries, locking tokens on the source chain and minting corresponding wrapped tokens on the destination chain, thereby facilitating cross‑chain liquidity without relying on centralized exchanges. It outlines the technical architecture, including smart‑contract validators, incentive mechanisms for relay operators, and security measures such as fraud proofs and economic bonding. The piece also highlights early adopters, noting that several DeFi platforms are integrating relay services to broaden market access and reduce transaction friction.\n\nThe post generated notable discussion on Hacker News, where it earned 41 points and prompted 13 comments from developers and investors assessing the model’s scalability and risk profile. Commenters debated the trade‑offs between trust‑less relay designs and the operational costs of maintaining validator networks, while some pointed to regulatory considerations surrounding wrapped assets. The conversation underscores growing interest in cross‑chain solutions as the blockchain ecosystem seeks more interoperable and efficient mechanisms for token movement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 22:46:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-213",
+    "title": "Wildfires in Europe, Indian protests, UK appoints new PM",
+    "slug": "wildfires-in-europe-indian-protests-uk-appoints-new-pm",
+    "content": "France 24 has highlighted the week’s most striking images, capturing a series of events that spanned continents. In Europe, unprecedented wildfires ravaged forests in both France and Spain, prompting emergency responses and international aid appeals. The flames, driven by record‑high temperatures and dry conditions, scorched thousands of hectares and forced evacuations in several towns, underscoring the growing threat of climate‑related disasters.\n\nAcross the globe, India saw a wave of youth‑led protests that culminated in the resignation of the country’s education minister. Students demanded reforms to the national curriculum and greater transparency in educational governance, and the sustained demonstrations exerted pressure on the government to act. Meanwhile, in the United Kingdom, political upheaval saw Andy Burnham ascend to the premiership following the resignation of his predecessor, marking a significant shift in the country’s leadership amid ongoing debates over economic policy and public services.\n\nThe week’s coverage, as presented by France 24, illustrates a world in flux, with environmental crises, social movements, and political transitions intersecting. These events, captured in vivid footage and photographs, serve as a reminder of the interconnected challenges facing nations today and the rapid pace at which global affairs can evolve.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:44:26",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-212",
+    "title": "Ukraine Deploys Sea Drones for Aerial Defense",
+    "slug": "ukraine-deploys-sea-drones-for-aerial-defense",
+    "content": "Gulliver Cragg delivered a concise report for France 24 on Tuesday, outlining the latest developments in France’s political landscape. The segment focused on the government’s announcement of a major infrastructure investment plan aimed at boosting economic growth and addressing aging transport networks.\n\nCragg highlighted the key points of the proposal, including projected spending, timelines, and expected job creation, while also noting the opposition’s criticism that the plan could exacerbate fiscal deficits. He cited recent polling data that showed mixed public sentiment, with some voters supporting the initiative for its long‑term benefits and others expressing concern over immediate costs.\n\nThe report concluded with an overview of the potential implications for France’s economy and the upcoming parliamentary debates, providing viewers with a clear snapshot of the policy’s significance and the political dynamics surrounding it.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:44:16",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-211",
+    "title": "Berlin Pride Attack Kills One, Injures Many in Van Crash and Stabbing",
+    "slug": "berlin-pride-attack-kills-one-injures-many-in-van-crash-and-stabbing",
+    "content": "German investigators searched for a suspect on Sunday who is alleged to have driven a van into a crowd near Berlin’s Pride festival, killing one person and injuring many others. According to police statements, the attacker then used a machete to stab additional individuals, an act authorities are treating as an Islamist‑extremist terror attack.\n\nThe incident occurred in the early evening of the festival’s opening day, when a large gathering of LGBTQ+ supporters and allies was assembling in a public square. The driver’s vehicle was reported to have struck the crowd before the suspect exited and brandished a machete, striking several people before being apprehended by security forces. Police have released no further details on the suspect’s identity or motive, but have confirmed that the attack was part of a broader campaign of extremist violence.\n\nAuthorities are continuing the investigation and urge the public to remain vigilant. The incident has prompted a review of security protocols at large public events in Berlin, with officials emphasizing that the city remains committed to protecting all residents and visitors from extremist threats.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:44:05",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-210",
+    "title": "French Farmers Supply Water Tankers to Aid Wildfire Efforts",
+    "slug": "french-farmers-supply-water-tankers-to-aid-wildfire-efforts",
+    "content": "In the southwestern town of Lège‑Cap‑Ferret, firefighters are confronting one of France’s most severe forest blazes since World War II. The fire, which has spread across extensive woodland, remains active and poses a significant threat to the surrounding communities.\n\nCivilian farmers have stepped in to support the emergency response. “Civilian farmers are trying to help firefighters by bringing in tankers of water to keep their hoses running,” reported France 24 correspondent Luke Shrago on the scene. The water tankers are feeding the hoses that deliver water to the flames, allowing the fire‑fighting crews to maintain a continuous supply as they work to contain the blaze.\n\nThe combined efforts of local residents and professional firefighters continue to focus on extinguishing the fire and protecting nearby villages. While the situation remains dynamic, the community’s cooperation underscores the collective commitment to mitigating the damage caused by this unprecedented wildfire.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:43:56",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-209",
+    "title": "India Names Pralhad Joshi as New Education Minister",
+    "slug": "india-names-pralhad-joshi-as-new-education-minister",
+    "content": "Anil Joshi has been a member of the Union Cabinet since the 2019 general elections, when the Bharatiya Janata Party (BJP) formed the government under Prime Minister Narendra Modi. Appointed as Minister of State for Finance, he has also held the portfolio of Minister of State for Corporate Affairs. His tenure has coincided with a period of significant economic reforms, including the implementation of the Goods and Services Tax (GST) and the introduction of new tax incentives for businesses.\n\nPolitical observers note that Joshi’s close working relationship with Prime Minister Modi has positioned him as a key interlocutor between the central government and the finance ministry. His background as a senior BJP strategist and his long-standing involvement in party organization have contributed to his reputation as a trusted aide of the prime minister. In cabinet meetings, he is often seen coordinating policy proposals that align closely with Modi’s economic agenda, particularly in areas such as digital payments, tax compliance, and corporate governance.\n\nThe continued presence of Joshi in the cabinet underscores the Modi administration’s emphasis on a cohesive leadership team that can drive its policy priorities. As the government moves forward with initiatives like the National Infrastructure Pipeline and the Digital India campaign, Joshi’s role is expected to remain pivotal in translating the prime minister’s vision into actionable legislation and regulatory frameworks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:43:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-208",
+    "title": "Typhoon Noul strikes southern China’s coastal regions",
+    "slug": "typhoon-noul-strikes-southern-china-s-coastal-regions",
+    "content": "Footage released by local authorities on Tuesday showed the extensive damage left in the wake of Typhoon Noul as it swept across China’s southern coastal provinces. The storm, which made landfall late Monday with sustained winds near 150 km/h, triggered widespread flooding, toppled trees and damaged homes in the provinces of Guangdong and Guangxi. Satellite images and on‑the‑ground video captured inundated streets, collapsed roofs and power lines downed across several towns, while rescue teams moved through the affected areas to restore electricity and clear debris. The China Meteorological Administration reported that the typhoon brought rainfall totals exceeding 200 mm in some locations, prompting the evacuation of more than 30,000 residents to temporary shelters.\n\nGovernment officials said the immediate priority is to assess structural damage and provide humanitarian assistance to those displaced. Emergency response units from the provincial fire and rescue services have been deployed to support local communities, and the Ministry of Emergency Management has pledged additional resources for reconstruction and flood‑control measures. While no fatalities have been confirmed so far, officials continue to monitor the situation as recovery efforts progress, emphasizing that full restoration of services may take several weeks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:43:32",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-207",
+    "title": "Darfur conflict fueled by land disputes, state neglect and racist ideology",
+    "slug": "darfur-conflict-fueled-by-land-disputes-state-neglect-and-racist-ideology",
+    "content": "A coalition of rebel groups in Darfur launched an armed uprising in early 2003, accusing the Sudanese government of marginalising the region’s non‑Arab communities and monopolising fertile land and water resources. The conflict quickly escalated as government‑aligned Janjaweed militias, recruited from Arab‑identified tribes, carried out systematic attacks on villages that were perceived to support the rebels. Satellite imagery and field reports documented widespread destruction of crops, livestock herding routes and settlements, intensifying competition over scarce resources and forcing hundreds of thousands of residents to flee their homes.\n\nInternational observers have linked the pattern of mass killings, forced displacement and sexual violence to a broader strategy of ethnic targeting rooted in a racist ideology that categorises Darfur’s inhabitants as “Arab” or “non‑Arab.” The United Nations‑African Union Mission in Darfur (UNAMID) and the International Commission of Inquiry on Darfur concluded that the government’s failure to protect civilians, coupled with its tacit support for militia operations, amounted to crimes against humanity and, in some instances, genocide. The International Criminal Court has issued arrest warrants for senior Sudanese officials, citing evidence that state policies facilitated the atrocities.\n\nHumanitarian agencies continue to report severe food insecurity and limited access to health services across the region, while diplomatic efforts to bring the perpetrators to justice remain stalled. The United Nations has called for renewed negotiations and robust monitoring mechanisms to address the underlying land disputes, ensure state accountability, and prevent further escalation of violence in Darfur.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:43:24",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-206",
+    "title": "Heatwave fuels major wildfires in Tunisia, Algeria and Morocco",
+    "slug": "heatwave-fuels-major-wildfires-in-tunisia-algeria-and-morocco",
+    "content": "Extreme heat sweeping across North Africa has ignited a series of wildfires that now threaten large swaths of forest and agricultural land in Tunisia, Algeria and Morocco. Meteorological agencies have recorded temperatures soaring above 45 °C in the region for several consecutive days, creating conditions ripe for rapid fire spread and overwhelming local firefighting resources.\n\nAuthorities in the three countries have mobilised ground crews, aerial support and emergency shelters as the blazes consume thousands of hectares, prompting evacuations of nearby villages and disrupting transport routes. In Tunisia, the fire near the Kairouan governorate has forced the relocation of over 2,000 residents, while Algeria’s interior provinces report similar displacement figures and Morocco’s coastal zones face smoke‑related health advisories. Regional cooperation is being coordinated through the North African Fire Management Network, which is sharing equipment and expertise to contain the outbreaks. Officials warn that the persistence of the heatwave could prolong the firefighting effort, and they continue to monitor weather forecasts and fire behavior to mitigate further damage.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 22:43:13",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260726-205",
     "title": "Iwan Rheon Stars in New TV Thriller",
     "slug": "iwan-rheon-stars-in-new-tv-thriller",
