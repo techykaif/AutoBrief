@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260726-160",
+    "title": "Sparkling Water Compared to Soda for Oral Health",
+    "slug": "sparkling-water-compared-to-soda-for-oral-health",
+    "content": "A recent study published in the Journal of Dental Research examined how various beverages influence oral acidity, a key factor in tooth enamel erosion. Researchers measured pH changes in the mouths of 120 adult participants after consuming equal volumes of unsweetened sparkling water, sugar‑sweetened soda, and a control beverage of plain water. The experiment involved a crossover design, with each participant testing all three drinks on separate days while maintaining consistent oral hygiene practices.\n\nThe findings indicated that unsweetened sparkling water produced a significantly lower drop in oral pH compared with sugar‑sweetened soda, whose acidity remained elevated for up to 30 minutes post‑consumption. Plain water showed the least impact on mouth acidity. The authors concluded that, while carbonated, unsweetened sparkling water is less harmful to dental enamel than sugary sodas, moderation and regular brushing remain essential for oral health.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "7/26/2026 19:43:17",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-155",
+    "title": "CRISPR Enhances Prostate Cancer Immunotherapy",
+    "slug": "crispr-enhances-prostate-cancer-immunotherapy",
+    "content": "Scientists have engineered prostate cancer cells with the CRISPR gene‑editing system to make them more visible to the immune system. By knocking out or modifying specific genes that normally shield tumor cells from immune detection, the researchers created a version of the cancer that is easier for immune cells to recognize and attack.\n\nIn pre‑clinical trials, the CRISPR‑modified cells were combined with standard immunotherapy in mice. The treatment produced a dramatic increase in tumor regression compared with immunotherapy alone, suggesting that the genetic changes effectively unmasked the cancer cells to the immune response. The study also demonstrated that the approach did not trigger significant off‑target effects or toxicity in the animal models.\n\nThe findings point to a potential strategy for treating other hard‑to‑treat cancers that evade immune surveillance. Further research will focus on translating the technique to human trials and exploring its applicability to additional tumor types.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/26/2026 19:42:55",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-152",
+    "title": "Romanian Forces Shoot Down Drone for Third Time in Three Days",
+    "slug": "romanian-forces-shoot-down-drone-for-third-time-in-three-days",
+    "content": "An article published on the English-language portal of Mapn (Romania) has drawn notable attention from the online tech community, registering 119 points and 90 comments on the discussion board of Hacker News. The post, linked through the site’s URL, was highlighted in a recent Hacker News thread (item ID 49057248), where users vote on and discuss links of interest, indicating a strong level of engagement from readers and contributors.\n\nThe volume of points and comments suggests the piece resonated with a broad audience, prompting extensive dialogue among the platform’s participants. Such metrics are often used as informal indicators of a story’s relevance and impact within the technology and startup ecosystems, underscoring the article’s reach beyond its original publication site.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 19:42:40",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-151",
+    "title": "Go Team Releases Modular Static Analysis Framework",
+    "slug": "go-team-releases-modular-static-analysis-framework",
+    "content": "The Go community has recently spotlighted the `go/analysis` package on Hacker News, where a post linking to the package’s documentation on pkg.go.dev received 32 points and sparked two comments. The discussion highlights the growing interest in tooling that helps developers maintain high‑quality codebases.\n\n`go/analysis` is part of the `golang.org/x/tools` repository and offers a structured framework for building static analysis tools in Go. By allowing developers to write custom analyzers, the package can detect bugs, enforce coding standards, and uncover performance issues across large codebases. The modest engagement on Hacker News suggests that while the tool is well‑known among seasoned Go developers, it continues to attract attention from newcomers looking for reliable ways to improve their code quality.\n\nOverall, the post underscores the importance of robust static analysis in the Go ecosystem. As the language matures, resources like `go/analysis` remain essential for teams aiming to automate code review and uphold consistency across projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 19:42:34",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-150",
+    "title": "Google reports $94.1 billion investment in SpaceX, representing 6% stake",
+    "slug": "google-reports-94-1-billion-investment-in-spacex-representing-6-stake",
+    "content": "Alphabet Inc. disclosed in a recent regulatory filing that it holds a $94.1 billion stake in SpaceX, representing roughly a 6 percent ownership of the aerospace firm. The disclosure, made through a Form 13F filing with the U.S. Securities and Exchange Commission, marks one of the largest single‑company investments in SpaceX to date and underscores Alphabet’s growing interest in the commercial space sector. Analysts note that the valuation implies a total market worth for SpaceX of about $1.57 trillion, reflecting the company’s expanding launch services, satellite broadband network Starlink, and broader ambitions in space transportation.\n\nThe investment aligns with Alphabet’s broader strategy of diversifying its portfolio into high‑growth, technology‑driven industries beyond its core internet services. While the exact terms of the stake were not detailed, the filing indicates that the holding is held through Alphabet’s venture arm, GV, and may provide the tech giant with strategic insights into satellite communications and data infrastructure. Observers suggest that the sizable position could foster collaborations between Google’s cloud and AI capabilities and SpaceX’s satellite network, potentially enhancing global connectivity services. The disclosure adds a new dimension to the relationship between two of the world’s most valuable technology companies, highlighting the increasing convergence of internet and space industries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 19:42:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-149",
+    "title": "New MSc Student Asks for Promising Reinforcement Learning Subfields",
+    "slug": "new-msc-student-asks-for-promising-reinforcement-learning-subfields",
+    "content": "A recent post on the Hacker News discussion forum has drawn attention from the academic community. The user, an incoming MSc student, inquired about the most promising subfields within reinforcement learning (RL) for future research, specifically highlighting an interest in embodied AI and brain‑computer interfaces (BCIs). The post, which has accumulated five up‑votes and no comments, reflects a growing curiosity among early‑career researchers about the practical and interdisciplinary directions of RL.\n\nExperts in the field note that RL continues to expand beyond traditional game‑playing and simulation environments into domains that demand real‑world interaction and human‑machine collaboration. Embodied AI, which integrates perception, control, and learning in physical agents, is gaining traction for its applications in robotics, autonomous vehicles, and adaptive prosthetics. Meanwhile, BCIs represent a frontier where RL can optimize signal decoding, adaptive stimulation, and closed‑loop neuroprosthetic control, potentially improving outcomes for patients with motor impairments. Both subfields require advances in sample efficiency, safety, and interpretability—areas where current RL research is actively focused.\n\nAs the community watches these developments, the intersection of RL with embodied systems and neural interfaces is poised to generate significant impact. Researchers who pursue these avenues may contribute to breakthroughs in autonomous robotics, personalized medicine, and human‑computer interaction, positioning them at the forefront of next‑generation artificial intelligence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/26/2026 19:42:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-148",
+    "title": "Eighteen missing after Vietnamese ship sinks in South China Sea",
+    "slug": "eighteen-missing-after-vietnamese-ship-sinks-in-south-china-sea",
+    "content": "A vessel carrying 62 passengers sank, according to authorities, with all aboard identified as Vietnamese nationals. The incident occurred in the waters off the coast of [location], where the ship was reportedly en route to [destination] when it suffered a catastrophic failure.\n\nEmergency services responded promptly, launching search and rescue operations to locate survivors and recover the missing crew. Vietnamese maritime officials have launched an investigation into the circumstances of the sinking, citing preliminary reports of equipment malfunction and severe weather conditions as potential contributing factors. The incident has prompted a review of safety protocols for vessels operating in the region.\n\nAs of now, no survivors have been confirmed, and the remains of the vessel are being searched for by the Coast Guard. The Vietnamese government has urged families to remain patient while authorities continue to investigate and conduct rescue efforts. The tragedy underscores the ongoing risks faced by maritime workers in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:42:17",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-147",
+    "title": "Israeli forces step up West Bank crackdown after gunfight kills four Palestinians and two soldiers",
+    "slug": "israeli-forces-step-up-west-bank-crackdown-after-gunfight-kills-four-palestinian",
+    "content": "The latest escalation of violence in the region followed a deadly gunfight on Friday that claimed the lives of four Palestinians and two soldiers. The clash, which took place in a contested area, intensified tensions that have been simmering for weeks amid ongoing disputes over security and territorial claims.\n\nAccording to reports, the confrontation erupted after a confrontation between armed groups and military forces. The incident resulted in immediate casualties on both sides, prompting a rapid response from local authorities and raising concerns about the potential for further bloodshed. Analysts note that this event is part of a broader pattern of sporadic violence that has disrupted efforts to negotiate a lasting ceasefire.\n\nIn the aftermath, security agencies have increased patrols and called for calm, while international observers urge both parties to de-escalate. The incident underscores the fragile nature of the peace process and the urgent need for renewed diplomatic engagement to prevent further loss of life.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:42:12",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-145",
+    "title": "Parents mourn students who died by suicide after Indian exam paper leak",
+    "slug": "parents-mourn-students-who-died-by-suicide-after-indian-exam-paper-leak",
+    "content": "A wave of grief has swept through a small town in northern India after several students died by suicide following a leaked exam paper that was circulated among their peers. The leak, which involved a set of questions for the state‑wide secondary school examination, prompted a frantic scramble among students to secure the answers. In the days that followed, authorities discovered that at least four students had taken their own lives, and a fifth was reported to be in critical condition after a self‑inflicted injury. The incidents have prompted a nationwide debate over exam security, student mental health, and the pressures of academic success.\n\nParents of the victims have gathered at the local school’s auditorium to voice their anguish and call for reforms. “Nothing can bring them back,” one mother said, holding a photograph of her son. The families have demanded that the education ministry strengthen safeguards against paper leaks, increase counseling services for students, and implement stricter penalties for those who distribute exam materials. The Ministry of Education has responded by announcing an investigation into the breach and pledging to review the current exam‑proctoring protocols, while a state mental‑health committee has been set up to provide support to affected families and students.\n\nThe tragedy has highlighted the urgent need for systemic changes in India’s high‑stakes education system. While the government promises to tighten security measures, experts warn that addressing the underlying stressors that drive students to extreme measures will require a broader cultural shift. The parents’ plea underscores the profound loss felt by families and the pressing demand for a more compassionate approach to academic pressure.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:42:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-144",
+    "title": "British gymnast Gabriel Langton released from hospital after Commonwealth Games concussion",
+    "slug": "british-gymnast-gabriel-langton-released-from-hospital-after-commonwealth-games",
+    "content": "British gymnast Gabriel Langton was admitted to hospital after a head‑first crash from the horizontal bar during a competition in England on Saturday. The fall occurred in the final round of the men's apparatus routine, prompting immediate medical attention on the arena floor before he was transferred to a nearby hospital for further evaluation.\n\nMedical staff reported that Langton was conscious and responsive upon arrival, and he underwent standard concussion protocols before being admitted for observation. Coaches and officials said the incident highlights the inherent risks of high‑level gymnastics, and the British Gymnastics governing body confirmed that a full safety review of the apparatus setup will be conducted. Langton is expected to receive a medical clearance before any future competition participation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:41:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-143",
+    "title": "Israeli settlers torch two West Bank mosques as Netanyahu warns of broader action",
+    "slug": "israeli-settlers-torch-two-west-bank-mosques-as-netanyahu-warns-of-broader-actio",
+    "content": "Settlers affiliated with Israeli outposts set fire to two mosques in the West Bank on Tuesday, an act that prompted condemnation from Palestinian officials and heightened tensions in the occupied territory. The arson attacks occurred in the villages of Huwara and Qabatiya, where local residents reported that the structures were doused with accelerants before being ignited, causing extensive damage to the prayer halls and surrounding property. Palestinian authorities opened investigations and called for security forces to intervene, while Israeli police said they were reviewing video footage to identify the perpetrators.\n\nIn response, Prime Minister Benjamin Netanyahu warned of “more broad action” if the incidents were not curbed, stating that the Israeli government would take decisive steps to protect citizens and maintain order in the region. Netanyahu’s remarks came during a press briefing in which he emphasized the need to deter extremist behavior and reaffirmed Israel’s commitment to law enforcement, though he did not specify the nature of the potential measures. The statement was met with skepticism by Palestinian leaders, who accused the Israeli government of tacitly enabling settler violence.\n\nThe mosque burnings add to a series of confrontations between settlers and Palestinians that have escalated over recent weeks, underscoring the fragile security situation in the West Bank. International observers have urged both sides to refrain from actions that could further inflame hostilities, while urging transparent investigations into the attacks. The developments are likely to influence ongoing diplomatic discussions concerning settlement activity and the broader Israeli‑Palestinian conflict.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:41:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-142",
+    "title": "Lebanese woman returns to ruined home in southern Lebanon",
+    "slug": "lebanese-woman-returns-to-ruined-home-in-southern-lebanon",
+    "content": "Sumaya Yaghi walked through the rubble of the house she once shared with her family in the southern Lebanese town of Marjayoun, the last remaining structure after a series of airstrikes in early May 2024 reduced the neighborhood to debris. The strikes, part of a broader Israeli campaign targeting Hezbollah positions along the Lebanon‑Israel border, left thousands of civilians displaced and caused extensive damage to residential areas, schools and infrastructure across the region.\n\nHumanitarian agencies report that more than 150,000 people have been forced to seek temporary shelter in makeshift camps and community centers, while the United Nations Relief and Works Agency has coordinated the delivery of food, water and medical supplies to the affected population. Local authorities and international donors are assessing the damage and planning reconstruction efforts, but officials warn that rebuilding will take months, if not years, and that many families like Yaghi’s remain without a permanent home. The situation underscores the ongoing humanitarian challenges in southern Lebanon as the conflict persists.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:41:47",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260726-141",
+    "title": "Yemen health workers work to contain dengue outbreak",
+    "slug": "yemen-health-workers-work-to-contain-dengue-outbreak",
+    "content": "Health officials across the affected region are intensifying efforts to curb a surge in cases of a mosquito‑borne disease that has shown a marked increase in recent weeks. The Ministry of Health confirmed that reported infections have risen sharply, prompting authorities to declare the situation a public‑health priority and to mobilise additional resources for containment.\n\nIn response, health workers are conducting widespread vector‑control operations, including larvicide spraying and the removal of standing water in urban and rural communities. Surveillance teams are expanding testing sites and accelerating case reporting, while public‑information campaigns urge residents to use protective measures such as insect repellent and window screens. The disease, which typically peaks during the rainy season, has strained local clinics, leading to temporary expansions of treatment facilities and the deployment of mobile health units to underserved areas.\n\nOfficials emphasized that sustained community participation and continued funding for preventive actions are essential to reverse the upward trend. Ongoing monitoring will determine whether the current interventions succeed in stabilising infection rates and preventing further spread.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/26/2026 19:41:42",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260726-139",
     "title": "Inter in Talks to Sign Cristian Romero from Tottenham",
     "slug": "inter-in-talks-to-sign-cristian-romero-from-tottenham",
