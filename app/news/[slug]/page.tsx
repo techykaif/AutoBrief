@@ -11,6 +11,16 @@ import { getPostBySlug, getPostsByCategory, getAllPosts } from "@/lib/data-sourc
 
 export const revalidate = false
 
+// getAllPosts() now returns only the bounded "recent window" written by
+// scripts/export/export-posts.ts (data/posts.json), not the full archive —
+// so this only prerenders recent articles at build time.
+// dynamicParams defaults to true, but is set explicitly here because the
+// whole point of the archive split is relying on it: a slug outside the
+// recent window (i.e. an archived post) still renders correctly, just on
+// first request instead of at build time, then caches indefinitely
+// (revalidate = false) like the prerendered pages.
+export const dynamicParams = true
+
 interface PageProps {
   params: Promise<{ slug: string }>
 }

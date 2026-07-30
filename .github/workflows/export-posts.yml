@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/posts.json
+          git add data/
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           ARTICLE_COUNT="${{ github.event.inputs.articles_count }}"
           git commit -m "data: update posts.json (+${ARTICLE_COUNT} articles) [$(date -u '+%Y-%m-%dT%H:%M:%SZ')]"

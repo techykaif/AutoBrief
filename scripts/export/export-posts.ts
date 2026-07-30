@@ -6,6 +6,19 @@ import * as path from "path"
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
 
+// How many of the most recent posts stay in data/posts.json and get
+// statically prerendered (generateStaticParams) at build time. Everything
+// older is sharded into data/archive/YYYY-MM.json and rendered on first
+// request instead (see dynamicParams in app/news/[slug]/page.tsx). Tune
+// this to trade off build time vs. how much of the site is prebuilt.
+const RECENT_WINDOW_SIZE = 500
+
+function monthKey(isoDate: string): string {
+  const d = new Date(isoDate)
+  if (isNaN(d.getTime())) return "undated"
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`
+}
+
 async function getAccessToken(): Promise<string> {
   const client = new JWT({
     email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
@@ -137,12 +150,63 @@ async function exportPosts() {
   console.log(`✅ ${posts.length} published posts found`)
 
   const dataDir = path.join(process.cwd(), "data")
+  const archiveDir = path.join(dataDir, "archive")
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true })
 
-  const outputPath = path.join(dataDir, "posts.json")
-  fs.writeFileSync(outputPath, JSON.stringify(posts, null, 2), "utf-8")
+  // posts[] is already sorted newest-first, so the split is a straight slice.
+  const recentPosts = posts.slice(0, RECENT_WINDOW_SIZE)
+  const archivedPosts = posts.slice(RECENT_WINDOW_SIZE)
 
-  console.log(`📄 Exported to ${outputPath}`)
+  // --- recent window: this is what generateStaticParams() prerenders ---
+  const postsPath = path.join(dataDir, "posts.json")
+  fs.writeFileSync(postsPath, JSON.stringify(recentPosts, null, 2), "utf-8")
+  console.log(`📄 Wrote ${recentPosts.length} recent posts to ${postsPath}`)
+
+  // --- archive: full rebuild every run, so wipe and re-shard from scratch ---
+  // (mirrors posts.json itself, which is always rebuilt from the full sheet —
+  // this keeps a single source of truth and auto-heals any prior bad shard)
+  if (fs.existsSync(archiveDir)) {
+    fs.rmSync(archiveDir, { recursive: true, force: true })
+  }
+  fs.mkdirSync(archiveDir, { recursive: true })
+
+  const shards = new Map<string, typeof posts>()
+  const archiveIndex: Record<string, string> = {}
+  for (const post of archivedPosts) {
+    const key = monthKey(post.publishedAt)
+    if (!shards.has(key)) shards.set(key, [])
+    shards.get(key)!.push(post)
+    archiveIndex[post.slug] = key
+  }
+
+  for (const [key, shardPosts] of shards) {
+    const shardPath = path.join(archiveDir, `${key}.json`)
+    fs.writeFileSync(shardPath, JSON.stringify(shardPosts, null, 2), "utf-8")
+  }
+  console.log(`🗄️  Archived ${archivedPosts.length} posts across ${shards.size} monthly shard(s)`)
+
+  const archiveIndexPath = path.join(dataDir, "archive-index.json")
+  fs.writeFileSync(archiveIndexPath, JSON.stringify(archiveIndex), "utf-8")
+
+  // Lightweight totals so API routes (e.g. /api/status) can report accurate
+  // counts without loading every shard into memory.
+  const metaPath = path.join(dataDir, "meta.json")
+  fs.writeFileSync(
+    metaPath,
+    JSON.stringify(
+      {
+        totalPosts: posts.length,
+        recentCount: recentPosts.length,
+        archivedCount: archivedPosts.length,
+        archiveMonths: Array.from(shards.keys()).sort().reverse(),
+        generatedAt: new Date().toISOString(),
+      },
+      null,
+      2
+    ),
+    "utf-8"
+  )
+
   console.log(`🕒 Timestamp: ${new Date().toISOString()}`)
 }
 
