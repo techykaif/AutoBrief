@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260729-488",
+    "title": "Frontier AI Models Vulnerable to Jailbreaking Techniques",
+    "slug": "frontier-ai-models-vulnerable-to-jailbreaking-techniques",
+    "content": "Researchers at a leading tech firm have developed a new tool designed to test the model safeguards of four major frontier companies: Meta, Google, Microsoft, and Amazon. These safeguards are implemented to prevent AI models from generating harmful or biased content. The tool, which has not been publicly disclosed, was created to evaluate the effectiveness of these safeguards in real-world scenarios.\n\nAccording to sources, the tool was able to bypass the safeguards of all four companies, generating content that was deemed unacceptable by the platforms' moderation policies. However, the results varied across the platforms, with some generating more sensitive or explicit content than others. The tool's success in bypassing the safeguards raises concerns about the potential for malicious actors to exploit these vulnerabilities and create harm online. It also highlights the need for continued investment in AI safety research and more effective model safeguards.\n\nThe findings of the study have sparked a debate among industry experts and regulators about the need for more robust safeguards and greater transparency in AI development. While the four major frontier companies have not commented on the specific findings, they have emphasized their commitment to AI safety and their ongoing efforts to improve their model safeguards. As the use of AI continues to grow, the need for effective safeguards and responsible AI development has become increasingly pressing.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:22:02",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-486",
+    "title": "Jumanji: Open World trailer blends gaming and real-world visuals",
+    "slug": "jumanji-open-world-trailer-blends-gaming-and-real-world-visuals",
+    "content": "A new immersive attraction titled *Jumanji: The Jungle* opened at the Adventure World theme park on May 15, drawing visitors who expected a high‑intensity jungle adventure reminiscent of the 1995 film. The experience, developed by tech‑gaming firm Quest Interactive, combines motion‑sensing ride vehicles with augmented‑reality overlays that simulate wildlife encounters, puzzles, and a dynamic jungle environment. According to the park’s press release, the attraction is designed to last 12 minutes and is marketed as a family‑friendly, interactive game that encourages teamwork and problem‑solving.\n\nEarly attendees and reviewers have noted that the simulation diverges from the original film’s tone and narrative. One participant, speaking to the park’s media team, remarked, “I’m beginning to suspect we are not in Jumanji,” highlighting that the game’s storyline and pacing feel more like a guided tour than the chaotic, game‑based adventure that defined the franchise. Critics have pointed out that the attraction’s focus on safety and accessibility—such as pre‑ride briefings and adjustable difficulty levels—differs from the unpredictable, high‑stakes nature of the movie’s board‑game premise.\n\nThe park has responded by emphasizing that the attraction is a distinct experience rather than a direct adaptation. It remains open to the public, with a capacity of 1,200 riders per day. The launch has sparked discussion among fans and industry observers about how contemporary entertainment venues reinterpret classic media properties for modern audiences.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:21:47",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-485",
+    "title": "AMD Linux Patch Optimizes Steam Deck Performance",
+    "slug": "amd-linux-patch-optimizes-steam-deck-performance",
+    "content": "A recent development in Enhanced Performance Profile (EPP) mode has yielded significant improvements in frame rates, particularly in the \"1% low\" metric. This advancement is notable for its impact on the overall performance of systems utilizing EPP mode, as it directly affects the smoothness and responsiveness of graphical outputs. The \"1% low\" frame rate is a critical measure, as it represents the minimum frame rate that a system can maintain 99% of the time, making it a key indicator of performance consistency.\n\nThe improvement in EPP mode efficiency has resulted in a substantial increase of approximately 32% in \"1% low\" frame rates. This jump in performance is a significant enhancement, as higher frame rates contribute to a more seamless and engaging user experience. The boost in efficiency is likely due to optimizations in the EPP mode's ability to manage and allocate system resources, allowing for better handling of demanding graphical workloads. As a result, systems operating in EPP mode can now deliver more consistent and higher frame rates, even in the most demanding scenarios.\n\nThe enhanced performance in EPP mode is expected to have a positive impact on various applications, including gaming and graphics-intensive workloads. With the improved \"1% low\" frame rates, users can expect a more responsive and immersive experience. Overall, the development represents a significant step forward in optimizing system performance, and its effects are likely to be noticed by users who rely on EPP mode for their graphical needs.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:13:20",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-484",
+    "title": "Microsoft Fights to Patch Exploits Before Hackers Discover Them",
+    "slug": "microsoft-fights-to-patch-exploits-before-hackers-discover-them",
+    "content": "Microsoft is intensifying its internal security operations to identify and remediate software vulnerabilities before they can be weaponized by malicious actors. The technology company has initiated a proactive effort to close security gaps ahead of potential cyberattacks, reflecting a strategic emphasis on preemptive defense within its global software infrastructure.\n\nEngineering teams are currently working at an accelerated pace",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:13:13",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-483",
+    "title": "Boeing Starliner Spacecraft Launch",
+    "slug": "boeing-starliner-spacecraft-launch",
+    "content": "Boeing CEO Kelly Ortberg has expressed optimism about the company's current situation, stating \"We're feeling pretty good about that.\" This statement suggests a sense of confidence and positivity within the company, which could be attributed to various factors such as recent achievements, successful projects, or a strong financial performance. As one of the leading players in the aerospace industry, Boeing's outlook can have significant implications for the market and its stakeholders.\n\nThe context of Ortberg's statement is not explicitly provided, but it can be inferred that it may be related to recent developments or announcements made by the company. Boeing has been working to overcome various challenges in recent years, including issues with its 737 MAX aircraft and the impact of the COVID-19 pandemic on the aviation industry. If the company has made significant progress in addressing these challenges, it could be a reason for the CEO's positive sentiment. Additionally, Boeing's performance in areas such as defense contracts, space exploration, and commercial aviation could also be contributing factors to Ortberg's optimistic outlook.\n\nIn conclusion, Boeing CEO Kelly Ortberg's statement indicates a positive mood within the company, which could be a result of recent successes or progress made in key areas. As the company continues to navigate the complexities of the aerospace industry, its outlook will be closely watched by investors, customers, and competitors alike. Further information and updates from Boeing will be necessary to fully understand the context and implications of Ortberg's statement, but for now, it appears that the company is feeling confident about its position and future prospects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:13:06",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-476",
+    "title": "Ofgem to charge datacentre projects for grid access to reduce connection backlog",
+    "slug": "ofgem-to-charge-datacentre-projects-for-grid-access-to-reduce-connection-backlog",
+    "content": "Britain’s energy regulator, Ofgem, has unveiled a new policy that will require large datacentre developers to provide upfront financial security before they can connect to the national power grid.  Under the proposal, projects will need to submit letters of credit, bonds or cash deposits that could amount to hundreds of millions of pounds, a move aimed at curbing speculative developments that are perceived to clog the grid‑connection queue.\n\nThe regulator said the measure is designed to protect essential services such as hospitals, schools and housing projects that are currently waiting for grid access.  By imposing a financial barrier, Ofgem hopes to discourage datacentre proposals that lack solid business plans or realistic timelines, thereby speeding up the approval process for infrastructure that is deemed more critical to public welfare.\n\nIf implemented, the new rules will shift the financial burden of grid connection from the national grid operator to the developers themselves, potentially reshaping investment decisions in the UK’s growing data‑centre sector.  The policy is still under review, but it signals a broader effort to manage the country’s expanding demand for electricity and to ensure that essential services receive priority in the grid‑connection queue.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 1:12:35",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-475",
+    "title": "England Over Half in Drought, Environment Agency Reports",
+    "slug": "england-over-half-in-drought-environment-agency-reports",
+    "content": "The UK Environment Agency released an urgent alert on Thursday, noting that rivers across England and Wales are running critically low, forcing farmers to harvest crops earlier than planned. The agency also warned that the dry conditions are heightening wildfire risk and that millions of residents are now subject to strict water‑use restrictions.\n\nThe warning follows a prolonged period of below‑average rainfall and a heatwave that has stressed the country’s water infrastructure. Low river flows have reduced the availability of irrigation water, compelling growers to cut yields to preserve crop viability. Simultaneously, the dry, heat‑stressed vegetation has increased the likelihood of uncontrolled fires, prompting the agency to tighten fire‑prevention measures. Water restrictions, which limit household and commercial usage, have been imposed in many regions to conserve the remaining supplies.\n\nIn light of these developments, the Environment Agency has urged local authorities, farmers, and the public to monitor water levels closely and to adopt water‑saving practices. The agency will continue to assess the situation and adjust restrictions as necessary to mitigate the escalating risks to agriculture, the environment, and public safety.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:30",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-474",
+    "title": "Japan Earthquake Causes Widespread Destruction",
+    "slug": "japan-earthquake-causes-widespread-destruction",
+    "content": "A powerful earthquake struck central Japan on Tuesday, registering a magnitude of 7.2 on the Richter scale and leaving widespread destruction across several prefectures. The epicenter was located near the city of Nagano, approximately 200 kilometres south of Tokyo, and the seismic event triggered extensive aftershocks that rattled the region for several hours. Immediate reports indicate that more than 1,200 buildings, including schools, hospitals, and residential complexes, suffered significant structural damage, and several bridges and highways were temporarily closed due to safety concerns.\n\nEmergency services were dispatched to the hardest-hit areas, with the Japan Self‑Defense Forces and local police coordinating rescue operations. According to preliminary figures released by the Ministry of Health, Labour and Welfare, 45 people have been confirmed dead and 312 injured, many of whom are trapped in collapsed structures. Utility companies have reported widespread power outages and disruptions to water supply, prompting the government to activate disaster relief protocols and allocate emergency funds for reconstruction and medical assistance.\n\nThe Japanese government has urged residents to remain vigilant for potential landslides and further aftershocks, while international aid agencies have pledged support for relief efforts. Officials are conducting a comprehensive assessment of the damage and will provide updates as more detailed casualty and infrastructure reports become available.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:24",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-473",
+    "title": "Fire breaks out on two ships at Egypt's Damietta port",
+    "slug": "fire-breaks-out-on-two-ships-at-egypt-s-damietta-port",
+    "content": "Oil ministry officials confirmed that a recent incident involving two vessels at the port caused no injuries, and that normal operations are expected to resume overnight. The incident, which occurred earlier this week, prompted an immediate response from port authorities and emergency services, but all crew members were reported safe.\n\nAccording to the ministry’s statement, the vessels were docked in the main berth when a minor collision or equipment malfunction led to a brief disruption of traffic. While the incident caused a temporary halt to loading and unloading activities, the port’s safety protocols were activated and the situation was brought under control within hours. No damage to the vessels or the port infrastructure was reported, and the ministry emphasized that the safety of personnel remained the top priority.\n\nThe port is scheduled to resume full operations by the end of the night, with all shipping schedules expected to return to normal. The ministry thanked the crew and support staff for their swift cooperation and reaffirmed its commitment to maintaining safe and efficient maritime operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:20",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-472",
+    "title": "Libyan protests demand end to power cuts and grid corruption",
+    "slug": "libyan-protests-demand-end-to-power-cuts-and-grid-corruption",
+    "content": "Libyan citizens took to the streets on Saturday to protest widespread electricity outages that have left large parts of the country without power for extended periods. Demonstrators gathered in major urban centers, including Tripoli, Benghazi and Misrata, chanting slogans that called for an end to corruption and the deterioration of the national power grid.\n\nProtesters said the cuts, which have become increasingly frequent over the past months, are a direct result of mismanagement and alleged embezzlement within the state electricity authority. They demanded transparent investigations, accelerated repairs of aging transmission lines, and the allocation of funds to modernize infrastructure. Authorities responded by deploying police to maintain order, while the Ministry of Electricity announced a review of the grid’s condition and pledged to accelerate maintenance work, though no specific timeline was provided.\n\nThe demonstrations underscore growing public frustration with service failures and perceived corruption, adding pressure on the transitional government to address the energy crisis. Officials indicated that reforms and international assistance will be pursued to restore reliable electricity supply and stabilize the sector.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:15",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-471",
+    "title": "Federal Reserve keeps interest rates unchanged amid elevated inflation",
+    "slug": "federal-reserve-keeps-interest-rates-unchanged-amid-elevated-inflation",
+    "content": "The Federal Reserve noted that the current elevated level of inflation is partially attributable to supply‑side disruptions that have pushed up prices across several sectors, most notably energy. In its latest assessment, the central bank highlighted that these supply shocks—stemming from geopolitical tensions, logistical bottlenecks and constrained production capacity—have amplified cost pressures for businesses and consumers alike.\n\nThe Fed’s statement underscores that while demand factors remain a component of price dynamics, the persistence of higher energy costs and other supply‑related price increases complicates the path toward the agency’s 2 percent inflation target. Policymakers indicated that these developments will be closely monitored as they shape future monetary policy decisions, including the timing and magnitude of any adjustments to interest rates.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:09",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-470",
+    "title": "Fauci Declines to Answer Questions at Senate Covid Origins Hearing",
+    "slug": "fauci-declines-to-answer-questions-at-senate-covid-origins-hearing",
+    "content": "Dr. Anthony Fauci, the longtime director of the National Institute of Allergy and Infectious Diseases, declined to answer questions during a Senate hearing on the origins of the Covid‑19 pandemic. The hearing, held on Tuesday, was part of a broader congressional effort to investigate how the virus emerged and spread globally. When asked about the possibility of a laboratory leak, Fauci chose to remain silent, citing the need for more evidence before providing definitive statements.\n\nThe panel, composed of members from both parties, had previously called for a comprehensive review of the pandemic’s beginnings. Fauci’s refusal to comment was met with criticism from some lawmakers who argued that transparency was essential for public trust. The hearing also addressed other aspects of the pandemic response, including vaccine rollout and public health policy, but Fauci’s silence on the laboratory leak question left the inquiry incomplete.\n\nThe Senate committee plans to continue its investigation, with additional witnesses scheduled to testify in the coming weeks. Meanwhile, Fauci’s decision to withhold answers underscores the ongoing debate over how best to balance scientific uncertainty with the public’s demand for accountability.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:04",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-469",
+    "title": "Wildfire near Bordeaux continues amid extreme heat and winds",
+    "slug": "wildfire-near-bordeaux-continues-amid-extreme-heat-and-winds",
+    "content": "Firefighters in France have been placed on high alert as a combination of soaring temperatures and strong winds raises the risk of a major wildfire in the forested area west of Bordeaux. The French civil protection agency warned that daytime temperatures are expected to exceed 38 °C (100 °F) for several consecutive days, while gusts of up to 70 km/h (43 mph) could rapidly spread any ignition across the dry vegetation that blankets the region.\n\nAuthorities have mobilized additional personnel and equipment, including aerial water bombers and ground crews, to monitor the vulnerable zones and respond swiftly to any outbreak. Local municipalities have issued fire safety advisories, urging residents to avoid open flames, refrain from discarding cigarettes, and report any signs of smoke immediately. The heightened vigilance aims to prevent a large‑scale fire that could threaten homes, wildlife habitats, and critical infrastructure in the Bordeaux hinterland.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 1:12:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260729-468",
     "title": "Hindu devotees bathe in Ganga and Saryu rivers for Guru Purnima",
     "slug": "hindu-devotees-bathe-in-ganga-and-saryu-rivers-for-guru-purnima",
