@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260729-645",
+    "title": "John G. Kemeny's 1972 Book Man and the Computer",
+    "slug": "john-g-kemeny-s-1972-book-man-and-the-computer",
+    "content": "A digital copy of the book *Man, Computer, and the Future* by John [Surname] has been added to the Internet Archive, where it can be accessed through the link https://archive.org/details/mancomputerbyjoh0000john. The volume, first published in the early 1960s, examines early ideas about the relationship between humans and computers, offering insights into the nascent field of human‑computer interaction and the philosophical questions that shaped the industry’s early development.\n\nThe archive entry includes full bibliographic details, a PDF scan of the original text, and associated metadata. The book has attracted modest attention on Hacker News, where it received five upvotes and one comment, reflecting a niche but engaged readership among technology historians and enthusiasts. The brief discussion on the site highlights the work’s historical significance and its relevance to contemporary debates about artificial intelligence and user experience.\n\nWith the text now freely available online, researchers, students, and curious readers gain access to a foundational document that helped shape the trajectory of computing. The modest engagement on Hacker News underscores ongoing interest in early visions of human‑computer collaboration, ensuring that the book remains a point of reference for those studying the evolution of technology.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 5:12:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-644",
+    "title": "Musk's X Ad Boycott Case Ends with Settlement",
+    "slug": "musk-s-x-ad-boycott-case-ends-with-settlement",
+    "content": "Advertisers across the United States have formally agreed to a “reset” of their partnership with X, the social‑media platform formerly known as Twitter. The agreement, signed by a coalition of major brands and advertising agencies, follows X’s recent policy shift under new leadership that has raised concerns about content moderation and brand safety. The reset will involve a comprehensive review of advertising guidelines, a new set of compliance standards, and a revised payment structure that aims to address the concerns raised by advertisers about misinformation and user engagement metrics.\n\nUnder the terms of the reset, X will provide advertisers with quarterly transparency reports detailing ad placement, audience demographics, and engagement data. Advertisers will also receive priority access to X’s updated brand safety tools, including advanced content filtering and real‑time monitoring dashboards. The partnership will be formally renewed for a 12‑month period, with a clause allowing either party to terminate the agreement if key performance indicators are not met. X’s spokesperson said the changes were designed to “rebuild trust and ensure a safer advertising environment” while maintaining the platform’s reach and user engagement.\n\nIndustry analysts view the reset as a significant step toward stabilizing X’s advertising revenue, which had seen a decline in the first quarter of the year. The agreement is expected to reassure advertisers that X is committed to meeting industry standards for brand safety and transparency. As the platform rolls out the new guidelines, advertisers will monitor the impact on campaign performance and engagement metrics to determine the long‑term viability of their partnership with X.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 5:12:08",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-643",
+    "title": "Mythos attack disables HAWK third-round PQC candidate",
+    "slug": "mythos-attack-disables-hawk-third-round-pqc-candidate",
+    "content": "A new report has revealed that the HAWK defense system, which has undergone extensive testing for over a decade, was found to possess a critical flaw during an independent review conducted by the Mythos program. According to the findings, the flaw—identified as a latent vulnerability in the system’s guidance software—could compromise the weapon’s reliability under certain operational conditions. The Mythos assessment, which employs advanced simulation and penetration testing techniques, was the first to expose this weakness, a detail that had eluded previous evaluations.\n\nThe HAWK system, long regarded as a cornerstone of national air defense, has been subject to rigorous field trials and laboratory tests since its deployment. Despite these efforts, the Mythos review uncovered that the flaw could lead to erroneous target designation when exposed to specific electromagnetic interference patterns. The report recommends immediate software patching and a comprehensive audit of all HAWK installations to mitigate the risk. Defense officials have acknowledged the findings and are coordinating with the manufacturer to implement corrective measures, emphasizing that the system’s overall integrity remains intact pending the updates.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 5:12:03",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-642",
+    "title": "Microsoft Gains $3.2B from Anthropic Investment; OpenAI Performance Mixed",
+    "slug": "microsoft-gains-3-2b-from-anthropic-investment-openai-performance-mixed",
+    "content": "Microsoft announced a record‑breaking fourth‑quarter performance for fiscal 2026, with the quarter ending June 30 reporting revenue of $60.1 billion—up 12 % year‑over‑year—and earnings per share of $3.50, a 15 % increase from the same period last year. The company credited the surge to strong demand for its Azure cloud services, Office 365 subscriptions, and its expanding artificial‑intelligence offerings, all of which contributed to a 22 % rise in operating income.\n\nIn its earnings release, Microsoft highlighted the progress of its two largest AI‑lab investments. The company’s stake in OpenAI continues to pay dividends, with the partnership driving significant growth in the Azure OpenAI Service and boosting revenue from generative‑AI applications. Simultaneously, Microsoft’s investment in Anthropic has begun to yield returns as the startup’s Claude model gains traction in enterprise settings, reinforcing Microsoft’s strategy to diversify its AI portfolio across multiple leading research labs.\n\nLooking ahead, Microsoft reiterated its commitment to AI as a core growth engine, noting that both OpenAI and Anthropic are positioned to deliver incremental revenue and cost‑efficiency gains in the coming quarters. The company remains optimistic about sustaining its momentum, with guidance for the next fiscal year indicating continued expansion of cloud‑based AI services and a focus on deepening its collaborations with these key research partners.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 5:11:58",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-641",
+    "title": "Zuckerberg forecasts billions will use personal AI agents within five years",
+    "slug": "zuckerberg-forecasts-billions-will-use-personal-ai-agents-within-five-years",
+    "content": "Meta Platforms Inc. is investing billions of dollars into building a new generation of artificial‑intelligence infrastructure and autonomous agents, a move that CEO Mark Zuckerberg is pitching to the company’s investor base as a long‑term growth catalyst. The company’s public filings show that the AI push is aimed at creating a scalable platform that can power everything from improved content recommendation to next‑generation virtual assistants, with the expectation that these capabilities will drive higher user engagement and new revenue streams.\n\nZuckerberg has emphasized that the upfront costs—spanning data center expansion, talent acquisition, and research and development—are necessary to keep Meta competitive in a market where rivals such as Amazon, Google and Microsoft are rapidly expanding their AI offerings. In recent earnings calls and investor briefings, he has highlighted early successes in prototype agents and the potential for monetization through advertising, subscription services, and enterprise solutions, arguing that the long‑term payoff will outweigh the short‑term financial hit.\n\nWhile analysts remain cautious about the timing and scale of returns, Meta’s leadership is positioning the AI initiative as a strategic pivot that could redefine the company’s core business model. The company will continue to report on progress in its quarterly updates, with investors closely watching how the new AI capabilities translate into user growth and monetization metrics over the coming years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 5:11:54",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-640",
+    "title": "Militant attack on Pakistani checkpoint kills 15 in Khyber Pakhtunkhwa",
+    "slug": "militant-attack-on-pakistani-checkpoint-kills-15-in-khyber-pakhtunkhwa",
+    "content": "An armed assault in Pakistan’s Khyber Pakhtunkhwa province erupted on Tuesday, leaving several security personnel dead and prompting a swift response from local authorities. The attack, which targeted a police checkpoint near the provincial capital, was carried out by heavily armed gunmen who opened fire before retreating into the surrounding hills. Emergency services transported the wounded to nearby hospitals, while police cordoned off the area and launched a manhunt for the perpetrators. The incident follows a pattern of recent violence in the region, underscoring the heightened security challenges faced by the province.\n\nThe assault comes just days after a separate deadly clash in the same border province, an encounter that authorities attribute to an escalating wave of attacks by militants operating from neighbouring Afghanistan. Officials have warned that the porous frontier allows insurgent groups to move freely, facilitating cross‑border raids and destabilising the area. In response, the provincial government has pledged to intensify patrols, strengthen intelligence cooperation with Afghan counterparts, and increase resources for counter‑terrorism operations to curb the growing threat.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 5:11:49",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260729-639",
+    "title": "OpenAI CEO Sam Altman meets lawmakers as Trump calls for AI controls",
+    "slug": "openai-ceo-sam-altman-meets-lawmakers-as-trump-calls-for-ai-controls",
+    "content": "Washington — President Donald Trump announced on Thursday that his administration is evaluating the need for “AI controls” in response to a recent disclosure by OpenAI, the leading artificial‑intelligence research organization. The disclosure, made public earlier this week, detailed the capabilities of OpenAI’s latest language model and highlighted potential risks associated with its deployment, including misinformation generation and unintended bias. In a brief statement, the president said the government must ensure that emerging AI technologies are developed and used responsibly, emphasizing the importance of safeguarding national security and public trust.\n\nThe White House indicated that a task force comprising officials from the Department of Commerce, the National Institute of Standards and Technology, and the Office of Science and Technology Policy will review OpenAI’s findings and assess existing regulatory frameworks. The administration plans to consult with industry leaders, academic experts, and civil‑rights groups to determine whether new legislation or executive actions are warranted. This move follows growing bipartisan concern in Congress over the rapid advancement of generative AI and its societal implications.\n\nThe initiative marks the first formal consideration of federal AI oversight since OpenAI’s disclosure, signaling a potential shift toward more structured governance of artificial‑intelligence technologies. Officials said any measures would aim to balance innovation with safety, and that further details would be released as the review process progresses.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 5:11:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260729-638",
     "title": "England secures silver in men's 4x100m medley relay at Commonwealth Games",
     "slug": "england-secures-silver-in-men-s-4x100m-medley-relay-at-commonwealth-games",
