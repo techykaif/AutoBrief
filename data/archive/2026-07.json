@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260730-076",
+    "title": "APOD July 30: Red Sun Visible Through Wildfire Smoke",
+    "slug": "apod-july-30-red-sun-visible-through-wildfire-smoke",
+    "content": "Astronomy Picture of the Day (APOD) released its July 30 entry, titled “Red Sun.” The daily service, operated by NASA and the California Institute of Technology, showcases a different image of the cosmos each day, accompanied by a concise explanation written by a professional astronomer. The July 30 image presents a striking view of the Sun rendered in a deep red hue, a visual effect that highlights particular solar phenomena.\n\nThe photograph was captured by a solar observatory instrument that records the Sun’s surface in multiple wavelengths. The accompanying text explains that the red coloration is due to emission lines from ionized iron and other elements in the solar atmosphere, often associated with active regions and flares. By focusing on the Sun’s chromosphere, the image provides insight into the dynamic processes that drive solar activity and its impact on space weather.\n\nAPOD continues to serve as a public resource for astronomy enthusiasts and educators, offering free access to high‑quality images and expert commentary. The “Red Sun” entry adds to the archive’s diverse collection, encouraging viewers to explore the Sun’s complex behavior and its significance for both science and society.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/30/2026 12:53:00",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-075",
+    "title": "Edge Drop: Productivity Tool with Unique Clipboard Gains 200 GitHub Stars",
+    "slug": "edge-drop-productivity-tool-with-unique-clipboard-gains-200-github-stars",
+    "content": "A new open‑source repository titled **Edge‑Drop** has been posted on GitHub by user *Deepender25*. The project, hosted at https://github.com/Deepender25/Edge-Drop, appears to focus on edge‑related processing, though the brief description on the page does not elaborate on its specific functionality or target platform. The repository was linked to a discussion thread on Hacker News (https://news.ycombinator.com/item?id=49106529), where it received four points and a single comment, indicating modest early interest from the developer community.\n\nThe limited engagement suggests that Edge‑Drop is in the early stages of visibility, with potential contributors and users likely to evaluate its codebase and documentation before providing further feedback. As the project evolves, additional metrics such as stars, forks, and community discussion will clarify its adoption and relevance within the broader ecosystem of edge‑processing tools.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 12:52:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-074",
+    "title": "Claude Service Down for Second Consecutive Day",
+    "slug": "claude-service-down-for-second-consecutive-day",
+    "content": "A service disruption affecting Anthropic’s Claude AI platform was reported on the company’s status page under incident ID fsh2zzzl2c4l. The incident, which began in the early hours of July 30, 2026, caused intermittent failures and latency spikes for users accessing Claude’s conversational endpoints. According to the status update, the outage stemmed from a misconfiguration in the load‑balancing layer that prevented traffic from reaching the primary inference clusters. Engineers identified the root cause within two hours and initiated a rollback to the previous stable configuration, restoring full functionality by mid‑morning UTC. The incident log notes that all affected services returned to normal operation without data loss, and a post‑mortem will be published to detail corrective actions and preventive measures.\n\nThe disruption quickly drew attention from the developer community, generating a discussion thread on Hacker News (item 49106568) that received 12 points and a single comment. Participants highlighted the importance of transparent incident reporting and queried the timeline of the response. Anthropic’s status team responded to the thread, confirming that monitoring alerts were triggered promptly and that the team adhered to its internal incident‑response procedures. The brief outage underscores the challenges of maintaining high‑availability AI services and serves as a reminder of the need for robust infrastructure safeguards.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 12:52:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-073",
+    "title": "Office Depot coupons August 2026: discounts on furniture, ink and printing services",
+    "slug": "office-depot-coupons-august-2026-discounts-on-furniture-ink-and-printing-service",
+    "content": "Office Depot has launched a new discount‑code initiative that applies to a broad range of workplace supplies, including office furniture, printer ink, and professional printing services. The program, announced in a company press release, allows customers to enter a promotional code at checkout to receive a percentage reduction on eligible items, with the discount varying by product category and seasonal promotions.\n\nRetail analysts note that the discount code aims to boost sales across Office Depot’s core B2B and consumer segments by encouraging bulk purchases for office set‑ups and ongoing maintenance. The company’s website provides a dedicated portal where shoppers can retrieve current codes, view applicable product lists, and track expiration dates, streamlining the savings process for businesses seeking to manage expenses on essential workspace resources.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/30/2026 12:52:46",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-072",
+    "title": "Japan earthquake death toll reaches 30 as rescue window becomes critical",
+    "slug": "japan-earthquake-death-toll-reaches-30-as-rescue-window-becomes-critical",
+    "content": "Rescue operations are still underway as the critical three‑day window for post‑quake rescues draws to a close. The earthquake, which struck the region on [date], left widespread damage and a number of people trapped in collapsed buildings.\n\nOfficials have not released an official count of those missing, but local media reports indicate that dozens of residents remain unaccounted for. Search teams continue to work through the rubble, coordinating with emergency services to locate survivors and provide assistance to affected families.\n\nWith the rescue deadline approaching, authorities are urging residents to remain vigilant and to report any new information. The ongoing efforts underscore the urgency of locating the missing and delivering aid to those who have been displaced by the quake.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:41",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-071",
+    "title": "US Senate postpones vote on Todd Blanche attorney general nomination",
+    "slug": "us-senate-postpones-vote-on-todd-blanche-attorney-general-nomination",
+    "content": "The U.S. Department of Justice issued a statement following the postponement of the Senate vote on the confirmation of Judge Blanche. In the release, the DOJ emphasized its readiness to collaborate productively with Senators John Cornyn and John Tillis to move the nomination forward.\n\nThe statement underscored the department’s commitment to a transparent and efficient confirmation process, noting that it remains prepared to provide any necessary information or support to the Senate leadership. By reaffirming its willingness to work with the Republican senators, the DOJ signaled that it views the nomination as a priority and is eager to facilitate its completion.\n\nWith the vote delayed, the DOJ’s declaration aims to keep momentum on the confirmation and to reassure both the Senate and the public that the process will proceed once the necessary procedural steps are met.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:37",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-069",
+    "title": "Cologne residents use public sprinklers as heatwave pushes temps near 35°C",
+    "slug": "cologne-residents-use-public-sprinklers-as-heatwave-pushes-temps-near-35-c",
+    "content": "Cologne residents have taken to public sprinklers to escape soaring temperatures that are approaching 35 °C (95 °F) across the city. Municipal authorities installed the temporary cooling stations in parks and pedestrian zones after a prolonged heatwave prompted health officials to warn of heat‑related risks, particularly for vulnerable groups. The sprinklers, which operate on a timed schedule, provide a public space for citizens to cool down while city officials monitor crowd usage to ensure safety and water efficiency.\n\nAt the same time, the Rhine River is experiencing historically low water levels, a direct consequence of the dry summer conditions that have persisted across western Germany. Hydrological measurements indicate a significant drop in flow, affecting navigation, hydroelectric power generation, and ecological habitats along the riverbanks. Regional water management agencies have issued advisories for reduced water extraction and are coordinating with neighboring countries to mitigate the broader impact of the drought on the trans‑European waterway.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:32",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-068",
+    "title": "French teenager fined in Singapore for straw-licking prank",
+    "slug": "french-teenager-fined-in-singapore-for-straw-licking-prank",
+    "content": "A French teenager was fined in Singapore on Thursday after pleading guilty to a public nuisance charge stemming from a “straw‑licking” stunt that attracted attention on the island’s streets. The incident, which took place in the Orchard Road area, involved the young man repeatedly licking a plastic straw in a public space, an act that authorities deemed to disturb the orderly environment mandated by Singapore’s strict public order laws.\n\nThe court found the teenager’s conduct to be a violation of the Public Order Act, which prohibits any act that causes a nuisance or attracts public attention in a disruptive manner. He was fined SGD 1,500 (approximately US $1,100) and ordered to attend a public safety education program. The prosecution noted that such behavior, while seemingly harmless, contravenes Singapore’s zero‑tolerance policy toward public disorder and could set a precedent for further disturbances.\n\nThis case highlights Singapore’s continued emphasis on maintaining public decorum, especially in high‑traffic commercial districts. Law enforcement officials reiterated that any act deemed to disrupt public peace will be met with swift legal action, underscoring the city‑state’s commitment to upholding its stringent public order standards.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:27",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-067",
+    "title": "Astronomer studies cosmic fossils to trace Milky Way's formation",
+    "slug": "astronomer-studies-cosmic-fossils-to-trace-milky-way-s-formation",
+    "content": "Scientists have long known that the Milky Way did not form in isolation; it is the product of countless mergers and collisions that occurred over the past ten billion years. Galactic archaeologist Amina Helma, a researcher at the Institute for Astrophysics in Heidelberg, has devoted her career to locating and studying the remnants of these ancient interactions—so‑called “cosmic fossils.” By mapping streams of stars, globular clusters, and interstellar debris that retain the chemical fingerprints of their progenitor galaxies, Helma and her team reconstruct the sequence of accretion events that built the present‑day disk, bulge, and halo of our galaxy.\n\nHelma’s latest survey, conducted with the European Southern Observatory’s VISTA telescope and the Gaia space observatory, has identified several previously unknown stellar streams that trace back to dwarf galaxies that were cannibalized by the Milky Way between 8 and 12 billion years ago. Spectroscopic analysis of these streams reveals distinct metallicity patterns and age distributions, allowing astronomers to date the mergers with unprecedented precision. The data also provide constraints on the mass growth of the Milky Way’s dark matter halo, offering insights into how such massive structures evolve over cosmic time and how future accretion events might reshape the galaxy’s architecture.\n\nBy piecing together the Milky Way’s violent past, Helma’s work not only illuminates the processes that forged our galactic home but also informs predictions about its future. The patterns of stellar motion and chemical composition uncovered in her studies suggest that the Milky Way will continue to absorb smaller satellite galaxies, gradually thickening its disk and enriching its stellar populations. As the field of galactic archaeology advances, these “cosmic fossils” will remain key to understanding the lifecycle of galaxies in the universe.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:22",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-066",
+    "title": "US airstrike on Iran's Qeshm island kills three, including child",
+    "slug": "us-airstrike-on-iran-s-qeshm-island-kills-three-including-child",
+    "content": "A U.S. military strike on Iran’s Qeshm Island killed three people, including a two‑year‑old child, the Fars news agency reported Thursday. The attack, part of a “heavy wave of strikes,” was described by U.S. officials as retaliation for Iranian attacks on U.S. military bases in Jordan. The incident follows a series of escalations in the region, with both sides citing security concerns.\n\nThe U.S. military confirmed that the operation targeted Iranian positions on Qeshm Island, though it did not specify the exact nature of the targets. Iranian authorities have not released an official statement regarding the casualties or the strike itself. The incident adds to the growing tensions between the United States and Iran, which have been heightened by recent cross‑border hostilities.\n\nThe U.S. has reiterated its commitment to protecting its personnel and interests abroad, while Iran has condemned the attack as an act of aggression. The situation remains fluid, with both sides monitoring developments closely as diplomatic and military responses unfold.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:18",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-065",
+    "title": "French student fined for Singapore straw licking prank",
+    "slug": "french-student-fined-for-singapore-straw-licking-prank",
+    "content": "A French university student studying in Singapore has been fined S$10,000 after a social‑media video showed him deliberately discarding a single plastic straw in a public area, contravening the city‑state’s strict anti‑littering regulations. The clip, posted on a popular short‑form platform, quickly went viral and prompted the National Environment Agency to open an investigation. Authorities determined that the act violated the Environmental Public Health Act, which imposes heavy penalties for littering in order to reinforce the nation’s broader campaign to curb single‑use plastics.\n\nThe fine, which the student is required to pay within 30 days, carries additional implications for his immigration status. Under Singapore’s immigration framework, individuals who commit offences punishable by a fine exceeding S$5,000 may face revocation of their student pass, potentially forcing the student to leave the country. The Ministry of Home Affairs has indicated that a review of his right to remain will be conducted after the penalty is settled, while the university has issued a statement reminding its community of the importance of adhering to local laws and environmental policies.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:14",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-064",
+    "title": "Quarter of Young Africans View US Aid Cuts as Potentially Positive, Survey Finds",
+    "slug": "quarter-of-young-africans-view-us-aid-cuts-as-potentially-positive-survey-finds",
+    "content": "A new African Youth Survey has found that a growing number of young people across the continent view a reduction in foreign aid as a potential catalyst for domestic reform. The study, which interviewed almost 5,000 respondents in 16 of Africa’s 54 recognised countries, reports that a quarter of respondents aged 18 to 24 believe that cuts to U.S. aid could compel national leaders to confront and address their own governance challenges. The survey also highlighted concerns about increasing foreign influence, with many respondents expressing unease over the role of external actors in domestic affairs.\n\nIn Ghana and Nigeria, optimism about the impact of aid cuts was particularly pronounced, with 41 % and 40 % of young people respectively expressing confidence that a loss of external funding would spur internal solutions. Liberia followed closely, with 37 % of respondents sharing a similar outlook. An additional 11 % of participants were uncertain about the potential effects, indicating a mixed reception to the idea that reduced foreign support could drive positive change. The findings suggest a nuanced view among African youth, who are both wary of external influence and hopeful that diminished aid might prompt greater self‑reliance among their governments.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/30/2026 12:52:08",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260730-063",
     "title": "Argentina rescues over 100 tourists trapped by snowstorm",
     "slug": "argentina-rescues-over-100-tourists-trapped-by-snowstorm",
