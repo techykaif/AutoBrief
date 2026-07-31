@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260731-365",
+    "title": "Consumer Confidence Continues to Improve in August",
+    "slug": "consumer-confidence-continues-to-improve-in-august",
+    "content": "Consumer Confidence Rebounds in July\n\nA recent report from the University of Michigan Surveys of Consumers has revealed a significant improvement in consumer sentiment, with the latest reading mirroring the early-July figure. The data indicates a notable increase of nearly 12% compared to June's reading, signaling a shift towards a more optimistic outlook among consumers. This uptick in confidence is a welcome development, considering the economic uncertainties that have been prevalent in recent months.\n\nThe University of Michigan Surveys of Consumers is a widely respected benchmark for gauging consumer attitudes and sentiment. The survey's findings provide valuable insights into consumer behavior and spending patterns, which in turn can influence economic trends. The data collected is based on a comprehensive analysis of consumer attitudes, including their perceptions of current and future economic conditions, as well as their expectations regarding personal finances and the overall economy.\n\nThe rebound in consumer confidence is a positive sign for the economy, as it suggests that consumers are more likely to engage in spending and investment activities. This, in turn, can contribute to economic growth and stability. As the survey's findings continue to be closely watched by economists and policymakers, the latest data provides a glimmer of hope for a sustained economic recovery.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 22:02:58",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-363",
+    "title": "Protein Restriction Linked to Potential Anti-Ageing Benefits",
+    "slug": "protein-restriction-linked-to-potential-anti-ageing-benefits",
+    "content": "Research on the effects of protein intake on longevity has gained significant attention in recent years, with studies in non-human animals suggesting a potential link between lower protein consumption and extended lifespan. While protein is an essential nutrient found in a wide variety of foods, including meat, dairy, and plant-based options, excessive intake has been associated with negative health outcomes. A growing body of evidence from animal studies has led scientists to explore the possibility that limiting protein intake could have a positive impact on lifespan.\n\nStudies on mice and other animals have shown that reducing protein intake can lead to increased longevity, as well as improved health markers such as reduced inflammation and improved insulin sensitivity. For example, one study found that mice fed a low-protein diet lived up to 20% longer than those on a high-protein diet. These findings have sparked interest in the potential benefits of protein restriction for human health, with some researchers suggesting that a lower protein intake could help to mitigate the risks of age-related diseases such as cancer and cardiovascular disease.\n\nWhile more research is needed to fully understand the relationship between protein intake and human lifespan, the emerging evidence from animal studies suggests that limiting protein consumption may be a promising strategy for promoting healthy aging. As the global population continues to age, understanding the optimal balance of nutrients for longevity is becoming increasingly important. Further studies will be needed to determine whether the benefits observed in animal models can be translated to humans, but the potential benefits of protein restriction are an exciting area of investigation in the field of aging research.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 22:02:50",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-357",
+    "title": "Detect Dark Matter's Mark from Your Backyard",
+    "slug": "detect-dark-matter-s-mark-from-your-backyard",
+    "content": "Dark Matter Remains an Elusive Mystery in the Universe\n\nScientists have long been fascinated by the existence of dark matter, a mysterious form of matter that is thought to make up approximately 27% of the universe's total mass-energy density. Despite extensive research efforts, the nature of dark matter remains unknown, and researchers continue to rely on indirect detection methods to study its presence. Recent studies have explored various theories, including the possibility that dark matter is composed of weakly interacting massive particles (WIMPs), axions, or even primordial black holes.\n\nResearchers have employed a range of detection techniques, including observations of galaxy rotation curves, the distribution of galaxy clusters, and the large-scale structure of the universe. These methods have provided strong evidence for the existence of dark matter, but have yet to yield direct evidence of its composition. The lack of direct detection has led some scientists to propose alternative theories, such as modified gravity models, which suggest that dark matter is not a particle at all, but rather a manifestation of the universe's gravitational behavior. As researchers continue to explore the properties of dark matter, it is clear that the mystery remains far from solved.\n\nIn the absence of direct detection, scientists are turning to innovative methods to study dark matter. One promising approach involves the use of advanced telescopes and detectors to search for the faint signals of dark matter annihilation or decay. These signals are expected to be extremely weak, but could potentially be detected with the aid of sophisticated instrumentation and sophisticated data analysis techniques. As researchers push the boundaries of our understanding, the search for dark matter remains an intriguing and complex challenge that continues to captivate the scientific community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-356",
+    "title": "Admin: Terminally Ill Patients Aren't Exempt from Medicaid Work Requirements",
+    "slug": "admin-terminally-ill-patients-aren-t-exempt-from-medicaid-work-requirements",
+    "content": "Medicaid Work Requirements Under Trump Era to be Scrutinized by Biden Administration\n\nThe Biden administration has announced plans to review the Medicaid work requirements implemented by the Trump administration, which aimed to restrict access to healthcare for millions of low-income Americans. Under the previous administration's policy, Medicaid recipients were required to work at least 20 hours a week to maintain their eligibility for the program. However, the policy was met with significant opposition from healthcare advocates, who argued that it would disproportionately affect vulnerable populations such as the elderly, the disabled, and those living in poverty.\n\nCritics of the policy pointed out that the work requirements were not only ineffective in reducing poverty but also posed a significant administrative burden on states, which were responsible for implementing and enforcing the requirements. The policy was also criticized for potentially leading to the loss of healthcare coverage for millions of Americans, as many were unable to meet the work requirements due to various circumstances. The Biden administration's move to review the policy is seen as a step towards reversing the Trump-era policy and restoring access to healthcare for those who need it most.\n\nThe review is expected to have significant implications for the future of Medicaid, a program that provides healthcare coverage to over 70 million low-income Americans. The Biden administration's decision to scrutinize the work requirements is a welcome move for healthcare advocates, who have long argued that the policy is misguided and inhumane. As the administration reviews the policy, it is likely to consider the impact on vulnerable populations and the effectiveness of the work requirements in reducing poverty.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:31",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-354",
+    "title": "A GTK4 SSH-askpass in Zig",
+    "slug": "a-gtk4-ssh-askpass-in-zig",
+    "content": "Title: Developers Explore SSH Askpass Integration in Zig Programming Language\n\nIn a recent development, programmers have been experimenting with integrating SSH askpass functionality into the Zig programming language. The SSH askpass feature allows users to securely input passwords for SSH connections without exposing them to potential eavesdroppers. This integration aims to enhance the security and usability of SSH connections within the Zig ecosystem.\n\nThe project, which is currently in its early stages, leverages the GTK4 library to create a graphical user interface for inputting SSH passwords. This approach enables developers to utilize the existing GTK4 framework, reducing the complexity and overhead associated with implementing a custom SSH askpass solution. By incorporating this feature, developers can create applications that provide a seamless and secure SSH experience for users. The ongoing development of this project is being shared publicly, allowing the community to contribute and provide feedback.\n\nAs the Zig programming language continues to gain popularity, this integration demonstrates the community's commitment to enhancing the language's capabilities and addressing real-world use cases. The successful implementation of SSH askpass in Zig has the potential to benefit a wide range of applications, from remote access tools to cloud computing platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-353",
+    "title": "AI Assistant Promises to Compensate for Relationship Incompetence",
+    "slug": "ai-assistant-promises-to-compensate-for-relationship-incompetence",
+    "content": "Tech Firm Orchid Promises AI Solution to Fix Relationship Issues\n\nOrchid, a technology company, has recently unveiled an AI-powered agent that claims to help resolve relationship problems by taking over tasks typically performed by inconsiderate partners. According to the company's advertisement, the AI agent can manage daily responsibilities, such as household chores and meal planning, allowing individuals to focus on improving their relationships. This concept has sparked interest among those seeking innovative solutions to relationship woes.\n\nThe AI agent's capabilities are centered around automating routine tasks, freeing up time and mental energy for more meaningful interactions. By offloading mundane responsibilities, Orchid's AI aims to create an environment where individuals can reconnect and strengthen their relationships. The company emphasizes that its product is not a replacement for human interaction but rather a tool to facilitate it. Critics, however, have raised concerns about the potential consequences of relying on technology to solve relationship issues.\n\nWhile the idea of leveraging AI to improve relationships is intriguing, its long-term effectiveness remains to be seen. As with any relationship issue, addressing underlying communication and emotional problems is crucial for a lasting resolution. Orchid's AI agent may serve as a temporary solution, but it is unclear whether it can provide a sustainable fix to the complexities of human relationships.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:20",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-352",
+    "title": "AI-Generated Melodramas Gain Popularity Online",
+    "slug": "ai-generated-melodramas-gain-popularity-online",
+    "content": "A recent surge in viral content online has captured the attention of millions, with tales of good triumphing over evil spreading rapidly across social media platforms. These stories, often presented as heartwarming and uplifting, have been viewed and shared extensively, with some earning hundreds of thousands of views within a matter of days. However, a closer examination of these viral tales reveals a surprising truth: nearly all of them are artificially generated by AI algorithms designed to maximize clickbait potential.\n\nBehind the scenes, AI-powered content creation tools have been used to craft these sensational stories, often with the intention of generating ad revenue. These tools employ natural language processing and machine learning to create engaging narratives that tap into users' emotions, making them more likely to click and share the content. While some may view these AI-generated tales as harmless, they can also have a negative impact on the online discourse, contributing to the spread of misinformation and the erosion of trust in online content.\n\nAs the online landscape continues to evolve, it is essential to remain aware of the role of AI-generated content in shaping our online experiences. By understanding the mechanisms behind these viral tales, we can better navigate the complexities of online information and make more informed decisions about the content we consume and share.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:14",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-351",
+    "title": "Top Robot Vacuum Models of 2026: Shark and Eufy Options",
+    "slug": "top-robot-vacuum-models-of-2026-shark-and-eufy-options",
+    "content": "As households continue to prioritize convenience and efficiency, robot vacuums have become an increasingly popular solution for maintaining clean floors. These autonomous cleaning devices have been gaining traction in recent years, offering a hassle-free alternative to traditional vacuuming methods. With their advanced navigation systems and scheduled cleaning capabilities, robot vacuums can seamlessly integrate into daily routines, freeing up time for more important tasks.\n\nRobot vacuums typically come equipped with Wi-Fi connectivity, allowing users to control and monitor their cleaning schedule remotely through smartphone apps. Many models also feature advanced sensors and mapping technology, enabling them to efficiently navigate and clean complex spaces, including rooms with multiple levels and obstacles. Moreover, some robot vacuums are designed with specific cleaning modes and settings, catering to various floor types and cleaning needs. This versatility makes them a versatile addition to any household.\n\nAs the demand for robot vacuums continues to grow, manufacturers are responding with innovative designs and features. From sleek and compact models to high-end devices with advanced navigation systems, the options are becoming increasingly diverse. With their ability to save time and effort, robot vacuums have become a valuable asset for many households, providing a convenient and efficient solution for maintaining clean and tidy floors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:09",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-350",
+    "title": "Republicans' Ability to Prosecute Anthony Fauci Under Scrutiny",
+    "slug": "republicans-ability-to-prosecute-anthony-fauci-under-scrutiny",
+    "content": "Former White House Chief Medical Advisor Dr. Anthony Fauci has been a polarizing figure in American politics, with supporters and detractors trading barbs over his handling of the COVID-19 pandemic. Recently, some prominent voices within the MAGA movement have called for Dr. Fauci to face prison time, sparking questions about the feasibility of such a scenario. Wired Magazine sought the opinions of legal experts to assess the likelihood of Dr. Fauci's prosecution.\n\nAccording to experts, Dr. Fauci would need to have committed a specific crime, such as obstruction of justice, perjury, or misuse of government funds, for a prison sentence to be possible. While some critics have accused Dr. Fauci of wrongdoing, such as allegedly concealing information about the origins of COVID-19 or promoting unproven treatments, none of these claims have been proven in a court of law. Furthermore, the Justice Department would need to take action, and any prosecution would require a high standard of evidence to secure a conviction.\n\nThe likelihood of Dr. Fauci facing prison time appears to be low, based on the opinions of the experts consulted by Wired. As the investigation into Dr. Fauci's actions continues, it remains to be seen whether any wrongdoing will be uncovered. However, at this point, it seems unlikely that a successful prosecution would be possible, and Dr. Fauci's critics may be left to continue their vocal opposition without the prospect of a prison sentence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:02:04",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-349",
+    "title": "New York Sues Kalshi Over Alleged Unlicensed Betting Operation",
+    "slug": "new-york-sues-kalshi-over-alleged-unlicensed-betting-operation",
+    "content": "New York Sues Kalshi Over Alleged Illegal Gambling Operation\n\nThe New York Attorney General's office has filed a lawsuit against Kalshi, a prediction market platform, alleging that it is operating an illegal gambling operation within the state. According to the lawsuit, Kalshi has been accepting wagers without a license from the state's gaming commission, violating New York state laws. This investigation was reportedly led by the Office of the Attorney General (OAG), which found that Kalshi's operations expose New York residents to significant personal and financial risks.\n\nThe lawsuit specifically highlights concerns that Kalshi's platform may be accessible to individuals under the age of 21, the legal gambling age in New York. The state is seeking to block Kalshi from operating within New York and is also seeking restitution. As Kalshi is headquartered in New York, the lawsuit's implications could have significant consequences for the company. The investigation and subsequent lawsuit underscore the ongoing debate surrounding the regulation of prediction markets and the fine line between legitimate financial speculation and illicit gambling.\n\nThe lawsuit marks the latest development in the ongoing scrutiny of Kalshi and similar prediction market platforms. As the regulatory landscape continues to evolve, these companies will face increasing pressure to comply with state and federal laws governing gaming and financial transactions. The outcome of this lawsuit will be closely watched as it sets a precedent for the regulation of prediction markets in New York and potentially beyond.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:01:58",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-348",
+    "title": "WhatsApp Tests New Folder for Business Messages",
+    "slug": "whatsapp-tests-new-folder-for-business-messages",
+    "content": "Meta, the parent company of WhatsApp, has announced a new feature aimed at enhancing user experience and reducing spam messages. The feature, which is set to roll out in the coming weeks, will automatically move messages from large businesses to a dedicated folder a few hours after they are received. This change is expected to benefit users who often receive unsolicited messages from companies, allowing them to easily identify and manage commercial communications.\n\nAccording to Meta, the new feature is designed to strike a balance between allowing businesses to communicate with customers and preventing spam. By moving messages from large businesses to a separate folder, users will be able to easily distinguish between personal conversations and commercial communications. This change is also expected to reduce clutter in users' chat lists, making it easier for them to focus on important conversations. The company has stated that the feature will be rolled out globally, though an exact timeline for the rollout has not been disclosed.\n\nThe new feature is part of Meta's ongoing efforts to improve the WhatsApp experience for users. With over 2 billion monthly active users, WhatsApp is one of the most widely used messaging platforms in the world. By introducing features that enhance user experience and reduce spam, Meta aims to maintain the platform's position as a trusted and reliable means of communication.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:01:53",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-346",
+    "title": "Reddit plans new video and audio feature for viral posts",
+    "slug": "reddit-plans-new-video-and-audio-feature-for-viral-posts",
+    "content": "Reddit is developing a new video‑centric feature that will allow users to watch or simply listen to the platform’s most popular posts. The initiative, announced by CEO Steve Huffman, takes inspiration from TikTok videos that pair Reddit stories with gameplay or other footage, aiming to broaden the way content is consumed on the site.\n\nHuffman said the feature is already in development and could enter testing later this year. While specific release dates remain unconfirmed, the project is part of Reddit’s broader strategy to diversify engagement and monetize its large user base. The new experience will let creators embed audio or video clips alongside text posts, potentially opening new avenues for storytelling and community interaction.\n\nIf successful, the feature could reshape how Reddit users interact with content, offering a more dynamic and accessible format. The company will monitor user feedback during the testing phase before deciding on a full rollout.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 22:01:44",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-343",
     "title": "US Automakers Discuss Electric Vehicles at Pre-Pandemic Levels",
     "slug": "us-automakers-discuss-electric-vehicles-at-pre-pandemic-levels",
@@ -5365,138 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "7/30/2026 20:02:51",
     "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-227",
-    "title": "Massive wildfire spreads in Castellon province, eastern Spain",
-    "slug": "massive-wildfire-spreads-in-castellon-province-eastern-spain",
-    "content": "Wildfires are raging across Spain, with active blazes reported in the eastern province of Castellón and the western region of Zamora. Fire crews are working around the clock to contain the flames, while local authorities have ordered the evacuation of thousands of residents from the most affected areas.\n\nThe Spanish Civil Guard and the National Fire Service have deployed ground teams, water‑bombing aircraft, and aerial water‑dropping units to the hotspots. In Castellón, the blaze has scorched more than 2,000 hectares, prompting the evacuation of over 5,000 people, while in Zamora the fire has already destroyed several hectares of forest and agricultural land, forcing the displacement of a smaller, but still significant, community. Air support has been coordinated through the Spanish Air Force and private aviation contractors, delivering water and fire retardant to hard‑to‑reach spots.\n\nAuthorities continue to monitor the situation closely, urging residents to stay away from the perimeter and to follow evacuation orders. The government has pledged additional resources to the firefighting effort and is coordinating with neighboring regions to ensure a swift and coordinated response to the ongoing wildfire crisis.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:47",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-226",
-    "title": "Ceuta asks Spain to declare emergency over Moroccan migrant influx",
-    "slug": "ceuta-asks-spain-to-declare-emergency-over-moroccan-migrant-influx",
-    "content": "Authorities in the Spanish enclave of Ceuta have formally requested that the central government in Madrid declare a national emergency and deploy military assistance to the region. The plea follows a surge of unrest in which demonstrators reportedly attempted to breach the city’s breakwaters in an effort to enter the territory, prompting concerns over public safety and potential spill‑over into the broader area.\n\nVideo footage released by local officials shows large crowds navigating the breakwater structures, a move that has raised alarms about the adequacy of existing security measures and the potential for escalation. Ceuta’s governor cited the escalating tensions and the risk of violence as reasons for the emergency request, urging the national government to act swiftly to restore order and protect residents.\n\nMadrid has yet to respond formally to the appeal, but the situation underscores the fragile security dynamics in the region. Authorities are monitoring the situation closely, while the Spanish government weighs the implications of a formal emergency declaration and the deployment of military forces to Ceuta.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:42",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-225",
-    "title": "UN experts urge aid for Rohingya refugees after suspected Myanmar boat capsizing",
-    "slug": "un-experts-urge-aid-for-rohingya-refugees-after-suspected-myanmar-boat-capsizing",
-    "content": "Independent United Nations experts called for urgent humanitarian assistance for Rohingya refugees in Bangladesh on Wednesday after reports surfaced that two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid‑July. The incident, which reportedly occurred near the Rakhine State coastline, highlights the ongoing peril faced by displaced Rohingya who continue to flee violence and persecution in Myanmar.\n\nThe experts urged the Bangladeshi government, international donors, and regional partners to accelerate rescue operations, provide immediate medical care, and ensure safe passage for refugees stranded at sea. They also emphasized the need for strengthened maritime surveillance and better coordination with local authorities to prevent future tragedies. The call follows a series of maritime incidents involving Rohingya refugees, underscoring the persistent vulnerability of this population in transit.\n\nIn conclusion, the UN specialists stressed that timely intervention is essential to avert loss of life and to uphold international obligations to protect refugees. They called for a coordinated response that includes search and rescue, medical support, and long‑term solutions to address the root causes of displacement.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:38",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-224",
-    "title": "Paul Biya 53-Day Absence Sparks Health Speculation",
-    "slug": "paul-biya-53-day-absence-sparks-health-speculation",
-    "content": "Cameroon’s 93‑year‑old President Paul Biya departed for a “brief private stay” in Switzerland on 7 June, traveling with his wife, Chantal, according to official statements. Nearly two months later, the president and first lady have not addressed the nation or appeared in public, marking a record 53‑day absence for the world’s oldest sitting head of state. The prolonged silence has sparked widespread speculation within Cameroon about Biya’s health, a subject that remains legally prohibited from public discussion in the country.\n\nGovernment spokespeople have offered no further comment on the president’s whereabouts or condition, and no official communication has been released since the Swiss trip began. The lack of information continues to fuel uncertainty among Cameroonians and international observers, while the administration maintains that the stay was intended to be brief.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:34",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-223",
-    "title": "Kenya wildlife service links 15 elephant deaths to cyanide poisoning",
-    "slug": "kenya-wildlife-service-links-15-elephant-deaths-to-cyanide-poisoning",
-    "content": "A recent investigation by the Kenya Wildlife Service (KWS) has linked the deaths of 15 elephants near a southern Kenyan park to the ingestion of pesticides.  Director‑General Erustus Kanga told Citizen TV that laboratory analysis of the carcasses revealed traces of cyanide, a chemical commonly employed in farming as a predator‑control poison and pest fumigant.  The poison is also known to be used by poachers, raising concerns about both agricultural runoff and illicit activity.\n\nThe affected elephants were found in an area adjacent to tomato farms that routinely apply cyanide‑based chemicals.  KWS officials say the animals likely ingested the compound through contaminated vegetation or water sources, leading to fatal toxicity.  The agency is coordinating with local agricultural authorities to assess the extent of chemical use and to implement measures to prevent further contamination of wildlife habitats.\n\nKWS has urged farmers to adopt safer pest‑control practices and to monitor runoff near wildlife corridors.  The service will continue to investigate the incident and collaborate with environmental and law‑enforcement agencies to mitigate risks to both wildlife and local communities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:29",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-222",
-    "title": "US State Department map of Africa mislabels all countries at AIDS 2026 conference in Brazil",
-    "slug": "us-state-department-map-of-africa-mislabels-all-countries-at-aids-2026-conferenc",
-    "content": "The U.S. State Department said it “takes full responsibility” for a map error that appeared during a presentation at the Aids 2026 conference in Rio de Janeiro, Brazil. A slide showing a map of Africa incorrectly labeled every country, prompting attendees to capture and share screenshots on social media. Reuters reviewed a video of the briefing, which was part of a broader discussion on the department’s new health agreements, and confirmed that the faulty graphic was displayed midway through the talk.\n\nIn a statement released after the incident, the State Department acknowledged the mistake, attributed it to a production oversight, and pledged to review its internal review processes to prevent similar errors. Officials emphasized that the error did not affect the substantive content of the health agreements being presented. The episode has drawn attention to the importance of accuracy in diplomatic communications, especially at high‑profile international health gatherings.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:24",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-221",
-    "title": "England Appoint Root as Test Captain, Fleming as Coach",
-    "slug": "england-appoint-root-as-test-captain-fleming-as-coach",
-    "content": "England’s cricket board announced that former Test captain Joe Root will resume the role of England’s Test skipper, while New Zealand legend Stephen Fleming will take over as head coach, replacing Brendon McCullum. The decision was confirmed in a statement released on Thursday, following a brief period of uncertainty after Root’s resignation in 2022 and McCullum’s brief interim tenure.\n\nRoot, who led England to a historic 2019 World Cup victory and captained the side for five years, had stepped down after the 2022–23 Ashes series. His return comes as England prepare for a series of high‑stakes Tests, including the upcoming home fixtures against South Africa and the Ashes in 2025. Fleming, a former New Zealand captain and former England assistant coach, brings a wealth of experience from his stints with the Black Caps and the England senior squad. McCullum, who had been appointed as a temporary caretaker coach in late 2023, was succeeded as part of a broader strategy to solidify the team’s leadership structure.\n\nThe appointment of Root and Fleming is intended to provide stability and continuity ahead of a busy international calendar. With Root’s proven leadership and Fleming’s coaching pedigree, England aim to build on recent successes and address the challenges ahead in the Test arena.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:19",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-220",
-    "title": "Besigye Reported Unconscious in Hospital",
-    "slug": "besigye-reported-unconscious-in-hospital",
-    "content": "Kizza Besigye, a prominent Ugandan opposition figure who is currently facing treason charges, was reported to be unconscious in a hospital after collapsing during a court hearing on Monday. The incident occurred while Besigye was appearing before the High Court to contest the government's case against him, which stems from alleged attempts to overthrow the state. Medical officials confirmed that he was admitted to Mulago National Referral Hospital in a critical condition, and his family was notified of his status.\n\nThe collapse has prompted renewed calls from human‑rights groups and opposition supporters for transparent medical care and a fair judicial process. Authorities have not released a detailed statement regarding the cause of the incident, but court officials indicated that proceedings were temporarily suspended pending Besigye’s condition. The development adds further tension to an already volatile political climate in Uganda, where Besigye has long been a vocal critic of President Yoweri Museveni’s administration.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:14",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-219",
-    "title": "FIFA charges Argentine FA, players and fans over World Cup violations",
-    "slug": "fifa-charges-argentine-fa-players-and-fans-over-world-cup-violations",
-    "content": "Argentina’s football authorities, players and supporters are now facing a series of formal accusations that could have far‑reaching consequences for the country’s football ecosystem. The charges, lodged by the Argentine Football Association (AFA) and supported by investigations from the national anti‑corruption agency, allege that senior officials engaged in bribery and illicit financial arrangements to secure favorable refereeing decisions in high‑stakes matches. Players are accused of accepting inducements to influence match outcomes, while fan groups are implicated in orchestrating coordinated disruptive actions at stadiums that have led to injuries and property damage.\n\nIf the allegations are proven, the ramifications could extend beyond domestic football. The AFA could face sanctions that include suspension from international competitions, loss of revenue from FIFA and CONMEBOL, and mandatory restructuring of its governance framework. Players implicated in match‑fixing could be banned from all football activities, and clubs may be fined or stripped of titles. Fan groups that have been identified as responsible for violence may see their stadiums temporarily closed and be required to implement stricter security protocols, with the potential for future bans on attendance at international fixtures.\n\nFIFA’s response will likely follow its established disciplinary procedures for breaches of the FIFA Code of Ethics and the Regulations on the Status and Transfer of Players. The governing body could issue a provisional suspension of the AFA pending a full investigation, impose financial penalties, and require the implementation of an independent oversight mechanism. Should evidence confirm the charges, FIFA may ultimately revoke the AFA’s membership, suspend Argentine clubs and the national team from international competition, and mandate comprehensive reforms to prevent recurrence of corruption or fan misconduct.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:10",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-218",
-    "title": "RSF Leader Orders Forces to Seize Khartoum",
-    "slug": "rsf-leader-orders-forces-to-seize-khartoum",
-    "content": "The Rapid Support Forces (RSF) released a video on Thursday in which its commander, Mohamed Hamdan Dagalo—commonly known as Hemedti—urged his troops to seize control of Khartoum, Sudan’s capital. In the footage, Hemedti addressed RSF soldiers, calling for an immediate offensive and emphasizing the need to secure key government sites.\n\nThe call follows a series of escalating clashes between the RSF and the Sudanese Armed Forces (SAF) that have intensified since the 2023 coup attempt. Analysts note that the RSF’s public display of intent signals a shift toward a more aggressive posture, potentially altering the balance of power in the ongoing power struggle. The Sudanese government has condemned the move, describing it as an act of aggression against the state.\n\nInternational observers have urged restraint, warning that further military action could deepen Sudan’s humanitarian crisis and destabilize the region. The RSF’s video marks a significant escalation, raising concerns about the prospects for a negotiated settlement and the safety of civilians in Khartoum.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:05",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-217",
-    "title": "Islamabad rally shows solidarity with Kashmir protests",
-    "slug": "islamabad-rally-shows-solidarity-with-kashmir-protests",
-    "content": "A rally was convened in Islamabad on Saturday to demonstrate solidarity with demonstrators in Pakistan‑administered Kashmir. Organized by local political groups and student associations, the gathering attracted several hundred participants who assembled near the Parliament House, holding placards and chanting slogans that expressed support for the Kashmiri protesters. Speakers at the event highlighted recent demonstrations in the region, describing them as a response to perceived violations of human rights and calling for greater attention from both national and international authorities.\n\nThe Islamabad demonstration forms part of a broader wave of public expression surrounding the Kashmir issue, which has seen heightened activity following a series of arrests and restrictions imposed on activists in the disputed territory. While the rally remained peaceful, police maintained a visible presence to manage crowd movement and ensure security. Officials reiterated that the government continues to monitor the situation in Kashmir and urged all parties to pursue dialogue while respecting legal frameworks.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:02:01",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260730-216",
-    "title": "New Zealand Foreign Minister Peters' remark about Chinese-born MP sparks backlash",
-    "slug": "new-zealand-foreign-minister-peters-remark-about-chinese-born-mp-sparks-backlash",
-    "content": "New Zealand’s foreign minister, Winston Peters, sparked controversy on Tuesday when he told Chinese‑born Member of Parliament Cheng Wang “go back to your own country” during a parliamentary debate on foreign policy. The remark was made in response to Wang’s criticism of New Zealand’s stance toward China, and it was captured on the official Hansard transcript, prompting immediate calls for clarification from both the opposition and the government’s own communications office.\n\nFollowing the incident, the Prime Minister’s Office issued a statement affirming that the comment does not reflect New Zealand’s values of inclusion and respect for all citizens, and the Minister later apologized, describing the remark as “ill‑judged” and “out of line with the standards of parliamentary discourse.” The Chinese‑New Zealand community, represented by the New Zealand Chinese Association, condemned the language as “racist and unacceptable,” while the parliamentary speaker announced a review of the conduct rules governing debate. The episode has reignited discussion about racial rhetoric in politics and the need for stricter enforcement of respectful dialogue in the House.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "7/30/2026 20:01:56",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
