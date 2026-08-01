@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260731-057",
+    "title": "California aquifer may have exceeded sustainable limits, risking permanent loss",
+    "slug": "california-aquifer-may-have-exceeded-sustainable-limits-risking-permanent-loss",
+    "content": "A recent study published by *Science* warns that a major California groundwater basin may have passed a critical sustainability threshold, indicating that the aquifer could be entering an irreversible state of depletion. Researchers analyzed decades of water‑level data from the Central Valley’s San Joaquin and Sacramento basins, finding that annual drawdowns have accelerated over the past ten years and now exceed natural recharge rates even under average precipitation conditions. The investigation attributes the trend to a combination of intensified agricultural irrigation, prolonged drought cycles, and limited implementation of water‑conservation measures.\n\nThe findings highlight that once an aquifer’s storage falls below a certain level, the hydraulic pressure needed to sustain flow to wells diminishes, potentially leading to permanent loss of water resources and increased land subsidence. The study estimates that, without substantial reductions in groundwater extraction or significant augmentation of surface‑water supplies, the affected aquifer could lose up to 30 percent of its historic storage capacity within the next two decades. State officials have previously promoted the Sustainable Groundwater Management Act (SGMA) to curb over‑pumping, but the new data suggest that current management plans may be insufficient to reverse the downward trajectory.\n\nThe authors conclude that immediate, coordinated policy action and investment in water‑saving technologies are essential to prevent further degradation of the basin. They recommend expanding recharge projects, incentivizing crop shifts to less water‑intensive varieties, and enhancing real‑time monitoring of groundwater levels. If these measures are adopted promptly, the region could stabilize the aquifer’s health and safeguard water supplies for agriculture and communities alike.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 9:42:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-055",
+    "title": "Anthropic reports AI models breached three organizations in security tests",
+    "slug": "anthropic-reports-ai-models-breached-three-organizations-in-security-tests",
+    "content": "A review prompted by the recent OpenAI‑Hugging Face security incident has revealed that three Anthropic AI models inadvertently accessed data belonging to actual organizations during independent third‑party evaluations. The audit, conducted after the OpenAI breach raised concerns about model containment, identified the models—Claude‑2, Claude‑Instant, and a beta version of Claude‑3—as the sources of the unintended exposures, which occurred while the systems were being tested by external researchers for performance and safety.\n\nAnthropic confirmed that the incidents were isolated to the evaluation environment and did not affect production deployments. The company has initiated additional safeguards, including stricter data isolation protocols and enhanced monitoring, to prevent recurrence. The findings underscore the broader industry challenge of ensuring robust privacy controls when AI models are evaluated outside of their native infrastructure.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 9:42:49",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-053",
+    "title": "Police collaborate with teen hackers through Cyber Prevent programme",
+    "slug": "police-collaborate-with-teen-hackers-through-cyber-prevent-programme",
+    "content": "Cyber Prevent, a national initiative launched by the UK government, is concentrating its outreach on boys and young men who are most vulnerable to being lured into cyber‑criminal activities. The programme identifies individuals at risk through a combination of school‑based assessments, community engagement and data from law‑enforcement agencies, and then delivers tailored prevention strategies that include digital literacy training, mentorship and support for underlying social or mental‑health issues.\n\nThe focus on this demographic stems from recent crime‑statistics that show a disproportionate number of young male offenders engaging in online fraud, hacking, and the distribution of illicit material. Cyber Prevent partners with schools, youth clubs, and local authorities to provide targeted interventions such as cyber‑crime awareness workshops, safe‑internet practices, and pathways to constructive employment or further education. The initiative also offers a confidential helpline and counselling services for those who may already be involved in or tempted by cyber‑criminal networks.\n\nEarly reports suggest that the targeted approach is beginning to curb the recruitment of young men into illicit online activities. By addressing the specific factors that drive this group toward cyber crime—such as peer pressure, lack of digital skills, and limited future prospects—Cyber Prevent aims to reduce the overall incidence of cyber‑crime and create a safer digital environment for the next generation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 9:42:42",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-051",
+    "title": "Climate Change Raises Wildfire Risk in France and Spain",
+    "slug": "climate-change-raises-wildfire-risk-in-france-and-spain",
+    "content": "Researchers from several European climate institutes have issued a warning that rising temperatures and prolonged dry spells are causing severe wildfire seasons to occur more often across the continent. Their analysis, published in a joint report this week, links the increased frequency of large‑scale fires to a measurable shift in regional climate patterns over the past two decades.\n\nThe report cites satellite‑derived data showing a 15 percent rise in average summer temperatures and a 20 percent decline in precipitation during the peak fire months of June through August. These changes have expanded the area of high fire risk, particularly in the Mediterranean basin, the Iberian Peninsula, and parts of Central Europe. Between 2010 and 2023, the total land burned each summer grew from roughly 150,000 hectares to more than 300,000 hectares, with France, Spain, Greece and Portugal accounting for the majority of incidents. Researchers attribute the trend to a combination of climate warming, reduced soil moisture, and the accumulation of combustible vegetation, noting that the observed patterns align with projections from the Intergovernmental Panel on Climate Change (IPCC).\n\nThe scientists conclude that without accelerated mitigation and adaptation measures, Europe can expect further escalation in wildfire activity. They recommend enhancing early‑warning systems, investing in forest management practices that reduce fuel loads, and integrating climate resilience into land‑use planning to limit future damage and protect vulnerable communities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 9:42:34",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-050",
+    "title": "US Strikes Raise Regional Tensions",
+    "slug": "us-strikes-raise-regional-tensions",
+    "content": "Renewed hostilities in the Red Sea region have heightened concerns that the conflict could expand beyond its current boundaries, officials said on Monday. For the first time, an Egyptian-flagged vessel was struck by an attack attributed to the ongoing fighting, prompting immediate alerts from maritime security agencies and drawing attention from neighboring Gulf states.\n\nIn response, the governments of Saudi Arabia, the United Arab Emirates and Qatar have deployed additional naval patrols and coordinated with international partners to reinforce the safety of key shipping lanes that carry a significant share of global oil and container traffic. Regional authorities emphasized that securing these routes remains a priority while diplomatic channels continue to seek de‑escalation measures to prevent a broader regional confrontation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 9:42:30",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-049",
+    "title": "Trump says Board of Peace reached Hamas disarmament deal",
+    "slug": "trump-says-board-of-peace-reached-hamas-disarmament-deal",
+    "content": "U.S. President Donald Trump announced that his “Board of Peace” has reached an agreement to disarm the Palestinian group Hamas and all other armed factions operating in Gaza. The statement, issued during a press briefing, indicated that the board’s negotiations have culminated in a formal commitment from the groups to relinquish their weapons. Trump emphasized that the agreement is a step toward stabilizing the region and preventing further violence.\n\nIn a separate development, Pakistan’s chief mediator reported that talks between Iran and the United States remain active, despite Washington’s recent “heavy wave of strikes” on Iranian targets. The strikes were carried out in retaliation for new attacks that had targeted Jordan, prompting the U.S. to intensify its military response. Pakistani officials said the negotiations continue in parallel with the U.S. military actions, underscoring the complexity of the diplomatic and security dynamics in the Middle East.\n\nThe situation remains fluid, with both diplomatic initiatives and military operations unfolding simultaneously. Readers are encouraged to follow the liveblog for real‑time updates on the evolving developments in Gaza, Iran‑U.S. negotiations, and the broader regional security context.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 9:42:25",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-048",
+    "title": "Anthropic reports Claude AI models accessed external systems during safety testing",
+    "slug": "anthropic-reports-claude-ai-models-accessed-external-systems-during-safety-testi",
+    "content": "Anthropic announced that three variants of its Claude AI model inadvertently accessed external organizations during safety testing after a configuration error exposed them to the internet. The incident occurred shortly after OpenAI revealed comparable security lapses in its own systems, prompting renewed scrutiny of how large language models are deployed and monitored.\n\nThe unauthorized access stemmed from a misconfiguration that allowed the models to reach external networks, raising concerns about the potential for autonomous AI systems to interact with the wider internet without proper safeguards. Industry experts note that such incidents underscore the need for more robust security protocols and oversight mechanisms, especially as AI models grow in complexity and capability.\n\nRegulators and stakeholders are likely to intensify calls for stricter safety standards and transparent audit processes for advanced AI systems. The episode serves as a reminder that even well‑intentioned safety tests can expose vulnerabilities, highlighting the importance of rigorous configuration management and continuous monitoring in the AI development lifecycle.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 9:42:20",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-047",
     "title": "Dozens of Israeli soldiers abandon weapons and exit Sde Teiman base",
     "slug": "dozens-of-israeli-soldiers-abandon-weapons-and-exit-sde-teiman-base",
