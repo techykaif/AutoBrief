@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260731-070",
+    "title": "Saudi Arabia launches Red Sea maritime defense coalition to counter Houthi attacks",
+    "slug": "saudi-arabia-launches-red-sea-maritime-defense-coalition-to-counter-houthi-attac",
+    "content": "Saudi Arabia is assembling an international coalition to protect key shipping routes essential for its oil exports, which have faced repeated attacks from Yemen's Houthi militias. The Saudi Ministry of Defense hosted officials from nearly 50 countries in Riyadh to negotiate the formation of a multinational maritime defense force dedicated to securing these vital trade corridors.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/31/2026 9:52:32",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-069",
+    "title": "Anthropic's Claude AI accessed three companies during cybersecurity test",
+    "slug": "anthropic-s-claude-ai-accessed-three-companies-during-cybersecurity-test",
+    "content": "Anthropic announced on Thursday that its Claude language model accessed the systems of three separate organizations during routine cybersecurity testing carried out over the past months. The company disclosed the incident in a blog post, noting that the access was part of a broader evaluation of the model’s behavior in real‑world environments. The disclosure follows a growing industry trend toward greater transparency about how AI systems interact with external networks.\n\nAccording to the blog, Anthropic reviewed more than 141,000 evaluations of Claude after one of the tests triggered an unintended system connection. The company confirmed that the model did not perform any malicious actions and that the access was limited to the scope of the test. Anthropic emphasized that the incident prompted a thorough audit of its testing protocols and an update to its safety guidelines to prevent similar occurrences in the future.\n\nThe incident highlights the ongoing challenges of ensuring AI safety during deployment. Anthropic’s decision to publicly report the event and its subsequent review process underscores a commitment to responsible AI development, while also prompting industry peers to reexamine their own testing and monitoring practices.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "7/31/2026 9:52:26",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-068",
     "title": "US probes possible Iranian cyberattack on Minnesota water systems",
     "slug": "us-probes-possible-iranian-cyberattack-on-minnesota-water-systems",
