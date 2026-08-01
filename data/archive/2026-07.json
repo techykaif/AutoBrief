@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260731-108",
+    "title": "Glasgow Featured in New Spider-Man Film",
+    "slug": "glasgow-featured-in-new-spider-man-film",
+    "content": "Glasgow, Scotland's largest city, has been transformed into a cinematic replica of New York City in the latest installment of the Marvel Cinematic Universe. The city's iconic landmarks and streets have been utilized as the backdrop for various scenes in the film, with production crews taking advantage of Glasgow's unique architecture to create a convincing illusion of the Big Apple. From the grandeur of George Square to the charm of the West End, Glasgow's diverse neighborhoods have been cleverly adapted to mimic the urban landscape of New York City.\n\nThe decision to film in Glasgow is a testament to the city's versatility and appeal as a cinematic destination. With its rich history, cultural attractions, and modern infrastructure, Glasgow has become an attractive location for film and television productions in recent years. The city's ability to double as New York City is a notable example of its adaptability, and the success of this project is likely to further establish Glasgow as a major player in the global film industry. The Marvel production team's choice of Glasgow as a filming location has also brought significant economic benefits to the local community, with the influx of crew members, cast, and support staff generating revenue for local businesses and services.\n\nThe use of Glasgow as a stand-in for New York City in the latest Marvel film is a notable achievement for the city's film industry, and a testament to the creativity and resourcefulness of the production team. As the film prepares for its highly anticipated release, fans of the Marvel Cinematic Universe will have the opportunity to see Glasgow's transformation into a cinematic version of New York City, and experience the city's unique charm and character in a new and exciting way. With its stunning landscapes, rich history, and vibrant culture, Glasgow has proven itself to be an ideal location for film productions, and its role in the latest Marvel installment is sure to leave a lasting impression on audiences around the world.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "7/31/2026 12:43:08",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-105",
+    "title": "Fifa Proceeds with World Cup Consultation Plan",
+    "slug": "fifa-proceeds-with-world-cup-consultation-plan",
+    "content": "FIFA has issued a statement defending its plans to sell portions of the World Cup to U.S.‑based private investors after a wave of criticism from European football associations. In the response, the governing body insisted that “nobody is selling football,” while blaming inaccurate media reports for disrupting its consultation process. The statement was issued following an emergency meeting on Thursday, in which UEFA member associations voted to boycott all FIFA tournaments—including future World Cups—unless the proposed sale is abandoned.\n\nThe controversy centers on FIFA’s proposal to license parts of the World Cup to private investors, a move that many European clubs and national associations view as a threat to the sport’s integrity and traditional revenue structures. UEFA’s decision to boycott reflects growing concerns that the sale could undermine the global competition’s fairness and commercial stability. FIFA’s statement attempts to quell the backlash by emphasizing that the sale is a strategic partnership rather than a divestiture of the sport itself.\n\nIf the boycott proceeds, FIFA will face a significant challenge in maintaining the legitimacy and financial viability of its flagship tournaments. The situation underscores the tension between commercial ambitions and the traditional governance model of international football, and the outcome will likely shape the sport’s future governance and revenue distribution.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "7/31/2026 12:42:49",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-099",
+    "title": "Drones Used for Weather Research",
+    "slug": "drones-used-for-weather-research",
+    "content": "Pre‑programmed drone flights are emerging as a new tool for studying the boundary layer, the portion of the atmosphere that extends from the ground to a few thousand metres. Traditional weather stations sit too low to capture the full vertical profile, while aircraft missions are costly. Instrumented weather balloons have long filled this gap, with thousands launched daily, yet they drift with the wind and rely on finite helium supplies, limiting their reliability and repeatability.\n\nThe U.S. company Meteomatics has developed Meteobase, a ground‑mounted base station that automatically launches and recovers a drone. The aircraft follows a pre‑programmed trajectory, collecting temperature, humidity, pressure and wind data at multiple altitudes before returning to the base to recharge and offload its recordings. The Meteobase then transmits the data to researchers, providing a cost‑effective, repeatable alternative to balloons and aircraft for boundary‑layer observations.\n\nBy combining autonomous launch and recovery with a fixed ground hub, Meteobase offers a scalable solution that can deliver high‑resolution vertical profiles on demand. The system’s ability to repeatedly sample the same atmospheric column could improve weather forecasting and climate research, particularly in regions where traditional observation platforms are sparse or expensive.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 12:42:16",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-097",
+    "title": "NGC 4372 Featured in Astronomy Picture of the Day",
+    "slug": "ngc-4372-featured-in-astronomy-picture-of-the-day",
+    "content": "Astronomy Picture of the Day (APOD) posted its July 31, 2026 image, showcasing the globular cluster NGC 4372. The daily web series, run by NASA and the Smithsonian Astrophysical Observatory, presents a new celestial image each day accompanied by a concise explanation written by a professional astronomer. The July 31 entry highlights the dense, ancient star cluster located in the constellation Carina.\n\nNGC 4372 is one of the nearest globular clusters to Earth, situated roughly 12,000 light‑years away. The APOD image captures its tightly packed core and elongated tidal tails, revealing the gravitational interactions that strip stars from the cluster over time. The accompanying text explains the cluster’s unusually high metallicity and its role in studying stellar evolution and the dynamics of the Milky Way’s halo.\n\nBy featuring NGC 4372, APOD continues its mission to make complex astronomical phenomena accessible to the public. The program’s daily outreach helps foster interest in space science and provides a reliable source of high‑quality imagery for educators, students, and astronomy enthusiasts worldwide.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 12:42:06",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-096",
+    "title": "Session Portability Issues",
+    "slug": "session-portability-issues",
+    "content": "A recent post on the Earendil blog, titled “Session Portability,” examines how web applications can maintain user session data across multiple devices and browsers. The article outlines the technical challenges of synchronizing session state, discusses common approaches such as server‑side session stores, token‑based authentication, and client‑side storage, and highlights best‑practice patterns for ensuring data consistency while protecting user privacy. The author also evaluates the trade‑offs between performance, scalability, and security that developers face when designing a portable session strategy.\n\nThe post attracted attention on Hacker News, where it received 88 up‑votes and generated 10 comments. Discussion on the platform focused on the practical implications of the suggested techniques, with commenters debating the relative merits of cookie‑based versus token‑based approaches and raising concerns about cross‑site request forgery and session fixation vulnerabilities. Several users shared experiences with real‑world implementations, noting that the choice of session storage backend can significantly impact latency and fault tolerance.\n\nOverall, the article serves as a concise reference for developers seeking to implement robust session portability in modern web applications. Its reception on Hacker News underscores the ongoing interest in this area and highlights the importance of balancing usability with stringent security controls.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:42:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-094",
+    "title": "MarbleOS Introduces Workspace GUI for AI Agent Interaction",
+    "slug": "marbleos-introduces-workspace-gui-for-ai-agent-interaction",
+    "content": "MarbleOS, created by Akilan and Miguel, reimagines how users interact with AI assistants by borrowing design cues from early graphical user interfaces such as Xerox PARC, the 1984 Macintosh, and NeXTSTEP. The founders argue that, unlike the command‑line era where users had to memorize syntax and paths, modern AI tools still require users to recall which capabilities exist and how to invoke them. Current interfaces, they note, resemble terminal commands wrapped in natural language—e.g., “/skill-name [param1] [param2]”—and leave much of the task structure invisible.\n\nTo address this, MarbleOS presents AI tasks as visual cards that can sit side by side and run concurrently. Each card displays the files, tools, and expected inputs before execution, and the output is a usable artifact such as a spreadsheet, PDF, or slide deck rather than a transcript. The goal is to reduce the cognitive load of managing multi‑step workflows and to encourage users who already employ ChatGPT or Claude to experiment with agent‑based tasks that would otherwise remain unexplored.\n\nA downloadable beta of MarbleOS is available for users interested in testing the new interface. While the team acknowledges that it is not a definitive solution for AI‑powered GUIs, they view it as an exploratory step toward a more workspace‑oriented interaction model that could broaden the adoption of agent workflows.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:41:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-093",
+    "title": "Human Honeypot article garners 10 points on Hacker News",
+    "slug": "human-honeypot-article-garners-10-points-on-hacker-news",
+    "content": "A new web service hosted at human2llm.pages.dev was submitted to the Hacker News community on July 31, 2026. The submission, identified by the item ID 49119322, generated modest engagement, accumulating ten points and a single comment in the discussion thread linked at news.ycombinator.com/item?id=49119322.\n\nThe brief activity indicates early interest in the platform, which appears to target interactions with large language models. While the content of the comment and the specifics of the service were not detailed in the available data, the posting’s reception suggests a niche audience is monitoring developments in human‑to‑LLM interfaces.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:41:45",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-092",
+    "title": "Alo Yoga Discount Codes – Save on Activewear in August 2026",
+    "slug": "alo-yoga-discount-codes-save-on-activewear-in-august-2026",
+    "content": "Alo Yoga, the Los Angeles‑based activewear label known for its premium workout apparel, announced a series of promotional incentives aimed at encouraging customers to update their fitness wardrobes. The company’s latest campaign highlights discounted pricing on a range of products, including its signature buttery‑soft leggings, street‑style athleisure pieces, and essential performance gear, all available through verified discount codes posted on the brand’s official website and partner platforms.\n\nIn addition to price reductions, Alo Yoga is offering complimentary shipping on qualifying orders and expanding its loyalty program with new perks such as early access to limited‑edition releases and additional savings for repeat shoppers. The combined incentives are intended to boost sales ahead of the upcoming seasonal collection launch while providing consumers with cost‑effective options for high‑quality activewear.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:33:15",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-091",
+    "title": "Save on Custom Window Treatments with SelectBlinds Promo Codes",
+    "slug": "save-on-custom-window-treatments-with-selectblinds-promo-codes",
+    "content": "Homeowners seeking cost‑effective ways to refresh their interiors can now take advantage of a series of targeted savings offered by SelectBlinds, a leading retailer of window treatments. The company has released a set of promotional tools that include printable coupons, time‑limited holiday sales, and exclusive discounts for first‑time buyers, all designed to lower the overall expense of new blinds, shades, and curtains. By accessing the SelectBlinds website or subscribing to its newsletter, shoppers receive a unique coupon code that can be applied at checkout, reducing the price of eligible items by a predetermined percentage or fixed amount.\n\nIndustry analysts note that the timing of these offers aligns with typical consumer spending cycles, as many buyers plan home improvement projects during seasonal sales events. To maximize the benefit, consumers are advised to combine the coupon code with any ongoing holiday promotions, verify product eligibility, and ensure the discount is applied before finalizing the purchase. New customers who register an account during the promotional period may also qualify for an additional introductory discount, further decreasing the cost of a complete window‑treatment makeover. These coordinated incentives aim to make home redecorating more affordable while driving traffic to SelectBlinds’ online platform.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:33:10",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-090",
+    "title": "Mattress Firm promo codes offer up to $700 in savings",
+    "slug": "mattress-firm-promo-codes-offer-up-to-700-in-savings",
+    "content": "Mattress Firm announced a limited‑time promotional offer that allows customers to apply a specific promo code at checkout for discounts on a selection of premium mattresses. Shoppers who use the code can receive a price reduction on top‑selling models, obtain a complimentary adjustable base with qualifying purchases, and qualify for instant credits of up to $300 that are applied directly to the order total.\n\nThe promotion, which runs through the end of the month and is available both online and in participating stores, is subject to standard terms and conditions, including eligibility restrictions on mattress models and inventory levels. Customers are advised to review the full offer details on Mattress Firm’s website to confirm applicable products and to ensure the promo code is entered correctly to receive the advertised savings and credits.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 12:33:05",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-089",
     "title": "Anthropic reports Claude AI accessed three organizations during testing",
     "slug": "anthropic-reports-claude-ai-accessed-three-organizations-during-testing",
