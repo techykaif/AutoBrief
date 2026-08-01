@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260730-503",
+    "title": "Open-Source Differential Privacy Gateway for AI Agents Released",
+    "slug": "open-source-differential-privacy-gateway-for-ai-agents-released",
+    "content": "**Differential Privacy Gateway Gains Attention in Tech Community**\n\nA recent GitHub repository has been gaining traction in the tech community, highlighting the development of a differential privacy gateway. The project, created by Yash Mahajan, aims to provide a secure and private way for users to access and utilize sensitive data. Differential privacy is a technique used to protect individual data points while still allowing for meaningful insights to be drawn from the aggregated data.\n\nThe differential privacy gateway, as described on the GitHub repository, uses a combination of cryptographic techniques and machine learning algorithms to ensure the confidentiality and integrity of user data. According to the project's documentation, the gateway can be integrated with various data sources and applications, making it a versatile tool for organizations looking to implement robust data protection measures. The project has already garnered attention on Y Combinator's Hacker News, where it has received 7 points and 0 comments, indicating a growing interest in the development.\n\nAs the use of sensitive data becomes increasingly prevalent in various industries, the need for robust data protection measures has never been more pressing. The differential privacy gateway, if successfully implemented, could provide a significant step forward in ensuring the confidentiality and integrity of user data. With its potential to be integrated with various data sources and applications, this project has the potential to make a meaningful impact in the tech community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 1:31:49",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-501",
+    "title": "Postgres queues can scale effectively",
+    "slug": "postgres-queues-can-scale-effectively",
+    "content": "The blog post “Making Postgres Queues Scale” was published on the Dbos.dev website, where the author explains how to use PostgreSQL as a message‑queue backend and what it takes to keep it performant at scale. The article focuses on architectural patterns and tuning knobs that can help a database‑centric queue handle high throughput without sacrificing reliability.\n\nKey details include the use of table partitioning, advisory locks, and efficient SELECT‑FOR‑UPDATE patterns to reduce contention. The author also presents benchmark results that compare a vanilla PostgreSQL queue to a more traditional message broker, illustrating the trade‑offs in latency and throughput. The post was shared on Hacker News, where it received 29 upvotes and one comment, indicating that the community is actively evaluating Postgres for queueing workloads.\n\nIn conclusion, the blog demonstrates that PostgreSQL can serve as a scalable queue system when its features are leveraged correctly. The modest engagement on Hacker News suggests that developers are interested in the practical guidance offered, and the article provides a solid foundation for those looking to implement or optimize a Postgres‑based queue.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 1:31:41",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260730-500",
     "title": "UEFA and National Associations Withdraw from FIFA Competitions",
     "slug": "uefa-and-national-associations-withdraw-from-fifa-competitions",
