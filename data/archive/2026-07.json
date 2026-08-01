@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260731-025",
+    "title": "LIGO Upgrades with Thermal Camera to Enhance Detection Range",
+    "slug": "ligo-upgrades-with-thermal-camera-to-enhance-detection-range",
+    "content": "Scientists at a leading research facility have made a breakthrough in resolving a long-standing issue with a highly sensitive instrument designed to detect minute distortions. The instrument, capable of measuring distortions smaller than the width of a proton, was initially hindered by a seemingly mundane problem: excessive heat. Despite its cutting-edge technology, the device was unable to operate effectively due to the thermal fluctuations affecting its delicate components.\n\nResearchers discovered that the root cause of the issue was not a complex technical problem, but rather the instrument's inability to accurately monitor and adapt to its environment. The solution, however, was surprisingly straightforward. By integrating a thermal camera, which can be easily purchased off the shelf, the team was able to accurately monitor the instrument's temperature and make the necessary adjustments to maintain optimal performance. This simple yet effective fix has allowed the instrument to function as intended, paving the way for further research and advancements in the field.\n\nThe incident highlights the importance of considering the often-overlooked aspects of complex systems, such as environmental factors, and the value of practical solutions in resolving technical challenges. By applying a common-sense approach to a seemingly intractable problem, the researchers have achieved a significant breakthrough, demonstrating that even the most sophisticated technologies can benefit from a simple and cost-effective fix.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 5:51:55",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-024",
+    "title": "Researchers Develop Eco-Friendly Method to Prevent Marine Infrastructure Rust",
+    "slug": "researchers-develop-eco-friendly-method-to-prevent-marine-infrastructure-rust",
+    "content": "Researchers at Reichman University have made a significant breakthrough in finding a more sustainable solution to protect marine infrastructure from corrosion. A recent study published in Cell Reports Physical Science presents a biological method for safeguarding metals from the corrosive effects of prolonged exposure to seawater. The innovative approach aims to replace current chemical corrosion inhibitors, which can have negative environmental impacts and be costly to implement.\n\nAccording to the study, the biological method utilizes a specialized type of bacteria that produces a protective coating on metal surfaces, preventing corrosion from occurring. This environmentally friendly alternative has the potential to significantly reduce the pollution associated with traditional corrosion inhibitors, while also providing a more cost-effective solution for marine infrastructure protection. The researchers' findings suggest that this biological method could be a game-changer for industries reliant on marine structures, such as shipping and offshore energy production.\n\nThe development of this biological method marks a significant step forward in the search for more sustainable solutions for protecting marine infrastructure. By leveraging the natural properties of bacteria, the researchers have created a potential game-changer for industries seeking to reduce their environmental footprint while maintaining the integrity of their marine assets.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 5:51:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-022",
+    "title": "Cislunar space gains focus as nations plan Moon missions",
+    "slug": "cislunar-space-gains-focus-as-nations-plan-moon-missions",
+    "content": "Cislunar space has emerged as a central focus for international space agencies as they chart plans to send crews to the Moon over the next decade. The growing interest is driven by a suite of ambitious programs that aim to establish a sustained human presence beyond Earth orbit.\n\nNASA’s Artemis program, the China–Russia International Lunar Research Station (ILRS), and the European Space Agency’s Argonaut initiative are among the most prominent projects. Each program seeks to develop lunar infrastructure—such as habitats, propulsion stations, and resource extraction facilities—that will enable regular travel between Earth and the Moon. By creating a network of support systems in cislunar space, these missions aim to lay the groundwork for deeper exploration and potential commercial development of lunar resources.\n\nThe overarching objective of these efforts is to transform the Moon from a temporary destination into a permanent outpost that supports continued scientific research, industrial activity, and the eventual extension of human presence deeper into the solar system.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 5:51:43",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-017",
     "title": "Cybersecurity Evaluations Examine Real-World Incidents",
     "slug": "cybersecurity-evaluations-examine-real-world-incidents",
