@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260730-549",
+    "title": "CareCloud Hacked, Medical Records Stolen",
+    "slug": "carecloud-hacked-medical-records-stolen",
+    "content": "A significant cybersecurity incident has been reported by a prominent health tech data giant, specializing in the management of extensive amounts of patient medical data. According to the company, its systems were recently breached by hackers who successfully targeted one of its protected health data stores. This type of incident raises serious concerns about the security and confidentiality of sensitive patient information.\n\nThe breach is likely to have significant implications for the patients whose data may have been compromised, as well as for the company itself, which is entrusted with the responsibility of safeguarding this highly sensitive information. The health tech data giant is expected to conduct a thorough investigation into the incident to determine the full extent of the breach and to identify the measures that can be taken to prevent such incidents in the future. The company will also need to notify the affected individuals and relevant regulatory authorities, as required by law.\n\nThe incident serves as a reminder of the ongoing risks and challenges associated with the storage and management of large amounts of sensitive health data. As the healthcare industry increasingly relies on digital technologies to manage patient information, the need for robust cybersecurity measures to protect against such breaches has never been more critical. The company's response to this incident will be closely watched, and it is likely that the incident will prompt a wider review of the cybersecurity practices of health tech companies and the measures in place to safeguard patient data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 2:52:41",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-544",
+    "title": "Pakistan Coal Mine Explosion Kills 11, Traps Dozens",
+    "slug": "pakistan-coal-mine-explosion-kills-11-traps-dozens",
+    "content": "Accidents continue to be a frequent hazard in Pakistan’s coal mining sector, with the province of Balochistan reporting the highest incidence. Local mines often operate without essential safety measures, including proper ventilation, structural support, and emergency response protocols, which increases the risk of collapses, explosions, and exposure to harmful gases.  \n\nThe lack of regulatory oversight has been cited by industry experts as a major contributing factor. While the federal government has issued guidelines for mine safety, enforcement remains inconsistent, and many operators rely on informal arrangements rather than formal safety plans. In recent months, several incidents have resulted in worker fatalities and injuries, prompting calls for stricter compliance and improved training for miners.  \n\nIn response, authorities have announced plans to conduct inspections and upgrade safety equipment in the most vulnerable sites. The government also aims to collaborate with mining companies to establish standardized safety procedures, though implementation timelines remain uncertain. The continued prevalence of accidents underscores the need for comprehensive reforms to protect workers in Pakistan’s coal industry.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 2:52:19",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-543",
+    "title": "Huda Ammori Secures Supreme Court Permission to Challenge Palestine Action Ban",
+    "slug": "huda-ammori-secures-supreme-court-permission-to-challenge-palestine-action-ban",
+    "content": "Huda Ammori, a former member of the UK Parliament and former chair of the Parliamentary Labour Party, has secured permission to take a legal challenge to the ban imposed on the charity Palestine Action. The Supreme Court has granted her application to appeal the decision of the Charity Commission, which deemed Palestine Action a “political organisation” and prohibited it from receiving charitable funding. Ammori argues that the ban violates her right to freedom of expression and the charity’s right to operate within the law.\n\nThe case centers on the Charity Commission’s interpretation of the 2011 Charities Act, which requires charities to maintain a “charitable purpose” and prohibits political activity that could jeopardise public trust. Palestine Action, which campaigns for Palestinian rights and has been involved in public demonstrations and lobbying, has contested the Commission’s findings, claiming that its activities are within the permissible scope of charitable work. The Supreme Court’s decision to allow the appeal brings the dispute into the highest judicial forum in the UK, underscoring the tension between regulatory oversight of charities and the protection of political expression.\n\nIf the Supreme Court ultimately upholds the ban, it would reinforce the regulatory framework that limits political activity by charities, potentially affecting other organisations engaged in advocacy. Conversely, a ruling in favour of Ammori could broaden the scope for charities to participate in political discourse, setting a precedent for future cases involving the intersection of charitable status and political campaigning. The outcome will be closely watched by both the charitable sector and civil‑rights advocates.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 2:52:14",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260730-542",
+    "title": "US probes cyberattack on Minnesota water facilities",
+    "slug": "us-probes-cyberattack-on-minnesota-water-facilities",
+    "content": "A cyberattack that compromised more than 30 water treatment facilities in the Midwestern United States was reported earlier this week. The intrusion was detected by state security officials, who confirmed that the affected plants—spread across several counties—were briefly taken offline as a precautionary measure.\n\nInvestigators say the attack involved malware designed to disrupt supervisory control and data acquisition (SCADA) systems, the technology that manages water purification and distribution. While no public health risks were identified and the facilities were restored to normal operation within hours, state regulators are conducting a comprehensive review of cybersecurity protocols and are urging local operators to strengthen defenses against similar threats.\n\nThe incident underscores the growing vulnerability of critical infrastructure to cyber threats. State officials have pledged to enhance monitoring and incident‑response capabilities, and federal agencies are offering technical assistance to help water utilities upgrade their security measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "7/31/2026 2:52:10",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260730-541",
     "title": "Georgia school shooter's father sentenced to 15 years in prison",
     "slug": "georgia-school-shooter-s-father-sentenced-to-15-years-in-prison",
