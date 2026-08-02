@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260802-251",
+    "title": "Glasgow 2026 Commonwealth Games Deemed Successful",
+    "slug": "glasgow-2026-commonwealth-games-deemed-successful",
+    "content": "The 2026 Commonwealth Games have been deemed a resounding success by Phil Batty, the chief executive of Glasgow 2026, who believes the event has the potential to continue for another 100 years. In an interview with the Guardian, Batty expressed his pride in the way the city and the Commonwealth came together to make the Games a phenomenal 11-day experience. He noted that the event not only exceeded expectations but also demonstrated the ability of major events to adapt and evolve to remain relevant in the future.\n\nThe revamped Games, which featured a reduced number of sports - 10 compared to the 19 in Birmingham four years ago - have shown a formula that makes them financially sustainable. This is a crucial factor as the Games look to the future, with the next edition set to take place in Amdavad in 2030. Batty's comments suggest that the Commonwealth Games have successfully navigated a period of change and are now well-positioned to continue thriving. The success of the 2026 Games is a significant boost to the event's reputation and will likely play a key role in shaping its future direction.\n\nIn conclusion, the 2026 Commonwealth Games have been hailed as a triumph, with Phil Batty confident that the event can endure for another century. The Games' ability to adapt and evolve has been key to their success, and the reduced sports program has provided a financially sustainable model for future events. As the Commonwealth Games look to the future, the success of the 2026 edition will undoubtedly play a significant role in shaping their continued growth and development.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/3/2026 0:13:05",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-250",
+    "title": "Australia Tops Commonwealth Games Medal Count",
+    "slug": "australia-tops-commonwealth-games-medal-count",
+    "content": "The 2026 Commonwealth Games, held in Glasgow, have come to a close with Australia emerging as the dominant force in the medal table. The country's athletes have delivered an impressive performance, securing a total of 171 medals, including 70 gold medals. This outstanding achievement solidifies Australia's position as a leading nation in the Commonwealth Games, showcasing the country's depth and talent in various sports disciplines.\n\nAustralia's success in Glasgow can be attributed to the exceptional performances of its athletes across a range of events, including track and field, swimming, and cycling. The country's medal haul is a testament to its well-structured sports programs, rigorous training regimes, and the dedication of its athletes. The 2026 Commonwealth Games have provided a platform for Australian athletes to demonstrate their skills and prowess, and their dominance in the medal table is a reflection of the country's strong sporting culture and tradition of excellence.\n\nThe conclusion of the 2026 Commonwealth Games marks the end of an exciting and competitive sporting event, with Australia's impressive medal tally serving as a highlight of the games. As the sporting community looks to future events, Australia's dominance in Glasgow will likely serve as a benchmark for other nations to strive for, and the country's athletes will undoubtedly be eager to build on their success in upcoming competitions. With their impressive performance, Australia has set a high standard for themselves and will be looking to maintain their position as a leading sporting nation in the years to come.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/3/2026 0:12:59",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-248",
+    "title": "US Restricts Foreign Journalist Visas",
+    "slug": "us-restricts-foreign-journalist-visas",
+    "content": "A recent regulation issued by the Department of Homeland Security on July 17, 2026, has introduced significant changes to the working conditions of foreign reporters in the United States. The new rule shortens the duration of I-visas, which are specifically designed for foreign media representatives, to eight months. This adjustment is expected to impact the ability of international journalists to work independently in the US, potentially limiting their capacity to conduct in-depth reporting and investigations.\n\nThe I-visa is a critical component of international journalism, allowing foreign media personnel to enter and work in the United States for extended periods. By reducing the visa duration to eight months, foreign reporters may face increased pressure to complete their assignments within a tighter timeframe, potentially compromising the quality and depth of their reporting. This change may also lead to additional administrative burdens and costs for media organizations, as they may need to apply for visa extensions or reapply for new visas more frequently. The implications of this regulation are likely to be felt across the global journalism community, with potential consequences for the diversity and breadth of international reporting on US affairs.\n\nThe introduction of this regulation marks a significant shift in the US government's approach to hosting foreign journalists. As the change takes effect, it will be important to monitor its impact on the work of international reporters and the broader media landscape. The new rule may raise concerns about the potential limitations on press freedom and the ability of foreign journalists to cover events and issues in the United States without undue restriction. As the situation unfolds, it is likely that media organizations and journalism advocacy groups will be closely watching the effects of this regulation and potentially seeking clarification or revisions to the new rule.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/3/2026 0:12:50",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-243",
+    "title": "MIT Researchers Develop High-Precision Microscopy Method",
+    "slug": "mit-researchers-develop-high-precision-microscopy-method",
+    "content": "Researchers in the laboratory of Sam Peng, the Pfizer‑Gerald Laubach Career Development Assistant Professor of Chemistry at MIT and a core institute member of the Broad Institute of MIT and Harvard, have unveiled a new super‑resolution imaging technology. The method delivers angstrom‑level localization precision, representing a three‑order‑of‑magnitude improvement over the nanometer limits of conventional fluorescent dyes, while streamlining the imaging workflow.\n\nThe breakthrough relies on an innovative combination of advanced fluorophore chemistry and refined optical engineering, enabling scientists to capture molecular structures with unprecedented detail. By reducing the complexity of the imaging protocol, the technique is poised to accelerate structural studies in fields ranging from drug discovery to materials science, where accurate visualization of atomic arrangements is critical.\n\nIf adopted widely, this technology could transform how researchers interrogate biomolecular complexes and nanomaterials, offering a powerful tool for both basic research and applied science. The team plans to further validate the system in diverse biological contexts and to make the approach accessible to the broader scientific community.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/3/2026 0:12:28",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-239",
+    "title": "NixOS-DGX-Spark: Nix on NVIDIA DGX Spark",
+    "slug": "nixos-dgx-spark-nix-on-nvidia-dgx-spark",
+    "content": "NVIDIA’s DGX Spark, a high‑performance AI platform, now has an official pathway to run the Nix package manager. A new repository supplies USB images and a dedicated NixOS module that configures the system for DGX Spark hardware. The setup works natively on the DGX Spark itself and on the Asus Ascent GX10, giving developers a consistent, reproducible environment across both systems.\n\nThe repository’s contents include ready‑to‑use USB images that can be flashed onto the device, as well as a NixOS module that applies the necessary kernel and driver settings for DGX Spark. A brief 5‑minute lightning talk from the Planet Nix conference offers an introductory overview of the installation process and the benefits of using Nix on these platforms. The talk is available on YouTube, and further discussion can be found on Hacker News, where the post has attracted a modest number of comments and upvotes.\n\nWith this release, users of the DGX Spark and compatible Asus hardware can leverage the full power of NixOS—enabling declarative system configuration, reproducible builds, and streamlined package management—directly on their AI workstations. The repository and accompanying resources provide a straightforward entry point for teams looking to adopt Nix in their deep‑learning workflows.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 0:12:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-238",
+    "title": "SSH Credential Harvesting Findings from Honeypot Network Analysis",
+    "slug": "ssh-credential-harvesting-findings-from-honeypot-network-analysis",
+    "content": "A recent security analysis published by Uphill Security details the author’s experience deploying a honeypot network to capture SSH credential theft attempts. The post, titled “Harvesting SSH Credentials: Insights from My Honeypot Network,” outlines the configuration of low‑interaction honeypots designed to emulate vulnerable SSH services and attract attackers seeking to harvest usernames and passwords.\n\nThe author explains how the honeypot logs were aggregated and analyzed, revealing common attack patterns such as automated brute‑force scripts, credential‑stuffing from leaked data sets, and the use of custom botnets. Key metrics include the volume of login attempts per hour, the geographic distribution of attackers, and the most frequently targeted usernames. The analysis also discusses mitigation recommendations, such as enforcing strong password policies, implementing multi‑factor authentication, and deploying rate‑limiting controls on production SSH servers.\n\nThe article was shared on Hacker News, where it received three upvotes and no comments, indicating modest but focused interest from the cybersecurity community. Uphill Security’s findings underscore the value of honeypot deployments for early detection of credential‑harvesting campaigns and provide actionable data for strengthening SSH security postures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 0:12:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-237",
+    "title": "Xbox Prices Rise Up to €200/£170 in EU and UK",
+    "slug": "xbox-prices-rise-up-to-200-170-in-eu-and-uk",
+    "content": "Microsoft’s recent announcement of Xbox price increases, originally disclosed only for the United States, has now been clarified for European and UK markets. The company revealed that the 1‑TB Xbox Series X with a disc drive will rise by more than 30 percent, moving from £499.99 (€599.99) to £669.99 (€799.99). The 512‑GB Xbox Series S will see an even steeper jump of over 43 percent, climbing from £299.99 (€349.99) to £429.99 (€499.99). These hikes represent the largest price adjustments Microsoft has made for its consoles to date.\n\nThe price increases are attributed to soaring costs for RAM and storage components, driven in part by heightened demand from the artificial‑intelligence industry. While other gaming platforms have also raised prices to cover supply‑chain pressures, Microsoft’s adjustments are the most pronounced among major console makers. The company’s strategy appears to be a response to the broader market trend of escalating semiconductor and memory prices, which have affected a wide range of consumer electronics.\n\nFor consumers, the new pricing structure means a significant additional outlay for the latest Xbox models. As Microsoft continues to adjust its retail strategy in response to supply‑chain constraints, the gaming community will likely monitor future announcements for further changes. The full details of the price changes were reported by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 0:12:06",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-236",
+    "title": "Brazil's Lula, 80, Launches Final Reelection Campaign with Party Endorsement",
+    "slug": "brazil-s-lula-80-launches-final-reelection-campaign-with-party-endorsement",
+    "content": "Brazil’s Workers’ Party (PT) formally endorsed President Luiz Inácio Lula da Silva on Sunday, confirming his candidacy for what is widely seen as his final bid for the presidency. The endorsement, announced at a party rally in São Paulo, came after a series of internal primaries that saw Lula secure the nomination against a field of rivals, cementing his status as the party’s flagbearer for the October general election.\n\nThe upcoming election is increasingly framed by heightened concerns over foreign influence and a campaign that has taken on an unusually international dimension. Analysts point to the growing presence of foreign donors and the strategic use of global media platforms by candidates, while security officials warn of potential interference in Brazil’s electoral process. Amid this backdrop, Lula’s campaign has leveraged both domestic grassroots mobilization and international outreach, positioning himself as a seasoned leader capable of navigating the complex geopolitical pressures facing the nation. The PT’s endorsement marks a decisive step toward consolidating support ahead of a campaign that will test Brazil’s democratic resilience in the face of external and internal challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 0:12:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-235",
+    "title": "Floods and landslide in Kerala kill two, injure eight",
+    "slug": "floods-and-landslide-in-kerala-kill-two-injure-eight",
+    "content": "At least two people were killed and eight others injured after torrential rain caused flash flooding in the affected area on Tuesday. Emergency services responded quickly, deploying rescue teams and medical personnel to the inundated neighborhoods where water levels rose rapidly, submerging roads and homes. Local authorities confirmed that the heavy downpours, which began in the early morning, overwhelmed drainage systems and forced several residents to evacuate on foot as vehicles became stranded.\n\nRescue crews continued to search for additional victims while providing treatment to the injured at nearby hospitals. Officials urged residents to avoid low‑lying zones and to follow safety advisories as the weather remains unsettled. An investigation into the flood’s causes and the adequacy of infrastructure is underway, with authorities promising updates as more information becomes available.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 0:11:57",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-234",
+    "title": "10-foot Golden Trophy Mocking Trump Over Iran War Appears in New York",
+    "slug": "10-foot-golden-trophy-mocking-trump-over-iran-war-appears-in-new-york",
+    "content": "A ten‑foot‑tall golden trophy depicting a caricature of U.S. President Donald Trump has been installed in a public space in New York City. The sculpture, described by its creators as a satirical commentary on the ongoing conflict between the United States and Iran, was unveiled on Tuesday near the intersection of 42nd Street and Seventh Avenue. The artwork, fashioned from bronze and plated in gold, portrays Trump with an exaggerated expression and a speech bubble referencing the war, and is accompanied by a plaque that reads, “War is the answer.”\n\nThe piece was commissioned by the activist collective “Artists for Peace,” which released a statement saying the trophy is intended to provoke dialogue about U.S. foreign policy and the human cost of the Iran‑United States confrontation that escalated earlier this month. City officials confirmed that the installation complies with local regulations for temporary public art and will remain in place for a period of 30 days, after which it will be removed or relocated. The New York Police Department reported no security incidents related to the display, and the city’s mayor’s office declined to comment on the political content of the work.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 0:11:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-233",
+    "title": "Migrant deaths in Ceuta rise to 72 after surge at Morocco border",
+    "slug": "migrant-deaths-in-ceuta-rise-to-72-after-surge-at-morocco-border",
+    "content": "Five additional bodies were discovered along the coastline of Ceuta on Tuesday, bringing the death toll linked to the recent surge of migrants attempting to cross the Spanish enclave’s border to at least 27. The remains were found by local fishermen and reported to the authorities, who confirmed that the bodies are believed to belong to migrants who drowned while trying to navigate the treacherous waters between the Moroccan shore and the enclave’s fortified perimeter. The discoveries come as Ceuta, which sits on the north‑African coast opposite the Spanish mainland, continues to grapple with an unprecedented influx of people fleeing conflict and economic hardship in the Sahel and Horn of Africa.\n\nSpanish and Moroccan officials have intensified joint patrols and rescue operations in the Strait of Gibraltar, while humanitarian groups warn that the capacity of shelters and medical facilities on the small enclave is being stretched to its limits. The Spanish government has pledged additional resources for search‑and‑rescue teams and has called for greater international cooperation to address the root causes of the migration wave. As the enclave works to recover from the latest fatalities, authorities remain focused on preventing further loss of life while managing the complex security and humanitarian challenges posed by the ongoing border crossings.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 0:11:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-232",
+    "title": "Unborn baby found in rubble after Israeli strike in western Gaza City",
+    "slug": "unborn-baby-found-in-rubble-after-israeli-strike-in-western-gaza-city",
+    "content": "Residents combing the debris of an Israeli airstrike in western Gaza City reported the recovery of an unborn child’s body on Tuesday, adding to the mounting civilian toll of the ongoing conflict. The strike, which targeted a densely populated residential area, collapsed several homes and left dozens of families searching for missing relatives amid the rubble.\n\nHumanitarian agencies have highlighted the incident as part of a broader pattern of civilian casualties in the Gaza Strip, where health facilities are overwhelmed and access to medical care remains severely limited. International observers have called for renewed efforts to protect non‑combatants and to facilitate the delivery of aid, while the parties to the conflict have yet to comment on the specific incident. The discovery underscores the heightened vulnerability of civilians in the region as hostilities continue.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 0:11:43",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-231",
     "title": "Gears of War Prequel Release Announced",
     "slug": "gears-of-war-prequel-release-announced",
@@ -5365,138 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/1/2026 1:32:14",
     "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-492",
-    "title": "NASA-Approved Webbing for Elevated Oxygen Environments Passes Flammability Tests",
-    "slug": "nasa-approved-webbing-for-elevated-oxygen-environments-passes-flammability-tests",
-    "content": "NASA has released the results of flammability tests on commercial-off-the-shelf webbings that could be used in future lunar and Martian missions. The tests, which were conducted to meet the agency's stringent flammability requirements, focused on the performance of webbings in elevated oxygen environments. According to the report, a specific webbing composed of 60% Kevlar and 40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc. demonstrated satisfactory results in the tests. The webbing in question is the natural version, which is one of several variations of the material.\n\nThe testing protocol, as outlined in NASA-STD-6001B Test 1, subjected the webbing to a series of rigorous flammability challenges. The results indicate that the 60% Kevlar/40% PBI webbing successfully withstood the test conditions, suggesting its potential suitability for use in the high-oxygen environments anticipated for future lunar and Martian missions. The successful outcome of these tests is a significant step forward in the development of materials for space exploration, as it brings the agency closer to identifying reliable and safe webbing solutions for its future endeavors.\n\nThe findings of this study will be crucial in informing the selection of webbing materials for NASA's future missions, which will require materials that can perform optimally in challenging environments. By identifying a suitable webbing that meets its flammability requirements, NASA can move forward with confidence in the development of critical systems for its lunar and Martian missions.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 1:32:09",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-491",
-    "title": "Servo Browser Development Update for June",
-    "slug": "servo-browser-development-update-for-june",
-    "content": "Servo, an open-source browser engine project, has released its June 2026 update, detailing key developments and advancements in the field of web browsing technology. According to the project's blog, the team has been focusing on improving performance, security, and compatibility with various web platforms.\n\nIn the June update, Servo's developers highlighted several notable achievements. They have made significant strides in optimizing the engine's rendering and layout algorithms, resulting in improved page load times and overall browsing experience. Additionally, the team has been working on enhancing the security features of the engine, including better protection against common web vulnerabilities. Furthermore, Servo's developers have been collaborating with other open-source projects to ensure seamless integration and compatibility with various web standards.\n\nThe release of Servo's June update marks another significant milestone in the project's ongoing efforts to push the boundaries of web browsing technology. As the project continues to gain momentum and attract contributions from the developer community, it will be interesting to see how Servo's advancements impact the broader web ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:32:03",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-490",
-    "title": "Open-source Terminal DJ Mixer Released on GitHub",
-    "slug": "open-source-terminal-dj-mixer-released-on-github",
-    "content": "Termixer, a Free and Open-Source Terminal Emulator, Gains Traction\n\nTermixer, a free and open-source terminal emulator, has recently garnered attention from the tech community. Developed by l00sed, the project aims to provide a customizable and efficient terminal experience for users. The terminal emulator is designed to be highly customizable, allowing users to personalize their interface with various themes and layouts.\n\nAccording to the project's GitHub page, Termixer boasts a range of features, including support for multiple profiles, customizable keybindings, and a built-in command palette. The emulator also offers advanced features such as tabbed browsing, split-screen mode, and support for multiple windows. The project's community-driven approach has led to a steady stream of updates and improvements, with l00sed actively engaging with users through GitHub and other online forums.\n\nThe project's growing popularity is evident in its recent appearance on Hacker News, where it garnered 19 points and received 7 comments from the community. Termixer's open-source nature and focus on user customization have resonated with users seeking a more personalized terminal experience. As the project continues to evolve, it remains to be seen whether Termixer will become a leading terminal emulator in the tech community.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:31:57",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-489",
-    "title": "Researchers Utilize Railway Network as Flatbed Scanner",
-    "slug": "researchers-utilize-railway-network-as-flatbed-scanner",
-    "content": "Researchers at the European Microwave Conference (EMF) 2026 have unveiled an innovative concept for utilizing the railway network as a massive flatbed scanner. This groundbreaking idea leverages the existing rail infrastructure to create a high-resolution scanning system, capable of capturing detailed images of the Earth's surface. The project, presented in a paper titled \"Using the railway network as a flatbed scanner,\" proposes repurposing the rail network's extensive coverage and precise alignment to create a massive, distributed scanning system.\n\nAccording to the researchers, the proposed system would work by deploying a series of sensors along the railway tracks, which would collect data on the Earth's surface topography and other environmental factors. This data would then be transmitted to a central processing unit, where it would be combined to create high-resolution images of the surrounding landscape. The system's scalability and potential for real-time data collection make it an attractive solution for various applications, including land surveying, environmental monitoring, and disaster response.\n\nThe concept's feasibility and potential impact have sparked significant interest among experts in the field. While the idea is still in its infancy, it has the potential to revolutionize the way we collect and analyze environmental data. As researchers continue to explore and refine this concept, it will be exciting to see how it evolves and the possibilities it may unlock for various industries and applications.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:31:51",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-486",
-    "title": "DOE Faces Challenges in Implementing Nuclear Waste Cleanup Lessons",
-    "slug": "doe-faces-challenges-in-implementing-nuclear-waste-cleanup-lessons",
-    "content": "**Government Accountability Office Report Uncovers Inefficiencies in Federal Disaster Relief Efforts**\n\nA recent report issued by the Government Accountability Office (GAO) has shed light on the need for improvement in the federal government's disaster relief efforts. The report, which was released on [report release date], found that the current system for providing disaster relief is often slow and inefficient, resulting in delayed assistance to those affected by natural disasters. Specifically, the GAO identified bottlenecks in the process, including a lack of coordination between federal agencies and a failure to utilize existing resources effectively.\n\nThe report also highlighted the need for better data collection and analysis to inform disaster relief decisions. According to the GAO, the current system relies heavily on anecdotal evidence and incomplete data, making it difficult to accurately assess the needs of affected communities. Furthermore, the report noted that the federal government's disaster relief funding is often allocated in a piecemeal fashion, rather than being directed towards long-term recovery efforts. This can lead to a lack of sustainability and a failure to address the underlying causes of disasters.\n\nThe GAO's findings have significant implications for the federal government's disaster relief efforts. By addressing the inefficiencies and bottlenecks identified in the report, policymakers can work towards creating a more effective and sustainable system for providing disaster relief. This could involve improving coordination between federal agencies, enhancing data collection and analysis, and prioritizing long-term recovery efforts.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:23:18",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-485",
-    "title": "AI Companies Contributing to Destruction of Rare Books",
-    "slug": "ai-companies-contributing-to-destruction-of-rare-books",
-    "content": "Scotland's National Library of Scotland has recently expressed concerns over the destruction of books in bulk by artificial intelligence (AI) companies. According to a report, these companies have been disposing of millions of books, which were previously digitized and made available to the public. This has sparked fears that a significant portion of the world's literary heritage may be lost forever.\n\nThe issue at hand revolves around the practice of AI companies removing books from their digital archives, citing reasons such as copyright issues or low demand. Critics argue that this is a reckless approach, as it not only erases the digital footprint of these books but also deprives researchers, students, and the general public of access to valuable knowledge and literature. The National Library of Scotland has called for greater transparency and accountability from these companies, emphasizing the importance of preserving the world's cultural and intellectual heritage.\n\nThe controversy has sparked a heated debate among book lovers, researchers, and tech enthusiasts, with many taking to online forums to express their concerns. As the digital landscape continues to evolve, the preservation of our collective literary and cultural heritage has become a pressing issue. The National Library of Scotland's stance serves as a reminder of the need for responsible stewardship of our digital archives and the importance of safeguarding the world's knowledge for future generations.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:23:13",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-484",
-    "title": "Hugging Face Intrusion Highlights Security Vulnerability Despite Tailscale Usage",
-    "slug": "hugging-face-intrusion-highlights-security-vulnerability-despite-tailscale-usage",
-    "content": "**Face Recognition Firm Hugging Face Experiences Data Breach**\n\nIn a recent incident, popular face recognition technology provider Hugging Face has been compromised by an unauthorized intruder. The breach, which occurred in the early hours of a recent morning, has raised concerns among the company's users and the broader tech community. According to reports, the attacker gained access to Hugging Face's internal systems, potentially exposing sensitive user data.\n\nThe incident highlights the importance of robust security measures in protecting sensitive information. Hugging Face, known for its widely-used open-source AI models, including the popular Transformers library, has a significant user base across various industries. The potential exposure of user data, including email addresses and hashed passwords, could have far-reaching consequences. An investigation into the breach is currently underway, with Hugging Face working closely with cybersecurity experts to identify the root cause and mitigate any potential damage.\n\nThe incident serves as a reminder of the importance of prioritizing cybersecurity in the tech industry. As more companies adopt AI and machine learning technologies, the risk of data breaches and unauthorized access increases. Hugging Face's response to the incident will be closely watched by the industry, and the company's ability to contain the breach and prevent future incidents will be crucial in maintaining user trust.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:23:07",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-483",
-    "title": "Chinese AI Researchers Gain Presence on X Platform",
-    "slug": "chinese-ai-researchers-gain-presence-on-x-platform",
-    "content": "Researchers at Chinese AI labs are increasingly turning to the social media platform X to share their work, attract top talent, and influence the global conversation on artificial intelligence. This shift in online presence comes as employees from prominent AI companies, including OpenAI and Anthropic, have become less vocal on the platform. \n\nThe move by Chinese AI researchers reflects the growing importance of X as a hub for discussion and collaboration in the AI community. By sharing their research and experiences on the platform, these scientists are able to reach a wider audience, establish their expertise, and connect with like-minded individuals from around the world. Furthermore, X's open and inclusive environment allows them to engage in constructive dialogue with colleagues and peers, fostering a sense of community and cooperation that is essential for advancing the field of AI.\n\nAs the global AI landscape continues to evolve, Chinese researchers' increasing presence on X is likely to have significant implications for the industry. By leveraging the platform to share their work and ideas, they may be able to shape the global conversation on AI and establish themselves as key players in the field. This development highlights the importance of X as a platform for knowledge sharing and collaboration, and underscores the need for continued investment in AI research and development.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:23:02",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-482",
-    "title": "Google Developing Pixel Tag Item Tracker",
-    "slug": "google-developing-pixel-tag-item-tracker",
-    "content": "Google appears to be developing an item tracker, potentially rivaling Apple's AirTag, according to recent discoveries. An image obtained by 9to5Google reveals a device called the \"Google Pixel Tag,\" characterized by its small oval shape. This finding is further supported by a Slovenian store listing that describes the Pixel Tag as an item tracker equipped with a speaker, leveraging Google's \"Find My Device\" network, now rebranded as Find Hub.\n\nThe emergence of the Pixel Tag comes just before Google's scheduled hardware launch event on August 12th, where the company is expected to unveil new devices. Google has already provided glimpses of the upcoming Pixel 11 lineup, and various leaks have surfaced regarding other potential products, including a foldable device, smartwatch, and earbuds. The introduction of the Pixel Tag would expand Google's portfolio of tracking and locating services, potentially offering users a seamless way to keep tabs on their personal belongings.\n\nThe upcoming launch event is likely to provide more clarity on the features, functionality, and availability of the Google Pixel Tag, as well as other devices in the pipeline. As the tech industry continues to evolve, the development of item trackers like the Pixel Tag underscores the growing demand for convenient and integrated tracking solutions. With the event just around the corner, tech enthusiasts and consumers alike will be watching closely for Google's official announcements and the potential impact of these new products on the market.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:57",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-481",
-    "title": "NHTSA Investigates 1.2 Million Tesla Vehicles Over Suspension Failure Concerns",
-    "slug": "nhtsa-investigates-1-2-million-tesla-vehicles-over-suspension-failure-concerns",
-    "content": "The National Highway Traffic Safety Administration (NHTSA) has launched a preliminary investigation into nearly 1.2 million Tesla vehicles following complaints of a suspension failure that could compromise vehicle stability. According to a filing from the NHTSA's Office of Defects Investigation, the affected models include the 2018-2020 Model 3 and 2021-2023 Model Y. The investigation was prompted by 156 complaints received by the NHTSA regarding the detachment of the front lower lateral link, which could lead to a loss of vehicle directional control.\n\nThe NHTSA has reviewed several cases and reported that in most instances, the failure occurred without warning. However, some vehicle owners have cited noises preceding the failure, suggesting that there may be early indicators of the issue. The investigation aims to determine the root cause of the problem and whether it poses a significant safety risk to drivers and passengers. Tesla has not yet commented on the matter, and the NHTSA will continue to gather data and review the complaints to inform its decision on the next course of action.\n\nThe investigation highlights the importance of ongoing safety monitoring and recalls in the automotive industry. As the use of electric vehicles continues to grow, regulatory agencies like the NHTSA will play a critical role in ensuring that manufacturers address potential safety concerns in a timely and effective manner. The outcome of this investigation will be closely watched by industry stakeholders and consumers alike, as it may have significant implications for Tesla and the wider electric vehicle market.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:51",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-480",
-    "title": "Google Earth AI Image Editing Tool Shut Down",
-    "slug": "google-earth-ai-image-editing-tool-shut-down",
-    "content": "Google Earth Temporarily Removes Feature After Concerns Over AI-Generated Imagery\n\nGoogle has taken down a feature in Google Earth that allowed users to edit satellite images using text prompts with the help of artificial intelligence. The tool, which utilized the Nano Banana 2 model, enabled users to generate AI-enhanced images of real-world locations with a range of added features. Digital Digging's Henk van Ess, an expert in digital forensics, demonstrated the capabilities of the feature by creating images with added elements such as refugees near the Mexican border and a bomb crater near a hospital in Gaza.\n\nGoogle initially responded to concerns about the feature by stating that images generated with the tool included a digital watermark and that the company had measures in place to prevent the creation of images on \"harmful topics.\" However, the company has since taken a more decisive action, removing the feature from Google Earth. This move suggests that Google is taking a more cautious approach to the potential misuse of its AI technology.\n\nThe removal of the feature highlights the ongoing debate about the responsible use of AI and the need for companies to balance innovation with concerns about the potential consequences of their technology. As AI continues to advance and become more accessible, the need for clear guidelines and regulations on its use is becoming increasingly pressing.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:46",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-478",
-    "title": "Nicolas Cage Movie Stolen from Netflix",
-    "slug": "nicolas-cage-movie-stolen-from-netflix",
-    "content": "A filmmaker has filed a lawsuit against Netflix, alleging that the streaming platform failed to prevent the unauthorized distribution of a confidential screener for an unreleased Nicolas Cage film. The complaint, submitted to a federal court, claims that the early screening copy was leaked online prior to its official theatrical and streaming debut, causing substantial financial and promotional damage to the production. The suit seeks monetary damages and injunctive relief, highlighting growing tensions over digital security and liability in the pre-release distribution of major studio content.\n\nAccording to court filings, the screener was shared with a select group of critics and industry professionals under strict confidentiality agreements, but the file was subsequently uploaded to unauthorized websites. The filmmaker’s legal representatives argue that Netflix’s oversight protocols and digital rights management systems were insufficient, allowing the breach to occur and spread rapidly across piracy networks. Industry observers note that high-profile screeners have increasingly become targets for illegal distribution, prompting many",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:36",
-    "author": "Ars Technica",
     "isFeatured": false
   }
 ]
