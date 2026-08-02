@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260731-434",
+    "title": "Magnetic nanoparticles remove forever chemicals from water",
+    "slug": "magnetic-nanoparticles-remove-forever-chemicals-from-water",
+    "content": "PFAS, a group of synthetic chemicals commonly referred to as \"forever chemicals,\" have become ubiquitous in modern life, found in everything from non-stick cookware and food packaging to firefighting foam and clothing. Their widespread presence has raised significant concerns, as these substances pose a unique environmental and health threat. One of the primary issues with PFAS is their remarkable durability, which allows them to persist in the environment for centuries. This characteristic, combined with their tendency to accumulate in living organisms, has led to widespread contamination of soil, water, and air.\n\nAs a result, PFAS have become one of the most problematic pollutants of our time. Their presence in water sources, in particular, poses a significant challenge. Unlike other pollutants, which can be easily removed through traditional water treatment methods, PFAS are notoriously difficult to eliminate from water. This is because they are highly soluble and can pass through standard filtration systems, making it necessary to employ specialized technologies to remove them. The difficulty in removing PFAS from water has significant implications for human health, as exposure to these chemicals has been linked to a range of serious health problems, including cancer and reproductive issues.\n\nThe growing awareness of the risks associated with PFAS has led to increased efforts to address the issue. Governments, industry leaders, and environmental organizations are working together to develop more effective methods for detecting and removing PFAS from the environment. Additionally, many companies are beginning to phase out the use of PFAS in their products, opting for safer alternatives instead. While significant challenges remain, the ongoing efforts to mitigate the impact of PFAS offer hope for a safer, healthier future.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "7/31/2026 23:52:16",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-420",
+    "title": "Google Earth AI image tool sparks misinformation concerns",
+    "slug": "google-earth-ai-image-tool-sparks-misinformation-concerns",
+    "content": "Google Earth has introduced a new feature that lets users generate hyper‑realistic images from satellite, aerial, and 3‑D data using only a text prompt. The technology, demonstrated by Digital Digging’s Henk van Ess, produced striking images that depict refugees near the Mexican border and a bomb crater near a hospital in Gaza. The images, created with Google’s Nano Banana tool, illustrate how easily AI can alter the visual record of real‑world locations.\n\nIn response to concerns about misinformation, Google emphasized that every image generated with Nano Banana carries a SynthID digital watermark. The company said users can verify the authenticity of an image by querying the Gemini app or using Google Lens in Search. Google also highlighted its \"@verifyai\" tag, which it plans to apply to AI‑generated content to help users distinguish between real and synthetic imagery.\n\nThe company’s statement underscores its commitment to transparency amid growing scrutiny of AI‑generated media. By embedding a watermark and offering verification tools, Google aims to mitigate the risk of misused satellite imagery while still providing powerful creative capabilities to its users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "7/31/2026 23:51:49",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-419",
     "title": "Tomodachi Life: Living the Dream Discounted on Switch",
     "slug": "tomodachi-life-living-the-dream-discounted-on-switch",
