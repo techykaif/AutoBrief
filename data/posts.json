@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260802-315",
+    "title": "Rep. Max Miller Denies Abuse Allegations Amid Resignation Calls",
+    "slug": "rep-max-miller-denies-abuse-allegations-amid-resignation-calls",
+    "content": "Rep. Max Miller (R-Ohio) denied domestic abuse allegations made by his ex-wife on Sunday and vowed to continue his reelection campaign. In a video posted to social media, Miller stated he has been falsely portrayed as \"an abusive husband, an abusive father and a violent man.\" He described the accusations as damaging to his reputation and a source of \"enormous pain,\" asserting that the claims do not reflect his character or actions.\n\nThe congressman's statement addresses the",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/3/2026 3:42:45",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-314",
+    "title": "Senate GOP Seeks Replacement for Lindsey Graham's Hawkish Influence",
+    "slug": "senate-gop-seeks-replacement-for-lindsey-graham-s-hawkish-influence",
+    "content": "South Carolina Senator Lindsey Graham's Passing Leaves Void in Senate GOP\n\nThe sudden loss of Senator Lindsey Graham has sent shockwaves through the United States Senate, particularly within the hawkish wing of the Republican Party. As President Trump continues to navigate complex foreign policy issues, including ongoing conflicts in Iran and Ukraine, Graham's absence has left a significant gap. The South Carolina senator was a rare figure, known for his close relationship with the president while maintaining his independence and strong stance on various issues.\n\nGraham's unique blend of bipartisanship and unwavering commitment to his principles made him a respected voice in the Senate. His influence on key legislative decisions and his ability to build bridges with his Democratic colleagues will be deeply missed. As the Senate GOP grapples with the loss of a stalwart member, lawmakers are left to consider who can fill the void left by Graham's passing. While no single individual can replicate his impact, several senators are likely to take on more prominent roles in shaping the party's foreign policy agenda.\n\nAs the nation mourns the loss of Senator Graham, President Trump and his administration will face increased scrutiny over their handling of international conflicts. The void left by Graham's passing will undoubtedly be felt, but it remains to be seen who will emerge as the new leaders within the hawkish wing of the Senate GOP.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/3/2026 3:42:39",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-310",
+    "title": "Brain Changes Linked to Baby Care",
+    "slug": "brain-changes-linked-to-baby-care",
+    "content": "Freeman Hrabowski Scholar Bianca Jones Marlin is investigating the neural foundations of caregiving and the ways in which these biological adaptations can be transmitted across generations. Her work focuses on the brain circuits that govern nurturing behaviors and the epigenetic mechanisms that may encode these patterns, offering insights into how parental care shapes offspring development at a molecular level.\n\nMarlin’s research combines neuroimaging, behavioral assays, and genetic analyses to map the interplay between caregiving behaviors and brain plasticity. By studying both human participants and animal models, she aims to identify specific neural pathways and epigenetic markers that are altered by caregiving experiences, and to determine how these changes influence the next generation’s emotional and social functioning. The findings could inform interventions for families and contribute to a deeper understanding of the biological underpinnings of intergenerational support.\n\nThe study underscores the importance of early caregiving environments and their lasting impact on brain development. Marlin’s scholarship, supported by the Freeman Hrabowski Scholars program, highlights the broader implications of her work for public health, education, and family policy, as it seeks to bridge gaps between neuroscience, genetics, and social science.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/3/2026 3:42:30",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-309",
+    "title": "TinyNES Review: A Compact NES Console for Retro Gaming Enthusiasts",
+    "slug": "tinynes-review-a-compact-nes-console-for-retro-gaming-enthusiasts",
+    "content": "Title: Rarest of Them All: The Tinynes Review Console Exposed\n\nIn a recent expose, the Tinynes Review console, a highly sought-after and super-niche Nintendo Entertainment System (NES) console, has been revealed to the public. The console, which was previously unknown to many, has garnered attention from collectors and enthusiasts of retro gaming. According to a review on the official blog of a popular gaming channel, the Tinynes Review console boasts a unique design and features that set it apart from its more common counterparts.\n\nDetails of the console's specifications and performance have been shared by the review, which highlights its distinct aesthetic and capabilities. The console's rarity and limited production make it a highly valuable item among collectors, with some enthusiasts willing to pay premium prices for the opportunity to own one. The review also sheds light on the console's functionality, including its compatibility with a range of NES games and its ability to connect to modern gaming systems. As news of the Tinynes Review console spreads, its value and desirability are likely to continue to rise among gaming enthusiasts.\n\nThe discovery of the Tinynes Review console has sparked interest among collectors and gamers alike, highlighting the diversity and complexity of the NES console market. As the gaming community continues to explore and learn more about this rare console, its significance and value are likely to be reevaluated. For those interested in retro gaming and collecting rare consoles, the Tinynes Review console is a must-know item that offers a unique glimpse into the world of super-niche gaming.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 3:42:27",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-307",
+    "title": "TypeScript Compiler Integrates Go's Defer Functionality",
+    "slug": "typescript-compiler-integrates-go-s-defer-functionality",
+    "content": "New Feature Added to TypeScript Compiler: 'defer' Support\n\nThe TypeScript team has recently introduced a significant update to the TypeScript compiler, allowing developers to utilize the 'defer' keyword. This feature, commonly used in JavaScript, enables the execution of a function or script after all other scripts on the page have finished loading. The addition of 'defer' support to the TypeScript compiler is expected to enhance the performance and efficiency of web applications developed using TypeScript.\n\nThe 'defer' keyword can be applied to scripts or functions that do not rely on the DOM or other scripts to be executed. By deferring their execution, developers can ensure that their scripts do not interfere with the loading process of other essential scripts. This update is particularly beneficial for developers who have been using JavaScript's 'defer' feature and are now transitioning to TypeScript. The TypeScript team has made significant strides in bridging the gap between the two languages, making it easier for developers to adapt to the TypeScript ecosystem.\n\nThe introduction of 'defer' support to the TypeScript compiler is a testament to the language's commitment to innovation and developer satisfaction. As the TypeScript community continues to grow, this feature is likely to be widely adopted, further solidifying the language's position as a leading choice for web development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 3:42:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-305",
+    "title": "Sharing X11 Servers Across Multiple Hosts",
+    "slug": "sharing-x11-servers-across-multiple-hosts",
+    "content": "A recent article has been published on sharing an X server across hosts using a tool called FamilyWild. The article, available at https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild, delves into the details of this process, providing a comprehensive guide for those interested in exploring this capability. The X Window System, commonly referred to as X, is a windowing system for bitmap displays that has been a cornerstone of Unix-like operating systems for decades.\n\nThe article has garnered attention on the popular news aggregator site, Hacker News, where it has accumulated 11 points and sparked a discussion with 3 comments. The conversation, accessible at https://news.ycombinator.com/item?id=49147978, revolves around the potential applications and implications of sharing an X server across hosts. This technique can be particularly useful in scenarios where multiple users need to access and share graphical resources, such as in collaborative work environments or remote desktop setups. By leveraging FamilyWild, users can simplify the process of sharing X servers, potentially leading to increased productivity and efficiency.\n\nIn conclusion, the article on sharing an X server across hosts with FamilyWild has generated interest among tech enthusiasts and professionals, highlighting the potential benefits of this approach. As the discussion on Hacker News continues, it will be interesting to see how this technique is adopted and utilized in various contexts, and what further developments may arise from this innovative application of the X Window System.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 3:42:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-300",
+    "title": "MacBook Air Availability Declines Amid Global Memory Chip Shortage",
+    "slug": "macbook-air-availability-declines-amid-global-memory-chip-shortage",
+    "content": "Apple’s flagship Mac has been hit by the same global memory‑chip shortage that has rattled the entire consumer‑electronics industry.  The company’s most popular model, the MacBook Air, has seen production lines slowed or halted because suppliers cannot deliver the DDR4 and NVMe modules required for the device’s new 13‑inch configuration.  The shortage, which began in late 2022 and has been exacerbated by a surge in demand for home‑office and gaming hardware, has forced Apple to reallocate inventory to higher‑margin models and to delay the launch of its next‑generation Air.\n\nIndustry analysts note that the bottleneck is not limited to memory chips alone; Apple’s supply chain has been strained by a shortage of high‑speed processors, storage drives, and display panels.  In response, the company has increased orders with multiple vendors and is exploring alternative chip suppliers to mitigate the risk of further delays.  Customers who have pre‑ordered the new MacBook Air report longer wait times, and retailers are seeing a rise in back‑order volumes, which could translate into higher prices for the final product.\n\nAs the semiconductor market continues to normalize, Apple is expected to resume full production of the MacBook Air within the next few months.  The company has pledged to keep consumers informed through its website and support channels, while industry observers watch to see whether the shortage will prompt a broader shift toward diversified supply chains and more robust inventory management across the tech sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 3:41:54",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-299",
+    "title": "Australia ends temporary fuel excise cut, regulator to tighten price monitoring",
+    "slug": "australia-ends-temporary-fuel-excise-cut-regulator-to-tighten-price-monitoring",
+    "content": "The fuel excise relief that was introduced in response to the outbreak of conflict in Iran has officially ended as of midnight on Monday. Transport Minister Jim Chalmers confirmed that the temporary cut was never intended to be permanent, noting that while fuel prices have risen over the past month, they remain substantially lower than at the start of the relief period. The measure, he said, had helped ease cost‑of‑living pressures that were exacerbated by the Middle East war.\n\nChalmers added that the Australian Competition and Consumer Commission (ACCC) will intensify monitoring of fuel price movements. Any unexplained price increases will be subject to serious scrutiny, and penalties for petrol stations that overcharge consumers have been raised to multimillion‑dollar fines. The government emphasized that the excise cut had played a “really important job” but cannot be sustained indefinitely.\n\nWith the relief lifted, the focus shifts to ensuring market stability and protecting consumers. The ACCC’s heightened oversight aims to prevent price gouging while maintaining fair competition in the fuel sector, underscoring the government's commitment to balancing consumer protection with fiscal responsibility.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/3/2026 3:41:50",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-298",
+    "title": "UK Prime Minister Andy Burnham pledges relentless approach to Channel small boat crossings",
+    "slug": "uk-prime-minister-andy-burnham-pledges-relentless-approach-to-channel-small-boat",
+    "content": "London – Prime Minister Andy Burnham announced that his administration will adopt a “relentless” approach to curbing the increase in small‑boat crossings of the English Channel. The statement, made during a press briefing on Wednesday, underscored the government’s intent to intensify enforcement measures and accelerate the deployment of resources aimed at deterring illegal arrivals.\n\nBurnham’s remarks came as the Home Office reported a rise in the number of vessels attempting the crossing in recent weeks, prompting concerns over border security and humanitarian conditions. Officials indicated that the strategy will involve heightened patrols, expanded cooperation with French authorities, and the allocation of additional funding to the Border Force. The Prime Minister emphasized that the policy will be implemented within existing legal frameworks and that the government remains committed to addressing both the security and humanitarian aspects of the issue.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 3:41:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-297",
+    "title": "Interfaith volunteers rebuild war‑damaged Catholic monastery in Lebanon",
+    "slug": "interfaith-volunteers-rebuild-war-damaged-catholic-monastery-in-lebanon",
+    "content": "Interfaith volunteers have begun restoring a Catholic monastery that was severely damaged during Lebanon’s recent conflict in the village of Zawtar al‑Gharbiyeh. The site, which once served as a spiritual and cultural hub for the local community, suffered extensive structural damage from shelling and fire, leaving its historic stone walls and frescoed chapels in ruins. A coalition of volunteers, comprising Christians, Muslims and Druze, coordinated through the Lebanese Red Cross and local NGOs, started the reconstruction effort last week, aiming to preserve the monastery’s architectural heritage while providing a symbol of communal solidarity.\n\nThe restoration project is being funded by a combination of private donations, international aid from the European Union’s cultural heritage program, and contributions from Lebanese diaspora groups. Engineers and artisans are working alongside the volunteers to reinforce the foundation, replace damaged roofing, and restore interior artwork using traditional techniques. Officials from the Ministry of Culture have pledged ongoing support, emphasizing the monastery’s importance as a testament to Lebanon’s pluralistic history. Completion is targeted for early 2027, after which the site is expected to reopen for worship and serve as a venue for interfaith dialogue and cultural events.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/3/2026 3:41:40",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-296",
     "title": "Massive Attack reacts to Singapore ban over Palestine chant",
     "slug": "massive-attack-reacts-to-singapore-ban-over-palestine-chant",
@@ -5387,116 +5497,6 @@
     "categorySlug": "space",
     "publishedAt": "8/1/2026 3:02:39",
     "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-549",
-    "title": "Leeds Rhinos Thrash Toulouse 46-0 to Maintain Super League Lead",
-    "slug": "leeds-rhinos-thrash-toulouse-46-0-to-maintain-super-league-lead",
-    "content": "Leeds Rhinos Maintains Top Spot in Super League\n\nLeeds Rhinos continued their dominance at the top of the Super League table, extending their lead to a comfortable two-point cushion after a resounding 46-0 victory over a depleted Toulouse side at Headingley. The home team's impressive display showcased their strength and depth, as they took advantage of Toulouse's weakened lineup to secure a comprehensive win.\n\nThe match, which saw Toulouse field a significantly weakened side, was always likely to be one-sided, and Leeds Rhinos did not disappoint. The Rhinos' attacking prowess was on full display, with their backs and forwards combining to score seven tries and secure a bonus point in the process. Despite the heavy defeat, Toulouse will look to regroup and rebuild their squad ahead of their next fixture, while Leeds Rhinos will focus on maintaining their momentum and defending their position at the top of the table.\n\nThe win marks another significant milestone for Leeds Rhinos, who will look to build on this result as they prepare for their next challenge. With their two-point cushion now firmly in place, the Rhinos will be eager to continue their winning streak and solidify their position at the summit of the Super League.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/1/2026 3:02:33",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-548",
-    "title": "Trent Rockets move top of The Hundred table",
-    "slug": "trent-rockets-move-top-of-the-hundred-table",
-    "content": "Trent Rockets have surged to the top of The Hundred table after securing a six-wicket victory over Manchester Super Giants. In a crucial match, Finn Allen led the charge for the Trent Rockets, scoring an unbeaten 72 that played a pivotal role in securing the win. The 22-year-old New Zealand batter's impressive display saw him reach his half-century in just 27 deliveries, showcasing his exceptional power and agility.\n\nThe Trent Rockets' win came after Manchester Super Giants had set a target of 143 runs for the visitors. The Giants' batting lineup had struggled to gain momentum, with their top-order batsmen failing to make a significant impact. In response, the Trent Rockets' batting lineup, led by Allen, chased down the target with relative ease, thanks to a strong partnership between Allen and his teammates. The Trent Rockets' victory marked a significant leapfrogging of their opponents, who had previously held the top spot.\n\nThe Trent Rockets' win has propelled them to the top of The Hundred table, with their victory over Manchester Super Giants marking a crucial turning point in the competition. As the tournament enters its final stages, the Trent Rockets will look to maintain their momentum and secure a spot in the playoffs. With Finn Allen's impressive form, the team will be confident of achieving their goals and making a strong push for the title.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/1/2026 3:02:27",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-546",
-    "title": "Fox’s Dana Perino grills Wisconsin gubernatorial candidate Francesca Hong over democratic socialism",
-    "slug": "fox-s-dana-perino-grills-wisconsin-gubernatorial-candidate-francesca-hong-over-d",
-    "content": "Fox News anchor Dana Perino grilled Democratic primary front-runner Francesca Hong in a recent interview, focusing on her ties to the Democratic Socialists of America (DSA) and her past comments on law enforcement. The exchange took place on Friday, with Perino questioning Hong's stance on policing, specifically highlighting social media posts from 2020 where the gubernatorial candidate called for \"defunding the police\" and expressed support for the initiative. Hong's past statements have raised concerns among some voters, who may view her association with the DSA and her comments on law enforcement as out of step with the views of many Wisconsinites.\n\nPerino's line of questioning was likely aimed at gauging Hong's ability to appeal to a broad range of voters in the Wisconsin governor's race. Hong's support for defunding the police has sparked controversy, with some critics arguing that it would undermine public safety and compromise the effectiveness of law enforcement agencies. Hong's association with the DSA, a left-leaning organization, has also been a point of contention, with some voters expressing concerns about her potential policies and priorities as governor.\n\nThe exchange between Perino and Hong highlights the challenges that progressive candidates often face in winning statewide elections, particularly in more conservative jurisdictions. As the Democratic primary contest in Wisconsin heats up, Hong's stance on law enforcement and her ties to the DSA are likely to remain contentious issues, with voters weighing her positions against those of her opponents.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/1/2026 3:02:18",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-545",
-    "title": "Trump Appeals Ruling on $10B IRS Lawsuit Collusion Allegations",
-    "slug": "trump-appeals-ruling-on-10b-irs-lawsuit-collusion-allegations",
-    "content": "The Trump administration has taken a step in its ongoing battle with the Internal Revenue Service (IRS) by appealing a recent ruling from a federal judge in Florida. The ruling, which was handed down earlier this week, found that the president had effectively colluded with his own government in bringing a $10 billion lawsuit against the IRS. This lawsuit, which was initially filed by the Trump administration, has been widely criticized for its potential impact on the country's tax system and the role of the IRS.\n\nThe Justice Department had cited the lawsuit as a basis for creating its $1.776 billion \"anti-weaponization\" fund, which is intended to support efforts to combat what the administration sees as overreach by the federal government. However, critics have raised concerns that the fund is little more than a mechanism for the administration to pursue its own political agenda. The appeal of the federal judge's ruling marks the latest development in a long-standing battle between the Trump administration and the IRS.\n\nThe implications of the appeal are far-reaching, and the outcome is likely to have significant consequences for the country's tax system and the role of the federal government. As the case continues to make its way through the courts, observers will be closely watching to see how the administration's efforts to appeal the ruling play out.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/1/2026 3:02:11",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-541",
-    "title": "Breakthrough in Magnetic Pulse Technology Could Reduce Memory Energy Consumption",
-    "slug": "breakthrough-in-magnetic-pulse-technology-could-reduce-memory-energy-consumption",
-    "content": "Rapid Advancements in AI Drive Surge in Global Data Demand. The proliferation of information and communication technologies (ICTs) powered by artificial intelligence (AI) has led to an unprecedented explosion of data generation. Every online interaction, from AI-generated images to scientific simulations and language models, creates and processes vast amounts of information. As a result, the global demand for data storage and computing has skyrocketed, driven by AI's expanding presence in every sector of society.\n\nThe sheer volume of data being produced is staggering, with AI-driven applications generating enormous amounts of information that must be stored, transferred, and analyzed. This has put a strain on existing infrastructure, prompting significant investments in data storage and computing capabilities. As AI continues to evolve and become increasingly ubiquitous, the demand for data storage and computing is expected to rise dramatically, posing both opportunities and challenges for businesses, governments, and individuals alike.\n\nTo meet this growing demand, companies are racing to develop more efficient and scalable data storage solutions, while researchers are working to improve the speed and capacity of computing systems. The outcome will have far-reaching implications for industries, from healthcare and finance to education and entertainment, as AI continues to transform the way we live, work, and interact with one another.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 3:02:00",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-540",
-    "title": "Extremely Large Telescope Prepares for Biosignature Detection",
-    "slug": "extremely-large-telescope-prepares-for-biosignature-detection",
-    "content": "The Extremely Large Telescope (ELT), a groundbreaking astronomical observatory set to be commissioned in the 2030s in Chile, has sparked a wave of scientific research aimed at predicting its capabilities. As the world's largest optical/near-infrared telescope, the ELT is poised to revolutionize our understanding of the universe with its 39-meter (128-foot) primary mirror. A flurry of papers has emerged in recent times, detailing the telescope's potential to make groundbreaking discoveries in various fields of astronomy.\n\nThese studies reveal that the ELT is expected to surpass the capabilities of its predecessors, providing unparalleled insights into the formation and evolution of galaxies, stars, and planets. The telescope's advanced optics and sophisticated instrumentation will enable scientists to study distant objects in unprecedented detail, shedding light on mysteries such as dark matter and dark energy. Furthermore, the ELT's ability to observe the atmospheres of exoplanets will provide valuable information about the potential for life beyond Earth. As the ELT's commissioning draws near, the scientific community is eagerly anticipating the opportunities it will bring.\n\nThe ELT's commissioning in the 2030s marks a significant milestone in the history of astronomy, and the telescope's name may undergo a change before its official launch. Regardless of its name, the ELT is set to become a game-changer in the field of astronomy, offering scientists a powerful tool to explore the universe and push the boundaries of human knowledge.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 3:01:54",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-539",
-    "title": "eROSITA Releases Second Major Public Data Set on X-ray Sky",
-    "slug": "erosita-releases-second-major-public-data-set-on-x-ray-sky",
-    "content": "The Max Planck Institute for Extraterrestrial Physics (MPE) has announced the release of the second major public data set from the German eROSITA consortium, known as the eROSITA Data Release 2 (DR2). This significant milestone marks a major step forward in the eROSITA mission, which aims to map the entire sky in X-ray wavelengths. The eROSITA-DE consortium, led by the MPE and involving the University of Bonn, has been working tirelessly to collect and analyze vast amounts of data from the eROSITA space telescope.\n\nThe eROSITA Data Release 2 contains a wealth of information, including observations of over 10 million X-ray sources across the sky. This data set is expected to significantly enhance our understanding of the universe, providing insights into the properties of black holes, neutron stars, and galaxy clusters. The DR2 data will also be crucial for the study of the intergalactic medium and the formation of galaxies. The release of this data set is a testament to the eROSITA consortium's dedication to advancing our knowledge of the cosmos.\n\nThe eROSITA Data Release 2 is now available to the scientific community, paving the way for further research and analysis. This data set has the potential to revolutionize our understanding of the universe and shed new light on some of the most pressing questions in astrophysics. As researchers begin to delve into the DR2 data, it is likely that new discoveries and insights will emerge, furthering our understanding of the complex and awe-inspiring universe that we inhabit.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 3:01:49",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-537",
-    "title": "New mechanism identified that safeguards DNA during cell division",
-    "slug": "new-mechanism-identified-that-safeguards-dna-during-cell-division",
-    "content": "During cell division, the genome must be duplicated and split precisely between two daughter cells. Recent studies have highlighted a common complication: chromosomes sometimes fail to separate completely, leaving behind slender strands of DNA that tether the nascent cells together. These structures, often referred to as DNA bridges, arise when the cellular machinery that resolves chromosomal entanglements does not complete its task before the final separation step.\n\nDNA bridges can form through several mechanisms, including incomplete resolution of DNA catenanes, persistent replication intermediates, or errors in the mitotic spindle’s ability to pull sister chromatids apart. While many bridges are transient and resolved by cellular repair pathways, persistent strands can lead to genomic instability, missegregation of genetic material, and ultimately contribute to developmental disorders or cancerous growths. Researchers are investigating the molecular checkpoints that detect and correct these failures, as well as the potential for therapeutic interventions that enhance the fidelity of chromosome segregation.\n\nUnderstanding the prevalence and resolution of DNA bridges is crucial for elucidating the fundamental processes that maintain genomic integrity. Continued research into the cellular mechanisms that detect and repair these bridges will inform both basic biology and clinical strategies aimed at preventing diseases associated with chromosomal missegregation.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 3:01:40",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-536",
-    "title": "EU Wildfires: Study Develops Governance Tool",
-    "slug": "eu-wildfires-study-develops-governance-tool",
-    "content": "Wildfires Have Evolved into a Complex Systemic Risk\n\nClimate change, land-use change, and socioeconomic pressures have transformed wildfires from a natural ecological process into a multifaceted threat that affects various aspects of our society. This shift has significant implications for ecosystems, infrastructure, public health, water resources, cultural heritage, and rural livelihoods. The increasing frequency, severity, and destructive power of wildfires underscore the urgent need for comprehensive solutions that address this complex issue.\n\nThe projected rise in wildfires poses a substantial challenge to firefighting efforts, despite significant investments in capacity and resources. As the climate continues to change, wildfires are expected to become more intense and widespread, putting communities, ecosystems, and critical infrastructure at risk. Furthermore, the socioeconomic pressures driving land-use change, such as urbanization and agriculture, exacerbate the risk of wildfires by creating fuel sources and altering natural fire regimes.\n\nTo mitigate the impact of wildfires, policymakers and stakeholders must adopt a cross-cutting approach that integrates ecological, social, and economic considerations. This requires a collaborative effort to develop and implement effective strategies that address the root causes of wildfires, protect vulnerable communities, and preserve ecosystem resilience. By acknowledging the systemic nature of wildfires and working together to address this challenge, we can reduce the devastating consequences of these events and create a more sustainable future.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 2:53:48",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-534",
-    "title": "Smarter fish farms could cut electricity use and CO₂ while keeping fish safe",
-    "slug": "smarter-fish-farms-could-cut-electricity-use-and-co-while-keeping-fish-safe",
-    "content": "Aquaculture Technology Gains Momentum with Sustainable RAS Systems\n\nIn a bid to reduce the environmental footprint of aquaculture, recirculating aquaculture systems (RAS) have emerged as a promising solution. These cutting-edge systems enable the efficient use of water, precise control over rearing conditions, and significant reduction in environmental impacts by filtering and reusing water. As a result, RAS facilities are gaining popularity among aquaculture operators seeking to adopt more sustainable practices.\n\nHowever, the operation of RAS facilities comes with a significant caveat. The complex network of pumps, filters, aerators, and other equipment required to maintain stable rearing conditions demands a substantial amount of electricity. Typically, these systems are designed to operate continuously or adhere to conservative fixed schedules, resulting in substantial energy consumption. This paradox highlights the need for innovative approaches to optimize the energy efficiency of RAS systems, thereby minimizing their environmental impact.\n\nTo address this challenge, researchers and industry experts are exploring various strategies to improve the energy efficiency of RAS facilities. These efforts aim to strike a balance between maintaining optimal rearing conditions and reducing energy consumption, paving the way for more sustainable and environmentally friendly aquaculture practices.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/1/2026 2:53:34",
-    "author": "Phys.org",
     "isFeatured": false
   }
 ]
