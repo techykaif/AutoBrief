@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260731-533",
+    "title": "NASA Langley Opens New Wind Tunnel for Research",
+    "slug": "nasa-langley-opens-new-wind-tunnel-for-research",
+    "content": "NASA Unveils State-of-the-Art Wind Tunnel at Langley Research Center\n\nIn a significant milestone for the space agency, NASA leadership and Virginia government officials officially inaugurated the Flight Dynamics Research Facility at the Langley Research Center in Hampton, Virginia, on Friday, July 31, 2026. The cutting-edge facility marks a major expansion of NASA's capabilities, representing the agency's first significant wind tunnel investment in over 40 years. The new facility is poised to play a pivotal role in advancing NASA's aeronautics, exploration, and science objectives, driving innovation and technological progress in the fields of space exploration and aeronautics.\n\nThe Flight Dynamics Research Facility is designed to support a wide range of research and technology development activities, leveraging advanced computational models and experimental techniques to simulate complex aerodynamic and fluid dynamics phenomena. By providing researchers with access to a state-of-the-art wind tunnel, NASA aims to accelerate the development of new technologies, improve the efficiency and safety of aircraft and spacecraft, and expand humanity's understanding of the universe. The facility's capabilities will also enable the testing of new materials, designs, and propulsion systems, paving the way for future breakthroughs in space exploration and aeronautics.\n\nThe inauguration of the Flight Dynamics Research Facility is a testament to NASA's commitment to investing in cutting-edge research infrastructure and advancing the frontiers of space exploration and aeronautics. As the agency continues to push the boundaries of human knowledge and achievement, the new wind tunnel facility will play a vital role in driving innovation and progress, inspiring new generations of scientists, engineers, and explorers to pursue careers in these fields.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/1/2026 2:53:28",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-531",
     "title": "Understanding RowHammer and RowPress: DRAM Read Disturbance Phenomena",
     "slug": "understanding-rowhammer-and-rowpress-dram-read-disturbance-phenomena",
