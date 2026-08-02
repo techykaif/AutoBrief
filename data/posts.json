@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260802-036",
+    "title": "Director Justin Hardy, Wicker Man sequel filmmaker, dies at 61",
+    "slug": "director-justin-hardy-wicker-man-sequel-filmmaker-dies-at-61",
+    "content": "A British filmmaker died on Friday after suffering a heart attack, his family announced in a statement released to the press. The statement confirmed that the filmmaker, whose name was not disclosed, experienced the cardiac event earlier in the day and was pronounced dead shortly thereafter.\n\nFamily members said the loss is deeply felt by relatives and close friends, and they asked for privacy while they mourn. No further details about the circumstances surrounding the heart attack or the filmmaker’s recent activities were provided at this time.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "8/2/2026 9:31:47",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-035",
+    "title": "DOJ drops felony charge against former Olympian David Hearn in Reflecting Pool vandalism case",
+    "slug": "doj-drops-felony-charge-against-former-olympian-david-hearn-in-reflecting-pool-v",
+    "content": "The Justice Department announced on Friday that it will dismiss the felony charge of destruction of property against former Olympian David Hearn, who had been accused of vandalizing the Reflecting Pool on the National Mall. Prosecutors said the decision was based on a review of the evidence, which indicated that the alleged damage did not meet the threshold for a felony prosecution. Hearn, a silver‑medalist swimmer, had faced a criminal case after a video surfaced showing a group of protesters near the pool in June; the Department concluded that the footage did not demonstrate intentional wrongdoing on his part.\n\nDemocratic leaders responded by saying the dismissal validates their long‑standing criticism that the current administration is using the Justice Department as a political weapon. A spokesperson for the House Judiciary Committee called the move “a clear illustration of selective enforcement” and urged oversight of the department’s prosecutorial decisions. The case had been cited by Republicans as an example of leniency toward protest‑related offenses, while Democrats argued it exemplified overreach. With the charge now dropped, the episode adds to the broader debate over how federal law enforcement addresses politically charged incidents.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/2/2026 9:31:42",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-034",
     "title": "Houthi maritime authority denies plans to charge tolls for Bab el-Mandeb passage",
     "slug": "houthi-maritime-authority-denies-plans-to-charge-tolls-for-bab-el-mandeb-passage",
@@ -5474,28 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "7/31/2026 20:22:08",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-267",
-    "title": "Moonshot AI platform runs on 20,000 Nvidia chips supplied by Alibaba",
-    "slug": "moonshot-ai-platform-runs-on-20-000-nvidia-chips-supplied-by-alibaba",
-    "content": "Moonshot, a Shanghai‑based AI startup, has announced that its new generative model, Kimi, was trained on a 20,000‑node cluster of Nvidia GPUs supplied by Alibaba Cloud. The cluster, the largest of its kind in the region, was provisioned to accelerate Kimi’s training and inference workloads, allowing the model to process vast amounts of data and deliver responses across a range of natural‑language tasks. The partnership marks a significant step for Alibaba, which has been expanding its cloud‑AI portfolio to compete with global providers.\n\nKimi is positioned as a conversational AI platform capable of handling complex dialogue, summarization, and content creation tasks. According to Moonshot’s technical brief, the model leverages a transformer architecture optimized for parallel GPU execution, achieving training speeds that would otherwise require months on smaller clusters. The use of 20,000 Nvidia chips enables the startup to fine‑tune the model on diverse datasets, improving accuracy and reducing latency for end‑users. While the Y Combinator forum thread on the project received only a handful of comments, the announcement has attracted attention from investors and industry analysts monitoring the rapid scaling of AI infrastructure in Asia.\n\nThe deployment underscores the growing importance of cloud‑based GPU resources in competitive AI development. By harnessing Alibaba’s expansive data‑center network, Moonshot can reduce its capital expenditure on hardware while scaling its services to meet global demand. The move also highlights the broader trend of startups partnering with major cloud providers to access cutting‑edge hardware, a strategy that may shape the next wave of AI innovation.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "7/31/2026 20:21:50",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-266",
-    "title": "Situational Awareness Down 67% in July in AI Stock Rout",
-    "slug": "situational-awareness-down-67-in-july-in-ai-stock-rout",
-    "content": "Situational Awareness Stocks Plummet 67% in July Amid AI-Driven Rout\n\nThe stock market witnessed a significant downturn in July, with the Situational Awareness (SITM) index plummeting 67% amidst a broader rout in AI-focused stocks. This sharp decline has raised concerns among investors and industry experts, who are closely monitoring the sector's performance. The decline in SITM stocks is attributed to the increasing competition and regulatory scrutiny in the AI space, leading to a reevaluation of the sector's growth prospects.\n\nThe AI sector has been under intense scrutiny in recent months, with several high-profile companies announcing significant layoffs and restructuring efforts. This trend has contributed to the decline in SITM stocks, as investors reassess their exposure to the sector. Furthermore, the increasing competition from established players and new entrants has led to a decrease in the market value of AI-focused stocks. The decline in SITM stocks has also been driven by a decrease in investor confidence, as the sector's growth prospects are reevaluated.\n\nThe decline in SITM stocks has significant implications for the broader market, as the sector's performance has a ripple effect on the overall economy. While the decline is a cause for concern, it also presents an opportunity for investors to reassess their portfolios and identify potential growth areas. As the AI sector continues to evolve, it is essential for investors to stay informed and adapt to changing market conditions.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "7/31/2026 20:13:07",
     "author": "Hacker News",
     "isFeatured": false
   }
