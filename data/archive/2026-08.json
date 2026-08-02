@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260731-475",
+    "title": "Night Vision Goggles Get Full-Color Upgrade",
+    "slug": "night-vision-goggles-get-full-color-upgrade",
+    "content": "Scientists have unveiled a new imaging technique that converts infrared (IR) wavelengths and intensity into visible color displays, enabling real‑time visualization of heat signatures for the first time in a compact, user‑friendly format. The system employs a calibrated spectral mapping algorithm that assigns each IR wavelength to a corresponding hue in the visible spectrum while preserving relative intensity as brightness. By integrating this algorithm with standard camera sensors, the device can render thermal data as a natural‑looking color image, making it easier for operators to interpret temperature variations without specialized IR equipment.\n\nThe breakthrough, announced by researchers at the National Institute of Photonics, promises broad applications across industrial inspection, medical diagnostics, and security surveillance. In pilot tests, the technology accurately reproduced temperature gradients in automotive engine components and detected subtle heat leaks in building envelopes, all while maintaining the familiar visual cues of conventional color photography. The team plans to commercialize the system within the next year, targeting sectors where rapid, intuitive thermal assessment is critical.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/1/2026 1:22:21",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-473",
+    "title": "VC-backed startups linked to higher fraud rates, study finds",
+    "slug": "vc-backed-startups-linked-to-higher-fraud-rates-study-finds",
+    "content": "A joint study by Imperial College London and Emlyon Business School has charted the ways in which Silicon Valley entrepreneurs engage in fraudulent activities, highlighting the significant influence that investors can have on such misconduct. The research, which analyzed a dataset of startup disclosures and funding rounds, identifies a set of common tactics—misrepresentation of product viability, overstatement of market traction, and manipulation of financial projections—that founders employ to attract capital.\n\nThe study’s authors note that investors often play a pivotal role in enabling or discouraging these deceptive practices. By providing large sums of capital early in a company’s life cycle, investors can create incentives for founders to prioritize rapid growth over transparency. Conversely, the research indicates that rigorous due diligence and a culture of accountability can reduce the likelihood of fraud, suggesting that both founders and investors share responsibility for maintaining ethical standards.\n\nThese findings arrive at a time when venture capital activity in the United States is at record highs, and regulators are increasingly scrutinizing startup practices. The research underscores the need for clearer disclosure requirements and stronger governance structures within early‑stage companies to protect investors and preserve the integrity of the innovation ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/1/2026 1:22:13",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260731-472",
+    "title": "Index Ventures Raises $2B in Three Funds After Wiz Payout",
+    "slug": "index-ventures-raises-2b-in-three-funds-after-wiz-payout",
+    "content": "Index Capital has announced that a recent funding round has increased its total available investing capital to $3.5 billion. The infusion, which comes from a mix of institutional investors and strategic partners, expands the firm’s capacity to deploy capital across its portfolio of technology and growth‑stage companies.\n\nThe new capital will be used to accelerate the firm’s investment strategy, focusing on early‑stage ventures in software, fintech, and sustainability sectors. Index’s management said the additional funds will allow the firm to pursue larger deals, extend support to existing portfolio companies, and deepen its research capabilities. The announcement follows a series of successful exits that have bolstered investor confidence in the firm’s track record.\n\nWith the $3.5 billion in hand, Index Capital positions itself to capture emerging opportunities in a rapidly evolving market landscape, reinforcing its commitment to backing innovative businesses that drive long‑term value.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/1/2026 1:22:09",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260731-471",
     "title": "AI firms urged to take responsibility for rogue bots, says Hugging Face CEO",
     "slug": "ai-firms-urged-to-take-responsibility-for-rogue-bots-says-hugging-face-ceo",

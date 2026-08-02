@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260802-231",
+    "title": "Gears of War Prequel Release Announced",
+    "slug": "gears-of-war-prequel-release-announced",
+    "content": "The Gears of War franchise is set to revisit its roots with a highly anticipated prequel, promising a return to the gritty, intense gameplay that defined the series' early success. This new installment has been built from scratch, indicating a significant investment of time and resources into creating a fresh and authentic experience for fans. By going back to its roots, the prequel aims to recapture the essence of what made Gears of War a beloved and respected name in the gaming industry.\n\nThe decision to create a prequel from the ground up suggests that the developers are committed to delivering a high-quality product that meets the expectations of both longtime fans and new players. The Gears of War series has a rich history, with a complex and engaging narrative that has evolved over the years. A prequel offers a unique opportunity to explore the events that shaped the world and characters of the series, providing a deeper understanding of the Gears of War universe. With a focus on gritty, realistic gameplay, the prequel is likely to appeal to fans of the series who have been waiting for a return to form.\n\nThe release of the Gears of War prequel is expected to generate significant excitement among gamers, particularly those who have been following the series since its inception. As the gaming community awaits more information about the prequel, including its release date and gameplay features, one thing is clear: the return to Gears of War's roots is a bold move that has the potential to revitalize the series and attract a new generation of fans. With its promise of intense, gritty gameplay and a rich narrative, the prequel is shaping up to be a must-play experience for gamers in the year ahead.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/2/2026 22:52:11",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-230",
+    "title": "Trent Rockets Beat Sunrisers Leeds",
+    "slug": "trent-rockets-beat-sunrisers-leeds",
+    "content": "In a closely contested match, Trent Rockets emerged victorious against Sunrisers Leeds, winning by a narrow margin of five runs. The game saw a notable performance from Ben Duckett, who played a crucial role in his team's success. Duckett struck a half-century, demonstrating his batting prowess and contributing significantly to the Rockets' total.\n\nDuckett's impact, however, was not limited to his batting. He also made a significant contribution on the field, taking a sharp diving catch to dismiss his England team-mate Harry Brook. This impressive piece of fielding not only showcased Duckett's agility and reflexes but also had a direct impact on the outcome of the game. The catch helped to restrict Sunrisers Leeds' scoring and ultimately contributed to the Rockets' narrow victory.\n\nThe win for Trent Rockets is a testament to the team's overall performance and ability to hold their nerve under pressure. With Duckett's all-round display being a key factor, the Rockets were able to secure a hard-fought victory. The match highlighted the competitive nature of the tournament, with teams battling it out for crucial wins. The outcome of this game will likely have implications for the standings, and the Rockets will look to build on this momentum in their upcoming fixtures.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/2/2026 22:52:05",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-224",
+    "title": "Trump administration targets asylum seekers and children in immigration court for deportation",
+    "slug": "trump-administration-targets-asylum-seekers-and-children-in-immigration-court-fo",
+    "content": "Politicians across the globe are being urged to defend asylum rights and to adopt policies that establish a safe, humane system for border arrivals. The call comes amid growing criticism of current practices that many argue fail to meet international standards for the treatment of refugees and migrants. Advocates argue that a coordinated approach—combining robust screening with comprehensive support services—can reduce the risk of exploitation and ensure that arrivals receive timely protection and assistance.\n\nKey details of the proposed framework include the creation of dedicated processing centers staffed by trained personnel, the implementation of standardized health and safety protocols, and the provision of legal assistance to asylum seekers. The policy also calls for increased funding to border agencies, the sharing of best practices between nations, and the establishment of an independent oversight body to monitor compliance with human rights obligations. Contextually, this initiative follows a series of high-profile incidents that highlighted gaps in current border management and prompted renewed scrutiny from international human rights organizations.\n\nIn conclusion, the momentum for reform signals a pivotal moment for policymakers to move beyond rhetoric and enact concrete measures that protect vulnerable individuals while maintaining orderly border operations. The success of such policies will hinge on sustained political will, adequate resources, and ongoing collaboration with civil society and international partners.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/2/2026 22:51:42",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-223",
     "title": "Media Companies Fight Back Against Trump Lawsuits",
     "slug": "media-companies-fight-back-against-trump-lawsuits",
@@ -5464,39 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/1/2026 1:22:36",
     "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-475",
-    "title": "Night Vision Goggles Get Full-Color Upgrade",
-    "slug": "night-vision-goggles-get-full-color-upgrade",
-    "content": "Scientists have unveiled a new imaging technique that converts infrared (IR) wavelengths and intensity into visible color displays, enabling real‑time visualization of heat signatures for the first time in a compact, user‑friendly format. The system employs a calibrated spectral mapping algorithm that assigns each IR wavelength to a corresponding hue in the visible spectrum while preserving relative intensity as brightness. By integrating this algorithm with standard camera sensors, the device can render thermal data as a natural‑looking color image, making it easier for operators to interpret temperature variations without specialized IR equipment.\n\nThe breakthrough, announced by researchers at the National Institute of Photonics, promises broad applications across industrial inspection, medical diagnostics, and security surveillance. In pilot tests, the technology accurately reproduced temperature gradients in automotive engine components and detected subtle heat leaks in building envelopes, all while maintaining the familiar visual cues of conventional color photography. The team plans to commercialize the system within the next year, targeting sectors where rapid, intuitive thermal assessment is critical.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:21",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-473",
-    "title": "VC-backed startups linked to higher fraud rates, study finds",
-    "slug": "vc-backed-startups-linked-to-higher-fraud-rates-study-finds",
-    "content": "A joint study by Imperial College London and Emlyon Business School has charted the ways in which Silicon Valley entrepreneurs engage in fraudulent activities, highlighting the significant influence that investors can have on such misconduct. The research, which analyzed a dataset of startup disclosures and funding rounds, identifies a set of common tactics—misrepresentation of product viability, overstatement of market traction, and manipulation of financial projections—that founders employ to attract capital.\n\nThe study’s authors note that investors often play a pivotal role in enabling or discouraging these deceptive practices. By providing large sums of capital early in a company’s life cycle, investors can create incentives for founders to prioritize rapid growth over transparency. Conversely, the research indicates that rigorous due diligence and a culture of accountability can reduce the likelihood of fraud, suggesting that both founders and investors share responsibility for maintaining ethical standards.\n\nThese findings arrive at a time when venture capital activity in the United States is at record highs, and regulators are increasingly scrutinizing startup practices. The research underscores the need for clearer disclosure requirements and stronger governance structures within early‑stage companies to protect investors and preserve the integrity of the innovation ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:13",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260731-472",
-    "title": "Index Ventures Raises $2B in Three Funds After Wiz Payout",
-    "slug": "index-ventures-raises-2b-in-three-funds-after-wiz-payout",
-    "content": "Index Capital has announced that a recent funding round has increased its total available investing capital to $3.5 billion. The infusion, which comes from a mix of institutional investors and strategic partners, expands the firm’s capacity to deploy capital across its portfolio of technology and growth‑stage companies.\n\nThe new capital will be used to accelerate the firm’s investment strategy, focusing on early‑stage ventures in software, fintech, and sustainability sectors. Index’s management said the additional funds will allow the firm to pursue larger deals, extend support to existing portfolio companies, and deepen its research capabilities. The announcement follows a series of successful exits that have bolstered investor confidence in the firm’s track record.\n\nWith the $3.5 billion in hand, Index Capital positions itself to capture emerging opportunities in a rapidly evolving market landscape, reinforcing its commitment to backing innovative businesses that drive long‑term value.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/1/2026 1:22:09",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
