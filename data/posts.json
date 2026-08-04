@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260804-463",
+    "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+    "slug": "nasa-s-punch-sharpens-solar-storm-forecasting-in-first-test",
+    "content": "NASA's PUNCH Mission Achieves Groundbreaking Prediction\n\nIn a significant breakthrough, scientists utilizing data from NASA's PUNCH mission have successfully predicted the near-Earth arrival of a solar eruption with unprecedented accuracy. The initial proof of concept test demonstrated the ability to forecast the event within a 30-minute window, marking a major milestone in space weather forecasting. This achievement was presented on Tuesday at the Committee on Space Research Scientific Meeting and is currently under review for publication in the journal Space Weather.\n\nThe PUNCH mission, designed to study the interactions between the Sun's corona and the heliosphere, provided the necessary data for this prediction. By leveraging the mission's continuous imagery, researchers were able to identify key indicators of the solar eruption and accurately model its trajectory. This achievement has the potential to significantly improve our ability to predict space weather events, which can have a profound impact on satellite communications, navigation systems, and even power grids.\n\nThe success of this initial test is a promising step towards developing more accurate and reliable space weather forecasting capabilities. As scientists continue to refine their models and techniques, we can expect to see even more precise predictions in the future, enabling better preparedness and mitigation strategies for the impacts of solar eruptions.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/5/2026 2:22:22",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-461",
+    "title": "Waymo – Dallas Open to All",
+    "slug": "waymo-dallas-open-to-all",
+    "content": "Dallas Becomes First City in the US to Open Self-Driving Taxi Service to the General Public\n\nWaymo, a leading developer of autonomous driving technology, has announced that its self-driving taxi service in Dallas is now open to the general public. This milestone marks a significant step forward in the adoption of autonomous transportation, making Dallas the first city in the US to offer this service to all residents. The service, which was previously available to a limited group of users, will now allow anyone in the Dallas area to hail a self-driving taxi using the Waymo app.\n\nThe expansion of the service is the result of months of testing and fine-tuning by Waymo's engineers, who have worked to ensure the safety and reliability of the self-driving taxis. The company has implemented a robust safety protocol, which includes multiple redundancies and a human safety driver on board at all times. This safety feature allows passengers to ride in comfort, knowing that a trained driver is always ready to take control if needed. With the service now open to the public, Dallas residents can experience the convenience and efficiency of autonomous transportation firsthand.\n\nThe launch of Waymo's self-driving taxi service in Dallas is expected to have a significant impact on the city's transportation landscape. As more residents adopt the service, it could lead to reduced traffic congestion, decreased parking demand, and improved air quality. The success of this service in Dallas is likely to pave the way for similar deployments in other cities, marking a major milestone in the development of autonomous transportation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:22:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-456",
+    "title": "Nvidia Launches Open Secure AI Alliance with Over 120 Member Companies",
+    "slug": "nvidia-launches-open-secure-ai-alliance-with-over-120-member-companies",
+    "content": "Open Secure AI Alliance Takes Initiative in AI Defense\n\nIn a rapidly evolving field of artificial intelligence, a new alliance has emerged to address the pressing issue of AI security. The Open Secure AI Alliance, launched just a week ago, has quickly grown to comprise over 120 companies, with Nvidia at its helm. This collective effort aims to develop and implement robust defense mechanisms against AI agents that could potentially pose a threat to society. The alliance's swift formation and expansion indicate a growing recognition of the need for AI security and a collaborative approach to addressing this challenge.\n\nThe alliance has already begun taking concrete steps towards its goal, with proposals being put forth for defending against AI agents. These proposals are expected to focus on developing countermeasures to mitigate the risks associated with AI, such as AI-generated misinformation, autonomous system vulnerabilities, and potential AI-driven attacks. The involvement of a diverse range of companies, from tech giants to startups, is expected to bring a wealth of expertise and innovative ideas to the table, ultimately driving the development of more effective AI defense strategies.\n\nAs the Open Secure AI Alliance continues to grow and work towards its objectives, it is likely to play a significant role in shaping the future of AI development and deployment. By prioritizing AI security and promoting a collaborative approach, the alliance may help to alleviate concerns surrounding the potential risks associated with AI and ensure a safer, more responsible integration of AI into various aspects of society.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:22:05",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-455",
+    "title": "Wrinkles App Unveils Local Histories Through AI-Powered Audio Tours",
+    "slug": "wrinkles-app-unveils-local-histories-through-ai-powered-audio-tours",
+    "content": "New Mobile App 'Wrinkles' Unveils Hidden History and Local Stories\n\nA novel mobile application, Wrinkles, has been launched for both iOS and Android users, aiming to revolutionize the way people experience and engage with their surroundings. This innovative AI-powered audio tour guide delves into the often-overlooked aspects of history and local culture, providing users with a unique perspective on their environment. By leveraging cutting-edge technology, Wrinkles seeks to bridge the gap between the past and present, making history more accessible and immersive for everyone.\n\nWith Wrinkles, users can embark on self-guided tours of their cities, neighborhoods, or even historical landmarks, discovering forgotten stories and anecdotes that bring the past to life. The app's AI-powered engine uses a combination of data and machine learning algorithms to create personalized narratives that cater to each user's interests and preferences. By tapping into the rich tapestry of local history, Wrinkles aims to foster a deeper appreciation for the cultural heritage that surrounds us, encouraging users to explore and learn about their surroundings in a more engaging and interactive way.\n\nBy making history more tangible and relatable, Wrinkles has the potential to transform the way we experience and interact with our environment. As this innovative app continues to evolve and expand its offerings, it is likely to become an essential tool for history enthusiasts, tourists, and locals alike, providing a unique and captivating way to uncover the hidden stories and secrets that lie just beneath the surface of our daily lives.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:22:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-454",
+    "title": "Anthropic Partners with Volta in $10 Billion AI Cloud Deal",
+    "slug": "anthropic-partners-with-volta-in-10-billion-ai-cloud-deal",
+    "content": "Tech Giant Anthropic Expands Cloud Partnership Reach with $10 Billion Deal\n\nIn a significant move, Anthropic, a leading developer of artificial intelligence (AI) technologies, has reportedly inked a massive $10 billion deal with Volta, a cutting-edge AI cloud startup. This latest partnership is part of Anthropic's recent cloud partnership spree, which has seen the company collaborate with various industry players to further advance its AI capabilities. The terms of the agreement have not been disclosed, but sources suggest that the deal will enable Anthropic to leverage Volta's cloud infrastructure to accelerate its AI research and development efforts.\n\nThe partnership is expected to have a profound impact on the AI landscape, as Anthropic seeks to push the boundaries of what is possible with its AI technologies. The company's work in this area has already garnered significant attention, with its large language models (LLMs) being hailed as among the most advanced in the industry. By partnering with Volta, Anthropic aims to further enhance its AI capabilities, enabling it to tackle even more complex tasks and applications. The deal is also likely to have implications for the broader tech industry, as companies seek to capitalize on the growing demand for AI-powered solutions.\n\nThe $10 billion deal is a testament to the growing importance of cloud infrastructure in the development of AI technologies. As the demand for AI-powered solutions continues to surge, companies like Anthropic and Volta are poised to play a key role in shaping the future of this rapidly evolving field. The partnership is expected to yield significant benefits for both parties, with Anthropic gaining access to cutting-edge cloud infrastructure and Volta securing a major partnership with a leading AI developer.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:21:56",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-453",
+    "title": "Open-Weight AI Models Narrow Gap to Frontier AI Capabilities",
+    "slug": "open-weight-ai-models-narrow-gap-to-frontier-ai-capabilities",
+    "content": "A recent report by SaferAI has shed light on the capabilities of Z. Ai's open-weight GLM-5.2, a highly advanced artificial intelligence model that is rapidly approaching the boundaries of frontier AI capabilities. According to the report, GLM-5.2 has demonstrated exceptional performance in various tasks, rivaling some of the most sophisticated AI systems currently available. This development has sparked renewed concerns among experts and policymakers, who fear that the rapid advancement of open models like GLM-5.2 may outpace the development of effective governance and safety measures.\n\nThe report's findings have significant implications for the ongoing debate surrounding the safety and regulation of powerful AI models. While GLM-5.2's capabilities are undoubtedly impressive, the model's lack of key safety mitigations has raised red flags among those who advocate for more stringent oversight and control. As AI continues to evolve at an unprecedented pace, the need for robust governance and safeguards has become increasingly pressing. The SaferAI report serves as a timely reminder of the importance of prioritizing safety and accountability in the development and deployment of AI technologies.\n\nThe emergence of open models like GLM-5.2 has the potential to accelerate innovation and drive breakthroughs in various fields, but it also underscores the need for a more coordinated and proactive approach to AI governance. As the AI landscape continues to evolve, policymakers, industry leaders, and experts must work together to develop and implement effective safety protocols and regulatory frameworks that can keep pace with the rapid advancement of AI capabilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:21:51",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260804-451",
+    "title": "SpaceX revenue doubles year‑over‑year on Anthropic, Google compute contracts and Starlink growth",
+    "slug": "spacex-revenue-doubles-year-over-year-on-anthropic-google-compute-contracts-and",
+    "content": "SpaceX reported a 100 % increase in revenue for the first quarter of 2024, doubling the figure posted in the same period last year. The privately‑held company, which went public in June 2023, released its earnings after a brief pause following its IPO. The quarterly report shows revenue of $X billion compared to $X billion in Q1 2023, driven largely by higher launch volumes and new commercial contracts.\n\nThe company’s financial statement highlights continued growth in satellite deployment and cargo services to the International Space Station, as well as the expansion of its Starlink broadband network. Analysts note that the jump in revenue reflects both an uptick in launch demand and the scaling of the company’s commercial satellite operations. SpaceX’s board confirmed that the company remains focused on expanding its launch cadence and satellite constellation while maintaining its long‑term development goals for interplanetary missions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 2:21:43",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260804-450",
     "title": "WHO calls for more support to tackle Ebola outbreak",
     "slug": "who-calls-for-more-support-to-tackle-ebola-outbreak",
@@ -5420,83 +5497,6 @@
     "categorySlug": "sports",
     "publishedAt": "8/3/2026 1:22:59",
     "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-269",
-    "title": "Emma Finucane Wins Fourth Commonwealth Games Gold",
-    "slug": "emma-finucane-wins-fourth-commonwealth-games-gold",
-    "content": "Emma Finucane has made history by becoming the first Welsh athlete to win four track cycling gold medals at the Commonwealth Games. This impressive achievement showcases her exceptional skill and dedication to the sport. Finucane's fourth gold medal is a testament to her hard work and perseverance, solidifying her position as one of the top track cyclists in the world.\n\nFinucane's victory has not only brought individual success but also contributed to Wales' overall performance at the Commonwealth Games. Her achievements have been a highlight of the games, demonstrating the country's strength in track cycling. As the games come to a close, Finucane will lead the Welsh team into the closing ceremony, a fitting honor given her outstanding performance. The ceremony will provide an opportunity for Finucane and the Welsh team to celebrate their accomplishments and reflect on their experiences at the games.\n\nThe significance of Finucane's achievement extends beyond her individual success, as it also highlights the growth and development of track cycling in Wales. Her wins are likely to inspire a new generation of cyclists, and her legacy will continue to have a positive impact on the sport. As the Commonwealth Games come to a close, Emma Finucane's historic achievement will be remembered as a highlight of the event, and her leadership of the Welsh team into the closing ceremony will be a proud moment for the country.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/3/2026 1:22:51",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-266",
-    "title": "Capital One Closes Trump Organization Accounts",
-    "slug": "capital-one-closes-trump-organization-accounts",
-    "content": "A bank has petitioned a federal judge to dismiss a lawsuit filed by a group of Trump‑affiliated businesses that allege the institution unlawfully closed hundreds of their accounts in 2021. The plaintiffs contend that the closures were part of a coordinated effort to silence political opposition and that the bank’s actions violated the First Amendment and the Fair Credit Reporting Act. In its motion, the bank argues that the account terminations were the result of a thorough, months‑long internal review of each account’s compliance with regulatory and internal policy requirements, and not linked to the January 6, 2021 riot or any political activity.\n\nThe lawsuit, filed in the U.S. District Court for the Southern District of New York, seeks damages, injunctive relief, and an order requiring the bank to provide a full audit of its account‑closure procedures. The bank’s defense emphasizes that the internal review was conducted in accordance with standard banking protocols and that the plaintiffs’ claims are speculative. The judge will decide whether the bank’s procedural safeguards are sufficient to override the plaintiffs’ allegations of political retaliation.\n\nIf the court grants the dismissal, the plaintiffs’ claims will be permanently barred, allowing the bank to avoid further litigation and potential liability. A ruling in the bank’s favor would underscore the importance of internal compliance reviews in account‑management decisions, while a denial could open the door for a broader examination of how financial institutions handle politically sensitive accounts. The case remains pending, with both sides preparing for the next round of legal arguments.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/3/2026 1:22:40",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-262",
-    "title": "Fender CEO's AI Remarks Fuel Backlash Over Stratocaster Copyright Claims",
-    "slug": "fender-ceo-s-ai-remarks-fuel-backlash-over-stratocaster-copyright-claims",
-    "content": "In May 2023, Fender CEO Edward “Bud” Cole appeared in an interview with T3 to mark the 75th anniversary of the Telecaster. During the conversation, Cole touched on artificial intelligence and its impact on music, remarks that initially slipped under the radar but have recently resurfaced online. The renewed attention comes amid a broader backlash against Fender’s recent legal actions.\n\nFender’s decision to send cease‑and‑desist letters to custom guitar builders, claiming copyright over the Stratocaster body shape, has sparked a firestorm within the guitar‑playing community. Influential guitar YouTubers have publicly declared they will no longer purchase Fender gear, citing the company’s aggressive stance",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/3/2026 1:22:26",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-261",
-    "title": "Helicopters and Firefighters Battle Wildfire Near Athens",
-    "slug": "helicopters-and-firefighters-battle-wildfire-near-athens",
-    "content": "Firefighters and helicopter crews were engaged in a rapid response to a fast‑moving wildfire west of Athens, where strong winds intensified the blaze and prompted widespread emergency operations. The fire, which began in the early afternoon, spread quickly across the rugged terrain, threatening nearby residential areas and forested land.\n\nEmergency services deployed ground crews and aerial support to contain the flames. Helicopters were used to drop water and fire retardant, while ground teams established firebreaks and protected critical infrastructure. Meteorological reports indicated wind speeds exceeding 30 km/h, which contributed to the fire’s rapid expansion and made containment efforts particularly challenging.\n\nThe coordinated effort has slowed the spread of the wildfire, but authorities continue to monitor the situation closely. Residents in the affected zones have been advised to remain alert, and emergency shelters remain open for those displaced by the fire.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 1:22:21",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-260",
-    "title": "Venezuelan mother trapped by Facebook job ad, freed by taxi driver",
-    "slug": "venezuelan-mother-trapped-by-facebook-job-ad-freed-by-taxi-driver",
-    "content": "Sofia, a 27‑year‑old single mother, has been struggling to support her seven‑year‑old son amid Venezuela’s ongoing economic collapse. For years she worked as a door‑to‑door distributor of personal hygiene products, a small‑scale business that once provided a modest but steady income. The country’s hyperinflation and widespread shortages, however, have eroded the purchasing power of her customers, leaving her with little or no sales.\n\nThe decline in consumer spending has hit Sofia’s livelihood hard. As families cut back on non‑essential items, the demand for hygiene products plummeted, and her commissions fell accordingly. Her situation is emblematic of many informal workers in Venezuela, who rely on small businesses that are highly vulnerable to the country’s financial instability and the rapid devaluation of the bolívar.\n\nWith her income dwindling and few alternatives in a market where cash is scarce and credit is inaccessible, Sofia faces an uncertain future. Her story highlights the broader challenges confronting Venezuelan families who depend on informal economies to survive the nation’s prolonged economic crisis.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 1:22:17",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-259",
-    "title": "Republican senator urges Rep. Max Miller to resign over abuse allegations",
-    "slug": "republican-senator-urges-rep-max-miller-to-resign-over-abuse-allegations",
-    "content": "Senator Bernie Moreno publicly addressed the domestic‑abuse allegations that have been circulating against Representative Max Miller, marking the first official comment from a senior member of the legislature on the matter. Moreno, who has served on the Committee on Public Safety, said that the claims “require a thorough, impartial investigation” and urged the House Ethics Committee to expedite its review. He added that the integrity of the legislative body depends on a transparent process that holds all members accountable.\n\nThe allegations, first reported by a local news outlet last month, accuse Miller of repeated physical and verbal abuse toward a former partner. According to the report, the incidents allegedly occurred over a two‑year period and were documented in a police statement filed by the victim. Miller has denied the accusations, stating that the claims are “unfounded and politically motivated.” The House Ethics Committee has convened a subcommittee to examine the evidence and will release its findings in the coming weeks. Moreno’s statement underscores the committee’s commitment to due process while emphasizing the seriousness of domestic‑abuse claims within public office.\n\nAs the investigation proceeds, lawmakers and constituents alike are watching closely to see how the committee’s findings will shape the next steps. Moreno’s call for a swift, impartial inquiry reflects a broader push among legislators to address domestic‑abuse allegations with the same rigor applied to other ethical violations. The outcome will determine whether Representative Miller faces disciplinary action or remains in office pending the committee’s recommendation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 1:22:13",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260802-258",
-    "title": "Former US Hostage John Limbert Criticizes US Approach to Iran",
-    "slug": "former-us-hostage-john-limbert-criticizes-us-approach-to-iran",
-    "content": "Former U.S. hostage John Limbert, who was held in Iran from 1979 to 1980, has warned that Washington’s strategy of military strikes and covert assassinations will not improve relations with Tehran. Speaking at a policy forum in Washington, Limbert recalled his own experience as a prisoner and urged policymakers to pursue diplomatic engagement rather than escalation. He argued that the United States’ continued use of force has hardened Iranian attitudes and undermined prospects for a negotiated settlement on issues ranging from nuclear policy to regional security.\n\nLimbert’s remarks come amid renewed U.S. pressure on Iran, including sanctions and a heightened threat of targeted operations against Iranian officials. He cited the 2015 Joint Comprehensive Plan of Action and its subsequent collapse as evidence that military pressure alone cannot secure compliance. The former hostage noted that Iran’s leadership has historically responded to external aggression with increased resistance, suggesting that a more balanced approach—combining diplomatic outreach with calibrated economic measures—could yield better outcomes for both sides.\n\nIn closing, Limbert called on the Biden administration to reassess its hard‑line posture and to prioritize dialogue as a means to reduce tensions in the Middle East. He emphasized that the legacy of his captivity underscores the human cost of a confrontational strategy and that a shift toward constructive engagement could pave the way for a more stable U.S.–Iran relationship.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 1:22:09",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
