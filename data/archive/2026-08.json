@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260802-072",
+    "title": "Reasons the author does not recommend Tailwind CSS",
+    "slug": "reasons-the-author-does-not-recommend-tailwind-css",
+    "content": "A recent post on Andros.dev titled “Why I Don’t Recommend Tailwind CSS” has sparked discussion in the developer community. The author, who has extensive experience building web applications, argues that the utility‑first framework can lead to bloated markup, difficulty in maintaining large codebases, and a steep learning curve for teams accustomed to more traditional CSS methodologies. The article cites specific examples, such as the proliferation of repetitive class names in HTML, the challenges of debugging styles that are scattered across the markup, and the potential for increased bundle sizes when unused utilities are not purged effectively.\n\nThe piece also highlights concerns about developer ergonomics. According to the author, the lack of semantic class names can obscure the intent of the UI, making it harder for new contributors to understand the structure of a component. Additionally, the article points out that the tight coupling between markup and styling can hinder the separation of concerns that many teams rely on, especially when working with designers who prefer to manage styles in dedicated files. While acknowledging Tailwind’s benefits—such as rapid prototyping and a consistent design system—the author concludes that the trade‑offs often outweigh the advantages for larger, long‑term projects.\n\nThe post has generated a lively conversation on Hacker News, where it currently holds 49 points and 40 comments. Readers have debated the merits of utility‑first frameworks, with some praising Tailwind’s efficiency and others echoing the author’s cautionary stance. The discussion underscores the ongoing debate over best practices in front‑end development and the need for teams to carefully evaluate the tooling that best fits their project’s scale and maintenance requirements.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 14:52:49",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-071",
+    "title": "Nerd Culture's Rise Threatens Intellectual Discourse",
+    "slug": "nerd-culture-s-rise-threatens-intellectual-discourse",
+    "content": "A recent essay published on The Intrinsic Perspective, titled “Nerd Culture Is Murdering Intellectuals,” argues that the rise of internet‑driven “nerd” subcultures is reshaping public discourse in ways that marginalize traditional scholarly voices. The author contends that the proliferation of meme‑centric communication, the elevation of gaming and pop‑culture expertise, and the dominance of algorithm‑curated platforms have shifted attention away from rigorous analysis and critical thinking. Citing examples such as the rapid spread of oversimplified takeaways from complex scientific topics and the preference for celebrity‑driven commentary over academic research, the piece warns that these trends could diminish the societal role of intellectuals and erode the standards of evidence‑based discussion.\n\nThe article quickly attracted attention on the technology news forum Hacker News, where it earned 16 points and generated 21 comments. Participants in the discussion debated the extent to which “nerd culture” influences public perception of expertise, with some acknowledging the concerns raised while others highlighted the democratizing potential of online communities for knowledge sharing. The conversation reflects a broader dialogue about the balance between accessibility of information and the preservation of scholarly rigor in the digital age.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 14:52:45",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-070",
+    "title": "YouTube star AboFlah urges offline life for his kids while streaming for charity",
+    "slug": "youtube-star-aboflah-urges-offline-life-for-his-kids-while-streaming-for-charity",
+    "content": "AboFlah, the well‑known Twitch streamer who has built a loyal following through his engaging gameplay and community interaction, recently shared updates on his personal and professional objectives. In a recent interview, the streamer outlined a set of new goals that span both his content creation and his broader career ambitions, emphasizing a commitment to growth and diversification of his brand.\n\nThe conversation also highlighted AboFlah’s ongoing charity streaming efforts. He explained that he plans to dedicate a portion of his upcoming streams to raising funds for selected non‑profit organizations, detailing the mechanics of how viewers can contribute and how the proceeds will be allocated. Additionally, he described his routine for logging off, noting a structured schedule that balances streaming commitments with rest and personal time to maintain long‑term sustainability.\n\nLooking ahead, AboFlah expressed confidence that these initiatives will strengthen his community ties while expanding his influence beyond the gaming sphere. By setting clear goals, engaging in charitable work, and maintaining a disciplined off‑screen routine, he aims to continue delivering high‑quality content and positive impact for his audience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 14:52:40",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-069",
+    "title": "Overnight Israeli strikes in Gaza kill at least eight",
+    "slug": "overnight-israeli-strikes-in-gaza-kill-at-least-eight",
+    "content": "Israel carried out a series of overnight air strikes in the Gaza Strip on Sunday, killing at least eight civilians. An Israeli military helicopter struck an apartment block, killing a husband and wife, while another attack killed an elderly man and a child. Earlier on Saturday, similar strikes killed at least seven people and damaged medical supplies at a local hospital.\n\nThe attacks followed a statement from Hamas that it had agreed to the latest stage of a deal aimed at ending the war. The timing of the strikes, just hours after the announcement, has raised questions about the coordination between the parties and the broader implications for the cease‑fire negotiations. The Israeli Defense Forces have not released details on the specific targets or the strategic objectives of the operations.\n\nThe continued violence underscores the fragile nature of the current truce talks. As both sides move forward with their respective agendas, the international community remains watchful of any further escalation that could undermine the fragile peace process. Morgan Ayre reports.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 14:52:35",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-068",
+    "title": "Wildfires Spread Across Greece Amid Record Summer Heat",
+    "slug": "wildfires-spread-across-greece-amid-record-summer-heat",
+    "content": "Sweltering temperatures have gripped Greece this summer, echoing a continent‑wide heat wave that has already claimed record numbers of heat‑related deaths in Austria, Britain, France and Germany. The country’s southern regions have recorded some of the highest temperatures in the Mediterranean, with daily highs regularly exceeding 40 °C (104 °F). This extreme heat, coupled with prolonged dry spells, has created tinderbox conditions that have intensified the risk of wildfires across the Greek mainland and its islands.\n\nIn recent weeks, authorities have reported a surge in wildfire incidents, particularly in the Peloponnese and Crete, where several large fires have burned thousands of hectares of forest and scrubland. The Greek fire‑fighting services, supported by international partners, have mobilized aerial and ground crews to contain the blazes, while emergency alerts have warned residents to avoid outdoor activities during peak heat hours. The Ministry of Environment has issued advisories urging the public to stay hydrated, keep windows closed, and report any signs of fire immediately.\n\nAs the heat wave persists, Greece remains on high alert, with meteorological agencies forecasting continued temperatures above 35 °C (95 °F) for the coming weeks. The situation underscores the growing vulnerability of Mediterranean nations to climate‑driven extremes, prompting calls for strengthened fire‑management strategies and broader climate adaptation measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 14:52:31",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-067",
+    "title": "France permits return of most of 224,000 evacuees after wildfires",
+    "slug": "france-permits-return-of-most-of-224-000-evacuees-after-wildfires",
+    "content": "A wildfire that had been brought under control in the mountainous Var department of southeastern France three days ago reignited on Friday, prompting authorities to evacuate almost 2,500 residents overnight. The sudden flare‑up, which occurred after a brief period of calm, forced emergency services to act quickly to protect homes and infrastructure in the valley. Local officials reported that the fire’s resurgence was linked to a sudden shift in wind patterns that reignited smoldering embers.\n\nMeanwhile, in the Gironde region, France’s largest wildfire in more than seventy years was recently brought under control, according to reporter James Andre. The blaze, which had scorched extensive forested areas along the Atlantic coast, required a coordinated effort from firefighters, military units, and aerial support. Andre’s on‑site coverage highlighted the scale of the fire, the extensive damage to natural habitats, and the ongoing efforts to prevent further spread as weather conditions remain volatile.\n\nThe Var incident underscores the persistent risk of wildfires in France’s varied topography, while the Gironde case illustrates the country’s capacity to mobilize resources for large‑scale emergencies. Both events have prompted heightened vigilance from regional authorities, who are monitoring weather forecasts and fire‑break integrity to mitigate future outbreaks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 14:52:27",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-066",
+    "title": "EU to hold emergency video conference on Ceuta migration crisis",
+    "slug": "eu-to-hold-emergency-video-conference-on-ceuta-migration-crisis",
+    "content": "Spain has erected a 500‑metre sea barrier linking its North African enclave of Ceuta with neighboring Morocco after a mass crossing attempt earlier this week resulted in at least 67 deaths. Tens of thousands of migrants breached the border, though most who succeeded quickly returned to Morocco. The tragic episode has revived intense discussion over migration policy across Europe and prompted calls for immediate action.\n\nIn response, the European Union has scheduled an emergency video conference for Tuesday to address the situation and assess further measures. Officials are expected to review the effectiveness of physical barriers and consider coordinated strategies to manage irregular migration flows. The development underscores the ongoing challenges faced by EU member states in balancing security concerns with humanitarian obligations. Charlotte Hughes reports.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 14:52:22",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-065",
+    "title": "Peru Plane Crash Kills All 13 Onboard",
+    "slug": "peru-plane-crash-kills-all-13-onboard",
+    "content": "A small sightseeing aircraft crashed shortly after take‑off in Peru, killing all aboard – eleven foreign tourists and two crew members. The flight, which departed from a popular tourist hub, went down within minutes of leaving the runway, prompting an immediate emergency response. Local authorities confirmed the fatalities and began securing the crash site while providing assistance to families of the victims.\n\nInvestigators have launched a formal inquiry, noting that the cause of the accident remains unknown pending a thorough examination of the aircraft and flight data. Officials have not ruled out mechanical failure, weather conditions, or other factors, and will release findings as they become available. Peter O’Brien reports.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 14:52:18",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-064",
     "title": "Truck Bomb Injures 14 Near Colombia‑Venezuela Border",
     "slug": "truck-bomb-injures-14-near-colombia-venezuela-border",
