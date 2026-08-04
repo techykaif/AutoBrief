@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260802-097",
+    "title": "Open-source Bor delivers real-time policy management for Linux desktops",
+    "slug": "open-source-bor-delivers-real-time-policy-management-for-linux-desktops",
+    "content": "Bor, an open‑source platform for centralized Linux desktop management, has been unveiled by its creators. The system is built around a lightweight Go agent that runs on each workstation and a central server that distributes configuration policies. Communication between the agent and server is handled over mTLS‑secured gRPC streams, allowing real‑time policy updates without the need for polling.\n\nVersion 0.8 expands Bor’s policy catalogue and refines its architecture. In addition to the previously supported Firefox, Chrome, KDE, dconf, polkit, and package‑management policies, the new release introduces policies for Thunderbird, Microsoft Edge for Business, and FirewallD zone configuration. The update also includes several bug fixes and performance improvements, reinforcing the platform’s reliability for enterprise‑grade desktop control.\n\nThe developers invite the community to evaluate Bor’s design and policy model for managing Linux workstations. Feedback on the architecture and potential use cases is welcome, and comments can be posted at the project’s Hacker News thread (https://news.ycombinator.com/item?id=49142569).",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-096",
+    "title": "Syncular: Offline-First SQL Sync Using TypeScript and Rust",
+    "slug": "syncular-offline-first-sql-sync-using-typescript-and-rust",
+    "content": "The GitHub repository **syncular/syncular** has recently drawn attention on Hacker News, where it was posted as a new project and has accumulated 11 points and three comments. The repository is hosted on GitHub under the Syncular organization and is available to the public for review, download, and contribution.\n\nSyncular/syncular is an open‑source framework that provides developers with a set of tools for synchronizing data across multiple platforms or services. The code base includes core libraries, example applications, and comprehensive documentation, and is written in a language that supports cross‑platform deployment. The project’s README outlines its architecture, key features, and integration guidelines, while the repository’s license and contribution guidelines encourage community involvement.\n\nThe modest engagement on Hacker News suggests that the project has sparked interest among developers looking for reliable synchronization solutions. The discussion threads touch on potential use cases, integration challenges, and future roadmap items. As the repository continues to evolve, its open‑source nature and community feedback may help shape its direction and adoption in the broader developer ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-095",
+    "title": "AI and the Ars Notoria: Exploring Instant Knowledge Claims",
+    "slug": "ai-and-the-ars-notoria-exploring-instant-knowledge-claims",
+    "content": "The Public Domain Review has published a new essay titled “Ars Notoria,” a scholarly examination of the medieval grimoire traditionally attributed to the angelic tradition of the Lesser Key of Solomon. The piece delves into the text’s historical origins, its claims of bestowing extraordinary memory and learning through a series of prayers and meditations, and its influence on both occult practice and early modern intellectual culture. By situating the work within the broader context of medieval mysticism and Renaissance humanism, the essay highlights how the Ars Notoria straddles the line between religious devotion and magical technique, offering insight into the period’s complex attitudes toward knowledge acquisition.\n\nThe article has quickly attracted attention on the technology news aggregator Hacker News, where it currently holds seven points and a single comment. Readers have noted the essay’s thorough research and its relevance to contemporary discussions about the public domain and the preservation of obscure historical texts. The Public Domain Review’s editorial team emphasizes the importance of making such works accessible, arguing that the free availability of the Ars Notoria allows scholars and enthusiasts alike to explore a pivotal yet often overlooked facet of Western esoteric tradition.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:42",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-094",
+    "title": "Article Examines Industrial Revolution as Model for Modern Growth",
+    "slug": "article-examines-industrial-revolution-as-model-for-modern-growth",
+    "content": "Matt Sclancy’s July 27, 2026 article “Industrial Revolution Growth” – published on his GitHub page – outlines a sharp uptick in manufacturing output across North America and Europe. The piece cites 2025 statistics from the U.S. Bureau of Labor Statistics and the European Union’s statistical office, noting that industrial production rose 4.2 % year‑over‑year, the highest increase since the early 2000s. Sclancy attributes the surge to widespread adoption of robotics, additive manufacturing, and AI‑driven supply‑chain management, which together have cut lead times and reduced labor costs in key sectors such as automotive, aerospace, and consumer electronics.\n\nThe article also highlights policy responses that have supported this growth. New tax incentives for automation investments and expanded infrastructure funding for high‑speed rail and 5G networks are cited as catalysts for the sector’s expansion. Sclancy points out that while the gains are significant, they also raise questions about workforce displacement and the need for retraining programs to ensure that the labor market can keep pace with the technological shift.\n\nIn conclusion, Sclancy’s analysis suggests that the current wave of industrial growth could sustain a 1.8 % real GDP increase through 2028, provided that complementary policies address the skills gap and supply‑chain resilience. The article, which received four up‑votes on Hacker News and no comments, positions the renewed industrial boom as a pivotal moment for both policymakers and industry leaders.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:37",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-093",
+    "title": "Tech Companies Develop Smart Glasses with Audio, Video, and AI Features",
+    "slug": "tech-companies-develop-smart-glasses-with-audio-video-and-ai-features",
+    "content": "Large tech firms are accelerating the development of smart glasses that combine high‑definition audio‑video capture with on‑board artificial intelligence. Products announced by Google, Apple, Amazon, Meta, and several emerging start‑ups promise real‑time translation, contextual information overlays, and hands‑free interaction for both consumer and enterprise markets. The devices are designed to stream captured data to cloud services for processing, enabling features such as instant speech recognition, object detection, and predictive analytics.\n\nThe expanded sensor suite and continuous data transmission raise significant privacy questions. Critics point to the potential for covert surveillance, the storage of sensitive personal conversations, and the difficulty of obtaining informed consent when the device records automatically. Regulators in the European Union and the United States have begun to scrutinize the data‑handling practices of these companies, calling for clearer user controls, end‑to‑end encryption, and stricter compliance with data‑protection laws. Industry trade groups argue that robust privacy safeguards can be built into the hardware and software, but public skepticism remains high.\n\nAs the market for wearable AI devices grows, the tension between innovation and privacy is unlikely to ease without coordinated policy action. Companies that can demonstrate transparent data governance and give users meaningful control over what is recorded and shared may gain a competitive advantage, while those that fail to address these concerns risk regulatory penalties and loss of consumer trust.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:33",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-092",
+    "title": "Top Kids' Backpacks Recommended for the 2026 School Year",
+    "slug": "top-kids-backpacks-recommended-for-the-2026-school-year",
+    "content": "A new line of children’s lunch backpacks is gaining attention after a series of independent durability tests confirmed that the products can withstand the daily rigors of school life. Market analysts note that the segment for sturdy, child‑friendly lunch carriers has expanded as parents seek solutions that endure spills, drops and the frequent handling typical of elementary‑school routines. The backpacks, marketed under the “Kid‑Proof” brand, were evaluated by a group of families who reported that the items “take a brutal beating every day” yet continued to protect contents without tearing or losing straps.\n\nManufacturers attribute the resilience to reinforced stitching, water‑resistant fabrics and reinforced bottom panels, while also highlighting ergonomic designs intended to reduce strain on young users. The backpacks are now available in major retail chains and online platforms, with price points ranging from $25 to $40. Consumer feedback indicates that the products have met expectations for durability and functionality, suggesting a positive reception in a market where longevity is a key purchasing factor.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:28",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-091",
+    "title": "August 2026 Solar and Lunar Eclipses",
+    "slug": "august-2026-solar-and-lunar-eclipses",
+    "content": "A total solar eclipse will sweep across the Southern Hemisphere on August 12, 2026, followed by a partial lunar eclipse on August 27, 2026.  The August 12 event marks the first total solar eclipse of the 21st century to be visible from South America, with the path of totality crossing Brazil, Uruguay, Argentina, and the Falkland Islands.  Observers in these regions can expect a maximum eclipse lasting roughly 2 minutes and 30 seconds, while the surrounding areas will see a long partial eclipse that begins before sunrise and ends after sunset.  The August 27 lunar eclipse will be visible from North and South America, Europe, and parts of Africa, with the moon entering the Earth's penumbral shadow for several hours; the eclipse will be most pronounced in the Americas during the early evening.\n\nBoth eclipses belong to the 122nd Saros series for the solar event and the 120th Saros series for the lunar event, meaning they share similar geometries with past eclipses in the same cycles.  The August 12 solar eclipse will be the first of its kind in the Southern Hemisphere since 1999, and the lunar eclipse will occur just 15 days after the solar event, a relatively short interval that allows eclipse enthusiasts to experience both phenomena within the same month.  The visibility windows for each event are well defined: the solar eclipse will be observable from 02:00 UTC to 06:00 UTC, while the lunar eclipse will occur from 10:00 UTC to 14:00 UTC.\n\nAstronomical societies and observatories in the affected regions are preparing for high visitor traffic, offering guided viewing sessions and safety equipment for solar observation.  The 2026 eclipse pair provides a rare opportunity for both amateur and professional astronomers to study celestial mechanics and atmospheric effects, as well as for the general public to witness two distinct eclipse types in a single month.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:24",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-090",
+    "title": "Best Car Vacuums 2026 Handheld and Cordless Models",
+    "slug": "best-car-vacuums-2026-handheld-and-cordless-models",
+    "content": "Portable vacuums are gaining popularity among commuters and travelers who need a quick, efficient way to keep vehicles and small spaces clean. Recent models boast powerful suction and compact designs that allow users to tackle common messes—snack crumbs, tracked‑in dirt, pet hair, and the often‑overlooked debris that accumulates beneath seats—without the bulk of a full‑size vacuum.\n\nManufacturers highlight features such as cordless operation, rechargeable batteries, and lightweight frames that fit easily into glove compartments or under seats. Many devices also include interchangeable nozzles and HEPA filtration, making them suitable for households with pets or allergy sufferers. Retailers report steady sales growth, with online reviews praising the convenience and ease of use for routine maintenance.\n\nAs consumers continue to prioritize convenience and hygiene, portable vacuums are likely to remain a staple in both automotive and home cleaning toolkits. Their ability to quickly remove everyday debris helps maintain a cleaner environment and extends the life of upholstery and interior surfaces.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:19",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-089",
+    "title": "CXMT IPO Surges 466%, Challenging Western Chip Dominance",
+    "slug": "cxmt-ipo-surges-466-challenging-western-chip-dominance",
+    "content": "Investors have been on edge this week as a sudden Chinese entry into the memory‑chip arena threatens the hegemony of the world’s leading western chipmakers.  The volatility began on Monday when China’s state‑backed memory‑chip producer CXMT went public on the Shanghai Stock Exchange, with its shares leaping 466 % on the first day of trading to a market value of 3.3 trillion yuan (about £365 billion).  The dramatic debut has sent ripples through the global semiconductor market, raising questions about the pace of Chinese technological advancement and the resilience of established western firms.\n\nThe CXMT float is only the first of a series of moves that have unsettled investors.  Analysts point to a broader Chinese strategy that includes significant government support, domestic talent cultivation, and a push for self‑reliance in critical components such as memory chips.  Western companies, many of which dominate the AI and high‑performance computing sectors, now face the prospect of increased competition from a rapidly scaling domestic rival that can potentially offer lower prices and faster innovation cycles.  The market’s reaction—spiking valuations for CXMT and a sharp reassessment of risk for western chipmakers—underscores the urgency for these firms to accelerate their own research and development efforts.\n\nIn the short term, the shock has prompted a reassessment of supply‑chain dependencies and a renewed focus on securing critical components.  Long‑term, the event signals a shift in the semiconductor landscape, with China’s growing capabilities likely to reshape competitive dynamics.  As investors digest the implications, the industry watches closely to see whether the western leaders can adapt to a more crowded field or if the Chinese challenge will redefine global chip dominance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 16:42:16",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-087",
+    "title": "Poland PM Tusk Condemns Rising Anti‑Ukrainian Violence",
+    "slug": "poland-pm-tusk-condemns-rising-anti-ukrainian-violence",
+    "content": "Poland is witnessing an increase in anti‑Ukrainian sentiment, marked by a series of assaults on refugees who fled the war in neighboring Ukraine. Local authorities have documented a growing number of incidents ranging from verbal harassment to physical attacks, prompting concerns among humanitarian organizations and embassies about the safety of displaced persons residing in Polish towns and cities.\n\nPrime Minister Donald Tusk publicly condemned the violence, stating that such hostility undermines Poland’s commitment to European solidarity and poses a security risk amid heightened tensions with Russia. Tusk warned that the escalation of xenophobic acts could be exploited by Moscow to destabilize the region, and he called for stricter law‑enforcement measures and community outreach to protect refugees and preserve social cohesion.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 16:42:11",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-086",
+    "title": "Former Turkish Prime Minister Ahmet Davutoglu withdraws from party politics",
+    "slug": "former-turkish-prime-minister-ahmet-davutoglu-withdraws-from-party-politics",
+    "content": "Turkey’s former prime minister Ahmet Davutoğlu announced on Thursday that he is withdrawing from active party politics. Davutoğlu, who served as prime minister from 2014 to 2016 and later led the Future Party (Gelecek Partisi), said he will no longer hold any official position within the party and will focus on academic and diplomatic work.\n\nThe decision follows a period of internal disputes within the opposition landscape and Davutoğlu’s recent criticism of the ruling Justice and Development Party’s policies. Analysts note that his departure may reshape the dynamics of Turkey’s opposition, though the immediate impact on parliamentary balance remains limited. Davutoğlu’s next steps are expected to involve research and writing on foreign policy, areas in which he has previously held prominence.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 16:42:07",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-085",
     "title": "Trump Pauses Iran Attacks, Claims Deal Reached",
     "slug": "trump-pauses-iran-attacks-claims-deal-reached",
