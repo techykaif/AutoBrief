@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260802-215",
+    "title": "Kakehashi Runs macOS Binaries on Linux ARM",
+    "slug": "kakehashi-runs-macos-binaries-on-linux-arm",
+    "content": "A new open‑source project, *kakehashi*, was recently highlighted on Hacker News. The repository, hosted under the GitHub organization *wie‑project*, was posted to the site’s “Show HN” section, where it quickly garnered 11 up‑votes and a single comment. The post was accompanied by a brief description and a link to the GitHub page, inviting developers to explore the code.\n\nThe *kakehashi* repository contains a collection of tools designed to facilitate interoperability between different software components. According to the README, the project implements a lightweight bridge that translates data structures and communication protocols across distinct systems, aiming to streamline integration workflows. The codebase is written in a modern programming language, includes unit tests, and is released under an open‑source license that permits modification and redistribution. Documentation and example scripts are provided to help users get started quickly.\n\nWhile the Hacker News discussion remains brief, the modest engagement suggests that the project has attracted interest from a niche segment of the developer community. As the repository continues to evolve, its focus on simplifying cross‑system communication may appeal to teams working on complex integration challenges.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 22:42:32",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-214",
+    "title": "TechCrunch Explores AI in Transportation",
+    "slug": "techcrunch-explores-ai-in-transportation",
+    "content": "TechCrunch Mobility reports that artificial intelligence is reshaping the transportation landscape, driving advances from autonomous vehicles to smarter traffic management. In recent months, major automakers and mobility startups have accelerated AI‑powered development, integrating deep‑learning perception systems and predictive analytics into fleets that range from ride‑share cars to delivery drones. Industry analysts note that AI is now a core component of vehicle design, safety protocols, and operational efficiency.\n\nKey deployments include real‑time traffic optimization platforms that use machine‑learning models to predict congestion patterns and adjust signal timings, reducing city‑wide travel times by up to 15 percent in pilot cities. Autonomous vehicle programs have moved from controlled test tracks to limited public routes, with AI algorithms continuously learning from sensor data to improve obstacle detection and decision making. In logistics, AI‑driven route planners are cutting fuel consumption and delivery windows, while predictive maintenance tools forecast component wear, preventing costly downtime.\n\nAs the sector moves forward, regulators are working to establish safety standards for AI‑enabled systems, and data privacy concerns are prompting stricter governance on vehicle‑generated data. The convergence of AI and transportation promises higher safety, lower emissions, and more efficient mobility, but it also requires robust oversight to ensure equitable and secure deployment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 22:42:27",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-213",
+    "title": "Malaysia Shuts Down Network School",
+    "slug": "malaysia-shuts-down-network-school",
+    "content": "A newly formed collective known as the Frontier Community for Techno‑Optimists has entered its second year of operation, positioning itself as a hub for individuals who advocate for rapid technological advancement and its integration into everyday life. Based in a repurposed industrial campus outside Austin, Texas, the community now hosts more than 350 members, ranging from software engineers and biotech researchers to venture capitalists and policy analysts. According to the organization’s latest quarterly report, the group has secured $12 million in seed funding from a mix of private donors and regional development grants, which it has allocated toward collaborative research labs, a public‑access maker space, and a series of quarterly symposiums focused on emerging fields such as artificial intelligence, renewable energy, and synthetic biology.\n\nThe community’s recent initiatives include a pilot program that partners local schools with its AI lab to develop curriculum modules on machine‑learning ethics, as well as a joint venture with a nearby solar‑farm operator to test next‑generation storage solutions. Attendance at the most recent symposium rose to 1,200 participants, reflecting growing interest from both academic institutions and industry stakeholders. While organizers highlight the rapid expansion of projects and membership, they also acknowledge challenges related to regulatory compliance and the need for broader public outreach. The Frontier Community for Techno‑Optimists plans to release a detailed impact assessment later this year, aiming to demonstrate measurable outcomes of its technology‑driven approach to regional development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/2/2026 22:42:22",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-212",
+    "title": "Rhine River Reaches Record Low Amid Germany Drought",
+    "slug": "rhine-river-reaches-record-low-amid-germany-drought",
+    "content": "Prolonged heat and drought have driven Germany’s Rhine River to its lowest recorded water level, leaving several boats stranded in Cologne. The drop in flow has impacted the country’s busiest waterway, which is a critical artery for freight and passenger transport. Local authorities reported that the reduced depth prevented larger vessels from navigating the stretch of the river that passes through the city’s historic harbor.\n\nThe Rhine’s decline follows a series of record‑low water measurements across Europe, prompting concerns about the resilience of the region’s water‑dependent infrastructure. While the river remains navigable for smaller craft, the situation has disrupted shipping schedules and raised questions about future water‑management strategies amid continuing climate stress. Authorities are monitoring the river’s levels closely and coordinating with maritime operators to mitigate further disruptions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 22:42:17",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-210",
+    "title": "Ukrainian Drone Attacks Kill Five in Russia, Ignite Wildberries Warehouse",
+    "slug": "ukrainian-drone-attacks-kill-five-in-russia-ignite-wildberries-warehouse",
+    "content": "Ukrainian drone attacks on Russian territory killed at least five people overnight into Sunday, according to Russian authorities. The strikes reportedly targeted industrial facilities and a warehouse owned by the e‑commerce giant Wildberries, a high‑profile commercial site that has been a recent focus of Kyiv’s long‑range campaign to disrupt Moscow’s economic infrastructure.\n\nThe incidents come as Russia continues to launch its own attacks on Ukraine, while Kyiv intensifies its use of drones to strike strategic assets across the Russian Federation. Moscow has condemned the raids as a violation of international law, while Ukrainian officials say the operations are aimed at weakening the Russian war effort by damaging key supply chains and commercial assets. The latest strikes underscore the escalating nature of the conflict, with both sides employing advanced aerial weaponry to target each other’s civilian and industrial infrastructure.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 22:42:13",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-208",
+    "title": "US Considers Allowing MoU Article 5 to Resolve Hormuz Conflict",
+    "slug": "us-considers-allowing-mou-article-5-to-resolve-hormuz-conflict",
+    "content": "The United States has reportedly weighed its options in the wake of a new Memorandum of Understanding (MoU) that includes an Article 5‑style collective‑defense clause. Analysts say that the most prudent course of action, according to some officials, is to allow the Article 5 mechanism to unfold rather than to pre‑emptively intervene. The MoU, signed earlier this year between Washington and a key partner, mirrors the NATO Article 5 framework in which an attack on one signatory is treated as an attack on all, obligating a coordinated response.\n\nUnder the terms of the MoU, the United States would be legally bound to support the partner if it were attacked, but the language also leaves room for a measured, multilateral approach. By letting Article 5 play out, Washington would be signaling a willingness to cooperate with allies while avoiding unilateral escalation. The decision is seen by some as a way to preserve diplomatic flexibility amid rising tensions in the region, while still upholding the collective‑defense commitments that have underpinned U.S. security policy for decades.\n\nIn the coming weeks, U.S. officials are expected to clarify how the MoU will be operationalized and whether any additional safeguards will be introduced. The outcome of this deliberation will shape the United States’ engagement strategy in a volatile security environment and determine the extent to which the new collective‑defense clause will be invoked in practice.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 22:42:09",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-207",
+    "title": "Israeli settlers shoot nine-year-old Palestinian boy during farm raid",
+    "slug": "israeli-settlers-shoot-nine-year-old-palestinian-boy-during-farm-raid",
+    "content": "CCTV footage released on Tuesday shows a nine‑year‑old Palestinian boy being shot in the back by a group of Israeli settlers. The video, captured near a settlement outpost in the occupied West Bank, depicts the child running away from the settlers before being struck by gunfire. Local authorities have opened an investigation into the incident, and the footage has been circulated by Palestinian media outlets and human‑rights organizations.\n\nThe incident adds to a series of confrontations reported in the area over the past weeks, during which both Israeli and Palestinian officials have documented clashes between settlers and residents. Israeli security forces have said they are reviewing the video to determine the circumstances surrounding the shooting, while Palestinian representatives have called for an independent inquiry. The investigation is ongoing, and officials have not yet released a definitive account of the events leading to the boy’s injury.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 22:42:04",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260802-206",
+    "title": "Saudi Crown Prince urges Trump to prioritize dialogue as US pauses Iran strikes",
+    "slug": "saudi-crown-prince-urges-trump-to-prioritize-dialogue-as-us-pauses-iran-strikes",
+    "content": "Washington announced Thursday that the United States has suspended a series of airstrikes that were slated for the coming days, reversing a course of action that had followed a presidential warning of “unprecedented force” against Iran. The decision came after senior officials in the National Security Council reported that diplomatic channels were showing signs of progress, including a direct outreach by Iranian officials to the State Department and a request for a United Nations‑mediated de‑escalation meeting. The threatened strikes had been prepared in response to a recent series of missile and drone attacks on U.S.‑aligned facilities in the region, which the administration had described as a direct challenge to American security commitments.\n\nThe president’s earlier statement, delivered in a televised address, underscored a willingness to employ the full spectrum of U.S. military capabilities if Iran escalated further, a stance that prompted heightened alerts among allied forces in the Gulf. By halting the planned operations, the administration signaled a shift toward a diplomatic resolution while maintaining the option to resume kinetic actions should negotiations falter. Observers noted that the pause reflects a broader strategic calculation to avoid a wider conflict and to keep open avenues for dialogue under the auspices of international partners.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/2/2026 22:42:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260802-205",
     "title": "Capital One cites anti‑money laundering concerns in Trump Organization account closures",
     "slug": "capital-one-cites-anti-money-laundering-concerns-in-trump-organization-account-c",
