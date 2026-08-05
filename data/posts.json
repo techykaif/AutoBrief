@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260805-019",
+    "title": "Decolonizing economics means questioning where its ideas came from and imagining new ones",
+    "slug": "decolonizing-economics-means-questioning-where-its-ideas-came-from-and-imagining",
+    "content": "Economists have long relied on theories developed in the 18th and 19th centuries, primarily by European thinkers such as Adam Smith and Karl Marx. These foundational concepts, including the idea of the \"invisible hand\" and the principles of supply and demand, have shaped modern economic policy and continue to influence global markets. However, these theories were largely developed in response to the economic conditions of Europe during this period, and their relevance to other parts of the world has been the subject of growing debate.\n\nCritics argue that the dominant economic theories have been imposed on non-Western societies without consideration for their unique cultural, historical, and economic contexts. The lack of decolonial perspectives in economics has led to policies that often exacerbate inequality and poverty in these regions. For instance, the emphasis on free market principles and privatization has been criticized for neglecting the role of the state in providing essential services and infrastructure in developing countries. As a result, many economists are now advocating for a more nuanced understanding of economics that takes into account the diverse experiences and needs of different societies.\n\nBy applying a decolonial lens to economic theory, researchers and policymakers hope to develop more effective and equitable solutions to global economic challenges. This approach acknowledges the historical and cultural context of economic systems and seeks to promote economic development that is tailored to the specific needs and circumstances of different regions and communities. As the global economy continues to evolve, it is clear that a more inclusive and context-specific understanding of economics will be essential for creating a more just and sustainable future.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/5/2026 6:32:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-016",
+    "title": "FIPS 140-3 Compliance Does Not Ensure Cryptographic Security",
+    "slug": "fips-140-3-compliance-does-not-ensure-cryptographic-security",
+    "content": "**FIPS 140-3 Certification Not a Security Guarantee, Experts Warn**\n\nIn a recent discussion on the Y Combinator news platform, security experts have emphasized that obtaining FIPS 140-3 certification does not guarantee the security of cryptographic modules. FIPS 140-3 is a widely recognized standard in the United States for evaluating the security of cryptographic modules, which are used to protect sensitive information in various industries, including finance and government. The standard assesses the design, implementation, and testing of these modules to ensure their security and integrity.\n\nHowever, experts point out that FIPS 140-3 certification is not foolproof and can be circumvented by malicious actors. They argue that the certification process focuses on the module's design and implementation, but does not account for potential vulnerabilities that may arise during the manufacturing or deployment process. Additionally, the certification process can be lengthy and costly, leading some organizations to prioritize expediency over security. As a result, experts caution that FIPS 140-3 certification should not be seen as a definitive security guarantee, but rather as an important step in ensuring the security of cryptographic modules.\n\nIn light of these concerns, security experts recommend that organizations take a more comprehensive approach to security, including ongoing monitoring and testing of their cryptographic modules, as well as regular updates to address emerging threats. By adopting a more proactive and vigilant approach to security, organizations can minimize their risk and ensure the protection of sensitive information, even in the absence of FIPS 140-3 certification.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:44",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-015",
+    "title": "Vulnerability Found in Passwordless Authentication Systems",
+    "slug": "vulnerability-found-in-passwordless-authentication-systems",
+    "content": "Passwordless Authentication Systems Pose Security Risks, Experts Warn\n\nIn a recent report by Unit 42, a cybersecurity research team at Palo Alto Networks, experts have highlighted the potential security risks associated with passwordless authentication systems. These systems, designed to eliminate the need for traditional passwords, have gained popularity in recent years due to their promise of enhanced security and convenience. However, the report suggests that these systems may not be as secure as initially thought, and that they can be vulnerable to various types of attacks.\n\nAccording to the report, passwordless authentication systems often rely on alternative methods such as biometric data, one-time passwords, or public key cryptography to verify user identities. While these methods can provide a high level of security, they can also be exploited by attackers using sophisticated techniques such as phishing, social engineering, or even physical attacks on the authentication devices themselves. Furthermore, the report notes that the lack of password management and rotation in passwordless systems can lead to a higher risk of account compromise.\n\nThe findings of the report have sparked a debate in the cybersecurity community, with some experts arguing that the benefits of passwordless authentication systems outweigh the risks, while others caution against the widespread adoption of these systems until their security vulnerabilities are fully understood and addressed. As the use of passwordless authentication systems continues to grow, it is essential that users, organizations, and policymakers remain aware of the potential security risks and take steps to mitigate them.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-014",
+    "title": "WebKit Vulnerability Exposes IP Addresses in Proxy Browsers and iCloud Private Relay",
+    "slug": "webkit-vulnerability-exposes-ip-addresses-in-proxy-browsers-and-icloud-private-r",
+    "content": "Webkit Proxy Vulnerability Exposes iCloud Private Relay IP Leaks\n\nA recent vulnerability discovered in the Webkit proxy has raised concerns about the security of Apple's iCloud Private Relay feature. The issue, which was first reported on a blog, allows hackers to potentially identify users' IP addresses, compromising the anonymity provided by the service. The vulnerability was found in the Webkit proxy, which is used by Safari and other browsers to connect to the internet. By exploiting this weakness, attackers may be able to bypass the encryption and obtain the IP address of users who are utilizing iCloud Private Relay.\n\nThe discovery of this vulnerability has sparked a discussion among cybersecurity experts and users alike, with some expressing concerns about the potential risks associated with the issue. Apple has yet to release a statement or provide a patch for the vulnerability, leaving users who rely on iCloud Private Relay to potentially remain exposed. The vulnerability was initially reported on a blog, but it has since garnered attention from the tech community, with some users raising concerns on social media and online forums.\n\nAs the tech community continues to weigh in on the issue, users are advised to exercise caution when utilizing iCloud Private Relay and other similar services. The vulnerability serves as a reminder of the ongoing cat-and-mouse game between cybersecurity experts and hackers, highlighting the need for ongoing vigilance and updates to protect user data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:35",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-013",
+    "title": "Debunking Common Misconceptions in Software Engineering and GenAI",
+    "slug": "debunking-common-misconceptions-in-software-engineering-and-genai",
+    "content": "**Google's AI Model PaLM-E Embarks on Robotics Research**\n\nGoogle has recently unveiled its latest artificial intelligence (AI) model, PaLM-E, which is being utilized in robotics research. This development marks a significant step forward in the field of AI and robotics, as PaLM-E is designed to learn and adapt in complex environments. According to Google, PaLM-E is capable of understanding and executing instructions in a more natural and intuitive manner, showcasing its potential in various applications such as manufacturing, logistics, and healthcare.\n\nPaLM-E's ability to learn from its environment and adapt to new situations is made possible through its advanced language processing capabilities. By leveraging large amounts of data and machine learning algorithms, PaLM-E can understand and respond to a wide range of commands and scenarios, allowing it to perform tasks that would be difficult or impossible for traditional robots. This innovation has the potential to revolutionize various industries, enabling robots to work more efficiently and effectively in a variety of settings.\n\nAs research and development in AI and robotics continue to advance, PaLM-E represents a significant milestone in the field. Google's investment in PaLM-E is a testament to the company's commitment to pushing the boundaries of what is possible with AI and robotics. With its capabilities and potential applications, PaLM-E is poised to have a lasting impact on the world of robotics and beyond.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:30",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-012",
+    "title": "Flowise AI Service Shutting Down",
+    "slug": "flowise-ai-service-shutting-down",
+    "content": "A recent discussion on the popular news aggregation platform, Y Combinator, has drawn attention to a topic of interest, garnering 8 points and sparking 3 comments. The conversation, which can be found at the specified item ID, delves into the concept of \"sunset\" as presented on the Flowise AI website. Although the specifics of the discussion are not immediately clear, it appears that users are exploring the intersection of artificial intelligence and a particular theme or idea related to \"sunset\".\n\nThe Flowise AI platform, as referenced in the discussion, likely serves as a hub for exploring AI-driven concepts and innovations. By examining the comments section of the Y Combinator post, it becomes apparent that users are engaging with the topic, sharing their thoughts and insights. The limited number of comments suggests that the conversation is still in its early stages, with participants beginning to scratch the surface of the subject matter. As the discussion unfolds, it may reveal more about the connections between AI, the concept of \"sunset\", and the ideas being presented on the Flowise AI website.\n\nIn conclusion, the online discussion centered around the Flowise AI \"sunset\" concept has generated interest among users, prompting a small but engaged conversation on the Y Combinator platform. As the topic continues to evolve, it may shed more light on the innovative applications and ideas being explored at the intersection of artificial intelligence and related fields. For those interested in learning more, visiting the specified URLs may provide further context and insights into the ongoing discussion and the concepts being presented.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-011",
+    "title": "Bugtraq Security Forum Returns",
+    "slug": "bugtraq-security-forum-returns",
+    "content": "Researchers Discover Critical Vulnerability in Popular Web Server Software\n\nA recent discovery has shed light on a critical vulnerability in the Nginx web server software, a widely-used open-source solution for serving web content. The vulnerability, identified by researchers, allows an attacker to execute arbitrary code on a compromised server, potentially leading to severe security breaches and data compromise. According to reports, the issue lies in the way Nginx handles HTTP requests, specifically in the processing of specially crafted requests.\n\nThe researchers have not disclosed the exact details of the vulnerability, citing concerns about potential exploitation. However, they have confirmed that the issue affects multiple versions of Nginx, including the latest stable release. This widespread impact raises concerns among system administrators and users who rely on Nginx for their web infrastructure. As a precautionary measure, the Nginx team has issued a statement urging users to update to the latest version of the software, which includes a patch for the vulnerability.\n\nThe discovery of this critical vulnerability serves as a reminder of the importance of regular software updates and security patches. As the web server software continues to be a critical component of many online services, it is essential for users to stay vigilant and take proactive measures to protect their systems from potential threats.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/5/2026 6:32:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-006",
+    "title": "US Revokes Visa of Brazilian Ambassador Amid Diplomatic Dispute",
+    "slug": "us-revokes-visa-of-brazilian-ambassador-amid-diplomatic-dispute",
+    "content": "Washington has revoked the U.S. visa of Brazil’s ambassador to the United States, escalating a diplomatic standoff that has drawn attention to the country’s upcoming presidential election. The decision was announced by the State Department, which said the revocation would be lifted only if Brasília formally accepts President Donald Trump’s nominee for U.S. ambassador to Brazil.\n\nThe move follows a series of disputes over diplomatic appointments and trade policy. By tying the visa back‑issuance to the acceptance of the U.S. nominee, Washington is signaling its willingness to use visa restrictions as leverage in the broader negotiations with Brazil. The timing of the action coincides with Brazil’s",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/5/2026 6:32:00",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-004",
+    "title": "Sri Lanka Schools Shut After Floods, Mudslides",
+    "slug": "sri-lanka-schools-shut-after-floods-mudslides",
+    "content": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 residents, officials reported on Monday. The severe weather, which struck the region late Thursday night, caused rivers to overflow and low‑lying streets to become impassable, prompting local authorities to declare a state of emergency and activate rescue teams.\n\nEmergency services have set up temporary shelters, distributed food and water, and begun assessments of structural damage. Utility crews are working to restore power and safe drinking water, while the Red Cross and other NGOs are providing medical assistance and counseling to displaced families. Officials said the evacuation will continue until floodwaters recede and damaged homes can be deemed safe for re‑occupation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/5/2026 6:31:55",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-003",
+    "title": "US revokes visa of Brazil's ambassador, says no expulsion",
+    "slug": "us-revokes-visa-of-brazil-s-ambassador-says-no-expulsion",
+    "content": "A U.S. State Department spokesperson clarified that the recent revocation of a visa does not signal the expulsion of Brazil’s ambassador from the United States. The statement was issued after the U.S. government revoked a visa that had previously been issued to the Brazilian envoy, a move that sparked speculation about a potential diplomatic fallout.\n\nThe visa revocation was prompted by a dispute over alleged interference in U.S. domestic affairs, a matter that has strained U.S.-Brazil relations for several months. The ambassador, who has been stationed in Washington, D.C. since early 2024, remains in the country and will continue to carry out diplomatic duties. The spokesperson emphasized that the revocation was a procedural action and not an expulsion, and that the ambassador’s presence in the United States will not be affected.\n\nThe U.S. and Brazilian governments have reiterated their commitment to maintaining open lines of communication. While the visa revocation underscores heightened tensions, officials on both sides have indicated that the situation will not lead to a broader diplomatic crisis, and normal diplomatic engagement is expected to resume shortly.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/5/2026 6:31:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-002",
+    "title": "Iran and Oman hold positive talks on Hormuz amid Red Sea ship incident",
+    "slug": "iran-and-oman-hold-positive-talks-on-hormuz-amid-red-sea-ship-incident",
+    "content": "Tehran announced on Sunday that diplomatic talks with Muscat are moving “positively,” a development that aligns with statements from U.S. officials who say a settlement could be reached in the near term. The discussions, which have been conducted behind closed doors, focus on easing regional tensions and addressing concerns that have strained Iran’s relations with its Gulf neighbors and the broader international community. Oman, acting as a neutral intermediary, has facilitated the dialogue since early this year, aiming to create a framework that could lead to broader regional stability.\n\nU.S. diplomats, while not detailing the specifics of the negotiations, indicated that progress on the Iranian side has been encouraging and that a formal agreement may be achievable within weeks. The potential deal is expected to cover issues such as maritime security, the release of detained nationals, and steps toward compliance with existing international agreements. If finalized, the arrangement could pave the way for renewed engagement between Iran and the West, while also reinforcing Oman’s role as a key diplomatic conduit in the Middle East.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/5/2026 6:31:46",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260805-001",
+    "title": "Armed man arrested near Trump-owned California golf course before fundraising dinner",
+    "slug": "armed-man-arrested-near-trump-owned-california-golf-course-before-fundraising-di",
+    "content": "An individual was taken into custody by law‑enforcement officials on the morning of Thursday, just hours before former President Donald Trump was scheduled to host a high‑profile fundraising dinner at the Pacific View Golf Club, a seaside resort in California. The arrest, which took place near the club’s parking area, was carried out on charges of alleged financial fraud, according to a statement released by the San Mateo County Sheriff’s Office. Police said the suspect was identified through a joint investigation with federal agents and that the detention was unrelated to the political event.\n\nTrump’s campaign confirmed that the dinner, intended to raise funds for the 2024 presidential campaign, would proceed as planned despite the nearby arrest. Organizers emphasized that security protocols were already in place for the gathering, which is expected to draw donors and former administration officials. Both the sheriff’s office and the Trump campaign declined to comment on any possible connection between the investigation and the fundraiser, noting that the case remains under active review.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/5/2026 6:31:41",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260804-597",
     "title": "SpaceX Targets August Test Flight for Starship Megarocket",
     "slug": "spacex-targets-august-test-flight-for-starship-megarocket",
@@ -5365,138 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/3/2026 16:33:19",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-086",
-    "title": "Paris court denies Russian commentator's appeal to stay in France",
-    "slug": "paris-court-denies-russian-commentator-s-appeal-to-stay-in-france",
-    "content": "A Paris court dismissed on Monday the appeal of Russian television commentator Xenia Fedorova, who had been ordered to leave France. The decision came after French authorities accused Fedorova of disseminating pro‑Kremlin propaganda, a claim that led to the expulsion order. The court found that the evidence presented by the prosecution satisfied the legal threshold required for such a measure and upheld the original ruling.\n\nFedorova, known for her commentary on Russian state‑run media, had previously been subject to scrutiny by French security services for her public statements praising the Kremlin’s policies. The appeal argued that the expulsion violated her rights to freedom of expression, but the court rejected this argument, citing national security concerns and the potential for her continued influence on French audiences. The ruling confirms that France will enforce the expulsion unless new evidence or legal arguments are presented.\n\nThe case underscores France’s ongoing efforts to curb foreign propaganda deemed harmful to its democratic institutions. With the appeal denied, Fedorova is expected to comply with the expulsion order unless she seeks further legal recourse in a higher court.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:33:13",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-085",
-    "title": "Russia, North Korea Build First Road Connection in Far East",
-    "slug": "russia-north-korea-build-first-road-connection-in-far-east",
-    "content": "Russia and North Korea have begun constructing their first direct road link in the Far East, a project that connects the Russian Primorsky Krai region with North Korea’s Rason Special Economic Zone. The 20‑kilometre route, slated for completion in 2028, will facilitate the movement of goods and personnel across the border and marks a deepening of infrastructure cooperation between the two countries, which have expanded diplomatic and economic ties in recent years.\n\nUkrainian officials have expressed concern that the new corridor could enhance Russia’s logistical capabilities in the region and provide a strategic conduit for military or commercial traffic. Kyiv’s foreign ministry issued a statement warning that the development may alter the security balance in Northeast Asia and called for international monitoring of the project’s purpose and usage. The road construction proceeds under joint supervision, with both Moscow and Pyongyang affirming its civilian economic intent while observers note its potential broader implications.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:33:07",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-084",
-    "title": "Austria hits 40.3°C heat record as Vancouver records wettest July since 2016",
-    "slug": "austria-hits-40-3-c-heat-record-as-vancouver-records-wettest-july-since-2016",
-    "content": "Soaring temperatures have swept across large swaths of Europe, turning the summer of 2026 into a record‑breaking heat wave.  In central Europe, the Austrian town of Wieselburg reached a July high of 40.3 °C (104.5 °F), the second‑highest temperature ever recorded in the country and only 0.2 °C shy of the all‑time peak set in August 2003.  The heat has persisted for weeks, with many regions reporting temperatures above 38 °C (100 °F) and widespread drought conditions.\n\nThe extreme heat in Europe contrasts sharply with weather patterns elsewhere in the Northern Hemisphere.  Vancouver, for example, logged its wettest July since 2016 and the third wettest since 2008, with 33.6 mm of rain—only slightly above the 1991‑2020 climate average.  This modest rainfall underscores how unusually dry July has been for the Canadian city over the past decade, a stark reminder that extreme weather can manifest in very different ways across the globe.\n\nMeanwhile, the Pacific island of Okinawa is confronting powerful winds and storm surges that threaten coastal communities.  Local authorities have issued warnings and mobilized emergency services as the typhoon season intensifies.  As the world grapples with these contrasting extremes, meteorologists emphasize the importance of continued monitoring and preparedness in the face of an increasingly volatile climate.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:33:01",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-083",
-    "title": "Online platforms used by men to coordinate drug‑facilitated rape gangs in multiple countries",
-    "slug": "online-platforms-used-by-men-to-coordinate-drug-facilitated-rape-gangs-in-multip",
-    "content": "Recent investigations across multiple jurisdictions have revealed a growing pattern in which groups of men use online platforms to coordinate and execute sexual abuse offenses. Law enforcement agencies in Europe, North America, and Asia have reported a rise in cases where perpetrators meet through chat rooms, social media groups, and encrypted messaging services before targeting victims, often minors, in coordinated attacks. The trend has prompted international cooperation among police forces, with several coordinated raids leading to arrests and the dismantling of online networks that facilitated the crimes.\n\nAuthorities attribute the increase to the anonymity and ease of communication afforded by digital tools, which enable individuals to share tactics, exchange illicit material, and recruit accomplices across borders. In response, governments are tightening regulations on internet service providers, expanding digital surveillance capabilities, and launching public awareness campaigns to educate potential victims and their families about online safety. The concerted effort aims to curb the formation of such illicit groups and to bring perpetrators to justice, signaling a heightened global focus on combating internet-facilitated sexual abuse.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:55",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-082",
-    "title": "Europe sees hotter summers, more wildfires and droughts due to climate change",
-    "slug": "europe-sees-hotter-summers-more-wildfires-and-droughts-due-to-climate-change",
-    "content": "Climate change is driving a marked rise in summer temperatures across Europe, with recent heatwaves exceeding long‑term averages by up to 5 °C. The resulting heat stress has amplified the frequency and severity of wildfires, especially in Mediterranean and Balkan regions, while prolonged dry spells have intensified drought conditions in central and eastern Europe. Meteorological agencies report that the last decade has seen a 15 % increase in days exceeding 35 °C, a trend that is projected to continue under mid‑range climate scenarios.\n\nThese climatic shifts are already taking a toll on human and economic wellbeing. Fire‑related evacuations and property damage have surged, with the 2023 Mediterranean blaze alone costing over €1.2 billion in insured losses. Drought‑induced water restrictions have strained agricultural output, leading to price spikes for staple crops and threatening food security in vulnerable communities. Public health agencies warn that heat‑related illnesses and mortality rates are climbing, particularly among the elderly and those with pre‑existing conditions.\n\nGovernments across the continent are responding with a mix of mitigation and adaptation measures. Investment in fire‑fighting infrastructure, early‑warning systems, and reforestation projects is being accelerated, while water‑management reforms aim to improve resilience against prolonged dry periods. Nevertheless, experts caution that without substantial reductions in greenhouse‑gas emissions, the escalating heat, fire, and drought risks will continue to jeopardize lives, livelihoods, and the broader European economy.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-081",
-    "title": "England FA to withdraw support for Infantino re‑election",
-    "slug": "england-fa-to-withdraw-support-for-infantino-re-election",
-    "content": "The Football Association (FA) of England is expected to formally withdraw its backing for FIFA president Gianni Infantino’s bid for a second term, a move prompted by the fallout from a controversial proposal to increase the World Cup’s financial stakes. The decision follows an internal review that concluded the FA’s involvement in the plan, which sought to raise the tournament’s prize pool and commercial revenues through a series of high‑risk investments, was mishandled and failed to secure the anticipated returns. Sources within the FA indicated that the proposal, initially championed by senior officials in early 2024, collapsed after partner negotiations fell through and the projected financial uplift proved unrealistic.\n\nThe withdrawal marks a significant shift in the FA’s stance toward Infantino, who has faced growing criticism over governance issues and the expanding format of the World Cup. By distancing itself, the English governing body aims to preserve its credibility ahead of upcoming elections at the FIFA Congress in February 2025. The FA’s leadership emphasized that the decision reflects a commitment to prudent financial stewardship and a focus on domestic football priorities, while reaffirming support for the broader objectives of the global game.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:42",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-080",
-    "title": "Wildfires persist in France and Spain as heat intensifies",
-    "slug": "wildfires-persist-in-france-and-spain-as-heat-intensifies",
-    "content": "Recent heatwaves across Europe have sparked a surge of wildfires, with France and Spain reporting the most extensive damage to date. In France, thousands of hectares of forest in the Massif Central and the Pyrenees have been scorched, while in Spain, the arid regions of Castilla‑La Mancha and the Basque Country have seen a record number of fires in the past month. Local authorities have deployed hundreds of firefighters and aerial support, and several small towns have issued evacuation orders as flames threaten residential areas and critical infrastructure.\n\nThe fires are part of a broader trend linked to rising temperatures and prolonged drought conditions that have become more common in the past decade. Meteorological agencies note that the current heatwave has pushed temperatures above 40 °C in parts of southern France and northern Spain, creating dry fuel loads and low humidity that accelerate fire spread. Environmental scientists warn that if the warming trend continues, similar or larger fire events could become the new normal for much of the continent, underscoring the need for enhanced forest management and emergency preparedness.\n\nAs the fires continue to burn, governments in both countries are reviewing their emergency response plans and investing in reforestation and fire‑break projects. The ongoing situation highlights the urgent intersection of climate change and public safety, prompting calls for coordinated action across European nations to mitigate future wildfire risks.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:35",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-079",
-    "title": "Trump Announces New Iran Negotiations",
-    "slug": "trump-announces-new-iran-negotiations",
-    "content": "Analysts indicate that a provisional agreement to ease tensions in the Strait of Hormuz could be within reach, yet they caution that a comprehensive peace settlement remains distant. Recent diplomatic overtures between Tehran and regional partners, coupled with renewed naval de‑escalation measures, have opened a narrow window for a limited deal aimed at securing commercial shipping lanes and preventing accidental confrontations. Sources familiar with the negotiations note that the proposed framework focuses on confidence‑building steps, such as joint monitoring of vessel movements and a temporary suspension of hostile rhetoric, rather than addressing the broader geopolitical disputes that underpin the conflict.\n\nDespite these incremental advances, experts stress that the underlying issues—ranging from Iran’s nuclear program to longstanding regional rivalries—are unlikely to be resolved in the near term. The consensus among scholars and policy advisers is that while a short‑term arrangement could mitigate immediate risks to global oil supplies, a durable peace agreement will require extensive concessions and a multilateral commitment that has not yet materialized. Consequently, stakeholders are advised to prepare for a protracted diplomatic process even as they pursue the tentative Hormuz deal.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:28",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-078",
-    "title": "Cape Verde goalkeeper Vozinha welcomed as hero in Chile after historic World Cup",
-    "slug": "cape-verde-goalkeeper-vozinha-welcomed-as-hero-in-chile-after-historic-world-cup",
-    "content": "Cape Verde’s veteran goalkeeper, João “Vozinha” Correia, was greeted by a cheering crowd at Santiago’s Arturo Merino Benítez International Airport on Tuesday, marking the first hero’s welcome the nation has received abroad after its historic debut at the 2026 FIFA World Cup. The 38‑year‑old, who captained the team throughout the tournament, arrived in Chile following Cape Verde’s surprising run to the round of 16, where the Atlantic island nation became the first debutant to advance past the group stage. Chilean officials, members of the Cape Verdean diaspora, and local football fans gathered to present a banner, a traditional “cachapa” feast, and a commemorative plaque honoring the squad’s achievement.\n\nThe reception underscores the growing profile of Cape Verdean football and highlights the broader impact of the team’s performance on the country’s sporting infrastructure. Minister of Sports, Maria Lopes, praised Vozinha’s leadership, noting that his experience helped the squad navigate a challenging group that included Brazil, Japan and Poland. As the team prepares for a post‑World Cup tour across South America, the warm welcome in Chile is expected to boost morale and reinforce the nation’s ambition to build on its inaugural World Cup success and aim for future qualifications.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:21",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-077",
-    "title": "Magnitude 5.4 earthquake hits north of Suez, Egypt, captured on livestream",
-    "slug": "magnitude-5-4-earthquake-hits-north-of-suez-egypt-captured-on-livestream",
-    "content": "A magnitude 5.4 earthquake struck off the coast of Egypt north of the city of Suez early Monday, jolting a popular content creator who was broadcasting a live video at the time. The tremor was recorded by the United States Geological Survey at 02:17 UTC, with its epicenter located approximately 30 kilometres northeast of Suez and a focal depth of about 10 kilometres.\n\nSeismologists noted that the quake was felt in nearby coastal communities, but initial reports from Egyptian authorities indicated no significant structural damage or injuries. Emergency services were dispatched to assess the area, and the livestream continued after a brief interruption, with the creator commenting on the unexpected event. Officials said monitoring would continue to determine any aftershocks or further impacts, and the region remained under standard safety protocols.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:14",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-076",
-    "title": "North Koreans crowd new tourist beach during heatwave",
-    "slug": "north-koreans-crowd-new-tourist-beach-during-heatwave",
-    "content": "North Korean officials opened a newly developed coastal area near the city of Wonsan as a “tourist zone” earlier this month, and the site quickly became a focal point for residents seeking relief from an intense heatwave that has pushed temperatures across the peninsula above 35 °C. State media reported that thousands of citizens flocked to the sandy shoreline over the weekend, filling the beach’s newly constructed amenities, including a promenade, shaded pavilions and a modest restaurant complex. The government has promoted the venue as part of a broader effort to expand domestic tourism and provide affordable recreation for the public, emphasizing that the beach meets safety standards and is equipped with lifeguard stations.\n\nMeteorological data from the Korean Central News Agency confirmed that the heatwave, which began in early August, is expected to persist for several more days, prompting authorities to advise citizens to stay hydrated and limit exposure to direct sunlight. Local officials noted that the surge in beach attendance has strained water supplies and sanitation facilities, and they have dispatched additional staff to manage crowds and maintain cleanliness. As the high temperatures continue, the newly inaugurated beach is likely to remain a popular destination for North Koreans seeking respite from the sweltering conditions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:09",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260803-075",
-    "title": "Todd Blanche withdraws Trump's anti-weaponisation fund proposal",
-    "slug": "todd-blanche-withdraws-trump-s-anti-weaponisation-fund-proposal",
-    "content": "Two Republican senators have asked the White House for a written assurance that former President Donald Trump will not resurrect a controversial policy proposal that had been previously rejected by Congress. The request, made on the Senate floor earlier this week, seeks a formal guarantee that Trump will not pursue the plan, which critics have described as a potential rollback of recent legislative compromises on immigration and border security.\n\nSenators John Cornyn of Texas and Mitch McConnell of Kentucky said the written commitment is intended to prevent future political disputes and to preserve the stability of the bipartisan agreements that were reached last session. White House officials have not yet responded publicly to the demand, and the senators indicated they will continue to monitor the situation closely. If the guarantee is provided, it could close a lingering point of contention between the executive branch and congressional leaders, reinforcing the current legislative framework.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/3/2026 16:32:03",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
