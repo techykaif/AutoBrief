@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260806-055",
+    "title": "Vance claims El‑Sayed’s primary win backed by affluent liberals, not working class",
+    "slug": "vance-claims-el-sayed-s-primary-win-backed-by-affluent-liberals-not-working-clas",
+    "content": "Vice President Kamala Vance told Fox News host Laura Ingraham on Wednesday that the recent Democratic primary win of progressive candidate Abdul El‑Sayed in Michigan was propelled primarily by affluent liberal voters rather than the state’s working‑class electorate. Vance made the comments a day after El‑Sayed defeated incumbent Representative Haley Stevens in the Senate primary, noting that the growing progressive wing of the party is increasingly reliant on well‑educated, higher‑income supporters in urban and suburban districts.\n\nThe vice president’s remarks highlighted a perceived shift in the Democratic coalition, suggesting that the party’s left‑leaning candidates may be drawing strength from wealthier constituencies at the expense of traditional labor‑based bases. El‑Sayed’s victory, which secured him the Democratic nomination for the upcoming Senate race, has sparked debate within the party about the composition of its voter base and the strategic direction needed to appeal to a broader spectrum of Michigan voters.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/6/2026 10:01:57",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-053",
+    "title": "CDC links Salmonella outbreak to jalapeño peppers",
+    "slug": "cdc-links-salmonella-outbreak-to-jalape-o-peppers",
+    "content": "A Salmonella outbreak that has sickened 345 people in 27 states was traced to jalapeño peppers, the Centers for Disease Control and Prevention (CDC) announced on Wednesday. The investigation identified the contaminated peppers as originating in Sinaloa, Mexico, and distributed in the United States by Coast Citrus Distributors. Health officials reported 36 hospitalizations but no deaths associated with the outbreak.\n\nThe CDC is working with state and federal partners to remove the affected product from the market and to notify consumers. Individuals who have purchased or consumed jalapeños from the implicated source are advised to discard them or return them to the point of sale. Ongoing surveillance will continue as authorities monitor for additional cases and assess the scope of the contamination.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/6/2026 10:01:51",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-052",
+    "title": "Scientists grow muscle protein in lettuce and tobacco chloroplasts",
+    "slug": "scientists-grow-muscle-protein-in-lettuce-and-tobacco-chloroplasts",
+    "content": "The global market for meat alternatives is valued between €6.7 billion and €8.1 billion annually, driven by concerns over the environmental and ethical impacts of conventional livestock farming. Production of animal‑based protein consumes extensive land for fodder cultivation, requires large volumes of freshwater, and generates significant greenhouse‑gas emissions, notably methane and nitrous oxide, while also raising animal‑welfare issues for many consumers.\n\nIndustry analysts project that the sector will expand at an annual rate of 8.1 % to 12.3 % over the next ten years, reflecting rising demand for sustainable and cruelty‑free food options. The anticipated growth underscores a broader shift toward plant‑based and cultivated protein products as stakeholders seek to mitigate climate change, preserve natural resources, and address ethical considerations in the food supply chain.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/6/2026 10:01:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260806-051",
     "title": "MIT develops precise method to visualize heat flow in multilayer electronics",
     "slug": "mit-develops-precise-method-to-visualize-heat-flow-in-multilayer-electronics",
@@ -5464,39 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/5/2026 9:53:15",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260805-053",
-    "title": "Connectivity more important than size for Atlantic Forest regeneration",
-    "slug": "connectivity-more-important-than-size-for-atlantic-forest-regeneration",
-    "content": "A recent study on the Atlantic Forest has highlighted the critical role of seed dispersal in forest renewal and biodiversity maintenance. Researchers found that the amount of surrounding forest cover and rainfall levels are the primary determinants of seed richness and diversity in the region.\n\nThe research indicates that a small forest patch surrounded by adjacent green areas can regenerate more effectively than a large, isolated fragment embedded in a deforested landscape. This suggests that connectivity and local climate conditions are key to sustaining seed dispersal pathways and supporting ecosystem resilience.\n\nThese findings underscore the importance of preserving and restoring landscape connectivity in the Atlantic Forest, as well as managing local rainfall patterns, to enhance natural regeneration processes and safeguard biodiversity.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/5/2026 9:53:10",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260805-052",
-    "title": "Metal-free dye-fixing method improves durability of plant-based textile dyes",
-    "slug": "metal-free-dye-fixing-method-improves-durability-of-plant-based-textile-dyes",
-    "content": "A study published in the *International Journal of Materials and Product Technology* outlines a metal‑free dye‑fixing technique that could make natural plant pigments viable for high‑performance textiles. The researchers report that the new process eliminates the need for metallic mordants—substances traditionally required to bind dyes to fibers—thereby reducing environmental hazards and simplifying production for sustainable apparel.\n\nBy using a polymer‑based fixation system, the method achieves colour fastness comparable to conventional synthetic dyes while preserving the ecological benefits of plant‑derived hues. The authors suggest that the approach addresses a key barrier to broader adoption of natural dyes in performance clothing, potentially expanding options for manufacturers seeking greener alternatives without compromising durability or wash resistance.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/5/2026 9:53:05",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260805-051",
-    "title": "ShiftLens 3D-Printed Objects Change Appearance Based on User Interaction",
-    "slug": "shiftlens-3d-printed-objects-change-appearance-based-on-user-interaction",
-    "content": "A new design and fabrication system called ShiftLens has been announced that can produce objects whose surface appearance changes in response to user interactions, all without the use of electronics. The technology, developed by a research team at the Institute of Advanced Materials, relies on mechanically responsive structures that alter their optical properties when touched or pressed. By integrating these structures into a single manufacturing workflow, ShiftLens enables rapid prototyping of interactive surfaces that can be printed, molded, or otherwise fabricated using conventional materials.\n\nShiftLens works by embedding arrays of micro‑scale elements that reorient or deform under applied force, thereby changing the way light is reflected or refracted. Because the system does not require any embedded circuitry, power supply, or wireless communication, it can be incorporated into a wide range of applications—from architectural facades that shift color with the wind to consumer products that respond to touch. The researchers demonstrated prototypes that change hue, texture, and even pattern when manipulated, illustrating the potential for low‑cost, energy‑free interactive displays and responsive design.\n\nThe introduction of ShiftLens marks a step toward more sustainable interactive technologies, as it eliminates the need for batteries or external power sources. While still in the prototype stage, the system’s scalability and compatibility with existing manufacturing processes suggest it could be adopted in fields such as interior design, automotive interiors, and wearable devices. Future work will focus on expanding the palette of achievable visual effects and integrating the technology into commercial production lines.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/5/2026 9:53:00",
-    "author": "MIT News",
     "isFeatured": false
   }
 ]
