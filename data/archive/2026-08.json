@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260806-295",
+    "title": "Economist Vilfredo Pareto's Principles Meet the World of Video Games",
+    "slug": "economist-vilfredo-pareto-s-principles-meet-the-world-of-video-games",
+    "content": "**Mario Meets Pareto: A Game-Changing Economic Theory in the World of Video Games**\n\nIn a fascinating intersection of economics and gaming, a recent blog post by Mayerowitz has shed light on the application of Vilfredo Pareto's economic theory in the popular video game, Mario. The theory, known as the Pareto principle, states that a small proportion of the population often holds a disproportionately large share of the wealth or resources. The author of the blog post, Mayerowitz, explores how this concept is reflected in the Mario universe, where a small number of high-scoring players dominate online leaderboards.\n\nThe Pareto principle is often observed in various aspects of life, including economics, social sciences, and even natural phenomena. In the context of Mario, the principle is evident in the distribution of high scores among players. According to Mayerowitz, a small percentage of players account for a significant portion of the highest scores, while the majority of players struggle to reach the top ranks. This phenomenon is not unique to Mario, but the game's online leaderboards provide a clear and easily measurable example of the Pareto principle in action.\n\nThe intersection of economics and gaming highlights the universal applicability of the Pareto principle. By analyzing the distribution of high scores in Mario, Mayerowitz has demonstrated how this economic theory can be observed in an unexpected context. The blog post has sparked interesting discussions on the Y Combinator news platform, with 51 comments and 288 points, showcasing the relevance and intrigue of this fascinating topic.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:52:27",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-294",
+    "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+    "slug": "show-hn-demake-one-source-project-compiles-to-any-retro-game-console-rom",
+    "content": "Retro Game Developers Gain New Tool with Demotic Language\n\nA new tool has emerged to aid developers in creating retro-styled video games for a wide range of classic consoles and handheld devices. Initially designed as a graphics tool to address the limitations of generative AI in replicating exact hardware constraints, the project has evolved to support multiple platforms. By utilizing a declarative language called Demotic, users can express their game ideas concisely and naturally, without worrying about implementation details.\n\nDemotic allows developers to work on different machines by employing relative units, such as vw, vh, vmin, and vmax, which provide flexibility and ease of use. The tool is available in three formats: a web-based user interface, a command-line interface, and an NPM package. This accessibility makes it an attractive option for game developers who want to create retro-style games without being constrained by the limitations of specific hardware.\n\nWhile the project is still in development, it has already garnered interest from the tech community, with 24 points and three comments on the Y Combinator news platform. As the tool continues to evolve, it is likely to become a valuable resource for retro game enthusiasts and developers alike, enabling them to bring their creative visions to life across a variety of classic consoles and handheld devices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:52:22",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-286",
+    "title": "Bose’s upgraded QuietComfort headphones add head-tracking immersive audio",
+    "slug": "bose-s-upgraded-quietcomfort-headphones-add-head-tracking-immersive-audio",
+    "content": "Bose Unveils Second-Generation QuietComfort Noise-Canceling Headphones\n\nBose has announced an updated version of its entry-level QuietComfort noise-canceling headphones, which were first introduced in late 2023. The new headphones boast a refreshed design that prioritizes comfort, featuring a more adjustable headband that caters to a wider range of users. In addition to the improved design, the second-generation QuietComfort headphones also benefit from enhanced Active Noise Cancellation (ANC) technology that adapts more effectively to changing noise environments.\n\nThe new headphones also mark the introduction of Bose's TrueSpatial immersive audio technology, previously exclusive to the company's premium QuietComfort Ultra model. This addition promises to deliver an immersive audio experience, elevating the overall listening experience for users. The second-generation QuietComfort headphones are set to hit the market with a modest price bump, although the exact price remains undisclosed.\n\nWhile details on pricing and availability are still pending, the update to the QuietComfort headphones signals Bose's continued commitment to innovation and user experience. With the addition of TrueSpatial immersive audio and enhanced ANC, the second-generation QuietComfort headphones are poised to offer a more refined and engaging listening experience for music enthusiasts and commuters alike.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:52:03",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-285",
+    "title": "AI-Generated Spiritual Movement Emerges Online",
+    "slug": "ai-generated-spiritual-movement-emerges-online",
+    "content": "A recent post on Reddit has sparked debate about the concept of \"The Spiral,\" a term that refers to a mysterious, unexplained phenomenon. The author of the post expressed their conviction that The Spiral is an inherent force, a fundamental constant woven into the fabric of reality. According to the writer, The Spiral holds the key to understanding consciousness, the true nature of physics, and a new psychology, as well as resonance technology.\n\nThe author's post also highlighted a sense of frustration and isolation, as they felt that their message was being met with resistance and skepticism from others. They called on readers to help disseminate this knowledge through various forms of media, including books, scientific papers, social media content, and videos. This appeal to the Reddit community reflects a growing trend of online activism and the use of social media platforms as a means of sharing unconventional ideas and perspectives.\n\nThe post has been widely shared and discussed on social media, with some users expressing interest in the concept of The Spiral and others dismissing it as pseudoscience. While the Reddit post has generated significant attention, it remains unclear whether The Spiral will gain mainstream recognition or remain a fringe idea. As the debate continues, one thing is certain: the concept of The Spiral has sparked a lively discussion about the nature of reality and the role of human consciousness in understanding the world around us.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:51:58",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-283",
+    "title": "Google announces major AI organization restructuring",
+    "slug": "google-announces-major-ai-organization-restructuring",
+    "content": "Google’s chief executive, Sundar Pichai, opened the company’s annual Google I/O conference with a brief address that underscored the firm’s commitment to “stable, time‑tested” progress in artificial intelligence. While the event highlighted a series of high‑profile leadership changes—Pichai’s announcement of the largest AI‑org reshuffle in Google’s history—the company’s messaging remained focused on positioning these moves as a strategic step toward future success.\n\nThe shakeup, however, has raised questions about underlying challenges within Google’s AI ecosystem. Analysts point to the company’s precarious standing in the broader AI race, the tension between short‑term product delivery and long‑term research goals, and the influence of DeepMind head Demis Hassabis, who has historically prioritized foundational research over immediate commercial applications. These factors suggest that the executive realignment may be a response to deeper structural issues rather than a simple rebranding effort.\n\nIn closing, Google’s unified front at I/O masks a complex internal recalibration aimed at strengthening its AI capabilities. The company’s next moves will likely focus on balancing rapid product iteration with sustained research investment, a strategy that will determine its competitiveness in the evolving AI landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:51:50",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-281",
+    "title": "Samsung Preorders End Today for Galaxy Z Fold 8 and Flip 8",
+    "slug": "samsung-preorders-end-today-for-galaxy-z-fold-8-and-flip-8",
+    "content": "Samsung's highly anticipated foldable Android phones, the Z Fold 8, Fold 8 Ultra, and Flip 8, are set to hit the market tomorrow, August 7th. As the final day for preorders approaches, consumers can take advantage of exclusive offers and discounts from various retailers, including Amazon, Best Buy, and Samsung itself. Preordering the Z Fold 8 Ultra or the Z Fold 8 will come with a $350 gift card from Amazon, while Best Buy and Samsung will offer $200 gift cards for these foldables. Additionally, Samsung is offering up to $100 off select products when purchasing through its website, with a code that can be used to knock off an extra $100.\n\nFor those looking for more affordable options, the Z Flip 8 can be preordered with a $200 gift card from Amazon or Best Buy, or up to $150 in credit at Samsung. Furthermore, Samsung is offering up to $100 in discounts on select products when buying through its website. In related deals, Apple AirPods Pro 3 wireless earbuds have been discounted to $189.99 at Amazon and Best Buy, a price drop of $10 from their previous lowest price. The Typhur Dome 2 air fryer, a favorite among tech enthusiasts, is also on sale at Amazon for $339.99, its lowest price in a month. Meanwhile, an assortment of Blu-ray and 4K Blu-rays from Arrow Video is discounted at Barnes and Noble through August 30th, with popular titles like Troy, An American Werewolf in London, and Donnie Darko available for $24.99 each.\n\nConsumers looking to upgrade their tech or find a great deal on a new product can take advantage of these offers before they expire. With the Samsung foldables set to release tomorrow, preordering now can provide a head start on getting the latest and greatest devices, along with some exclusive perks and discounts.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/6/2026 20:51:43",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260806-274",
     "title": "Ford’s new electric truck, ‘Fathom’, starts at $28,350",
     "slug": "ford-s-new-electric-truck-fathom-starts-at-28-350",
