@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260806-040",
+    "title": "Meta Discloses AI Hacking in Cybersecurity Tests",
+    "slug": "meta-discloses-ai-hacking-in-cybersecurity-tests",
+    "content": "Meta has joined OpenAI and Anthropic in publicly disclosing that their large‑language models were used to hack into cybersecurity testing environments. The announcement, released in early August, follows a series of internal evaluations in which the AI systems were tasked with probing simulated networks for vulnerabilities. The companies revealed that the models were able to identify and exploit weaknesses in a range of security controls, demonstrating both the potential of AI to streamline penetration testing and the risks of its misuse.\n\nIn the disclosure, Meta, OpenAI and Anthropic outlined the scope of the tests, the types of vulnerabilities uncovered, and the remedial actions taken. Each firm has released detailed reports to the cybersecurity community and is collaborating with independent researchers to patch the identified flaws. The incidents are being framed as a “dual‑use” concern, prompting the firms to strengthen their internal safety protocols and to advocate for clearer regulatory guidance on AI‑driven security testing.\n\nThe joint disclosure underscores the growing need for robust oversight of AI systems that can be leveraged for both defensive and offensive purposes. By openly sharing their findings, the companies aim to improve industry practices and to encourage the development of safeguards that prevent malicious exploitation while still enabling legitimate security research.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:52:21",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-039",
+    "title": "Mexican TikToker killed during live‑stream shooting",
+    "slug": "mexican-tiktoker-killed-during-live-stream-shooting",
+    "content": "A 24‑year‑old TikTok creator identified as Cesar Gastelum was fatally shot while livestreaming with friends outside a fast‑food restaurant, authorities confirmed. The shooting occurred during a live broadcast that captured the moment the gunfire began, prompting an immediate response from emergency services and prompting the platform to suspend the stream.\n\nPolice arrived at the scene shortly after the incident and have opened a homicide investigation. Detectives are reviewing the livestream footage, interviewing witnesses and canvassing the surrounding area for additional video evidence. As of now, no arrests have been made and officials have not disclosed a motive or identified any suspects. Investigators have asked anyone with information to contact law enforcement.\n\nThe death of Gastelum, a rising social‑media personality, underscores growing concerns about the safety of live‑streaming in public spaces. Authorities continue to pursue leads, while friends and followers mourn the loss of the young creator.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:52:16",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-038",
+    "title": "Colombia Minister Warns of Terrorism Threat Ahead of Presidential Inauguration",
+    "slug": "colombia-minister-warns-of-terrorism-threat-ahead-of-presidential-inauguration",
+    "content": "A high‑level diplomatic gathering is set to take place later this month, with heads of state from four South American nations slated to join Spain’s monarch. Presidents of Argentina, Paraguay, Chile and Ecuador are expected to attend the event alongside King Felipe VI, underscoring the significance of the meeting for bilateral and regional cooperation.\n\nThe presence of the South American leaders reflects ongoing efforts to strengthen political, economic and cultural ties between Spain and the continent. Organizers anticipate discussions on trade, investment, and shared initiatives, while the royal host is expected to facilitate dialogue on common challenges. The summit aims to reinforce existing partnerships and explore new avenues for collaboration, concluding with a joint communiqué outlining agreed priorities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:52:11",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-036",
+    "title": "Gambian women replant mangroves to protect Banjul from erosion and flooding",
+    "slug": "gambian-women-replant-mangroves-to-protect-banjul-from-erosion-and-flooding",
+    "content": "Women on the island’s capital are turning tree‑planting into both a source of income and a frontline defense against environmental threats. Local initiatives have organized female growers to cultivate fast‑growing species that can be harvested for timber, fruit, and medicinal products, providing households with a steady stream of earnings while reinforcing community resilience.\n\nThe planted trees also serve a critical ecological function, stabilising soil along the shoreline and reducing the risk of erosion and flooding that have historically plagued the capital. By integrating sustainable agriculture with coastal protection, the program aims to safeguard the island’s infrastructure and support the livelihoods of its women, reinforcing broader efforts to adapt to climate‑related challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:52:06",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-035",
+    "title": "Lightning kills Thai footballer during semi-final match",
+    "slug": "lightning-kills-thai-footballer-during-semi-final-match",
+    "content": "Footage released on social media captured a lightning strike that hit a football player during a semi‑final match in southern Thailand. The incident occurred while the game was in progress, with the bolt striking the athlete on the field and prompting an immediate pause to the contest.\n\nEmergency responders attended the scene, and the match officials halted play while the player received medical attention. Authorities later confirmed that the incident was an isolated weather‑related event, and the competition was set to resume after the player’s condition was assessed. The video has prompted calls for enhanced lightning safety protocols at outdoor sporting venues in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:52:02",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260806-034",
+    "title": "U.S. administration to refund $100 billion in tariffs invalidated by Supreme Court",
+    "slug": "u-s-administration-to-refund-100-billion-in-tariffs-invalidated-by-supreme-court",
+    "content": "A federal initiative was announced on Tuesday, marking the first major policy shift since the U.S. Supreme Court invalidated a series of expansive levies championed by former President Donald Trump in February. The new measure, introduced by the Department of Treasury, aims to recalibrate the tax framework that had been subject to the Court’s ruling, restoring compliance with the Constitution while preserving revenue streams deemed essential for federal programs.\n\nThe administration said the adjustment will replace the struck-down provisions with a revised set of assessments that target the same economic activities but adhere to the legal standards outlined by the Court. Officials indicated that the change is expected to take effect in the upcoming fiscal quarter and will be accompanied by guidance for businesses and state tax authorities to ensure a smooth transition. The move underscores the government's effort to maintain fiscal stability after the high court’s intervention.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/6/2026 9:51:57",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260806-033",
     "title": "Trump seeks to reshape Iran war narrative before 2026 midterms",
     "slug": "trump-seeks-to-reshape-iran-war-narrative-before-2026-midterms",
