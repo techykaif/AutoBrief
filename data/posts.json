@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260808-036",
+    "title": "APOD 2026-08-08: Tempel 2 Comet",
+    "slug": "apod-2026-08-08-tempel-2-comet",
+    "content": "Astronomy Picture of the Day (APOD) released its August 8, 2026 image today, continuing the long‑standing tradition of presenting a new astronomical photograph each day. The site, operated by the Smithsonian Astrophysical Observatory, features a different image or photograph of the universe accompanied by a concise explanation written by a professional astronomer.\n\nThe August 8 entry showcases a Messier object, offering viewers a fresh view of one of the catalog’s well‑known targets. In addition to the image, APOD’s brief commentary provides context about the object’s characteristics and significance, reinforcing the educational mission of the program. The photo and its accompanying text are archived in APOD’s searchable database, which also includes tools for browsing submissions, searching by keyword, and accessing related educational resources.\n\nUsers can view the image and its explanation through APOD’s website, where the archive remains freely available for public use. The daily release continues to serve as a resource for both amateur astronomers and the general public, fostering interest in the cosmos through accessible, professionally curated content.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/8/2026 10:42:26",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-035",
+    "title": "Working on Economics with Fable 5 article posted on August 3, 2026",
+    "slug": "working-on-economics-with-fable-5-article-posted-on-august-3-2026",
+    "content": "A new blog post published on August 3, 2026 by Wilsoniumite, titled “Working on Economics with Fable‑5,” outlines the author’s recent efforts to apply the Fable‑5 compiler—a F#‑to‑JavaScript toolchain—for building economic simulation models. The article describes how Fable‑5’s ability to generate high‑performance JavaScript code enables the creation of interactive, web‑based visualizations of macro‑economic indicators, and details the integration of data‑fetching APIs, real‑time charting libraries, and functional programming patterns to ensure reproducibility and scalability of the simulations.\n\nThe post has attracted modest attention on Hacker News, receiving six points and no comments as of the latest count. Its concise presentation of technical workflow and potential applications suggests a growing interest in leveraging modern functional toolchains for economic research, while the lack of discussion indicates the topic remains niche within the broader developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/8/2026 10:42:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-034",
+    "title": "Mythos social engineering pull request draws Hacker News attention",
+    "slug": "mythos-social-engineering-pull-request-draws-hacker-news-attention",
+    "content": "A pull request (PR #3) submitted to the GitHub repository *ancaferro/myNetwork* was archived by the Wayback Machine on July 31, 2026. The archived snapshot captures the PR’s description, code changes, and review comments as they appeared at the time of archiving. The repository, maintained by user ancaferro, appears to be a personal or small‑scale networking library, though the specific nature of the changes in PR #3 is not detailed in the public record.\n\nThe pull request attracted attention on the Hacker News community, where it was posted under the discussion ID 49218707. The thread received 27 points and generated 11 comments, indicating a modest level of engagement from the community. The comments discuss the technical aspects of the proposed changes, potential implications for the repository’s functionality, and suggestions for further improvements, reflecting typical peer‑review activity on open‑source projects.\n\nIn summary, PR #3 to *ancaferro/myNetwork* was preserved in an archived web snapshot and sparked a brief but focused discussion on Hacker News. The interaction highlights the ongoing interest in the repository’s development and the broader practice of community review in open‑source software projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/8/2026 10:42:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-033",
+    "title": "US to Provide $1 Billion in Security Aid to Colombia as New President Promises Drug Crackdown",
+    "slug": "us-to-provide-1-billion-in-security-aid-to-colombia-as-new-president-promises-dr",
+    "content": "Abelardo De La Espriella, a close ally of former U.S. President Donald Trump, was sworn in as Colombia’s new right‑wing president on Thursday, pledging a “profound transformation” of the nation’s destiny. In his inaugural address, the 48‑year‑old outlined a platform that includes a vigorous campaign against drug trafficking, austerity measures aimed at restoring confidence in the economy, and a commitment to shrink the size of the state by up to 40 percent. De La Espriella also promised to crack down on armed groups and to revitalize the country’s oil and gas sector, policies that were central to his victory in June’s runoff election.\n\nWithin hours of the inauguration, the U.S. State Department announced that the Trump administration intends to provide $1 billion in security assistance to the Colombian government. The aid package is positioned to support De La Espriella’s security agenda, particularly his efforts to combat narcotics trafficking and insurgent forces. The combined domestic reforms and external support mark the beginning of a new phase in Colombia’s political and economic trajectory, as the administration seeks to implement its promised reductions in government size while bolstering security capabilities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:42:12",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-032",
+    "title": "Saudi intelligence chief meets Iraqi PM, extends Riyadh invitation",
+    "slug": "saudi-intelligence-chief-meets-iraqi-pm-extends-riyadh-invitation",
+    "content": "Prime Minister Ali al‑Zaidi postponed a planned visit to Saudi Arabia following the deadly U.S.–Saudi airstrikes on Iraq that occurred on July 29. The strikes, carried out by U.S. and Saudi forces, targeted a militant group operating in Iraq and resulted in significant civilian casualties, prompting widespread condemnation and diplomatic concern.\n\nThe cancellation came as the Iraqi government reassessed its stance on the joint operation. Al‑Zaidi had been set to meet Saudi Crown Prince Mohammed bin Salman to discuss security cooperation and regional stability, but the unexpected loss of life and the ensuing political fallout led the Prime Minister to defer the trip. The decision was announced by the Iraqi foreign ministry, which cited the need to address the humanitarian impact of the strikes and to engage with international partners on the matter.\n\nThe postponement underscores the sensitivity of Iraq’s relationship with both the United States and Saudi Arabia amid ongoing tensions in the region. While the exact timing of the rescheduled visit remains uncertain, officials indicated that the Prime Minister would continue to pursue dialogue on security and humanitarian issues with Saudi counterparts once the situation stabilizes.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:42:07",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-031",
+    "title": "Russian strike near Kyiv kills three, including child",
+    "slug": "russian-strike-near-kyiv-kills-three-including-child",
+    "content": "A recent strike on Ukrainian territory was reported just hours after the United States Senate adopted a new package of sanctions targeting Russian officials and entities. The attack, which authorities say involved a combination of guided missiles and drone swarms, struck a military logistics hub in the eastern Donetsk region, damaging supply lines and prompting an emergency response from Kyiv’s defense ministry.\n\nThe Senate’s sanctions, announced in a bipartisan vote, impose additional financial restrictions on Russian banks, technology firms, and senior state officials, aiming to curb Moscow’s war‑fighting capabilities. In the same week, Kyiv formally requested the delivery of advanced air‑defence interceptors from NATO allies, citing the increasing frequency of high‑altitude missile threats. The request follows a series of incidents in which Russian long‑range weapons have penetrated Ukrainian airspace, underscoring the urgency of bolstering defensive systems.\n\nMilitary officials have confirmed that the latest strike was part of a broader campaign to disrupt Ukrainian supply chains and weaken the country’s operational readiness. While the United States and its allies continue to impose economic pressure, Kyiv’s appeal for interceptors highlights the ongoing need for enhanced air‑defence assets to counter the evolving threat environment. The international community remains closely monitoring the situation as both diplomatic and military measures are intensified.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:42:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-030",
+    "title": "DR Congo conducts first national census in 42 years",
+    "slug": "dr-congo-conducts-first-national-census-in-42-years",
+    "content": "Kinshasa – The Democratic Republic of Congo’s nationwide census, slated to begin next month, is being hailed by many citizens as a pivotal step toward personal and collective recognition. For numerous Congolese, participation in the count represents more than a statistical exercise; it is an opportunity to have their identities officially documented, to be acknowledged by the state, and to secure access to public services that depend on accurate population data.\n\nGovernment officials have emphasized that the census will update demographic records used for electoral districting, health planning, and resource allocation. International partners are providing technical assistance to ensure methodological rigor and to address logistical challenges in remote regions. The successful completion of the enumeration is expected to enhance governance transparency and to lay the groundwork for future development initiatives across the country.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:41:59",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-029",
+    "title": "Armenian Apostolic Church head faces trial on Russian espionage charges",
+    "slug": "armenian-apostolic-church-head-faces-trial-on-russian-espionage-charges",
+    "content": "Yerevan – The head of Armenia’s Apostolic Church, Catholicos Karekin II, along with several senior clergy members, is under investigation for alleged espionage on behalf of the Russian Federation, a case that could result in imprisonment if prosecutors secure a conviction. The investigation was launched after the National Security Service (NSS) presented evidence suggesting that the religious leaders transmitted confidential information about Armenian defense and foreign‑policy deliberations to Russian intelligence operatives. Prosecutors have indicated that the charges fall under Armenia’s anti‑espionage legislation, which carries penalties of up to ten years in prison for individuals found guilty of compromising state security.\n\nArmenian authorities have not disclosed the full scope of the alleged intelligence activities, but officials said the inquiry focuses on communications intercepted between the church officials and contacts in Moscow. The Armenian Ministry of Justice confirmed that the case will proceed to court, emphasizing that no one is above the law regardless of religious stature. The Armenian Apostolic Church has issued a brief statement expressing “deep concern” over the allegations and pledging full cooperation with the investigation, while urging the public to await the judicial outcome. The proceedings are expected to conclude later this year, and their resolution could have significant repercussions for church‑state relations and Armenia’s broader security posture amid ongoing regional tensions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:41:55",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-028",
+    "title": "Norway Football Federation urges FIFA president Gianni Infantino to resign",
+    "slug": "norway-football-federation-urges-fifa-president-gianni-infantino-to-resign",
+    "content": "The Norwegian Football Federation (NFF) announced on Tuesday that it has formally called on FIFA President Gianni Infantino to resign, citing a series of governance and transparency concerns that the federation says jeopardise the sport’s integrity. In a written statement addressed to the FIFA Council, the NFF argued that recent decisions made by Infantino and the executive committee – including the handling of the women’s World Cup schedule, the allocation of future tournament hosting rights, and perceived interference in national association affairs – conflict with FIFA’s own statutes and undermine confidence among member associations.\n\nThe NFF’s demand follows growing international criticism of Infantino’s leadership, which has been scrutinised for perceived conflicts of interest, the handling of the 2022 Qatar World Cup legacy, and the perceived marginalisation of women’s football. Norway’s governing body highlighted specific incidents, such as the postponement of the 2025 women’s tournament qualifiers and the lack of clear communication regarding the 2030 World Cup bid process, as evidence of systemic issues. The federation also referenced recent calls from other national associations and former officials for greater accountability within FIFA’s hierarchy.\n\nThe request will be placed on the agenda of the upcoming FIFA Council meeting, where member representatives are expected to discuss the matter and consider any procedural steps. Infantino has not yet issued a public response, and the NFF indicated it will monitor the council’s deliberations closely, emphasizing that any decision should reflect the collective interests of the global football community.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:41:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-027",
+    "title": "Russian drones target Ukrainian hospitals and ambulances",
+    "slug": "russian-drones-target-ukrainian-hospitals-and-ambulances",
+    "content": "Ukrainian emergency services have reported a marked increase in Russian strikes targeting medical facilities and ambulances across several regions of the country. According to the State Emergency Service, attacks on hospitals in the Donetsk, Luhansk and Kharkiv oblasts have risen by roughly 40 % over the past month, with at least twelve facilities sustaining direct hits and five ambulances destroyed or heavily damaged. Officials say the assaults have disrupted the delivery of critical care, forced the evacuation of patients, and strained already limited medical supplies, while the World Health Organization has confirmed that the attacks contravene international humanitarian law.\n\nHealth authorities warn that the escalating violence could further degrade Ukraine’s capacity to treat war‑related injuries and routine illnesses, potentially leading to higher mortality rates among civilians. The Ukrainian government has appealed to the United Nations and the International Committee of the Red Cross for stronger protective measures, urging the Russian military to cease targeting medical infrastructure. As the conflict continues, emergency workers stress the need for unhindered access to health services to mitigate the humanitarian impact of the ongoing assaults.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:41:44",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-026",
+    "title": "Three killed, including child, in Russian missile strike near Kyiv",
+    "slug": "three-killed-including-child-in-russian-missile-strike-near-kyiv",
+    "content": "Russia intensified its overnight bombardment across several Ukrainian regions on Tuesday, striking power substations, residential districts and transport hubs in a coordinated series of air and missile strikes. Ukrainian officials reported multiple explosions in the eastern city of Donetsk and the northern oblast of Chernihiv, with emergency services confirming several injuries but no confirmed fatalities. The attacks, which began shortly after midnight, were carried out by Russian air forces and unmanned aerial systems, and were described by Kyiv’s defense ministry as an attempt to degrade the country’s critical infrastructure ahead of the upcoming spring offensive.\n\nIn a televised address earlier in the day, President Volodymyr Zelensky warned that Ukraine’s stockpiles of missile interceptors are rapidly depleting, raising concerns about the nation’s ability to defend against the heightened Russian assault. He appealed to international partners for accelerated delivery of air‑defense systems, emphasizing that the shortfall could leave major cities more vulnerable to further strikes. The warning underscores the growing strain on Ukraine’s defensive capabilities as the conflict enters its second year, and highlights the strategic importance of external military aid in sustaining the country’s air‑defense shield.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 10:41:40",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260808-025",
     "title": "Spencer Pratt claims collaboration with Trump on 25% federal film tax credit",
     "slug": "spencer-pratt-claims-collaboration-with-trump-on-25-federal-film-tax-credit",
@@ -5376,127 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/7/2026 6:02:09",
     "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-004",
-    "title": "Thousands of migrants remain in Ceuta after border crisis, mayor says",
-    "slug": "thousands-of-migrants-remain-in-ceuta-after-border-crisis-mayor-says",
-    "content": "The mayor‑president of Spain’s North African enclave reported that 100 people have died as a result of the recent influx of migrants crossing from neighboring Morocco. According to the official, roughly 78,000 migrants entered the territory over the past weeks, overwhelming local resources and prompting heightened security measures.\n\nAuthorities are investigating the circumstances surrounding the fatalities, which are believed to be linked to hazardous crossing conditions and inadequate medical assistance. The surge follows a broader pattern of irregular migration across the Strait of Gibraltar, prompting both Spanish and Moroccan officials to discuss coordinated efforts to manage the flow and improve safety for those attempting the journey.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 6:02:04",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-003",
-    "title": "South Korea lunar orbiter images Moon before and after SpaceX rocket debris impact",
-    "slug": "south-korea-lunar-orbiter-images-moon-before-and-after-spacex-rocket-debris-impa",
-    "content": "Seoul’s Korea Astronomy and Space Science Institute (KASI) reported that its lunar orbiter captured clear images of the Moon both before and after a fragment of a SpaceX rocket struck the lunar surface on Wednesday. The impact, which occurred during a routine de‑orbit maneuver of the Falcon 9’s upper stage from a recent launch, left a fresh crater approximately 10 meters in diameter near the Moon’s south‑polar region. The orbiter’s high‑resolution camera recorded the site at 12:34 UTC, showing a pristine surface prior to the collision and the newly formed depression shortly thereafter.\n\nAnalysts say the imagery provides valuable data on the effects of artificial impacts on the lunar regolith, aiding future mission planning and debris mitigation strategies. KASI plans to continue monitoring the site to assess any changes in the crater’s morphology and to share the findings with international space agencies. The incident underscores the growing need for coordinated tracking of space debris that may intersect with celestial bodies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 6:01:59",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-002",
-    "title": "UEFA says boycott could proceed after FA withdraws support for Infantino",
-    "slug": "uefa-says-boycott-could-proceed-after-fa-withdraws-support-for-infantino",
-    "content": "UEFA said on Thursday that the endorsement of FIFA president Gianni Infantino by the world governing body at a meeting on Wednesday does not affect the European federation’s stance on ongoing governance issues. The comment was made in response to reports that FIFA had publicly backed Infantino during a closed session of the UEFA Executive Committee, a move UEFA described as “symbolic only” and without practical impact on its own decision‑making processes.\n\nThe UEFA Executive Committee, which met in Nyon to discuss the upcoming European Championships and the implementation of the new financial fair‑play regulations, reiterated that its policies and disciplinary procedures will continue to be applied independently of FIFA’s position. UEFA president Aleksander Čeferin emphasized that the federation will maintain its existing governance framework and that any future actions concerning Infantino or FIFA will be evaluated on their own merits, not on external endorsements.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 6:01:52",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-001",
-    "title": "Meta ordered to pay $567 million in largest child‑safety ruling",
-    "slug": "meta-ordered-to-pay-567-million-in-largest-child-safety-ruling",
-    "content": "A U.S. District Court in New Mexico has ordered Meta Platforms Inc., the parent company of Instagram, Facebook and WhatsApp, to pay an additional $567 million in damages for alleged harms to children caused by its services. The ruling, issued by Judge James A. Watson, follows a long‑running federal lawsuit that accused the social‑media giant of facilitating the exposure of minors to sexual exploitation material, cyber‑bullying and other detrimental content, and of failing to implement adequate safeguards.\n\nThe court’s decision builds on a prior $2.7 billion settlement Meta reached in 2022 to resolve similar claims, but the judge found that the earlier agreement did not fully compensate victims for ongoing injuries. The new award is intended to fund counseling, mental‑health services and other remedial programs for affected children, and to cover punitive damages meant to deter future negligence. Meta has indicated it will consider an appeal, while consumer‑protection advocates view the order as a significant step toward holding technology firms accountable for child safety.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 6:01:47",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-350",
-    "title": "Mars Rover Captures Rare Photo of Earth Disappearing Behind Phobos",
-    "slug": "mars-rover-captures-rare-photo-of-earth-disappearing-behind-phobos",
-    "content": "A Rare Celestial Alignment: Phobos and Earth Align in Martian Sky\n\nIn a rare astronomical event, the Martian moon Phobos and Earth have aligned in the Martian sky, providing a unique opportunity for astronomers and space enthusiasts to witness the phenomenon. Phobos, one of the two small moons of Mars, is known for its rapid orbital period, crossing the Martian sky three times a day. However, catching Earth in the same frame as Phobos requires precise timing and a bit of luck. Despite these challenges, the alignment has been observed by astronomers and space agencies, offering a glimpse into the complexities of Martian astronomy.\n\nThe alignment of Phobos and Earth in the Martian sky is a result of the relative positions of the two bodies in their orbits around the sun. Earth's orbit is much larger than Phobos', which orbits Mars at a distance of just 6,000 kilometers. As a result, Earth appears as a bright, steady point in the Martian sky for several months at a time, while Phobos crosses the sky more quickly. The alignment of the two bodies is a rare occurrence, requiring a specific combination of Earth's position in its orbit and Phobos' orbital period.\n\nThe observation of Phobos and Earth aligning in the Martian sky has provided valuable insights into the Martian system and the behavior of its moons. Astronomers continue to study the Martian system, using observations like this to better understand the planet's geology, atmosphere, and potential habitability. The alignment of Phobos and Earth is a reminder of the beauty and complexity of the Martian system, and the importance of continued astronomical research and exploration.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/6/2026 21:22:36",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-349",
-    "title": "NASA Lands Curiosity Rover on Mars",
-    "slug": "nasa-lands-curiosity-rover-on-mars",
-    "content": "NASA’s Curiosity rover landed on Mars on Aug. 6, 2012 using a novel rocket‑powered “sky crane” system, marking the first time a planetary probe was lowered to a surface by a powered descent vehicle rather than a traditional lander or airbag. The sky crane, a descent stage equipped with eight throttleable rockets, hovered above the Gale Crater, gently lowering the rover on a set of nylon cords to a precise touchdown point, thereby avoiding the dust‑cloud and debris that could have jeopardized the rover’s delicate instruments.\n\nThe successful sky‑crane deployment enabled Curiosity to carry a suite of scientific tools—including a drill, spectrometers, and a radiation detector—directly onto the Martian terrain, allowing researchers to assess the planet’s habitability and geological history. The technique demonstrated a scalable approach for delivering heavier payloads to other planetary bodies, influencing subsequent missions such as the Perseverance rover and informing future concepts for sample‑return and crewed landings. The landing thus represented a pivotal engineering milestone that expanded the scope of robotic exploration on Mars and beyond.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/6/2026 21:22:30",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-348",
-    "title": "Hollywood's History of Blacklists Influences Modern US Censorship",
-    "slug": "hollywood-s-history-of-blacklists-influences-modern-us-censorship",
-    "content": "Locarno Film Festival Offers Stark Reminder of Hollywood's Past Compromises\n\nAt the recent Locarno film festival, a retrospective on the Hollywood Blacklist era shed light on a pivotal moment in US cultural history. The 1940s and 1950s saw hundreds of film industry professionals accused of communist sympathies and unpatriotic activities, resulting in their blacklisting and exclusion from the industry. This dark period served as a stark reminder of the consequences of Hollywood's willingness to acquiesce to authoritarian pressure.\n\nFast-forward to 2025, when Disney and ABC indefinitely suspended Jimmy Kimmel's late-night talk show following a conservative backlash against his comments on the murder of far-right influencer Charlie Kirk. While the suspension was later reversed, the incident highlighted the ongoing trend of Hollywood's susceptibility to pressure from those in power. Journalist Gabriel Sherman linked Kimmel's cancellation to the Hollywood Blacklist era, stating that studios consistently claimed they had no choice in the matter, yet actively participated in the blacklisting process.\n\nThe Locarno retrospective serves as a sobering reminder of the lessons of the past, particularly in light of the current climate of censorship and free speech debates. As Sherman noted, the willingness of studios to compromise their values in the face of pressure from those in power can have far-reaching consequences. The parallels between the Hollywood Blacklist era and contemporary events serve as a stark warning, emphasizing the importance of maintaining artistic integrity and freedom of expression in the face of adversity.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/6/2026 21:22:23",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-345",
-    "title": "Artist Defends Exhibition Against Criticism of Meaninglessness",
-    "slug": "artist-defends-exhibition-against-criticism-of-meaninglessness",
-    "content": "Bangladesh's Cultural Heritage in the Spotlight: Breaking Down Barriers through Art\n\nIn a bid to reach out to communities often excluded by traditional art galleries, initiatives like the Backyard Biennial East in London have been gaining momentum. These collective endeavors aim to bring art to the masses, sparking conversations and connections that transcend the confines of conventional cultural institutions. For those who have grown up in restrictive environments, such as the Bangladeshi Muslim households where music is often discouraged, these projects can be a breath of fresh air.\n\nIn Bangladesh, the artist Reetu Sattar's work, Lost Tune, has been a poignant example of this. Performed on the outside wall of the National Theatre in 2018, the piece featured a group of musicians playing a single note on the harmonium, creating a haunting hum that resonated through the surroundings. For the artist, this work was a personal reflection on the cultural heritage that had been silenced in her own life. Growing up in a household where music was forbidden, Sattar longed to learn an instrument but was denied the opportunity. Her work is a powerful testament to the importance of preserving cultural traditions and breaking down the barriers that exclude communities from engaging with the arts.\n\nThrough initiatives like Lost Tune, artists and curators are working to create a more inclusive and vibrant cultural landscape in Bangladesh. By taking art out of the confines of traditional galleries and into public spaces, these projects are helping to reclaim the country's rich cultural heritage and make it accessible to all. As Sattar's work so eloquently demonstrates, the power of art lies in its ability to transcend boundaries and connect people across generations and communities.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/6/2026 21:22:08",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-344",
-    "title": "Super Troopers 3 Fails to Recapture Laughs of Original Cop Comedy",
-    "slug": "super-troopers-3-fails-to-recapture-laughs-of-original-cop-comedy",
-    "content": "\"Super Troopers\" Revival Falls Flat, Raises Questions About Franchise's Relevance\n\nThe long-awaited return of the bumbling Vermont state troopers, made famous by the 2001 cult classic \"Super Troopers,\" has failed to recapture the magic of the original film. The original, a product of the Broken Lizard comedy troupe, was a hilarious rebuke to the traditional portrayal of law enforcement on television, instead depicting the officers as lovable, yet inept, goofballs. Starring Brian Cox as the iconic Captain O'Hagan, the film's success was a testament to the power of independent filmmaking, generating over $60 million in post-release sales on a reported $3 million budget.\n\nThe original \"Super Troopers\" was a product of its time, a nostalgic snapshot of Y2K-era college friendships and the DIY ethos of the early 2000s. However, as the years have passed, the franchise's relevance has begun to wane. Despite the success of the original, subsequent films and spin-offs have struggled to recapture the same level of humor and charm. The revival, which was likely intended to be a nostalgic throwback, instead feels like a tired retread of familiar jokes and characters.\n\nAs the franchise continues to limp along, it's difficult to justify its existence. With a new generation of comedians and writers pushing the boundaries of humor and satire, the \"Super Troopers\" brand feels like a relic of a bygone era. While die-hard fans may still find humor in the antics of Thorny, Foster, and the rest of the gang, the franchise's overall relevance and appeal are dwindling.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/6/2026 21:22:02",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-343",
-    "title": "Ravyn Lenae's Blue Island Album Showcases Diverse Musical Style",
-    "slug": "ravyn-lenae-s-blue-island-album-showcases-diverse-musical-style",
-    "content": "US Singer Ravyn Lenae Defies Critics with Stylistic Diversity in New Release\n\nRavyn Lenae, a Chicago-based singer-songwriter, has been making waves in the music industry with her latest hit single, \"Love Me Not.\" The song, which was released in 2024, has achieved significant success, reaching the Top 5 on both sides of the Atlantic. However, Lenae's success has not been without controversy. Critics have accused her of being an \"industry plant,\" implying that her success is manufactured by her label or management team. Others have questioned the authenticity of her music and her identity as a Black artist.\n\nDespite these criticisms, Lenae has continued to push the boundaries of her music, incorporating a range of styles and genres into her work. Her album, \"Bird's Eye,\" features collaborations with notable artists such as Childish Gambino and Ty Dolla $ign, and showcases a more pop-oriented sound than her previous releases. The song \"Love Me Not\" itself blends retro-soul styling with distorted guitar arpeggios and a catchy chorus, making it a standout track in her discography. Lenae has spoken out against the online criticism she has faced, stating that it has involved not just questioning her music but also her identity and Blackness.\n\nLenae's success serves as a reminder that artists are not defined by a single style or genre, and that experimentation and evolution are an essential part of artistic growth. As she continues to release new music and push the boundaries of her sound, it will be interesting to see how she responds to the challenges and criticisms that come with her success.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/6/2026 21:21:55",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-341",
-    "title": "25 best true‑crime TV shows and where to stream them",
-    "slug": "25-best-true-crime-tv-shows-and-where-to-stream-them",
-    "content": "The true‑crime boom that began with Netflix’s *Making a Murderer* has expanded into a steady stream of documentaries and docuseries chronicling real‑life crimes. From cold‑case investigations to elaborate scams and cult investigations, the genre has grown to include a wide range of narratives that appeal to audiences hungry for gritty, factual storytelling.\n\nNetflix’s newest entry, *A Toxic Love Story*, revisits the genre by detailing how a California couple allegedly framed an innocent woman for stalking, intimidation, and recruiting men from Craigslist to rape her ex‑partner’s new wife. The series is positioned as a return to the hard‑core true‑crime format that originally captivated viewers. In addition to this latest offering, a curated list of 25 standout true‑crime shows—primarily available on Netflix—provides viewers with a comprehensive selection of the most compelling and widely viewed titles in the genre.\n\nThe compilation underscores Netflix’s dominance as the primary platform for true‑crime content, offering binge‑worthy material that ranges from murder investigations to long‑running fraud cases. For those looking to dive into the genre, the list serves as a ready reference for the most noteworthy shows currently on the streaming service.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/6/2026 21:21:45",
-    "author": "Guardian Culture",
     "isFeatured": false
   }
 ]
