@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260808-064",
+    "title": "Somosierra Prepares for Solar Eclipse Visitors",
+    "slug": "somosierra-prepares-for-solar-eclipse-visitors",
+    "content": "Somosierra, a high‑altitude plateau in the Sierra de Guadarrama, will serve as a prime viewing point for a total solar eclipse on the evening of 12 August. The event, which will sweep across northern and eastern Spain and the Balearic Islands, is the first total eclipse visible in the region in more than 120 years. Local authorities warn that the influx of visitors and the need for temporary infrastructure will pose significant logistical challenges, prompting calls for coordinated crowd management and emergency services.\n\nThe landscape around Somosierra is marked by wind‑blasted peaks, dry grasslands grazed by cattle, and an abandoned aerodrome that once hosted generations of glider pilots. The airfield’s flat runways, once a training ground for pilots who harnessed thermals, now lie silent beside flocks of vultures and red kites that patrol the skies. The eclipse will temporarily eclipse this quiet, drawing thousands of spectators to witness the rare celestial alignment.\n\nAs the sun’s corona becomes visible and the sky darkens, the region will experience a brief period of totality lasting only a few minutes. While the event offers a unique opportunity for both amateur astronomers and the general public, the expected surge in visitors underscores the need for careful planning to ensure safety and preserve the natural and historical integrity of the area.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/8/2026 13:32:01",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-063",
+    "title": "Hardware Backdoors Detected in Certain x86 CPUs",
+    "slug": "hardware-backdoors-detected-in-certain-x86-cpus",
+    "content": "A new open‑source project, **rosenbridge**, was posted on GitHub by user *xoreaxeaxeax* and subsequently surfaced on Hacker News. The repository, located at https://github.com/xoreaxeaxeax/rosenbridge, offers a lightweight utility for bridging ROS (",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/8/2026 13:31:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-062",
+    "title": "US plans $1 billion aid package for Colombia after de la Espriella inauguration",
+    "slug": "us-plans-1-billion-aid-package-for-colombia-after-de-la-espriella-inauguration",
+    "content": "U.S. President Donald Trump publicly praised de la Espriella, describing him as a “smart, strong, and tough leader” in a statement released by the White House on Thursday. The comment was made during a briefing on the administration’s ongoing diplomatic outreach, in which Trump highlighted the importance of strong leadership among the United States’ international partners.\n\nThe compliment was directed at de la Espriella, a senior political figure who has held prominent positions in his home country’s government. The president’s remarks were part of a broader effort to reinforce bilateral ties and underscore shared priorities, according to officials familiar with the discussion. No further policy actions were announced in conjunction with the statement.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 13:31:50",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-061",
+    "title": "Iran uses AI-enhanced murals and posters as visual propaganda in US conflict",
+    "slug": "iran-uses-ai-enhanced-murals-and-posters-as-visual-propaganda-in-us-conflict",
+    "content": "Tehran at War (Part 2/2) – France 24 reports that Iran’s confrontation with the United States now extends to a massive visual campaign, with the state commissioning thousands of large‑scale posters and murals across the capital. These artworks, placed on public walls and rooftops, serve as billboards that broadcast the government’s official narrative, aiming to reinforce domestic support and project Iran’s perspective to an international audience. The program, which began in the aftermath of the 1979 Islamic Revolution, has been continuously refined to align with the regime’s political objectives and to counter perceived foreign propaganda.\n\nAccording to the French broadcaster, recent iterations of the campaign incorporate artificial‑intelligence tools that accelerate design, translation, and distribution, allowing messages to be rapidly updated and tailored for both Persian‑speaking citizens and foreign viewers. The AI‑enhanced posters feature stylized imagery of national symbols, slogans denouncing U.S. policies, and references to historic revolutionary themes, creating a cohesive visual language that links past revolutionary rhetoric with contemporary geopolitical tensions. France 24 concludes that the state‑sponsored mural strategy illustrates how Iran leverages modern technology to amplify its diplomatic messaging and sustain a narrative that extends beyond its borders.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 13:31:44",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260808-059",
     "title": "Family watches Birmingham Phoenix vs Welsh Fire Hundred match at Edgbaston",
     "slug": "family-watches-birmingham-phoenix-vs-welsh-fire-hundred-match-at-edgbaston",
@@ -5452,50 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/7/2026 6:12:22",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-030",
-    "title": "Defense tech firm Hadrian raises $1.37 billion, valuation reaches $8 billion",
-    "slug": "defense-tech-firm-hadrian-raises-1-37-billion-valuation-reaches-8-billion",
-    "content": "Hadrian is constructing automated production facilities aimed at mass‑producing components for defense vehicles, including submarines. The company’s strategy centers on high‑precision robotics and advanced manufacturing techniques to streamline the supply chain for military hardware.\n\nThe venture has attracted a roster of prominent investors, underscoring confidence in its technology and market potential. While the exact list of backers remains confidential, reports indicate participation from major venture capital firms and strategic defense industry stakeholders.\n\nBy leveraging automation, Hadrian seeks to reduce lead times and production costs for critical defense components, positioning itself as a key supplier in the defense sector’s evolving manufacturing landscape.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 6:12:16",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-029",
-    "title": "LightSpy spyware linked to Chinese firm targets users in 13 countries",
-    "slug": "lightspy-spyware-linked-to-chinese-firm-targets-users-in-13-countries",
-    "content": "Researchers have traced a recent wave of malicious cyber activity to a Chinese company after an operator of the spyware was identified through a seemingly ordinary KFC order. The order, placed with the fast‑food chain, used the operator’s real name and office address, providing investigators with a concrete point of contact that linked the activity to the firm.\n\nThe spyware in question, which has been used to target corporate and government communications, was found to be deployed by the identified operator in a series of recent attacks. By cross‑referencing the KFC order details with internal company records and digital footprints, security analysts were able to confirm the operator’s affiliation with the Chinese entity, thereby closing a key gap in the attribution chain.\n\nThe findings highlight how seemingly unrelated commercial transactions can serve as forensic breadcrumbs in cyber investigations. Authorities will continue to monitor the company’s operations and the broader threat landscape as part of ongoing efforts to mitigate the impact of state‑backed cyber espionage.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 6:12:12",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-028",
-    "title": "Google reports hackers targeting US financial firm employees for data theft and extortion",
-    "slug": "google-reports-hackers-targeting-us-financial-firm-employees-for-data-theft-and",
-    "content": "Google’s security research team has identified coordinated attacks by multiple hacker groups against major U.S. financial institutions, in which the perpetrators infiltrate corporate networks, exfiltrate sensitive customer and operational data, and then demand payment to prevent public disclosure. The campaigns, which began in early 2024, target banks, credit‑card issuers and investment firms, exploiting vulnerabilities in remote‑access tools and compromised third‑party software to gain privileged access.\n\nAccording to the Google report, the attackers use encrypted command‑and‑control channels and custom ransomware to encrypt stolen files before issuing extortion demands, often threatening to release personally identifiable information or trade secrets. Several affected firms have engaged law‑enforcement agencies and initiated internal security reviews, while Google has shared indicators of compromise with industry partners to mitigate further intrusion. Investigations remain ongoing as authorities work to trace the actors and disrupt the illicit operations.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 6:12:08",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-027",
-    "title": "Additional $100 discount on TechCrunch Disrupt 2026 passes available until tomorrow",
-    "slug": "additional-100-discount-on-techcrunch-disrupt-2026-passes-available-until-tomorr",
-    "content": "TechCrunch has announced a new promotion for its upcoming TechCrunch Disrupt 2026 event. Beginning today, attendees who purchase a Founder, Investor, or Attendee pass can receive an additional $100 discount on top of the already reduced rates currently on offer. The move is aimed at making the conference more accessible to early‑stage entrepreneurs and investors looking to network and showcase their innovations.\n\nThe discount applies to all three ticket categories and is available for a limited time. Organizers note that the promotion does not affect the event’s schedule, venue, or programming, which will remain unchanged. Prospective participants are encouraged to secure their passes early, as the offer is expected to accelerate ticket sales ahead of the event’s opening.\n\nWith the extra $100 off, TechCrunch Disrupt 2026 continues to position itself as a key platform for technology leaders and investors, while also broadening participation among founders and attendees. The discount underscores the conference’s commitment to fostering a diverse and engaged community of innovators.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 6:12:03",
     "author": "TechCrunch",
     "isFeatured": false
   }

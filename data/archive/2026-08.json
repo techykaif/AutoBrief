@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260807-030",
+    "title": "Defense tech firm Hadrian raises $1.37 billion, valuation reaches $8 billion",
+    "slug": "defense-tech-firm-hadrian-raises-1-37-billion-valuation-reaches-8-billion",
+    "content": "Hadrian is constructing automated production facilities aimed at mass‑producing components for defense vehicles, including submarines. The company’s strategy centers on high‑precision robotics and advanced manufacturing techniques to streamline the supply chain for military hardware.\n\nThe venture has attracted a roster of prominent investors, underscoring confidence in its technology and market potential. While the exact list of backers remains confidential, reports indicate participation from major venture capital firms and strategic defense industry stakeholders.\n\nBy leveraging automation, Hadrian seeks to reduce lead times and production costs for critical defense components, positioning itself as a key supplier in the defense sector’s evolving manufacturing landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:16",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-029",
+    "title": "LightSpy spyware linked to Chinese firm targets users in 13 countries",
+    "slug": "lightspy-spyware-linked-to-chinese-firm-targets-users-in-13-countries",
+    "content": "Researchers have traced a recent wave of malicious cyber activity to a Chinese company after an operator of the spyware was identified through a seemingly ordinary KFC order. The order, placed with the fast‑food chain, used the operator’s real name and office address, providing investigators with a concrete point of contact that linked the activity to the firm.\n\nThe spyware in question, which has been used to target corporate and government communications, was found to be deployed by the identified operator in a series of recent attacks. By cross‑referencing the KFC order details with internal company records and digital footprints, security analysts were able to confirm the operator’s affiliation with the Chinese entity, thereby closing a key gap in the attribution chain.\n\nThe findings highlight how seemingly unrelated commercial transactions can serve as forensic breadcrumbs in cyber investigations. Authorities will continue to monitor the company’s operations and the broader threat landscape as part of ongoing efforts to mitigate the impact of state‑backed cyber espionage.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:12",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-028",
+    "title": "Google reports hackers targeting US financial firm employees for data theft and extortion",
+    "slug": "google-reports-hackers-targeting-us-financial-firm-employees-for-data-theft-and",
+    "content": "Google’s security research team has identified coordinated attacks by multiple hacker groups against major U.S. financial institutions, in which the perpetrators infiltrate corporate networks, exfiltrate sensitive customer and operational data, and then demand payment to prevent public disclosure. The campaigns, which began in early 2024, target banks, credit‑card issuers and investment firms, exploiting vulnerabilities in remote‑access tools and compromised third‑party software to gain privileged access.\n\nAccording to the Google report, the attackers use encrypted command‑and‑control channels and custom ransomware to encrypt stolen files before issuing extortion demands, often threatening to release personally identifiable information or trade secrets. Several affected firms have engaged law‑enforcement agencies and initiated internal security reviews, while Google has shared indicators of compromise with industry partners to mitigate further intrusion. Investigations remain ongoing as authorities work to trace the actors and disrupt the illicit operations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:08",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-027",
+    "title": "Additional $100 discount on TechCrunch Disrupt 2026 passes available until tomorrow",
+    "slug": "additional-100-discount-on-techcrunch-disrupt-2026-passes-available-until-tomorr",
+    "content": "TechCrunch has announced a new promotion for its upcoming TechCrunch Disrupt 2026 event. Beginning today, attendees who purchase a Founder, Investor, or Attendee pass can receive an additional $100 discount on top of the already reduced rates currently on offer. The move is aimed at making the conference more accessible to early‑stage entrepreneurs and investors looking to network and showcase their innovations.\n\nThe discount applies to all three ticket categories and is available for a limited time. Organizers note that the promotion does not affect the event’s schedule, venue, or programming, which will remain unchanged. Prospective participants are encouraged to secure their passes early, as the offer is expected to accelerate ticket sales ahead of the event’s opening.\n\nWith the extra $100 off, TechCrunch Disrupt 2026 continues to position itself as a key platform for technology leaders and investors, while also broadening participation among founders and attendees. The discount underscores the conference’s commitment to fostering a diverse and engaged community of innovators.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:03",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-026",
     "title": "Vogue World to launch in San Francisco next year",
     "slug": "vogue-world-to-launch-in-san-francisco-next-year",
