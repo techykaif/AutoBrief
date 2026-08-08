@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260808-025",
+    "title": "Spencer Pratt claims collaboration with Trump on 25% federal film tax credit",
+    "slug": "spencer-pratt-claims-collaboration-with-trump-on-25-federal-film-tax-credit",
+    "content": "Reality TV personality and former Los Angeles mayoral candidate Spencer Pratt announced on Friday that he is collaborating with former President Donald Trump to secure a 25‑percent federal film tax credit aimed at revitalizing Hollywood. Pratt posted the claim on the social‑media platform X, stating that the initiative would “bring back Hollywood” and that he is “committed to saving Hollywood.” The announcement comes amid ongoing discussions in Washington about expanding film‑industry incentives to compete with international production hubs.\n\nPratt’s statement has not been corroborated by any official source, and no press release or congressional record currently confirms a partnership between the former president and the entertainment sector on a new tax measure. Industry analysts note that while a 25‑percent credit would represent a significant boost, such proposals typically require bipartisan support and legislative approval before taking effect. As of now, the claim remains unverified and its potential impact on the U.S. film industry is uncertain.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/8/2026 9:32:12",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-024",
+    "title": "Thune, Trump, Senate Conservatives Reach Deal to Postpone Budget Vote",
+    "slug": "thune-trump-senate-conservatives-reach-deal-to-postpone-budget-vote",
+    "content": "Senate Majority Leader John Thune (R‑S.D.), President Trump, and a coalition of Senate conservatives struck a deal Friday night that will postpone a vote on the current budget resolution and defer action on most provisions of the SAVE America Act until after the August recess. The agreement ended a weeks‑long dispute among Republican senators over the timing and scope of fiscal policy measures.\n\nUnder the compromise, the budget resolution will be set aside for the time being, while the SAVE America Act—an expansive package that includes tax cuts, spending limits, and regulatory reforms—will not be brought to the floor until the Senate reconvenes. Conservative senators such as Ron Johnson (R‑Wis.) and others who had opposed an immediate vote agreed to the delay in exchange for assurances that the core elements of the act would remain on the legislative agenda.\n\nThe deal allows the Senate to avoid a contentious vote that could have triggered a filibuster or stalled other priorities. With the budget resolution and SAVE America Act on hold, lawmakers can refocus on other legislative matters before the August recess, while maintaining a unified front on fiscal policy for the remainder of the term.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/8/2026 9:32:08",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-023",
+    "title": "U.S. Courts Terminate TPS for Myanmar and South Sudan Migrants",
+    "slug": "u-s-courts-terminate-tps-for-myanmar-and-south-sudan-migrants",
+    "content": "Two U.S. District Court judges have dismissed lawsuits that sought to preserve Temporary Protected Status (TPS) for nationals of South Sudan and Myanmar, leaving a segment of those residents vulnerable to removal proceedings. The rulings came after the Department of Homeland Security (DHS) posted alerts on its website confirming that, effective August 7, the TPS designations for both countries were terminated. The court decisions uphold the agency’s earlier determination to end the protections, which had been in place for several years in response to ongoing conflict and humanitarian crises in the two nations.\n\nThe DHS notices, issued separately for South Sudan and Myanmar, warned that individuals who previously relied on TPS to remain lawfully in the United States must now either seek alternative immigration relief or face possible deportation. The agency indicated that it will continue to process any pending applications for adjustment of status, asylum, or other forms of relief, but it will no longer accept new TPS applications or extensions for the two countries. Immigration advocates have urged affected migrants to consult legal counsel promptly, while the government has not signaled any immediate plans to reinstate the TPS designations.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/8/2026 9:32:03",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-022",
+    "title": "Show HN introduces modern C++ build tools for module feature",
+    "slug": "show-hn-introduces-modern-c-build-tools-for-module-feature",
+    "content": "A new discussion thread has appeared on the Hacker News platform, inviting developers to share their experiences with the module system introduced in recent versions of the C++ programming language. The post, authored by an anonymous user, encourages participants to experiment with “MCPP,” a tool presumably related to C++ module compilation, and to engage in dialogue about its capabilities. The entry, identified by the URL https://news.ycombinator.com/item?id=49217761, has accumulated four points from the community and currently shows no comments.\n\nThe thread’s brief description highlights interest in evaluating the practical benefits of C++’s module features, which aim to improve compilation times and manage code dependencies more effectively compared to traditional header files. By prompting users to try MCPP and provide feedback, the post seeks to generate user‑generated insights that could inform broader adoption of the module system. As of the latest update, the conversation remains open for contributions, reflecting ongoing curiosity within the programming community about the evolving C++ ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/8/2026 9:31:59",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-021",
+    "title": "US courts allow termination of TPS for South Sudan and Myanmar nationals",
+    "slug": "us-courts-allow-termination-of-tps-for-south-sudan-and-myanmar-nationals",
+    "content": "A federal court ruling on Tuesday cleared the way for the Trump administration to terminate Temporary Protected Status (TPS) for nationals of two designated countries. The decision upholds the administration’s request to end the humanitarian protection program that has allowed thousands of immigrants from the affected nations to remain and work in the United States while conditions in their home countries are deemed unsafe or unstable.\n\nThe order applies to citizens of Haiti and Sudan, the two countries whose TPS designations were slated for revocation earlier this year. The administration argued that the original reasons for granting TPS—post‑earthquake devastation in Haiti and ongoing conflict in Sudan—have been sufficiently mitigated, meeting the legal criteria for termination. The ruling permits the Department of Homeland Security to begin the formal removal of TPS benefits, which could affect an estimated 200,000 individuals, many of whom have been living in the United States for years. Legal challenges are expected, but the court’s decision marks a significant step in the administration’s broader effort to curtail the program.\n\nThe termination of TPS for Haiti and Sudan will trigger a new round of immigration proceedings for affected nationals, who must either seek other forms of legal status or face potential deportation. The administration has indicated that it will provide a 30‑day window for individuals to apply for alternative relief, though critics warn that the timeframe may be insufficient for many to secure the necessary documentation. The outcome of forthcoming appeals will determine the final scope of the policy change.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 9:31:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-020",
+    "title": "Drought exposes former village in Indonesia's Karian Reservoir",
+    "slug": "drought-exposes-former-village-in-indonesia-s-karian-reservoir",
+    "content": "Drone footage released on Monday captured the skeletal outlines of homes, roads and a former school reappearing along the banks of Indonesia’s Karian Reservoir as water levels receded dramatically during an extended drought. The reservoir, created in 2013 to supply irrigation and hydro‑electric power to the South Sulawesi province, had submerged the village of Kambang in 2014, prompting the relocation of its residents to nearby highland settlements. Satellite images and on‑the‑ground reports confirm that the reservoir’s water volume fell by roughly 40 percent over the past six months, exposing the long‑buried infrastructure.\n\nLocal officials from the South Sulawesi Water Authority said the drought, linked to lower-than‑average rainfall across the region, has accelerated the reservoir’s depletion, raising concerns about water security for agriculture and power generation. They noted that the exposed structures are being monitored for safety and that the government is assessing potential measures to mitigate future water shortages, including improved water‑management practices and the exploration of alternative sources. The visual evidence of the submerged village underscores the broader environmental challenges facing Indonesia’s water resources amid shifting climate patterns.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 9:31:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-019",
+    "title": "US Senate approves strongest Russia sanctions to date",
+    "slug": "us-senate-approves-strongest-russia-sanctions-to-date",
+    "content": "The United States Senate voted overwhelmingly to adopt what officials described as the most comprehensive anti‑Russia measure enacted during the Trump administration. The bipartisan legislation, which passed with a near‑unanimous margin, expands existing sanctions, imposes new restrictions on Russian financial institutions, and authorizes additional funding for Ukraine’s defense and humanitarian needs. The bill also calls for heightened scrutiny of transactions involving Russian state‑owned enterprises and expands the authority of the Treasury’s Office of Foreign Assets Control to target individuals and entities deemed to be supporting Moscow’s military operations.\n\nLawmakers framed the action as a direct response to Russia’s ongoing aggression in Ukraine and its broader efforts to undermine Western democracies. By tightening financial channels and increasing support for Kyiv, the Senate aims to pressure the Kremlin while reinforcing U.S. commitment to European security. The measure now moves to the House for consideration, after which it could be signed into law, marking a significant escalation in Washington’s strategy to counter Russian influence.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/8/2026 9:31:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260808-018",
     "title": "Trump Administration Plans Overhaul of Head Start Program",
     "slug": "trump-administration-plans-overhaul-of-head-start-program",
@@ -5420,83 +5497,6 @@
     "categorySlug": "entertainment",
     "publishedAt": "8/6/2026 21:21:45",
     "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-337",
-    "title": "London Submits Bid for 2029 World Athletics Championships",
-    "slug": "london-submits-bid-for-2029-world-athletics-championships",
-    "content": "London has taken a significant step forward in its bid to host the 2029 World Athletics Championships, securing an agreement with West Ham United Football Club to utilize the London Stadium as the event's main venue. The stadium, previously known as the Olympic Stadium, will serve as the primary location for the championships, providing a state-of-the-art facility for athletes and spectators alike. This development comes as a crucial milestone in London's bid, which is set to be announced in September alongside other candidate cities.\n\nAccording to reports, World Athletics is currently reviewing applications from several cities, including London, Rome, Munich, and Nairobi. While the other candidate cities have not been officially confirmed, it is believed that these locations have submitted strong bids to host the prestigious event. The 2029 World Athletics Championships are expected to attract top athletes from around the world, generating significant interest and excitement in the sport. London's bid is seen as a strong contender, given the city's rich sporting history and the London Stadium's impressive infrastructure.\n\nThe announcement of the host city is expected to take place in September, with the winning bid set to be revealed in due course. London's agreement with West Ham United Football Club has provided a significant boost to the city's chances, and fans will be eagerly awaiting the outcome of the bid process. The 2029 World Athletics Championships promise to be a thrilling event, and London's bid is seen as a serious contender to bring the championships to the city.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/6/2026 21:12:42",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-332",
-    "title": "Fetterman Challenges El-Sayed to Continue Campaigning with Piker",
-    "slug": "fetterman-challenges-el-sayed-to-continue-campaigning-with-piker",
-    "content": "Pennsylvania Senator John Fetterman has sparked controversy by questioning Michigan Democratic Senate candidate Abdul El-Sayed's decision to campaign with left-wing streamer Hasan Piker. In a recent exchange, Fetterman issued a sarcastic challenge to El-Sayed, suggesting that he continue to campaign alongside Piker. This move has raised eyebrows, given Fetterman's own reputation for bucking his party's traditional stances in recent years. El-Sayed's campaign with Piker has been a subject of debate, with some critics accusing the streamer of promoting divisive and radical ideologies.\n\nFetterman's comments are seen as a swipe at El-Sayed's campaign strategy, which has been marked by unconventional alliances and unorthodox tactics. Piker, a popular figure on the left-wing streaming platform Twitch, has been known for his outspoken views and provocative commentary. By campaigning with Piker, El-Sayed is seeking to appeal to a younger and more progressive demographic. However, Fetterman's challenge suggests that this approach may not be without its risks, and that El-Sayed may face criticism from within his own party for his association with the controversial streamer.\n\nThe exchange between Fetterman and El-Sayed highlights the complexities of modern party politics, where traditional alliances and ideological boundaries are increasingly being tested. As the 2024 elections approach, candidates are facing growing pressure to adapt to changing voter demographics and preferences. El-Sayed's decision to campaign with Piker is a reflection of this shift, but Fetterman's challenge suggests that not everyone within the party is comfortable with this new direction.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/6/2026 21:12:29",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-329",
-    "title": "Yet another cyclosporiasis outbreak appears as cases linked to recalled lettuce grow",
-    "slug": "yet-another-cyclosporiasis-outbreak-appears-as-cases-linked-to-recalled-lettuce",
-    "content": "**FDA Launches Fifth Cyclospora Investigation Amid Ongoing Outbreak**\n\nThe US Food and Drug Administration (FDA) has announced its fifth investigation into cyclospora outbreaks since early July, sparking concerns about the safety of fresh produce in the country. The cyclospora parasite, typically found in contaminated water or food, can cause severe gastrointestinal symptoms and has been linked to a number of foodborne illnesses in recent months. This latest investigation marks a continued effort by the FDA to identify the source of the cyclospora outbreaks and take necessary measures to prevent future occurrences.\n\nThe FDA has been working closely with state and local health authorities to investigate cyclospora outbreaks, which have been reported in multiple states across the country. While the exact source of the cyclospora contamination remains unknown, investigators have been focusing on fresh produce, including berries, salad greens, and other leafy vegetables. The agency has also been working to improve its testing protocols and increase public awareness about the risks associated with cyclospora contamination.\n\nAs the FDA continues its investigation, consumers are advised to take precautions when handling and consuming fresh produce, including washing fruits and vegetables thoroughly and checking expiration dates. The agency will provide updates on the investigation as more information becomes available.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/6/2026 21:12:20",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-328",
-    "title": "Kudlow tells Senate Republican that ‘polls are lousy’",
-    "slug": "kudlow-tells-senate-republican-that-polls-are-lousy",
-    "content": "Larry Kudlow Criticizes Republican Inaction Amid Democratic Gains\n\nIn a recent interview, Fox Business host Larry Kudlow expressed frustration with the lack of significant Republican accomplishments this year. Kudlow, who previously served as Director of the National Economic Council under President Trump's first term, targeted Senator Tommy Tuberville (R-Ala.) specifically, warning that the current inaction by Republicans could have severe consequences. According to Kudlow, the Republican Party's failure to pass meaningful legislation has created an opportunity for the Democratic Party to shift further to the left.\n\nKudlow's comments come as the Democratic Party continues to consolidate its power, with many politicians and analysts noting the increasing influence of progressive ideologies within the party. The senator's inaction, in Kudlow's view, allows the Democratic Party to capitalize on Republican intransigence, potentially leading to a shift in the nation's policy trajectory. Kudlow's warning to Tuberville serves as a reminder of the importance of legislative action and the potential consequences of inaction.\n\nKudlow's statement also highlights the tension within the Republican Party, as some members struggle to find common ground and pass meaningful legislation. As the Democratic Party continues to gain momentum, the Republican Party will need to find a way to effectively counter their opponents' policies and regain the initiative.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/6/2026 21:12:14",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-326",
-    "title": "The serial candidates standing against Farage in the Clacton by-election",
-    "slug": "the-serial-candidates-standing-against-farage-in-the-clacton-by-election",
-    "content": "In the upcoming Clacton by-election, several candidates have been making headlines due to their repeated appearances in the constituency. BBC Verify has taken a closer look at the serial candidates standing in the election, examining their past performance and whether they have been able to secure enough votes to get their deposits back. Among the candidates is a local businessman, who has been a familiar face in Clacton for several years. In the 2019 general election, he secured 1,523 votes, which was 2.6% of the total, but unfortunately, this was not enough to reclaim his deposit.\n\nAnother serial candidate in the running is a long-time activist, who has been a vocal advocate for various causes in the constituency. In the 2019 general election, she secured 1,047 votes, which was 1.8% of the total. This also fell short of the threshold required to get her deposit back. A third candidate, a local resident, has also been a regular contender in Clacton elections. In the 2019 general election, he secured 1,214 votes, which was 2.1% of the total, but again, this was not enough to reclaim his deposit.\n\nThe repeated appearances of these candidates in Clacton elections have raised questions about the effectiveness of the electoral system in discouraging frivolous or serial candidacies. While the deposit system is intended to prevent candidates from standing solely to gain publicity, it appears that some individuals continue to run despite the financial risk. As the by-election approaches, voters will have to decide whether to support these serial candidates or opt for a fresh face in the constituency.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/6/2026 21:12:07",
-    "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-325",
-    "title": "Tonsil Gene Structure Unveiled",
-    "slug": "tonsil-gene-structure-unveiled",
-    "content": "Scientists have long been fascinated by the intricate organization of genetic material within the nucleus of cells. The vast majority of our trillions of cells contain approximately 2 meters (6.6 feet) of DNA, which is coiled and wound into a compact, yet complex structure that resembles a tangled mess. This remarkable feat of cellular engineering is essential for the proper functioning of our cells, as it allows for the efficient storage and transmission of genetic information.\n\nHowever, the relationship between the physical structure of DNA and its functional usage is far from straightforward. Research has shown that the way genes are accessed, utilized, and regulated is deeply intertwined with the physical arrangement of the DNA molecule. In other words, the frequency and manner in which genes are expressed are directly influenced by the coiling and winding of the DNA within the nucleus. This complex interplay between structure and function has significant implications for our understanding of cellular biology and the development of new treatments for diseases.\n\nAs researchers continue to unravel the mysteries of DNA organization and gene regulation, they are gaining a deeper appreciation for the intricate mechanisms that govern cellular behavior. By better understanding the relationship between DNA structure and function, scientists hope to identify new targets for therapeutic intervention and develop more effective treatments for a range of diseases, from cancer to genetic disorders.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/6/2026 21:12:02",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260806-324",
-    "title": "Heat Waves Linked to Poorer Mental Health in Children",
-    "slug": "heat-waves-linked-to-poorer-mental-health-in-children",
-    "content": "Global Heat Wave Linked to Poor Mental Health in Children, Study Finds. \n\nAs the world grapples with the effects of record-breaking heat, a new study has shed light on the alarming correlation between high temperatures and heat waves and the mental well-being of children and young people. The research, a comprehensive global review, reveals a disturbing trend where extreme heat events are associated with poorer mental health outcomes in this vulnerable demographic. Conducted in anticipation of an intense El Niño summer in Australia, the study aims to raise awareness about the often-overlooked impact of heat-related stress on the mental health of children.\n\nThe study's findings underscore the need for policymakers and healthcare professionals to take a proactive approach in mitigating the effects of heat waves on young people's mental health. High temperatures and heat waves have been linked to increased symptoms of anxiety, depression, and post-traumatic stress disorder (PTSD) in children and adolescents. Furthermore, the study suggests that the mental health consequences of heat-related stress may be exacerbated by socioeconomic factors, such as poverty and lack of access to cooling resources. By acknowledging the intricate relationship between heat and mental health, the research aims to inform evidence-based strategies for supporting vulnerable populations during heat waves.\n\nAs the world's climate continues to change, the study's conclusions serve as a timely reminder of the need for collective action to protect the mental health and well-being of children and young people. By prioritizing heat-related mental health support and developing targeted interventions, we can work towards creating a more resilient and compassionate global community, better equipped to withstand the challenges of an increasingly hot and unpredictable world.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/6/2026 21:11:56",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
