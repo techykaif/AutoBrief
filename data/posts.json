@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260808-331",
+    "title": "Smartphone repurposed as a personal server",
+    "slug": "smartphone-repurposed-as-a-personal-server",
+    "content": "A new blog post titled “Phone Server” was published on the website seg6.Space, detailing a lightweight server architecture designed to run on standard mobile devices. The author explains how the system leverages Android’s native networking stack and a minimal Docker‑like container runtime to host microservices directly on a phone, enabling developers to prototype distributed applications without dedicated hardware. The post includes code snippets, performance benchmarks, and a step‑by‑step guide for setting up a local development environment.\n\nThe article was shared on Hacker News, where it received three up‑votes but no comments to date. The modest engagement suggests that the concept has sparked interest among a niche audience of mobile developers and system architects, but it has yet to generate broader discussion. The post’s technical depth and practical focus may appeal to those exploring edge computing or low‑power IoT deployments.\n\nIn summary, the “Phone Server” post offers a novel approach to mobile‑centric server deployment, providing a framework that could simplify the development of distributed systems on constrained devices. While early feedback on Hacker News remains limited, the idea represents a potential shift toward more portable and energy‑efficient backend solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 5:11:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260808-330",
+    "title": "Nigeria conducts mass wedding for 1,500 couples",
+    "slug": "nigeria-conducts-mass-wedding-for-1-500-couples",
+    "content": "The government announced a new initiative aimed at bolstering low‑income households and enhancing social stability, describing the program as a targeted effort to provide financial and logistical support to families facing economic hardship. The scheme includes subsidies for housing, childcare, and employment training, and is positioned as a preventative measure to reduce poverty‑related stressors that can destabilize communities.\n\nAmong the beneficiaries are couples who have recently married, including individuals who have lost family members in violent attacks, underscoring the program’s broader social safety objectives. Officials noted that the assistance is intended to help these families rebuild their lives and maintain cohesion, while the government will monitor outcomes to assess the initiative’s impact on overall social welfare.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/9/2026 5:11:42",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260808-328",
     "title": "Callum Simpson Regains British and Commonwealth Super-Middleweight Titles",
     "slug": "callum-simpson-regains-british-and-commonwealth-super-middleweight-titles",
@@ -5474,28 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/7/2026 15:12:03",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-236",
-    "title": "FIFA governance crisis intensifies after Forward Entity proposal collapse",
-    "slug": "fifa-governance-crisis-intensifies-after-forward-entity-proposal-collapse",
-    "content": "Alison Sargent announced the arrival of International Sports Journalist Thando Sibiya, who will examine the ongoing FIFA governance crisis. Sibiya contends that the dispute over the abandoned FIFA Forward Entity proposal—a plan to sell a permanent stake in FIFA’s commercial rights—should be viewed not as an isolated commercial failure but as a catalyst that revealed deeper institutional tensions that have accumulated during Gianni Infantino’s presidency.\n\nIn his analysis, Sibiya links the stalled commercial deal to a series of related developments, including the resignation of a senior adviser, UEFA’s increasingly confrontational posture, disagreements over referee protection policies, and competing interests between UEFA and the Confederation of African Football. These elements, he argues, underscore a broader contest over governance, legitimacy, commercialisation, and geopolitical influence within world football, highlighting a fundamental struggle over who will shape the sport’s future.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 15:11:58",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-235",
-    "title": "Belgium confronts legacy of 1894 Antwerp human zoo exhibition",
-    "slug": "belgium-confronts-legacy-of-1894-antwerp-human-zoo-exhibition",
-    "content": "Antwerp’s 1894 World’s Fair featured a controversial exhibit known as the Congo Pavilion, where 144 Congolese individuals were forcibly transported to Belgium and displayed for European visitors. Marketed as a “human zoo,” the pavilion presented the men, women and children in a staged environment meant to illustrate colonial “progress,” while the participants were subjected to confinement, inadequate sanitation and limited medical care. Within the duration of the fair, seven of the men succumbed to disease, underscoring the lethal conditions they endured.\n\nThe episode has resurfaced in recent years as a focal point of Belgium’s reckoning with its colonial past, prompting historians, cultural institutions and public officials to acknowledge the event as one of the nation’s darkest chapters. Exhibitions, academic research and parliamentary discussions have highlighted the forced nature of the display and its lasting impact on collective memory, reinforcing calls for broader education about Belgium’s role in the Congo and the human cost of its imperial ambitions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 15:11:54",
     "author": "France 24",
     "isFeatured": false
   }
