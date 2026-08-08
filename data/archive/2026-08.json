@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260807-096",
+    "title": "Conservatives Propose Ban on Foreign Nationals in Social Housing",
+    "slug": "conservatives-propose-ban-on-foreign-nationals-in-social-housing",
+    "content": "The government’s latest housing strategy claims that restricting entitlement to social housing could free up roughly 230,000 homes across the country. The plan, presented by the ruling party, argues that by tightening eligibility criteria and encouraging voluntary relocation, a significant number of properties currently held for social use would become available for private developers and market‑based buyers.\n\nSupporters say the move would increase the supply of affordable homes for the private sector and stimulate construction activity, while critics warn that the policy could leave vulnerable populations without secure accommodation. The proposal is set to be debated in Parliament next month, with stakeholders from housing charities and local councils already calling for a more nuanced approach to safeguarding those most in need.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/7/2026 6:42:52",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-093",
+    "title": "Proteins Help Organs Adapt Circadian Clock",
+    "slug": "proteins-help-organs-adapt-circadian-clock",
+    "content": "Researchers at Ludwig Maximilian University of Munich (LMU) have revealed how the body’s shared circadian clock is fine‑tuned by individual organs to meet their specific physiological demands throughout the day. By combining transcriptomic profiling, proteomics, and functional assays in mouse models, the team showed that while the core clock machinery—comprising transcription factors such as CLOCK, BMAL1, PER, and CRY—operates uniformly across tissues, downstream regulatory networks diverge sharply between organs. This divergence allows each tissue to time processes such as glucose metabolism, immune surveillance, and hormone secretion in a manner that best suits its functional role.\n\nThe study identified organ‑specific transcription factors and epigenetic modifications that modulate the output of the core clock, creating distinct rhythmic patterns of gene expression. For example, the liver’s metabolic genes peak in the early morning, whereas the heart’s contractile genes peak later in the day, reflecting the differing metabolic and mechanical demands of each organ. The researchers also demonstrated that disrupting these organ‑specific adaptations in mice leads to metabolic imbalances and impaired cardiac function, underscoring the physiological importance of this tailored timing.\n\nThese findings deepen our understanding of circadian biology and highlight the potential for targeted chronotherapeutic strategies. By recognizing that each organ interprets the same internal timekeeping signal in a unique way, future research may develop interventions that align drug delivery or lifestyle modifications with the optimal timing for specific tissues, potentially improving treatment efficacy for metabolic and cardiovascular disorders.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/7/2026 6:42:40",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-092",
+    "title": "Night Shift Work Linked to Higher Long COVID Risk",
+    "slug": "night-shift-work-linked-to-higher-long-covid-risk",
+    "content": "A new study has provided the first evidence that night work and chronic insomnia may raise the likelihood of developing long COVID. Researchers report that individuals who regularly work overnight shifts or suffer from persistent sleep disorders experience a higher incidence of prolonged post‑viral symptoms following SARS‑CoV‑2 infection.\n\nThe research, led by ISGlobal and supported by the la Caixa Foundation, was conducted in partnership with the Germans Trias i Pujol Research Institute (IGTP) using data from the GCAT | Genomes for Life cohort. The cohort includes thousands of participants whose occupational histories and sleep patterns were linked to their COVID‑19 outcomes. Statistical analysis revealed that night‑shift workers and those with chronic insomnia had a significantly greater risk of reporting long‑COVID symptoms compared with daytime workers and individuals with normal sleep.\n\nThese findings underscore the need for targeted preventive measures for vulnerable worker groups and suggest that sleep health may play a critical role in post‑COVID recovery. Further studies are required to confirm the mechanisms underlying this association and to inform public health strategies aimed at reducing long‑COVID morbidity.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/7/2026 6:42:36",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-090",
+    "title": "FDA Approves Orzeyful, First Narcolepsy Type 1 Drug",
+    "slug": "fda-approves-orzeyful-first-narcolepsy-type-1-drug",
+    "content": "The U.S. Food and Drug Administration approved Orzeyful (oveporexton) tablets on Thursday for the treatment of narcolepsy type 1 in adults. The new drug is the first medication authorized to address the full spectrum of symptoms associated with this condition, including excessive daytime sleepiness, cataplexy, and disrupted nighttime sleep.\n\nOrzeyful represents a breakthrough because it directly targets the underlying loss of orexin signaling that causes narcolepsy type 1. By restoring this critical neuropeptide pathway, the drug offers a mechanism‑based approach rather than merely managing individual symptoms. The approval follows clinical trials demonstrating significant improvements in wakefulness and reductions in cataplexy episodes compared with placebo.\n\nThe availability of Orzeyful may change the therapeutic landscape for narcolepsy type 1, providing patients with a first‑in‑class option that addresses the root cause of the disease. Further post‑marketing studies will monitor long‑term safety and effectiveness as the medication enters broader clinical use.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/7/2026 6:42:27",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-089",
     "title": "E-scooter riders face higher brain injury risk",
     "slug": "e-scooter-riders-face-higher-brain-injury-risk",
