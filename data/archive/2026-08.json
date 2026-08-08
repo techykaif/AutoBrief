@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260807-040",
+    "title": "Trevor Noah to host Google's Pixel 11 launch event",
+    "slug": "trevor-noah-to-host-google-s-pixel-11-launch-event",
+    "content": "Google has announced that its next “Made by Google” hardware launch will take place on August 12, with comedian Trevor Noah slated to host the live event. In a promotional video released by the company, Noah is seen introducing a lineup that includes several high‑profile personalities. The show will feature Call Her Daddy host Alex Cooper, Indian cricketer Shubman Gill, Japanese actress Ayami Nakajo, and NBA star Stephen Curry—each of whom has previously appeared in Google Pixel advertising campaigns. Cooper and Noah will also bring their respective shows to YouTube during the broadcast.\n\nThe event follows last year’s “Made by Google” launch, which was hosted by Jimmy Fallon. Google’s focus on celebrity hosts and influencers underscores its strategy to blend technology announcements with entertainment content. The August 12 show is expected to showcase new hardware products while leveraging the star power of its guests to broaden the event’s appeal across diverse audiences.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:13:01",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-039",
+    "title": "Zombie-ant fungus also thrives in mosses",
+    "slug": "zombie-ant-fungus-also-thrives-in-mosses",
+    "content": "A recent study has revealed that a parasitic fungus may enhance its chances of survival by influencing the behavior of its infected hosts, prompting them to seek out mosses as preferred sites for death. Researchers observed that when host organisms become scarce, the fungus appears to trigger a physiological response that drives the host toward these specific microhabitats, thereby creating conditions favorable for fungal development and spore dissemination.\n\nThe investigation indicates that the selection of mosses as death sites serves a dual purpose: it provides a moist, sheltered environment that supports fungal growth, and it positions the emerging spores in close proximity to potential new hosts that frequent the same vegetation. By directing infected hosts to these niches, the fungus effectively mitigates the challenges posed by low host density, ensuring continued propagation. The findings contribute to a broader understanding of host‑parasite interactions and highlight the adaptive strategies employed by fungi to persist in fluctuating ecological landscapes.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:57",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-038",
+    "title": "Blue Origin Investigates BE-4 Engine Valve Failure",
+    "slug": "blue-origin-investigates-be-4-engine-valve-failure",
+    "content": "A recent test of the BE‑4 rocket engine has revealed an anomaly that originated at the main oxygen valve on one of its four thrust chambers. Engineers observed an unexpected pressure drop during a high‑temperature cycle, prompting an immediate shutdown of the test stand. The valve, which regulates the flow of liquid oxygen to the combustion chamber, failed to maintain the required pressure, causing a brief loss of thrust.\n\nThe BE‑4, developed by Blue Origin for use on the United Launch Alliance’s Atlas V and NASA’s Space Launch System, has undergone extensive ground testing to meet safety and performance standards. Investigators are examining the valve’s design, manufacturing process, and the thermal stresses experienced during the test. Preliminary findings suggest a potential material fatigue issue that may have been exacerbated by the engine’s high‑temperature operating envelope. Blue Origin has stated that it will conduct a full root‑cause analysis and implement corrective actions before the next scheduled test.\n\nOnce the investigation is complete, the company plans to resume testing with updated components and revised operating procedures. The anomaly underscores the rigorous scrutiny applied to advanced propulsion systems and highlights the importance of component reliability in ensuring mission success.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:52",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-037",
+    "title": "AI Uses Large Genome Models to Engineer New Bacteriophages",
+    "slug": "ai-uses-large-genome-models-to-engineer-new-bacteriophages",
+    "content": "A team of researchers has unveiled an artificial‑intelligence platform that can generate genetically distant variants of a bacteriophage known for killing pathogenic bacteria. The system, developed at a leading biotechnology institute, employs deep‑learning algorithms to redesign the viral genome while preserving its lytic function, producing a library of phage candidates that differ substantially from the original strain. In laboratory tests, several of the AI‑designed phages demonstrated robust activity against multiple antibiotic‑resistant bacterial isolates, including strains of *Pseudomonas aeruginosa* and *Klebsiella pneumoniae* that are common culprits in hospital infections.\n\nThe creation of genetically diverse phage variants aims to address the rapid emergence of bacterial resistance to single‑type phage therapies. By expanding the genetic landscape of therapeutic viruses, the approach seeks to provide a reservoir of alternatives that can be deployed if resistance arises. The researchers plan to advance the most promising candidates into pre‑clinical safety studies, with the long‑term goal of integrating AI‑engineered bacteriophages into the arsenal of treatments for multidrug‑resistant infections.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:48",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-036",
+    "title": "Anthropic to Design Custom Hardware for Claude",
+    "slug": "anthropic-to-design-custom-hardware-for-claude",
+    "content": "Anthropic and OpenAI, two of the leading developers of generative‑AI models, are accelerating efforts to expand their compute capacity while lessening reliance on Nvidia’s graphics processing units (GPUs). Both firms have announced initiatives to diversify their hardware stacks, citing concerns over supply bottlenecks, pricing volatility, and the strategic risk of depending on a single supplier for the massive workloads required by large language models.\n\nOpenAI has begun testing custom accelerator chips designed in partnership with Microsoft’s Azure cloud platform, aiming to run future model training and inference workloads on silicon optimized for its architecture. Anthropic, meanwhile, is evaluating alternative processors from AMD and exploring its own ASIC designs, with a pilot program that integrates these chips into its existing cloud infrastructure. The moves come as Nvidia reports sustained demand but also faces capacity constraints that have driven up prices for high‑end GPUs, prompting AI firms to seek cost‑effective, scalable alternatives. Industry analysts note that broader hardware competition could accelerate performance improvements and reduce overall operating expenses for AI providers.\n\nIf the diversification strategies succeed, both companies could achieve greater control over compute costs and mitigate supply‑chain risks, potentially reshaping the AI hardware market. Continued investment in non‑Nvidia solutions may also pressure Nvidia to adjust pricing and expand its product offerings, influencing the competitive dynamics of the rapidly growing generative‑AI sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:44",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-035",
+    "title": "Suno introduces watermarks and download limits for AI-generated music",
+    "slug": "suno-introduces-watermarks-and-download-limits-for-ai-generated-music",
+    "content": "Suno, the AI‑generated music platform, announced that it will introduce watermarking on all user‑generated tracks and impose download limits to curb large‑scale abuse of its services. The company said the measures will help distinguish authentic Suno content from derivative or pirated material and reduce the risk of its technology being used for mass‑distribution of copyrighted works.\n\nThe new policy will add a visible watermark to each track produced on the platform and restrict the number of downloads a user can obtain per day. Suno’s spokesperson explained that the changes are part of a broader effort to comply with copyright regulations and protect the interests of artists and rights holders. Industry observers note that similar restrictions have been adopted by other AI‑music services to mitigate legal exposure and maintain platform integrity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:39",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-034",
+    "title": "X asks Fifth Circuit to reverse ruling and continue advertiser lawsuits",
+    "slug": "x-asks-fifth-circuit-to-reverse-ruling-and-continue-advertiser-lawsuits",
+    "content": "Elon Musk’s legal battle over X’s advertising practices continues as the billionaire‑owner moves forward with an appeal despite a recent court defeat and a settlement with a coalition of advertisers. In March, a federal judge ruled that Musk and X had failed to adequately address claims that the platform’s brand‑safety policies allowed harmful content to appear alongside ads, a decision that could expose the company to significant liability. Shortly thereafter, X reached a settlement with the Advertiser Alliance, a group representing dozens of major brands, agreeing to implement stricter content‑filtering measures and to provide more transparent reporting on ad placements.\n\nWhile the settlement resolves the immediate dispute with the advertisers, Musk has filed a notice of appeal, arguing that the lower court erred in its interpretation of the legal standards governing platform responsibility. His legal team maintains that X’s existing safeguards meet industry norms and that the ruling imposes an undue burden on the service. The appeal will keep the case active in the courts, potentially influencing future regulatory and litigation approaches to online advertising and content moderation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:35",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-033",
+    "title": "Explosive drone detected near Ukrainian cargo plane at Leipzig Airport",
+    "slug": "explosive-drone-detected-near-ukrainian-cargo-plane-at-leipzig-airport",
+    "content": "A drone carrying an explosive device struck a parked aircraft at Leipzig‑Rostock Airport in eastern Germany on Tuesday, prompting an emergency response and a subsequent investigation by German authorities. The unmanned aircraft was found damaged but the incident caused no injuries. Security footage and radar data indicate the drone entered the airspace from the direction of the Baltic Sea, raising questions about the origin of the weapon.\n\nThe attack comes amid a series of drone incidents in Europe that have been attributed to Russian forces, following the escalation of the conflict in Ukraine. German officials have called for a thorough review of airport security protocols and have urged international partners to cooperate in tracking the source of the drone. No definitive claim of responsibility has been made, and investigators are still collecting evidence to determine the exact nature and intent of the attack.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:30",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-032",
+    "title": "Network for Hope Accused of Organ Theft Faces Shutdown",
+    "slug": "network-for-hope-accused-of-organ-theft-faces-shutdown",
+    "content": "Network for Hope, a nonprofit organization focused on providing assistance to vulnerable populations, issued a statement on Tuesday expressing strong disagreement with a recent decision made by the Trump administration. The group characterized the policy change as contrary to its mission and highlighted concerns that the move could adversely affect the communities it serves.\n\nIn its statement, Network for Hope called for a reconsideration of the administration’s action, urging policymakers to evaluate the potential impact on public welfare and to seek alternatives that align with the organization’s objectives. The nonprofit emphasized its commitment to advocating for policies that support its target demographics and pledged to continue monitoring the situation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:26",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-031",
+    "title": "Ford CEO calls Fathom EV pickup a pivotal moment, but analysts doubt its impact",
+    "slug": "ford-ceo-calls-fathom-ev-pickup-a-pivotal-moment-but-analysts-doubt-its-impact",
+    "content": "Ford’s chief executive, Jim Farley, hailed the launch of the new Ford Fathom pickup as a “Model T moment” for the automaker, underscoring the company’s ambition to redefine the truck segment with electric power. The Fathom, a compact electric pickup built on the Mustang Mach‑E platform, is slated to debut in 2025 with a 200‑mile range, a 0‑60 time of around 8 seconds, and a starting price of roughly $35,000. Farley’s comparison to the historic Model T signals Ford’s intent to make the Fathom a mass‑market vehicle that could shift consumer expectations for EV trucks.\n\nDespite the optimistic framing, analysts caution that the Fathom may struggle to meet the high expectations it has generated. Production timelines, battery supply constraints, and the need to balance cost with performance could limit the vehicle’s competitiveness against rivals such as the Ram 1500 Eco Power and the Chevrolet Silverado EV. Moreover, the broader EV market remains highly price‑sensitive, and Ford’s own supply chain challenges have already slowed the rollout of other electric models. As a result, the Fathom may settle into a more modest role within Ford’s lineup, delivering reliable performance without the dramatic market disruption the CEO envisioned.\n\nIn the end, the Fathom’s success will hinge on its ability to blend affordability, range, and practicality in a crowded segment. While it may not trigger the seismic shift implied by Farley’s “Model T” analogy, the pickup could still play a pivotal part in Ford’s transition to electrification, offering a credible entry point for mainstream truck buyers and helping the company meet its long‑term sustainability targets.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:12:22",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-030",
     "title": "Defense tech firm Hadrian raises $1.37 billion, valuation reaches $8 billion",
     "slug": "defense-tech-firm-hadrian-raises-1-37-billion-valuation-reaches-8-billion",
