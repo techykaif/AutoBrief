@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260807-074",
+    "title": "Modification doubles low‑noise supercontinuum range in single fiber",
+    "slug": "modification-doubles-low-noise-supercontinuum-range-in-single-fiber",
+    "content": "Supercontinuum light sources—commonly referred to as “white lasers” because they generate a continuous spectrum spanning the visible rainbow—have become indispensable in a range of high‑precision applications, from advanced medical imaging techniques to the detection of trace gases in the environment. Their ability to deliver a broad bandwidth of light in a single beam enables simultaneous interrogation of multiple spectral features, which accelerates data acquisition and enhances the resolution of spectroscopic measurements.\n\nDespite their utility, researchers have long been constrained by an inherent compromise: expanding the spectral width of a supercontinuum typically introduces pronounced intensity fluctuations, or noise, that degrade measurement accuracy and limit practical deployment. This trade‑off between bandwidth and stability has restricted the adoption of white lasers in settings where consistent output is critical, prompting ongoing efforts to develop designs that can deliver both a wide spectrum and low noise performance.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-073",
+    "title": "Bacterial enzyme identified that may reduce antibiotic resistance in MRSA and other pathogens",
+    "slug": "bacterial-enzyme-identified-that-may-reduce-antibiotic-resistance-in-mrsa-and-ot",
+    "content": "Human bodies are home to billions of bacteria, most of which are harmless or even beneficial, said Vijay Parashar, associate professor of medical and molecular sciences at the University of Delaware College of Health Sciences. “It sounds gross, but not all bacteria are bad; most of them are good,” he explained. Parashar highlighted that the real concern arises when pathogenic bacteria acquire the ability to evade antibiotics, a phenomenon that has become increasingly common in recent years.\n\nResearchers at the University of Delaware have been studying the mechanisms by which these harmful microbes develop resistance, including the exchange of genetic material that confers protective traits. Their work underscores the importance of judicious antibiotic use and the development of new therapeutic strategies. The findings also emphasize the delicate balance within the human microbiome, where beneficial bacteria play a crucial role in health while pathogenic strains pose a growing threat.\n\nAs antibiotic resistance continues to rise globally, insights from scientists like Parashar are vital for guiding public health policies and clinical practices. Continued research into bacterial behavior and resistance mechanisms will be essential to safeguard the effectiveness of existing treatments and to develop new approaches to combat infectious diseases.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:47",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-072",
+    "title": "Parents More Open to Paying for AI Homework Subscriptions Amid Peer Pressure",
+    "slug": "parents-more-open-to-paying-for-ai-homework-subscriptions-amid-peer-pressure",
+    "content": "Parents across the country are expressing ambivalence toward the unrestricted use of artificial‑intelligence tools for school assignments. Recent surveys indicate that while a sizable portion of caregivers worry that reliance on AI could diminish their children’s capacity to develop core academic skills, an equally strong contingent fears that prohibiting such technology may place their children at a competitive disadvantage as peers increasingly adopt AI‑assisted learning.\n\nEducators and policymakers are responding to these concerns by debating guidelines that balance innovation with instructional integrity. Some school districts are piloting programs that integrate AI under supervised conditions, while others are considering stricter usage policies to preserve traditional learning outcomes. The ongoing dialogue reflects a broader effort to align emerging technology with educational objectives, ensuring that students benefit from AI without compromising foundational knowledge.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:42",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-071",
+    "title": "Terence Tao warns AI will prompt rapid overhaul of mathematics",
+    "slug": "terence-tao-warns-ai-will-prompt-rapid-overhaul-of-mathematics",
+    "content": "Artificial intelligence has begun to solve problems that once seemed beyond reach, leaving many mathematicians scrambling to reassess the discipline. In a recent interview, Terence Tao, widely regarded as the world’s leading mathematician, warned that the rapid progress of AI in solving complex mathematical proofs could trigger a “crisis” in the field. He argued that the traditional ways of doing mathematics—relying on human intuition and incremental proof techniques—may no longer suffice.\n\nTao cited several high‑profile examples in which neural‑network‑based systems have produced proofs for longstanding conjectures or generated new conjectures that human researchers had not previously considered. While these breakthroughs demonstrate the power of machine learning, they also expose gaps in our theoretical understanding of how such models arrive at solutions. The mathematician called for a comprehensive reevaluation of the foundations of mathematics, suggesting that new frameworks that integrate algorithmic reasoning with human insight may be necessary to navigate this new landscape.\n\nIn conclusion, the mathematical community faces a pivotal moment. As AI continues to push the boundaries of what can be proven, experts like Tao are urging a shift toward a more collaborative, interdisciplinary approach that blends computational tools with traditional mathematical rigor. The outcome of this debate will shape the future direction of research and education in the discipline.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:36",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-070",
+    "title": "DeepMind AI predicts cyclones three days in advance",
+    "slug": "deepmind-ai-predicts-cyclones-three-days-in-advance",
+    "content": "DeepMind has unveiled an artificial‑intelligence model that can forecast the trajectory and intensity of tropical cyclones up to three days in advance, achieving a level of precision previously attainable only after a 24‑hour lead time. The system, built on a deep‑learning architecture trained on decades of satellite imagery, atmospheric measurements and historical storm data, generates probabilistic predictions that align closely with observed outcomes, reducing the average positional error by roughly 30 percent compared with the best operational models in use today.\n\nThe breakthrough, demonstrated through retrospective tests on recent Atlantic and Pacific storms, suggests that earlier, more reliable warnings could give emergency managers and affected communities additional time to prepare evacuation plans, secure infrastructure and allocate resources. DeepMind researchers plan to collaborate with meteorological agencies to integrate the model into existing forecasting pipelines, with field trials slated for the upcoming hurricane season. If validated in real‑time operations, the technology could mark a significant step forward in climate risk mitigation and disaster response.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:30",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-069",
+    "title": "Scrapping petrol cars for electric vehicles delivers major carbon savings",
+    "slug": "scrapping-petrol-cars-for-electric-vehicles-delivers-major-carbon-savings",
+    "content": "Recent studies have shown that the carbon emissions avoided by driving electric vehicles (EVs) far exceed the emissions generated during the production and disposal of a conventional petrol car. A 2024 analysis by the International Energy Agency (IEA) found that, over a typical 150,000‑kilometre lifespan, an EV can reduce CO₂ emissions by up to 60 % compared with a comparable internal‑combustion engine vehicle, even when accounting for battery manufacturing. The report also highlighted that the average UK petrol car emits roughly 180 g of CO₂ per kilometre, whereas a mid‑size EV emits only 30–40 g, depending on the electricity mix.\n\nThese findings have prompted several automotive and environmental organisations to recommend that owners consider replacing a functioning petrol car with an EV, especially if the vehicle has already reached the end of its useful service life. The UK government’s Clean Motoring Programme, for example, offers grants of up to £2,500 for EV purchases and provides tax incentives that further reduce the total cost of ownership. In addition, the growing network of fast‑charging infrastructure and decreasing battery prices are making EVs increasingly practical for everyday use.\n\nWhile the environmental benefits are clear, experts caution that the decision should also factor in local electricity generation sources, vehicle usage patterns, and the availability of suitable charging facilities. Nevertheless, the consensus among researchers and policymakers is that scrapping a still‑operational petrol car in favour of an EV can deliver substantial carbon savings, aligning individual choices with national emissions‑reduction targets.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:24",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-068",
+    "title": "NASA astronaut Adam Fuhrmann conducts WB-57 high‑altitude training flight",
+    "slug": "nasa-astronaut-adam-fuhrmann-conducts-wb-57-high-altitude-training-flight",
+    "content": "NASA astronaut Adam Fuhrmann, clad in a yellow pressure suit, prepared for a high‑altitude training flight aboard the agency’s WB‑57 aircraft on July 16, 2026. The flight, part of NASA’s ongoing high‑altitude research and astronaut readiness program, placed the crew in a confined cockpit environment while operating the aircraft’s systems in full pressure‑suit gear, simulating the conditions they will encounter on future missions to the International Space Station, lunar surface, or deep‑space destinations.\n\nThe WB‑57 missions are designed to hone astronauts’ proficiency in managing complex avionics, navigation, and life‑support equipment under the physical constraints of a pressure suit, thereby reducing risk and improving performance for upcoming Artemis lunar expeditions and long‑duration spaceflight. By conducting these rigorous training sorties, NASA aims to ensure that its crew members are fully prepared for the operational challenges of next‑generation exploration initiatives.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:17",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-067",
+    "title": "NASA Systems Engineer Tom Percy Leads Human Landing System Integration",
+    "slug": "nasa-systems-engineer-tom-percy-leads-human-landing-system-integration",
+    "content": "NASA is accelerating its Artemis program as part of a broader strategy to sustain long‑term exploration of the Moon and, eventually, Mars. The agency is increasing the cadence of Artemis missions, a move that hinges on a robust partnership with commercial launch providers. Central to this effort is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System (HLS) Program, who coordinates the technical integration of spacecraft and payloads with the companies selected to deliver the lunar landers.\n\nPercy’s role involves ensuring that the HLS vehicles meet NASA’s stringent safety and performance standards while aligning with the agency’s schedule. He works closely with SpaceX, the primary contractor for the Artemis lander, as well as other potential providers, overseeing the integration of propulsion, avionics, and life‑support systems. By serving as the focal point for engineering oversight, Percy helps synchronize design, testing, and certification activities across the supply chain, thereby enabling NASA to meet its expanded launch cadence and maintain momentum toward sustained human presence on the Moon.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:12",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-066",
+    "title": "NASA JPL conducts antenna testing for SkyFall mission",
+    "slug": "nasa-jpl-conducts-antenna-testing-for-skyfall-mission",
+    "content": "NASA’s Jet Propulsion Laboratory in Southern California is conducting electromagnetic‑interference (EMI) testing on the SkyFall ground‑penetrating radar, a key instrument slated for an upcoming planetary exploration mission. The tests are being performed in the Environmental Test Lab’s EMI chamber, where engineers evaluate the radar’s performance under controlled conditions that simulate the harsh electromagnetic environment of space. Successful verification of the radar’s immunity to interference is essential to ensure reliable subsurface imaging once the system is deployed on its target body.\n\nDuring the latest test, SkyFall radar engineer Maya Román connected a coaxial cable to a test antenna positioned to point upward, a configuration chosen to reduce reflections and minimize distortions of the antenna’s radiation pattern. The antenna, equipped with four identical instrument modules, transmitted and received signals while the chamber’s instrumentation recorded data on signal integrity and susceptibility to external noise. The results will inform final calibration procedures and confirm that the radar meets NASA’s stringent standards before integration with the spacecraft.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:08",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-065",
+    "title": "Artist’s concept shows NASA SkyFall helicopters gathering radar and infrared data on Mars",
+    "slug": "artist-s-concept-shows-nasa-skyfall-helicopters-gathering-radar-and-infrared-dat",
+    "content": "NASA has released an artist’s rendering of its upcoming SkyFall mission, which envisions three autonomous helicopters operating in concert over the Martian surface. The illustration shows the aircraft equipped with large antennas that emit green frequency waves, indicating the collection of subsurface radar data, while red beams extend from the vehicles to capture near‑infrared imagery of the planet’s regolith and other surface features. The visual aims to convey how the fleet will simultaneously probe both the interior and the exterior of the Red Planet.\n\nThe concept underscores the mission’s dual‑sensor approach: subsurface radar will map buried ice, sediment layers, and geological structures, whereas near‑infrared imaging will characterize mineral composition and dust distribution. By deploying three helicopters, NASA intends to increase coverage area and provide redundant data streams, enhancing the scientific return of the mission. If approved, SkyFall could launch within the next decade, marking a significant expansion of aerial exploration capabilities on Mars.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:02",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-064",
+    "title": "NASA and Smithsonian Team Up to Give Teens Hands‑On TEMPO Air‑Quality Data",
+    "slug": "nasa-and-smithsonian-team-up-to-give-teens-hands-on-tempo-air-quality-data",
+    "content": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, directed by Harvard University in Cambridge, Massachusetts, is expanding access to authentic NASA data for educators and learners. From July 27 through 29 2026, the CosmicDS team joined forces with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to deliver a multi‑day collaborative workshop that integrated space‑based observations with ground‑level air‑quality monitoring. The event brought together teachers, curriculum developers, and high‑school students from across the United States to explore how satellite measurements of atmospheric composition can enhance classroom investigations of local air‑pollution trends.\n\nDuring the workshop, participants received hands‑on training in retrieving and visualizing NASA Earth‑science datasets, learned methods for aligning those data with the BEST AQI’s community‑based sensor networks, and co‑created lesson‑plan modules that align with national science standards. Representatives from both programs highlighted the initiative’s goal of fostering data‑driven inquiry and empowering students to address environmental health challenges in their own neighborhoods. The partnership is set to produce publicly available educational resources later this year, extending the reach of NASA’s scientific assets to classrooms nationwide.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:31:57",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-063",
     "title": "Wildfires destroy snake and rare moth habitats, recovery may take centuries",
     "slug": "wildfires-destroy-snake-and-rare-moth-habitats-recovery-may-take-centuries",
