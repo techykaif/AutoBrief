@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260807-052",
+    "title": "DeepMind's WeatherNext AI predicts hurricanes earlier",
+    "slug": "deepmind-s-weathernext-ai-predicts-hurricanes-earlier",
+    "content": "A new artificial‑intelligence system called WeatherNext, which will be released as open‑source software, has demonstrated the ability to forecast a storm’s trajectory and strength with high accuracy despite being fed lower‑resolution atmospheric data. The model, developed by a team of meteorologists and computer scientists, outperformed several established forecasting tools in recent validation tests, correctly predicting both the path and intensity of multiple tropical cyclones several days in advance.\n\nAlthough the results are promising, the underlying mechanisms that enable WeatherNext to extract detailed predictive signals from coarse inputs remain unclear to the researchers. Ongoing investigations aim to decode the model’s internal representations and assess its reliability across diverse weather scenarios, with the goal of integrating the technology into broader forecasting workflows once its operation is fully understood.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:30",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-051",
+    "title": "ICE expands DNA collection to include non‑convicted individuals",
+    "slug": "ice-expands-dna-collection-to-include-non-convicted-individuals",
+    "content": "In a recent episode of the podcast *Uncanny Valley*, host Sarah Lentz examined a controversial practice by U.S. Immigration and Customs Enforcement (ICE). The episode details how ICE has been collecting DNA samples from individuals who have never been convicted of a crime, including minors, and transferring those samples to a federal database maintained by the FBI. The policy, according to the discussion, allows the genetic information to remain in the database indefinitely.\n\nICE’s DNA collection program, which began as a tool for identifying suspects in immigration enforcement actions, has expanded to include a broader population. The episode cites internal memos and court filings that reveal the agency’s protocol for sampling, storage, and data sharing with the FBI’s DNA repository. Critics argue that the indefinite retention of genetic data from non‑criminals raises privacy concerns, while ICE officials maintain that the practice is intended to aid in national security and immigration investigations.\n\nThe episode concludes by highlighting the lack of clear oversight or sunset provisions for the program, noting that the policy remains in effect without a defined expiration date. It calls attention to ongoing debates about the balance between law‑enforcement interests and individual privacy rights, leaving listeners with a clearer understanding of the scope and implications of ICE’s DNA collection efforts.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:25",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-050",
+    "title": "Flock posts videos naming four police departments accused of misusing its technology",
+    "slug": "flock-posts-videos-naming-four-police-departments-accused-of-misusing-its-techno",
+    "content": "Flock, a technology provider that supplies software and hardware to law‑enforcement agencies, recently released a series of videos on its YouTube channel that spotlight alleged misuse of its products by officers in at least four police departments. The clips, which were posted in a single upload, detail a range of incidents—from unauthorized surveillance to the improper handling of sensitive data—that the company claims demonstrate a pattern of misconduct among its users.\n\nThe videos include statements from Flock’s executives and footage of the affected departments, along with brief explanations of how the technology was allegedly misapplied. While the company did not name the departments directly, it indicated that the cases involve both local and state‑level agencies. Flock has stated that it is working with the relevant authorities to investigate the claims and to reinforce compliance protocols for its clients.\n\nThe release has drawn attention to the broader debate over police use of commercial technology and the responsibilities of vendors to monitor and prevent abuse. As the investigation continues, Flock’s move to publicly document the allegations underscores the growing scrutiny of law‑enforcement practices and the need for transparent oversight.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:20",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-049",
+    "title": "Tech firms shift focus to consumer-driven AI agents",
+    "slug": "tech-firms-shift-focus-to-consumer-driven-ai-agents",
+    "content": "The technology sector is shifting its development strategy for artificial‑intelligence agents, emphasizing consumer demand over the capabilities of existing models. Industry leaders have acknowledged that many AI‑driven products, while technically advanced, often miss the practical needs and preferences of everyday users. This realization follows a series of market studies and user‑experience reports indicating that features such as intuitive interaction, privacy safeguards, and task‑specific usefulness drive adoption more than raw computational power.\n\nIn response, major firms are redesigning their agent platforms to prioritize user‑centric design, integrating feedback loops that align functionality with real‑world scenarios. Companies are also expanding partnerships with consumer research groups to ensure that new releases address everyday problems rather than showcasing model performance alone. Analysts predict that this consumer‑focused approach will accelerate the mainstream acceptance of AI assistants and could reshape product roadmaps across the sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:16",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-048",
+    "title": "Researchers expose security flaws in children's GPS smartwatch",
+    "slug": "researchers-expose-security-flaws-in-children-s-gps-smartwatch",
+    "content": "Security researchers uncovered that a pink plastic smartwatch—sold as a low‑cost, GPS‑enabled accessory—contained multiple unpatched vulnerabilities that enabled the device to transmit location data and audio streams to an external server. By exploiting these flaws, the researchers were able to track and eavesdrop on a WIRED reporter who was wearing the watch during a field assignment. The incident was reported to the manufacturer, but the device’s firmware updates were delayed, allowing the attacker to maintain a covert presence for several weeks.\n\nThe smartwatch’s supply chain has been flagged as deeply insecure. In addition to the GPS and microphone exploits, the device’s Bluetooth module was found to accept unauthorized pairing requests, and its firmware update mechanism lacked proper authentication. Similar weaknesses have been documented in other inexpensive, GPS‑enabled gadgets such as fitness trackers and smartwatches, indicating a broader pattern of inadequate security oversight across the industry. The researchers’ findings underscore the risk that even seemingly innocuous consumer electronics can become vectors for surveillance.\n\nThe incident highlights the need for stricter security standards in the production of GPS‑enabled wearables. Manufacturers must implement robust encryption, authenticated firmware updates, and secure boot processes to prevent unauthorized access. As the supply chain for such devices remains fragmented and often outsourced, coordinated efforts between vendors, regulators, and security communities will be essential to mitigate future risks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:12",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-047",
+    "title": "TikTok cites moderator error for delayed removal of Perez Hilton self-harm livestream",
+    "slug": "tiktok-cites-moderator-error-for-delayed-removal-of-perez-hilton-self-harm-lives",
+    "content": "TikTok confirmed that a “moderator error” delayed the removal of a livestream in which celebrity gossip blogger Perez Hilton appeared to harm himself, a situation first reported by Wired. The platform’s U.S. spokesperson, Jamie Favazza, told The Verge that TikTok promptly alerted law‑enforcement authorities and subsequently terminated Hilton’s account for breaching its community‑guidelines policy. Hilton, whose real name is Mario Armando Lavandeira Jr., rose to prominence in 2004 with a gossip blog that often featured his own provocative drawings superimposed on celebrity photos.\n\nWhile some viewers claimed the livestream ran for more than 30 minutes, Favazza disputed that duration, stating the video was taken down as soon as the error was identified. The incident underscores TikTok’s ongoing challenges in moderating live content and its procedures for coordinating with law‑enforcement agencies when potentially dangerous behavior is broadcast. The platform’s response reflects its commitment to enforce guidelines and mitigate risks associated with real‑time streaming.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:08",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-046",
+    "title": "OpenAI removes text chat limits for free and Go tier users",
+    "slug": "openai-removes-text-chat-limits-for-free-and-go-tier-users",
+    "content": "OpenAI announced that beginning next week users on the free and “Go” subscription tiers will no longer face rate limits for text‑only conversations with ChatGPT. Currently, heavy usage can trigger restrictions that pause further messaging, but the upcoming change will allow unlimited text chats while retaining existing caps on interactions that involve file uploads, image inputs, or other non‑text media. The adjustment is part of a broader effort to enhance accessibility for the platform’s most widely used tiers without altering the underlying subscription structure.\n\nIn the same rollout, OpenAI is introducing a “Think” button for free and Go users, which activates a higher‑reasoning mode designed to tackle more complex queries. Alongside this feature, the company is upgrading the default model that powers ChatGPT for these tiers, aligning its performance more closely with the capabilities previously reserved for paid plans. The updates are slated for release next week, with further details available in the full report from The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:03",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-045",
+    "title": "FCC votes to eliminate national broadcast ownership cap",
+    "slug": "fcc-votes-to-eliminate-national-broadcast-ownership-cap",
+    "content": "The Federal Communications Commission voted on Thursday to eliminate the national broadcast ownership cap, ending the long‑standing rule that barred any single owner from controlling stations reaching more than 39 percent of U.S. television households. The decision was supported by the two Republican members of the five‑person commission—Chair Brendan Carr and Commissioner Olivia Trusty—while Democratic Commissioner Anna Gomez filed a dissenting vote. The cap, which had limited the size of broadcast portfolios for decades, was a policy that Carr has repeatedly criticized and announced last month he would move to rescind at the agency’s open meeting.\n\nWith the cap removed, the FCC said future ownership limits will be determined on a case‑by‑case basis rather than through a fixed national percentage, signaling a shift toward a more flexible regulatory framework. The change could allow larger media conglomerates to acquire additional stations, potentially reshaping the competitive landscape of broadcast television, while opponents warn it may reduce diversity of ownership. The commission’s new approach will be implemented through revised guidelines that are expected to be issued later this year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:21:59",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-044",
+    "title": "Suno to introduce watermarking and download policy to curb AI music spam",
+    "slug": "suno-to-introduce-watermarking-and-download-policy-to-curb-ai-music-spam",
+    "content": "Suno, the startup behind AI‑generated vocalists, announced a suite of transparency measures aimed at curbing the proliferation of spammy tracks and improving the traceability of its content. In a detailed blog post, CEO and co‑founder Mikey Shulman outlined the company’s new watermarking and fingerprinting technology, a revised download policy, and plans to work with distribution platforms to address fraud and misuse. The initiatives are presented as alignment with emerging industry standards that will make it easier for listeners and partners to identify recordings produced by Suno’s models.\n\nThe rollout follows a year of heightened scrutiny over synthetic audio and the potential for misuse in music distribution. By embedding unique identifiers in generated tracks and offering tools for verification, Suno aims to bolster legitimacy and foster cooperation with platforms that host music content. The company’s efforts were reported by The Verge, which noted that the measures represent a strategic step toward greater accountability in the AI‑generated music space.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:21:54",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-043",
+    "title": "Uli Latukefu cast as Ganondorf in upcoming Zelda film, signs multi‑picture deal",
+    "slug": "uli-latukefu-cast-as-ganondorf-in-upcoming-zelda-film-signs-multi-picture-deal",
+    "content": "Deadline reported Thursday that Australian actor Uli Latukefu has been cast as the villain Ganondorf in the upcoming live‑action *The Legend of Zelda* film, and that he has signed a multi‑picture agreement for the role. The casting announcement follows Nintendo’s earlier reveal that the franchise is being adapted in partnership with Sony Pictures Entertainment, marking the company’s first foray into a cinematic version of the long‑running video‑game series.\n\nWhile Nintendo and Sony have not officially confirmed plans for additional installments, industry speculation has linked the multi‑picture deal to rumors of a potential trilogy, a notion bolstered by the strong box‑office performance of recent *Super Mario* movies. The involvement of a recurring antagonist and a multi‑film contract suggests that the studios may be positioning the *Zelda* project for an extended narrative arc, though concrete details remain unverified.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:21:49",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-042",
+    "title": "AirPods Pro 3 price cut to $189.99, $60 off, lowest since June",
+    "slug": "airpods-pro-3-price-cut-to-189-99-60-off-lowest-since-june",
+    "content": "Best Buy has launched a promotion on Apple’s latest AirPods Pro 3, cutting the retail price to $189.99—a $60 discount that matches offers from Amazon and Walmart. The reduced price marks the earbuds’ lowest cost since the Prime Day sales in late June and sits just $20 above their historical low. The AirPods Pro 3, which originally retail for $249, feature a refreshed design that improves fit, enhanced active‑noise cancellation, stronger bass response, and integrated heart‑rate sensors that sync with Apple’s Fitness app for more than 50 workout types.\n\nThe earbuds are positioned as Apple’s premium wireless option for iPhone users, offering higher sound quality than the entry‑level AirPods and seamless integration across Apple devices. Reviewers note the ease of switching calls and media between iPhone, iPad, and other signed‑in devices, as well as the tighter, more comfortable fit during physical activity. With the current discount, consumers can acquire the AirPods Pro 3 at a price point that approaches the product’s all‑time low, while gaining access to Apple’s ecosystem benefits and advanced audio features.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:21:45",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-041",
+    "title": "Jony Ive teams with OpenAI on battery-powered smart speaker",
+    "slug": "jony-ive-teams-with-openai-on-battery-powered-smart-speaker",
+    "content": "OpenAI, in partnership with former Apple designer Jony Ive, is reportedly developing a new AI‑powered device that will depart from the conventional smart‑speaker form factor. According to Bloomberg reporter Mark Gurman, the product will be a battery‑powered, doughnut‑shaped unit roughly the size of a hockey puck, with no display but a suite of sensors, a camera system and a set of lights that will indicate when the device is listening or responding.\n\nThe device is said to feature moving parts that animate on their own to signal interaction, giving it a distinctive aesthetic. Gurman notes that the design is intended to be portable, allowing users to carry it around the home. OpenAI plans to launch the product in 2027, with a price tag projected to exceed $300. The Verge has reported on these details, citing Gurman’s sources.\n\nIf the specifications hold true, the new device could broaden the range of AI‑enabled home accessories, offering a more tactile and visually engaging experience than current smart speakers. The combination of Ive’s design pedigree and OpenAI’s conversational capabilities may position the product as a premium option for consumers seeking both functionality and style.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:13:05",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-040",
     "title": "Trevor Noah to host Google's Pixel 11 launch event",
     "slug": "trevor-noah-to-host-google-s-pixel-11-launch-event",
