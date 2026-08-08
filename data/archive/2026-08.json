@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260807-078",
+    "title": "Single Ant Triggers Colony-Wide Activity Bursts, Study Finds",
+    "slug": "single-ant-triggers-colony-wide-activity-bursts-study-finds",
+    "content": "Scientists have long documented the collective behavior of ant colonies, noting that a seemingly inactive nest can suddenly burst into coordinated activity. Observations show that workers throughout the colony can spring into motion almost simultaneously, only to return to a state of stillness shortly afterward. This rapid transition suggests a highly organized system of communication and response among the ants.\n\nRecent field studies have focused on the mechanisms that trigger such mass movements. Researchers have identified pheromone signaling and tactile interactions as key drivers, allowing individual ants to rapidly relay information about food sources, threats, or environmental changes. The synchronized response enables the colony to mobilize resources efficiently, ensuring survival and adaptability in fluctuating conditions.\n\nThese findings underscore the complexity of social insect societies and highlight the importance of collective decision‑making in nature. Understanding the precise triggers and pathways of colony-wide coordination may provide insights into decentralized systems and inspire new approaches in robotics and distributed computing.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:33:14",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-077",
+    "title": "SDSS-V Releases 20th Data Set, Expanding Milky Way Spectroscopic Map",
+    "slug": "sdss-v-releases-20th-data-set-expanding-milky-way-spectroscopic-map",
+    "content": "The Sloan Digital Sky Survey V (SDSS‑V) has released its 20th public data set (DR20), marking a major milestone for the Milky Way Mapper (MWM) program. The new release expands the survey’s coverage of the Milky Way, providing the most detailed spectroscopic map yet assembled of stars within and around our galaxy.\n\nDR20 includes millions of stellar spectra obtained with SDSS‑V’s twin robotic fiber‑fed spectrographs, covering a wide range of stellar types and Galactic environments. The expanded dataset improves spatial and velocity sampling across the disk, halo, and bulge, enabling more precise studies of stellar populations, chemical abundances, and Galactic dynamics. The release also incorporates updated calibration procedures and quality flags to facilitate robust scientific analysis.\n\nWith this comprehensive map now publicly available, astronomers can conduct deeper investigations into the Milky Way’s formation history and structure. The SDSS‑V team will continue to refine the survey, adding new observations and data products in future releases.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:33:08",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-076",
+    "title": "Smart Hydrogel Packaging Detects Meat Spoilage",
+    "slug": "smart-hydrogel-packaging-detects-meat-spoilage",
+    "content": "Supermarket shelves are often lined with fresh‑looking cuts of meat that, despite their appealing appearance, may already host growing bacterial populations inside their packaging. Food‑safety experts explain that the sealed environment can create ideal conditions for pathogens such as *Salmonella*, *E. coli*, and *Listeria* to multiply, especially when refrigeration lapses or the product is stored for extended periods. The visual cues that shoppers rely on—color, texture, and packaging integrity—do not reliably indicate microbial safety, prompting growing concerns about hidden contamination.\n\nTo address this issue, researchers and industry groups are testing a range of detection technologies that could be integrated into retail supply chains. Infrared spectroscopy and near‑infrared sensors can identify subtle chemical changes associated with spoilage, while electronic noses detect volatile organic compounds released by bacterial metabolism. Some companies are exploring RFID tags that monitor temperature history, ensuring that products have remained within safe limits from farm to front‑of‑store. Although none of these methods are yet standard in grocery stores, pilot programs in a handful of supermarkets have shown that real‑time monitoring can flag potentially unsafe meat before it reaches consumers.\n\nUntil such systems become commonplace, consumers are advised to rely on established guidelines: check the sell‑by or use‑by dates, verify that the meat is stored below 40 °F (4 °C), and inspect for off‑odors or slimy textures once the package is opened. Regulatory agencies are also tightening requirements for labeling and traceability, aiming to reduce the risk of bacterial growth in packaged meats. As technology advances, the hope is that a simple, inexpensive sensor could become part of the packaging itself, giving shoppers a reliable indicator of safety without the need to open the product first.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:33:02",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-075",
+    "title": "Mushroom Identified as Cause of Tiny People Hallucinations",
+    "slug": "mushroom-identified-as-cause-of-tiny-people-hallucinations",
+    "content": "People in communities separated by thousands of miles have reported an identical, unsettling experience after consuming an unidentified mushroom: vivid visions of miniature humans—approximately six inches tall—moving through and interacting with the surrounding environment. The episodes, described as “Lilliputian hallucinations” in reference to the tiny inhabitants of Jonathan Swift’s *Gulliver’s Travels*, have been documented in recent anecdotal accounts from remote villages in Southeast Asia and isolated settlements in South America. Witnesses describe the hallucinations as highly detailed, with the imagined figures performing everyday tasks, manipulating objects, and occasionally communicating with the observers.\n\nThe phenomenon, long regarded by scholars as a product of cultural storytelling rather than a physiological response, is now prompting renewed scientific interest. Neurologists and ethnobotanists are collaborating to determine whether the mushroom contains psychoactive compounds capable of inducing such specific visual content, or if shared mythic motifs are shaping the perceptual experience. Preliminary chemical analyses have identified several novel alkaloids, but conclusive links to the Lilliputian imagery remain unestablished. Researchers emphasize that further interdisciplinary study is required to discern whether the hallucinations arise from neurochemical effects, cultural conditioning, or a combination of both, and investigations are ongoing.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:32:57",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-074",
     "title": "Modification doubles low‑noise supercontinuum range in single fiber",
     "slug": "modification-doubles-low-noise-supercontinuum-range-in-single-fiber",
