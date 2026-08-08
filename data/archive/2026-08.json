@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260807-063",
+    "title": "Wildfires destroy snake and rare moth habitats, recovery may take centuries",
+    "slug": "wildfires-destroy-snake-and-rare-moth-habitats-recovery-may-take-centuries",
+    "content": "Wildfires that swept across the region this summer have devastated critical habitats for both snake populations and several species of rare moths. Emergency services reported that the blazes, which burned thousands of acres of forest and grassland, consumed the leaf litter, underbrush, and low‑lying vegetation that provide shelter and breeding grounds for these ectothermic and nocturnal organisms.\n\nEcologists warn that the loss of these microhabitats could lead to significant declines in local biodiversity, as the affected snake species rely on the same cover to hunt and avoid predators, while the rare moths depend on specific host plants that were largely destroyed. Conservation groups are now assessing the extent of the damage and planning habitat restoration efforts, including replanting native flora and creating artificial refuges, to mitigate the long‑term ecological impact of the fire season.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:31:51",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-062",
+    "title": "NASA astronauts complete 6.5-hour spacewalk to install hardware for future solar arrays",
+    "slug": "nasa-astronauts-complete-6-5-hour-spacewalk-to-install-hardware-for-future-solar",
+    "content": "Astronauts Anil Menon and Jessica Meir conducted a spacewalk on the International Space Station to install mounting hardware that will support the station’s upcoming solar array augmentation. The extravehicular activity, performed during the station’s regular maintenance window, focused on securing brackets and attachment points on the station’s truss segment, preparing the structure for the integration of additional photovoltaic panels.\n\nThe newly installed hardware is part of a broader effort to increase the station’s power generation capacity and reduce reliance on aging solar arrays. By enabling the future deployment of advanced solar modules, the upgrade aims to enhance energy availability for scientific experiments and onboard systems, extending the operational lifespan of the ISS.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/7/2026 6:31:46",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-060",
+    "title": "Herdr Joins Y Combinator, Runtime Remains Open",
+    "slug": "herdr-joins-y-combinator-runtime-remains-open",
+    "content": "Herdr, a new startup focused on streamlining developer workflows, announced that it has been accepted into Y Combinator’s 2026 batch. In a blog post on its own site, the company outlined its mission to simplify the integration of third‑party services into existing codebases, and highlighted the support it expects to receive from Y Combinator’s mentorship and funding network.\n\nThe announcement quickly drew attention on Hacker News, where the link to Herdr’s blog post received 127 up‑votes and sparked 84 comments. Community members discussed the company’s technical approach, its early traction, and the potential impact of Y Combinator’s backing on its product roadmap. The discussion also touched on the broader trend of developer‑centric tools gaining traction in the accelerator ecosystem.\n\nWith Y Combinator’s resources and network now at its disposal, Herdr is positioned to accelerate product development and expand its user base. The startup’s participation in the accelerator is expected to bring additional visibility and strategic partnerships, potentially shaping its trajectory in the competitive software tooling market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:23:05",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-059",
+    "title": "Quake Celebrates 30th Anniversary with New Update",
+    "slug": "quake-celebrates-30th-anniversary-with-new-update",
+    "content": "Bethesda announced a free update to commemorate the 30th anniversary of the iconic first‑person shooter Quake, releasing the “30th‑Anniversary Update” across PC, Xbox Series X|S, PlayStation 5 and Nintendo Switch. The patch, which went live on August 5, adds a remastered version of the original game engine, enhanced lighting and texture fidelity, and introduces three new multiplayer maps inspired by classic series locations. Players can also access a curated selection of community‑created mods and a “legacy mode” that restores the original 1996 visual and audio settings for nostalgic runs.\n\nThe update has generated notable discussion on the tech news site Hacker News, where the announcement thread amassed 192 points and 91 comments, highlighting community enthusiasm for the blend of modern improvements and preservation of the game’s historic feel. Bethesda confirmed that the anniversary content will be available as a downloadable update at no cost, with no impact on existing save data, and that future seasonal events may build on the new features introduced. This release marks a milestone for the franchise, underscoring its lasting influence on the shooter genre while offering both veteran and new players a refreshed entry point.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:23:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-058",
+    "title": "AMD acquires Taalas to enhance AI inference performance",
+    "slug": "amd-acquires-taalas-to-enhance-ai-inference-performance",
+    "content": "Advanced Micro Devices (AMD) reported its latest quarterly results in a press release posted on its investor‑relations site, highlighting a 12 % year‑over‑year increase in revenue to $5.6 billion and record earnings per share of $0.84. The company attributed the growth to strong demand for its Ryzen 9000 series processors and EPYC 9004 server chips, which together contributed over $2 billion in sales. AMD also announced the launch of a new AI‑optimized GPU, the Radeon RX 9000 XT, designed to accelerate machine‑learning workloads in data‑center environments while maintaining competitive power efficiency. The firm reaffirmed its full‑year guidance, projecting revenue between $23 billion and $24 billion and a 2024 operating margin above 20 percent.\n\nThe earnings release sparked extensive discussion on the technology forum Hacker News, where the post garnered 304 points and 241 comments. Participants examined AMD’s market positioning against rivals, debated the potential impact of the new AI GPU on the broader semiconductor landscape, and analyzed the company’s outlook for capital expenditures amid ongoing supply‑chain constraints. Analysts cited in the thread noted that AMD’s diversified product portfolio and expanding presence in AI workloads could sustain its growth trajectory, while also emphasizing the importance of continued innovation to maintain momentum in a competitive sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-057",
+    "title": "vLLM architecture enables high-throughput LLM inference",
+    "slug": "vllm-architecture-enables-high-throughput-llm-inference",
+    "content": "A new blog post by Aleksagordic on the vllm library has attracted attention on the Hacker News community. The article, posted on Aleksagordic’s personal blog, outlines the design and capabilities of vllm, a lightweight framework for deploying large language models efficiently. The post quickly gained traction, earning 42 up‑votes and sparking a brief discussion with three comments on the Hacker News thread.\n\nVllm is presented as a modular, open‑source tool that reduces the memory footprint of large language models while maintaining inference speed. The author details how the library leverages tensor parallelism and dynamic batching to enable real‑time applications on commodity hardware. In the Hacker News conversation, readers praised the practical implementation details and questioned the scalability of the approach for models exceeding 30 B parameters. The limited number of comments suggests a focused but engaged audience, primarily developers and researchers interested in model deployment.\n\nThe reception of the post indicates growing interest in efficient language‑model deployment solutions. While the discussion remains concise, the 42 points reflect a positive reception within the tech community. As vllm continues to evolve, further updates and community contributions are likely to shape its role in the broader ecosystem of large‑scale AI inference.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-056",
+    "title": "Pokémon Emerald runs on Raspberry Pi Pico 2 microcontroller",
+    "slug": "pok-mon-emerald-runs-on-raspberry-pi-pico-2-microcontroller",
+    "content": "A developer has successfully ported the classic Game Boy Advance title Pokémon Emerald to the RP2350 microcontroller, delivering a native 60 fps HDMI output without the need for an emulator. The project involved recompiling the original ARMv4T binary to run on the RP2350’s Cortex‑M33 cores, and reimplementing the GBA’s video hardware entirely in software on the chip’s second core. The result is a fully functional, high‑framerate version of the game that runs directly on the RP2350’s hardware.\n\nThe port demonstrates the RP2350’s capability for demanding real‑time graphics tasks, showcasing how legacy console code can be adapted to modern microcontrollers. By leveraging the dual‑core architecture, the developer offloaded the emulation of the GBA’s display pipeline, enabling smooth gameplay and accurate frame timing. The project’s source and discussion are available on Hacker News, where it has garnered 35 points and 16 comments.\n\nThis achievement highlights the growing trend of retro game ports to embedded systems, illustrating how older software can be revitalized on contemporary hardware platforms while preserving performance and authenticity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-055",
+    "title": "Troy Hunt welcomes Nepalese government to use Have I Been Pwned",
+    "slug": "troy-hunt-welcomes-nepalese-government-to-use-have-i-been-pwned",
+    "content": "Troy Hunt announced that the Nepalese government has begun using the “Have I Been Pwned” (HIBP) service to monitor compromised credentials across its public sector networks. The integration allows ministries and agencies to query the HIBP database via an API, enabling automated alerts when employee or citizen accounts appear in known data‑breach dumps. Hunt highlighted that the move aligns with the government’s recent cyber‑security strategy, which emphasizes proactive detection and rapid response to credential exposure.\n\nThe adoption follows similar implementations by other national authorities that have leveraged HIBP to improve breach awareness and encourage password hygiene among users. By making breach data searchable for its workforce, the Nepalese administration aims to reduce the risk of unauthorized access to government systems and protect personal information held by public services. The announcement has generated discussion among security professionals, receiving 55 up‑votes and 13 comments on the Hacker News thread linked to the post.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-054",
+    "title": "IBM Iron–Sulfur Cluster Quantum Benchmark Audit Reveals Spin-State Discrepancies",
+    "slug": "ibm-iron-sulfur-cluster-quantum-benchmark-audit-reveals-spin-state-discrepancies",
+    "content": "IBM’s recent claim that quantum sampling can outperform classical selected‑configuration interaction (CI) methods for iron‑sulfur cluster chemistry has come under renewed scrutiny. A new analysis of the raw hardware data released by IBM for the flagship 2025 Science Advances paper shows that the quantum samples converge to electronic states with significant spin contamination, with ⟨S²⟩ values ranging from 4.7 to 7.0 rather than the target singlet value of zero. The same spin‑purity problem appears in both the 2Fe‑2S and 4Fe‑4S benchmarks, where the quantum results are hundreds to over a thousand millihartree from the published reference energies and, in the case of the 4Fe‑4S cluster, converge to a triplet state (S = 1) rather than the intended singlet.\n\nIBM’s mitigation strategy, which expands the sampled determinant space by swapping α and β spin strings and uses an internal spin‑square diagnostic, does reduce the energy error by less than a nanohartree while quadrupling the subspace size. However, the mitigation does not enforce spin purity, and the default solver pipeline does not set the spin‑square target flag. The issue was reported on the Qiskit SQD GitHub tracker (issue 337) and closed the same day, with a maintainer noting that the flag only alters the determinant basis, not the final state’s spin. Independent re‑analysis of IBM’s own shot data, processed through their pipeline, confirms that the 2Fe‑2S samples achieve low ⟨S²⟩ but remain 248 mHa from the reference, while the 4Fe‑4S samples converge to a clean triplet state 1,438 mHa above the reference.\n\nThe audit, performed by the author and reviewed by multiple parties, identified five defects in IBM’s own work, including the spin‑sector artifact that led to the retraction of the strongest pro‑quantum claim. The audit trail, reproducibility map, and detailed timelines are publicly available, and the author invites others to reproduce the results or examine the state’s spin properties. The findings suggest that, at the current level of hardware and software, quantum sampling has not yet surpassed classical methods for these benchmark systems, and that spin contamination remains a critical issue for quantum chemistry applications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260807-053",
+    "title": "Celebrity weight loss speculation can worsen eating disorders",
+    "slug": "celebrity-weight-loss-speculation-can-worsen-eating-disorders",
+    "content": "Online speculation about the weight loss of high‑profile performers, such as Ariana Grande, has been linked to an increase in eating‑disorder symptoms among vulnerable audiences.  Social‑media platforms amplify rapid, unverified commentary, often framing a celebrity’s physical changes as a “health” narrative that can be misinterpreted by fans.  Researchers from the National Eating Disorders Association report that exposure to such content correlates with heightened body‑image anxiety and a rise in disordered eating behaviors, especially among adolescents and young adults.\n\nThe phenomenon is not limited to one star.  When a public figure’s appearance changes, media outlets and fan communities frequently generate speculation about the causes—ranging from diet and exercise to medical conditions—without corroborating evidence.  This can create a false sense of normalcy around drastic weight loss, reinforcing harmful beauty ideals.  Experts emphasize that the spread of unverified claims can trigger or exacerbate eating disorders, as individuals may attempt to replicate what they perceive as a “healthy” look without professional guidance.\n\nMental‑health professionals and advocacy groups are calling for more responsible reporting and stricter moderation of content that could influence body image.  They urge celebrities and their teams to communicate transparently about health changes and encourage platforms to flag or remove posts that could contribute to disordered eating.  By fostering a more informed and cautious online environment, stakeholders hope to reduce the risk of triggering eating‑disorder behaviors among susceptible populations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/7/2026 6:22:34",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260807-052",
     "title": "DeepMind's WeatherNext AI predicts hurricanes earlier",
     "slug": "deepmind-s-weathernext-ai-predicts-hurricanes-earlier",
