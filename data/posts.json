@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260809-011",
+    "title": "Turkey says Iran not target of Saudi‑Pakistan‑Turkey security pact",
+    "slug": "turkey-says-iran-not-target-of-saudi-pakistan-turkey-security-pact",
+    "content": "Turkish Foreign Minister Hakan Fidan said on Saturday that the NATO‑style alliance signed by Turkey, Saudi Arabia and Pakistan is not aimed at any particular nation, amid speculation that the pact was formed in reaction to the ongoing conflict in Iran.  In an interview with the state‑run Anadolu Agency conducted a day after the three countries formalised the agreement, Fidan dismissed reports that the coalition was designed to counter Iranian influence in the region.\n\nThe trilateral accord, announced earlier this week, outlines a framework for military cooperation, intelligence sharing and joint exercises, mirroring the structure of NATO.  While analysts had suggested that the pact could be a strategic response to Iran’s military posture, Fidan clarified that the alliance is intended to enhance collective security among the signatories without targeting any single state.\n\nFidan’s remarks underscore the Turkish government’s position that the agreement is a defensive partnership rather than a punitive measure.  The statement is likely aimed at calming regional tensions and preventing misinterpretations of the new alliance’s objectives.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/9/2026 7:52:33",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-010",
+    "title": "Iran lists demands for US as Strait of Hormuz talks continue",
+    "slug": "iran-lists-demands-for-us-as-strait-of-hormuz-talks-continue",
+    "content": "The secretary of Iran’s Supreme National Security Council, Mohammad Bagher Zolghadr, presented the country’s principal demands to the United States during a meeting on Saturday, as Tehran and Oman continue talks to reopen the Strait of Hormuz. The strait, a critical chokepoint for global oil shipments, has been closed or restricted amid regional tensions and U.S. sanctions.\n\nZolghadr outlined a set of conditions that Iran considers essential for any agreement, including the lifting of specific U.S. sanctions tied to its nuclear program, a guarantee of security for Iranian shipping, and a framework for resolving broader diplomatic disputes. The Iranian delegation emphasized that these demands are linked to the broader goal of restoring free navigation through the waterway, which currently accounts for a significant share of the world’s petroleum flow.\n\nThe negotiations remain in early stages, with both sides seeking to balance security concerns and economic interests. If a consensus can be reached, the reopening of the Strait of Hormuz would ease pressure on global energy markets and potentially reduce regional instability.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/9/2026 7:52:28",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-009",
+    "title": "Shopify Switches From Redis to MySQL for Inventory Reservations, Achieves Scaling Success",
+    "slug": "shopify-switches-from-redis-to-mysql-for-inventory-reservations-achieves-scaling",
+    "content": "Shopify Engineering recently published a detailed post on scaling its inventory‑reservation system, a critical component that guarantees accurate stock levels during peak shopping periods. The article outlines the challenges the platform faced as traffic surged, particularly the need to prevent overselling while maintaining low latency for a global customer base. It also explains how the engineering team re‑architected the reservation workflow to handle millions of concurrent requests without compromising data consistency.\n\nKey technical updates highlighted in the post include the adoption of a distributed cache layer, the shift to event‑driven microservices, and the implementation of optimistic concurrency controls. By decoupling inventory checks from order placement and leveraging a high‑throughput messaging system, Shopify achieved a significant reduction in reservation conflicts and a measurable improvement in response times. The team also introduced real‑time monitoring dashboards that provide visibility into reservation queues and failure rates, enabling proactive scaling during flash sales and holiday spikes.\n\nThe blog entry has drawn attention from the broader tech community, earning 57 points and 16 comments on Hacker News. Readers praised the transparency of the engineering discussion and noted the practical relevance of the solutions for other e‑commerce platforms facing similar scalability hurdles. The post serves as both a case study and a resource for developers looking to build resilient inventory systems at scale.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 7:52:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-008",
+    "title": "Health experts say knuckle cracking isn’t linked to arthritis",
+    "slug": "health-experts-say-knuckle-cracking-isn-t-linked-to-arthritis",
+    "content": "BBC Future published a feature titled “Should I stop cracking my knuckles?” that examines the scientific evidence behind the habit’s health effects. The article notes that the audible pop results from gas bubbles collapsing in synovial fluid and that multiple studies, including a long‑term investigation of former knuckle‑crackers, have found no correlation between the practice and the development of osteoarthritis. Researchers cited in the piece also acknowledge that excessive cracking may cause temporary joint swelling or reduced grip strength, but they emphasize that occasional cracking is not considered medically harmful.\n\nThe story prompted discussion on the technology news forum Hacker News, where the link received 13 points and generated nine comments. Participants referenced the same medical studies, debated the social perception of knuckle cracking, and shared personal experiences, while generally echoing the article’s conclusion that the habit is benign for most individuals. The online response highlights continued public interest in everyday health myths and the role of media in clarifying them.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 7:52:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-007",
+    "title": "Dithered QR Codes Explained",
+    "slug": "dithered-qr-codes-explained",
+    "content": "A post titled “Dithered QR Codes – WTF?” was published on the personal site of developer Andrew T., showcasing a method that applies dithering patterns to standard QR codes to create visually striking, yet still scannable, graphics. The article explains how the technique leverages error‑correction levels inherent in QR code specifications, allowing the introduction of high‑contrast dithering without compromising readability. By adjusting pixel density and strategically placing dithering cells, the author demonstrates that QR codes can be transformed into artistic designs while maintaining functional integrity across common scanning applications.\n\nThe piece quickly attracted attention on Hacker News, where it earned 32 points and generated three comments discussing both the technical feasibility and potential use cases for branding, advertising, and creative projects. Commenters noted the balance between aesthetic appeal and reliability, and some raised questions about the limits of error correction when applying more aggressive dithering. The discussion highlights growing interest in merging visual design with data encoding, suggesting that such hybrid approaches may see broader adoption as developers seek novel ways to embed information within visually engaging media.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 7:52:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-006",
+    "title": "Os8088 brings Mac-like OS to IBM XT, 286, and 386 computers",
+    "slug": "os8088-brings-mac-like-os-to-ibm-xt-286-and-386-computers",
+    "content": "A post linking to os8088.com has drawn notable attention on Hacker News, where it earned 43 points and generated ten comments. The submission, featured in the technology news feed, highlights a recent development in the retro‑computing community—a fully functional, open‑source operating system designed specifically for Intel’s original 8088 processor.\n\nThe project, hosted on the os8088.com domain, provides source code, documentation, and build instructions for an OS that runs on authentic 8088 hardware as well as modern emulators. Its creators describe it as a minimalist platform intended for educational use, hobbyist experimentation, and preservation of early PC software environments. Community members on Hacker News praised the thorough documentation and the effort to revive a historically significant architecture, while some commenters raised technical questions about compatibility and potential extensions. The discussion underscores a growing interest in vintage computing projects that blend historical insight with contemporary development practices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 7:52:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-005",
+    "title": "Compactmag publishes article titled “The AI Apocalypse Is Here”",
+    "slug": "compactmag-publishes-article-titled-the-ai-apocalypse-is-here",
+    "content": "A recent piece in *Compact Magazine* titled “The AI Apocalypse Is Already Here” warns that the rapid deployment of advanced generative artificial‑intelligence systems is producing tangible risks across multiple sectors. The article cites a surge in large‑scale language models and image generators that can create persuasive text, synthetic media, and code with minimal human oversight, highlighting incidents where automated tools have generated disinformation, deep‑fake videos, and software vulnerabilities. Industry analysts referenced in the report note that the speed of model iteration, combined with limited regulatory frameworks, has outpaced the development of robust safety protocols, prompting concerns among cybersecurity experts, ethicists, and policymakers.\n\nThe discussion surrounding the article on Hacker News, which garnered 16 points and six comments, reflects a mixed response from the tech community. Commenters pointed to recent high‑profile mishaps, such as AI‑driven phishing campaigns and the accidental release of biased training data, while also acknowledging ongoing efforts by major AI firms to implement watermarking, usage monitoring, and alignment research. The consensus underscores the need for coordinated governance and transparent best‑practice guidelines to mitigate the emerging threats without stifling innovation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/9/2026 7:52:02",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-004",
+    "title": "Turkey says Mecca defence pact not directed at Iran",
+    "slug": "turkey-says-mecca-defence-pact-not-directed-at-iran",
+    "content": "Ankara has clarified that the recently announced Mecca Defence Pact, a trilateral security agreement signed with Saudi Arabia and Pakistan, is not aimed at Iran. Turkish Foreign Minister Hakan Fidan told reporters that the cooperation, which focuses on counter‑terrorism, intelligence sharing and maritime security, was designed to address common regional threats and should not be interpreted as a hostile move toward any neighboring state.\n\nThe pact, signed in Mecca earlier this week, brings together the three countries in a framework intended to enhance coordination against extremist groups and safeguard critical sea lanes. While Iranian officials have expressed concern over the alliance, Turkish authorities emphasized that the agreement’s language makes no reference to Iran and that Ankara seeks to maintain stable relations with all regional partners. The statement underscores Turkey’s intent to position the pact as a defensive, collaborative effort rather than a geopolitical counterbalance.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/9/2026 7:51:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-003",
+    "title": "Iran's IRGC sets conditions to reopen Strait of Hormuz, demands US end blockade",
+    "slug": "iran-s-irgc-sets-conditions-to-reopen-strait-of-hormuz-demands-us-end-blockade",
+    "content": "Tehran’s Islamic Revolutionary Guard Corps (IRGC) announced on Tuesday that it will consider reopening the Strait of Hormuz only if the United States provides concrete assurances that attacks on commercial vessels in the waterway will cease. The statement, issued by the IRGC’s naval command, came amid a series of missile and drone strikes that have targeted oil tankers and cargo ships transiting the strategic chokepoint over the past month, prompting heightened regional tensions and concerns over global oil supplies.\n\nU.S. officials responded by emphasizing the need for Iran to halt all hostile actions before any navigation agreements can be negotiated, while also urging Tehran to engage in direct talks to address the security of maritime traffic. Diplomatic channels in Washington and Doha have been activated to explore a framework that could include verification mechanisms and the release of detained seafarers. Both sides appear to be seeking a de‑escalation pathway, but the IRGC’s demand for explicit U.S. commitments underscores the fragile balance between maintaining free passage through the strait and preventing further disruptions to international shipping.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/9/2026 7:51:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-002",
+    "title": "Hungary nominates former Supreme Court chief Andras Baka for president",
+    "slug": "hungary-nominates-former-supreme-court-chief-andras-baka-for-president",
+    "content": "András Baka, a former president of the Hungarian Supreme Court and longtime proponent of judicial independence, has been announced as the governing party’s candidate for the upcoming presidential election. The nomination, made by the ruling Fidesz‑KDNP coalition, comes as Hungary prepares to vote for a new head of state following the end of President Katalin Novák’s term. Baka, who served on the Supreme Court from 1990 to 2016 and chaired the National Judicial Council, is known for his outspoken criticism of political interference in the courts and for promoting reforms aimed at safeguarding the judiciary’s autonomy.\n\nThe selection of Baka signals the coalition’s attempt to address growing domestic and international concerns over the rule of law in Hungary. If elected, he would assume a largely ceremonial role but could influence the nation’s legal landscape through his moral authority and public statements. The presidential race is scheduled for later this year, with the parliament expected to confirm the winner after the popular vote. Baka’s candidacy adds a notable dimension to the contest, highlighting the governing party’s response to calls for stronger institutional checks and balances.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/9/2026 7:51:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260809-001",
+    "title": "Settler attacks rise in West Bank, residents near Bethlehem lose land",
+    "slug": "settler-attacks-rise-in-west-bank-residents-near-bethlehem-lose-land",
+    "content": "Palestinians living in villages surrounding Bethlehem reported a surge in daily attacks by Israeli settlers, saying the incidents have become a routine part of life as violence escalates across the West Bank. Residents described confrontations that include stone‑throwing, vandalism of property, and intimidation near farms and roads, often occurring without immediate intervention from Israeli security forces. Local community leaders said that the frequency of these assaults has risen sharply since the start of the year, with several families reporting damage to homes, crops and livestock, and a growing sense of insecurity among the population.\n\nHuman rights monitors and Israeli authorities have noted an overall increase in settler‑related violence in the occupied territories, linking the trend to heightened tensions over settlement expansion and clashes over access to holy sites. The Israeli military has stated that it is investigating specific complaints, while the United Nations Office for the Coordination of Humanitarian Affairs warned that the pattern of attacks could exacerbate humanitarian needs and undermine prospects for a negotiated settlement. The situation remains fluid, with Palestinian officials urging stronger protection measures and international observers calling for accountability to prevent further deterioration of security in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/9/2026 7:51:42",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260808-335",
     "title": "19 Bodies Recovered from Rubble of Gaza Building",
     "slug": "19-bodies-recovered-from-rubble-of-gaza-building",
@@ -5376,127 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/7/2026 16:03:29",
     "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-262",
-    "title": "Plastic-Free Coffee Makers Gain Popularity",
-    "slug": "plastic-free-coffee-makers-gain-popularity",
-    "content": "Rising concerns over microplastic contamination in everyday consumables have brought household coffee brewing equipment under scrutiny, prompting manufacturers to develop a new generation of plastic-free drip coffee makers. Recent studies indicate that conventional plastic brewers can shed microscopic particles into hot water during the brewing process, introducing synthetic contaminants into daily coffee consumption. In response, several companies have introduced alternative designs constructed entirely from glass, stainless steel, and ceramic materials, aiming to eliminate plastic contact with hot liquids while maintaining standard brewing performance.\n\nThe presence of microplastics in coffee has been linked to the thermal degradation of polymer components when exposed to high temperatures and acidic coffee grounds. Traditional drip machines often rely on plastic reservoirs, tubing, and showerheads, which can release particles ranging from one to five micrometers in size during each brew cycle. The emerging plastic-free models replace these components with heat-resistant, non-porous materials that withstand brewing temperatures without chemical leaching. Industry analysts note that consumer awareness of environmental and health implications has accelerated demand for these alternatives, with several major kitchen appliance brands now integrating plastic-free options into their product lines.\n\nAs regulatory agencies and",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 16:02:57",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-257",
-    "title": "South Africa Textile Industry Faces Workforce Crisis",
-    "slug": "south-africa-textile-industry-faces-workforce-crisis",
-    "content": "South Africa’s textile sector is confronting a sudden workforce shortage as thousands of migrant workers have fled the country following violent xenophobic protests. The unrest, sparked by an anti‑immigrant campaign led by the group March and March, was aimed at freeing up jobs for South Africans, a demographic in which one‑third of the population remains unemployed.  \n\nFactory owners in Newcastle, a key hub for textile production, report that many positions remain unfilled. “We have not yet been able to replace the workers who left,” said a spokesperson for a local textile firm. The exodus has left production lines stalled and supply chains disrupted, raising concerns about the industry’s ability to meet domestic and export demand.  \n\nIndustry analysts warn that the crisis could deepen if the current shortage persists, potentially prompting firms to seek alternative sourcing strategies or invest in automation. Meanwhile, government officials are monitoring the situation closely, urging a balanced approach that addresses both employment pressures and the need for social cohesion.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:02:27",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-256",
-    "title": "Nigerian Artist Turns Clay into Paint for Portraits",
-    "slug": "nigerian-artist-turns-clay-into-paint-for-portraits",
-    "content": "In Lagos, Nigerian artist Emmanuel Olatunde is redefining portraiture by turning the very soil that surrounds his studio into pigment. The 39‑year‑old has devised a process that extracts natural clay from the earth beneath his feet, refines it, and transforms it into a paint that he uses to render human likenesses. His method blends scientific precision with artistic intuition, allowing the earthy tones of the clay to lend depth and authenticity to his canvases.\n\nOlatunde’s background in chemistry informs every stage of his technique. He first tests the mineral composition of local clays, then subjects them to a series of washes and sieves to isolate the fine particles that will become pigment. The resulting paint retains the clay’s natural hue while gaining the consistency required for fine brushwork. By sourcing his materials locally, he also emphasizes sustainability, reducing the need for imported pigments and highlighting the cultural heritage of Lagos’s geology.\n\nThe artist’s work has attracted attention from galleries and collectors interested in eco‑conscious art practices. Olatunde’s portraits, characterized by subtle earth tones and a tactile quality, have been displayed in several Lagos exhibitions and are slated for a touring show across West Africa. His pioneering approach demonstrates how scientific knowledge can expand the possibilities of traditional media, offering a fresh perspective on the relationship between environment and artistic expression.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:02:21",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-255",
-    "title": "Thailand School Shooting Leaves Eight Dead, 15 Injured",
-    "slug": "thailand-school-shooting-leaves-eight-dead-15-injured",
-    "content": "A shooting at a Thai school has left at least eight people dead and 15 others wounded, authorities said on Tuesday.  The incident occurred inside the premises of a secondary school in the central province of Nakhon Pathom, according to police reports.  The gunman, a 17‑year‑old student, was apprehended by security staff before he could leave the building.\n\nInvestigators say the suspect fired a number of shots from a handgun that he had brought onto campus.  The school was closed for the remainder of the day and emergency services responded immediately, treating the injured at the nearest hospital.  The Ministry of Education has announced an investigation into the incident and is reviewing security protocols at schools nationwide.\n\nThe Thai police are conducting a full inquiry into the motive behind the attack and are cooperating with the Ministry of Interior to ensure the safety of students.  The school’s administration has pledged to provide support to victims and families while the investigation continues.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:02:11",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-254",
-    "title": "UK and France avoid Iran confrontation as US pushes Hormuz naval mission",
-    "slug": "uk-and-france-avoid-iran-confrontation-as-us-pushes-hormuz-naval-mission",
-    "content": "London and Paris have signaled that they do not intend to provoke Iran as the United States and Israel become embroiled in a widening regional conflict, analysts said on Tuesday. Both governments have emphasized diplomatic engagement over military escalation, and European leaders have broadly rejected any steps that could draw the continent into a direct confrontation with Tehran. The stance follows a series of public remarks by the UK foreign secretary and the French president, who warned that escalation would jeopardise European security and economic interests, while Iran has issued increasingly hostile statements in response to Israeli operations.\n\nAnalysts note that the consensus across the European Union reflects a desire to contain the hostilities and prevent the war from expanding beyond the immediate US‑Israeli theater. EU foreign ministers have reiterated support for a negotiated resolution and have called on Iran to refrain from retaliatory actions that could trigger a broader clash. By maintaining a low‑key diplomatic approach, the UK, France and their European partners aim to limit the risk of a direct Europe‑Iran confrontation while monitoring developments closely.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:01:59",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-253",
-    "title": "Saudi Pro League striker Ivan Toney charged with assault in UK",
-    "slug": "saudi-pro-league-striker-ivan-toney-charged-with-assault-in-uk",
-    "content": "Ivan Toney, the Tottenham Hotspur striker, has been formally charged with assault in connection with an incident that allegedly occurred on 6 December of last year in the United Kingdom. The charge, announced by the Crown Prosecution Service, stems from a police investigation that concluded sufficient evidence existed to proceed with criminal proceedings against the 30‑year‑old footballer.\n\nThe case will be heard in a magistrates’ court, where Toney will enter a plea and await a trial date. If convicted, he could face a fine, a community‑service order or a short custodial sentence, depending on the severity of the offence as determined by the court. The charge adds to a series of legal challenges the player has faced in recent months, and the outcome may affect his availability for club and international duties pending the resolution of the matter.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:01:53",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-252",
-    "title": "Central Europe records extreme heat as Italy issues highest alert for major cities",
-    "slug": "central-europe-records-extreme-heat-as-italy-issues-highest-alert-for-major-citi",
-    "content": "A severe heatwave sweeping Central Europe has pushed temperatures to unprecedented levels, with Slovakia and Austria both recording their highest readings of the year. In Bratislava, the mercury climbed to 38.5 °C, eclipsing the previous summer record, while Vienna saw temperatures reach 39.2 °C, the hottest day since reliable measurements began in the 1950s. Meteorological services in both countries attribute the extreme values to a persistent high‑pressure system that has stalled over the region, drawing hot air from the Mediterranean and limiting cloud cover.\n\nIn response to the escalating conditions, Italy’s civil protection agency placed all 27 of the nation’s major cities under the highest heat alert, the first nationwide issuance of its kind. Authorities have activated emergency cooling centers, issued health advisories urging residents to stay hydrated and avoid outdoor activity during peak hours, and mobilized additional resources for vulnerable populations. Forecast models indicate the heatwave could persist for several more days, prompting neighboring countries to monitor the situation closely and prepare for possible further temperature spikes.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/7/2026 16:01:48",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-250",
-    "title": "Norway's Football Federation Calls for Infantino's Resignation",
-    "slug": "norway-s-football-federation-calls-for-infantino-s-resignation",
-    "content": "Fifa President Gianni Infantino Faces Call to Resign Amid Controversy\n\nIn a significant development, the Norwegian Football Federation (NFF) has requested Fifa President Gianni Infantino to resign with immediate effect, citing his failed attempt to sell stakes in the World Cup to private investors as the final nail in the coffin for his presidency. This move marks the first time a national federation has directly called for Infantino's resignation, underscoring the growing discontent with his leadership. The decision was made during a meeting of the NFF on Thursday night, following a series of controversies that have plagued Fifa in recent times.\n\nNorway has long been at the forefront of efforts to scrutinize Fifa's governance, and the latest crisis surrounding Infantino's Fifa Forward Enterprise scheme has pushed the federation's faith in his leadership beyond repair. The scheme, which aimed to sell stakes in the World Cup, has been widely criticized for its potential to compromise the integrity of the tournament. With Norway's call to action, the pressure on Infantino to step down is mounting, and it remains to be seen whether he will heed the call or continue to battle for support around the world.\n\nThe NFF's decision to request Infantino's resignation marks a significant escalation in the crisis surrounding his presidency, and it is likely to have far-reaching implications for Fifa's governance and leadership. As the situation continues to unfold, one thing is clear: the future of Gianni Infantino's presidency hangs in the balance, and the outcome is far from certain.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/7/2026 15:13:02",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-243",
-    "title": "2027 Memory Capacity Sold Out",
-    "slug": "2027-memory-capacity-sold-out",
-    "content": "Ramageddon, the ongoing global shortage of computer memory, has reportedly extended into 2027, with many manufacturers reporting that all available memory capacity for the year has already been sold out. According to a report from Ign.com, the persistent supply chain disruptions that began in 2023 have continued to constrain the production of DRAM and NAND flash, leaving hardware developers and data‑center operators scrambling for inventory. The article notes that the shortage has already impacted the rollout of new servers, gaming consoles, and high‑performance computing platforms.\n\nThe report details that major memory suppliers have announced that their 2027 production lines are fully booked, citing a combination of high demand from the consumer electronics sector, increased cloud‑computing workloads, and lingering logistical bottlenecks. While some analysts suggest that the situation may improve later in the year as new manufacturing capacity comes online, the current snapshot indicates that the memory market remains tight. The piece was shared on the Hacker News community, where it has garnered 35 points and 11 comments, reflecting significant interest from industry professionals and technologists.\n\nIn summary, the 2027 memory capacity sell‑out underscores the continued volatility of the semiconductor supply chain. As the industry adapts to these constraints, stakeholders are monitoring potential shifts in pricing, inventory strategies, and the pace of new chip production. The situation remains fluid, and further updates are expected as manufacturers announce any changes to their production schedules.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 15:12:28",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-242",
-    "title": "Meta Ordered to Pay $567M in New Mexico Child Safety Case",
-    "slug": "meta-ordered-to-pay-567m-in-new-mexico-child-safety-case",
-    "content": "Meta has been ordered to pay $567 million in the second phase of New Mexico’s landmark child‑safety lawsuit, bringing the total amount the company faces to nearly $1 billion. The Santa Fe district court, in a ruling released Thursday, found that Meta’s platforms are a “significant contributing cause” of a statewide teen mental‑health crisis that the court said affects public health and safety across the state. The case, which has been described as a “public nuisance” action, seeks to hold the social‑media giant accountable for practices that the court determined endanger young people.\n\nThe judge’s decision follows years of litigation in which the state’s attorney general has argued that Meta’s algorithms and content moderation policies create an environment that exploits and harms adolescents. In a statement accompanying the ruling, the attorney general emphasized that the case “has always been about protecting children, standing up for families, and making sure that one of the world’s largest technology companies cannot profit from practices that endanger young people without consequence.” The $567 million award represents the second tranche of damages, with earlier phases already imposing substantial financial penalties and requiring the company to implement stricter safeguards.\n\nThis ruling marks a significant moment in the broader debate over technology companies’ responsibilities to minors. By labeling Meta a public nuisance and mandating a near‑billion‑dollar payment, the court sets a precedent that could influence future regulatory actions and corporate policies nationwide. The decision also signals a growing willingness among state courts to hold large platforms directly accountable for the social and psychological impacts of their services on vulnerable populations.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 15:12:23",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260807-241",
-    "title": "Trump Imposes 15% Tariff on Polysilicon Imports",
-    "slug": "trump-imposes-15-tariff-on-polysilicon-imports",
-    "content": "U.S. President Donald Trump has announced a new 15 % tariff on imported goods made with polysilicon, a key raw material used in microchip and solar‑panel production. The measure, scheduled to take effect on 4 December, targets products that are predominantly sourced from China, the world’s largest polysilicon producer. The tariff is intended to strengthen domestic supply chains for critical technologies that underpin the United States’ competitiveness in artificial intelligence and renewable energy.\n\nPolysilicon is essential for the fabrication of integrated circuits and photovoltaic cells, and its concentration in China has raised concerns about supply‑chain vulnerability. By imposing the tariff, the administration seeks to encourage domestic manufacturing of this material and reduce reliance on foreign sources. The policy aligns with broader U.S. efforts to secure strategic components against geopolitical risks and to support the growth of the domestic chip and solar‑panel industries.\n\nThe move is part of a broader strategy to counter China’s technological ascendancy. By tightening import restrictions on polysilicon, the U.S. aims to protect its semiconductor and clean‑energy sectors, ensuring that American companies can compete effectively in high‑tech markets while safeguarding national security interests.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/7/2026 15:12:18",
-    "author": "Guardian Technology",
     "isFeatured": false
   }
 ]
