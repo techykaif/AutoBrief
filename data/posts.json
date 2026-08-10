@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260810-137",
+    "title": "Raleigh Company History",
+    "slug": "raleigh-company-history",
+    "content": "The company in question has been an integral part of Nottingham's community for years, extending beyond its role as an employer to become deeply ingrained in the city's fabric. Its presence has been felt by residents and businesses alike, making it a significant component of the local landscape. As a major player in the area, the company has contributed to the city's economic growth and development, providing jobs and opportunities for countless individuals.\n\nThe company's impact on Nottingham is multifaceted, with its influence extending to various aspects of community life. It has been a source of pride for the city, with many residents having a personal connection to the company, whether through employment or other interactions. The company's commitment to the local community has been evident in its involvement in various initiatives and events, further solidifying its position as a valued and respected member of the community. As a result, the company's presence has been deeply felt, and its legacy continues to be an important part of Nottingham's identity.\n\nIn conclusion, the company's significance in Nottingham cannot be overstated, and its influence will likely be felt for years to come. As the city continues to evolve, the company's contributions to its growth and development will remain an essential part of its history and heritage. The company's enduring impact on Nottingham is a testament to the importance of community involvement and the role that businesses can play in shaping the character of a city.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/10/2026 17:03:07",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-136",
+    "title": "Scientists Create AI-Designed Viruses to Combat Drug-Resistant Bacteria",
+    "slug": "scientists-create-ai-designed-viruses-to-combat-drug-resistant-bacteria",
+    "content": "In a groundbreaking achievement, a team of scientists from Stanford University has successfully created 16 viable viruses that do not occur naturally, using artificial intelligence (AI) for their design. This pioneering experiment, published in the journal Science, has significant implications for the fight against antibiotic-resistant bacteria, commonly referred to as superbugs. By leveraging AI-designed viruses, researchers may be able to develop customized solutions to target and kill drug-resistant bacteria, which pose a major threat to global health.\n\nThe potential of this breakthrough lies in its ability to provide a new approach to combating superbugs, which have become increasingly resistant to traditional antibiotics. The AI-designed viruses, tailored to target specific bacteria, could offer a more effective and targeted solution. The publication of this research in Science has also sparked a Perspective piece by Thomas Inglesby and Moritz S. Hanke, who discuss the implications and potential applications of this work. Their commentary provides valuable context and insights into the potential benefits and challenges associated with this innovative approach.\n\nThe successful creation of AI-designed viruses marks an important milestone in the fight against superbugs, and the scientific community will be closely watching the development of this technology. As researchers continue to explore the potential of customized viruses, there is hope that this approach could lead to the development of new, effective treatments against drug-resistant bacteria. With further research and refinement, this breakthrough could ultimately contribute to saving countless lives and mitigating the impact of superbugs on global health.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 17:03:02",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-134",
+    "title": "Quantum Mechanics Applied to Voting Security",
+    "slug": "quantum-mechanics-applied-to-voting-security",
+    "content": "The integrity and secrecy of electoral processes are paramount in ensuring the legitimacy of democratic outcomes. However, achieving both transparency in vote counting and secrecy of individual votes has traditionally posed a significant challenge. Recent advancements in quantum mechanics may offer a novel solution to this longstanding dilemma. By harnessing the principles of quantum entanglement and superposition, researchers are exploring the possibility of creating voting systems that can verify the accuracy of vote counts without compromising the anonymity of individual voters.\n\nThe application of quantum mechanics in electoral processes is based on the concept of quantum cryptography, which enables the secure transmission of information over long distances. In the context of voting, this technology could be used to encode votes in a way that makes them virtually un-hackable, thereby ensuring the secrecy of individual ballots. Moreover, quantum mechanics can facilitate the creation of a verifiable and transparent record of votes, allowing election officials to confirm that all votes have been accurately counted without revealing the identity of the voters. This innovative approach has the potential to significantly enhance the trustworthiness and security of electoral systems worldwide.\n\nThe integration of quantum mechanics into voting systems is still in its infancy, and significant technical and practical hurdles need to be overcome before it can be widely implemented. Nevertheless, the potential benefits of this technology are substantial, and ongoing research in this field may ultimately lead to the development of more secure, transparent, and reliable electoral processes. As the world becomes increasingly interconnected and the importance of democratic institutions continues to grow, the application of quantum mechanics in voting systems represents a promising area of innovation that could have far-reaching implications for the future of democracy.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 17:02:52",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-132",
+    "title": "Typhoon Hits China's Zhejiang Province",
+    "slug": "typhoon-hits-china-s-zhejiang-province",
+    "content": "A dramatic incident has been captured on video in Wenzhou, a city located in China's eastern Zhejiang province, where a lorry was blown over due to severe weather conditions. The region has been experiencing heavy rain and strong winds, leading to hazardous situations for both pedestrians and vehicles. The footage of the lorry being overturned has highlighted the intensity of the weather in the area.\n\nThe heavy rain and winds in Wenzhou are part of a larger weather pattern that has been affecting the region. The strong gusts and downpour have made it challenging for residents to navigate the streets, and the incident involving the lorry serves as a reminder of the potential dangers posed by such extreme weather conditions. Authorities have likely been working to mitigate the effects of the storm and ensure public safety, although specific details about their response have not been provided.\n\nThe video of the overturned lorry has drawn attention to the severe weather in Wenzhou, underscoring the need for caution and vigilance during such events. As the city continues to experience heavy rain and winds, residents are advised to exercise caution and follow any instructions from local authorities to minimize the risk of accidents and ensure their safety. The situation in Wenzhou is a reminder of the importance of being prepared for and responding to severe weather conditions.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 17:02:43",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-129",
+    "title": "Email Authentication Protocols Explained",
+    "slug": "email-authentication-protocols-explained",
+    "content": "A recent article on Sender Ledger delves into the complexities of email authentication, highlighting the importance of three key identities: SPF, DKIM, and DMARC. These identities play a crucial role in verifying the authenticity of emails, preventing spam and phishing attacks, and ensuring that emails are delivered to their intended recipients. The article explores the intricacies of each identity, providing insight into how they work together to secure email communication.\n\nThe article explains that SPF, or Sender Policy Framework, is a protocol that helps prevent spam by verifying the IP address of the sender's mail server. DKIM, or DomainKeys Identified Mail, is a digital signature that confirms the authenticity of the email content. DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is a protocol that combines SPF and DKIM to provide a comprehensive authentication framework. By implementing these identities, email senders can significantly reduce the risk of their emails being marked as spam or blocked by recipients' mail servers. The article provides a detailed analysis of how these identities interact and how they can be used to improve email deliverability.\n\nThe discussion around email authentication has sparked interest in the developer community, with a post on Hacker News generating comments and sparking a conversation about the importance of email security. With email remaining a primary means of communication, the need for robust authentication protocols is more pressing than ever. As the article highlights, understanding and implementing SPF, DKIM, and DMARC is essential for anyone looking to secure their email communications and protect their online identity. By doing so, individuals and organizations can help prevent email-based attacks and ensure that their emails are delivered safely and reliably.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-127",
+    "title": "Meta Develops Open-Weight Model for Local AI",
+    "slug": "meta-develops-open-weight-model-for-local-ai",
+    "content": "A recent post on Twitter by user @finkd has garnered attention, with the tweet being shared and discussed on various online platforms. The tweet, which was posted with the status number 2086754845218726027, appears to have sparked interest among users, although the exact content of the tweet is not specified. As a result, the tweet has been shared and is being discussed on platforms such as Y Combinator, a popular news aggregation website.\n\nOn Y Combinator, the discussion about the tweet can be found under the item ID 49242038, where users can engage with the content and share their thoughts. However, at the time of writing, there are no comments on the discussion thread, despite the item having garnered 3 points. This suggests that while the tweet has been noted and shared by users, it has not yet prompted a significant amount of discussion or debate. The lack of comments may indicate that users are still processing the information or waiting for further context before engaging with the topic.\n\nIn conclusion, the tweet by @finkd has generated interest among online users, with the discussion being tracked on platforms such as Y Combinator. Although the tweet has been shared and noted, it has not yet prompted a significant amount of discussion, with no comments currently posted on the relevant discussion thread. As the online conversation continues to evolve, it will be interesting to see how users engage with the topic and what insights or perspectives they may share.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:20",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-126",
+    "title": "Why Each Octopus Arm Has a Mind of Its Own",
+    "slug": "why-each-octopus-arm-has-a-mind-of-its-own",
+    "content": "A fascinating aspect of octopus anatomy has come to light, highlighting the unique distribution of neurons within these marine creatures. It has been discovered that two-thirds of an octopus's neurons are located in its arms, rather than its central brain. This distinctive arrangement allows each arm to operate independently, enabling the octopus to perform complex tasks without needing to constantly consult its central nervous system.\n\nThe autonomy of an octopus's arms is exemplified by their ability to function even when detached from the rest of the body. This is made possible by the high concentration of neurons in each arm, which can act as a sort of \"mini-brain\" to control movement and respond to stimuli. Interestingly, this independence extends to the arm used for mating, which can operate on its own to facilitate the reproductive process. This level of autonomy is a testament to the remarkable adaptability and flexibility of octopuses, and has sparked significant interest among scientists and researchers seeking to understand the intricacies of their nervous system.\n\nThe discovery of the octopus's unique neural distribution has significant implications for our understanding of these creatures and their behavior. By studying the octopus's remarkable ability to control its arms independently, scientists may gain valuable insights into the evolution of nervous systems and the development of more advanced robotic technologies. As research continues to uncover the intricacies of octopus anatomy, it is likely that we will learn even more about these fascinating creatures and their remarkable abilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:14",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-120",
+    "title": "Space Mirrors Could Harm Astronomy and Human Vision",
+    "slug": "space-mirrors-could-harm-astronomy-and-human-vision",
+    "content": "Solar‑to‑Earth reflection has long been a speculative dream, but the idea is moving from theory to test flight. The concept—placing a large mirror in orbit and angling it to beam sunlight onto a chosen region—has been explored for more than a century, with Russian scientists testing the notion in the 1990s under the Znamya project. The goal is to provide continuous illumination or generate power by redirecting solar energy that would otherwise miss the planet.\n\nCalifornia‑based Reflect Orbital is now attempting to revive the concept. The company plans to launch a small prototype satellite, Eärendil‑1, as a proof‑of‑concept platform. If successful, the firm intends to build a fleet of up to 50,000 such mirrors, each capable of targeting specific geographic areas for day‑long solar illumination or power generation. The project represents a significant step toward a practical space‑based solar‑mirroring system that could complement terrestrial renewable energy sources.\n\nShould the test satellite perform as expected, Reflect Orbital would have demonstrated the feasibility of orbital solar reflectors, opening the door to a new generation of renewable energy infrastructure that operates beyond Earth’s atmosphere. The company’s next steps will involve scaling the technology, refining deployment mechanisms, and addressing regulatory and safety concerns associated with large orbital mirrors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:01:49",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-119",
+    "title": "Ford launches AI assistant in mobile apps to monitor fuel, tire pressure and vehicle data",
+    "slug": "ford-launches-ai-assistant-in-mobile-apps-to-monitor-fuel-tire-pressure-and-vehi",
+    "content": "Ford has announced the launch of a new AI‑powered assistant designed to answer questions about Ford and Lincoln vehicles. The chatbot will debut within the existing Ford and Lincoln mobile apps, enabling owners to inquire about vehicle capabilities, such as fuel consumption for an upcoming road trip or towing limits for a new motorboat. By linking directly to a customer’s vehicle, the assistant can access specific data—fuel levels, cargo capacity, towing capacity and other model‑specific details—to provide accurate, real‑time responses.\n\nThe rollout marks the first step in Ford’s broader strategy to embed conversational AI into its digital ecosystem. While the current version operates purely as a text‑based chatbot, the company plans to expand the feature set with a voice‑powered assistant in future updates. This addition will allow drivers to interact hands‑free, potentially integrating with in‑car infotainment systems and other connected services.\n\nFord’s move reflects a growing trend among automakers to leverage AI for enhancing owner experience and reducing service inquiries. By delivering instant, vehicle‑specific information, the assistant aims to streamline routine questions and help drivers make informed decisions about maintenance and usage.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:01:44",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-117",
     "title": "Moscow Hosts Paddleboard Carnival",
     "slug": "moscow-hosts-paddleboard-carnival",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/8/2026 12:41:50",
     "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-045",
-    "title": "Brandon Clarke death ruled accidental, heroin and cocaine involved",
-    "slug": "brandon-clarke-death-ruled-accidental-heroin-and-cocaine-involved",
-    "content": "Memphis Grizzlies forward Brandon Clarke, 27, was found dead on May 11, and the Tennessee medical examiner’s office has ruled the death accidental. The autopsy report cites the combined effects of heroin and cocaine as the primary factors, and officials confirmed that no foul play was involved. Toxicology tests revealed significant levels of both substances in Clarke’s system, leading investigators to conclude that the overdose was unintentional.\n\nThe Grizzlies released a brief statement expressing sorrow for Clarke’s family and friends while noting that the organization is cooperating fully with authorities. Team officials emphasized that the findings underscore the importance of ongoing efforts to address substance‑abuse issues within the professional sports community. Clarke’s death adds to a growing list of accidental overdoses among athletes, prompting renewed discussions about health and support resources for players.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 12:41:45",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-044",
-    "title": "Footballers' Families Must Relocate Quickly During Transfer Window",
-    "slug": "footballers-families-must-relocate-quickly-during-transfer-window",
-    "content": "During the summer and winter transfer windows, footballers’ families often find themselves in a state of flux, with last‑minute deals forcing rapid relocations that can span hundreds of miles. The sudden nature of these moves means that households must quickly arrange housing, school placements for children, and employment for partners, all while the player negotiates contracts and medicals. Agents and club officials typically coordinate logistics, but the emotional toll on families—especially those with young children—remains significant, as they must adapt to new neighbourhoods, cultures, and support networks in a compressed timeframe.\n\nClubs now recognise the importance of a smooth transition for players’ families, offering relocation packages that cover temporary accommodation, visa assistance, and educational support. In many cases, the clubs’ community outreach teams liaise with local schools and employers to secure suitable arrangements, while player unions provide counseling and financial planning advice. Nevertheless, the unpredictability of transfer negotiations can still lead to abrupt changes, leaving families to juggle packing, moving, and settling in new environments often with little notice.\n\nDespite these challenges, many families report that the professional support structures in place help mitigate the upheaval. The ability to secure a stable living situation quickly and to maintain continuity in children’s schooling or partners’ careers is seen as crucial for a player’s performance and well‑being. As the football calendar continues to demand rapid transitions, clubs and governing bodies are increasingly investing in comprehensive relocation programs to ensure that the human side of the sport remains as resilient as the on‑field talent.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 11:32:13",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-043",
-    "title": "Greenland Issues Warning Over Trump‑Linked Oil Firm’s Unapproved Drilling Plans",
-    "slug": "greenland-issues-warning-over-trump-linked-oil-firm-s-unapproved-drilling-plans",
-    "content": "Greenland’s eastern coast has become the focus of a new dispute after the arrival of drilling equipment from Greenland Energy, an American oil company linked to former U.S. President Donald Trump. Officials from the island’s government have stated that no formal approval has been granted for the company’s exploratory activities. The equipment, reportedly intended for the installation of wells, was brought ashore in recent days, raising concerns among local authorities about the legality of the operation.\n\nThe company’s presence comes amid heightened U.S. interest in Arctic resources, with the president repeatedly asserting claims over the region’s vast oil and gas reserves. Greenland Energy’s plans to sink wells in remote parts of the island have not been coordinated with the national regulatory framework, prompting officials to question the company’s compliance with environmental and permitting requirements. The situation remains unresolved as the government seeks clarification on the company’s intentions and the status of any necessary permits.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "8/8/2026 11:32:09",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-041",
-    "title": "Wildfire smoke raises respiratory problems and mortality concerns in Canada",
-    "slug": "wildfire-smoke-raises-respiratory-problems-and-mortality-concerns-in-canada",
-    "content": "Scientists are racing to untangle the complex links between wildfire smoke exposure and mortality as fire weather becomes increasingly common across Canada. In the spring of 2024, a series of intense fires in northern Ontario’s boreal forests sent plumes of soot and ash across the country, turning Toronto’s skyline into an “almost post‑apocalyptic” orange haze. The event has prompted a surge of research into how prolonged exposure to fine particulate matter and other combustion by‑products affects human health, especially in densely populated urban centers.\n\nErin O’Connor, chief of the emergency department at Toronto General Hospital, reported a noticeable uptick in patients with allergies, asthma exacerbations, and short‑ness of breath during the smoke episode. “It really hit you in the face as soon as you walked outside,” she said, noting that even inside the hospital the air carried a distinct burning scent. Hospital air‑filtration systems were activated to protect vulnerable patients, but the sheer volume of particulate matter forced many to seek medical attention. Researchers are now collecting clinical data, air‑quality measurements, and demographic information to model dose‑response relationships and identify high‑risk groups.\n\nThe growing body of evidence underscores the urgent need for public health interventions and policy measures to mitigate wildfire smoke impacts. By refining exposure‑mortality models, scientists hope to inform early warning systems, improve air‑conditioning standards, and guide emergency response protocols. As climate‑driven fire events are expected to rise, understanding these connections will be critical for protecting population health and reducing wildfire‑related morbidity and mortality.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 11:32:04",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-040",
-    "title": "Infantino Gains South American Football Backing at Colombian Inauguration",
-    "slug": "infantino-gains-south-american-football-backing-at-colombian-inauguration",
-    "content": "Gianni Infantino, the FIFA president, appeared at the inauguration of Abelardo de la Espriella as the new president of CONMEBOL, where he received strong support from South American football officials. The ceremony, held in Quito, Ecuador, marked a new chapter for the continent’s governing body, which has faced criticism over governance and corruption in recent years. De la Espriella, a former FIFA executive, was elected on a platform of transparency and reform, and Infantino’s presence underscored FIFA’s commitment to working closely with CONMEBOL to address these issues.\n\nDuring the event, Infantino thanked South American stakeholders for their confidence and pledged continued collaboration on development projects, including youth academies and infrastructure improvements across the region. The partnership aims to streamline coordination between FIFA and CONMEBOL, ensuring that reforms are implemented and that the continent’s national teams receive adequate support for upcoming international competitions. The inauguration, attended by representatives from 12 member associations, signals a renewed focus on accountability and growth within South American football.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 11:31:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-039",
-    "title": "Violence forces displacement of Palestinian Christians in Gaza, Jerusalem and West Bank",
-    "slug": "violence-forces-displacement-of-palestinian-christians-in-gaza-jerusalem-and-wes",
-    "content": "Palestinian Christians in Gaza, Jerusalem and the occupied West Bank are experiencing a surge of violence and forced displacement, according to reports from local NGOs and international observers. In recent weeks, churches and Christian neighborhoods have been targeted by clashes between Israeli security forces and Palestinian protestors, with several incidents of property damage and physical assaults documented in Gaza’s Rafah and Khan Younis, as well as in East Jerusalem’s Christian Quarter.\n\nThe displacement crisis has intensified as families flee from areas of heightened conflict, citing fear of ongoing raids and the threat of further attacks. Humanitarian groups estimate that more than 3,000 Christian residents have left their homes in the West Bank, while in Gaza, at least 1,200 families have sought refuge in temporary shelters. These movements mirror a broader trend of Christian communities feeling increasingly vulnerable amid the broader Israeli‑Palestinian conflict, which has seen a rise in targeted violence and restrictions on movement.\n\nInternational human rights monitors have called for an immediate end to the violence and for the protection of minority communities. They emphasize that the displacement of Christian families not only exacerbates humanitarian needs but also threatens the cultural and religious diversity that has long characterized the region. The situation remains fluid, with ongoing calls for dialogue and security guarantees to prevent further harm to these communities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 11:31:53",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-038",
-    "title": "Bangladesh rules out Shakib Al Hasan's return to cricket",
-    "slug": "bangladesh-rules-out-shakib-al-hasan-s-return-to-cricket",
-    "content": "Shakib Al Hasan, Bangladesh’s premier all‑rounder, announced that he is prepared to return to his home country to face the pending legal proceedings, provided that the authorities guarantee his personal safety. The cricketer, who has been residing abroad since the charges were filed, said the assurance would enable him to attend court without jeopardising his well‑being, and he expressed a willingness to cooperate with the judicial process.\n\nDespite Shakib’s statement, the Bangladesh Cricket Board (BCB) confirmed that there are no plans for his immediate reinstatement to the national side. The board cited the ongoing legal case and the need to maintain the integrity of the sport as reasons for keeping him out of upcoming fixtures. The BCB reiterated its commitment to supporting the legal process while upholding its selection policies, leaving Shakib’s cricketing future uncertain until the trial concludes.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 11:31:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-037",
-    "title": "Hundreds camp on Rome street after fire clears squatted building",
-    "slug": "hundreds-camp-on-rome-street-after-fire-clears-squatted-building",
-    "content": "A fire erupted in a multi‑storey building earlier this week, prompting emergency services to extinguish the blaze and subsequently order the structure’s clearance. Officials cited safety concerns as the primary reason for the rapid evacuation and demolition of the damaged premises, noting that the building’s structural integrity could not be guaranteed following the incident.\n\nActivists, however, have characterized the clearance as a politically motivated action, alleging that the decision was influenced by broader governmental pressures rather than purely safety considerations. They called for an independent inquiry to assess the motives behind the swift removal, while authorities maintain that the response adhered to standard emergency protocols. The situation remains under review as both sides await further clarification.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 11:31:44",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-036",
-    "title": "APOD 2026-08-08: Tempel 2 Comet",
-    "slug": "apod-2026-08-08-tempel-2-comet",
-    "content": "Astronomy Picture of the Day (APOD) released its August 8, 2026 image today, continuing the long‑standing tradition of presenting a new astronomical photograph each day. The site, operated by the Smithsonian Astrophysical Observatory, features a different image or photograph of the universe accompanied by a concise explanation written by a professional astronomer.\n\nThe August 8 entry showcases a Messier object, offering viewers a fresh view of one of the catalog’s well‑known targets. In addition to the image, APOD’s brief commentary provides context about the object’s characteristics and significance, reinforcing the educational mission of the program. The photo and its accompanying text are archived in APOD’s searchable database, which also includes tools for browsing submissions, searching by keyword, and accessing related educational resources.\n\nUsers can view the image and its explanation through APOD’s website, where the archive remains freely available for public use. The daily release continues to serve as a resource for both amateur astronomers and the general public, fostering interest in the cosmos through accessible, professionally curated content.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/8/2026 10:42:26",
-    "author": "NASA News",
     "isFeatured": false
   }
 ]
