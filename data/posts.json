@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260810-164",
+    "title": "Global Food Prices Rise Amid Ukraine Conflict",
+    "slug": "global-food-prices-rise-amid-ukraine-conflict",
+    "content": "The Russian invasion of Ukraine in February 2022 sent shockwaves through global energy and food markets. The conflict had an almost immediate impact, with international crude oil and natural gas prices experiencing a sharp increase in the first year of the war. This surge in energy prices was largely driven by concerns over supply disruptions and the potential for a prolonged conflict. As a result, many countries faced significant challenges in maintaining a stable energy supply, leading to increased costs for consumers and businesses alike.\n\nThe conflict also had a profound impact on global food markets, particularly with regards to exports from Russia and Ukraine. Both countries are major producers of essential food commodities, including wheat, maize, sunflower oil, and fertilizers. However, the war disrupted these exports, leading to record global food prices. The shortage of these critical commodities had far-reaching consequences, affecting food security and affordability in many parts of the world. The combined effects of the energy and food price increases posed significant challenges to economies and households worldwide, exacerbating existing social and economic inequalities.\n\nIn conclusion, the Russian invasion of Ukraine has had a profound and lasting impact on global energy and food markets. The sharp increases in energy and food prices have created significant challenges for countries and households around the world, highlighting the complex and interconnected nature of global trade and commerce. As the conflict continues to unfold, it remains to be seen how these markets will evolve and what long-term consequences will arise from this unprecedented disruption to global trade and economic stability.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 17:43:19",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-162",
+    "title": "Language Adoption Failure",
+    "slug": "language-adoption-failure",
+    "content": "A recent post on bytecode.news has sparked interest, with a title that suggests a tongue-in-cheek commentary on the current state of affairs, stating \"because it's not fun enough.\" The article, published in 2026, has garnered attention and received 10 points. Despite the intriguing title, the post itself is not available for analysis, leaving the interpretation of its content open to speculation.\n\nThe discussion around this post has been directed to the comments section on news.ycombinator.com, where it has been assigned an item ID of 49242245. However, at the time of reporting, there were no comments made on the post, indicating that the conversation has not yet begun or has been slow to start. The lack of comments suggests that the post may not have resonated with readers or that it has not been widely shared, despite receiving some initial attention.\n\nIn conclusion, the post \"because it's not fun enough\" on bytecode.news has generated some interest, but its impact and the conversation surrounding it remain limited. As the discussion has been redirected to the comments section on news.ycombinator.com, it is likely that the post's content and relevance will be debated and explored further by readers in the coming days, providing more insight into its significance and the reactions it elicits.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:43:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-161",
+    "title": "C Programming Language Gets Tail-Call Optimization",
+    "slug": "c-programming-language-gets-tail-call-optimization",
+    "content": "A recent article published on LWN.net has garnered attention, with 13 points and a discussion thread on Ycombinator. The article, which can be found at https://lwn.net/Articles/1034703/, explores a specific topic in the realm of technology. Although the exact subject matter of the article is not immediately clear from the provided information, it is evident that the piece has sparked interest among readers.\n\nThe discussion surrounding the article is hosted on Ycombinator, a platform known for facilitating conversations about technology and startup-related news. The comments section, accessible at https://news.ycombinator.com/item?id=49242297, currently has no comments, indicating that the conversation has yet to begin. As the discussion unfolds, it is likely that readers will share their insights, ask questions, and engage in a meaningful exchange of ideas related to the article's topic. The fact that the article has already accumulated 13 points suggests that it has resonated with the community, and the forthcoming discussion will likely provide valuable context and perspectives.\n\nIn conclusion, the article on LWN.net has generated interest among technology enthusiasts, and the upcoming discussion on Ycombinator is expected to provide further insight into the topic. As the conversation develops, readers can expect to gain a deeper understanding of the subject matter and engage with others who share similar interests. The exchange of ideas and opinions will likely enrich the readers' understanding of the topic, making the article and its accompanying discussion a valuable resource for those interested in the field.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:43:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-158",
+    "title": "Man Creates Online Tutorials for Homemade Drugs",
+    "slug": "man-creates-online-tutorials-for-homemade-drugs",
+    "content": "Willy Myco, an online personality, has garnered significant attention for his extensive video library, which comprises over 120 tutorials detailing the step-by-step process of creating various psychoactive substances. His videos cover a wide range of topics, including the production of LSD and DMT vapes, providing viewers with a comprehensive understanding of the chemical processes involved. Through his online platform, Willy Myco has established himself as a prominent figure in the realm of psychoactive substance production, attracting a sizable following.\n\nHowever, not everyone is supportive of Willy Myco's methods and the content he creates. Critics argue that by sharing detailed instructions on how to produce controlled substances, he may be inadvertently contributing to the proliferation of illicit drug use and potentially harming individuals who may not fully understand the risks associated with these substances. Furthermore, the dissemination of such information raises concerns about the potential for misuse and the challenges it poses for law enforcement and regulatory agencies tasked with controlling the spread of illicit substances.\n\nIn conclusion, Willy Myco's online presence has sparked a debate about the responsible sharing of information related to psychoactive substance production. While his videos may be intended for educational or informational purposes, they also highlight the complexities and risks associated with the online dissemination of sensitive information. As the online landscape continues to evolve, it is essential to consider the potential consequences of such content and the need for awareness and caution when engaging with it.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:42:49",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-157",
+    "title": "Aptoide App Store Available on Google Play",
+    "slug": "aptoide-app-store-available-on-google-play",
+    "content": "In a significant development, Google has introduced a dedicated section within the Google Play Store for third-party app stores, with Aptoide being the first to be featured. This move allows US Android users to download and access a third-party digital store directly from the Play Store, marking a shift in Google's approach to app distribution. Aptoide, a store that specializes in mobile games, offers a distinct selection of apps that can now be easily discovered and installed by users.\n\nThe availability of third-party app stores on Android is not new, as the platform has traditionally been more open than iOS in this regard. However, until now, these stores were only accessible if they were pre-installed on a device, such as the Amazon Appstore on Fire tablets or Samsung's Galaxy Store, or if users opted to install them via sideloading. By listing rival storefronts within the Play Store, Google is making it considerably easier for users to discover and install these alternative app stores, potentially expanding the range of apps available to Android users.\n\nThe introduction of third-party app stores within the Google Play Store comes amid Google's ongoing legal battles with Epic, and may be seen as a response to evolving market dynamics and regulatory pressures. As the first third-party app store to be featured, Aptoide's inclusion sets the stage for other stores to follow, potentially transforming the way users discover and install apps on Android devices. This development is likely to have significant implications for the Android ecosystem, and its impact will be closely watched by industry observers and users alike.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:42:43",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-155",
+    "title": "AI Era Challenges Peer Review System",
+    "slug": "ai-era-challenges-peer-review-system",
+    "content": "The rapid growth of research and the increasing use of AI-assisted papers have led to a surge in submissions to academic journals, putting a significant strain on the volunteer reviewers who play a crucial role in the peer-review process. These reviewers, often experts in their fields, dedicate their time to carefully evaluating the quality and validity of research papers, ensuring that only high-quality work is published. However, with the exponential increase in submissions, many reviewers are finding it challenging to keep up with the demand, leading to concerns about the potential impact on the integrity and timeliness of the peer-review process.\n\nThe issue is further complicated by the fact that many reviewers are already shouldering a heavy workload, with some reporting that they are reviewing up to 20 or more papers per year. As a result, some reviewers are being forced to decline invitations to review, or are taking longer to complete their reviews, which can delay the publication of important research. Additionally, the rise of AI-assisted papers has introduced new challenges, as reviewers must now also assess the role of artificial intelligence in the research and ensure that it is being used appropriately. Journal editors and publishers are exploring ways to address the issue, including recruiting more reviewers and implementing new technologies to streamline the review process.\n\nAs the academic community continues to grapple with the challenges posed by the surge in research submissions, it is clear that finding a solution will be essential to maintaining the integrity and quality of academic publishing. By supporting volunteer reviewers and exploring innovative solutions to the peer-review process, journals and publishers can help ensure that high-quality research continues to be published in a timely and efficient manner, ultimately advancing knowledge and understanding in their respective fields.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:42:33",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-154",
+    "title": "Google Play Adds Venmo Payment Option",
+    "slug": "google-play-adds-venmo-payment-option",
+    "content": "In a significant development, users can now add Venmo as a payment method to Google Play, marking a notable expansion of the popular peer-to-peer payment service. This move comes at a time when individuals are increasingly spending more money on apps and games, highlighting the growing importance of convenient and seamless payment options. As the app ecosystem continues to evolve, the integration of Venmo with Google Play is expected to provide users with greater flexibility and ease in making purchases.\n\nThe ability to link Venmo to Google Play accounts enables users to make purchases and subscriptions using their Venmo balance or linked funding sources, such as credit or debit cards. This integration is likely to be particularly appealing to users who regularly make purchases on the Google Play Store, as it eliminates the need to enter payment information for each transaction. Furthermore, the addition of Venmo as a payment option may also help to increase user engagement and drive sales within the Google Play ecosystem, as users take advantage of the convenience and simplicity offered by the service.\n\nThe introduction of Venmo as a Google Play payment method reflects the ongoing shift towards digital payments and the growing demand for streamlined and user-friendly transaction experiences. As the digital landscape continues to evolve, it is likely that we will see further integrations and innovations in the payments space, aimed at enhancing the overall user experience and driving growth in the app and gaming industries. With the Venmo integration, Google Play users can now enjoy a more seamless and convenient payment experience, making it easier to discover and enjoy their favorite apps and games.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:42:26",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-152",
+    "title": "Colombian Forces Kill Six Rebels",
+    "slug": "colombian-forces-kill-six-rebels",
+    "content": "A recent operation conducted by Colombian forces in the Antioquia department, located in the northwest of the country, has resulted in the deaths of six individuals. The operation, which took place on Sunday, targeted two prominent groups: a splinter faction of the former FARC guerrilla group and the Gulf Clan, Colombia's main drug cartel. The FARC, or Revolutionary Armed Forces of Colombia, was a leftist guerrilla organization that was involved in the country's conflict for decades before a peace agreement was reached in 2016.\n\nThe six killed in the operation include four members of the FARC splinter faction and two members of the Gulf Clan. The FARC splinter faction is comprised of former guerrilla fighters who refused to lay down their arms and demobilize following the peace agreement. The Gulf Clan, on the other hand, is a notorious drug cartel that has been involved in various criminal activities, including drug trafficking and extortion. The operation is a significant blow to both groups, and it highlights the ongoing efforts of Colombian forces to combat organized crime and guerrilla activity in the country.\n\nThe operation in Antioquia department is part of a broader effort by the Colombian government to maintain security and stability in the region. The government has been working to dismantle organized crime groups and guerrilla factions, and to bring perpetrators of violence to justice. The success of this operation demonstrates the commitment of Colombian forces to addressing the country's security challenges, and it is likely to have a positive impact on the safety and well-being of local communities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 17:42:16",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-146",
+    "title": "Jharkhand Protesters Demand Overhaul of State Exam System",
+    "slug": "jharkhand-protesters-demand-overhaul-of-state-exam-system",
+    "content": "Demonstrators in Ranchi have staged a protest demanding a comprehensive overhaul of Jharkhand’s examination system. The rally, which began early this morning outside the state assembly complex, was organized by a coalition of students, teachers and parent‑teacher associations who argue that current assessment practices are outdated, favour rote learning and fail to reflect students’ real abilities.\n\nParticipants called for the introduction of continuous and comprehensive evaluation, greater transparency in grading, and the adoption of technology‑enabled testing to reduce administrative bottlenecks. They also urged the state government to review the curriculum and teacher‑training programmes to align them with national standards. The protest was peaceful, and local police were deployed to maintain order. State officials have pledged to examine the demands and to convene a working group to propose reforms in the coming weeks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 17:41:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-145",
+    "title": "UEFA Super Cup 2024: PSG vs Aston Villa match details, start time and broadcast",
+    "slug": "uefa-super-cup-2024-psg-vs-aston-villa-match-details-start-time-and-broadcast",
+    "content": "The UEFA Super Cup will pit the reigning Champions League champions against the Europa League winners for the season’s marquee showdown, scheduled for August 15 at the newly renovated Stade de France in Paris. The 71‑year‑old stadium, which boasts a 80,000‑seat capacity and state‑of‑the‑art pitch technology, was selected by UEFA in March after a competitive bidding process that highlighted its recent upgrades and central location. The match will be broadcast live across Europe and in key markets worldwide, with ticket sales opening next week and a limited allocation for club supporters.\n\nSince its inception in 1972, the Super Cup has served as a one‑off contest to crown Europe’s ultimate club side, traditionally held at neutral venues but increasingly rotating among host cities to broaden the competition’s appeal. Past editions have seen iconic clashes, including Barcelona’s 2015 triumph over Sevilla and Liverpool’s 2019 victory over Chelsea, each adding to the fixture’s reputation for high‑intensity football. The upcoming encounter marks the first time Paris will host the event since 1998, and it follows a season in which the Champions League winners secured a record‑breaking 23‑goal haul in the final, while the Europa League champions claimed their title with a dramatic penalty shoot‑out.\n\nThe Super Cup will therefore not only provide a preview of the forthcoming domestic campaigns but also continue the tournament’s legacy of showcasing Europe’s elite clubs on a grand stage. Organisers anticipate a sell‑out crowd, robust global viewership, and a competitive match that could set the tone for the clubs’ ambitions in the coming season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 17:41:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-143",
     "title": "Dakota Ditcheva Suffers Hand Injuries",
     "slug": "dakota-ditcheva-suffers-hand-injuries",
@@ -5386,116 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/8/2026 13:31:44",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-059",
-    "title": "Family watches Birmingham Phoenix vs Welsh Fire Hundred match at Edgbaston",
-    "slug": "family-watches-birmingham-phoenix-vs-welsh-fire-hundred-match-at-edgbaston",
-    "content": "A family outing to Edgbaston on Saturday afternoon turned into a local sports event as the Birmingham Phoenix faced Welsh Fire in the men’s Hundred. The match, held at the historic ground, ended in a decisive victory for the visitors, with the hosts struggling to keep pace throughout the innings. Earlier that day, the Phoenix women had secured a win, providing a contrasting highlight for the venue’s supporters.\n\nThe game attracted a mixed crowd, including families who followed the action from the stands. Among them was a young fan who, despite initial restlessness, was encouraged by the atmosphere and received a pair of foam meerkat paw stickers and a large red‑and‑orange Phoenix flag as a souvenir. The gesture, offered by a volunteer, helped maintain the child’s enthusiasm for the sport despite the team’s loss.\n\nThe event underscores the community role of cricket in the region, drawing both seasoned supporters and new fans alike. While the Birmingham Phoenix’s performance fell short, the match offered a platform for local engagement and family participation, reinforcing the sport’s appeal to a broad audience.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 12:42:50",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-057",
-    "title": "Ewan and Ewen Murray Discuss Case of Mistaken Identity",
-    "slug": "ewan-and-ewen-murray-discuss-case-of-mistaken-identity",
-    "content": "Guardian journalist Ewan Murray and Sky Sports golf commentator Ewen Murray were recently embroiled in a case of mistaken identity that sparked a brief but intense backlash from fans. The confusion began when an angry email circulated in early 2011 from a disgruntled Arizona fan who wrote, “I don’t know what it is like in your country, sir. But here in America we SPIT!!!” The message was mistakenly addressed to the Guardian’s Ewan Murray, but it was actually intended for the Sky Sports commentator. The misdirected rant was amplified when the commentator’s live commentary on a Tiger Woods incident in Dubai—where Woods was seen emptying his mouth on a putting surface—was taken as criticism of the Guardian journalist.\n\nThe mix‑up led to a wave of frustration from “canteen commandos” and other fans who believed they were confronting the wrong Murray. Social media threads and online forums quickly filled with calls for clarification, and the Guardian’s editorial team issued a brief statement confirming that the two individuals are unrelated and that the email had been misdirected. The incident underscores the importance of accurate attribution in the age of rapid online communication, especially when two professionals share a name and operate in overlapping media circles.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 12:42:42",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-056",
-    "title": "Man City Sign Rulli From Marseille",
-    "slug": "man-city-sign-rulli-from-marseille",
-    "content": "Manchester City have confirmed the signing of Argentine goalkeeper Gerónimo Rulli from Olympique de Marseille, completing a deal that will see the 31‑year‑old join the Premier League club on a free transfer. Rulli, who has been a regular in Marseille’s backline since 2019, will replace the departing goalkeeper in the City squad, with the move officially announced on Monday.\n\nThe transfer, which involved no transfer fee, was agreed after City’s coaching staff evaluated Rulli’s experience in both Ligue 1 and international competition, noting his strong shot‑stopping record and composure under pressure. Rulli will join the squad ahead of the 2026‑27 season, adding depth to a goalkeeping department that has been a focus of the club’s recent recruitment strategy. He is expected to compete for the number one spot and provide a reliable backup option.\n\nWith the deal now finalized, City’s management expressed confidence that Rulli’s arrival will enhance the team’s defensive stability. The Argentine will report to training next week, where he will begin integrating with the club’s first‑team setup and preparing for the upcoming campaign.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 12:42:37",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-055",
-    "title": "EFL Cup's Wildest Scorelines",
-    "slug": "efl-cup-s-wildest-scorelines",
-    "content": "BBC Sport has highlighted some of the most dramatic moments the EFL Cup has delivered in recent years, as the tournament prepares to launch its new season. The analysis, released ahead of the opening fixtures, catalogues matches that have stunned fans with lopsided scorelines and unexpected twists, underscoring the cup’s reputation for unpredictability.\n\nThe review points to a handful of standout games: a 9‑0 rout of a lower‑division side by a Premier League club, a 7‑1 thrashing that saw a top‑flight team break its own record for most goals in a single cup match, and a 6‑5 thriller that ended in a penalty shoot‑out after extra time. It also notes the occasional “giant‑killer” upset, such as a Championship side defeating a Premier League giant in a 3‑2 win, and the 5‑4 comeback that saw a team overturn a 2‑0 deficit to win on penalties. These examples illustrate the cup’s capacity for high‑scoring, high‑stakes drama that keeps supporters on edge.\n\nWith the new season’s fixtures announced, the EFL Cup is poised to deliver more surprises. BBC Sport’s coverage promises to keep fans informed of the latest upsets, record‑breaking performances, and the ever‑present possibility that any match could produce a headline‑making scoreline.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 12:42:31",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-054",
-    "title": "Newcastle's Jaissle to Lead First Friendly vs Valencia",
-    "slug": "newcastle-s-jaissle-to-lead-first-friendly-vs-valencia",
-    "content": "Newcastle United announced that Matthias Jaissle will take charge of the club’s first pre‑season friendly against Valencia, marking the start of a new era for the Magpies. The appointment follows the dismissal of former head coach Eddie Howe, and Jaissle’s arrival signals a shift toward a more modern, data‑driven approach.\n\nJaissle, who previously managed Bayer Leverkusen in Germany’s Bundesliga, will oversee the 2–0 match at St James’ Park on 30 July. The fixture, part of Newcastle’s preparation for the upcoming Premier League season, will test the new coach’s tactics and squad cohesion against a technically proficient Spanish side.\n\nThe game is expected to provide a benchmark for Jaissle’s integration into the club and a preview of the style he intends to bring to Newcastle. A positive result could boost confidence ahead of the first competitive fixtures, while the experience will inform his subsequent training and selection strategies.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/8/2026 12:42:26",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-053",
-    "title": "Silver Nanocatalyst Switches Reaction Sites for Power Generation and Hydrogen Production",
-    "slug": "silver-nanocatalyst-switches-reaction-sites-for-power-generation-and-hydrogen-pr",
-    "content": "Researchers have identified that a silver (Ag) nanocatalyst functions at distinct reaction sites within solid oxide cells depending on whether the device is operating in power‑generation mode or as a hydrogen‑producing electrolyzer. The discovery, made by a multidisciplinary team, shows that the same catalyst can adapt its active sites to the differing electrochemical demands of each mode, a behavior not previously documented for nanocatalysts in solid oxide technology.\n\nThe study demonstrates that during electricity generation the Ag nanocatalyst preferentially facilitates oxygen reduction reactions at specific lattice sites, whereas in hydrogen production it shifts to sites that favor water oxidation and hydrogen evolution. This mode‑dependent site selectivity suggests that catalyst architecture can be tuned to optimize performance for each application. By designing cells that exploit these dual‑site capabilities, engineers can potentially reduce catalyst loading, lower operating temperatures, and extend component lifetimes.\n\nThe finding introduces a new design principle for next‑generation solid oxide cells: tailoring nanocatalyst site distribution to the intended operating mode. If applied in commercial devices, this approach could improve energy efficiency and cost‑effectiveness for both power generation and hydrogen production, accelerating the deployment of solid oxide technology in the broader energy transition.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/8/2026 12:42:21",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-052",
-    "title": "Teen Cannabis Use Linked to Slower Cognitive Development",
-    "slug": "teen-cannabis-use-linked-to-slower-cognitive-development",
-    "content": "Teenagers who begin using cannabis may experience a deceleration in the development of key cognitive functions, according to recent research. The study found that memory, attention, language, and processing speed—areas that typically improve steadily during adolescence—tended to plateau in users while non‑users continued to show gains.  \n\nThe findings suggest that the onset of cannabis use does not immediately impair cognition but can alter its trajectory over time. Researchers identified tetrahydrocannabinol (THC) as the most likely contributor, particularly in relation to declines in memory performance. The data indicate that early exposure to THC may interfere with the normal maturation of neural circuits involved in these cognitive domains.  \n\nThese results underscore the importance of monitoring adolescent cannabis use and its potential long‑term effects on brain development. Further investigation is needed to clarify the mechanisms involved and to guide public health recommendations.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/8/2026 12:42:16",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-051",
-    "title": "Scientists Achieve Quantum Entanglement Using Sunlight",
-    "slug": "scientists-achieve-quantum-entanglement-using-sunlight",
-    "content": "Scientists have demonstrated that quantum entanglement can be generated directly from sunlight, offering a lower‑energy alternative to the high‑power lasers traditionally used in quantum experiments. In an outdoor setup, researchers illuminated a specially designed crystal with natural solar radiation and measured the resulting photon pairs. The entangled photons exhibited a fidelity of approximately 94 % relative to an ideal Bell state, indicating that the sunlight‑derived entanglement is highly coherent and suitable for practical use.\n\nThe experiment underscores the feasibility of harnessing ambient light for quantum information tasks, potentially simplifying the hardware required for quantum satellites and ground‑based communication links. By eliminating the need for bulky laser systems, the approach could reduce launch mass and power consumption for space‑borne quantum platforms, while also enabling more energy‑efficient quantum computing architectures that rely on entangled photon sources. The high fidelity achieved in this first outdoor demonstration suggests that further refinements could bring sunlight‑generated entanglement to the threshold required for secure quantum key distribution and other quantum networking protocols.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/8/2026 12:42:11",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-050",
-    "title": "Nitecore Releases Lightest 10,000mAh Power Bank",
-    "slug": "nitecore-releases-lightest-10-000mah-power-bank",
-    "content": "Nitecore has launched the fourth generation of its NB10000 ultralight power bank, targeting users who prioritize minimal weight and size in portable charging solutions. Priced at $83.95, the device offers a 10,000 mAh capacity while weighing 146 grams, according to measurements taken by reviewers. The manufacturer’s specifications list dimensions of 1.45 × 11.6 × 4.68 cm (0.57 × 4.57 × 1.84 in), positioning it as the most compact and lightweight model in its capacity class currently available on the market.\n\nThe NB10000 Gen 4’s reduced mass and compact form factor are intended to appeal to backpackers, bikepackers, and trail runners who seek to minimize the load of ancillary gear. Reviewers have noted that the power bank’s size and weight represent a significant reduction compared with previous generations and competing products, potentially allowing users to carry a high‑capacity charger without compromising overall pack weight. The product is now available for purchase, with further details published in a review by The Verge.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/8/2026 12:42:06",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260808-048",
-    "title": "U.S. Announces $1 Billion Security Aid for Colombia as New President Takes Office",
-    "slug": "u-s-announces-1-billion-security-aid-for-colombia-as-new-president-takes-office",
-    "content": "The U.S. State Department announced late Friday that the Trump administration will provide $1 billion in security assistance to Colombia, coinciding with the inauguration of the country’s new president, Abelardo De la Espriella. The funding is part of a broader U.S. effort to support Colombia’s counter‑insurgency and drug‑trafficking operations.\n\nDe la Espriella, who introduced himself as “The Tiger,” took the oath of office at a military garrison in Cali and pledged to “defeat narco‑terrorists” in his first speech. His campaign focused on strengthening the armed forces, intelligence capabilities, and law‑enforcement cooperation with neighboring states. The U.S. aid package is intended to bolster these initiatives, providing equipment, training, and logistical support to counter the influence of drug cartels and related violent groups.\n\nThe announcement underscores Washington’s continued commitment to Colombia’s security and stability, while signaling a willingness to invest in the nation’s efforts to curb narcotics trafficking and insurgent activity. The assistance is expected to enhance Colombia’s operational capacity and reinforce the bilateral partnership between the two countries.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/8/2026 12:42:01",
     "author": "France 24",
     "isFeatured": false
   }
