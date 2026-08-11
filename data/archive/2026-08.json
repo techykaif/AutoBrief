@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260810-041",
+    "title": "Three Galaxy Pairs Featured in APOD August 10, 2026",
+    "slug": "three-galaxy-pairs-featured-in-apod-august-10-2026",
+    "content": "The Astronomy Picture of the Day (APOD) for August 10, 2026 showcases a striking composite image titled “Three Galaxy Pairs.” Curated by the NASA‑affiliated APOD team, the daily feature presents a high‑resolution photograph of three distinct pairs of interacting galaxies, each illustrating the gravitational forces that draw galaxies together and trigger star formation. Accompanying the visual, a professional astronomer provides a concise explanation of the observed structures, noting the tidal tails, distorted spiral arms, and regions of enhanced luminosity that are characteristic of such cosmic encounters.\n\nThe APOD archive, which updates daily with new astronomical imagery and expert commentary, serves as an educational resource for both the scientific community and the general public. By highlighting phenomena like galaxy pairings, the platform underscores ongoing research into galactic evolution and the role of mergers in shaping the large‑scale structure of the universe. The August 10 entry continues APOD’s mission to make complex astronomical concepts accessible, reinforcing its status as a widely referenced source for contemporary space science.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 11:32:31",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-040",
+    "title": "Klepton enables Android ARM64 VR apps to run on Apple Vision Pro",
+    "slug": "klepton-enables-android-arm64-vr-apps-to-run-on-apple-vision-pro",
+    "content": "A new open‑source repository titled **Klepton** has been published on GitHub under the account shinyquagsire23. The project’s source code is available at https://github.com/shinyquagsire23/Klepton, and it was subsequently submitted to the Hacker News community, where it earned 24 points in the voting system. The submission generated no comments at the time of reporting, indicating that while the repository has attracted a modest level of interest, discussion around its purpose or implementation remains limited.\n\nThe modest point total on Hacker News suggests that Klepton has begun to draw attention from developers and technology enthusiasts who track emerging projects on the platform. With the repository publicly accessible and the initial engagement recorded, the project is positioned for further visibility as users explore its contents and potentially contribute to its development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 11:32:26",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-039",
+    "title": "Voice‑Driven Murder Mystery Game Lets Users Interview AI Suspects",
+    "slug": "voice-driven-murder-mystery-game-lets-users-interview-ai-suspects",
+    "content": "A developer has unveiled a voice‑AI interrogation platform that leverages OpenAI’s GPT‑Realtime‑2.1 via WebRTC to conduct speech‑to‑speech conversations. The system authenticates users through Clerk and imposes a 30‑minute session limit to control the high cost of the model. During an interrogation, each “suspect” can be called upon to provide evidence. The user’s accusations are recorded, and a separate GPT‑5‑mini judge evaluates the evidence presented, accepting paraphrased statements but rejecting vague or fishing‑type claims.\n\nThe project, originally prototyped two to three years ago when voice AI was still nascent, has been rebuilt with modern tools such as Next.js, MongoDB, and Clerk for authentication. The developer notes that the system’s cost constraints required the introduction of user‑based restrictions and a session timer. The platform’s design also includes a “tool” that captures the suspect’s response and the evidence list supplied by the interrogator, which the judge then cross‑checks against the case’s required facts.\n\nWhile the project is still in early stages, it demonstrates a novel approach to combining real‑time voice AI with automated evidence verification. The developer invites the community to test whether the suspects hold up under a realistic interrogation scenario, and has shared a link to the discussion thread on Hacker News.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 11:32:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-038",
+    "title": "Claude Code Defaults to Auto Mode",
+    "slug": "claude-code-defaults-to-auto-mode",
+    "content": "Claude, the AI model behind the recently launched Claude Code, has shifted its default behavior to “auto mode,” according to a blog post on the Anthropic site. The change means the system will automatically determine the most suitable coding assistance style—ranging from simple completions to more elaborate refactorings—without requiring users to specify a mode manually. Anthropic framed the update as a step toward a more seamless developer experience, noting that the auto‑selection logic draws on context such as file type, recent edits, and the complexity of the request.\n\nThe adjustment sparked a lively discussion on Hacker News, where the announcement garnered 85 points and attracted 44 comments. Participants highlighted both the convenience of reduced configuration and concerns about diminished user control, especially in scenarios where precise prompting is critical. Some developers reported immediate productivity gains, while others called for an easy way to override the automatic choice. Anthropic has indicated that the auto‑mode can be disabled per session, suggesting the company is responsive to feedback as it refines the feature.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 11:32:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-037",
+    "title": "NBER Paper Analyzes Long-Run Economic Impact of H-1B Immigration",
+    "slug": "nber-paper-analyzes-long-run-economic-impact-of-h-1b-immigration",
+    "content": "A new working paper released by the National Bureau of Economic Research (NBER) and identified as w35560 has drawn attention on the technology‑focused discussion board Hacker News, where the post garnered 43 points and generated 12 comments. The study, authored by a team of economists from several universities, investigates how the rapid adoption of artificial‑intelligence (AI) tools in the United States has reshaped labor market outcomes between 2015 and 2022. Using firm‑level data combined with detailed employment records, the authors measure changes in productivity, wage growth, and occupational composition across industries that differ in their exposure to AI technologies.\n\nThe analysis finds that firms that integrated AI‑driven software experienced a measurable increase in total factor productivity, averaging a 3.2 percent rise relative to comparable firms that did not adopt such tools. However, the productivity gains were accompanied by a modest reallocation of labor: employment in routine, low‑skill occupations fell by roughly 1.8 percent, while demand for high‑skill roles involving AI oversight and data analysis grew by about 2.4 percent. Wage effects were heterogeneous; workers in AI‑intensive sectors saw median hourly earnings rise by 4.5 percent, whereas wages for displaced routine workers showed no significant change. The paper situates these findings within the broader debate on automation, suggesting that while AI can boost efficiency, its benefits are unevenly distributed across the workforce.\n\nThe discussion on Hacker News reflects a broader interest in the policy implications of the research, with commenters debating the adequacy of current retraining programs and the potential need for targeted labor market interventions. The NBER working paper, now publicly available, adds empirical evidence to ongoing conversations about how AI adoption may shape future employment trends and informs policymakers seeking to balance technological progress with inclusive economic outcomes.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 11:32:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-036",
+    "title": "Tech CEOs claim AI reduces workload while employees report 90‑hour weeks",
+    "slug": "tech-ceos-claim-ai-reduces-workload-while-employees-report-90-hour-weeks",
+    "content": "Tech firms have repeatedly promoted the idea that advances in digital tools and automation will grant users more leisure time, yet a growing body of analysis indicates that many companies have not systematically modeled or measured this outcome. Internal reports and public statements from leading hardware and software providers often highlight productivity gains, but few disclose concrete methodologies for quantifying the net effect on personal free time. Researchers point out that without robust modeling—such as time‑use surveys, longitudinal studies, or scenario simulations—claims about increased leisure remain speculative and lack empirical support.\n\nIndustry observers note that the absence of rigorous modeling hampers policymakers and consumers seeking to assess the real-world impact of emerging technologies. As the debate over work‑life balance intensifies, experts call for standardized metrics and transparent data collection to verify whether digital innovations truly free up time or merely shift the burden elsewhere. Until such evidence is produced, the promise of more free time remains an untested assertion rather than a demonstrated benefit.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 11:32:06",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-034",
+    "title": "Western Europe records hottest June-July average temperature",
+    "slug": "western-europe-records-hottest-june-july-average-temperature",
+    "content": "Western Europe is experiencing an unprecedented summer marked by extreme heat, prolonged drought and a surge in wildfires, according to the European Union’s global warming monitor released on Monday. The agency reported that the combined average temperature for June and July reached 21.62 °C, surpassing the previous record set for the same period in 2022.\n\nThe elevated temperatures are being linked to ongoing climate‑change trends that have intensified heatwaves across the region, exacerbating water scarcity and increasing the frequency of forest fires. Officials warned that the record‑breaking warmth underscores the urgency of mitigation efforts, as the climatic conditions threaten agriculture, ecosystems and public health throughout Western Europe.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 11:32:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-033",
+    "title": "Total solar eclipse to cross northern Spain on Aug 12, offering scientific observations",
+    "slug": "total-solar-eclipse-to-cross-northern-spain-on-aug-12-offering-scientific-observ",
+    "content": "A total solar eclipse will traverse northern Spain on August 12, marking one of the most highly anticipated astronomical events in Europe for the decade. The eclipse’s path of totality will stretch from the Atlantic coast near A Coruña across the Cantabrian region, offering several hours of complete darkness in a narrow corridor while surrounding areas experience a pronounced partial phase. Astronomers and meteorological agencies have coordinated to provide live coverage and safety guidelines, emphasizing the need for proper eye protection during the brief period when the Moon fully obscures the Sun.\n\nThe phenomenon presents a rare opportunity for scientific observation of the Sun’s corona, solar wind interactions, and atmospheric effects on wildlife and human behavior. Researchers plan to deploy portable telescopes and spectrographs to capture high‑resolution images of the corona, data that can improve models of solar activity. Simultaneously, biologists will monitor changes in animal activity patterns, while psychologists note the emotional responses elicited by the sudden darkness. More than two millennia after the first recorded eclipses, such events continue to yield valuable insights across multiple disciplines, underscoring their enduring relevance to both science and public interest.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 11:31:57",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-032",
+    "title": "Demi Vollering clinches second consecutive Women’s Tour de France title",
+    "slug": "demi-vollering-clinches-second-consecutive-women-s-tour-de-france-title",
+    "content": "Demi Vollering clinched the final stage of the Women’s Tour de France on Sunday, securing a decisive victory that allowed her to retain the coveted yellow jersey heading into the race’s conclusion. The Dutch rider powered away in the closing kilometers of the stage, outpacing her rivals and confirming her dominance in the overall classification.\n\nThe win marks Vollering’s second consecutive triumph in the Women’s Tour, following her overall victory in the 2023 edition. Her performance solidified her status as a leading figure in women’s cycling, as she navigated a challenging course and maintained a consistent lead throughout the multi‑day event. With the yellow jersey firmly in her possession, Vollering ends the tour as the reigning champion, setting a high benchmark for the competition’s upcoming season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 11:31:52",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-031",
+    "title": "Houthi strike kills seven, injures 30 in Yemen's Mocha port",
+    "slug": "houthi-strike-kills-seven-injures-30-in-yemen-s-mocha-port",
+    "content": "Yemen’s military reported that a Houthi missile and drone strike on the Red Sea port city of Mocha killed seven people and injured around 30 others, intensifying the conflict’s impact on civilian infrastructure and maritime traffic in the region. The attack, which targeted a commercial area near the harbor, prompted emergency response teams to evacuate the wounded and secure the site, while authorities warned of heightened security risks for vessels navigating the Red Sea corridor.\n\nIn a separate development, Iran announced that it would keep the Strait of Hormuz closed until the United States complies with a set of demands issued by Tehran, a move that could further disrupt global oil shipments and exacerbate tensions in a critical chokepoint. The closure, if maintained, is expected to affect international trade and energy markets, prompting diplomatic efforts to de‑escalate the situation. Updates continue to be posted on the live blog as events unfold.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 11:31:48",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-030",
+    "title": "Fast‑moving wildfire forces evacuations in British Columbia's Okanagan region",
+    "slug": "fast-moving-wildfire-forces-evacuations-in-british-columbia-s-okanagan-region",
+    "content": "A rapidly spreading wildfire in British Columbia’s interior has forced the evacuation of more than 3,000 residents from the communities of Lytton, Merritt and surrounding rural areas. The blaze, first reported late Thursday, quickly covered an estimated 12,000 hectares as strong winds and dry conditions accelerated its advance. Provincial authorities activated emergency response protocols, deploying over 200 firefighters, aerial water bombers and ground crews to contain the fire while setting up temporary shelters at the local high school and community centre. Roads leading into the affected zones were closed, and power outages were reported across a 50‑kilometre radius as utility crews worked to secure the grid.\n\nOfficials from the BC Wildfire Service and municipal emergency management teams continue to monitor the situation, emphasizing that containment remains a priority amid ongoing dry weather forecasts. Residents were advised to remain in designated shelters until authorities deem it safe to return, and relief agencies have begun distributing food, water and essential supplies. The provincial government has pledged additional resources to support recovery efforts, and an investigation into the fire’s origin is underway.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 11:31:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-029",
+    "title": "Rep. Marcy Kaptur to undergo physical rehab after hit-and-run crash",
+    "slug": "rep-marcy-kaptur-to-undergo-physical-rehab-after-hit-and-run-crash",
+    "content": "Rep. Marcy Kaptur (D‑Ohio) announced on Sunday that she will begin a physical rehabilitation program after sustaining injuries in a hit‑and‑run crash that first responders in Toledo reported occurred earlier that day. The incident left Kaptur with injuries that require ongoing treatment, prompting her to step away from her congressional duties for a period of recovery.\n\nKaptur posted a short video on the social‑media platform X in which she expressed gratitude for the thousands of well‑wishes she received from constituents and community members. In the clip she thanked people for their support and noted that the outpouring of concern has helped her maintain a positive outlook during the healing process. First‑responding police and emergency crews confirmed that the vehicle involved was not identified at the time of the report.\n\nThe representative’s team has confirmed that she will be in a rehabilitation facility for the next several weeks, with a gradual return to her official duties once her medical team deems her condition stable. The incident underscores the ongoing risk of hit‑and‑run accidents in the area, and local authorities have urged drivers to remain vigilant and report any suspicious activity.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/10/2026 9:52:43",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-028",
     "title": "Typhoon Dolphin forces evacuation of over 1 million people in eastern China",
     "slug": "typhoon-dolphin-forces-evacuation-of-over-1-million-people-in-eastern-china",
