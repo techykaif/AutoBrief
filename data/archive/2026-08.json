@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260810-335",
+    "title": "England to Witness Partial Solar Eclipse on 12 August",
+    "slug": "england-to-witness-partial-solar-eclipse-on-12-august",
+    "content": "A partial solar eclipse is set to occur on 12 August, with parts of England expected to experience a significant coverage of the sun by the moon. This celestial event will be visible from various locations across the country, providing a unique opportunity for observers to witness the moon's shadow on the Earth's surface. The path of the eclipse will vary, resulting in different levels of coverage in different areas.\n\nIn some regions of England, the moon is predicted to cover up to 96 per cent of the sun, creating a dramatic spectacle in the sky. This level of coverage will be visible in specific areas, although the exact locations and timing will depend on the eclipse's path and the observer's location. It is essential for those planning to view the eclipse to take necessary precautions, such as using specialized solar viewing glasses or handheld solar viewers, to ensure safe observation of the event.\n\nThe partial solar eclipse on 12 August promises to be an exciting event for astronomy enthusiasts and the general public alike. As the moon passes between the Earth and the sun, it will create a rare and awe-inspiring sight, with the level of coverage varying across different parts of England. With the necessary precautions in place, observers can look forward to witnessing this remarkable celestial event and appreciating the beauty of the eclipse.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 4:52:41",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-333",
+    "title": "British Columbia Wildfire Remains Out of Control",
+    "slug": "british-columbia-wildfire-remains-out-of-control",
+    "content": "A devastating wildfire continues to rage in British Columbia, with officials struggling to assess the full extent of the damage. As of Monday, the fire remains out of control, leaving a trail of destruction in its wake. One of the primary concerns is the number of homes that have been lost to the flames, with authorities working to determine the exact tally.\n\nThe fire has been burning for an unknown amount of time, and its unpredictable nature has made it challenging for firefighters to contain. Despite their best efforts, the blaze continues to spread, fueled by dry conditions and strong winds. Residents in the affected areas have been evacuated, and emergency services are working tirelessly to support those who have been displaced. As the situation continues to unfold, officials are urging caution and warning of the potential for further damage.\n\nAs the people of British Columbia come to terms with the scale of the disaster, officials are pledging to provide support and resources to those affected. The focus remains on bringing the fire under control and ensuring the safety of residents, with a thorough assessment of the damage to follow. For now, the community remains on high alert, waiting for the fire to be extinguished and for the rebuilding process to begin.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 4:52:32",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-332",
+    "title": "California Bald Eagle Jackie Dies",
+    "slug": "california-bald-eagle-jackie-dies",
+    "content": "The Big Bear Eagle Nest Cam has drawn millions of viewers worldwide over the years, offering an uninterrupted look into the lives of Jackie and Shadow, a resident pair of bald eagles. Broadcast continuously from the San Bernardino National Forest in California, the live stream has become a widely followed wildlife monitoring initiative, capturing the daily routines, nesting behaviors, and seasonal cycles of the raptors in their natural habitat.\n\nOperated by the Big Bear Bald Eagle Project, the camera system was established to support",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 4:52:27",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-328",
+    "title": "Rust SIMD on GPUs: Accelerate Computations",
+    "slug": "rust-simd-on-gpus-accelerate-computations",
+    "content": "Vectorware’s latest blog post delves into the use of SIMD (Single Instruction, Multiple Data) techniques on graphics processing units (GPUs). The article explains how SIMD, traditionally associated with CPUs, can be adapted to GPU architectures to accelerate data‑parallel workloads. It outlines the fundamental differences between CPU and GPU instruction sets, discusses the challenges of mapping SIMD operations onto the massively parallel fabric of modern GPUs, and presents a series of benchmarks that demonstrate measurable performance gains for compute‑intensive tasks.\n\nThe post also surveys existing GPU programming models, such as CUDA and OpenCL, and evaluates how they support or constrain SIMD execution. By comparing the throughput of SIMD‑optimized kernels against their scalar counterparts, Vectorware illustrates the potential for significant speedups in applications ranging from scientific simulations to machine learning inference. The discussion includes practical guidance on selecting data layouts and memory access patterns that maximize SIMD efficiency on GPU hardware.\n\nThe article has attracted considerable attention from the developer community, garnering 89 upvotes and 42 comments on Hacker News. The engagement reflects a growing interest in bridging the gap between CPU‑centric SIMD optimizations and GPU‑based parallelism, and it underscores the relevance of Vectorware’s insights for engineers seeking to harness the full computational power of GPUs in their software projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 4:52:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-327",
     "title": "Illinois Requires Linux for Age Verification in New Law",
     "slug": "illinois-requires-linux-for-age-verification-in-new-law",
