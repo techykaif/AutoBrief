@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260810-129",
+    "title": "Email Authentication Protocols Explained",
+    "slug": "email-authentication-protocols-explained",
+    "content": "A recent article on Sender Ledger delves into the complexities of email authentication, highlighting the importance of three key identities: SPF, DKIM, and DMARC. These identities play a crucial role in verifying the authenticity of emails, preventing spam and phishing attacks, and ensuring that emails are delivered to their intended recipients. The article explores the intricacies of each identity, providing insight into how they work together to secure email communication.\n\nThe article explains that SPF, or Sender Policy Framework, is a protocol that helps prevent spam by verifying the IP address of the sender's mail server. DKIM, or DomainKeys Identified Mail, is a digital signature that confirms the authenticity of the email content. DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is a protocol that combines SPF and DKIM to provide a comprehensive authentication framework. By implementing these identities, email senders can significantly reduce the risk of their emails being marked as spam or blocked by recipients' mail servers. The article provides a detailed analysis of how these identities interact and how they can be used to improve email deliverability.\n\nThe discussion around email authentication has sparked interest in the developer community, with a post on Hacker News generating comments and sparking a conversation about the importance of email security. With email remaining a primary means of communication, the need for robust authentication protocols is more pressing than ever. As the article highlights, understanding and implementing SPF, DKIM, and DMARC is essential for anyone looking to secure their email communications and protect their online identity. By doing so, individuals and organizations can help prevent email-based attacks and ensure that their emails are delivered safely and reliably.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-127",
+    "title": "Meta Develops Open-Weight Model for Local AI",
+    "slug": "meta-develops-open-weight-model-for-local-ai",
+    "content": "A recent post on Twitter by user @finkd has garnered attention, with the tweet being shared and discussed on various online platforms. The tweet, which was posted with the status number 2086754845218726027, appears to have sparked interest among users, although the exact content of the tweet is not specified. As a result, the tweet has been shared and is being discussed on platforms such as Y Combinator, a popular news aggregation website.\n\nOn Y Combinator, the discussion about the tweet can be found under the item ID 49242038, where users can engage with the content and share their thoughts. However, at the time of writing, there are no comments on the discussion thread, despite the item having garnered 3 points. This suggests that while the tweet has been noted and shared by users, it has not yet prompted a significant amount of discussion or debate. The lack of comments may indicate that users are still processing the information or waiting for further context before engaging with the topic.\n\nIn conclusion, the tweet by @finkd has generated interest among online users, with the discussion being tracked on platforms such as Y Combinator. Although the tweet has been shared and noted, it has not yet prompted a significant amount of discussion, with no comments currently posted on the relevant discussion thread. As the online conversation continues to evolve, it will be interesting to see how users engage with the topic and what insights or perspectives they may share.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:20",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-126",
+    "title": "Why Each Octopus Arm Has a Mind of Its Own",
+    "slug": "why-each-octopus-arm-has-a-mind-of-its-own",
+    "content": "A fascinating aspect of octopus anatomy has come to light, highlighting the unique distribution of neurons within these marine creatures. It has been discovered that two-thirds of an octopus's neurons are located in its arms, rather than its central brain. This distinctive arrangement allows each arm to operate independently, enabling the octopus to perform complex tasks without needing to constantly consult its central nervous system.\n\nThe autonomy of an octopus's arms is exemplified by their ability to function even when detached from the rest of the body. This is made possible by the high concentration of neurons in each arm, which can act as a sort of \"mini-brain\" to control movement and respond to stimuli. Interestingly, this independence extends to the arm used for mating, which can operate on its own to facilitate the reproductive process. This level of autonomy is a testament to the remarkable adaptability and flexibility of octopuses, and has sparked significant interest among scientists and researchers seeking to understand the intricacies of their nervous system.\n\nThe discovery of the octopus's unique neural distribution has significant implications for our understanding of these creatures and their behavior. By studying the octopus's remarkable ability to control its arms independently, scientists may gain valuable insights into the evolution of nervous systems and the development of more advanced robotic technologies. As research continues to uncover the intricacies of octopus anatomy, it is likely that we will learn even more about these fascinating creatures and their remarkable abilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:02:14",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-120",
+    "title": "Space Mirrors Could Harm Astronomy and Human Vision",
+    "slug": "space-mirrors-could-harm-astronomy-and-human-vision",
+    "content": "Solar‑to‑Earth reflection has long been a speculative dream, but the idea is moving from theory to test flight. The concept—placing a large mirror in orbit and angling it to beam sunlight onto a chosen region—has been explored for more than a century, with Russian scientists testing the notion in the 1990s under the Znamya project. The goal is to provide continuous illumination or generate power by redirecting solar energy that would otherwise miss the planet.\n\nCalifornia‑based Reflect Orbital is now attempting to revive the concept. The company plans to launch a small prototype satellite, Eärendil‑1, as a proof‑of‑concept platform. If successful, the firm intends to build a fleet of up to 50,000 such mirrors, each capable of targeting specific geographic areas for day‑long solar illumination or power generation. The project represents a significant step toward a practical space‑based solar‑mirroring system that could complement terrestrial renewable energy sources.\n\nShould the test satellite perform as expected, Reflect Orbital would have demonstrated the feasibility of orbital solar reflectors, opening the door to a new generation of renewable energy infrastructure that operates beyond Earth’s atmosphere. The company’s next steps will involve scaling the technology, refining deployment mechanisms, and addressing regulatory and safety concerns associated with large orbital mirrors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:01:49",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-119",
+    "title": "Ford launches AI assistant in mobile apps to monitor fuel, tire pressure and vehicle data",
+    "slug": "ford-launches-ai-assistant-in-mobile-apps-to-monitor-fuel-tire-pressure-and-vehi",
+    "content": "Ford has announced the launch of a new AI‑powered assistant designed to answer questions about Ford and Lincoln vehicles. The chatbot will debut within the existing Ford and Lincoln mobile apps, enabling owners to inquire about vehicle capabilities, such as fuel consumption for an upcoming road trip or towing limits for a new motorboat. By linking directly to a customer’s vehicle, the assistant can access specific data—fuel levels, cargo capacity, towing capacity and other model‑specific details—to provide accurate, real‑time responses.\n\nThe rollout marks the first step in Ford’s broader strategy to embed conversational AI into its digital ecosystem. While the current version operates purely as a text‑based chatbot, the company plans to expand the feature set with a voice‑powered assistant in future updates. This addition will allow drivers to interact hands‑free, potentially integrating with in‑car infotainment systems and other connected services.\n\nFord’s move reflects a growing trend among automakers to leverage AI for enhancing owner experience and reducing service inquiries. By delivering instant, vehicle‑specific information, the assistant aims to streamline routine questions and help drivers make informed decisions about maintenance and usage.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 17:01:44",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-117",
+    "title": "Moscow Hosts Paddleboard Carnival",
+    "slug": "moscow-hosts-paddleboard-carnival",
+    "content": "Hundreds of costumed paddleboarders glided down Moscow’s Yauza River on Sunday, marking the city’s annual stand‑up paddleboard carnival. The event drew a lively crowd, with music from live bands echoing across the bridges that arch over the water. Participants, many dressed in bright, whimsical outfits, navigated the gentle current while spectators cheered from the riverbanks.\n\nThe carnival, organized by local water‑sports enthusiasts, has become a staple of Moscow’s summer calendar, attracting both seasoned paddlers and newcomers. Organizers noted that the event promotes community engagement and healthy recreation, and the festive atmosphere was amplified by the river’s scenic backdrop and the rhythmic beats of the accompanying bands. Local authorities reported that safety measures were in place, including life jackets and trained marshals along the route.\n\nThe event concluded with a communal celebration at the river’s edge, where participants and onlookers shared refreshments and reflected on the day’s activities. The Yauza River carnival continues to showcase Moscow’s growing interest in outdoor water sports, drawing attention from both residents and visitors alike.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 16:53:07",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-116",
+    "title": "Greenland Warns US Firm Greenland Energy Over Unapproved Drilling",
+    "slug": "greenland-warns-us-firm-greenland-energy-over-unapproved-drilling",
+    "content": "Greenland’s government has denied that it granted permission for a U.S. company to conduct exploratory drilling, after Greenland Energy brought drilling equipment ashore in the Arctic nation’s western region. Officials said the company had not received the required permits and that any activity on Greenland’s sovereign land must comply with the country’s environmental and regulatory framework. The incident has drawn attention to Greenland’s growing interest in offshore resource development and the geopolitical implications of foreign investment in the Arctic.\n\nThe company’s representatives maintain that they were operating under a provisional arrangement and that the equipment was intended for a short‑term assessment of potential hydrocarbon deposits. Analysts note that Greenland Energy’s presence comes at a time when the country is negotiating with multiple international partners to secure investment while balancing environmental concerns. In a briefing with Lukas Wahden, Associate Fellow with the Russia Program at George Washington University, Wahden highlighted that Greenland’s strategic position—bordering the Arctic Ocean and the North Atlantic—makes it a focal point for both economic and security interests, particularly in the context of Russian maritime ambitions.\n\nThe dispute underscores the need for clear regulatory processes in Greenland’s emerging oil and gas sector. While the government has reiterated its commitment to protecting the environment, it also signals a willingness to engage with foreign firms that meet its stringent legal and ecological standards. The outcome of the current case will likely shape future policy on foreign investment and resource exploration in the Arctic region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 16:53:03",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-115",
     "title": "Netanyahu Rejects US Gaza Plan",
     "slug": "netanyahu-rejects-us-gaza-plan",
