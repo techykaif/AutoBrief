@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260810-061",
+    "title": "Western Europe records hottest June‑July period",
+    "slug": "western-europe-records-hottest-june-july-period",
+    "content": "Western Europe recorded its hottest June–July on record, according to the European Union’s Global Warming Monitor released Monday. The report, which tracks temperature trends across the continent, shows that the two‑month period surpassed the previous record by a significant margin, with average temperatures climbing well above long‑term norms.\n\nThe surge in heat has intensified drought conditions and sparked widespread wildfires across the region. Elevated temperatures have lowered soil moisture, increased evaporation rates, and pushed many areas into severe water‑stress categories. Fire‑prone regions such as southern France, Spain, and parts of Italy experienced multiple large‑scale blazes, while northern countries reported unusually dry summers that strained agricultural production and water supplies.\n\nThe findings underscore the growing influence of climate change on European weather patterns. As the EU continues to monitor temperature anomalies, the data suggest that similar heatwaves, droughts, and fire events are likely to become more frequent, prompting a reassessment of water management, forestry practices, and emergency preparedness across the continent.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/10/2026 13:32:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-060",
+    "title": "Philippines offshoring sector expands in 2026 despite AI concerns",
+    "slug": "philippines-offshoring-sector-expands-in-2026-despite-ai-concerns",
+    "content": "The Philippines’ offshore business process outsourcing (BPO) sector is posting robust growth in 2026, even as artificial‑intelligence tools become more prevalent in global service delivery. According to a recent Economist analysis, the industry’s revenue rose 8.5 % year‑on‑year to $32 billion, while employment in call‑center and back‑office roles increased by roughly 120,000 workers over the past twelve months.\n\nThe expansion is driven by a combination of competitive labor costs, high English proficiency, and targeted government incentives that encourage foreign firms to locate operations in the archipelago. Companies are integrating AI for routine tasks such as data entry and basic customer triage, but the report notes that human agents remain essential for complex problem‑solving, multilingual support, and relationship management. Investment in upskilling programs has risen, with the Department of Trade and Industry allocating $150 million to AI‑focused training for BPO staff, a move echoed in discussions on the Hacker News thread where participants highlighted the sector’s adaptability and the importance of hybrid human‑AI workflows.\n\nAnalysts expect the Philippines to retain its position as a leading offshoring hub, with projected annual growth of 6‑7 % through 2029. Continued emphasis on skill development and the strategic use of AI are likely to sustain employment levels while enhancing service quality, reinforcing the industry’s contribution to the country’s GDP and export earnings.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 13:32:42",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-059",
+    "title": "Docker launches Docker Sandboxes for AI agents",
+    "slug": "docker-launches-docker-sandboxes-for-ai-agents",
+    "content": "Docker has unveiled a new product called Docker Sandboxes, designed to give developers a lightweight, isolated environment for running containers. The feature, detailed on Docker’s official site (https://www.docker.com/products/docker-sandboxes/), builds on the company’s long‑standing focus on container security by adding an extra layer of isolation that can be spun up quickly and torn down automatically. According to Docker, the sandboxes use a minimal hypervisor‑style runtime that can host multiple container images while keeping them separate from the host system and from each other, thereby reducing the attack surface for potentially untrusted workloads.\n\nThe announcement sparked discussion on Hacker News (https://news.ycombinator.com/item?id=49239751), where the post received 101 upvotes and 57 comments. Community members highlighted the product’s potential to streamline development workflows, particularly for teams that need to test code in clean, disposable environments without the overhead of full virtual machines. Several commenters noted that Docker Sandboxes could complement existing tools such as Docker Desktop and Kubernetes by providing a quick, secure sandbox for local testing, debugging, or continuous integration pipelines.\n\nIn summary, Docker’s Sandboxes represent a step toward tighter security and faster iteration for containerized applications. By offering a dedicated, isolated runtime that is easy to deploy and destroy, Docker aims to address common concerns about container isolation while maintaining the speed and flexibility developers expect from the Docker ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 13:32:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-058",
+    "title": "Space agencies evaluate self‑administered eye exam device for astronaut vision monitoring",
+    "slug": "space-agencies-evaluate-self-administered-eye-exam-device-for-astronaut-vision-m",
+    "content": "A portable eye‑screening system that allows octogenarians to perform self‑administered ocular examinations on their own has attracted the attention of space agencies as a potential tool for monitoring astronauts’ eye health during long‑duration missions. The device, which uses a combination of a handheld autorefractor and a smartphone‑based retinal camera, provides instant measurements of visual acuity, intra‑ocular pressure, and retinal thickness. Its ease of use and rapid data transfer make it suitable for remote or resource‑limited environments, a key requirement for missions to the Moon, Mars, and beyond.\n\nIn microgravity, astronauts are at increased risk of vision changes such as spaceflight‑associated neuro‑ocular syndrome, which can lead to optic disc edema and refractive shifts. Current monitoring protocols rely on periodic visits to ground‑based ophthalmologists and bulky imaging equipment, limiting the frequency and immediacy of assessments. By adapting the self‑exam device for use in spacecraft, mission planners could enable crew members to conduct regular screenings, upload results to Earth‑based specialists, and detect early signs of ocular distress without the need for extensive on‑board infrastructure.\n\nIf successfully integrated, the technology could reduce the logistical burden of eye care in space and improve crew health management. The device’s proven safety and efficacy in geriatric populations provide a strong foundation for its application in the unique conditions of spaceflight, potentially setting a new standard for ocular monitoring on future long‑duration missions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/10/2026 13:32:31",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-056",
+    "title": "Comic Con Astana celebrates 5th anniversary with international stars and thousands of fans",
+    "slug": "comic-con-astana-celebrates-5th-anniversary-with-international-stars-and-thousan",
+    "content": "Kazakhstan’s capital hosted the fifth edition of Comic Con Astana, Central Asia’s largest pop‑culture festival, marking a milestone anniversary that attracted thousands of attendees. The event featured a roster of international film stars who participated in panels and autograph sessions, alongside elaborate cosplay displays and competitive gaming tournaments that highlighted the region’s growing enthusiasm for entertainment media.\n\nIn addition to the celebrity appearances, organizers staged one of the country’s biggest cosplay competitions, drawing participants from across the former Soviet states and offering substantial prizes for the most detailed and creative costumes. The festival’s expanding program and high visitor turnout underscore Comic Con Astana’s role as a cultural hub, reinforcing Kazakhstan’s position on the regional pop‑culture map and setting a precedent for future editions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 13:32:26",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-055",
+    "title": "Democrats launch informal planning for 2028 presidential race",
+    "slug": "democrats-launch-informal-planning-for-2028-presidential-race",
+    "content": "The Democratic Party currently has no officially announced presidential candidates for the 2028 election, and the party’s national committee has yet to release any campaign logos or formal statements. Despite the absence of public declarations, early indications point to a growing number of potential contenders who are already positioning themselves for the forthcoming race.  \n\nIn the weeks following the 2024 election, several senior party figures and former officeholders have begun quietly building networks, securing endorsements, and engaging in exploratory fundraising efforts. Analysts note that the lack of a formal campaign launch does not preclude the emergence of a front‑runner; instead, it allows candidates to gauge support and refine messaging before making a public bid. The party’s internal polling and outreach initiatives suggest that the field may include a mix of incumbents seeking a second term, former governors, and rising national leaders.  \n\nAs the Democratic Party moves into the 2028 election cycle, observers will watch how these early, behind‑the‑scenes activities translate into formal campaigns. The timing of official announcements and the development of campaign infrastructure will likely shape the trajectory of the party’s strategy and the broader national political landscape.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 13:32:20",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-054",
+    "title": "Man accused of Tupac Shakur murder begins trial in Las Vegas",
+    "slug": "man-accused-of-tupac-shakur-murder-begins-trial-in-las-vegas",
+    "content": "Las Vegas prosecutors will begin the trial of Duane “Keffe D” Davis, 63, on Monday, marking the first courtroom appearance in the long‑standing murder case of rap icon Tupac Shakur. Shakur was shot and killed in a drive‑by shooting on September 7, 1996, an incident that has remained one of the United States’ most high‑profile unsolved homicides. Davis, a former associate of the late rapper, was indicted in 2023 and now faces a single count of murder with a deadly weapon, charged with intent to promote, further or assist a criminal gang in the killing.\n\nThe Nevada case centers on prosecutors’ assertion that Davis acted on behalf of a gang to eliminate Shakur, a claim that will be examined through forensic evidence, witness testimony and alleged gang affiliations. If convicted, Davis could face a life sentence under Nevada’s statutes for gang‑related homicide. The trial, held in Las Vegas, is expected to draw significant public and media attention given the cultural impact of Shakur’s death and the decades‑long quest for accountability.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 13:32:16",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-053",
+    "title": "Russia intercepts 456 Ukrainian drones in overnight attacks, 12 killed",
+    "slug": "russia-intercepts-456-ukrainian-drones-in-overnight-attacks-12-killed",
+    "content": "Moscow announced on Monday that Russian air defenses intercepted 456 Ukrainian drones during a series of overnight raids that struck approximately 15 regions, among them the central Russian republic of Tatarstan and the annexed Crimean Peninsula. The coordinated attacks targeted both industrial facilities and civilian infrastructure, prompting a large‑scale response from Russian anti‑aircraft units.\n\nLocal authorities reported that the strikes resulted in at least 12 fatalities and 39 injuries. The incidents underscore the continued intensity of the cross‑border hostilities, with both sides attributing responsibility for the escalated drone activity. Russian officials said the interceptions prevented further damage, while Ukrainian sources have not yet commented on the operation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/10/2026 13:32:11",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-052",
     "title": "Western Europe hits new June-July temperature record amid heat wave",
     "slug": "western-europe-hits-new-june-july-temperature-record-amid-heat-wave",
