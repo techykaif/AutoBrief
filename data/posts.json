@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260811-170",
+    "title": "Global Water Crisis Worsens Amid Drought and Record Low Water Levels",
+    "slug": "global-water-crisis-worsens-amid-drought-and-record-low-water-levels",
+    "content": "Water Crisis Looms Globally: Experts Urge Action\n\nA growing concern over the world's water resources has been escalating in recent weeks, with multiple regions facing severe water shortages. Puerto Rico, for instance, is grappling with a deep water crisis due to a prolonged drought that has left thousands without access to clean water. Similarly, the Rhine and Po rivers in Europe have reached record low levels, exacerbating the region's water scarcity. In the United States, the seven states sharing the Colorado River are locked in a dispute over unprecedented water shortages, with major reservoirs dwindling to their lowest levels since their construction.\n\nThe crisis is not limited to these regions. Hungary's sole nuclear power plant is on the brink of shutting down due to insufficient water levels in the Danube River, which is essential for cooling the facility. Furthermore, a recent study has revealed the presence of toxic chemicals in all English water bodies, highlighting the urgent need for better water management practices. These alarming developments underscore the pressing need for sustainable water conservation and management strategies to prevent such crises in the future.\n\nAs the world grapples with this growing challenge, experts are emphasizing the importance of collective action to address the root causes of these water shortages. By implementing efficient water usage practices, investing in water infrastructure, and promoting sustainable water management policies, governments and individuals can work together to mitigate the effects of this crisis and ensure a more secure water future for generations to come.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/11/2026 17:02:53",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-164",
+    "title": "The proton is more quantum than we thought",
+    "slug": "the-proton-is-more-quantum-than-we-thought",
+    "content": "Breakthrough Discovery Challenges Classical Understanding of Proton Structure\n\nPhysicists have made a groundbreaking discovery in the field of particle physics, shedding new light on the internal structure of protons. For decades, our understanding of protons has been based on classical physics theories, but recent data compiled from accelerator experiments has revealed quantum behavior that defies conventional wisdom. The findings, which have been published in a prestigious scientific journal, suggest that the internal structure of protons is more complex and dynamic than previously thought.\n\nAccording to the study, the data collected from high-energy collisions at particle accelerators has uncovered novel quantum effects that have never been observed before. These effects, which involve the interactions between quarks and gluons, the fundamental building blocks of protons, have significant implications for our understanding of the strong nuclear force and the behavior of matter at the smallest scales. The research team, comprised of scientists from leading research institutions, used advanced computational models and sophisticated analytical techniques to interpret the complex data and identify the underlying quantum effects.\n\nThe discovery has the potential to revolutionize our understanding of the fundamental laws of physics and may lead to new breakthroughs in fields such as particle physics, nuclear physics, and materials science. As researchers continue to analyze the data and refine their models, the findings are expected to have far-reaching implications for our understanding of the universe and the behavior of matter at its most basic level.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 17:02:40",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-163",
+    "title": "Where, when and how to watch the 2026 solar eclipse",
+    "slug": "where-when-and-how-to-watch-the-2026-solar-eclipse",
+    "content": "A rare celestial event is set to captivate stargazers across the globe as a total solar eclipse is anticipated to be visible in parts of Europe on a specific date, while a partial eclipse will sweep across approximately a quarter of the planet. This phenomenon is expected to occur when the moon passes directly between the Earth and the sun, casting a shadow on the Earth's surface. The path of totality, where the eclipse will be visible in its entirety, will stretch across several European countries, including the UK, France, and Germany.\n\nFor those unable to witness the total eclipse in person, a partial eclipse will still be visible from other parts of the world, including North America, Asia, and Australia. The extent of the partial eclipse will vary depending on the location, with some areas experiencing a significant reduction in sunlight while others will see a more subtle effect. To safely observe the eclipse, viewers are advised to use specialized solar viewing glasses or handheld solar viewers that meet international safety standards. These devices will allow individuals to witness the eclipse without causing damage to their eyes.\n\nAs the world prepares for this spectacular event, astronomers and space enthusiasts alike are eagerly anticipating the opportunity to study the sun's corona, a phenomenon that is only visible during a total solar eclipse. This rare occurrence provides a unique chance for scientists to gather valuable data and insights into the sun's behavior and the Earth's atmosphere. Whether witnessing the total eclipse in person or observing the partial eclipse from afar, this event promises to be a breathtaking spectacle that will captivate audiences worldwide.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 17:02:35",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-162",
+    "title": "Denisovans May Have Been Taller Than Initially Thought",
+    "slug": "denisovans-may-have-been-taller-than-initially-thought",
+    "content": "Fossil Discovery off Taiwan Coast Reveals Insights into Denisovan Evolution\n\nIn a groundbreaking find, archaeologists have identified two leg bones discovered on the seabed near Taiwan as belonging to the enigmatic Denisovans, a previously unknown species of hominins that co-existed with early humans. According to recent studies, the fossilized remains, which were unearthed in 2019, have provided significant clues about the physical characteristics of Denisovans. Measuring approximately 190 centimeters in height, the leg bones suggest that Denisovans were significantly taller than previously believed.\n\nThe discovery of the Denisovan leg bones has shed new light on the physical appearance of these ancient humans. While their exact origins and migration patterns remain unclear, the findings suggest that Denisovans may have inhabited regions with access to the ocean, possibly influencing their physical adaptations. The identification of the fossils is a testament to the ongoing efforts of researchers to unravel the mysteries surrounding human evolution. The discovery is also significant, as it provides a unique opportunity to compare the physical characteristics of Denisovans with those of other early human species, such as Neanderthals and Homo sapiens.\n\nThe discovery of the Denisovan leg bones off the coast of Taiwan has sparked renewed interest in the study of human evolution, highlighting the importance of continued research into the lives and habits of our ancient ancestors. As scientists continue to analyze the fossils and their context, they may uncover further insights into the Denisovans' lifestyle, behavior, and interactions with other human species, ultimately enriching our understanding of human history.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 17:02:30",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-161",
+    "title": "Canario Terminal Source Code Made Publicly Available",
+    "slug": "canario-terminal-source-code-made-publicly-available",
+    "content": "Rapha.labs Closes Canary Terminal Project, Releases Source Code\n\nIn a recent development, Rapha.labs has announced the closure of its Canary Terminal project, a web-based terminal emulator designed to provide a seamless user experience for developers and system administrators. The project, which was initially open-sourced in 2020, aimed to offer a feature-rich terminal interface that could be easily integrated into various web applications. Despite its promising start, the project has now been officially discontinued.\n\nAccording to the project's repository, the source code has been released under an open-source license, allowing developers to continue contributing to and building upon the project's features. The closure of Canary Terminal is seen as a strategic decision by Rapha.labs to focus on other high-priority projects and initiatives. The release of the source code is expected to benefit the developer community, as it provides a valuable resource for those looking to create custom terminal interfaces.\n\nThe closure of Canary Terminal serves as a reminder of the ever-evolving nature of technology and the importance of resource allocation in software development. The release of the source code, however, ensures that the project's legacy lives on, and its features can continue to benefit the broader developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 17:02:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-160",
+    "title": "Silicon Valley Leaders Misinterpret Classic Science Fiction",
+    "slug": "silicon-valley-leaders-misinterpret-classic-science-fiction",
+    "content": "Silicon Valley's Misinterpretation of Classic Literature\n\nLeaders in Silicon Valley have long been known for their innovative and forward-thinking approach to technology, but a closer examination of their work reveals a concerning trend: a misunderstanding of classic literature. This misinterpretation is evident in the tech industry's approach to problem-solving, often drawing inspiration from iconic works without fully grasping their underlying themes and messages. A prime example is the tech mogul Elon Musk's interpretation of Homer's \"The Odyssey,\" which has been criticized for its superficiality.\n\nClassic works such as Isaac Asimov's \"Foundation\" and Douglas Adams' \"The Hitchhiker's Guide to the Galaxy\" are often reduced to simplistic analogies or taken out of context, leading to a fundamental misrepresentation of their original intent. This misinterpretation can have far-reaching consequences, as it may lead to the development of technologies that neglect essential human values and societal complexities. For instance, the tech industry's focus on \"galactic empires\" and \"interstellar travel\" in the name of innovation often overlooks the deeper themes of cooperation, empathy, and the human condition that are at the heart of these classic works.\n\nAs the tech industry continues to shape the world, it is essential that its leaders engage with classic literature in a more nuanced and thoughtful manner. By doing so, they can tap into the rich insights and ideas that have shaped human culture and society, and develop technologies that truly benefit humanity. Ultimately, a more thoughtful approach to classic literature can lead to more responsible innovation, one that prioritizes the well-being of people and the planet over mere technological advancement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 17:02:21",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-159",
+    "title": "AI Models' Training Data Revealed",
+    "slug": "ai-models-training-data-revealed",
+    "content": "A recent study has made a significant discovery in the field of artificial intelligence, revealing that certain Chinese AI models may be trained on leading US models. Researchers have developed a method to extract \"reasoning traces\" from popular AI systems, including Claude, GPT, and Gemini. This innovative approach allows them to analyze the decision-making processes of these models, providing valuable insights into their training data and potential origins.\n\nThe findings suggest that some Chinese AI models may be using training data from prominent US AI systems, raising important questions about the development and deployment of AI technologies. The ability to extract reasoning traces from these models has given researchers a unique window into their inner workings, enabling them to identify potential similarities and overlaps with US-based models. This discovery has significant implications for the AI research community, as it highlights the potential for knowledge sharing and collaboration between different regions and entities. Furthermore, it also underscores the need for greater transparency and understanding of AI development practices, particularly in the context of international cooperation and competition.\n\nThe study's findings contribute to the ongoing discussion about the global development and use of AI, emphasizing the complex and interconnected nature of this rapidly evolving field. As AI continues to play an increasingly important role in various aspects of society, understanding the origins and training data of these models is crucial for ensuring their safe and responsible deployment. The researchers' innovative approach to extracting reasoning traces has opened up new avenues for investigation, and their discoveries are likely to have far-reaching implications for the future of AI research and development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 17:02:16",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-154",
+    "title": "Colombia Earthquake: 7.4‑Magnitude Shake Captured on Video",
+    "slug": "colombia-earthquake-7-4-magnitude-shake-captured-on-video",
+    "content": "A video posted on social media shows an eyewitness witnessing the shock of a 7.4‑meter earthquake that struck parts of Colombia on Monday, August 10. The footage captures the ground trembling and buildings swaying, offering a stark visual of the disaster’s immediate impact.\n\nRescue teams are still combing through affected areas, searching for survivors amid collapsed structures and debris. Authorities have reported that the death toll is already in the hundreds, and officials warn that the figure could rise as search and recovery operations continue.\n\nThe ongoing response underscores the severity of the quake, prompting international aid agencies to monitor the situation closely while local authorities coordinate relief efforts and assess damage across the impacted regions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 17:01:55",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-153",
+    "title": "Eastern Libya Military Intelligence Chief Killed in Car Bomb Attack",
+    "slug": "eastern-libya-military-intelligence-chief-killed-in-car-bomb-attack",
+    "content": "Prime Minister Abdul‑Kader Dajani of the eastern Libyan administration in Tobruk issued a statement today condemning the killing of Major‑General Fawzi al‑Mansouri, a senior officer in the eastern army. The prime minister called the act “unacceptable and a grave violation of the rules of armed conflict,” and urged all parties to respect the sanctity of military personnel. Al‑Mansouri, who had served in the eastern forces since the 2014 civil war, was reportedly killed in an ambush near the town of Ajdabiya on 12 August.\n\nThe eastern government said the attack was carried out by unidentified armed elements and that an immediate investigation has been launched. Security officials in Tobruk confirmed that al‑Mansouri was on a routine patrol when he was struck by a roadside bomb, according to the preliminary report. The eastern army has pledged to cooperate fully with the inquiry and to hold those responsible accountable. The incident comes amid heightened tensions between the eastern and western factions, with both sides accusing each other of escalating violence.\n\nIn a brief closing statement, Prime Minister Dajani called for restraint and urged the international community to support a peaceful resolution to the conflict. He added that the eastern government remains committed to maintaining security and stability in the region while upholding the principles of the rule of law. The eastern authorities have requested that the United Nations and other stakeholders monitor the situation closely to prevent further escalation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 17:01:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-152",
+    "title": "DRC Ebola outbreak kills over 2,000, 4,381 cases confirmed",
+    "slug": "drc-ebola-outbreak-kills-over-2-000-4-381-cases-confirmed",
+    "content": "Kinshasa – The Democratic Republic of the Congo’s health ministry reported on Tuesday that a total of 4,381 cases of the disease have been confirmed across five provinces. The figure represents the latest tally in the ongoing monitoring effort that began earlier this year, and it reflects data compiled from provincial health offices and laboratory confirmations.\n\nHealth officials said the confirmed cases are distributed among the provinces of North Kivu, South Kivu, Ituri, Maniema and Tanganyika, though the ministry did not disclose a breakdown by region. The ministry reiterated that surveillance, testing and treatment protocols remain in place, and that additional resources are being allocated to support affected communities as the situation continues to be closely tracked.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 17:01:46",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-151",
+    "title": "South Carolina Holds Special Senate Election to Replace Lindsey Graham",
+    "slug": "south-carolina-holds-special-senate-election-to-replace-lindsey-graham",
+    "content": "Tuesday’s special election will determine the Republican nominee who will contest the upcoming midterm Senate race, a contest reshaped after the death of incumbent Senator Graham. Voters in the designated precincts cast ballots to select the party’s challenger, a process accelerated by the vacancy left by Graham’s passing and the subsequent need to fill the ticket before the November general election.\n\nThe winner of the Tuesday vote will join the Democratic candidate on the November ballot, completing the two‑party slate for the Senate seat. Election officials have confirmed that the special election results will be certified within the next week, allowing the Republican nominee to begin campaigning statewide. The selection concludes the party’s internal contest and sets the stage for a full‑scale campaign as both parties prepare for the midterm elections.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 17:01:42",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260811-150",
     "title": "SpaceX Advances Multiple Starship Vehicles at Starbase Production Site",
     "slug": "spacex-advances-multiple-starship-vehicles-at-starbase-production-site",
@@ -5376,127 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/9/2026 22:22:15",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-230",
-    "title": "Iran Threatens Continued Strait of Hormuz Restrictions Without US Compliance",
-    "slug": "iran-threatens-continued-strait-of-hormuz-restrictions-without-us-compliance",
-    "content": "Iran has warned that the Strait of Hormuz will stay closed unless the United States satisfies a set of demands that the Tehran government has outlined in a statement released this week.  The Iranian Foreign Ministry said the restrictions would remain in place until the U.S. meets its conditions, which include a cessation of what Iran calls “unilateral sanctions” and the withdrawal of American troops from the region.  The statement also demanded that the United States halt its support for certain Gulf Arab states that Iran considers hostile.\n\nThe Strait of Hormuz is a critical chokepoint for global oil traffic, with roughly 20 % of the world’s petroleum passing through its narrow waters.  Iran has previously used the threat of a full closure to pressure the United States and its allies, most notably during the 2019 flare‑up that saw the U.S. destroy an Iranian oil tanker.  In the current standoff, Tehran has reiterated that any reopening of the strait will be contingent on the U.S. addressing its grievances, while Washington has yet to issue a formal response to the specific demands.\n\nIf the U.S. fails to meet Iran’s conditions, the continued restriction could disrupt international shipping and increase global oil prices.  The situation remains fluid, with diplomatic channels reportedly active as both sides weigh the economic and security implications of a prolonged closure.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:22:11",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-229",
-    "title": "UAE Extradites Daniel Kinahan to Ireland",
-    "slug": "uae-extradites-daniel-kinahan-to-ireland",
-    "content": "Daniel Kinahan, a prominent figure in Ireland’s organised‑crime landscape, has been formally charged in Dublin with offences that prosecutors say link him to a multinational criminal syndicate. The charges, announced by the Director of Public Prosecutions, include drug trafficking, possession of firearms and money‑laundering offences, and are part of a broader investigation into the group’s cross‑border operations.\n\nThe case follows a series of raids carried out by the Gardaí and the Criminal Assets Bureau that seized large quantities of narcotics, illegal weapons and substantial sums of illicit cash. Kinahan, who has long been associated with the Kinahan crime family, is alleged to have played a key role in coordinating the syndicate’s drug distribution and financial activities across Europe. The prosecution argues that the evidence demonstrates a sophisticated network that operates beyond Ireland’s borders, exploiting the country’s logistical advantages.\n\nIf convicted, Kinahan could face a lengthy prison sentence, and the proceedings are expected to intensify scrutiny of the syndicate’s remaining members. The case underscores the Irish authorities’ continued efforts to dismantle transnational organised crime groups and to disrupt their financial infrastructure.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:22:07",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-228",
-    "title": "Omar Marmoush Scores Two Goals as Man City Beat Atletico Madrid in Seoul Friendly",
-    "slug": "omar-marmoush-scores-two-goals-as-man-city-beat-atletico-madrid-in-seoul-friendl",
-    "content": "A friendly match between Manchester City and Atlético Madrid ended in a City victory at the Seoul World Cup Stadium, with forward Marmoush delivering a remarkable performance by scoring twice within a three‑minute span. The rapid succession of goals helped City overcome an early deficit and secure the win in the exhibition game held in South Korea.\n\nThe match, part of the clubs’ pre‑season preparations, saw City rally after a slow start, with Marmoush’s quick double coming in the 22nd and 25th minutes. His goals were complemented by contributions from other City players, while Atlético struggled to maintain the early momentum. The victory provided City with a confidence boost ahead of their competitive fixtures, and the friendly offered Atlético a chance to fine‑tune their lineup in a high‑profile setting.\n\nIn the end, the match showcased the attacking flair of both teams, with City’s resilience and Marmoush’s rapid scoring proving decisive. The friendly concluded with City emerging as the winners, setting a positive tone for the rest of their pre‑season campaign.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:22:03",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-227",
-    "title": "Hawaii incumbents win primary over progressive challengers",
-    "slug": "hawaii-incumbents-win-primary-over-progressive-challengers",
-    "content": "Centrist Democrats secured notable primary victories this week, defeating progressive challengers in several key districts across the country. The wins, which include incumbent representatives retaining their nominations in swing states and a handful of newcomers clinching endorsements from party establishment groups, were confirmed by state election boards on Tuesday and have been widely reported by local media outlets.\n\nPolitical analysts say the outcomes underscore an ongoing ideological contest within the Democratic Party, as centrist candidates emphasize pragmatic policy approaches while progressive rivals push for more expansive reforms on issues such as climate action, health care and voting rights. The results are expected to shape the party’s legislative agenda and candidate selection process ahead of the upcoming midterm elections, with both factions likely to adjust their strategies in response to the demonstrated voter preferences.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:21:59",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-226",
-    "title": "Netanyahu rejects US-backed Gaza plan, Palestinian official says",
-    "slug": "netanyahu-rejects-us-backed-gaza-plan-palestinian-official-says",
-    "content": "Palestinian opposition leader Mustafa Barghouti said on Monday that Israeli Prime Minister Benjamin Netanyahu’s dismissal of the United States‑backed proposal for Gaza was expected. The plan, unveiled by Washington earlier this week, called for a ceasefire, the release of hostages, and a framework for reconstruction and humanitarian aid in the war‑torn enclave. Barghouti, a longtime critic of both Israeli policies and the Palestinian Authority, described the rejection as “no surprise,” noting that Netanyahu has repeatedly opposed any initiative that does not first secure Israel’s security guarantees and address the political status of the territories.\n\nThe Israeli government has not offered an alternative, and diplomatic efforts to revive negotiations remain stalled. International observers warned that the failure to adopt the U.S. proposal could prolong the humanitarian crisis in Gaza and hinder prospects for a broader settlement. Barghouti’s remarks underscore the growing frustration among Palestinian leaders over the limited progress toward a ceasefire and the challenges facing mediators seeking a durable resolution to the conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:21:54",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-225",
-    "title": "Israeli occupation linked to ongoing resistance",
-    "slug": "israeli-occupation-linked-to-ongoing-resistance",
-    "content": "Israel finds itself entrenched in a recurring pattern of conflict and political instability that analysts trace to policies and decisions made by its own leadership. Over the past several months, the country has experienced a series of escalations with Palestinian militants in the Gaza Strip, including rocket attacks that prompted Israeli airstrikes targeting what the military described as weapons storage sites and command centers. Simultaneously, internal political dynamics have remained unsettled, with successive elections failing to produce a stable governing coalition, leaving the government reliant on short‑term agreements to pass budgetary and security legislation.\n\nThe combination of external security pressures and internal governmental fragmentation has limited Israel’s ability to pursue a sustained diplomatic or strategic shift. Recent statements from senior officials underscore the challenge of breaking the cycle, noting that ongoing hostilities constrain negotiations while political deadlock hampers the formulation of long‑term policy solutions. As regional tensions persist and domestic political negotiations continue, the cycle that Israel helped create remains a central factor shaping its security and governance outlook.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:21:50",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-224",
-    "title": "Puerto Rico implements water rationing amid severe drought",
-    "slug": "puerto-rico-implements-water-rationing-amid-severe-drought",
-    "content": "Hot weather combined with ageing infrastructure has forced authorities to impose rationing measures that now affect hundreds of thousands of residents. The surge in temperature has driven up demand for essential services, while the deteriorating condition of pipes, grids and treatment facilities has limited the system’s capacity to meet that demand.\n\nIn response, officials have introduced scheduled cut‑offs and reduced supply quotas, prioritising critical sectors such as hospitals and emergency services. Consumers are being advised to conserve usage during peak periods, and repair crews are accelerating maintenance programs to mitigate further disruptions. The temporary restrictions are expected to remain in place until weather conditions stabilize and infrastructure upgrades are completed.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:21:45",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-223",
-    "title": "Police investigate drone sighting over German military base",
-    "slug": "police-investigate-drone-sighting-over-german-military-base",
-    "content": "Police officials confirmed that a drone was observed flying over a military installation that is reportedly used to store components of the Patriot missile system. The sighting was reported to local law‑enforcement agencies early Thursday, prompting an immediate response from both civilian police and base security personnel. Authorities have not disclosed the exact location of the facility, but a spokesperson said the base is a designated storage site for Patriot missile parts and is subject to heightened security measures.\n\nInvestigators are reviewing surveillance footage and have launched a formal inquiry to determine the drone’s origin, purpose, and whether any unauthorized access to the base occurred. No damage to equipment or injuries have been reported, and the base remains operational while the investigation continues. Police have urged anyone with information about the incident to come forward, and they indicated that the case will be updated as new facts emerge.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 22:21:41",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-222",
-    "title": "NASA Updates Artemis Program Progress",
-    "slug": "nasa-updates-artemis-program-progress",
-    "content": "NASA has made significant strides in its Artemis program, a comprehensive initiative aimed at returning humans to the lunar surface by 2025. Recent updates from the space agency have shed light on the program's progress, including advancements in commercial robotic lunar missions. As part of this effort, NASA has been working closely with private companies to develop and launch robotic spacecraft capable of transporting cargo and conducting scientific research on the lunar surface.\n\nAccording to the updates, NASA has established a clear roadmap for the Artemis program's lunar return, which includes a series of commercial robotic missions designed to lay the groundwork for future human exploration. The agency has awarded contracts to several private companies, including SpaceX, Blue Origin, and Moon Express, to develop and launch these robotic missions. These missions will focus on establishing a sustainable presence on the lunar surface, with objectives ranging from conducting scientific research to demonstrating the capabilities of lunar resources.\n\nThe Artemis program's progress marks a significant step towards establishing a human presence on the lunar surface, with the ultimate goal of using the Moon as a stepping stone for further human exploration of the solar system. With the commercial robotic lunar missions serving as a crucial precursor to human missions, NASA's Artemis program is poised to make a major impact in the field of space exploration.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/9/2026 21:13:15",
-    "author": "NASASpaceFlight",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-221",
-    "title": "Celtic secure 5-1 win over Kilmarnock without Martin O'Neill",
-    "slug": "celtic-secure-5-1-win-over-kilmarnock-without-martin-o-neill",
-    "content": "Celtic Secures Convincing 5-1 Win Over Kilmarnock Amid O'Neill's Absence\n\nIn a dominant display, Celtic continued their winning streak in the Scottish Premiership with a 5-1 victory over Kilmarnock on Sunday. The Scottish champions made light of the absence of their manager Martin O'Neill, who was hospitalized for a \"small procedure\" earlier in the week. Despite O'Neill's absence, the team remained focused and delivered a convincing performance, with Kasper Høgh emerging as the star of the show.\n\nHøgh, who recently joined Celtic from Bodø/Glimt, marked his first goals for the club with a hat-trick, showcasing his impressive skills on the field. The 5-1 win marked Celtic's second victory in as many Scottish Premiership games, further solidifying their position in the league. The team's performance was a testament to their resilience and determination, even in the absence of their leader.\n\nThe win is a welcome boost for Celtic ahead of their upcoming fixtures, and it will be interesting to see how O'Neill's health and well-being progress in the coming days. For now, Celtic can celebrate their impressive victory and the promising start to the season from their new signing, Kasper Høgh.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/9/2026 21:13:08",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-219",
-    "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
-    "slug": "ocasio-cortez-says-new-age-progressives-answer-to-no-master",
-    "content": "Democratic Representative Alexandria Ocasio-Cortez of New York has voiced her support for progressive candidates within the party, praising their ability to operate independently. Speaking on Sunday, Ocasio-Cortez expressed admiration for insurgent candidates who are running in various elections, highlighting their determination to chart their own course. According to her, this independence is a key aspect of what makes her proud of these candidates, as it enables them to answer to no one but their own constituents.\n\nOcasio-Cortez's comments come at a time when the Democratic Party is grappling with internal divisions, with some factions pushing for a more moderate approach and others advocating for a more progressive agenda. The New York representative's endorsement of insurgent candidates suggests that she is aligned with the latter group, which seeks to challenge the status quo and push for more significant policy changes. By backing these candidates, Ocasio-Cortez is signaling her commitment to the progressive wing of the party and its values.\n\nAs the Democratic Party navigates its internal dynamics, Ocasio-Cortez's support for progressive candidates is likely to have significant implications. Her endorsement can help to galvanize support for these candidates and provide a boost to their campaigns. With the 2024 elections on the horizon, Ocasio-Cortez's comments are a reminder that the Democratic Party's internal debates will continue to shape the party's trajectory in the years to come.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/9/2026 21:12:56",
-    "author": "The Hill",
     "isFeatured": false
   }
 ]
