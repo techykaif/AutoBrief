@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260810-308",
+    "title": "Valve expands SteamOS support to additional non-Valve hardware",
+    "slug": "valve-expands-steamos-support-to-additional-non-valve-hardware",
+    "content": "A software update released this week adds a series of enhancements to MSI’s Intel‑based Claw 8 EX AI+ handheld gaming device, alongside improvements for several other MSI products. The patch, identified as version 1.3.0, was distributed through MSI’s Dragon Center utility and is intended to refine system stability, boost frame‑rate consistency, and optimize the device’s on‑board artificial‑intelligence features.\n\nAccording to the accompanying release notes, the update refines power‑management algorithms to extend battery life during intensive gaming sessions, recalibrates the AI‑assisted upscaling engine for sharper image rendering, and resolves compatibility issues reported with recent Windows 11 builds. Additional minor bug fixes address peripheral connectivity and firmware synchronization across MSI’s broader hardware lineup. The company advises users to apply the update promptly to benefit from the performance and reliability enhancements.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 4:42:13",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260810-307",
+    "title": "Taylor Farms recalls jalapeño products over Salmonella contamination",
+    "slug": "taylor-farms-recalls-jalape-o-products-over-salmonella-contamination",
+    "content": "A nationwide recall of jalapeño‑based products has been announced, covering 26 states and affecting a wide range of foods sold at major retailers. The recall, issued by the U.S. Food and Drug Administration, involves fresh jalapeño peppers, pre‑packaged jalapeño slices, sauces, salsas, and spice blends that were distributed to grocery chains such as Walmart, Kroger, Safeway, and Target. The affected items carry a warning that they may contain undeclared allergens or contaminants that could pose a health risk.\n\nThe recall was triggered after routine testing revealed elevated levels of a bacterial pathogen in several batches of jalapeño products. The FDA has requested that consumers who purchased any of the listed items return them to the point of sale for a full refund or, if returned, to discard them safely. Retailers are working with suppliers to remove the products from shelves and to provide consumers with information on how to identify the recalled items by lot number and expiration date.\n\nConsumers are advised to check the labels of any jalapeño products they have purchased and to follow the instructions on the recall notice. The FDA will continue to monitor the situation and will issue updates as more information becomes available.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 4:42:08",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260810-306",
     "title": "Ford to introduce $25,000 Escape-sized crossover",
     "slug": "ford-to-introduce-25-000-escape-sized-crossover",
