@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260811-366",
+    "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+    "slug": "apple-silicon-and-macos-vms-11-16-faster-llm-inference-with-llama-cpp",
+    "content": "GPU Passthrough on macOS VMS: A Breakthrough for Virtual Machine Users\n\nA recent development in the world of virtualization has brought significant improvements for users of macOS virtual machines (VMS). A GitHub repository has been updated with a detailed guide on how to achieve GPU passthrough on macOS VMS, a feature that allows virtual machines to utilize the host machine's graphics processing unit (GPU) directly. This breakthrough is expected to enhance the performance and capabilities of virtual machines running on macOS hosts.\n\nAccording to the guide, the process involves modifying the host machine's kernel extension and configuring the virtual machine to utilize the passthrough feature. The update is based on research and contributions from the open-source community, and it has been well-received by users who have been seeking a solution to this long-standing issue. The ability to passthrough the GPU will enable users to run graphics-intensive applications and games within their virtual machines, making it a significant development for professionals and gamers alike.\n\nThe update has sparked excitement in the tech community, with users eagerly testing and sharing their experiences with the new feature. As the guide is open-source and community-driven, it is expected to continue evolving and improving over time, making it a valuable resource for users of macOS VMS.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 21:42:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-362",
+    "title": "Rivian CEO to Discuss EV Strategy at Disrupt 2026",
+    "slug": "rivian-ceo-to-discuss-ev-strategy-at-disrupt-2026",
+    "content": "Rivian CEO RJ Scaringe Takes Stage at TechCrunch Disrupt 2026\n\nAt the highly anticipated TechCrunch Disrupt 2026 conference, Rivian CEO RJ Scaringe is set to share his entrepreneurial journey and the valuable lessons he has learned along the way. As the leader of the electric vehicle manufacturer, Scaringe has navigated the company through significant growth and innovation, transforming it into a major player in the industry. With Rivian's recent expansion into new markets and its continued focus on sustainability, Scaringe's insights are expected to provide valuable context for attendees and industry observers alike.\n\nScaringe's presentation promises to offer a unique perspective on the challenges and opportunities that have shaped Rivian's development. From its early days as a startup to its current status as a publicly traded company, Scaringe will likely discuss the key decisions and strategies that have contributed to Rivian's success. With the electric vehicle market continuing to gain momentum, Scaringe's insights on navigating the complexities of the industry and staying ahead of the competition will be particularly relevant.\n\nAs Scaringe takes the stage at TechCrunch Disrupt 2026, attendees can expect to gain a deeper understanding of the lessons he has learned throughout his journey. With Rivian's commitment to innovation and sustainability at the forefront, Scaringe's presentation is poised to inspire and educate a new generation of entrepreneurs and industry leaders.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 21:42:40",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-361",
+    "title": "Block Blast! Joins Apple Arcade in Ad-Free Format",
+    "slug": "block-blast-joins-apple-arcade-in-ad-free-format",
+    "content": "Block Blast!, the highly-anticipated mobile game that dominated the download charts in 2025, is set to make its debut on Apple Arcade this September. The game, which has garnered a massive following worldwide, will be available exclusively on the popular gaming subscription service, offering players a seamless and uninterrupted experience. By joining Apple Arcade, Block Blast! will become ad-free, allowing users to fully immerse themselves in the game without any distractions.\n\nThe decision to bring Block Blast! to Apple Arcade marks a significant milestone for the game's developers, who have been working tirelessly to create an engaging and addictive experience for their fans. The game's success can be attributed to its unique blend of puzzle-solving and strategy, which has captivated players of all ages. With its ad-free release on Apple Arcade, the game is poised to reach an even wider audience, further solidifying its position as one of the most popular mobile games of the year.\n\nThe addition of Block Blast! to Apple Arcade is expected to be a major draw for subscribers, offering a fresh and exciting experience that complements the service's existing lineup of exclusive titles. As the gaming landscape continues to evolve, the partnership between Block Blast! and Apple Arcade is set to provide players with a unique and enjoyable experience that showcases the best of both worlds.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 21:42:36",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-360",
+    "title": "Delta Flight Disrupted by Rogue Wi-Fi Network",
+    "slug": "delta-flight-disrupted-by-rogue-wi-fi-network",
+    "content": "Delta Flight Experiences Brief Disruption Due to Wi-Fi Incident\n\nA Delta Air Lines flight experienced a brief disruption after the crew took the unusual step of switching off the aircraft's legitimate Wi-Fi network. According to a spokesperson for the airline, the decision was made in response to an incident that occurred on board, although the nature of the incident has not been disclosed. The crew temporarily disabled the Wi-Fi service for approximately 30 minutes to address the situation.\n\nThe exact circumstances surrounding the incident remain unclear, and Delta has not provided further details. However, the airline's decision to disconnect the Wi-Fi network suggests that the incident may have posed a potential security risk or disruption to the flight. Passengers on board were likely affected by the loss of connectivity, although it is not known whether the incident had any significant impact on the flight's overall operation.\n\nThe incident highlights the importance of airline crew members being able to respond quickly and effectively to unexpected situations on board. Despite the brief disruption, the flight is reported to have continued on schedule, with passengers eventually regaining access to the Wi-Fi network once the issue had been resolved.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 21:42:31",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-359",
+    "title": "Joby Aviation Expands into Defense with $500M Acquisition",
+    "slug": "joby-aviation-expands-into-defense-with-500m-acquisition",
+    "content": "Joby Aviation, a leading electric vertical takeoff and landing (eVTOL) aircraft manufacturer, has announced a significant move into the defense sector. The company has reached an agreement to acquire Resonant Sciences, a cutting-edge defense technology firm specializing in advanced materials and sensors. This strategic partnership marks a major milestone in Joby Aviation's expansion into the defense industry, as it looks to leverage its expertise in eVTOL technology to develop innovative solutions for military and defense applications.\n\nThe acquisition is expected to propel Joby Aviation's entry into the defense market, with Resonant Sciences bringing its expertise in materials science and sensor technologies to the table. The company's eVTOL aircraft, designed for commercial use, will now be adapted for defense purposes, potentially providing the military with faster, more agile, and quieter transportation options. The integration of Resonant Sciences' advanced technologies will also enhance the overall performance and capabilities of Joby Aviation's eVTOL aircraft, enabling them to operate in a wider range of environments and conditions.\n\nThis move highlights Joby Aviation's commitment to diversifying its business and exploring new markets. As the company continues to push the boundaries of eVTOL technology, its entry into the defense sector is expected to open up new opportunities for growth and innovation. With the acquisition of Resonant Sciences, Joby Aviation is well-positioned to capitalize on the growing demand for advanced defense technologies and establish itself as a major player in the industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 21:42:25",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-358",
+    "title": "Bulgaria Hosts Digital Art Festival",
+    "slug": "bulgaria-hosts-digital-art-festival",
+    "content": "The southern Black Sea coast of Bulgaria was transformed into a vibrant open-air gallery from 7 to 10 August, as it played host to the second edition of the LUNAR: Sea of Lights festival. This unique event brought together a diverse range of artistic expressions, showcasing 17 light and digital artworks that illuminated the region. By doing so, it created an immersive experience for visitors, blending art, technology, and the natural beauty of the coastal landscape.\n\nThe festival spanned across five seaside communities, each offering a distinct setting for the artworks on display. The combination of light installations, digital projections, and interactive exhibits not only added a new dimension to the traditional seaside experience but also highlighted the potential for public spaces to serve as dynamic canvases for artistic expression. The inclusion of digital artworks further underscored the evolving nature of art, embracing technology as a medium to engage audiences and push creative boundaries. As a result, the festival attracted a wide range of visitors, from local residents to tourists, all of whom were treated to an unforgettable visual spectacle.\n\nThe success of the LUNAR: Sea of Lights festival in bringing art and community together underscores the power of public art initiatives in revitalizing public spaces and fostering a sense of cultural vibrancy. As the event concludes, it leaves behind a lasting impression on the southern Black Sea coast, with the hope that such initiatives will continue to flourish, enriching the cultural landscape of the region and providing a unique experience for all who visit.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:42:21",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-354",
+    "title": "Rwanda's 1994 Tutsi genocide linked to colonial legacy and extremist politics",
+    "slug": "rwanda-s-1994-tutsi-genocide-linked-to-colonial-legacy-and-extremist-politics",
+    "content": "The 1994 Rwandan genocide, which claimed an estimated 800,000 lives, was not an isolated outbreak of violence but the culmination of long‑standing colonial legacies, rising extremist politics, and the strategic use of broadcast media. During Belgian rule, the colonial administration institutionalised ethnic divisions by granting the Tutsi minority preferential status in education, administration, and the military, while the Hutu majority was systematically marginalised. This engineered hierarchy created deep resentment and a sense of identity that later became a rallying point for extremist groups.\n\nIn the years leading up to the genocide, the Rwandan Patriotic Front (RPF) and the government’s own extremist factions intensified propaganda that portrayed the Hutu as the true “enemy” of the nation. Radio stations such as Radio Télévision Libre des Mille Collines (RTLM) amplified these narratives, broadcasting calls to arms, dehumanising language, and instructions for mass killings. The combination of entrenched ethnic divisions, political manipulation, and the real‑time reach of hate radio turned a volatile situation into a coordinated campaign of mass murder, enabling perpetrators to mobilise thousands across the country in a matter of weeks. The coordinated use of media and political rhetoric demonstrates how structural factors can transform spontaneous violence into systematic, state‑backed genocide.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:42:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-353",
+    "title": "Hungary elects new supreme court judge to replace ousted Orban appointee",
+    "slug": "hungary-elects-new-supreme-court-judge-to-replace-ousted-orban-appointee",
+    "content": "Baka has been appointed to replace Tamas Sulyok in the position that had been held by the former Orban appointee. Sulyok was removed a few weeks ago amid Prime Minister Viktor Tisza’s campaign to dismantle the power structures that were established during the previous administration. The change follows a series of high‑profile resignations and dismissals that have reshaped the leadership of key state institutions.\n\nSulyok’s tenure was marked by close alignment with the policies of the former government, and his ouster was seen as a symbolic victory for Tisza’s reform agenda. Baka’s appointment signals a continued effort to install officials who are more closely aligned with the current administration’s priorities. The move is part of a broader strategy to consolidate control over institutions that were perceived to be loyal to the former leadership.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:41:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-352",
+    "title": "Lebanon Parliament Votes to Abolish Death Penalty",
+    "slug": "lebanon-parliament-votes-to-abolish-death-penalty",
+    "content": "Beirut – Lebanon’s parliament has passed a landmark bill that would abolish the death penalty, making the nation the first in the Middle East to eliminate capital punishment. The legislation, which now proceeds to the cabinet for final approval, repeals all statutes authorising execution for crimes ranging from murder to treason and mandates the commutation of existing death sentences to life imprisonment.\n\nIf the cabinet signs off, Lebanon will join a growing global movement toward abolition, aligning its criminal justice system with international human‑rights standards and setting a precedent for neighboring states. The reform follows years of advocacy by local NGOs and international organizations, and its enactment would mark a significant shift in the region’s approach to punitive measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:41:54",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-351",
+    "title": "Colombia earthquake kills at least 169, triggers state of emergency",
+    "slug": "colombia-earthquake-kills-at-least-169-triggers-state-of-emergency",
+    "content": "Colombia has declared a state of emergency after a powerful earthquake struck the country, killing at least 169 people. The disaster has prompted an urgent response from national authorities and international aid organizations.\n\nThe quake, one of the largest to hit Colombia in recent years, caused widespread damage across several regions, leaving communities in shock and emergency services overwhelmed. Rescue teams are working to locate survivors and provide medical care, while the government has mobilized additional resources to support affected populations.\n\nAuthorities continue to assess the full extent of the damage and coordinate relief efforts. The declaration of a state of emergency allows for the allocation of emergency funds and the deployment of additional personnel to the hardest-hit areas.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:41:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-350",
+    "title": "Russia releases former US Marine Robert Gilman amid health concerns",
+    "slug": "russia-releases-former-us-marine-robert-gilman-amid-health-concerns",
+    "content": "Robert Gilman was taken into custody in 2022 after police reported that he kicked an officer while under the influence of alcohol. The incident, which occurred during a routine patrol in downtown Springfield, led to Gilman’s arrest on charges of assault on a law‑enforcement officer and public intoxication. According to court documents, officers noted that Gilman exhibited erratic behavior prior to the altercation and was subsequently detained at the county jail.\n\nMedical staff later assessed Gilman and described his condition as “catatonic‑like,” indicating a prolonged state of unresponsiveness and reduced motor activity. The diagnosis was documented in a hospital report submitted to the court, and his defense team has cited the condition as a factor in seeking a reduced sentence. Prosecutors, however, maintain that the assault was intentional and that the medical findings do not negate the seriousness of the offense. The case is scheduled for a sentencing hearing later this month, where the judge will consider both the criminal conduct and the reported health concerns.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 21:41:44",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260811-349",
     "title": "Lion Nebula Captured by James Webb Space Telescope",
     "slug": "lion-nebula-captured-by-james-webb-space-telescope",
@@ -5376,127 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/10/2026 13:32:11",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-052",
-    "title": "Western Europe hits new June-July temperature record amid heat wave",
-    "slug": "western-europe-hits-new-june-july-temperature-record-amid-heat-wave",
-    "content": "Western Europe is experiencing an unprecedented heat wave that has broken the average temperature record for the June‑July period, surpassing the benchmark set in 2022, according to data from the European climate monitoring agency Copernicus. The extreme temperatures, which began to rise in May, have already triggered widespread wildfires, prolonged drought conditions, and a series of new national heat records across the region.\n\nThe heat wave is projected to cause thousands of heat‑related deaths and adds to a broader climatic trend, with the current year ranking as the third‑hottest on record globally, following 2024 and 2025. These developments underscore the escalating intensity of summer heat events in Europe and their growing impact on public health and the environment.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/10/2026 13:32:06",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-051",
-    "title": "Europe’s nuclear plants cut output due to heat and low river levels",
-    "slug": "europe-s-nuclear-plants-cut-output-due-to-heat-and-low-river-levels",
-    "content": "Warm river temperatures and unusually low water levels are compelling nuclear power stations throughout Europe to curtail their output, a trend that has become increasingly visible this summer. Operators of reactors that rely on river water for cooling have been forced to lower generation rates to protect equipment, prompting a continent‑wide reduction in nuclear supply that, while modest in aggregate over the past year, spikes sharply on days when demand is high and alternative sources are constrained.\n\nThe intermittent shortfalls have begun to ripple through electricity grids, prompting system operators to call on reserve capacity and driving up wholesale power prices in several markets. Analysts note that even limited cuts from nuclear—traditionally a baseload source—can strain the balance of supply and demand, especially in regions where renewable generation is also affected by weather conditions. As water temperatures remain elevated, regulators and plant managers are monitoring the situation closely, preparing contingency measures to mitigate further disruptions and stabilize pricing across the European energy network.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/10/2026 13:32:01",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-050",
-    "title": "Former Thai MP arrested after shooting senior official in government office",
-    "slug": "former-thai-mp-arrested-after-shooting-senior-official-in-government-office",
-    "content": "A former member of parliament allegedly opened fire on a senior government official inside a Bangkok administrative building on Tuesday, discharging multiple rounds before security forces apprehended him. Police confirmed that the suspect, identified as a former lawmaker, entered the office area and targeted the official, who sustained non‑life‑threatening injuries and was taken for medical treatment. The shooter was detained at the scene without further resistance, and investigators are gathering evidence to determine a motive.\n\nThe attack follows Thailand’s deadliest mass shooting in nearly four years, which occurred earlier in the week and left several casualties. Authorities have heightened security across government facilities and urged the public to remain vigilant as they continue to probe both incidents. Officials emphasized that the investigations are ongoing and that any connections between the two events will be thoroughly examined.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/10/2026 13:31:56",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-049",
-    "title": "Unrest Escalates in Pakistan-Administered Kashmir Amid Political and Economic Tensions",
-    "slug": "unrest-escalates-in-pakistan-administered-kashmir-amid-political-and-economic-te",
-    "content": "Unrest in Pakistan‑administered Kashmir has intensified over the past weeks as residents stage protests over a combination of political, economic and security grievances. Demonstrators have taken to the streets in Gilgit‑Baltistan and Azad Jammu and Kashmir (AJK) demanding greater political autonomy, an end to alleged electoral manipulation, and the release of detained activists. The protests were sparked by the recent local elections, which opposition parties claim were marred by irregularities, and have been amplified by a sharp rise in unemployment and inflation that has eroded household incomes. In addition, water shortages and power outages have heightened public frustration, prompting community leaders to call for immediate remedial measures from the federal government.\n\nSecurity forces have responded with curfews, arrests and the deployment of additional troops, actions that have further inflamed tensions and drawn criticism from human‑rights groups. Analysts note that the unrest is also being fueled by the broader India‑Pakistan rivalry, as cross‑border rhetoric and military posturing have heightened nationalist sentiments on both sides of the Line of Control. While authorities have pledged dialogue and development projects to address the underlying issues, the continuation of demonstrations suggests that the region remains volatile, with the potential for further escalation if core concerns are not addressed.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/10/2026 13:31:51",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-048",
-    "title": "August 12 solar eclipse: partial visibility for nearly 1 billion, totality for 15 million",
-    "slug": "august-12-solar-eclipse-partial-visibility-for-nearly-1-billion-totality-for-15",
-    "content": "On August 12, a solar eclipse will be visible across a broad swath of the globe, offering a rare viewing opportunity for an estimated 970 million people who will see a partial obscuration of the Sun, while roughly 15 million observers located within the narrow corridor of totality will experience a complete blackout of daylight.  \n\nThe event will unfold as the Moon passes between Earth and the Sun, casting its shadow over the planet. For the majority of the region, the Moon will cover only a portion of the solar disk, producing a partial eclipse that can be safely observed with appropriate eye protection. In contrast, those situated along the path of totality—where the Moon’s umbral shadow touches the surface—will witness a total eclipse, a phenomenon that lasts only a few minutes but provides a unique view of the solar corona.  \n\nAstronomers and the general public alike are expected to take advantage of the extensive visibility, which spans multiple continents and time zones, to conduct observations and engage in educational outreach. The eclipse presents a valuable moment for scientific data collection and public engagement with astronomy, underscoring the event’s significance beyond its visual spectacle.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/10/2026 13:31:46",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-047",
-    "title": "Harry Potter fans prompt route change for UK‑Ireland power link over grave concerns",
-    "slug": "harry-potter-fans-prompt-route-change-for-uk-ireland-power-link-over-grave-conce",
-    "content": "Fans of the Harry Potter franchise voiced strong objections after a project manager, speaking to the BBC, indicated that new utility cables would be installed beneath a grave linked to the series. The comment was made during a televised interview about a planned infrastructure upgrade in the vicinity of the Warner Bros. Studio Tour in Leavesden, where a memorial site dedicated to the late actor who portrayed a key character has become a point of pilgrimage for supporters worldwide.\n\nThe project, overseen by a regional utilities firm, aims to modernise power and broadband services across the area, and the manager’s suggestion that the cables could be routed under the grave sparked concerns about respect for the site and potential damage to the memorial. Representatives of the studio and the local council have since stated that they will review the routing plans and consult with heritage advisers to ensure that any work complies with preservation guidelines. The review is expected to determine whether alternative pathways can be employed without compromising the integrity of the grave.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/10/2026 11:33:00",
-    "author": "BBC Entertainment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-046",
-    "title": "Game of Thrones stage spin‑off debuts at Shakespeare's Globe",
-    "slug": "game-of-thrones-stage-spin-off-debuts-at-shakespeare-s-globe",
-    "content": "**New Epic Fantasy Film Receives Positive Critical Reception**\n\nThe latest installment in the long‑running *Eldoria* franchise, *The Dragon’s Rise*, opened in theaters nationwide on August 1. Directed by Ava Martinez and starring Liam O’Connor, Maya Patel, and veteran actor Daniel Kwan, the film follows the young sorcerer Aric as he unites the fractured kingdoms to confront a resurrected dragon threat. The production features expansive world‑building, high‑budget visual effects, and a score composed by renowned composer Elena Ruiz.\n\nCritics across major publications have largely praised the film’s ambition and its adherence to the franchise’s core themes. Review aggregates show a 78% approval rating, with reviewers noting strong character development, intricate plot twists, and a satisfying blend of action and mythology. The consensus highlights the film’s success in expanding the *Eldoria* mythos while maintaining continuity with earlier entries, describing it as a “worthy addition to the epic fantasy franchise.”\n\nIndustry analysts predict that the positive critical reception will bolster box‑office performance, with the film projected to surpass $200 million worldwide in its opening weekend. The studio has announced plans for a sequel, contingent on the film’s commercial success, and has already begun preliminary discussions for a spin‑off series exploring the origins of the dragon lineage.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/10/2026 11:32:54",
-    "author": "BBC Entertainment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-045",
-    "title": "Andoni Iraola leads Liverpool in four pre-season matches",
-    "slug": "andoni-iraola-leads-liverpool-in-four-pre-season-matches",
-    "content": "Liverpool’s new manager, Andoni Iraola, is already leaving a noticeable imprint on the squad, despite the limited scope of the four pre‑season fixtures. The Reds have shown a more disciplined defensive structure, with a higher defensive line and a quicker off‑side trap that has reduced the number of goals conceded. Offensively, the team has experimented with a 4‑3‑3 formation, allowing the midfield trio to provide both defensive cover and creative support for the front three, which has resulted in a higher possession percentage than in the previous campaign.\n\nPlayer development and morale appear to be improving under Iraola’s leadership. Several young players have earned starting roles, and the coaching staff has emphasized a more data‑driven approach to training, incorporating video analysis and individualized fitness plans. The club’s medical team has reported fewer injury concerns, suggesting that the new training regimen is effective. Additionally, the club’s communication strategy has been streamlined, with regular press conferences and transparent updates that have helped maintain fan engagement.\n\nIn summary, while the pre‑season sample size is small, Liverpool’s early results indicate a positive trajectory under Iraola. The team’s tactical consistency, focus on player development, and improved physical conditioning point to a solid foundation for the upcoming Premier League season. The Reds are shaping up as a more cohesive, defensively robust unit that is ready to compete at the highest level.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/10/2026 11:32:49",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-044",
-    "title": "Lib Dems warn NHS reforms could spark patient safety crisis",
-    "slug": "lib-dems-warn-nhs-reforms-could-spark-patient-safety-crisis",
-    "content": "A political party has warned that the government's proposed reforms to modernise the National Health Service could expose the country to a repeat of the major hospital scandal that shook public trust last year. The party’s spokesperson argued that the sweeping changes—aimed at improving efficiency and integrating digital technology—could undermine existing safeguards and lead to lapses in patient safety if not carefully managed. “Modernisation must not come at the cost of accountability,” the spokesperson said, citing the recent incident where a lack of oversight contributed to a tragic outcome for a patient.\n\nThe government’s plan, unveiled earlier this month, seeks to overhaul hospital infrastructure, streamline administrative processes, and introduce new data‑sharing protocols across the NHS. Proponents say the reforms will reduce waiting times and improve care coordination, while critics point to the risk of over‑centralisation and potential breaches of patient confidentiality. The party has called for a comprehensive review of the proposals, including independent audits and stronger regulatory oversight, to ensure that lessons from the past scandal are fully incorporated into the new framework.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/10/2026 11:32:44",
-    "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-043",
-    "title": "Burnham advances ban on subscription traps as part of cost‑of‑living tour",
-    "slug": "burnham-advances-ban-on-subscription-traps-as-part-of-cost-of-living-tour",
-    "content": "The prime minister is set to commence a nationwide tour of the United Kingdom, during which a series of policy announcements will be made with the explicit aim of easing the cost of living for households across the country. The itinerary, confirmed by the Prime Minister’s Office, includes stops in major urban centres and regional towns, signalling a broad outreach to constituencies that have expressed heightened concerns over rising expenses in energy, housing and everyday goods.\n\nIn each location, the government plans to unveil measures designed to reduce financial pressure, ranging from targeted tax relief and increased support for low‑income families to initiatives intended to stabilise utility prices. Officials say the announcements are part of a coordinated effort to address inflationary trends that have persisted since the previous year, and to reinforce the administration’s commitment to economic stability. The tour is expected to conclude next week, after which the outlined policies will be forwarded to Parliament for legislative consideration.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/10/2026 11:32:40",
-    "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260810-042",
-    "title": "UK to see deep partial solar eclipse on 12 August",
-    "slug": "uk-to-see-deep-partial-solar-eclipse-on-12-august",
-    "content": "The night of 12–13 August will offer a double celestial spectacle for stargazers across the UK. The annual Perseid meteor shower is expected to reach its peak during the early hours of 13 August, while earlier that evening a deep partial solar eclipse will sweep across the country. The eclipse will begin shortly after 6 pm BST and reach its maximum at approximately 7:13 pm, when roughly 90 % of the Sun’s diameter will be obscured.\n\nObservers in much of the UK will see the Sun low in the western sky during the event, making a location with an unobstructed western horizon essential for the best view. The magnitude of the eclipse is the deepest partial solar eclipse visible in the UK since 1999, providing a rare opportunity for both amateur and professional astronomers to record the phenomenon. The Perseid peak will follow shortly after midnight, offering a continuous night of astronomical activity.\n\nAstronomical societies advise that viewers exercise caution when observing the eclipse, using proper eye protection or indirect viewing methods. With the combination of a significant partial eclipse and the bright Perseid shower, the 12–13 August night promises a memorable evening for sky‑watchers across the United Kingdom.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/10/2026 11:32:35",
-    "author": "Guardian Science",
     "isFeatured": false
   }
 ]
