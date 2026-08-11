@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260811-036",
+    "title": "Trump warns Fifa against replacing Gianni Infantino",
+    "slug": "trump-warns-fifa-against-replacing-gianni-infantino",
+    "content": "Former U.S. President Donald Trump took to Truth Social on Thursday to defend FIFA president Gianni Infantino, warning that removing the Swiss‑born football chief would be a “terrible mistake.”  Trump’s post came amid growing criticism of Infantino’s recent attempt to sell stakes in the men’s World Cup to private investors, a move that has been described as a “doomed” plan by analysts and has intensified pressure on the organization to maintain its current leadership.\n\nInfantino’s proposal, aimed at increasing private investment and revenue for the tournament, faced opposition from FIFA’s executive committee and several national associations, who argued that it could compromise the sport’s integrity and fan experience.  The backlash has prompted calls for a leadership review, but Trump’s support underscores the political dimension of the controversy, suggesting that any leadership change could have broader implications for FIFA’s global influence and commercial strategy.  As the debate continues, FIFA’s next steps will likely focus on balancing stakeholder concerns with the need to preserve the organization’s stability and reputation.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/11/2026 9:43:11",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-035",
+    "title": "Judge Blocks NYC Second Home Tax Plan",
+    "slug": "judge-blocks-nyc-second-home-tax-plan",
+    "content": "A judge in Staten Island has temporarily halted New York City’s rollout of a new tax targeting second homes valued at more than $5 million. The order, issued by State Supreme Court Justice Wayne Ozzie, requires the city to remove a public database that lists over 900,000 properties presumed to be second homes. The tax, which was slated to take effect at the beginning of the fiscal year, would have imposed an additional levy on owners of luxury residences that fall into the high‑value bracket.\n\nThe database, maintained by the city’s Department of Finance, was intended to identify eligible properties for the tax. Critics argue that the list’s broad criteria could misclassify primary residences and that the tax would disproportionately burden wealthy homeowners. Justice Ozzie’s injunction was grounded in concerns over the accuracy of the data and the potential for unintended consequences, citing the need for a more precise methodology before the tax can be implemented.\n\nCity officials have said they will appeal the ruling and seek to refine the database and the tax’s parameters. In the meantime, the temporary block means the $5 million‑plus second‑home tax will not be enforced until the court’s decision is finalized. The case underscores the ongoing debate over how best to raise revenue from high‑end real‑estate assets while ensuring fairness and due process.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/11/2026 9:43:05",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-034",
+    "title": "AMA Criticizes Trump Vaccine Schedule Order",
+    "slug": "ama-criticizes-trump-vaccine-schedule-order",
+    "content": "The American Medical Association (AMA) has publicly condemned President Donald Trump’s latest executive order on childhood immunizations, stating that the new recommendations pose a risk to children’s health. On Monday, AMA president Dr. Willie Underwood III joined a growing number of medical experts who have criticized the directive, arguing that it undermines proven public‑health measures. The order, issued earlier this week, calls for a review of current vaccine schedules and has sparked concern among health professionals nationwide.\n\nDr. Underwood emphasized that vaccines are among the most thoroughly studied and effective tools for preventing serious diseases in children. “Vaccines are among the most thoroughly studied, effective tools we have to protect children from serious vaccine‑preventable diseases,” he said. By aligning with other experts, the AMA underscores that any deviation from established immunization protocols could compromise herd immunity and increase the risk of outbreaks.\n\nThe AMA’s statement highlights the broader debate over the administration’s public‑health policies. While the executive order seeks to reassess vaccine schedules, the medical community warns that such changes could erode confidence in immunization programs and jeopardize child health. The organization’s critique serves as a reminder that policy shifts in vaccination strategy must be grounded in robust scientific evidence to safeguard public well‑being.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/11/2026 9:42:57",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-033",
+    "title": "Australia to vaccinate captive native birds against H5 bird flu",
+    "slug": "australia-to-vaccinate-captive-native-birds-against-h5-bird-flu",
+    "content": "Australia’s federal government has announced a new vaccination campaign aimed at protecting native bird species from the rapidly spreading H5 bird‑flu virus. Agriculture Minister Julie Collins said the first round of shots will be administered to captive populations of high‑risk species in the coming days and weeks, with a focus on those most vulnerable to the disease. The initiative follows a series of outbreaks that have already affected poultry and wild birds across the country.\n\nWhile the rollout will begin with birds held in zoos, wildlife parks and other controlled environments, officials admit that vaccinating wild birds presents significant logistical challenges. Capturing a single individual is already difficult, and administering the required two‑dose schedule is considered even more problematic. As a result, the government plans to prioritize captive populations while continuing to monitor wild bird movements and disease spread.\n\nThe vaccination program is part of a broader effort to curb the spread of H5 and protect Australia’s biodiversity. The authorities will evaluate the effectiveness of the campaign and adjust strategies as more data become available, maintaining a focus on safeguarding both domestic poultry and native wildlife.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/11/2026 9:42:50",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-032",
+    "title": "MIT PhD student Jessica Fry pursues dark matter detection",
+    "slug": "mit-phd-student-jessica-fry-pursues-dark-matter-detection",
+    "content": "Jessica Fry, a PhD candidate at MIT’s Laboratory for Nuclear Science, has traded a career on Broadway for a quest to uncover the universe’s most elusive particle.  With a background in performance arts that honed her discipline and collaborative spirit, Fry now applies those same skills to the precise, data‑driven environment of particle physics.  Her current research focuses on detecting weakly interacting massive particles (WIMPs), the leading candidates for dark matter, which has long evaded direct observation.\n\nAt the Laboratory for Nuclear Science, Fry works with the LUX‑ZEPLIN (LZ) collaboration, operating a liquid‑xenon detector deep underground at the Sanford Underground Research Facility.  The experiment seeks to register the faint signals produced when a dark matter particle might collide with a xenon nucleus, a process that is exceedingly rare and requires meticulous background suppression",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 9:42:43",
+    "author": "MIT News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-031",
+    "title": "Antirez Releases MiniMax H3 Inference Engine for Mac",
+    "slug": "antirez-releases-minimax-h3-inference-engine-for-mac",
+    "content": "A new C implementation of Uber’s H3 geospatial indexing library has been released on GitHub by Salvatore Sanfilippo, better known as Antirez, the creator of Redis. The repository, hosted at https://github.com/antirez/h3, contains the source code, build scripts, and documentation for a lightweight, high‑performance C library that exposes the H3 API. The project is designed to be easy to integrate into existing C or C++ applications that require efficient spatial indexing and hexagonal tiling of geographic data.\n\nThe release attracted attention on Hacker News, where the discussion link https://news.ycombinator.com/item?id=49252179 garnered 81 points and seven comments. Contributors praised the library’s simplicity and the clear inline comments that aid developers unfamiliar with H3’s concepts. Some commenters noted the potential for using the library in real‑time mapping services and spatial analytics pipelines, while others highlighted the importance of maintaining compatibility with the original H3 reference implementation.\n\nOverall, the Antirez H3 repository provides a concise, well‑documented C port of a widely used geospatial indexing system, offering developers a straightforward option for incorporating H3 functionality into performance‑critical applications. The modest but focused reception on Hacker News suggests a niche but growing interest in this lightweight solution among the developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-030",
+    "title": "Recycle – Floppydisks",
+    "slug": "recycle-floppydisks",
+    "content": "A new online initiative aimed at reducing electronic waste has drawn attention on the technology news aggregator Hacker News. The website Floppydisk.com, which specializes in the collection and recycling of obsolete magnetic storage media, launched a dedicated “Recycle” portal that allows users to schedule the pickup of legacy floppy disks, Zip drives, and related hardware. The service, announced on the site’s homepage, offers free shipping labels and partners with certified e‑waste recyclers to ensure that the magnetic media are safely destroyed and the plastic components are processed in accordance with environmental regulations.\n\nThe announcement quickly garnered 24 up‑votes and three comments on Hacker News, where users discussed the environmental impact of discarding outdated storage devices and the practicality of the program for both individuals and small businesses. Commenters noted that while the volume of floppy disks in circulation is modest compared to modern electronics, their proper disposal prevents the release of hazardous materials and underscores a broader push toward responsible e‑waste management. The Floppydisk.com recycling effort represents a niche yet tangible step in addressing the growing challenge of electronic waste.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-029",
+    "title": "Hyperspace article receives 11 points and 4 comments on Hacker News",
+    "slug": "hyperspace-article-receives-11-points-and-4-comments-on-hacker-news",
+    "content": "A post linking to a piece on Hypercritical titled “Hyperspace” was recently shared on the Hacker News discussion forum (https://news.ycombinator.com/item?id=49252493). The submission attracted modest community interaction, accumulating 11 points from voters and generating four comments from readers. The linked article can be accessed directly at https://hypercritical.co/hyperspace/, though the content of the piece itself was not detailed in the forum thread.\n\nThe brief engagement suggests that the “Hyperspace” article sparked limited but measurable interest among the Hacker News audience. While the discussion did not expand into a larger debate, the presence of comments indicates that a subset of users found the material worth noting or questioning. The post’s performance reflects typical traffic patterns for niche tech or speculative topics within the community.\n\nOverall, the Hypercritical “Hyperspace” entry received a modest reception on Hacker News, with a small number of upvotes and comments highlighting a measured level of curiosity among the platform’s readers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-028",
+    "title": "Meta CEO Mark Zuckerberg proposes universal personal AI agents in new manifesto",
+    "slug": "meta-ceo-mark-zuckerberg-proposes-universal-personal-ai-agents-in-new-manifesto",
+    "content": "Meta chief executive Mark Zuckerberg outlined his company’s long‑term AI strategy on Monday, presenting a vision in which every user is equipped with a powerful personal artificial‑intelligence agent. He emphasized that such agents would be built on open‑source technology, positioning openness as a safeguard against the monopolization of advanced AI capabilities.\n\nZuckerberg argued that open‑source development can disperse control of sophisticated AI systems, preventing a small number of corporations, governments or other institutions from dominating the technology. By making the underlying models and tools publicly accessible, Meta aims to foster broader innovation while reducing the risk of concentrated power that could arise from proprietary, closed‑source AI platforms.\n\nThe CEO concluded that a decentralized, open‑source approach is central to ensuring that personal AI agents remain widely available and responsibly governed, aligning Meta’s future roadmap with broader industry concerns about AI concentration and governance.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:17",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-027",
+    "title": "Trump seeks Iran reparations amid Strait of Hormuz talks",
+    "slug": "trump-seeks-iran-reparations-amid-strait-of-hormuz-talks",
+    "content": "Washington has announced that President Joe Biden will press Tehran for a lump‑sum settlement covering “50 years” of alleged damages that the United States attributes to Iranian actions, linking the demand to any future agreement on the reopening of the Strait of Hormuz. The move comes after Iranian officials indicated that they would consider easing the strategic choke point only if the United States agreed to pay war reparations, a claim the U.S. government says lacks legal basis but which it is using as leverage in ongoing diplomatic talks.\n\nU.S. officials said the reparations request encompasses losses tied to regional conflicts, sanctions, and incidents dating back to the 1970s, and that the payment would be a prerequisite for any negotiated arrangement to restore normal shipping traffic through the narrow waterway. Iran, for its part, has framed the demand as a matter of national dignity and a condition for guaranteeing the free flow of oil and gas. Both sides remain at an impasse, and the standoff raises concerns about potential disruptions to global energy markets if the Hormuz corridor remains closed.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:10",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-026",
+    "title": "Colombia recognizes Israel's claim to Golan Heights",
+    "slug": "colombia-recognizes-israel-s-claim-to-golan-heights",
+    "content": "A South American nation has become only the second country worldwide to formally recognise Israel’s claims over the territory that Israel annexed in contravention of international law. The diplomatic move follows a similar recognition by the United States earlier this year and marks a notable shift in the region’s stance on the disputed area, which the United Nations and the majority of the international community continue to deem illegal.\n\nThe decision was announced by the foreign ministry in a statement that emphasized bilateral cooperation and strategic alignment with Israel, while reaffirming the nation’s sovereign right to determine its foreign policy. Critics have warned that the recognition could complicate the country’s relations with Arab and Muslim-majority states, as well as with multilateral bodies that have repeatedly called for a negotiated settlement based on pre‑1967 borders. The development adds another layer to the ongoing diplomatic contest over the annexed territory, underscoring the divergent approaches nations are taking amid a broader geopolitical realignment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-025",
+    "title": "US weapons shortages emerge amid Iran conflict, prompting defense spending review",
+    "slug": "us-weapons-shortages-emerge-amid-iran-conflict-prompting-defense-spending-review",
+    "content": "U.S. military officials confirmed this week that the ongoing conflict with Iran has revealed significant shortfalls in several key weapons systems, prompting renewed scrutiny of defense procurement practices that have shaped the Pentagon’s budget for the past decade. The shortages, reported by senior defense analysts, span precision‑guided munitions, air‑defense interceptors and certain armored vehicle components, all of which have been drawn down faster than anticipated amid heightened operational tempo in the region.\n\nThe Department of Defense attributed the gaps to a combination of accelerated consumption, delayed production schedules and the prioritization of other overseas engagements over inventory replenishment. Congressional oversight committees have requested detailed inventories and a review of the allocation of funds that have underpinned the United States’ defense spending strategy since 2015, citing concerns that the current shortfall could impair readiness for future contingencies. Defense contractors have indicated that supply‑chain constraints and labor shortages are also contributing to the lag in delivering new equipment to the field.\n\nLawmakers and senior defense officials said the findings underscore the need for a reassessment of acquisition timelines and stockpile management to ensure that the armed forces maintain sufficient capability in prolonged conflicts. The Pentagon has pledged to accelerate production of the most critical items and to conduct a comprehensive audit of its logistics framework, aiming to restore confidence in the nation’s defense preparedness while addressing the fiscal implications of the identified deficiencies.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:41:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-024",
+    "title": "Former gang boss Duane “Keffe D” Davis pleads not guilty in Tupac murder trial",
+    "slug": "former-gang-boss-duane-keffe-d-davis-pleads-not-guilty-in-tupac-murder-trial",
+    "content": "The trial of a 63‑year‑old former gang leader began on Monday, with the defendant formally entering a plea of not guilty. The case, brought before a criminal court, marks the first public hearing in a series of proceedings that address the individual’s alleged involvement in organized‑crime activities.\n\nCourt officials indicated that the trial will proceed through the standard phases of evidence presentation, witness testimony, and legal argument, after which a verdict will be rendered. The not‑guilty plea sets the stage for a contested trial, and the proceedings are expected to continue over the coming weeks as both prosecution and defense present their respective cases.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:41:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260811-019",
     "title": "Trump Media Reports $238M Loss as Crypto Declines",
     "slug": "trump-media-reports-238m-loss-as-crypto-declines",
@@ -5354,149 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/9/2026 15:43:02",
     "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-090",
-    "title": "AI Billionaires Plan Philanthropic Efforts",
-    "slug": "ai-billionaires-plan-philanthropic-efforts",
-    "content": "The emergence of artificial intelligence has created a new class of billionaires, many of whom are now pledging to donate their vast fortunes to charitable causes. This new generation of philanthropists, who have amassed their wealth through the development and implementation of AI technologies, are making multi-billion-dollar commitments to give back to society. The scale of these pledges is unprecedented, with some individuals vowing to donate the majority of their wealth during their lifetimes or beyond.\n\nThe motivations behind these philanthropic efforts are varied, but many of these AI billionaires are driven by a desire to mitigate the negative consequences of the technologies they have created. As AI continues to transform industries and disrupt traditional ways of life, there is a growing recognition of the need to address issues such as job displacement, bias, and inequality. By donating their wealth, these philanthropists aim to support initiatives that promote education, research, and social welfare, with the goal of creating a more equitable and just society. However, the effectiveness of these efforts will depend on the strategic allocation of resources and the ability to collaborate with existing charitable organizations and governments.\n\nAs the world waits to see the impact of these philanthropic efforts, there is a mix of optimism and skepticism about the potential of these multi-billion-dollar donations to drive meaningful change. While the scale of the pledges is certainly impressive, the complexity of the challenges being addressed will require sustained commitment, careful planning, and collaboration. Ultimately, the success of these philanthropic endeavors will depend on the ability of these AI billionaires to translate their wealth into tangible, positive outcomes, and to make a lasting difference in the lives of individuals and communities around the world.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/9/2026 15:42:53",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-082",
-    "title": "308 Nigerians Rescued After Six Months of Jihadist Captivity",
-    "slug": "308-nigerians-rescued-after-six-months-of-jihadist-captivity",
-    "content": "In a landmark operation, Nigerian security forces liberated 308 civilians who had been held captive by jihadist groups for six months, according to officials. The abductions, which occurred in two separate sites in the northwest, were ended on Thursday when troops conducted a coordinated assault that freed the hostages and captured several insurgents. The government has described the event as the largest single‑day rescue operation in the country’s history.\n\nThe rescued individuals have begun to speak publicly about their ordeal, recounting the conditions of confinement and the psychological toll of prolonged captivity. Interviews with survivors reveal that the abductions were part of a broader campaign by extremist groups to destabilize the region and exert control over local populations. The operation followed months of intelligence gathering and logistical preparation, underscoring the security forces’ commitment to countering insurgent threats in the area.\n\nAs the nation reflects on the success of the mission, authorities emphasize the need for continued vigilance against militant activity. The government has pledged to support the rehabilitation of survivors and to strengthen security measures in vulnerable communities, aiming to prevent future abductions and restore stability to the affected regions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:42:17",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-081",
-    "title": "Spain and Italy clash over temporary border checks amid migrant surge",
-    "slug": "spain-and-italy-clash-over-temporary-border-checks-amid-migrant-surge",
-    "content": "The European Union has stated that the reciprocal border checks between Spain and Italy are temporary and will not affect the integrity of the Schengen area. The measures were triggered by a surge of migrants arriving in Spain’s North African enclave of Ceuta, prompting Rome to impose travel restrictions on Spanish citizens. In response, Madrid began inspecting travellers from Italy, citing concerns over continued irregular migration.\n\nMadrid reports that the majority of migrants who entered Ceuta were quickly returned to their countries of origin. The Spanish government has accused Italy of allowing a persistent flow of irregular migrants into the Schengen zone, arguing that the Italian controls are insufficient. France24 correspondent Sarah Morris has provided on‑scene coverage of the situation in Spain, detailing the administrative steps taken and the broader diplomatic context.\n\nBoth sides maintain that the border controls are a short‑term measure aimed at managing migration flows. The EU’s statement underscores that the temporary restrictions are not intended to undermine the Schengen framework, and it calls for continued cooperation among member states to address irregular migration while preserving free movement within the zone.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:42:11",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-080",
-    "title": "FIFA Defends President Infantino Amid Alleged Severance Payment",
-    "slug": "fifa-defends-president-infantino-amid-alleged-severance-payment",
-    "content": "FIFA has issued a formal statement defending President Gianni Infantino amid media reports that an alleged lover received a six‑figure severance payment. The governing body described the allegations as part of a “concerted and ongoing effort to undermine” FIFA and its leadership, and called for the matter to be investigated in accordance with its internal protocols.\n\nThe controversy comes as Infantino faces increasing scrutiny over a proposal to open the World Cup to private investors, a move that has sparked debate among clubs, players and national associations. FIFA’s statement reiterated its commitment to transparency and adherence to its statutes while noting that any claims of financial impropriety will be examined thoroughly.\n\nCamille Corcoran has been reporting on the developing story, noting that FIFA’s response signals the organization’s intent to protect its president and maintain the integrity of its governance structures. The situation remains under close observation as further details emerge.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:42:07",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-079",
-    "title": "600 flamingo chicks ringed at Spain's Fuente de Piedra lake",
-    "slug": "600-flamingo-chicks-ringed-at-spain-s-fuente-de-piedra-lake",
-    "content": "Hundreds of volunteers assembled at Spain’s Fuente de Piedra lake on Saturday to carry out the annual flamingo‑ringing program. The event, part of a long‑standing conservation effort, sees participants tag newly hatched chicks to monitor their migration and population trends.\n\nSince the lake was designated a nature reserve in 1984, more than 200,000 flamingo chicks have hatched there. Each year, environmental authorities and volunteers collaborate to attach small rings to the birds, enabling researchers to track movements across European and North African reserves. In the most recent session, 600 chicks were ringed, adding valuable data to the ongoing study of the species’ life cycle.\n\nThe initiative underscores the importance of Fuente de Piedra as a critical breeding site for flamingos. By systematically tagging the birds, scientists can better understand migration patterns and assess the health of the population, informing future conservation strategies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:42:02",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-078",
-    "title": "Libreville faces severe water shortage amid drought and aging infrastructure",
-    "slug": "libreville-faces-severe-water-shortage-amid-drought-and-aging-infrastructure",
-    "content": "Libreville, the capital of Gabon, has been grappling with a severe water shortage that has persisted for several months, a situation attributed to prolonged low rainfall, aging water‑supply infrastructure and rising demand from a rapidly expanding population. In response, the government declared a state of emergency earlier this month and mobilised military engineers to assist with emergency repairs and distribution efforts. Despite these measures, the rollout of a water‑distribution plan targeting the most affected neighbourhoods has not alleviated the crisis, as private water distributors have reportedly exploited the scheme to profit from the scarcity.\n\nAccording to a France 24 report from Libreville, journalists Indira Ayuk, Ismaël Obiang Nze and Giresse Ngaana observed that the involvement of private distributors has undermined the intended relief, leaving many residents without reliable access to water. The government’s ongoing challenge is to secure the water network, address the shortcomings of the current distribution plan, and restore sufficient supply to the city’s households.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:41:57",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-077",
-    "title": "British Columbia declares state of emergency as Bald Range wildfire expands",
-    "slug": "british-columbia-declares-state-of-emergency-as-bald-range-wildfire-expands",
-    "content": "The Bald Range wildfire in British Columbia remains classified as “out of control,” according to provincial fire officials. Since its ignition, the blaze has expanded to cover more than 36 square miles (approximately 95 square kilometres), marking it as one of the larger incidents currently active in the province.\n\nFire management teams continue to monitor the fire’s progression, noting that the extensive area affected increases the potential for further spread into adjacent forested and rural zones. Authorities have not yet declared the fire contained, and response efforts remain focused on containment and protecting nearby communities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:41:52",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-076",
-    "title": "Daniel Kinahan returns to Ireland in high-security operation",
-    "slug": "daniel-kinahan-returns-to-ireland-in-high-security-operation",
-    "content": "Dublin – The Irish Prison Service has acquired a specially equipped vehicle capable of withstanding bullets and explosives to transport a 49‑year‑old male detainee to court following his recent extradition from Dubai. The procurement, announced by the service on Monday, reflects heightened security protocols for high‑risk transfers and is intended to ensure the safe conveyance of the individual pending his appearance before the Irish judiciary.\n\nThe extradition, which concluded earlier this week, brings the suspect back to Ireland to face charges that have been under investigation for several months. Officials confirmed that the armored van will be used for the detainee’s initial court appearance and any subsequent movements deemed necessary by the courts. The Irish Prison Service emphasized that the measure is a precautionary response to the seriousness of the case and will remain in place until the legal proceedings are completed.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 15:41:47",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-074",
-    "title": "Messi Misses Match After Father's Death",
-    "slug": "messi-misses-match-after-father-s-death",
-    "content": "Lionel Messi was absent from Inter Miami’s Leagues Cup match against Monterrey on Saturday night, a game that ended in a 2‑1 defeat for the Gators. The Argentine superstar had been scheduled to start but withdrew after the death of his father, Jorge Messi, who passed away earlier that week. The loss came in the group stage of the tournament, with Monterrey securing the win on a late goal.\n\nInter Miami’s coach, Robert Suarez, noted that the team was still grieving and that Messi’s absence was felt both on and off the pitch. The club released a statement expressing condolences to the Messi family and acknowledging the player’s decision to prioritize his personal circumstances. The Leagues Cup will continue without Messi, who had been a key figure in the club’s recent campaign, while Inter Miami looks to regroup for their next fixtures.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/9/2026 14:52:19",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-071",
-    "title": "Moody's Warns Banks Face Risk from AI Dependence on Tech Firms",
-    "slug": "moody-s-warns-banks-face-risk-from-ai-dependence-on-tech-firms",
-    "content": "Moody’s International has warned that while the financial sector stands to benefit from the rapid adoption of artificial intelligence, the transition will require significant capital outlays and expose banks to new operational risks. In a statement released Thursday, the rating agency noted that large banks are increasingly dependent on a handful of Silicon Valley vendors for AI infrastructure, leaving them vulnerable to service disruptions and escalating pricing from these providers.\n\nThe agency emphasized that the integration of AI into core banking functions—such as fraud detection, risk assessment, and customer service—has the potential to reduce operating costs and boost revenue streams across both the City and Wall Street. However, Moody’s cautioned that the concentration of AI capabilities in a small group of tech firms could lead to widespread outages and price gouging, creating systemic exposure that banks must manage through diversified vendor strategies and robust investment in in‑house capabilities.\n\nIn conclusion, Moody’s sees AI as a catalyst for efficiency and profitability in the finance industry, but stresses that the sector must balance the benefits against the need for substantial investment and the mitigation of new technological risks to safeguard long‑term stability.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/9/2026 14:52:08",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-070",
-    "title": "Nagasaki Observes 81st Anniversary of Atomic Bombing Amid Nuclear Debate",
-    "slug": "nagasaki-observes-81st-anniversary-of-atomic-bombing-amid-nuclear-debate",
-    "content": "On Sunday, Nagasaki commemorated the 81st anniversary of the United States atomic bombing that ended World War II, holding a ceremony at the city’s Peace Park memorial. The event drew local officials, survivors’ families, and international observers, who gathered to reflect on the devastation and to reaffirm the city’s commitment to nuclear disarmament.\n\nThe ceremony coincided with a broader debate in Tokyo, led by Minister Sanae Takaichi, over Japan’s postwar non‑nuclear stance. As China expands its military presence in the region, questions have arisen about the reliability of the United States’ security umbrella. The ministry’s remarks signal a potential shift in policy, prompting discussions on how Japan might balance its pacifist constitution with evolving regional security dynamics.\n\nThe Nagasaki memorial and the ministerial debate together underscore Japan’s ongoing struggle to reconcile its historical trauma with contemporary geopolitical realities. While the city continues to advocate for peace, the nation faces the challenge of redefining its defense posture amid shifting alliances and regional tensions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 14:52:04",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-069",
-    "title": "Demi Vollering Wins Stage 8 and Claims Yellow Jersey in Tour de France",
-    "slug": "demi-vollering-wins-stage-8-and-claims-yellow-jersey-in-tour-de-france",
-    "content": "Demi Vollering secured a dramatic victory on Stage 8 of the Tour de France, gaining the yellow jersey on the eve of the race’s final day. The Dutch rider broke clear from her rivals, most notably Kasia Niewiadoma, to claim the stage win and the overall lead in the general classification.\n\nThe stage, which featured a challenging climb and a decisive breakaway, saw Vollering maintain a gap that proved insurmountable for the chasing group. Niewiadoma, who had been a close contender for the yellow jersey, was unable to bridge the distance, leaving Vollering in front of the peloton as the race approached its final stretch. The win not only gave Vollering a stage triumph but also positioned her as the favorite heading into the Tour’s concluding day.\n\nWith the yellow jersey now in her possession, Vollering will look to defend her lead in the remaining stages. The outcome of Stage 8 underscores the competitive nature of the Tour de France, where a single day's performance can dramatically reshape the overall standings and set the stage for a climactic finish.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 14:51:59",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260809-068",
-    "title": "Jetstar and Qatar Airways near‑miss injures crew member at Sydney Airport",
-    "slug": "jetstar-and-qatar-airways-near-miss-injures-crew-member-at-sydney-airport",
-    "content": "A crew member was injured in a near‑miss collision on a runway at Sydney Airport, prompting authorities to launch an investigation into the incident. The event occurred during routine operations at the city’s main international gateway, where the aircraft was preparing for departure when it almost collided with another aircraft on the same strip.\n\nPreliminary reports indicate that the injury was not life‑threatening and that no passengers were aboard the involved aircraft. The Australian Transport Safety Bureau has opened a formal inquiry to determine the sequence of events that led to the close call, including a review of air traffic control procedures, aircraft positioning, and crew communications.\n\nThe investigation will assess all available flight data, radar logs, and cockpit recordings to establish the cause and recommend measures to prevent a recurrence. Sydney Airport officials have expressed their commitment to aviation safety and will cooperate fully with the inquiry while keeping the public updated as findings emerge.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/9/2026 14:51:55",
-    "author": "DW World",
     "isFeatured": false
   }
 ]
