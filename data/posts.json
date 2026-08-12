@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260812-161",
+    "title": "Open-source Wolfram Language Reimplementation Woxi Released",
+    "slug": "open-source-wolfram-language-reimplementation-woxi-released",
+    "content": "Woxi, an Open-Source Wolfram Language Interpreter, Gains Momentum\n\nWoxi, a Rust-based interpreter for the Wolfram Language, has been gaining traction in the developer community. This free and open-source tool offers a range of advantages over its proprietary counterparts, including wolframscript and Mathematica. Notably, Woxi boasts a lightning-fast startup time, typically taking milliseconds to initialize the Wolfram kernel, making it suitable for shell scripts, one-liners, and other short-lived processes. Furthermore, Woxi's embeddable nature allows it to be run in a browser via WebAssembly (WASM) or integrated into other applications as a scripting language.\n\nCompared to Mathematica, Woxi's open-source nature and faster performance make it an attractive alternative for developers. According to the project's documentation, Woxi's conformance is ensured through a comprehensive set of unit tests and script snapshot tests. The current focus of the project is on addressing remaining edge cases, improving performance, and expanding its community. The developers of Woxi welcome feedback from users of the Wolfram Language, particularly regarding compatibility and missing functionality. Contributions and bug reports are also encouraged on the project's GitHub page.\n\nAs Woxi continues to evolve, it is likely to be of interest to developers and researchers who rely on the Wolfram Language. With its unique combination of speed, flexibility, and open-source nature, Woxi has the potential to become a popular choice for a range of applications. To learn more about Woxi and its features, users can refer to the project's documentation and GitHub page.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:22",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-160",
+    "title": "MIT Technology Review Announces 2026 Innovators Under 35",
+    "slug": "mit-technology-review-announces-2026-innovators-under-35",
+    "content": "MIT Technology Review Set to Unveil 2026 List of Innovators Under 35\n\nIn a prestigious annual tradition, MIT Technology Review will announce its 2026 list of Innovators Under 35 on September 8. This esteemed recognition honors 35 young individuals from diverse global backgrounds who are making significant strides in scientific research and technological innovation. These young innovators are tackling complex problems and developing innovative solutions that have the potential to shape the future of various industries and fields.\n\nBy spotlighting the world's top young innovators, MIT Technology Review aims to shed light on the cutting-edge work being conducted globally. The list will provide valuable insights into the latest advancements and emerging trends in science and technology, as well as the creative problem-solving approaches employed by these young leaders. This recognition not only celebrates their achievements but also serves as a catalyst for further innovation and collaboration, inspiring a new generation of scientists and engineers to push the boundaries of what is possible.\n\nThe unveiling of the 2026 list of Innovators Under 35 is expected to generate significant interest and attention within the scientific and technological communities. As the world grapples with complex challenges, the innovative work being done by these young individuals offers a beacon of hope and a reminder of the potential for human ingenuity to drive positive change.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:15",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-159",
+    "title": "The Misconceptions of Online Trends and Viral Culture",
+    "slug": "the-misconceptions-of-online-trends-and-viral-culture",
+    "content": "In a recent interview with WIRED, cyber-ethnographer Ruby J. Thelot shared her insights on the current state of online culture and its impact on society. Thelot's expertise lies in studying the intersection of technology and human behavior, and she has observed a concerning trend where people are placing too much significance on viral content. This phenomenon, she argues, can lead to a distorted view of reality, as individuals become overly invested in online trends and lose sight of what is truly important.\n\nThelot's comments touch on various aspects of online culture, from the pessimism surrounding modern dating to the ways in which artificial intelligence is reshaping our cultural landscape. She suggests that the constant stream of information on social media platforms can create a sense of misinformation, where people begin to prioritize viral moments over genuine human connections and meaningful experiences. By examining the ways in which people interact with online content, Thelot aims to shed light on the potential consequences of this behavior and encourage a more nuanced understanding of the digital world.\n\nUltimately, Thelot's observations serve as a reminder to approach online content with a critical eye and not to conflate virality with importance. By recognizing the potential pitfalls of online culture, individuals can cultivate a healthier relationship with technology and focus on what truly matters. As the digital landscape continues to evolve, Thelot's work provides a valuable perspective on the need for a more thoughtful and discerning approach to online engagement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:09",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-158",
+    "title": "Cargo Theft Violence Escalates in California",
+    "slug": "cargo-theft-violence-escalates-in-california",
+    "content": "California Sees Rise in Server Thefts Targeting Data Centers\n\nIn a concerning trend, California has witnessed two recent incidents where criminal organizations have resorted to brazen methods to steal servers and other equipment intended for data centers. According to experts, these incidents highlight the determination and audacity of cybercrime groups in the state. The first incident involved a group of thieves who broke into a data center in the San Francisco Bay Area, making off with hundreds of servers and other critical infrastructure equipment. The second incident, which occurred in Los Angeles, saw a group of individuals posing as delivery personnel gain access to a data center, where they stole several servers and other valuable equipment.\n\nExperts believe that these incidents are part of a larger trend of server thefts targeting data centers across the United States. The stolen servers and equipment are often sold on the black market, where they are used to facilitate various forms of cybercrime, including hacking and identity theft. The thefts also pose a significant risk to data center operations, as the loss of critical infrastructure equipment can compromise the security and integrity of sensitive data. Law enforcement agencies are working closely with data center operators to investigate these incidents and prevent future thefts.\n\nAs the demand for data storage and processing continues to grow, data centers are becoming increasingly attractive targets for cybercrime groups. The California incidents serve as a stark reminder of the need for enhanced security measures and cooperation between law enforcement and the data center industry to prevent such thefts and protect sensitive data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:02",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-154",
+    "title": "AI Newsroom Beats Mainstream Journalists to Big Story",
+    "slug": "ai-newsroom-beats-mainstream-journalists-to-big-story",
+    "content": "Last week, an automated AI newsroom published a story on OpenAI’s latest security breach before any mainstream outlet, including WIRED, could break the news. The AI system, which pulls data from multiple feeds and compiles reports in real time, identified the incident within minutes of the breach’s discovery, delivering a concise account that included the nature of the attack, the affected systems, and OpenAI’s initial response. WIRED’s coverage followed later that day, citing the AI‑generated article as its primary source.\n\nThe incident involved a sophisticated phishing campaign that compromised several internal OpenAI accounts, giving attackers temporary access to proprietary code and research data. OpenAI’s public statement confirmed the breach, outlined steps taken to secure its infrastructure, and pledged a full audit. The AI newsroom’s rapid reporting highlighted the growing role of automated journalism in covering fast‑moving tech stories, demonstrating how machine‑generated content can outpace human reporters in speed and breadth of coverage.\n\nThis event marks a turning point for media operations, underscoring the potential for AI to set the news agenda in real time. While the technology offers unprecedented immediacy, it also raises questions about verification, editorial oversight, and the balance between speed and accuracy. As AI newsrooms continue to evolve, their influence on the industry’s competitive dynamics is likely to increase, making it essential for traditional outlets to adapt their workflows accordingly.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:12:40",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-152",
+    "title": "Reservoir Secures $8M Funding for Smart Water Heaters",
+    "slug": "reservoir-secures-8m-funding-for-smart-water-heaters",
+    "content": "Reservoir, a home‑energy technology firm, unveiled an ultra‑efficient water heater that integrates demand forecasting, energy storage, and leak detection into a single unit. The system uses machine‑learning algorithms to anticipate hot‑water usage patterns across a household, adjusting heating cycles to match peak demand while minimizing standby losses. By incorporating a thermal‑energy storage tank, the heater can capture excess heat generated during low‑usage periods and release it when needed, thereby reducing overall electricity consumption.\n\nIn addition to its energy‑saving features, the device continuously monitors water flow and pressure to identify anomalies indicative of plumbing leaks, alerting homeowners via a mobile app and automatically shutting off supply to prevent damage. Early field trials report up to 30 percent lower energy bills compared with conventional tankless models, and the leak‑detection capability has been credited with averting water‑damage incidents in participating homes. Reservoir plans to roll out the product nationwide later this year, positioning it as a comprehensive solution for sustainable residential water heating.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:12:28",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-150",
+    "title": "EU packaging rules alarm small firms",
+    "slug": "eu-packaging-rules-alarm-small-firms",
+    "content": "The European Union has rolled out a set of new regulations aimed at reducing packaging waste and banning the use of persistent, bio‑accumulative, and toxic chemicals, commonly referred to as “forever chemicals.” The rules, which will be implemented in stages over the next several years, require businesses to meet stricter reporting and compliance standards for packaging materials and to phase out substances such as per- and polyfluoroalkyl substances (PFAS) from consumer goods.\n\nWhile the phased approach is intended to give companies time to adjust, several small sellers have already halted shipments to the EU market. The additional administrative burden—new documentation, certification checks, and compliance deadlines—has prompted these businesses to pause exports until they can ensure full adherence to the updated requirements. Industry observers note that the impact on smaller operators could be significant, as the cost and complexity of compliance may outweigh the benefits of continuing to trade within the single market.\n\nThe EU’s move reflects a broader push to curb environmental pollution and protect public health, but it also highlights the challenges that small and medium‑sized enterprises face when adapting to rapidly evolving regulatory landscapes. The authorities have indicated that support measures will be available to help firms transition, yet the immediate pause in shipments underscores the urgency of aligning operations with the new standards.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:18",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-149",
+    "title": "Zambia President Rallies for Second Term Ahead of Election",
+    "slug": "zambia-president-rallies-for-second-term-ahead-of-election",
+    "content": "President Hakainde Hichilema addressed a large crowd in Lusaka on 12 March, urging voters to support his bid for a second term in the 2026 presidential election. The rally, held at the National Assembly grounds, drew thousands of supporters who marched with banners pledging to back the incumbent’s economic reform agenda and anti‑corruption drive. Hichilema called for continued investment in infrastructure, a stable currency, and expanded access to affordable energy, arguing that these policies would lift Zambia’s living standards.\n\nThe president’s campaign has faced a resurgent opposition from the Patriotic Front, led by former President Michael Sata’s widow, and the United Party for National Development, both of whom have criticized the administration’s handling of inflation and public debt. Despite the opposition’s concerns, Hichilema’s supporters highlighted the progress made since taking office, citing reductions in poverty rates and improvements in the country’s credit rating. The rally also served as a platform for the president’s party to rally its base ahead of the upcoming election, with party officials promising to mobilize voters across the country.\n\nIn closing, Hichilema reiterated that his administration would continue to pursue inclusive growth and transparent governance. The rally, which attracted both domestic and international observers, underscores the president’s intent to secure a mandate for his policies. As Zambia heads toward the 2026 election, the rally’s turnout and the president’s messaging will likely influence the political landscape and voter sentiment in the months ahead.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:12",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-148",
+    "title": "Paul Pogba faces new injury setback, Monaco future uncertain",
+    "slug": "paul-pogba-faces-new-injury-setback-monaco-future-uncertain",
+    "content": "Former France international and Manchester United midfielder Paul Pogba has suffered a new injury setback, raising fresh speculation about his future at AS Monaco. The 30‑year‑old, who returned to the French club on a short‑term deal in July after a loan spell at Juventus, was reported to have sustained a muscle strain during a training session. Medical staff confirmed the injury will sideline him for several weeks, and the club’s medical team is monitoring his progress closely.\n\nPogba’s return to Monaco has been seen as a chance to revive his career after a series of injuries that limited his playing time at United and Juventus. The midfielder’s contract, which expires at the end of the season, has become a focal point for transfer speculation. While the club has not ruled out a permanent move, the latest injury has intensified discussions among fans and analysts about whether Pogba will remain in Monaco or seek a new opportunity elsewhere once his contract ends.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:06",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-147",
+    "title": "Over 100 passengers rescued from Indonesian ferry fire",
+    "slug": "over-100-passengers-rescued-from-indonesian-ferry-fire",
+    "content": "More than 100 passengers were rescued after a fire broke out on a passenger ferry operating between the Indonesian islands of Java and Bali on Tuesday evening. The vessel, which was carrying roughly 150 people, caught fire while navigating the Bali Strait, prompting the crew to abandon ship and local authorities to launch a coordinated rescue operation. Emergency services, including the Indonesian National Search and Rescue Agency (Basarnas) and nearby coast guard units, arrived within minutes and used lifeboats and inflatable rafts to evacuate passengers to safety.\n\nRescue teams reported that no fatalities were confirmed, though several individuals sustained minor injuries and were treated at a nearby hospital. The fire, believed to have originated in the engine compartment, was extinguished after approximately two hours, and investigators from the Ministry of Transportation have begun a preliminary inquiry into the cause. Authorities have urged ferry operators to review safety protocols and ensure compliance with fire‑prevention measures as they continue to assess the incident and provide assistance to those affected.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-146",
+    "title": "Lebanese rescuer continues mission after daughter killed in Israeli strike",
+    "slug": "lebanese-rescuer-continues-mission-after-daughter-killed-in-israeli-strike",
+    "content": "A Lebanese civil‑defence volunteer who lost his daughter in an Israeli airstrike on his rescue station continues to lead operations across the war‑torn south, saying the tragedy drives his commitment to saving lives. The strike, which hit the station in the town of Marjayoun in early March, killed the volunteer’s 19‑year‑old daughter, Amal, along with several other rescuers. The attack, part of a broader Israeli campaign targeting infrastructure and alleged militant positions in Lebanon, left the station severely damaged and forced the unit to relocate to a temporary base in the nearby village of Qana.\n\nSince the incident, the rescuer, 45‑year‑old Hassan Khalil, has overseen the deployment of emergency teams that respond to bombings, collapsed buildings and fires caused by ongoing hostilities. He coordinates with the Lebanese Ministry of Interior and local NGOs to provide medical aid, transport injured civilians to hospitals, and train new volunteers. Khalil says his daughter’s memory fuels his resolve to ensure that “no family experiences the loss we endured without help.” His work reflects the broader effort of Lebanon’s civil‑defence network to maintain essential rescue services amid sustained cross‑border conflict.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:11:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-145",
+    "title": "Centrist David Crowley projected to defeat Francesca Hong in Wisconsin",
+    "slug": "centrist-david-crowley-projected-to-defeat-francesca-hong-in-wisconsin",
+    "content": "Centrist candidate David Crowley has been projected to defeat Democratic‑socialist challenger Francesca Hong in the recent election, a result that diverges from the broader national pattern of progressive victories in comparable races. The projection, issued by the state’s principal news outlet based on precinct returns and exit‑poll data, shows Crowley leading by a margin of approximately four percentage points. Both candidates campaigned on issues such as affordable housing, public transportation, and local economic development, but Crowley emphasized a moderate approach to fiscal policy while Hong highlighted a platform anchored in expanded social services and labor rights.\n\nPolitical analysts note that the outcome may signal a localized shift in voter preferences, as the district had previously elected Hong in a tightly contested race two years earlier. The result could influence party strategies ahead of upcoming midterm contests, prompting both centrist and progressive wings to reassess messaging and coalition building. Election officials will certify the final vote count in the coming days, after which Crowley is expected to assume office at the start of the new term.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:11:47",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260812-143",
     "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
     "slug": "in-wisconsin-david-crowley-defeats-francesca-hong-in-democratic-primary-for-gove",
@@ -5365,138 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/11/2026 14:42:05",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-088",
-    "title": "Indian Gen Z clashes with BJP-supporting parents over education reforms",
-    "slug": "indian-gen-z-clashes-with-bjp-supporting-parents-over-education-reforms",
-    "content": "Families across India are experiencing internal rifts as a growing number of children of Bharatiya Janata Party (BJP) supporters publicly call for reforms to the nation’s education system while denouncing the party’s perceived “politics of hate.” The movement, which began on university campuses and quickly spread to social media, features students demanding a curriculum that emphasizes critical thinking, secular values and the removal of communal bias. Organizers have staged peaceful rallies in Delhi, Mumbai and several state capitals, urging the government to revisit recent amendments to the National Education Policy that they say prioritize ideological conformity over academic rigor.\n\nThe backlash has reverberated within households, where parents who have long backed the BJP’s nationalist agenda find themselves at odds with their offspring’s demands. Interviews with families in Uttar Pradesh and Karnataka reveal heated discussions about textbook revisions, the inclusion of diverse historical perspectives, and the role of political ideology in schools. While some parents express concern that the protests could undermine the party’s development agenda, others acknowledge the students’ right to question policy and note a shift in younger voters’ expectations for inclusive education.\n\nAnalysts suggest the phenomenon reflects a broader generational shift in India’s political landscape, with youth increasingly separating personal aspirations from party loyalty. As the debate over education reforms continues in Parliament, the dissent among BJP supporters’ children underscores the complex interplay between familial allegiance and civic activism, hinting at potential challenges for the ruling party’s outreach to younger constituents.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 14:41:59",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-087",
-    "title": "Alabama Holds Special Elections in Four Redrawn House Districts",
-    "slug": "alabama-holds-special-elections-in-four-redrawn-house-districts",
-    "content": "Four newly redrawn congressional districts in Alabama are set to hold special elections on Tuesday, August 13, to determine each party’s nominee for the U.S. House of Representatives. The elections follow a federal court order that required the state to redraw its congressional map after finding the previous configuration violated the Voting Rights Act. The special contests will fill the nomination slots for the November 2026 general election in the 1st, 2nd, 6th and 7th districts, which were altered to better reflect demographic changes and to ensure compliance with federal law. Voters in each district will cast ballots for both Republican and Democratic candidates, with the winners advancing to the regular primary schedule.\n\nElection officials have prepared the ballots and polling locations ahead of the Tuesday vote, and the outcomes will shape the slate of candidates competing in the November race for Alabama’s five House seats. The results are expected to provide an early indication of party strength in the newly configured districts and could influence campaign strategies as the 2026 midterm elections approach.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 14:41:54",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-086",
-    "title": "Swiatek to face Svitolina in Canadian Open semifinal",
-    "slug": "swiatek-to-face-svitolina-in-canadian-open-semifinal",
-    "content": "World No. 1 Iga Swiatek advanced to the next round of the Toronto National Bank Open after a dominant performance against Russia’s Diana Shnaider. Swiatek, who has held the top ranking for several months, dispatched the 20‑year‑old in straight sets, showcasing the powerful baseline game that has defined her recent season. Shnaider, a rising talent who entered the tournament as a qualifier, was unable to counter Swiatek’s aggressive play and unforced error count, resulting in a swift victory for the Polish star.\n\nThe win sets up a quarter‑final clash with former world No. 3 Elina Svitolina, who also progressed from the bottom half of the draw. Both players bring contrasting styles—Swiatek’s heavy topspin and relentless court coverage against Svitolina’s experience and tactical versatility—promising an engaging encounter for the Toronto crowd. The outcome will determine which competitor moves on to the semifinals, where they could face one of the remaining top seeds for a place in the championship match.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 14:41:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-085",
-    "title": "Rescue teams intensify search after deadly earthquake hits western Colombia",
-    "slug": "rescue-teams-intensify-search-after-deadly-earthquake-hits-western-colombia",
-    "content": "Rescue teams have been deployed across western Colombia after a powerful earthquake struck the region, leaving dozens dead and hundreds injured. The tremor, measured at a magnitude of 6.8, caused widespread collapse of homes, schools and hospitals in the departments of Valle del Cauca and Cauca, prompting authorities to declare a state of emergency. Initial reports indicated that at least 45 people were confirmed dead, with many more missing as search‑and‑rescue crews comb through rubble using dogs, drones and specialized equipment.\n\nThe Colombian government has mobilized the National Army, the Red Cross and international partners to provide medical assistance, temporary shelters and food supplies to displaced residents. Officials warned that aftershocks could hinder ongoing operations and urged survivors to avoid damaged structures. Efforts to locate survivors continue around the clock, with officials emphasizing that the full extent of the damage will be assessed in the coming days.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 14:41:44",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-084",
-    "title": "KT Tunstall Performs at Fringe with New Musical",
-    "slug": "kt-tunstall-performs-at-fringe-with-new-musical",
-    "content": "The Edinburgh Festival Fringe, one of the largest and most prestigious arts festivals in the world, is set to host a unique and groundbreaking production this year. The Singer, a new play, promises to break down barriers by bringing together deaf and hearing performers on stage. This innovative show aims to challenge traditional notions of theatre and performance, showcasing the talents of a diverse cast in a way that is both accessible and inclusive.\n\nThe play's concept is centered around the idea of creating a shared experience between deaf and hearing audiences, using a combination of sign language, spoken word, and visual elements to convey the story. By incorporating British Sign Language (BSL) and other visual storytelling techniques, The Singer seeks to create a more immersive and engaging experience for all audience members, regardless of their hearing ability. The production's use of inclusive practices and accessibility features is expected to set a new standard for theatre productions, paving the way for greater diversity and representation in the arts.\n\nThe Singer's run at the Fringe is highly anticipated, with many expecting it to be a highlight of the festival. As the play brings together talented performers from different backgrounds and abilities, it is likely to spark important conversations about accessibility and inclusion in the arts. With its innovative approach and commitment to diversity, The Singer is poised to make a lasting impact on the world of theatre, leaving a lasting impression on audiences and inspiring future generations of performers and producers.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/11/2026 13:22:47",
-    "author": "BBC Entertainment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-079",
-    "title": "Weather Forecasting Limited to 129 Days",
-    "slug": "weather-forecasting-limited-to-129-days",
-    "content": "Prediction is the ultimate test of scientific inquiry, and meteorologists have been probing the boundaries of weather forecasting since the advent of numerical weather prediction in the late 1950s. The first operational models, built on the nascent field of computer science, set the stage for a century of effort to quantify how far ahead the atmosphere can be reliably predicted.\n\nOver the decades, advances in computing power, data assimilation, and physical parameterization have steadily extended forecast horizons, yet the atmosphere’s inherent chaotic nature imposes a hard limit. Small errors in initial conditions can amplify exponentially, a phenomenon first highlighted by Lorenz’s work in the 1960s. Contemporary research focuses on refining observational networks, improving model resolution, and developing ensemble forecasting techniques to better capture the range of possible outcomes within these physical constraints.\n\nUnderstanding these limits remains essential for both operational forecasters and climate scientists. By delineating the maximum achievable accuracy, researchers can target resources toward the most impactful improvements, ensuring that weather services continue to provide the most reliable information possible for society.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/11/2026 13:22:27",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-078",
-    "title": "7.4 Earthquake Strikes Western Colombia, Killing 111+ People",
-    "slug": "7-4-earthquake-strikes-western-colombia-killing-111-people",
-    "content": "A 7.4‑magnitude earthquake struck western Colombia on Monday, leaving a trail of devastation across the region. The shock, which occurred in the early afternoon local time, caused at least 111 deaths and injured hundreds more. Preliminary reports indicate that the quake damaged or destroyed several hundred buildings, including homes, schools and public facilities.\n\nRescue teams and volunteers have been working around the clock to locate survivors trapped beneath collapsed structures. Debris from collapsed homes and commercial buildings has hampered access to some neighborhoods, while emergency shelters have been set up for displaced residents. Authorities have deployed additional resources, including engineering units and medical teams, to assess structural damage and provide immediate aid to affected communities.\n\nThe Colombian government has called for international assistance as it continues to coordinate search and rescue operations. While the full extent of the damage remains under assessment, the disaster has underscored the need for strengthened building codes and emergency preparedness in the region. The response efforts are ongoing, with officials working to restore essential services and support the recovery of the impacted areas.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/11/2026 13:22:22",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-077",
-    "title": "California Bald Eagle Jackie Dies After Illness",
-    "slug": "california-bald-eagle-jackie-dies-after-illness",
-    "content": "Jackie, the bald eagle that captured the public’s imagination as a symbol of California’s wildlife recovery, died on Monday after a bout with an illness was treated at a veterinary facility. The eagle, which had become an internet sensation, was known for her striking bald head and the way she was featured in a series of viral videos that highlighted the resurgence of the species in the state.\n\nCaretakers confirmed that Jackie had been hospitalized for several days before her passing, but the exact nature of her illness was not disclosed. Her death comes at a time when conservationists continue to monitor the health of bald eagle populations across California, a species that has rebounded from the brink of extinction thanks to federal protection and habitat restoration efforts.\n\nThe loss of Jackie is a reminder of the ongoing challenges faced by wildlife even as populations recover. Her legacy as an emblem of hope for the bald eagle will likely continue to inspire conservation efforts and public interest in protecting these iconic birds.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/11/2026 13:22:18",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-076",
-    "title": "Curiosity Investigates Erosional Supersurface in Gale Crater",
-    "slug": "curiosity-investigates-erosional-supersurface-in-gale-crater",
-    "content": "NASA’s Curiosity rover has identified a significant erosional supersurface within Gale Crater’s sedimentary record, according to a report by planetary scientist Lucy Lim of the Goddard Space Flight Center. Published on Friday, July 31 2026, the finding follows Curiosity’s ongoing investigation of the crater’s layered deposits, which reveal the history of water and weathering on Mars.\n\nThe supersurface, a large‑scale planar feature, marks a transition from a net depositional environment to one dominated by erosion. Lim notes that the structure is consistent with a period of increased wind activity or a shift in groundwater levels that halted sediment accumulation and removed previously deposited material. By mapping the supersurface’s extent and correlating it with surrounding strata, the team can refine the timeline of climatic changes that shaped Gale Crater.\n\nThis discovery enhances understanding of Mars’ environmental evolution and informs models of its past habitability. The data, integrated with Curiosity’s geochemical analyses, will be used to refine the chronology of sedimentary processes on the planet’s surface.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/11/2026 13:22:13",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-074",
-    "title": "Wildfire in Spain's Huelva province forces 800 evacuations and burns 20,000 hectares",
-    "slug": "wildfire-in-spain-s-huelva-province-forces-800-evacuations-and-burns-20-000-hect",
-    "content": "A large wildfire has engulfed parts of Spain’s Huelva province, forcing the evacuation of approximately 800 residents and destroying around 20,000 hectares of land. Firefighters from local and national agencies are working to contain the blaze, which has already spread across dense vegetation and agricultural fields in the region.\n\nThe incident comes amid a severe drought that has intensified fire risk across Europe. Meteorological reports indicate prolonged dry conditions and high temperatures in southern Spain, conditions that have led to an increase in the frequency and scale of wildfires. Huelva authorities have mobilised additional resources, including aerial water drops and ground crews, to combat the fire and protect nearby communities.\n\nOfficials have urged residents in surrounding areas to remain alert and follow evacuation orders, while environmental agencies note that the fire’s impact on local ecosystems could be significant. The situation is being monitored closely as authorities assess damage and plan for post‑fire recovery efforts.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 13:22:08",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-073",
-    "title": "Colombia quake kills 132, injures 570; curfews imposed in Cali, Pereira",
-    "slug": "colombia-quake-kills-132-injures-570-curfews-imposed-in-cali-pereira",
-    "content": "Cali, Pereira and the department of Caldas have instituted night‑time curfews following the 7.4‑magnitude earthquake that struck the region on Tuesday, causing widespread structural damage and disrupting essential services. Local authorities announced the restrictions, which will be in effect from 9 p.m. to 5 a.m., as a preventive measure to curb looting and to allow emergency responders unhindered access to the hardest‑hit neighborhoods.\n\nThe curfews are part of a broader emergency response that includes the deployment of national military units, the activation of search‑and‑rescue teams, and the establishment of temporary shelters for displaced residents. Officials indicated that the restrictions will remain in place until the immediate recovery phase is completed, and they urged citizens to cooperate with law‑enforcement and humanitarian agencies to facilitate a swift and orderly restoration of safety and infrastructure.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 13:22:04",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-072",
-    "title": "Rescuers search rubble in Cali after Colombia's strongest quake kills over 130",
-    "slug": "rescuers-search-rubble-in-cali-after-colombia-s-strongest-quake-kills-over-130",
-    "content": "Rescuers in Cali, Colombia, are combing through debris after the nation’s strongest earthquake of the century struck the region, killing more than 130 people, injuring hundreds, and leaving many still missing. The magnitude‑7.2 tremor hit the southwestern part of the country early Tuesday, causing widespread structural collapse in densely populated neighborhoods and prompting an immediate emergency response from local authorities and national disaster agencies.\n\nSearch and rescue teams from the Colombian National Police, the military, the Red Cross and international aid groups have been working around the clock to locate survivors trapped under rubble, using canine units, listening devices and heavy‑equipment excavators. As of the latest reports, officials confirm over 300 individuals have been hospitalized, while the number of missing persons remains uncertain. Authorities say the operation will continue for several days, emphasizing the need for coordinated efforts to provide medical care, temporary shelter and support to the affected communities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 13:21:59",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
