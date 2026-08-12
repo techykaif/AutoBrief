@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260811-032",
+    "title": "MIT PhD student Jessica Fry pursues dark matter detection",
+    "slug": "mit-phd-student-jessica-fry-pursues-dark-matter-detection",
+    "content": "Jessica Fry, a PhD candidate at MIT’s Laboratory for Nuclear Science, has traded a career on Broadway for a quest to uncover the universe’s most elusive particle.  With a background in performance arts that honed her discipline and collaborative spirit, Fry now applies those same skills to the precise, data‑driven environment of particle physics.  Her current research focuses on detecting weakly interacting massive particles (WIMPs), the leading candidates for dark matter, which has long evaded direct observation.\n\nAt the Laboratory for Nuclear Science, Fry works with the LUX‑ZEPLIN (LZ) collaboration, operating a liquid‑xenon detector deep underground at the Sanford Underground Research Facility.  The experiment seeks to register the faint signals produced when a dark matter particle might collide with a xenon nucleus, a process that is exceedingly rare and requires meticulous background suppression",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/11/2026 9:42:43",
+    "author": "MIT News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-031",
+    "title": "Antirez Releases MiniMax H3 Inference Engine for Mac",
+    "slug": "antirez-releases-minimax-h3-inference-engine-for-mac",
+    "content": "A new C implementation of Uber’s H3 geospatial indexing library has been released on GitHub by Salvatore Sanfilippo, better known as Antirez, the creator of Redis. The repository, hosted at https://github.com/antirez/h3, contains the source code, build scripts, and documentation for a lightweight, high‑performance C library that exposes the H3 API. The project is designed to be easy to integrate into existing C or C++ applications that require efficient spatial indexing and hexagonal tiling of geographic data.\n\nThe release attracted attention on Hacker News, where the discussion link https://news.ycombinator.com/item?id=49252179 garnered 81 points and seven comments. Contributors praised the library’s simplicity and the clear inline comments that aid developers unfamiliar with H3’s concepts. Some commenters noted the potential for using the library in real‑time mapping services and spatial analytics pipelines, while others highlighted the importance of maintaining compatibility with the original H3 reference implementation.\n\nOverall, the Antirez H3 repository provides a concise, well‑documented C port of a widely used geospatial indexing system, offering developers a straightforward option for incorporating H3 functionality into performance‑critical applications. The modest but focused reception on Hacker News suggests a niche but growing interest in this lightweight solution among the developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:36",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-030",
+    "title": "Recycle – Floppydisks",
+    "slug": "recycle-floppydisks",
+    "content": "A new online initiative aimed at reducing electronic waste has drawn attention on the technology news aggregator Hacker News. The website Floppydisk.com, which specializes in the collection and recycling of obsolete magnetic storage media, launched a dedicated “Recycle” portal that allows users to schedule the pickup of legacy floppy disks, Zip drives, and related hardware. The service, announced on the site’s homepage, offers free shipping labels and partners with certified e‑waste recyclers to ensure that the magnetic media are safely destroyed and the plastic components are processed in accordance with environmental regulations.\n\nThe announcement quickly garnered 24 up‑votes and three comments on Hacker News, where users discussed the environmental impact of discarding outdated storage devices and the practicality of the program for both individuals and small businesses. Commenters noted that while the volume of floppy disks in circulation is modest compared to modern electronics, their proper disposal prevents the release of hazardous materials and underscores a broader push toward responsible e‑waste management. The Floppydisk.com recycling effort represents a niche yet tangible step in addressing the growing challenge of electronic waste.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-029",
+    "title": "Hyperspace article receives 11 points and 4 comments on Hacker News",
+    "slug": "hyperspace-article-receives-11-points-and-4-comments-on-hacker-news",
+    "content": "A post linking to a piece on Hypercritical titled “Hyperspace” was recently shared on the Hacker News discussion forum (https://news.ycombinator.com/item?id=49252493). The submission attracted modest community interaction, accumulating 11 points from voters and generating four comments from readers. The linked article can be accessed directly at https://hypercritical.co/hyperspace/, though the content of the piece itself was not detailed in the forum thread.\n\nThe brief engagement suggests that the “Hyperspace” article sparked limited but measurable interest among the Hacker News audience. While the discussion did not expand into a larger debate, the presence of comments indicates that a subset of users found the material worth noting or questioning. The post’s performance reflects typical traffic patterns for niche tech or speculative topics within the community.\n\nOverall, the Hypercritical “Hyperspace” entry received a modest reception on Hacker News, with a small number of upvotes and comments highlighting a measured level of curiosity among the platform’s readers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 9:42:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-028",
+    "title": "Meta CEO Mark Zuckerberg proposes universal personal AI agents in new manifesto",
+    "slug": "meta-ceo-mark-zuckerberg-proposes-universal-personal-ai-agents-in-new-manifesto",
+    "content": "Meta chief executive Mark Zuckerberg outlined his company’s long‑term AI strategy on Monday, presenting a vision in which every user is equipped with a powerful personal artificial‑intelligence agent. He emphasized that such agents would be built on open‑source technology, positioning openness as a safeguard against the monopolization of advanced AI capabilities.\n\nZuckerberg argued that open‑source development can disperse control of sophisticated AI systems, preventing a small number of corporations, governments or other institutions from dominating the technology. By making the underlying models and tools publicly accessible, Meta aims to foster broader innovation while reducing the risk of concentrated power that could arise from proprietary, closed‑source AI platforms.\n\nThe CEO concluded that a decentralized, open‑source approach is central to ensuring that personal AI agents remain widely available and responsibly governed, aligning Meta’s future roadmap with broader industry concerns about AI concentration and governance.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:17",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-027",
+    "title": "Trump seeks Iran reparations amid Strait of Hormuz talks",
+    "slug": "trump-seeks-iran-reparations-amid-strait-of-hormuz-talks",
+    "content": "Washington has announced that President Joe Biden will press Tehran for a lump‑sum settlement covering “50 years” of alleged damages that the United States attributes to Iranian actions, linking the demand to any future agreement on the reopening of the Strait of Hormuz. The move comes after Iranian officials indicated that they would consider easing the strategic choke point only if the United States agreed to pay war reparations, a claim the U.S. government says lacks legal basis but which it is using as leverage in ongoing diplomatic talks.\n\nU.S. officials said the reparations request encompasses losses tied to regional conflicts, sanctions, and incidents dating back to the 1970s, and that the payment would be a prerequisite for any negotiated arrangement to restore normal shipping traffic through the narrow waterway. Iran, for its part, has framed the demand as a matter of national dignity and a condition for guaranteeing the free flow of oil and gas. Both sides remain at an impasse, and the standoff raises concerns about potential disruptions to global energy markets if the Hormuz corridor remains closed.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:10",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-026",
+    "title": "Colombia recognizes Israel's claim to Golan Heights",
+    "slug": "colombia-recognizes-israel-s-claim-to-golan-heights",
+    "content": "A South American nation has become only the second country worldwide to formally recognise Israel’s claims over the territory that Israel annexed in contravention of international law. The diplomatic move follows a similar recognition by the United States earlier this year and marks a notable shift in the region’s stance on the disputed area, which the United Nations and the majority of the international community continue to deem illegal.\n\nThe decision was announced by the foreign ministry in a statement that emphasized bilateral cooperation and strategic alignment with Israel, while reaffirming the nation’s sovereign right to determine its foreign policy. Critics have warned that the recognition could complicate the country’s relations with Arab and Muslim-majority states, as well as with multilateral bodies that have repeatedly called for a negotiated settlement based on pre‑1967 borders. The development adds another layer to the ongoing diplomatic contest over the annexed territory, underscoring the divergent approaches nations are taking amid a broader geopolitical realignment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:42:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-025",
+    "title": "US weapons shortages emerge amid Iran conflict, prompting defense spending review",
+    "slug": "us-weapons-shortages-emerge-amid-iran-conflict-prompting-defense-spending-review",
+    "content": "U.S. military officials confirmed this week that the ongoing conflict with Iran has revealed significant shortfalls in several key weapons systems, prompting renewed scrutiny of defense procurement practices that have shaped the Pentagon’s budget for the past decade. The shortages, reported by senior defense analysts, span precision‑guided munitions, air‑defense interceptors and certain armored vehicle components, all of which have been drawn down faster than anticipated amid heightened operational tempo in the region.\n\nThe Department of Defense attributed the gaps to a combination of accelerated consumption, delayed production schedules and the prioritization of other overseas engagements over inventory replenishment. Congressional oversight committees have requested detailed inventories and a review of the allocation of funds that have underpinned the United States’ defense spending strategy since 2015, citing concerns that the current shortfall could impair readiness for future contingencies. Defense contractors have indicated that supply‑chain constraints and labor shortages are also contributing to the lag in delivering new equipment to the field.\n\nLawmakers and senior defense officials said the findings underscore the need for a reassessment of acquisition timelines and stockpile management to ensure that the armed forces maintain sufficient capability in prolonged conflicts. The Pentagon has pledged to accelerate production of the most critical items and to conduct a comprehensive audit of its logistics framework, aiming to restore confidence in the nation’s defense preparedness while addressing the fiscal implications of the identified deficiencies.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:41:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-024",
+    "title": "Former gang boss Duane “Keffe D” Davis pleads not guilty in Tupac murder trial",
+    "slug": "former-gang-boss-duane-keffe-d-davis-pleads-not-guilty-in-tupac-murder-trial",
+    "content": "The trial of a 63‑year‑old former gang leader began on Monday, with the defendant formally entering a plea of not guilty. The case, brought before a criminal court, marks the first public hearing in a series of proceedings that address the individual’s alleged involvement in organized‑crime activities.\n\nCourt officials indicated that the trial will proceed through the standard phases of evidence presentation, witness testimony, and legal argument, after which a verdict will be rendered. The not‑guilty plea sets the stage for a contested trial, and the proceedings are expected to continue over the coming weeks as both prosecution and defense present their respective cases.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 9:41:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260811-019",
     "title": "Trump Media Reports $238M Loss as Crypto Declines",
     "slug": "trump-media-reports-238m-loss-as-crypto-declines",
