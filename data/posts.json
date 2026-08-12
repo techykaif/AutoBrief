@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260812-222",
+    "title": "SpaceX launches 24 Starlink satellites from California on Aug. 11",
+    "slug": "spacex-launches-24-starlink-satellites-from-california-on-aug-11",
+    "content": "SpaceX launched 24 additional Starlink satellites into orbit from California on August 11, completing the company’s second Starlink deployment of the day. The Falcon 9 rocket carried the new constellation of broadband satellites to a high‑altitude geostationary transfer orbit, where they will be deployed to provide global internet coverage.\n\nThe launch follows a series of rapid deployments aimed at expanding the Starlink network’s capacity and coverage. Each satellite is designed to deliver high‑speed, low‑latency connectivity to underserved regions and to support the growing demand for reliable broadband worldwide. By adding 24 more nodes, SpaceX continues to scale the constellation toward its goal of providing near‑universal internet access.\n\nWith the mission successful, SpaceX moves closer to its target of deploying thousands of satellites to create a robust global internet infrastructure. The company’s ongoing launch cadence underscores its commitment to expanding the reach of its satellite broadband service.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/12/2026 17:51:49",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-221",
+    "title": "Veteran Actor Bruce Dern Recalls Decades-Long Hollywood Career",
+    "slug": "veteran-actor-bruce-dern-recalls-decades-long-hollywood-career",
+    "content": "Veteran Actor Bruce Dern Brings a Lifetime of Hollywood Tales to Edinburgh\n\nAt the age of 90, Hollywood star Bruce Dern continues to defy expectations with his boundless energy and enthusiasm for life. As he brings his latest film to the Edinburgh International Film Festival, Dern sat down for an exclusive interview, regaling the audience with tales from a storied career spanning over seven decades. From his early days acting alongside Montgomery Clift and Mary Astor to his collaborations with John Wayne, Tom Hanks, and some of the most iconic directors in film history, including Hitchcock and Tarantino, Dern has lived a life that is a true testament to his enduring talent and spirit.\n\nDern's conversation is a whirlwind of memories, as one story sparks another and another, leaving the listener in awe of his remarkable experiences. He shares stories of working with Hollywood legends, from Marilyn Monroe to Alfred Hitchcock, who famously referred to him as 'the golden calf.' Dern's ability to recall even the smallest details from his past is a testament to his sharp mind and his passion for storytelling. As he reflects on his life and career, Dern remains humble and unassuming, crediting his daily routine of walking and jogging for keeping him young at heart.\n\nAs he looks to the future, Dern acknowledges that he may not be around to witness the impact of emerging technologies like AI, but he remains optimistic and focused on the present. With a career spanning over 60 years, Dern has cemented his place in Hollywood history, and his latest film is set to delight audiences in Edinburgh. As he takes to the stage, Dern's infectious energy and charisma are sure to leave a lasting impression on all who witness his performance.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "8/12/2026 17:51:45",
+    "author": "Guardian Culture",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260812-220",
     "title": "Rod Stewart Cancels Farewell Tour Dates Due to Heart Procedure",
     "slug": "rod-stewart-cancels-farewell-tour-dates-due-to-heart-procedure",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/11/2026 17:02:21",
     "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-159",
-    "title": "AI Models' Training Data Revealed",
-    "slug": "ai-models-training-data-revealed",
-    "content": "A recent study has made a significant discovery in the field of artificial intelligence, revealing that certain Chinese AI models may be trained on leading US models. Researchers have developed a method to extract \"reasoning traces\" from popular AI systems, including Claude, GPT, and Gemini. This innovative approach allows them to analyze the decision-making processes of these models, providing valuable insights into their training data and potential origins.\n\nThe findings suggest that some Chinese AI models may be using training data from prominent US AI systems, raising important questions about the development and deployment of AI technologies. The ability to extract reasoning traces from these models has given researchers a unique window into their inner workings, enabling them to identify potential similarities and overlaps with US-based models. This discovery has significant implications for the AI research community, as it highlights the potential for knowledge sharing and collaboration between different regions and entities. Furthermore, it also underscores the need for greater transparency and understanding of AI development practices, particularly in the context of international cooperation and competition.\n\nThe study's findings contribute to the ongoing discussion about the global development and use of AI, emphasizing the complex and interconnected nature of this rapidly evolving field. As AI continues to play an increasingly important role in various aspects of society, understanding the origins and training data of these models is crucial for ensuring their safe and responsible deployment. The researchers' innovative approach to extracting reasoning traces has opened up new avenues for investigation, and their discoveries are likely to have far-reaching implications for the future of AI research and development.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/11/2026 17:02:16",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260811-154",
-    "title": "Colombia Earthquake: 7.4‑Magnitude Shake Captured on Video",
-    "slug": "colombia-earthquake-7-4-magnitude-shake-captured-on-video",
-    "content": "A video posted on social media shows an eyewitness witnessing the shock of a 7.4‑meter earthquake that struck parts of Colombia on Monday, August 10. The footage captures the ground trembling and buildings swaying, offering a stark visual of the disaster’s immediate impact.\n\nRescue teams are still combing through affected areas, searching for survivors amid collapsed structures and debris. Authorities have reported that the death toll is already in the hundreds, and officials warn that the figure could rise as search and recovery operations continue.\n\nThe ongoing response underscores the severity of the quake, prompting international aid agencies to monitor the situation closely while local authorities coordinate relief efforts and assess damage across the impacted regions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/11/2026 17:01:55",
-    "author": "France 24",
     "isFeatured": false
   }
 ]

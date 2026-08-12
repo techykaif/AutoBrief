@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260811-159",
+    "title": "AI Models' Training Data Revealed",
+    "slug": "ai-models-training-data-revealed",
+    "content": "A recent study has made a significant discovery in the field of artificial intelligence, revealing that certain Chinese AI models may be trained on leading US models. Researchers have developed a method to extract \"reasoning traces\" from popular AI systems, including Claude, GPT, and Gemini. This innovative approach allows them to analyze the decision-making processes of these models, providing valuable insights into their training data and potential origins.\n\nThe findings suggest that some Chinese AI models may be using training data from prominent US AI systems, raising important questions about the development and deployment of AI technologies. The ability to extract reasoning traces from these models has given researchers a unique window into their inner workings, enabling them to identify potential similarities and overlaps with US-based models. This discovery has significant implications for the AI research community, as it highlights the potential for knowledge sharing and collaboration between different regions and entities. Furthermore, it also underscores the need for greater transparency and understanding of AI development practices, particularly in the context of international cooperation and competition.\n\nThe study's findings contribute to the ongoing discussion about the global development and use of AI, emphasizing the complex and interconnected nature of this rapidly evolving field. As AI continues to play an increasingly important role in various aspects of society, understanding the origins and training data of these models is crucial for ensuring their safe and responsible deployment. The researchers' innovative approach to extracting reasoning traces has opened up new avenues for investigation, and their discoveries are likely to have far-reaching implications for the future of AI research and development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/11/2026 17:02:16",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260811-154",
+    "title": "Colombia Earthquake: 7.4‑Magnitude Shake Captured on Video",
+    "slug": "colombia-earthquake-7-4-magnitude-shake-captured-on-video",
+    "content": "A video posted on social media shows an eyewitness witnessing the shock of a 7.4‑meter earthquake that struck parts of Colombia on Monday, August 10. The footage captures the ground trembling and buildings swaying, offering a stark visual of the disaster’s immediate impact.\n\nRescue teams are still combing through affected areas, searching for survivors amid collapsed structures and debris. Authorities have reported that the death toll is already in the hundreds, and officials warn that the figure could rise as search and recovery operations continue.\n\nThe ongoing response underscores the severity of the quake, prompting international aid agencies to monitor the situation closely while local authorities coordinate relief efforts and assess damage across the impacted regions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/11/2026 17:01:55",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260811-153",
     "title": "Eastern Libya Military Intelligence Chief Killed in Car Bomb Attack",
     "slug": "eastern-libya-military-intelligence-chief-killed-in-car-bomb-attack",
