@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260812-269",
+    "title": "U.S. Childhood Vaccination Policy Shifts to Support Parental Choice",
+    "slug": "u-s-childhood-vaccination-policy-shifts-to-support-parental-choice",
+    "content": "In a significant move, U.S. President Donald Trump has signed an executive order aimed at revising the country's childhood vaccination policy. The new policy, which seeks to \"support maximal parental choice,\" marks a shift in the administration's stance on vaccination requirements. \n\nUnder the revised policy, the Department of Health and Human Services (HHS) will be required to develop new guidelines that allow parents to opt-out of certain vaccinations for their children. The move is seen as a response to growing concerns among some parents about the safety and efficacy of certain vaccines. The new guidelines are expected to give parents more flexibility in making decisions about their children's vaccination schedules. However, the order does not explicitly state which vaccinations will be impacted or what the specific opt-out provisions will be.\n\nThe executive order has sparked widespread debate among health experts and lawmakers, with some expressing concerns about the potential impact on public health and the spread of preventable diseases. While the administration has emphasized the importance of parental choice, critics argue that the move could undermine efforts to maintain high vaccination rates and protect vulnerable populations, such as those with compromised immune systems.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/12/2026 19:22:15",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-268",
+    "title": "AI Technology Enhances Bruise Detection Across All Skin Tones",
+    "slug": "ai-technology-enhances-bruise-detection-across-all-skin-tones",
+    "content": "Researchers at George Mason University's Injury Analytics Lab (IAL) have developed a pioneering technology to improve the understanding of bruises. The patented system integrates artificial intelligence, advanced imaging techniques, and clinical data to provide healthcare professionals, forensic experts, and researchers with more comprehensive information about skin injuries. This innovative approach aims to bridge the gap in current diagnostic methods, which often rely on subjective assessments and limited visual evidence.\n\nThe technology utilizes machine learning algorithms to analyze high-resolution images of bruises, along with associated clinical data, to generate detailed reports on the injury's characteristics, such as its size, shape, color, and depth. This information can help clinicians diagnose and treat patients more effectively, while also assisting forensic professionals in reconstructing crime scenes and verifying claims of injury. The lab's researchers have already begun collaborating with medical institutions and law enforcement agencies to test the technology and refine its capabilities.\n\nThe potential benefits of this technology are significant, as it has the potential to improve patient outcomes, streamline forensic investigations, and enhance our understanding of the complex mechanisms underlying bruising. As the technology continues to evolve, it may also pave the way for the development of more effective treatments and preventive measures for skin injuries.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/12/2026 19:22:09",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-267",
+    "title": "Choosing Between Lumpectomy and Mastectomy for Breast Cancer Treatment",
+    "slug": "choosing-between-lumpectomy-and-mastectomy-for-breast-cancer-treatment",
+    "content": "Breast Cancer Patients Face Crucial Treatment Decisions\n\nWomen diagnosed with breast cancer are frequently presented with difficult treatment choices, as medical professionals strive to balance the need for effective treatment with the desire to preserve as much of the breast as possible. In some cases, surgical oncologists may recommend either a lumpectomy or a mastectomy to remove a tumor, with the understanding that both procedures can lead to similar long-term health outcomes. This decision is often driven by the size and location of the tumor, as well as the patient's individual preferences and medical history.\n\nResearch has shown that, for many patients, the choice between a lumpectomy and a mastectomy is largely a matter of personal preference, rather than a significant difference in terms of long-term health outcomes. A lumpectomy involves the removal of the tumor and a small margin of surrounding tissue, while a mastectomy involves the removal of the entire breast. While a mastectomy may be necessary in cases where the tumor is large or has spread to other areas of the breast, a lumpectomy can often be an effective option for smaller tumors. Ultimately, the decision between these two procedures should be made in consultation with a qualified medical professional, taking into account the patient's unique needs and circumstances.\n\nBy presenting patients with a range of treatment options and involving them in the decision-making process, healthcare providers can help ensure that women with breast cancer receive the care that is best for them, while also preserving their physical and emotional well-being. As research continues to improve our understanding of breast cancer and its treatment, patients can expect to have even more options available to them, allowing them to make informed decisions about their care.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/12/2026 19:22:03",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-266",
+    "title": "Obesity Patients Often Miss Out on Medical Weight Counseling",
+    "slug": "obesity-patients-often-miss-out-on-medical-weight-counseling",
+    "content": "Patients Seeking Weight Loss Guidance Often Overlook Primary Care Physicians\n\nIn the age of social media and digital health information, patients are increasingly relying on online sources for weight loss advice. With the rise of platforms like TikTok and the proliferation of AI chatbots, it's easier than ever to access a wealth of information on dieting and exercise. However, a crucial piece of the weight loss puzzle is often overlooked: the patient's own primary care doctor. These healthcare professionals have a unique understanding of a patient's medical history, lifestyle, and health goals, making them the most credible source of weight loss guidance.\n\nDespite this, many patients are not seeking advice from their primary care physicians. This may be due in part to the abundance of conflicting information available online, which can be confusing and overwhelming. Additionally, some patients may feel that their doctor is too focused on treating acute medical issues, rather than addressing their long-term health goals. However, primary care physicians are well-equipped to provide personalized weight loss advice that takes into account a patient's individual needs and circumstances.\n\nBy seeking guidance from their primary care physician, patients can gain a more comprehensive understanding of their weight loss options and create a tailored plan that is more likely to succeed. This approach can also help to prevent unnecessary complications and ensure that any weight loss efforts are safe and sustainable. As the weight loss landscape continues to evolve, patients would do well to prioritize their primary care physician as a trusted source of guidance and support.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/12/2026 19:21:57",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-264",
+    "title": "Machine learning boosts certainty in prenatal genetic testing",
+    "slug": "machine-learning-boosts-certainty-in-prenatal-genetic-testing",
+    "content": "Advances in genome sequencing are expanding the reach of prenatal genetic testing, enabling more expectant families to access detailed information about their unborn child’s health. Modern sequencing technologies, such as whole‑genome and targeted panel tests, can now detect a broader range of genetic variants with greater speed and accuracy than earlier methods.\n\nThese tests provide clinicians with data that can identify pathogenic changes linked to neurodevelopmental conditions, such as autism spectrum disorder, intellectual disability, and certain metabolic disorders. By revealing potential risks early in pregnancy, healthcare providers can offer families options ranging from enhanced monitoring and early intervention to informed decisions about pregnancy management. The growing availability of these tests also raises important considerations around counseling, data interpretation, and the ethical use of genomic information.\n\nAs genome sequencing becomes more routine in obstetric care, the medical community is working to ensure that results are communicated clearly and that families receive appropriate support. Continued research and collaboration between geneticists, obstetricians, and ethicists will be essential to maximize the benefits of these technologies while addressing the complex questions they raise.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/12/2026 19:21:47",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-261",
+    "title": "Global energy watchdog warns oil stockpiles ‘rapidly depleting’ – business live",
+    "slug": "global-energy-watchdog-warns-oil-stockpiles-rapidly-depleting-business-live",
+    "content": "Global Oil Supplies Under Pressure as OPEC Lowers Demand Forecast\n\nThe International Energy Agency (IEA) has issued a pressing call for the urgent reopening of the Strait of Hormuz, a critical waterway through which a significant portion of the world's oil supplies pass. The move comes as global oil demand continues to face mounting pressure, with the Organization of the Petroleum Exporting Countries (OPEC) lowering its full-year forecast for world oil demand growth for the fourth consecutive month. According to a report seen by Reuters, OPEC now expects oil demand to have grown by just 580,000 barrels per day, a decrease from previous estimates.\n\nThe Strait of Hormuz, located between Iran and the United Arab Emirates, is a vital shipping route that accounts for nearly 20% of the world's oil exports. The IEA's call for its reopening underscores the growing concern over the potential disruption to global oil supplies. The Strait has been subject to heightened tensions in recent years, with several incidents of oil tanker seizures and attacks reported in the region. OPEC's revised forecast serves as a stark reminder of the ongoing challenges facing the global oil market, with the cartel's members struggling to meet increasing demand.\n\nThe development is likely to have significant implications for the global economy, with oil prices already showing signs of volatility in response to the changing market dynamics. As the world's leading oil producers grapple with the challenges of meeting growing demand, the IEA's call for the reopening of the Strait of Hormuz serves as a timely reminder of the need for urgent action to ensure the stability of global oil supplies.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/12/2026 19:13:07",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-259",
+    "title": "Bakery Reopens Coughlans Sites After Closure",
+    "slug": "bakery-reopens-coughlans-sites-after-closure",
+    "content": "Janes Pantry, a well-known bakery business, has announced its intention to revive its presence in the UK market by reopening at least 20 of the former Coughlans shops. The news marks a significant development in the retail sector, as Janes Pantry seeks to capitalize on the growing demand for high-quality baked goods and convenience stores. Following the collapse of Coughlans, a popular convenience store chain, Janes Pantry has identified opportunities to breathe new life into select locations.\n\nJanes Pantry, which has a strong reputation for its freshly baked products and customer service, plans to transform the reopened Coughlans sites into modern bakeries and convenience stores. The company aims to create a unique shopping experience for customers, offering a wide range of baked goods, fresh produce, and other essentials. By reviving these locations, Janes Pantry is poised to not only restore a beloved brand but also provide employment opportunities for local communities.\n\nThe reopening of at least 20 Coughlans sites is expected to be a significant milestone for Janes Pantry, marking a major investment in the UK retail market. As the company continues to work towards this goal, it remains to be seen how the revamped stores will be received by customers and how they will compete in a crowded market. Nevertheless, Janes Pantry's commitment to quality and customer service has earned it a loyal following, and the company's plans to reopen Coughlans sites are likely to generate significant interest among consumers and industry observers alike.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/12/2026 19:12:59",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-258",
+    "title": "UK Economy May Be Affected by Iran Conflict Impact on Oil Prices",
+    "slug": "uk-economy-may-be-affected-by-iran-conflict-impact-on-oil-prices",
+    "content": "Global Oil and Fuel Prices Soar Amid Middle East Conflict\n\nThe ongoing conflict in the Middle East has sent shockwaves across the globe, with far-reaching consequences for the global economy. One of the most significant impacts has been on the oil and fuel markets, where prices have skyrocketed in recent weeks. The disruption to supply chains and production facilities in the region has led to a shortage of crude oil, driving up prices and causing widespread inflation. The effects are being felt across the globe, with many countries struggling to maintain stable fuel prices and keep up with growing demand.\n\nAs a result of the conflict, several major oil-producing countries have seen their production levels significantly reduced, exacerbating the shortage and driving up prices. The global economy is particularly vulnerable to disruptions in the oil market, with many industries reliant on cheap and stable fuel supplies. The ripple effects of the conflict are also being felt in the supply chain, with delays and disruptions to shipping and transportation causing further price increases. Governments and industries are scrambling to find solutions to mitigate the impact of the crisis, but the outlook remains uncertain.\n\nThe price spike has significant implications for consumers and businesses alike, with many struggling to cope with the rising costs. As the conflict continues to unfold, it remains to be seen how the global economy will adapt and respond to the challenges posed by the oil and fuel price crisis. In the meantime, governments and international organizations will need to work together to find ways to stabilize the market and ensure a stable supply of fuel to meet growing demand.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/12/2026 19:12:54",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-256",
+    "title": "New World Screwworm Flies Detected in the US: Emerging Technologies for Control",
+    "slug": "new-world-screwworm-flies-detected-in-the-us-emerging-technologies-for-control",
+    "content": "A Devastating Pest: The New World Screwworm Fly\n\nIn a region plagued by tropical diseases and parasites, a particularly insidious threat has emerged in the form of the New World screwworm fly. Initially appearing as ordinary flies buzzing around, these parasitic insects pose a significant threat to warm-blooded animals, including humans. Although the risk to humans is relatively low, the screwworm fly's destructive behavior is nothing short of extraordinary.\n\nThe screwworm fly's modus operandi involves burrowing into wounds and bodily openings such as the ears, nose, and mouth in a distinctive spiral pattern, earning its name. This behavior allows the fly to lay hundreds of eggs, which then hatch into larvae that feed on the host's tissue. The consequences of a screwworm fly infestation can be severe, leading to significant tissue damage, infection, and even death. The fly's ability to adapt to various environments and hosts makes it a formidable pest in regions where it has established itself.\n\nEfforts to control and eradicate the screwworm fly are underway, with targeted measures being implemented to prevent its spread and mitigate its impact on local ecosystems and animal populations. As the threat posed by this parasitic fly continues to grow, it is essential to remain vigilant and take proactive steps to prevent infestations and protect vulnerable species.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/12/2026 19:12:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-255",
+    "title": "Bumblebees Can Learn to Identify Queen through Smells",
+    "slug": "bumblebees-can-learn-to-identify-queen-through-smells",
+    "content": "Researchers at Penn State have made a groundbreaking discovery in the world of bumblebee behavior, revealing that these insects are capable of learning to associate new odors with their colony's queen. Contrary to previous understanding, the study found that bumblebees are not preprogrammed to recognize the queen's pheromones from birth, but rather can learn to identify and respond to different scents through experience. This new knowledge challenges the long-held assumption that bumblebees' pheromone recognition is an innate trait.\n\nThe study, published in the journal Communications Biology, involved treating buff-tailed bumblebee queens with one of two different floral scents as they built their colonies. The researchers found that the queens' colonies eventually came to associate the scent with the queen herself, and that worker bees within the colony would respond accordingly. This ability to learn and adapt to new odors has significant implications for our understanding of bumblebee behavior and social dynamics. It also raises questions about the role of experience and learning in shaping the complex social interactions within bumblebee colonies.\n\nThe findings of this study have the potential to shed new light on the intricate social structures of bumblebee colonies and may inform the development of more effective conservation strategies for these vital pollinators. As researchers continue to explore the complexities of bumblebee behavior, this study provides a significant step forward in our understanding of these fascinating insects.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/12/2026 19:12:40",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-254",
+    "title": "Scientists Use Moonquakes to Locate Lunar Ice Deposits",
+    "slug": "scientists-use-moonquakes-to-locate-lunar-ice-deposits",
+    "content": "Scientists have made a groundbreaking discovery in their search for water ice on the moon's surface. While the moon's barren landscape may appear inhospitable to the existence of water, researchers believe that beneath the dusty surface lies a hidden treasure trove of ice deposits. However, these deposits are notoriously difficult to detect, often blending seamlessly into the surrounding terrain. To overcome this challenge, scientists have turned to an unconventional method of detection, leveraging the power of seismic waves from moonquakes.\n\nBy analyzing the seismic waves generated by moonquakes, researchers can gain valuable insights into the moon's internal structure. The waves, which travel through the moon's interior, interact with subsurface materials, providing a unique window into the moon's composition. By studying these interactions, scientists can infer the presence of water ice, even when it is not visible on the surface. This innovative approach has allowed researchers to pinpoint potential ice deposits with unprecedented accuracy, paving the way for further exploration and study.\n\nThe use of seismic waves as locator beacons has opened up new possibilities for lunar research, enabling scientists to identify and map water ice deposits with greater precision. As our understanding of the moon's geology continues to evolve, this breakthrough is expected to have significant implications for future lunar missions, including the potential for in-situ resource utilization and the development of a sustainable human presence on the moon.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/12/2026 19:12:35",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-253",
+    "title": "Recyclable glue bonds underwater in seconds and holds for years",
+    "slug": "recyclable-glue-bonds-underwater-in-seconds-and-holds-for-years",
+    "content": "Scientists in China have made a breakthrough in adhesive technology, developing a superglue that can form strong bonds underwater. According to a recent study published in Nature Communications, the new adhesive overcomes a significant challenge in bonding materials underwater. Typically, glues require a dry surface to stick properly, as water forms a thin film on any surface, reducing the adhesive's effectiveness. This film prevents the adhesive from coming into direct contact with the material, resulting in a weakened bond.\n\nThe researchers from China have designed a superglue that repels water, allowing it to form a strong and recyclable bond within seconds. This innovative adhesive is expected to have numerous applications in various industries, including underwater construction, marine engineering, and even medical procedures. The ability to create strong bonds underwater could also enable the development of more efficient and sustainable technologies.\n\nThe publication of this research marks an important milestone in the field of adhesive science, and the potential implications of this discovery are vast. As the world continues to explore and innovate in areas such as marine engineering and medical research, this breakthrough could pave the way for new and exciting applications. Further studies and testing will be necessary to fully realize the potential of this superglue, but the initial results are promising and demonstrate the ingenuity of the researchers involved.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/12/2026 19:12:29",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260812-252",
     "title": "Human 'Baby Voice' Used When Speaking to Pets",
     "slug": "human-baby-voice-used-when-speaking-to-pets",
