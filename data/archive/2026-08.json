@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260812-160",
+    "title": "MIT Technology Review Announces 2026 Innovators Under 35",
+    "slug": "mit-technology-review-announces-2026-innovators-under-35",
+    "content": "MIT Technology Review Set to Unveil 2026 List of Innovators Under 35\n\nIn a prestigious annual tradition, MIT Technology Review will announce its 2026 list of Innovators Under 35 on September 8. This esteemed recognition honors 35 young individuals from diverse global backgrounds who are making significant strides in scientific research and technological innovation. These young innovators are tackling complex problems and developing innovative solutions that have the potential to shape the future of various industries and fields.\n\nBy spotlighting the world's top young innovators, MIT Technology Review aims to shed light on the cutting-edge work being conducted globally. The list will provide valuable insights into the latest advancements and emerging trends in science and technology, as well as the creative problem-solving approaches employed by these young leaders. This recognition not only celebrates their achievements but also serves as a catalyst for further innovation and collaboration, inspiring a new generation of scientists and engineers to push the boundaries of what is possible.\n\nThe unveiling of the 2026 list of Innovators Under 35 is expected to generate significant interest and attention within the scientific and technological communities. As the world grapples with complex challenges, the innovative work being done by these young individuals offers a beacon of hope and a reminder of the potential for human ingenuity to drive positive change.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:15",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-159",
+    "title": "The Misconceptions of Online Trends and Viral Culture",
+    "slug": "the-misconceptions-of-online-trends-and-viral-culture",
+    "content": "In a recent interview with WIRED, cyber-ethnographer Ruby J. Thelot shared her insights on the current state of online culture and its impact on society. Thelot's expertise lies in studying the intersection of technology and human behavior, and she has observed a concerning trend where people are placing too much significance on viral content. This phenomenon, she argues, can lead to a distorted view of reality, as individuals become overly invested in online trends and lose sight of what is truly important.\n\nThelot's comments touch on various aspects of online culture, from the pessimism surrounding modern dating to the ways in which artificial intelligence is reshaping our cultural landscape. She suggests that the constant stream of information on social media platforms can create a sense of misinformation, where people begin to prioritize viral moments over genuine human connections and meaningful experiences. By examining the ways in which people interact with online content, Thelot aims to shed light on the potential consequences of this behavior and encourage a more nuanced understanding of the digital world.\n\nUltimately, Thelot's observations serve as a reminder to approach online content with a critical eye and not to conflate virality with importance. By recognizing the potential pitfalls of online culture, individuals can cultivate a healthier relationship with technology and focus on what truly matters. As the digital landscape continues to evolve, Thelot's work provides a valuable perspective on the need for a more thoughtful and discerning approach to online engagement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:09",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-158",
+    "title": "Cargo Theft Violence Escalates in California",
+    "slug": "cargo-theft-violence-escalates-in-california",
+    "content": "California Sees Rise in Server Thefts Targeting Data Centers\n\nIn a concerning trend, California has witnessed two recent incidents where criminal organizations have resorted to brazen methods to steal servers and other equipment intended for data centers. According to experts, these incidents highlight the determination and audacity of cybercrime groups in the state. The first incident involved a group of thieves who broke into a data center in the San Francisco Bay Area, making off with hundreds of servers and other critical infrastructure equipment. The second incident, which occurred in Los Angeles, saw a group of individuals posing as delivery personnel gain access to a data center, where they stole several servers and other valuable equipment.\n\nExperts believe that these incidents are part of a larger trend of server thefts targeting data centers across the United States. The stolen servers and equipment are often sold on the black market, where they are used to facilitate various forms of cybercrime, including hacking and identity theft. The thefts also pose a significant risk to data center operations, as the loss of critical infrastructure equipment can compromise the security and integrity of sensitive data. Law enforcement agencies are working closely with data center operators to investigate these incidents and prevent future thefts.\n\nAs the demand for data storage and processing continues to grow, data centers are becoming increasingly attractive targets for cybercrime groups. The California incidents serve as a stark reminder of the need for enhanced security measures and cooperation between law enforcement and the data center industry to prevent such thefts and protect sensitive data.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:13:02",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-154",
+    "title": "AI Newsroom Beats Mainstream Journalists to Big Story",
+    "slug": "ai-newsroom-beats-mainstream-journalists-to-big-story",
+    "content": "Last week, an automated AI newsroom published a story on OpenAI’s latest security breach before any mainstream outlet, including WIRED, could break the news. The AI system, which pulls data from multiple feeds and compiles reports in real time, identified the incident within minutes of the breach’s discovery, delivering a concise account that included the nature of the attack, the affected systems, and OpenAI’s initial response. WIRED’s coverage followed later that day, citing the AI‑generated article as its primary source.\n\nThe incident involved a sophisticated phishing campaign that compromised several internal OpenAI accounts, giving attackers temporary access to proprietary code and research data. OpenAI’s public statement confirmed the breach, outlined steps taken to secure its infrastructure, and pledged a full audit. The AI newsroom’s rapid reporting highlighted the growing role of automated journalism in covering fast‑moving tech stories, demonstrating how machine‑generated content can outpace human reporters in speed and breadth of coverage.\n\nThis event marks a turning point for media operations, underscoring the potential for AI to set the news agenda in real time. While the technology offers unprecedented immediacy, it also raises questions about verification, editorial oversight, and the balance between speed and accuracy. As AI newsrooms continue to evolve, their influence on the industry’s competitive dynamics is likely to increase, making it essential for traditional outlets to adapt their workflows accordingly.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:12:40",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-152",
+    "title": "Reservoir Secures $8M Funding for Smart Water Heaters",
+    "slug": "reservoir-secures-8m-funding-for-smart-water-heaters",
+    "content": "Reservoir, a home‑energy technology firm, unveiled an ultra‑efficient water heater that integrates demand forecasting, energy storage, and leak detection into a single unit. The system uses machine‑learning algorithms to anticipate hot‑water usage patterns across a household, adjusting heating cycles to match peak demand while minimizing standby losses. By incorporating a thermal‑energy storage tank, the heater can capture excess heat generated during low‑usage periods and release it when needed, thereby reducing overall electricity consumption.\n\nIn addition to its energy‑saving features, the device continuously monitors water flow and pressure to identify anomalies indicative of plumbing leaks, alerting homeowners via a mobile app and automatically shutting off supply to prevent damage. Early field trials report up to 30 percent lower energy bills compared with conventional tankless models, and the leak‑detection capability has been credited with averting water‑damage incidents in participating homes. Reservoir plans to roll out the product nationwide later this year, positioning it as a comprehensive solution for sustainable residential water heating.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/12/2026 16:12:28",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-150",
+    "title": "EU packaging rules alarm small firms",
+    "slug": "eu-packaging-rules-alarm-small-firms",
+    "content": "The European Union has rolled out a set of new regulations aimed at reducing packaging waste and banning the use of persistent, bio‑accumulative, and toxic chemicals, commonly referred to as “forever chemicals.” The rules, which will be implemented in stages over the next several years, require businesses to meet stricter reporting and compliance standards for packaging materials and to phase out substances such as per- and polyfluoroalkyl substances (PFAS) from consumer goods.\n\nWhile the phased approach is intended to give companies time to adjust, several small sellers have already halted shipments to the EU market. The additional administrative burden—new documentation, certification checks, and compliance deadlines—has prompted these businesses to pause exports until they can ensure full adherence to the updated requirements. Industry observers note that the impact on smaller operators could be significant, as the cost and complexity of compliance may outweigh the benefits of continuing to trade within the single market.\n\nThe EU’s move reflects a broader push to curb environmental pollution and protect public health, but it also highlights the challenges that small and medium‑sized enterprises face when adapting to rapidly evolving regulatory landscapes. The authorities have indicated that support measures will be available to help firms transition, yet the immediate pause in shipments underscores the urgency of aligning operations with the new standards.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:18",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260812-149",
+    "title": "Zambia President Rallies for Second Term Ahead of Election",
+    "slug": "zambia-president-rallies-for-second-term-ahead-of-election",
+    "content": "President Hakainde Hichilema addressed a large crowd in Lusaka on 12 March, urging voters to support his bid for a second term in the 2026 presidential election. The rally, held at the National Assembly grounds, drew thousands of supporters who marched with banners pledging to back the incumbent’s economic reform agenda and anti‑corruption drive. Hichilema called for continued investment in infrastructure, a stable currency, and expanded access to affordable energy, arguing that these policies would lift Zambia’s living standards.\n\nThe president’s campaign has faced a resurgent opposition from the Patriotic Front, led by former President Michael Sata’s widow, and the United Party for National Development, both of whom have criticized the administration’s handling of inflation and public debt. Despite the opposition’s concerns, Hichilema’s supporters highlighted the progress made since taking office, citing reductions in poverty rates and improvements in the country’s credit rating. The rally also served as a platform for the president’s party to rally its base ahead of the upcoming election, with party officials promising to mobilize voters across the country.\n\nIn closing, Hichilema reiterated that his administration would continue to pursue inclusive growth and transparent governance. The rally, which attracted both domestic and international observers, underscores the president’s intent to secure a mandate for his policies. As Zambia heads toward the 2026 election, the rally’s turnout and the president’s messaging will likely influence the political landscape and voter sentiment in the months ahead.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/12/2026 16:12:12",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260812-148",
     "title": "Paul Pogba faces new injury setback, Monaco future uncertain",
     "slug": "paul-pogba-faces-new-injury-setback-monaco-future-uncertain",
