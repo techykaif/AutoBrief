@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260814-062",
+    "title": "Nevada judge dismisses case against alleged fake electors",
+    "slug": "nevada-judge-dismisses-case-against-alleged-fake-electors",
+    "content": "A federal judge has dismissed a lawsuit filed by several swing states that sought to prosecute individuals who participated in a 2021 “fake elector” scheme aimed at overturning the 2020 presidential election. The case, brought by Arizona, Georgia, Michigan, Pennsylvania, and Wisconsin, alleged that the electors had fraudulently certified Donald Trump’s victory and that the scheme violated state and federal law. The dismissal, announced in a brief ruling, represents the latest setback for the states’ efforts to hold the conspirators accountable.\n\nThe lawsuit claimed that the electors had acted with the intent to mislead Congress and the public, and that their actions could have altered the outcome of the election. In its decision, the court found insufficient evidence to prove the alleged conspiracy and noted that the defendants’ conduct did not meet the legal threshold for a criminal fraud claim. The judge also cited procedural deficiencies in the plaintiffs’ filing, including failure to identify all relevant parties and to provide adequate supporting documentation.\n\nWith the case dismissed, the states’ attempts to pursue criminal charges against the fake electors have stalled. The ruling underscores the challenges of proving intent and coordination in post‑election litigation, and it leaves the legal status of the individuals involved unresolved as the broader debate over election integrity continues.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/14/2026 11:41:44",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-061",
     "title": "Farage Wins Clacton By-Election",
     "slug": "farage-wins-clacton-by-election",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/13/2026 8:42:09",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-034",
-    "title": "New Zimbabwe land policy revives disputes over 2000 farm seizures",
-    "slug": "new-zimbabwe-land-policy-revives-disputes-over-2000-farm-seizures",
-    "content": "Harare has introduced a revised land‑ownership policy that revives legal challenges to farms seized during Zimbabwe’s controversial land‑reform program that began in 2000. The new framework, announced by the Ministry of Lands, Agriculture and Rural Resettlement, permits former commercial farm owners and their heirs to file claims for compensation or restitution, provided they can prove prior title and that the land was not lawfully redistributed under the 2000 “fast‑track” reforms. The government says the move aims to address lingering grievances, attract investment and improve agricultural productivity, while also respecting the rights of beneficiaries who were allocated the land under the original program.\n\nThe policy arrives amid renewed debate over the legacy of the reform, which transferred roughly 4.5 million hectares from white commercial farmers to black Zimbabweans, often resulting in reduced output and legal uncertainty. Opposition parties and several farmer associations have welcomed the chance to seek redress, warning that unresolved disputes could deter foreign investment and exacerbate food‑security concerns. Conversely, representatives of the resettled farmers argue that the changes could destabilise livelihoods that have been built over the past two decades. The government has pledged to establish a special tribunal to adjudicate claims within 12 months, signaling an effort to balance restitution with the need for agricultural stability.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/13/2026 8:42:05",
     "author": "Al Jazeera",
     "isFeatured": false
   }
