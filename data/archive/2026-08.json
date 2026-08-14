@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260813-086",
+    "title": "Uniaxial Strain Enables Control of Electron Flow in Altermagnet",
+    "slug": "uniaxial-strain-enables-control-of-electron-flow-in-altermagnet",
+    "content": "Researchers at Rice University have achieved a significant milestone in the study of altermagnetism, a newly identified third form of magnetism that holds substantial promise for next-generation spin-transport technologies. The breakthrough, detailed in a recent paper published in *Physical Review X*, marks the first successful manipulation of a proposed altermagnetic material",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/13/2026 12:33:03",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-084",
+    "title": "Celld Offers Self-Hosted Distributed Durable Objects",
+    "slug": "celld-offers-self-hosted-distributed-durable-objects",
+    "content": "A new submission titled “celld.dev” appeared on the Hacker News front page, linking to the website https://celld.dev/. The post received seven up‑votes but, as of the latest update, has not yet generated any comments. The brief engagement suggests the link may be a niche resource or a new project that has not yet attracted broader discussion among the community.\n\nThe submission was posted to the “Y Combinator News” feed, where it appears alongside other technology and startup stories. With only seven points, it sits modestly in the ranking, indicating limited visibility compared to higher‑scoring posts. The absence of comments could reflect a lack of immediate interest or simply that the post is too new for users to have responded.\n\nAt this time, the post remains a quiet entry in the Hacker News stream. As the community continues to scroll through the front page, it may receive additional up‑votes or spark conversation, but for now it stands as a minimal‑impact link in the feed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/13/2026 12:32:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-083",
+    "title": "OpenAI launches Codex Desktop client for Linux",
+    "slug": "openai-launches-codex-desktop-client-for-linux",
+    "content": "OpenAI has announced the release of Codex, a new artificial‑intelligence system designed to translate natural‑language instructions into working code. Built on the same transformer architecture that underpins GPT‑3, Codex was trained on a large corpus of publicly available source‑code and documentation, enabling it to understand and generate code in a variety of programming languages.\n\nThe model can produce code snippets, complete functions, and even entire programs from user prompts, and it is already being integrated into tools such as GitHub Copilot to assist developers in real time. Early demonstrations show Codex handling tasks ranging from simple scripting to more complex algorithmic challenges, though it still requires human oversight to ensure correctness and security. OpenAI has positioned Codex as a research preview, inviting the developer community to experiment and provide feedback.\n\nCodex represents a significant step toward making programming more accessible, potentially lowering the barrier for non‑experts and speeding up development cycles. As the technology matures, further refinements and broader language support are expected, along with deeper integration into software‑development workflows.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/13/2026 12:32:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-082",
+    "title": "Factor Promo Code: 50% Off Meal Prep",
+    "slug": "factor-promo-code-50-off-meal-prep",
+    "content": "Factor, the meal‑delivery service known for its pre‑prepared, nutrition‑focused dishes, is offering a range of hand‑picked discount codes for the month of August. The promotion aims to make meal prep more accessible for customers with diverse dietary needs—including vegetarian, keto, gluten‑free, and low‑sodium options—while providing savings on subscription plans. The codes, which can be applied at checkout on Factor’s website, vary in value and are valid for a limited time, encouraging users to take advantage before the end of the month.\n\nThe discount initiative follows Factor’s recent expansion of its menu to include more plant‑based and low‑carb options, positioning the company as a flexible choice for health‑conscious consumers. By combining cost savings with a broad selection of meal plans, Factor seeks to attract both new subscribers and those who already enjoy the convenience of ready‑to‑heat meals. The company has highlighted that the codes are available through its official social media channels and email newsletter, ensuring that customers can easily access the offers.\n\nAs August concludes, Factor’s discount codes provide an opportunity for consumers to streamline their weekly meal planning without compromising on dietary preferences. The promotion underscores the brand’s commitment to affordability and nutritional variety, reinforcing its reputation as a convenient solution for busy lifestyles.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/13/2026 12:32:41",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-081",
+    "title": "Rare Solar Eclipse Darkens Parts of Europe",
+    "slug": "rare-solar-eclipse-darkens-parts-of-europe",
+    "content": "A rare solar eclipse drew skywatchers from across Europe, who gathered in cities and rural areas alike to observe the Moon’s passage in front of the Sun.  The event, visible from the Iberian Peninsula through to Scandinavia, offered a unique opportunity for both amateur astronomers and the general public to witness a totality that had not been seen in the region for decades.\n\nSpectators were advised to use certified eclipse glasses to protect their eyes, as the eclipse’s partial phases were visible for several hours before the brief moment of totality.  Local authorities coordinated with national meteorological services to issue clear viewing guidelines and to ensure public safety.  Many communities hosted free viewing parties, complete with telescopes and educational displays, to encourage wider participation and to promote public interest in astronomy.\n\nThe eclipse, which began at 09:15 UTC and reached totality at 10:42 UTC, ended at 12:05 UTC, providing a fleeting but spectacular celestial event.  As the Moon covered the Sun’s disk, the sky darkened and temperatures dropped, creating a dramatic backdrop for observers.  The event was celebrated by both scientific groups and cultural organizations, highlighting the shared wonder of astronomical phenomena across Europe.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/13/2026 12:32:36",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260813-080",
     "title": "Spain Draws Millions to First Total Solar Eclipse in Over a Century",
     "slug": "spain-draws-millions-to-first-total-solar-eclipse-in-over-a-century",
