@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260814-609",
+    "title": "Extreme Heat Affects Cognitive Function",
+    "slug": "extreme-heat-affects-cognitive-function",
+    "content": "Heat-Induced Mental Fog: Scientists Explain the Link Between Summer and Cognitive Decline\n\nAs the summer sun beats down, many people experience a decline in mental clarity, making everyday tasks seem more challenging than usual. This phenomenon is not unique to individuals with pre-existing cognitive conditions, as research suggests that the heat itself can impair cognitive function. Scientists attribute this effect to the body's attempt to regulate its internal temperature, which diverts blood flow away from the brain and towards the skin to facilitate heat loss.\n\nThis temporary cognitive decline is often referred to as \"heat-induced mental fog.\" It is thought to occur when the brain's ability to regulate its temperature is compromised, leading to a decrease in blood flow and oxygenation. As a result, the brain's ability to process information and perform tasks efficiently is impaired. Additionally, the heat can also exacerbate existing conditions such as heat exhaustion and heat stroke, which can further compromise cognitive function.\n\nWhile the effects of heat-induced mental fog are typically temporary and reversible, understanding the underlying mechanisms can help individuals take preventive measures to mitigate its impact. Staying hydrated, seeking shade or cooler environments, and engaging in physical activity during cooler parts of the day can all help to minimize the effects of heat on cognitive function.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/15/2026 5:21:56",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-606",
+    "title": "Proposals to Overhaul American Science",
+    "slug": "proposals-to-overhaul-american-science",
+    "content": "The Economist’s feature “The case for overhauling American science” examines growing concerns that the United States’ research ecosystem is losing its competitive edge amid rising costs, bureaucratic complexity, and a fragmented funding landscape. Citing recent declines in the nation’s share of global scientific output and the increasing difficulty junior researchers face in securing stable positions, the article outlines how current grant‑making practices—dominated by short‑term, project‑specific awards—have contributed to a cycle of uncertainty and inefficiency. It also highlights comparative analyses showing that several peer nations have adopted more flexible, long‑term funding models and streamlined administrative procedures, resulting in higher retention of talent and faster translation of discoveries into commercial applications.\n\nIn response, the piece outlines a series of policy proposals aimed at revitalising the American research sector, including the creation of multi‑year, investigator‑focused grants, the consolidation of overlapping federal agencies to reduce redundancy, and the introduction of metrics that reward collaborative and interdisciplinary work. The article notes that implementing such reforms would require coordinated action among Congress, the National Institutes of Health, the National Science Foundation, and private foundations, but suggests that a more resilient funding architecture could restore the United States’ leadership in innovation and ensure a sustainable pipeline of scientific talent for the coming decades.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 5:21:42",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-605",
     "title": "Scottie Scheffler Equals Course Record at St Jude Championship",
     "slug": "scottie-scheffler-equals-course-record-at-st-jude-championship",
@@ -5475,28 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/14/2026 2:32:05",
     "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-569",
-    "title": "Passenger train derails near Lewes, injuring at least 11",
-    "slug": "passenger-train-derails-near-lewes-injuring-at-least-11",
-    "content": "A passenger train derailed near the town of Lewes in East Sussex, England, on Tuesday, injuring at least 11 people, including two who sustained serious injuries. The incident occurred on a single-track section of the East Coastway Line, where the train was travelling from Brighton to London. Emergency services were dispatched to the scene within minutes, and the injured were transported to nearby hospitals for treatment.\n\nRail operators confirmed that the derailment was caused by a failure of a track component, though a detailed investigation is still underway. The train was a Class 377 electric multiple unit, and all passengers were evacuated safely by crew and emergency staff. Service disruptions were announced for the remainder of the day, with alternative arrangements being arranged for commuters.\n\nThe incident has prompted a review of track maintenance procedures in the area, and the Department for Transport has pledged to accelerate the investigation. Local authorities have urged residents to avoid the affected route until the investigation is complete. The train service is expected to resume normal operations once the track is cleared and inspected.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 2:32:00",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-568",
-    "title": "Sudan army reports RSF advance on border town Kurmuk",
-    "slug": "sudan-army-reports-rsf-advance-on-border-town-kurmuk",
-    "content": "Military and government officials reported that the Rapid Support Forces (RSF) and allied militias have moved into the town of Kurmuk, located in Sudan’s Blue Nile state. The advance was confirmed by sources from both the Sudanese armed forces and the central government, who said the paramilitary units entered the town early on Thursday, encountering limited resistance from local security forces.\n\nThe incursion comes amid a broader escalation of fighting between the RSF and the Sudanese army, which has destabilized large parts of the country since the conflict erupted in April. Blue Nile, a strategically important region bordering Ethiopia, has seen repeated clashes over control of supply routes and border crossings. Authorities warned that the RSF’s presence in Kurmuk could disrupt humanitarian access and further strain the already precarious security situation in the area.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 2:31:55",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
