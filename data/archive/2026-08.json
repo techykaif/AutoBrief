@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260814-021",
+    "title": "Romania shuts down last nuclear reactor as Danube hits record low",
+    "slug": "romania-shuts-down-last-nuclear-reactor-as-danube-hits-record-low",
+    "content": "Romania has shut down the last operating reactor at its Cernavodă nuclear plant after a severe drought caused the Danube River to drop to record‑low levels, prompting the rare decision to halt the country’s sole nuclear source of electricity. The shutdown is expected to create an immediate shortfall in power generation, forcing Romania to rely more heavily on imports and to redirect available electricity to meet domestic demand.\n\nThe loss of Cernavodă’s output will directly affect Moldova, which already depends on Romanian electricity to offset its own supply deficits. With a summer heatwave intensifying across Europe and water‑level constraints limiting hydro‑electric production, both nations face heightened risk of an energy crunch, prompting authorities to seek alternative sources and implement conservation measures to stabilize the regional power grid.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/14/2026 8:21:45",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-020",
+    "title": "Study Finds Older Hispanic Adults Less Affected by Social Isolation Despite Sensory Disabilities",
+    "slug": "study-finds-older-hispanic-adults-less-affected-by-social-isolation-despite-sens",
+    "content": "Social isolation has emerged as a growing public health concern, with recent studies linking it to elevated risks of cardiovascular disease, dementia, stroke, infectious disease, depression, anxiety, and premature death. Public health officials warn that the cumulative burden of these conditions can strain healthcare systems and reduce quality of life for affected individuals.\n\nOlder adults are disproportionately affected, reporting the highest rates of social isolation. Research indicates that the lack of regular social contact can accelerate the onset of chronic diseases and mental health disorders, while also increasing susceptibility to infections. Epidemiological data show a clear correlation between isolation and adverse health outcomes across multiple age groups, but the impact is most pronounced in seniors.\n\nAddressing social isolation is therefore critical to improving population health outcomes. Efforts to expand community engagement, enhance access to social services, and promote digital connectivity for older adults are seen as essential strategies for mitigating the health risks associated with isolation.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/14/2026 8:13:25",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-019",
+    "title": "Study Finds Preference for Sweet Foods Linked to Decision-Making Patterns",
+    "slug": "study-finds-preference-for-sweet-foods-linked-to-decision-making-patterns",
+    "content": "Researchers have found that a fondness for sugary foods such as ice cream, candy, chocolate and pastries may serve as an indicator of how individuals approach decision making. The observation, reported by a team of psychologists and neuroscientists, stems from a series of experiments that examined participants’ taste preferences alongside standardized assessments of risk tolerance, impulsivity and deliberative reasoning.\n\nThe investigators measured participants’ selections from a range of sweet items and correlated those choices with performance on decision‑making tasks that required trade‑offs between immediate reward and long‑term benefit. Results showed that individuals who consistently favored sweeter options tended to exhibit higher levels of impulsivity and a greater propensity for short‑term gains, while those with more moderate sweet preferences displayed a balanced approach to risk and reward. The researchers suggest that simple dietary preferences could provide a non‑invasive window into cognitive styles, offering potential applications in fields ranging from behavioral economics to clinical assessment.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/14/2026 8:13:19",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-018",
+    "title": "Mathematical analysis of networks proposed to curb future pandemics",
+    "slug": "mathematical-analysis-of-networks-proposed-to-curb-future-pandemics",
+    "content": "Complex systems that rely on vast networks of connections—such as LinkedIn’s professional graph, the worldwide airline route map, and the human brain’s neural circuitry—share striking structural similarities. Recent studies in network science have highlighted that these seemingly disparate systems all exhibit small‑world properties, high clustering, and a few highly connected hubs that facilitate efficient communication across the network.\n\nIn the LinkedIn network, users form millions of professional ties that cluster around industry, geography, and shared interests, while a handful of influential profiles serve as key connectors. The global airline network mirrors this pattern, with major hubs like Atlanta, Dubai, and Heathrow linking thousands of cities, creating a highly interconnected web that supports rapid passenger and cargo movement. Likewise, the brain’s connectome consists of densely interconnected cortical regions linked by a few long‑range tracts, enabling swift information transfer between distant neural assemblies. Researchers use graph‑theoretic metrics to compare these systems, revealing common resilience mechanisms and optimal pathways that maintain functionality even when individual nodes fail.\n\nUnderstanding these shared network characteristics offers insights across disciplines. In business, it can inform strategies for talent acquisition and information dissemination; in aviation, it helps optimize route planning and emergency response; and in neuroscience, it advances models of cognition and disease progression. As data collection and analytical tools improve, cross‑sector comparisons will likely uncover deeper principles governing complex, interconnected systems.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/14/2026 8:13:14",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-017",
+    "title": "Children’s appetite may drop in hot weather; know when to be concerned",
+    "slug": "children-s-appetite-may-drop-in-hot-weather-know-when-to-be-concerned",
+    "content": "A noticeable decline in a child’s appetite during periods of unusually high temperature has prompted pediatric health experts to reassure parents that a temporary reduction in food intake can be a normal physiological response to heat. The phenomenon, often observed when outdoor conditions soar, may cause concern, but clinicians emphasize that it is typically harmless provided the child remains well‑hydrated and maintains normal activity levels.\n\nMedical professionals advise monitoring hydration status and overall energy, noting that a child who continues to drink adequate fluids, exhibits usual vigor, and shows no signs of illness is likely experiencing a heat‑related appetite shift rather than an underlying health issue. Parents are encouraged to offer light, nutrient‑dense meals and to prioritize fluid intake, while remaining vigilant for any additional symptoms that could indicate a more serious condition.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/14/2026 8:13:07",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-016",
+    "title": "Britain’s grass turns yellow as water is diverted to homes and farms",
+    "slug": "britain-s-grass-turns-yellow-as-water-is-diverted-to-homes-and-farms",
+    "content": "Across Europe, a sudden wave of brown and straw‑colored lawns has drawn attention this summer, as fields, parks and green spaces have lost their usual verdant sheen. The change is linked to a sharp drop in available water, a consequence of prolonged heat, shifting rainfall patterns and the prioritisation of water supplies for domestic and agricultural use. The result is a stark visual contrast, with ancient underground walls and ditches standing out as green outlines against a yellow backdrop.\n\nThe ancient sub‑surface features—walls, ditches and other earthworks that have survived for millennia—retain enough moisture to keep small pockets of grass alive. These structures, buried beneath the soil, act as natural reservoirs, allowing the remaining water to be held and slowly released to the surface. Where the water table has fallen, the grass above these features can still thrive, creating a patchwork of green against the surrounding dry land.\n\nThe shift has highlighted the vulnerability of public green spaces in the face of competing water demands. With more water being diverted to households and farms, parks and lawns are experiencing higher rates of drought stress. Authorities are now exploring water‑saving strategies, such as targeted irrigation, drought‑resistant turf species, and the protection of historic earthworks that may help mitigate the impact on Europe's cherished landscapes.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 8:13:01",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-015",
     "title": "Indian Aditya-L1 mission provides new data on Sun's coronal heating",
     "slug": "indian-aditya-l1-mission-provides-new-data-on-sun-s-coronal-heating",
