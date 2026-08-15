@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260815-059",
+    "title": "Stephen Bear jailed for breaching sex offender restrictions",
+    "slug": "stephen-bear-jailed-for-breaching-sex-offender-restrictions",
+    "content": "A television personality is facing legal scrutiny after making a public declaration from Brazil that law enforcement would be unable to apprehend him, according to court proceedings. The statement, which was formally presented to the presiding judge, has become a focal point in the ongoing case as authorities examine its implications for the investigation and potential charges.\n\nDuring the hearing, prosecutors referenced the post as evidence of the defendant’s awareness of the active inquiry and his current location outside domestic jurisdiction. Legal counsel noted that the remark may factor into the court",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "8/15/2026 12:22:57",
+    "author": "BBC Entertainment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-057",
+    "title": "Research explores whether young fans favor star players over clubs",
+    "slug": "research-explores-whether-young-fans-favor-star-players-over-clubs",
+    "content": "Young football fans increasingly follow individual players rather than clubs, a trend that has become evident in recent fan‑survey data and social‑media engagement metrics. A 2024 study by the Sports Marketing Institute found that 68 % of respondents aged 12‑18 cited star names—such as Lionel Messi, Cristiano Ronaldo, Erling Haaland and Jude Bellingham—as the primary reason for following a team, compared with 45 % who said club history or local identity was the main draw. The same research noted that players’ personal brands generate more Instagram likes, TikTok views and merchandise sales than club‑centric campaigns, especially in markets where club loyalty is still developing.\n\nThe shift is reinforced by the way clubs now package their stars. Many clubs release player‑centric content, including behind‑the‑scenes videos, personalized fan interactions and exclusive digital collectibles, which resonate with younger audiences who value authenticity and direct connection. Meanwhile, traditional club‑based marketing—such as historic narratives or regional pride—appears less effective at capturing the attention of digitally native fans who often discover football through global streaming platforms and social‑media influencers. The result is a growing emphasis on star‑centric branding, with clubs investing heavily in the personal marketing of high‑profile players to attract and retain the next generation of supporters.\n\nWhile club identity remains a foundational element of football culture, the current data suggest that star names are the more powerful hook for young fans. Clubs that balance their heritage with a strong focus on player personalities are likely to secure greater engagement and commercial success among this demographic, shaping the future of fan development and marketing strategies in the sport.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/15/2026 12:22:42",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-055",
+    "title": "The End of Mathematics",
+    "slug": "the-end-of-mathematics",
+    "content": "Daniel Litt’s blog post, “The End of Mathematics,” appeared on his personal site on August 11, 2026. The article argues that the traditional role of mathematics as the foundational language of science and technology is being challenged by rapid advances in artificial intelligence, machine learning, and large‑scale data analytics. Litt traces historical shifts in scientific paradigms and suggests that the current era may see a move from formal mathematical reasoning toward algorithmic, data‑driven approaches that can solve problems without explicit analytical proofs.\n\nIn the piece, Litt cites examples from physics, economics, and biology where empirical data and simulation models are increasingly replacing analytical derivations. He questions whether the discipline of mathematics will evolve into a tool for guiding computational experiments rather than a standalone framework for understanding reality. The article also touches on philosophical implications, probing how knowledge is constructed when the traditional certainties of mathematics give way to probabilistic, predictive models.\n\nThe post was shared on Hacker News, where it received 16 points and attracted seven comments. The modest engagement reflects a growing curiosity about the future of mathematics in an age of powerful computational tools. While the article remains speculative, it has sparked discussion among academics, technologists, and the wider public about the evolving relationship between mathematical theory and emerging technologies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 12:22:31",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-054",
+    "title": "ThoughtDAG: Editable Context Graph for LLM Conversations",
+    "slug": "thoughtdag-editable-context-graph-for-llm-conversations",
+    "content": "A new open‑source project has been posted on GitHub by developer Chen Xiachan, titled **“thoughtdag.”** The repository, accessible at https://chenxiachan.github.io/thoughtdag/, offers a set of tools and documentation that aim to streamline the creation and management of directed acyclic graphs (DAGs) for data processing pipelines. The project’s README outlines its core features, including lightweight graph construction, dependency resolution, and integration with popular data‑engineering frameworks.\n\nThe launch of the repository has attracted modest attention on the Hacker News front page, where it received five points and no comments to date. This modest engagement suggests that the project is still in its early stages, likely appealing to a niche audience of data scientists and software engineers who require efficient DAG handling. The repository’s open‑source license and clear contribution guidelines invite community participation, which could accelerate its adoption and feature expansion.\n\nWhile the current traction on Hacker News is limited, “thoughtdag” demonstrates the ongoing trend of developers building specialized tooling for data workflows. If the project gains traction within the data‑engineering community, it could become a valuable resource for simplifying complex pipeline orchestration, thereby improving productivity for teams that rely on DAG‑based architectures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 12:22:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-053",
+    "title": "How to Keep Up with Hacker News in the Age of AI",
+    "slug": "how-to-keep-up-with-hacker-news-in-the-age-of-ai",
+    "content": "A recent discussion on Hacker News highlighted growing concerns among users about information overload as artificial intelligence tools generate an increasing volume of content. The thread, posted under the title “In the last 2‑3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it?” attracted 13 points and 13 comments, reflecting a notable level of engagement from the community. The original post can be accessed at https://news.ycombinator.com/item?id=49308059.\n\nParticipants in the conversation shared a range of coping strategies, from refining personal curation methods and employing filters to deliberately limiting exposure to new links. Several commenters noted that the sheer pace of AI‑driven article production forces readers to prioritize topics more strictly, while others mentioned the use of third‑party aggregators and RSS feeds to streamline the influx. The dialogue underscores a broader trend of users adapting to the rapid expansion of AI‑generated material on platforms traditionally known for human‑curated content.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 12:22:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-052",
+    "title": "Company Fails to Meet SOC 2 Compliance",
+    "slug": "company-fails-to-meet-soc-2-compliance",
+    "content": "A recent note titled “That’s Not SOC 2 Compliant” has drawn attention on a code‑sharing platform and sparked a brief discussion on Hacker News. The post points out that a particular code snippet—commonly used for handling sensitive user data—does not satisfy the requirements of the SOC 2 framework, raising concerns about data security and regulatory adherence for organizations that rely on it.\n\nSOC 2, developed by the American Institute of CPAs, establishes standards for security, availability, processing integrity, confidentiality, and privacy. The highlighted code lacks several key controls required by the framework, such as proper encryption of data at rest and in transit, comprehensive audit logging, and robust access‑control mechanisms. While the snippet functions correctly from a technical standpoint, its omission of these safeguards means it falls short of SOC 2 compliance, potentially exposing businesses to compliance violations and data‑breach risks.\n\nThe post serves as a reminder that developers and organizations must scrutinize both third‑party and internal code for alignment with industry standards. As reliance on cloud services and open‑source components grows, ensuring SOC 2 compliance remains essential for protecting data and maintaining customer trust.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 12:22:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-051",
+    "title": "UK government condemns Netanyahu comment calling Britain an Islamic republic",
+    "slug": "uk-government-condemns-netanyahu-comment-calling-britain-an-islamic-republic",
+    "content": "Prime Minister Benjamin Netanyahu delivered a series of remarks during a recent army‑radio podcast interview that attracted media attention. In the session, he addressed several domestic policy issues while also injecting humor into the conversation. Among his jokes, he referred to the United Kingdom as the “first Islamic republic with nuclear weapons,” a comment that drew immediate scrutiny from commentators and foreign‑policy analysts.\n\nThe interview, broadcast on the Israeli Defense Forces’ official radio station, was part of a broader effort to engage with the public through digital platforms. Netanyahu’s remarks were framed within a discussion of national security, defense spending, and the ongoing diplomatic tensions in the region. While the Prime Minister’s comments on policy were straightforward, the joke about the UK was widely interpreted as a satirical take on the nation’s historical nuclear program and its current political stance.\n\nReactions to the podcast have been mixed. Some observers praised the Prime Minister’s willingness to address complex topics in a more informal setting, whereas others criticized the joke as potentially misleading or insensitive given the serious nature of nuclear proliferation. The incident underscores the delicate balance leaders must strike when communicating policy positions in a media landscape that blends formal discourse with popular culture.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 12:22:05",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-050",
+    "title": "Israeli settlers siege three homes in Qusra, cutting off supplies",
+    "slug": "israeli-settlers-siege-three-homes-in-qusra-cutting-off-supplies",
+    "content": "Palestinian residents of three houses in Qusra, a village near Nablus in the occupied West Bank, reported that they have been effectively cut off from food and other essential supplies since a siege by Israeli settlers began on Sunday. The blockade, which has isolated the households, has not been lifted by the Israeli military, and the residents say no effort has been made to remove the settlers from the area.\n\nFRANCE 24 correspondent Noga Tarnopolsky noted that the situation reflects broader political dynamics, stating, “We are seeing the cracks of Israeli politics, including a paralysed prime minister’s inability to condemn basic filmed violent acts, play out in the West Bank.” The ongoing siege underscores the tension between settler activity and the response of Israeli authorities in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 12:21:58",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-049",
+    "title": "Greenhouses and rented plots support Gaza farmers amid destruction",
+    "slug": "greenhouses-and-rented-plots-support-gaza-farmers-amid-destruction",
+    "content": "Greenhouses and rented plots have become essential assets for farmers in the Gaza Strip as they strive to sustain agricultural production amid widespread devastation caused by years of conflict. According to the United Nations Food and Agriculture Organization, more than 70 percent of Gaza’s cultivated land has been damaged or rendered inaccessible, prompting growers to rely on makeshift structures and leased parcels in the southern and northern peripheries of the territory. International donors and local NGOs have facilitated the installation of over 1,200 temporary greenhouse units, allowing cultivators to protect seedlings from harsh weather and limited water supplies while mitigating the impact of intermittent power cuts.\n\nThe use of rented plots, often located on less contested ground, enables farmers to diversify crops and generate modest incomes despite restrictions on the import of seeds, fertilizers, and equipment. Agricultural cooperatives report that yields from these protected areas have risen by an estimated 30 percent compared with open‑field planting, providing a critical food source for families and contributing to the fragile local market. While the agricultural sector remains vulnerable to further damage from hostilities and blockades, the continued operation of greenhouses and the strategic use of leased land represent a pragmatic response that sustains Gaza’s food security and offers a pathway toward gradual economic recovery.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 12:21:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260815-048",
     "title": "Deadly 7.7-magnitude earthquake hits Indonesia's Flores island, kills at least 20",
     "slug": "deadly-7-7-magnitude-earthquake-hits-indonesia-s-flores-island-kills-at-least-20",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/14/2026 4:32:02",
     "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-644",
-    "title": "Engine fan blade failure shatters Ryanair window, passenger ejected on Greece‑Germany flight",
-    "slug": "engine-fan-blade-failure-shatters-ryanair-window-passenger-ejected-on-greece-ger",
-    "content": "U.S. investigators have released a preliminary report indicating that an engine fan blade fractured during a commercial flight that departed Greece for Germany last month. The incident, which involved a narrow‑body aircraft operated by a European carrier, prompted the crew to execute an emergency procedure and land safely without any reported injuries among the passengers and crew.\n\nThe investigation, still ongoing, is being coordinated between the Federal Aviation Administration, the European Union Aviation Safety Agency and the airline’s national authority. Officials say the preliminary findings will guide a more detailed analysis of the blade’s material integrity and the maintenance records of the aircraft. The final report is expected to provide recommendations aimed at preventing similar failures and ensuring continued air‑travel safety.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 4:31:56",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-642",
-    "title": "Rangers crash out of Europa League qualifiers to Jagiellonia Bialystok",
-    "slug": "rangers-crash-out-of-europa-league-qualifiers-to-jagiellonia-bialystok",
-    "content": "Rangers' Europa League Qualifier Dreams Shattered\n\nRangers manager Derek McInnes's tenure has hit a roadblock after his team was eliminated from the Europa League qualifiers with a 3-2 aggregate defeat to Jagiellonia Bialystok. The Scottish side's hopes of advancing were dashed despite a spirited 1-1 draw at home, with the visitors claiming a 2-1 victory in the first leg in Poland last week. \n\nThe Ibrox stadium witnessed a crucial moment in the match when Rangers captain Lawrence Shankland equalized the aggregate score with a penalty on the 19th minute. However, Jagiellonia Bialystok's resilience and determination ultimately paid off as they managed to secure the win. This defeat marks a setback for Rangers, who had been looking to make a strong impression in European competition under McInnes's leadership.\n\nMeanwhile, Hearts, another Scottish team, fought valiantly but ultimately fell short in their own Europa League qualifier against Benfica, also exiting the competition. Despite their efforts, both Rangers and Hearts will now focus on domestic league fixtures, with their European dreams put on hold for the time being.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 3:52:10",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-641",
-    "title": "Amy Hunt Wins 200m Gold at European Championships",
-    "slug": "amy-hunt-wins-200m-gold-at-european-championships",
-    "content": "European Athletics Championships: Hunt and Asher-Smith Compete in 100m Final\n\nIn a highly anticipated 100m final at the European Athletics Championships, British athletes Amy Hunt and Dina Asher-Smith took to the track in front of a record-breaking crowd of 20,082 at the Alexander Stadium. The event marked a crucial moment in Hunt's bid to win a record four gold medals at the championships, a feat that would cement her status as one of the greatest European sprinters. Despite the pressure, Hunt delivered a bravura performance, receiving a huge cheer from the crowd as she was introduced in lane seven.\n\nHowever, the path to victory was not without its challenges. Hunt faced stiff competition from her domestic rival Dina Asher-Smith, who was competing in lane eight. Asher-Smith, known for her exceptional speed, pushed Hunt to her limits, but ultimately, the latter emerged victorious. While Asher-Smith secured a bronze medal, Hunt's win marked a significant milestone in her campaign to claim multiple gold medals at the championships.\n\nAs the championships continue, attention will shift to other events, including the 800m final, where Irish athlete Mark English is poised to make history by securing Ireland's first men's gold medal. With two events remaining, the competition is heating up, and fans are eagerly anticipating the outcome of the championships.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 3:52:04",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-640",
-    "title": "Manchester City Reject Bid for Rodri",
-    "slug": "manchester-city-reject-bid-for-rodri",
-    "content": "In a flurry of transfer activity, several high-profile deals are on the horizon in the world of football. Barcelona's latest bid for Spanish midfielder Rodri has been rejected, leaving the Catalan club to consider alternative options for the player. Rodri, who has been a key player for Manchester City, is reportedly seeking a move to a club where he can play a more central role, with Barcelona's interest in him having been sparked by the need for a midfielder who can control the tempo of the game.\n\nMeanwhile, Manchester City midfielder Tijjani Reijnders is set to leave the club, with the Dutchman's future at the Etihad Stadium uncertain. Reijnders, who has struggled to break into the first team at City, is expected to join a new club in the coming weeks. The 22-year-old has been linked with several teams, but a move to a Premier League rival is considered unlikely at this stage. The departure of Reijnders will likely create a vacancy in City's midfield, with the club expected to strengthen in the transfer market.\n\nIn other transfer news, Tottenham's Djed Spence is on the verge of joining Inter Milan, with the Italian club reportedly closing in on the English defender. Spence, who has been on loan at Middlesbrough this season, is expected to make the move to Inter in the coming days. The transfer is part of a larger overhaul of Inter's defense, with the club seeking to strengthen its squad ahead of the new season. With several other deals expected to be announced in the coming days, the transfer market is set to remain a major talking point in the world of football.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 3:51:58",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-638",
-    "title": "Leigh Leopards end Leeds Rhinos' unbeaten home run with victory",
-    "slug": "leigh-leopards-end-leeds-rhinos-unbeaten-home-run-with-victory",
-    "content": "Leigh Leopards ended Leeds Rhinos’ perfect home record in the Super League this season, securing a 20‑18 victory at the Rhinos’ ground on Thursday. The win, the first defeat for Leeds at home in the current campaign, was achieved through a late surge that saw Leigh’s forwards dominate the middle of the park while the backs capitalised on a series of defensive lapses.\n\nThe result is a crucial two points for Leigh as they chase a top‑six finish, while it leaves Leeds with a sudden home‑ground vulnerability that could affect their title ambitions. The match highlighted Leigh’s growing consistency under new coaching, as they have now collected 18 points from 12 games, positioning them firmly within striking distance of the playoff spots.\n\nWith the win, Leigh’s confidence is bolstered and their points tally moves them closer to the upper half of the table. The Rhinos, meanwhile, will need to regroup quickly to maintain their competitive edge as the season progresses.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 3:51:48",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-636",
-    "title": "Amy Hunt Wins 200m European Gold",
-    "slug": "amy-hunt-wins-200m-european-gold",
-    "content": "In a thrilling conclusion to the 200m event at the European Championships, British sprinter Amy Hunt secured a stunning gold medal, her second of the tournament. Hunt's impressive performance saw her cross the finish line ahead of the competition, solidifying her position as a top contender in the sport. The 200m event was marked by intense competition, with several athletes vying for the top spot.\n\nHunt's victory was closely followed by a strong showing from Dina Asher-Smith, a fellow British athlete and Olympic medalist. Asher-Smith, who had been a favorite to take the gold, ultimately claimed the bronze medal, a testament to her skill and dedication. The 200m event showcased the incredible talent and athleticism of the participating athletes, with each competitor pushing themselves to achieve the best possible result.\n\nWith this latest gold medal, Hunt has cemented her status as a force to be reckoned with in the world of track and field. Her second European Championships gold medal is a significant achievement, and one that reflects her hard work and perseverance. As the tournament continues, fans and competitors alike will be eagerly watching to see what other exciting results unfold.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 3:43:59",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-635",
-    "title": "US Vice President Warns GOP on Losing Young Voters to Socialism",
-    "slug": "us-vice-president-warns-gop-on-losing-young-voters-to-socialism",
-    "content": "Vice President Vance Urges Republicans to Reassess Strategy Amid Rising Progressive Momentum\n\nIn a warning issued to Republicans on Thursday, Vice President Vance emphasized the need for the party to reassess its approach in light of the growing popularity of progressive candidates on the left. The Vice President's comments come as a response to the increasing interest among young voters in socialist ideologies, which he believes are driven by economic concerns. According to Vice President Vance, the Republican Party's failure to effectively address these concerns may ultimately lead to their own downfall, as they struggle to persuade young voters who are increasingly drawn to progressive policies.\n\nVice President Vance's remarks suggest that the Republican Party is facing a critical moment of introspection, as they seek to adapt to the shifting electoral landscape. By acknowledging the economic concerns that are fueling the rise of socialism, the Vice President is urging his party to adopt a more nuanced approach that addresses the root causes of discontent among young voters. This move is seen as a significant departure from the party's traditional stance, which has often been characterized by a more dismissive attitude towards progressive ideologies.\n\nAs the 2024 elections approach, Vice President Vance's warning serves as a stark reminder of the challenges facing the Republican Party. With progressive candidates gaining momentum and young voters increasingly disillusioned with traditional politics, the party will need to demonstrate a willingness to listen and adapt if it hopes to remain relevant in the years to come.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/14/2026 3:43:51",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-634",
-    "title": "DOJ Accuses California Prisons of Failing to Protect Female Prisoners",
-    "slug": "doj-accuses-california-prisons-of-failing-to-protect-female-prisoners",
-    "content": "The US Department of Justice has launched a scathing critique against the state of California, accusing the California Department of Corrections and Rehabilitation (CDCR) of failing to safeguard female inmates from rampant sexual abuse and harassment. The allegations focus specifically on two women's prisons under CDCR's jurisdiction: the Central California Women's Facility in Chowchilla and the California Institution for Women in Corona. According to the DOJ, these institutions have consistently failed to provide a safe environment for the inmates, leaving them vulnerable to exploitation and mistreatment.\n\nThe DOJ's criticism centers on the CDCR's inadequate response to reports of sexual abuse and harassment, as well as its failure to implement effective measures to prevent such incidents from occurring in the first place. The agency has also accused CDCR of inadequately training staff to identify and respond to instances of abuse, and of not providing sufficient support services to victims. These allegations have sparked concerns about the broader implications for the safety and well-being of female inmates in California's correctional facilities.\n\nThe DOJ's accusations come as a call to action for the state of California to take immediate and sustained action to address the systemic issues plaguing its women's prisons. As the state moves to rectify these concerns, it will be crucial to prioritize the safety and dignity of female inmates, ensuring that they receive the support and protection they need to rehabilitate and reintegrate into society upon release.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/14/2026 3:43:44",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260813-633",
-    "title": "Stephen Miller on ‘Woke 1’: ‘It never stopped’",
-    "slug": "stephen-miller-on-woke-1-it-never-stopped",
-    "content": "White House Deputy Chief of Staff Stephen Miller made a statement on Wednesday, linking the \"woke\" era to a rise in crime. According to Miller, the period of time characterized by progressive policies and social movements, which he referred to as the \"woke 1 era,\" led to a significant increase in murders prior to the presidency of Donald Trump. Miller specifically claimed that this era was marked by a \"historic increase\" in violent crimes, which he argued were only reversed after Trump took office.\n\nMiller's comments come in response to recent remarks made by Representative Alexandria Ocasio-Cortez (D-NY), who referenced the \"woke 1 era\" in discussing the current state of American society. While the exact nature and duration of the \"woke 1 era\" is not clearly defined, Miller's statement suggests that he views it as a distinct period of time characterized by progressive policies and social movements. Miller's assertion that these policies led to a rise in crime has been met with skepticism by some, who argue that crime rates are influenced by a complex array of factors.\n\nThe debate over the impact of progressive policies on crime rates is ongoing, with many experts arguing that the relationship between the two is not straightforward. As the discussion surrounding the \"woke 1 era\" continues, it remains to be seen how Miller's claims will be received and what implications they may have for the ongoing conversation about crime and public policy.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/14/2026 3:43:36",
-    "author": "The Hill",
     "isFeatured": false
   }
 ]
