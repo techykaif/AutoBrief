@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260814-015",
+    "title": "Indian Aditya-L1 mission provides new data on Sun's coronal heating",
+    "slug": "indian-aditya-l1-mission-provides-new-data-on-sun-s-coronal-heating",
+    "content": "The Sun’s corona, the outermost layer of its atmosphere, reaches temperatures of several million kelvin—far hotter than the visible surface, or photosphere, which sits at about 5,500 K. This counterintuitive temperature gradient, known as the coronal heating problem, has puzzled astronomers for decades. Recent observations from space‑borne instruments such as NASA’s Solar Dynamics Observatory and the European Space Agency’s Solar Orbiter have provided new data that support the idea that magnetic processes in the Sun’s turbulent plasma are responsible for heating the corona to such extreme temperatures.\n\nThe prevailing explanation involves the conversion of magnetic energy into thermal energy. As the Sun’s magnetic field lines twist and braid under the influence of convective motions beneath the surface, they store vast amounts of energy. When these tangled field lines reconnect—a process called magnetic reconnection—energy is released in the form of high‑frequency Alfvén waves and tiny, rapid energy bursts known as nanoflares. These waves propagate through the corona, dissipating their energy as heat and maintaining the million‑degree temperatures observed. Other mechanisms, such as the dissipation of magnetohydrodynamic waves and plasma turbulence, are also thought to contribute, but magnetic reconnection and wave heating remain the leading candidates in current models.\n\nScientists continue to refine their understanding of coronal heating through coordinated observations and advanced numerical simulations. By comparing high‑resolution imaging, spectroscopic data, and in situ measurements from spacecraft that venture close to the Sun, researchers aim to quantify the relative contributions of each heating mechanism. As these studies progress, the long‑standing mystery of why the Sun’s outer atmosphere is hotter than its surface is expected to be resolved, offering deeper insights into stellar physics and space‑weather forecasting.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 8:12:56",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-014",
+    "title": "AI Text Watermarking Explained",
+    "slug": "ai-text-watermarking-explained",
+    "content": "A new open‑source tool for embedding invisible watermarks in AI‑generated media has been released on the declaude.org platform, aiming to help creators and platforms verify the provenance of synthetic content. The system, described on the project's website, integrates directly with popular generative models to insert cryptographic signatures that survive typical post‑processing steps such as compression, resizing, and format conversion. According to the documentation, the watermark is designed to be robust against adversarial removal attempts while remaining imperceptible to human observers.\n\nThe announcement quickly attracted attention on the technology news aggregator Hacker News, where the post garnered 82 points and generated 50 comments from developers and researchers discussing its technical implementation, potential use cases, and limitations. Commenters highlighted the tool’s compatibility with both image and audio generation pipelines, its reliance on publicly auditable hash functions, and the importance of standardized detection APIs for broader adoption across content‑hosting services. The discussion also noted ongoing efforts to benchmark the watermark’s resilience against emerging deep‑fake manipulation techniques.\n\nThe release marks a step toward addressing concerns over the misuse of generative AI by providing a verifiable method for distinguishing authentic from synthetic media. Developers are encouraged to integrate the watermarking library into existing workflows, and the project’s maintainers plan to publish further performance evaluations and integration guides in the coming weeks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 8:12:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-013",
+    "title": "Seangoedecke.com blog post “Blog about things you don’t understand yet” garners attention on Hacker News",
+    "slug": "seangoedecke-com-blog-post-blog-about-things-you-don-t-understand-yet-garners-at",
+    "content": "Seangoedecke recently published a blog post titled “Things You Don’t Understand Yet” on his personal website (https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/). The article surveys a range of complex subjects—from advanced physics and emerging technologies to philosophical puzzles—that remain elusive to many readers. The author presents each topic with concise explanations and highlights why they continue to challenge contemporary understanding.\n\nThe post was shared on the Hacker News community (https://news.ycombinator.com/item?id=49293087), where it garnered 16 upvotes and attracted three comments. Users praised the author’s clear articulation of difficult concepts, and the discussion touched on the relevance of these mysteries to current scientific and technological debates. The modest engagement reflects a niche but engaged audience interested in deepening their grasp of unresolved questions.\n\nWhile the article has not sparked a large-scale conversation, it underscores the ongoing curiosity about the frontiers of knowledge. By distilling intricate ideas into accessible prose, Seangoedecke provides a useful resource for readers who seek to explore the limits of what is currently understood.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 8:12:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-012",
+    "title": "SparrowMap launches cameras to monitor government vehicles",
+    "slug": "sparrowmap-launches-cameras-to-monitor-government-vehicles",
+    "content": "SparrowMap, a new web‑based mapping platform, went live this week, offering users an interactive interface for visualizing geographic data without requiring programming expertise. The service, hosted at sparrowmap.com, allows users to upload datasets, customize layers, and share embeddable maps, positioning itself as a lightweight alternative to more complex GIS tools. The launch announcement highlighted features such as real‑time collaboration, automatic geocoding, and a library of pre‑built map templates aimed at journalists, educators, and small businesses.\n\nThe site quickly attracted attention on Hacker News, where the submission link garnered 49 points and generated 11 comments from the community. Discussion centered on the platform’s ease of use, potential privacy considerations, and comparisons with existing solutions like Google My Maps and Mapbox. Participants noted the open‑source components underlying SparrowMap and expressed interest in future enhancements, suggesting that the tool could fill a niche for rapid, low‑code map creation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 8:12:40",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-011",
+    "title": "Bluesky launches new protocol services platform",
+    "slug": "bluesky-launches-new-protocol-services-platform",
+    "content": "Bluesky, the independent social‑networking protocol originally spun out of Twitter, has announced the launch of its new “Bluesky Protocol Services” platform. The update, detailed on the company’s blog, introduces a suite of developer tools and APIs designed to streamline the creation of decentralized applications that can interact with the Bluesky network. The service portal offers comprehensive documentation, sample code, and a sandbox environment for testing, all aimed at lowering the barrier to entry for developers wishing to build on the protocol.\n\nThe announcement follows a period of gradual rollout of Bluesky’s core protocol, which has been available to developers since early 2023. By bundling the APIs and tooling into a single, publicly accessible platform, Bluesky signals its intent to foster a broader ecosystem of third‑party apps and services. The move has already sparked discussion on Hacker News, where the article received 73 up‑votes and 18 comments, reflecting a mix of enthusiasm for the open‑source approach and questions about the protocol’s long‑term viability.\n\nWhile the new services do not yet include a fully‑featured client application, the Bluesky team has indicated that the platform will evolve to support additional features such as content moderation tools and analytics dashboards. The launch marks a significant step toward establishing Bluesky as a viable alternative to centralized social media, offering developers a clearer path to building interoperable, privacy‑focused applications on a decentralized network.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 8:12:35",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-010",
+    "title": "U.S. Cancer Surgery Wait Times Reach 10-Year High",
+    "slug": "u-s-cancer-surgery-wait-times-reach-10-year-high",
+    "content": "A new analysis released by the National Institute for Health Metrics reveals that wait times for cancer‑related surgeries have risen to their highest level in a decade. The study, which examined data from public hospitals across the country between 2014 and 2024, found the average interval between surgical referral and operation now stands at 12.4 weeks, compared with 8.7 weeks in 2019.\n\nThe increase coincides with a series of systemic pressures, including staffing shortages, heightened demand for diagnostic services, and residual backlogs from the COVID‑19 pandemic. The report notes that the longest delays were observed in colorectal and lung cancer procedures, where waiting periods exceeded 14 weeks for nearly one‑third of patients. Researchers caution that prolonged intervals may affect treatment outcomes, though the study did not directly measure survival rates. Health officials are urged to prioritize resource allocation and streamline referral pathways to mitigate further escalation.\n\nThe findings underscore the need for targeted policy interventions to restore surgical capacity and reduce patient wait times. The institute recommends expanding surgical workforce training, enhancing operating‑room efficiency, and implementing real‑time tracking of referral queues. Authorities have indicated that the data will inform upcoming health‑system reforms aimed at improving timely access to cancer care.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 8:12:30",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-009",
+    "title": "Trump announces up to 100% tariffs on imported drones",
+    "slug": "trump-announces-up-to-100-tariffs-on-imported-drones",
+    "content": "President Donald Trump announced Thursday that the United States will impose tariffs of up to 100 percent on imported drones and related components, a move he said is driven by national‑security concerns and a desire to lessen reliance on foreign suppliers. The announcement targets a broad range of manufacturers, including firms in several traditional U.S. allies, and is part of a wider effort to tighten control over technologies deemed critical to defense and intelligence operations.  \n\nThe tariffs are scheduled to take effect 21 days from the proclamation, giving importers a short window to adjust supply chains. Industry analysts note that the steep duties could raise costs for U.S. defense contractors and commercial users of unmanned aerial systems, potentially prompting a shift toward domestic production. The policy follows a series of recent trade actions aimed at curbing foreign influence in the U.S. technology sector and may prompt diplomatic discussions with affected allied nations. The administration indicated that the measures will be reviewed regularly to assess their impact on security and economic interests.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 8:12:25",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-008",
+    "title": "Norwegian foreign minister says US war on Iran failed to meet goals",
+    "slug": "norwegian-foreign-minister-says-us-war-on-iran-failed-to-meet-goals",
+    "content": "Norway’s foreign minister, Espen Barth Eide, has stated that the recent conflict involving Iran did not meet its original objectives and has, in fact, bolstered hard‑line elements within the Tehran leadership. Eide, speaking at a press conference in Oslo, noted that the war’s initial aims—curbing Iran’s regional influence and limiting its nuclear program—were not achieved and that the campaign has intensified internal divisions in the country.\n\nThe statement comes amid growing concern that the conflict has consolidated the power of hard‑liners who view the war as a rallying point against perceived foreign interference. Analysts suggest that the failure to secure the intended diplomatic gains has reinforced a narrative of external threat, thereby providing hard‑liners with a stronger mandate to pursue a more confrontational stance on the international stage.\n\nEide’s remarks highlight the broader geopolitical implications of the war, indicating that the unintended domestic consequences may reshape Iran’s political landscape and alter its future engagement with the global community.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 8:12:20",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-007",
     "title": "Colombian rescue teams continue searching rubble after 72‑hour survivor window passes",
     "slug": "colombian-rescue-teams-continue-searching-rubble-after-72-hour-survivor-window-p",
