@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260813-608",
+    "title": "Writer Unveils AI Model Upgrade with Reduced Token Costs",
+    "slug": "writer-unveils-ai-model-upgrade-with-reduced-token-costs",
+    "content": "New AI Model Offers Cost-Effective Solution for Businesses\n\nA recent development in the field of artificial intelligence has introduced a new system designed to provide deployment-ready capabilities at a significantly lower price point. The new model, built as a post-training variation on Z. Ai's open-source model GLM-5.2, aims to cater to businesses seeking efficient and cost-effective AI solutions. By leveraging the existing architecture of GLM-5.2, the new system is poised to offer a more accessible alternative to traditional AI models, making it an attractive option for companies with limited budgets.\n\nAccording to available information, the new system boasts a range of advanced features, including high-performance capabilities and robust deployment-ready functionality. By streamlining the development process and reducing costs associated with AI model development, the new system is expected to empower businesses to integrate AI-powered solutions into their operations more seamlessly. This could have far-reaching implications for industries such as customer service, data analysis, and content creation, where AI-powered tools can significantly enhance efficiency and productivity.\n\nAs the AI landscape continues to evolve, the introduction of this new system is likely to have a significant impact on the market. By offering a more affordable and accessible alternative to traditional AI models, businesses will now have greater flexibility to adopt AI-powered solutions that meet their specific needs and budget constraints.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 3:32:30",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-607",
+    "title": "Apple Issues Spyware Alerts on iPhone Lock Screens",
+    "slug": "apple-issues-spyware-alerts-on-iphone-lock-screens",
+    "content": "Apple has begun delivering push notifications to iPhone lock screens whenever its security teams detect government‑sponsored spyware on a device. The alerts, which appear as banner notifications, inform users that a known malicious tool—such as the Pegasus or FinFisher families—has been identified and is actively targeting their phone. The company says the notifications are part of a broader effort to raise awareness and encourage users to take immediate action, such as updating iOS, installing a new firmware patch, or contacting Apple support for further guidance.\n\nThe move follows a series of high‑profile investigations that revealed state actors using sophisticated malware to infiltrate mobile devices. Apple’s security analysts claim they can detect the presence of these tools by monitoring for unusual network traffic, code signatures, and system behaviors that deviate from normal usage patterns. By surfacing the warning directly on the lock screen, the company aims to reduce the window of opportunity for attackers and provide a clear call to action before the spyware can exfiltrate data.\n\nWhile the notifications do not automatically remove the malware, they serve as an early warning system that can prompt users to seek remediation. Apple has stated that it will continue to refine its detection algorithms and expand the list of known spyware variants. The initiative underscores the growing importance of proactive security measures in the face of increasingly sophisticated state‑backed cyber threats.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 3:32:25",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260813-606",
+    "title": "Kennedy Center Board Approves Renovation Plan",
+    "slug": "kennedy-center-board-approves-renovation-plan",
+    "content": "In a recent development, a decision has been made that may potentially bypass a judge's order to remove the US president's name from the Kennedy Center. This move could lead to a new legal battle over the institution's name and its future. The judge's initial ruling was clear in its directive to remove the president's name, but the latest action suggests an attempt to find an alternative solution that would allow the name to remain.\n\nThe context surrounding this decision is complex, with the Kennedy Center being a prominent cultural institution in the United States. The center, which is home to various performing arts organizations, has been at the center of controversy in recent months. The judge's ruling was a response to a legal challenge, and the latest move may be seen as an attempt to undermine the court's decision. As the situation unfolds, it is likely that both sides will engage in further legal action, potentially leading to a prolonged and contentious dispute over the center's name and identity.\n\nThe outcome of this dispute remains uncertain, but one thing is clear: the Kennedy Center's name and future are hanging in the balance. The institution's reputation and legacy are at stake, and the eventual resolution of this issue will have significant implications for its continued operation and success. As the legal battle continues to unfold, observers will be watching closely to see how the situation is resolved and what the ultimate outcome will be for this beloved cultural institution.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 3:32:21",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260813-605",
     "title": "Romania shuts nuclear plant; Hungary plans Danube dam to support Paks reactor",
     "slug": "romania-shuts-nuclear-plant-hungary-plans-danube-dam-to-support-paks-reactor",
