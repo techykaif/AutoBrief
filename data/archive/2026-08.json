@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260814-252",
+    "title": "Estrogen Therapy Linked to Lower Alzheimer's Risk in Women",
+    "slug": "estrogen-therapy-linked-to-lower-alzheimer-s-risk-in-women",
+    "content": "Recent research has shed new light on the potential benefits of estrogen-only hormone therapy for women in later life, particularly in regards to dementia and Alzheimer's disease. A large-scale study involving over 21,000 participants has found a significant link between hormone therapy use and a reduced risk of dementia diagnosis. According to the study, women who used estrogen-only hormone therapy had 39% lower odds of being diagnosed with dementia, compared to those who did not undergo hormone therapy.\n\nThe study also discovered a correlation between hormone therapy use and fewer signs of Alzheimer's disease in the brains of participants at autopsy. Specifically, hormone therapy users showed 35% lower odds of Alzheimer's-related brain changes, including the presence of amyloid plaques and tau tangles. Additionally, biomarker tests revealed lower levels of amyloid buildup among hormone therapy users, suggesting a potential protective effect against the development of Alzheimer's disease.\n\nThe findings of this study offer promising insights into the potential benefits of estrogen-only hormone therapy for women in later life, particularly in terms of dementia and Alzheimer's disease prevention. While further research is needed to confirm these results and explore their implications, the study's conclusions highlight the importance of continued investigation into the complex relationships between hormone therapy, brain health, and age-related cognitive decline.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 19:43:22",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-251",
+    "title": "Taking the stairs could protect your heart and help you live longer",
+    "slug": "taking-the-stairs-could-protect-your-heart-and-help-you-live-longer",
+    "content": "New Research Highlights Benefits of Stair Climbing for Heart Health\n\nA groundbreaking study involving over 480,000 participants has revealed the significant benefits of incorporating stair climbing into daily routines for heart health and longevity. The analysis, which examined the habits of individuals over a considerable period, found that regular stair climbers were significantly less likely to succumb to cardiovascular disease. Specifically, the study found that individuals who frequently used the stairs were 39% less likely to die from cardiovascular disease compared to those who rarely took the stairs.\n\nThe study also uncovered a 24% reduced risk of death from any cause among regular stair climbers, suggesting that this simple habit may have a far-reaching impact on overall health and well-being. Furthermore, the research identified lower risks of heart attack, stroke, and heart failure among individuals who regularly climbed stairs. These findings underscore the importance of incorporating physical activity into daily life, particularly in the form of stair climbing, which can be easily integrated into daily routines.\n\nThe implications of this study are clear: making a conscious effort to choose the stairs over elevators or escalators can have a profound impact on heart health and longevity. As people seek ways to improve their overall health and reduce their risk of chronic diseases, this research provides a simple yet effective strategy that can be adopted by individuals of all ages and fitness levels.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 19:43:16",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-249",
+    "title": "Immune cells invade aging human brain from middle age",
+    "slug": "immune-cells-invade-aging-human-brain-from-middle-age",
+    "content": "Researchers at Stanford University have made a groundbreaking discovery about the aging human brain, challenging a long-held assumption about its relationship with the body's immune system. According to a recent study, immune cells from the blood begin to enter the brain as early as middle age, a process previously thought to be a rare occurrence. This influx of immune cells has the potential to transform into microglia, the brain's specialized immune cells, which play a crucial role in maintaining brain health.\n\nThe study found that the brain is not as isolated from the rest of the body as previously believed, with immune cells from the blood entering the brain in significant numbers. This finding has significant implications for our understanding of the aging brain and its interactions with the body's immune system. The transformation of immune cells into microglia could have a significant impact on brain health, with potential implications for the development of age-related neurodegenerative diseases such as Alzheimer's and Parkinson's.\n\nThe discovery by Stanford researchers sheds new light on the complex relationship between the brain and the body's immune system, and highlights the need for further research into the aging brain and its interactions with the body. As our understanding of the brain's immune system continues to evolve, it is likely that new insights will emerge into the causes of age-related neurodegenerative diseases and the development of potential treatments.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 19:43:08",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-248",
+    "title": "Scientists Detect Nuclear Reactor's Long-Lasting Antineutrino Emission",
+    "slug": "scientists-detect-nuclear-reactor-s-long-lasting-antineutrino-emission",
+    "content": "Scientists have made a groundbreaking discovery at nuclear reactors, finding that even after shutdown, the reactors continue to produce a faint \"glow\" of antineutrinos. This residual signal, detected for the first time, closely matches predictions of radioactive decay within the reactor and nearby spent-fuel pools. The breakthrough has significant implications for the monitoring of nuclear reactors, potentially allowing for the use of antineutrino detectors to track activity even when the reactors are offline.\n\nResearchers were able to detect the antineutrino signal by utilizing specialized detectors that can pick up the faint radiation emitted by the decaying radioactive isotopes in the reactor core and spent-fuel pools. The results of the study closely align with theoretical predictions, providing strong evidence that antineutrinos are indeed being produced through the radioactive decay process. This finding suggests that antineutrino detectors could be used to monitor nuclear reactors in real-time, even when they are not operational, providing valuable insights into the reactors' past and current activity levels.\n\nThe ability to monitor nuclear reactors even when they are offline has significant potential for enhancing safety and security measures. By detecting antineutrinos, researchers can gain a better understanding of the reactors' past behavior and identify any potential issues that may have arisen during shutdown. This breakthrough may lead to the development of new monitoring technologies that can provide critical information on nuclear reactors, even when they are not in operation.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 19:43:01",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-247",
+    "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+    "slug": "world-s-first-superconducting-quantum-heat-engine-could-help-unlock-massive-quan",
+    "content": "Scientists have made a groundbreaking breakthrough in the field of quantum engineering, successfully developing a tiny superconducting engine that can convert heat near absolute zero into useful work. This achievement marks the first demonstration of a cyclic quantum heat engine of its kind, where the engine harnesses the energy from the surrounding environment to produce a net gain in work. The tiny engine operates by leveraging the principles of quantum mechanics to efficiently extract energy from the heat, paving the way for future applications in quantum computing.\n\nThe potential implications of this technology are significant, particularly in the realm of quantum computing. Current quantum computers rely on a complex network of microwave cables to transfer data, which can introduce noise and reduce the overall efficiency of the system. By integrating a cyclic quantum heat engine into the quantum computer, it may be possible to eliminate the need for these cables, resulting in a more compact, efficient, and reliable system. This could lead to a new generation of quantum computers that can operate autonomously, unlocking new possibilities for fields such as cryptography, materials science, and artificial intelligence.\n\nWhile this achievement is a major step forward, further research is needed to fully realize the potential of this technology. The development of larger-scale, more efficient cyclic quantum heat engines will be essential to harnessing their full potential. Nevertheless, this breakthrough has sparked excitement in the scientific community, and researchers are eager to explore the possibilities of this innovative technology.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 19:42:54",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-246",
     "title": "CRH's role in brain repair discovered",
     "slug": "crh-s-role-in-brain-repair-discovered",
