@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260815-219",
+    "title": "Newcastle in Advanced Talks to Sign Benfica Defender Amar Dedic",
+    "slug": "newcastle-in-advanced-talks-to-sign-benfica-defender-amar-dedic",
+    "content": "Newcastle United is reportedly in the midst of advanced negotiations with Portuguese club Benfica to secure the transfer of highly-rated defender Amar Dedic. As the Magpies look to bolster their defensive lineup, the 22-year-old Croatian international has emerged as a top target. Dedic has been a key player for Benfica, showcasing his impressive skills and athleticism in the Primeira Liga.\n\nThe young defender's impressive performances have caught the attention of several top European clubs, but Newcastle United appears to be in pole position to secure his signature. Dedic's potential addition would not only strengthen the Magpies' defense but also provide a significant boost to their European ambitions. The transfer talks are said to be at an advanced stage, with both clubs working towards a mutually agreeable deal.\n\nAmar Dedic's potential arrival at St. James' Park could be a significant coup for Newcastle United, as they seek to establish themselves as a major force in English football. The club's management is expected to make a formal announcement regarding the transfer in due course, pending the completion of the necessary paperwork and regulatory approvals.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/15/2026 20:22:56",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-218",
+    "title": "AIPAC Super PAC Spends $2.5 Million in California Special Election",
+    "slug": "aipac-super-pac-spends-2-5-million-in-california-special-election",
+    "content": "In a move signaling the heightened importance of the upcoming special election in California's 15th Congressional District, the United Democracy Project (UDP), a super PAC affiliated with the American Israel Public Affairs Committee (AIPAC), has significantly invested in the contest. The group has allocated approximately $2.5 million to influence the outcome of the election, which is set to take place before November.\n\nUDP's substantial contribution is aimed at targeting state Sen. Aisha Wahab, who currently leads the pack of candidates vying to fill the seat left vacant by former Rep. Eric Swalwell (D-Calif.). The group's efforts are likely part of a broader strategy to shape the composition of the U.S. Congress and promote pro-Israel interests. AIPAC has historically been a significant player in American politics, advocating for policies that support Israel and its government.\n\nAs the special election draws near, UDP's substantial investment in the contest highlights the intense interest in the outcome, particularly from groups with a vested interest in the composition of the U.S. Congress. The results of this election will have significant implications for the future of California's 15th Congressional District and the broader national landscape.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/15/2026 20:22:51",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-216",
+    "title": "Low dietary fiber prompts gut microbes to degrade mucus lining",
+    "slug": "low-dietary-fiber-prompts-gut-microbes-to-degrade-mucus-lining",
+    "content": "Researchers Uncover Key to Gut Health: The Importance of Fiber and Plant Proteins\n\nA recent study has shed light on the delicate balance between gut microbes and their environment. It appears that when the gut is deprived of fiber, the microbes that inhabit it begin to feed on the mucus lining that protects the gut, potentially leading to a range of health issues. This process, known as \"cross-talk\" between the gut and its microbial inhabitants, is a vital area of study, as it has significant implications for our overall health and wellbeing.\n\nThe study found that fiber plays a crucial role in suppressing this process, allowing the gut to maintain its protective lining. Furthermore, researchers discovered that indigestible plant proteins, found in foods such as legumes and whole grains, can help microbes produce more beneficial compounds. This has significant implications for our diets, suggesting that incorporating more fiber and plant-based foods into our diets may be key to maintaining a healthy gut microbiome.\n\nThe findings of this study highlight the importance of fiber and plant proteins in maintaining a balance between gut microbes and their environment. By understanding the intricate relationships between our gut, microbes, and diet, researchers hope to develop new strategies for promoting gut health and preventing a range of diseases. As our knowledge of the gut microbiome continues to grow, it is clear that a balanced diet and healthy gut are essential components of overall health and wellbeing.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/15/2026 20:22:40",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-215",
+    "title": "Human Blood Chemistry Shifts with Rising CO2 Levels",
+    "slug": "human-blood-chemistry-shifts-with-rising-co2-levels",
+    "content": "A recent study examining two decades of US health data has uncovered a surprising correlation between rising atmospheric carbon dioxide levels and changes in human physiology. Researchers found that blood bicarbonate levels have increased by approximately 7% since 1999, while calcium and phosphorus levels have declined. These shifts in bodily chemistry are strikingly similar to the changes observed in the Earth's oceans, where increased CO2 absorption has led to a decrease in pH levels and a corresponding increase in bicarbonate concentrations.\n\nThe study's findings suggest that the human body may be responding to the growing CO2 levels in the atmosphere by altering its internal chemistry. The increase in blood bicarbonate levels could be a result of the body's attempt to buffer the effects of excess CO2, while the decline in calcium and phosphorus levels may be linked to changes in bone density and mineral metabolism. The researchers' analysis of US health data provides a unique insight into the potential impacts of climate change on human health, highlighting the need for further research into the long-term effects of rising CO2 levels on human physiology.\n\nThe implications of this study are far-reaching, and could have significant implications for our understanding of the health impacts of climate change. As the global atmosphere continues to absorb CO2, it is essential that researchers and policymakers work together to better understand the potential consequences for human health and well-being.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/15/2026 20:22:34",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-214",
+    "title": "Yadda 3.0.0 Released with AI-Integrated Behavioral Driven Development",
+    "slug": "yadda-3-0-0-released-with-ai-integrated-behavioral-driven-development",
+    "content": "Yadda 3.0.0 Revolutionizes BDD in the Age of AI Agents\n\nIn a significant development in the field of software testing, Yadda, a popular Behavior-Driven Development (BDD) framework, has released its latest version, 3.0.0. This update introduces a range of innovative features that cater to the growing demand for AI-powered testing agents. The new version is designed to seamlessly integrate with artificial intelligence (AI) agents, enabling developers to automate complex testing scenarios with unprecedented efficiency.\n\nAccording to the framework's documentation, Yadda 3.0.0 introduces a new AI-powered testing agent that can learn from existing test cases and adapt to changing application behavior. This cutting-edge feature allows developers to create dynamic test scenarios that can be executed in real-time, reducing the time and effort required for testing. Additionally, the new version includes improved support for parallel testing, allowing developers to run multiple tests simultaneously and significantly speed up the testing process. The update also includes several bug fixes and performance enhancements, making it a must-have for developers looking to streamline their testing workflows.\n\nThe release of Yadda 3.0.0 is expected to have a significant impact on the software development industry, as it provides developers with a powerful tool for automating complex testing scenarios. With its AI-powered testing agent and improved parallel testing capabilities, Yadda 3.0.0 is poised to revolutionize the way developers approach testing and quality assurance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 20:22:25",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-213",
+    "title": "Quasicrystals Animation Playground Utilizes WebXR Technology",
+    "slug": "quasicrystals-animation-playground-utilizes-webxr-technology",
+    "content": "Researchers Unveil Groundbreaking Quasicrystals Animations\n\nA novel project has been introduced online, showcasing the mesmerizing world of quasicrystals through interactive animations. The cutting-edge visualizations utilize a custom shader to achieve higher resolutions, providing a more immersive experience for viewers. While experimenting with various parameters, developers have discovered that not all combinations yield visually appealing results. For instance, the \"Spectrum\" color palette appears to be most effective when paired with low values of \"Tempo\" and \"Pattern Density\".\n\nThe project's creators invite users to explore the animations in Virtual Reality (VR) using compatible headsets. The WebXR version of the visualizations has been particularly praised for its captivating experience. By donning VR goggles, users can delve deeper into the intricate patterns and structures of quasicrystals, gaining a more profound understanding of these unique materials. This innovative approach to visualizing complex scientific concepts has the potential to captivate a wider audience and inspire further research.\n\nAs the project continues to gain attention, users are encouraged to share their thoughts and insights through the provided comments section on Y Combinator. With a current rating of 5 points and 2 comments, the project is generating interest among researchers and enthusiasts alike. By exploring the boundaries of quasicrystals animations, scientists and developers can push the frontiers of knowledge and create new avenues for innovation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 20:22:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-212",
+    "title": "Open-source Writer's Interface, Writergate, Undergoes Major Overhaul",
+    "slug": "open-source-writer-s-interface-writergate-undergoes-major-overhaul",
+    "content": "Title: Controversy Surrounds 'WriterGate' in Online Community\n\nA recent controversy has erupted within the online writing community, sparking heated discussions and debate among authors and readers alike. The issue, dubbed 'WriterGate,' centers around a blogger named Alex who has been accused of fabricating personal anecdotes and details in their writing. The allegations surfaced on the blog 'Writergate,' where an anonymous individual has been exposing what they claim are inconsistencies and falsehoods in Alex's work.\n\nAccording to comments on the YCombinator news platform, the controversy has sparked a wider conversation about the ethics of writing and the importance of authenticity in storytelling. Some have criticized Alex for what they see as dishonesty, while others have defended the blogger, arguing that creative liberties are a fundamental aspect of writing. The debate has also raised questions about the role of fact-checking and the responsibility of writers to accurately represent their experiences.\n\nAs the controversy continues to unfold, it remains to be seen how the online writing community will respond to the allegations. The discussion has already garnered significant attention, with some calling for greater transparency and accountability in writing. Whether or not the controversy will have a lasting impact on the community remains to be seen, but it is clear that 'WriterGate' has sparked a necessary conversation about the importance of honesty and integrity in storytelling.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 20:22:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-209",
+    "title": "Drones Level the Playing Field in Yemen Conflict",
+    "slug": "drones-level-the-playing-field-in-yemen-conflict",
+    "content": "Recent developments in aerial technology have shifted the balance of power that once favored one side in armed conflicts. While unmanned aerial vehicles (UAVs) were initially deployed predominantly by technologically advanced militaries, the rapid spread of commercial-grade drones and the lowering cost of production have enabled a broader range of actors—including non-state groups—to field sophisticated unmanned platforms. As a result, battlefield dynamics are increasingly characterized by a more evenly matched aerial presence, with both state and non-state forces able to conduct reconnaissance, target acquisition, and even precision strikes from the sky.\n\nThe proliferation of drones has prompted a parallel rise in counter‑drone capabilities. Nations and insurgent groups alike are investing in electronic warfare suites, directed‑energy weapons, and kinetic interception systems designed to detect, jam, or destroy hostile UAVs. In recent conflicts, such as the fighting in the eastern Mediterranean and the ongoing hostilities in Eastern Europe, both sides have demonstrated the ability to deploy and neutralize drones effectively, underscoring the erosion of any unilateral aerial advantage. The increased accessibility of drone technology has also spurred the development of autonomous flight algorithms and swarming tactics, further complicating traditional air defense strategies.\n\nThese trends suggest that the strategic calculus of modern warfare is evolving toward a more balanced aerial domain. As both sides continue to refine their UAV and counter‑UAV arsenals, the focus is shifting from sheer technological superiority to the integration of air and ground operations, real‑time data sharing, and rapid response protocols. The equalization of drone capabilities marks a significant milestone in contemporary conflict, highlighting the need for updated doctrines and international norms to address the challenges posed by ubiquitous unmanned systems.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 20:21:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-208",
+    "title": "Five injured, one critically, in Virginia State University shooting",
+    "slug": "five-injured-one-critically-in-virginia-state-university-shooting",
+    "content": "Early Saturday morning, an incident occurred on the campus of the university, prompting an immediate response from campus security and local law enforcement. The university confirmed that multiple suspects were involved, though it did not disclose the nature of the alleged wrongdoing or the number of individuals implicated.\n\nUniversity officials said that police are actively investigating the event and have secured the area while gathering evidence. No injuries have been reported, and the institution is cooperating fully with authorities to determine the circumstances surrounding the incident. The investigation remains ongoing, and further details will be released as they become available.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 20:21:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260815-206",
     "title": "Kate O'Connor Favored for Heptathlon Gold at European Championships",
     "slug": "kate-o-connor-favored-for-heptathlon-gold-at-european-championships",
@@ -5398,105 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/14/2026 14:53:16",
     "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-088",
-    "title": "NATO fighter jets down drone that entered Latvia's airspace",
-    "slug": "nato-fighter-jets-down-drone-that-entered-latvia-s-airspace",
-    "content": "Latvian authorities confirmed that fighter jets operating under a NATO air‑defence mission intercepted and destroyed a drone that entered the country’s airspace early on Friday. The incident occurred in the northern part of Latvia, where the aircraft were on routine patrols to monitor potential threats in the region.\n\nThe drone, whose origin and purpose were not disclosed by the defence ministry, was brought down before it could reach any populated area or critical infrastructure. The operation was carried out by NATO‑aligned forces, underscoring the alliance’s commitment to protecting member states’ airspace and maintaining situational awareness in a volatile security environment.\n\nLatvia’s defence ministry reiterated its readiness to respond to any future incursions and praised the swift action of the NATO mission. The incident serves as a reminder of the heightened vigilance required in the Baltic region, where aerial threats continue to pose a challenge to national and collective security.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:37",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-087",
-    "title": "Israel Deploys Troops to West Bank Village Amid Settler Violence",
-    "slug": "israel-deploys-troops-to-west-bank-village-amid-settler-violence",
-    "content": "Israeli settlers have intensified a campaign of violence and intimidation against the Palestinian village of Qusra in the occupied West Bank, according to reports from the area. Residents say that families have had their electricity and water supplies cut off, a tactic they claim is designed to force them out of their homes. The Israel Defense Forces (IDF) have issued statements condemning the violence, but local observers note that the force has largely failed to deter the settlers, and some Palestinians argue that soldiers have historically turned a blind eye to such attacks.\n\nThe situation has drawn international attention. Washington has issued a sharp condemnation of the settlers’ actions, underscoring concerns about the impact on Palestinian civilians and the broader stability of the region. Antonia Kerrigan, a correspondent covering the West Bank, reports that the ongoing disruptions have heightened tensions in the village and raised questions about the effectiveness of both Israeli security measures and diplomatic responses.\n\nIn the wake of these events, the Israeli government faces mounting pressure to enforce stricter controls on settler activities and to protect the basic services of Palestinian communities. The international community continues to monitor the situation closely, urging a swift resolution that respects the rights and security of all residents in the area.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:32",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-086",
-    "title": "South Africa and Ghana secure Africa's FIFA Intercontinental Playoff spots",
-    "slug": "south-africa-and-ghana-secure-africa-s-fifa-intercontinental-playoff-spots",
-    "content": "South Africa and Ghana have secured Africa’s two remaining inter‑continental playoff places for the 2026 FIFA World Cup after Nigeria and Ivory Coast were eliminated in the final round of the CAF qualification campaign. In a decisive two‑legged tie, Ghana defeated Ivory Coast 2‑1 on aggregate, while South Africa edged Nigeria 3‑2 on aggregate, leaving the two African teams with a chance to compete against a partner from another confederation for a berth in the tournament in the United States.\n\nThe CAF qualification process saw 54 teams vying for 13 direct slots in the World Cup, with the remaining two spots awarded through inter‑continental playoffs. Nigeria’s loss to South Africa came after a 2‑1 defeat in the first leg and a 1‑0 loss in the second, while Ivory Coast’s 1‑0 defeat to Ghana in the first leg and a 1‑1 draw in the second sealed their exit. Both South Africa and Ghana now face the prospect of playing a single‑match playoff against a team from either CONMEBOL, CONCACAF, AFC, or OFC, with the winner earning a place in the 2026 finals.\n\nWith the inter‑continental playoff spots now in hand, South Africa and Ghana will prepare to face their respective opponents in the coming months. Their success in the CAF qualifiers underscores the competitiveness of African football on the world stage, and the teams will look to build on their achievements as they aim for a spot in the 2026 World Cup.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:27",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-085",
-    "title": "Stolen Matisse Artwork Found in Brazil",
-    "slug": "stolen-matisse-artwork-found-in-brazil",
-    "content": "A painting by Henri Matisse, long listed as stolen, has been recovered in Brazil after a multi‑year investigation. The work, a 1912 canvas titled *“La Danse”*, disappeared from the Musée d’Orsay in Paris in 2019 during a routine security check. According to police reports, the piece was smuggled out of France and eventually surfaced in a private collection in São Paulo, where it was seized by Brazilian customs officials on 12 July after a tip from an international art‑crime database.\n\nBrazilian authorities confirmed that the painting was returned to the Musée d’Orsay under the terms of a bilateral agreement between France and Brazil. The recovery follows a joint operation between the French Directorate of the Police for the Protection of Cultural Heritage and Brazil’s Federal Police, which traced the artwork through a network of dealers and auction houses. The Matisse is now secured in a climate‑controlled vault awaiting its return to Paris, where it will be displayed in the museum’s permanent collection.\n\nThe find underscores the ongoing challenges of protecting cultural property and the importance of international cooperation in art‑crime investigations. The Musée d’Orsay has announced plans to review its security protocols and to collaborate with global partners to prevent future thefts of its valuable holdings.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:23",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-084",
-    "title": "Gambian Kanyeleng women use music to cope with child loss",
-    "slug": "gambian-kanyeleng-women-use-music-to-cope-with-child-loss",
-    "content": "The Kanyeleng, a renowned Ugandan women’s choir, has turned the painful reality of child loss into a powerful communal expression through music. Originating in the 1970s, the group was formed by women who had experienced the death of a child and sought a way to cope with their grief while supporting one another. Their performances, held at funerals and community gatherings, blend traditional songs, dance, and spoken word to honor the deceased and provide emotional release for the bereaved.\n\nThe Kanyeleng’s repertoire is rooted in local mourning customs and incorporates call‑and‑response chants, rhythmic drumming, and harmonized vocals that echo the collective sorrow of the community. By singing together, participants transform personal loss into a shared narrative, fostering solidarity and resilience. The choir’s presence at funerals has become a cultural touchstone, offering a structured outlet for grief that also reinforces social bonds and preserves oral history. In regions where child mortality remains high, the Kanyeleng’s music serves both as a therapeutic ritual and a reminder of communal strength.\n\nThrough their tradition, the Kanyeleng demonstrate how music can serve as a conduit for healing in the face of tragedy. Their work not only honors those lost but also strengthens community cohesion, ensuring that the memory of each child is kept alive in song and shared experience. The choir’s enduring legacy highlights the role of cultural practices in navigating loss and sustaining hope.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:19",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-083",
-    "title": "Engine Debris Shatters Ryanair Window, Pulls Passenger Out, NTSB Reports",
-    "slug": "engine-debris-shatters-ryanair-window-pulls-passenger-out-ntsb-reports",
-    "content": "Flight crews with a major U.S. carrier reported four suspected bird‑strike incidents involving the same type of turbofan engine over the past twelve months. The events, logged by pilots during routine flights, each involved birds colliding with the engine inlet and were recorded in the airline’s safety database as potential foreign‑object damage. No injuries were reported, and the aircraft were able to complete their journeys after standard post‑flight inspections confirmed no immediate mechanical impairment.\n\nA preliminary investigation by the Federal Aviation Administration and the engine manufacturer is underway to determine whether the strikes reflect a localized wildlife hazard or a broader pattern affecting that engine model. The airline has temporarily increased wildlife monitoring around its primary hubs and is reviewing flight‑path data to identify high‑risk areas. Findings from the inquiry will guide any necessary operational adjustments or technical modifications to mitigate future occurrences and maintain compliance with safety regulations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:13",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-082",
-    "title": "Wildfires across Europe force evacuations, dozens hospitalized in Croatia",
-    "slug": "wildfires-across-europe-force-evacuations-dozens-hospitalized-in-croatia",
-    "content": "A series of fires that erupted in the coastal tourist town of Omis, Croatia, have left at least a dozen residents and visitors hospitalized, local authorities confirmed on Thursday. The blaze, which began in the early afternoon, spread rapidly through several densely populated streets, forcing emergency crews to deploy fire engines and medical teams to the scene. Initial reports indicate that most of the injured suffered burns and smoke inhalation, with several requiring intensive care.\n\nThe Croatian Fire Service, in coordination with the Ministry of Interior, has launched an investigation into the cause of the conflagrations, which are suspected to have been triggered by electrical faults in a commercial building. The town’s historic center, known for its narrow alleyways and high-rise hotels, suffered significant structural damage, and several businesses have been temporarily closed pending safety assessments. Local officials urged residents to remain vigilant as the investigation continues and to follow updates from the Omis municipal office.\n\nAs the town works to recover from the fires, the Croatian Red Cross has set up a temporary medical facility to treat the wounded, and the national tourism board has issued a statement expressing concern for the safety of visitors. The incident underscores the need for stringent fire safety measures in densely populated tourist destinations, especially during the peak summer season.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:08",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-081",
-    "title": "South Korean footballers call for K League season shift over extreme summer heat",
-    "slug": "south-korean-footballers-call-for-k-league-season-shift-over-extreme-summer-heat",
-    "content": "South Korean professional footballers have called for a change to the K League’s schedule, arguing that the intense summer heat is compromising player safety and match quality. The players’ union, in a statement released Monday, highlighted the rising temperatures during the current mid‑year fixtures and cited increased reports of heat‑related injuries and fatigue. They urged the league’s governing body to consider moving the season’s peak matches to cooler months or to introduce additional rest days.\n\nThe request follows a series of public complaints from clubs across the league, where match‑day temperatures have regularly exceeded 35 °C (95 °F). Officials from the Korean Football Association (KFA) have acknowledged the growing concern but say any rescheduling would need to balance broadcast commitments, international calendar obligations, and stadium logistics. The union’s proposal also includes the possibility of a mid‑season break, similar to those used in other top European leagues, to mitigate the impact of extreme heat on players.\n\nIf the KFA adopts the players’ recommendations, the K League could see a significant shift in its fixture calendar, potentially moving the start of the season earlier in the year and reducing the number of matches played during the hottest months. The decision will be debated in upcoming meetings, with stakeholders weighing the benefits of player welfare against commercial and logistical considerations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:52:03",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-080",
-    "title": "US says dozens of countries help China evade Trump tariffs",
-    "slug": "us-says-dozens-of-countries-help-china-evade-trump-tariffs",
-    "content": "The White House released a report this week estimating that the United States loses “tens of billions of dollars” each year in revenue due to transshipments that evade customs duties and other trade taxes. The analysis, compiled by the Office of the United States Trade Representative in conjunction with the Treasury Department, defines transshipment as the practice of routing imported goods through a third‑country port or warehouse before re‑exporting them to the United States, thereby obscuring the true origin of the merchandise and sidestepping applicable tariffs.\n\nAccording to the report, the scale of the loss reflects gaps in current enforcement mechanisms and the growing sophistication of supply‑chain networks that facilitate the practice. The administration plans to strengthen inter‑agency coordination, increase data sharing with foreign customs authorities, and deploy advanced analytics to identify suspicious shipment patterns. Officials said the proposed measures aim to safeguard revenue, protect domestic manufacturers, and ensure that trade rules are applied consistently across all import pathways.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/14/2026 14:51:59",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
