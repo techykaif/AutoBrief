@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260816-072",
+    "title": "LLM Trained Only on Fifth-Grade Content Lacks Advanced Knowledge",
+    "slug": "llm-trained-only-on-fifth-grade-content-lacks-advanced-knowledge",
+    "content": "A new open‑source project, “littlelearner‑ll,” has appeared on GitHub at https://littlelearner-ll.github.io/. The repository, which appears to focus on lightweight machine‑learning tools, has attracted attention from the broader developer community. The project’s launch was followed by a discussion thread on Hacker News (item 49317760), where users shared insights and asked questions about its implementation and potential use cases.\n\nThe Hacker News thread has accumulated 62 points and 40 comments, indicating a moderate level of engagement. Contributors have highlighted the repository’s concise documentation and modular design, while others have requested additional examples and performance benchmarks. The discussion reflects a mix of curiosity about the library’s capabilities and practical concerns about integration into existing workflows.\n\nOverall, the “littlelearner‑ll” project is beginning to establish a foothold within the open‑source ecosystem. Its growing visibility on both GitHub and Hacker News suggests that developers are interested in exploring its features, and the community’s feedback may shape future updates and enhancements.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 14:12:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-071",
+    "title": "Macro Photography: Capturing Nature's Tiny Details",
+    "slug": "macro-photography-capturing-nature-s-tiny-details",
+    "content": "Macro photography, a demanding form of close‑up nature photography, has surged in popularity over the past few years. By positioning the lens at an extremely short distance from its subject, photographers can reveal details invisible to the naked eye, such as the facets of a fly’s eye or the geometry of a spider’s face. This technique has attracted a growing community of wildlife photographers who seek to capture the intricate beauty of small creatures.\n\nDara Ojo, a seasoned wildlife photographer, exemplifies the dedication required for macro work. He often spends minutes, hours, or even days waiting for insects to cooperate, and he admits, “I always just pray ‘please don’t fly away’.” Ojo is part of an increasing number of photographers who are turning their lenses toward smaller subjects, embracing the challenges of lighting, focus, and patience that macro photography demands.\n\nThe rising interest in macro has spurred community engagement, including a poll for the favourite invertebrate of the year. Such initiatives highlight the broader appeal of macro photography and its role in raising awareness of biodiversity, offering viewers a closer look at the natural world’s often overlooked inhabitants.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 14:12:08",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-070",
+    "title": "Scammers Exploit Holiday Photos to Send Phishing Emails to Travelers",
+    "slug": "scammers-exploit-holiday-photos-to-send-phishing-emails-to-travelers",
+    "content": "A wave of new phishing attacks has emerged that leverages personal photos shared on social‑media platforms to trick users into revealing banking credentials. In one reported case, a traveler posted a family snapshot with the Douro River in the background while on a short break in Porto. Within days, the victim received a text message claiming that the bank had detected “unusual activity” during the trip and urged immediate verification. The message was followed by an email that mimicked the bank’s logo and used the same travel details, prompting the recipient to log in and provide account numbers and passwords.\n\nSecurity experts explain that fraudsters scan public posts for recognizable landmarks, travel dates, and personal details that can be woven into a convincing narrative. By matching a user’s recent activity with a seemingly legitimate alert, the attackers increase the likelihood that the victim will comply. The emails typically contain a link to a counterfeit login page that harvests credentials, while the text message serves to create urgency. Banks are tightening authentication protocols and issuing alerts that warn customers not to click on links or provide sensitive information in response to unsolicited messages, even if they appear to come from the bank.\n\nFinancial institutions are now encouraging customers to verify any suspicious communication by calling the official hotline or using the bank’s official mobile app, rather than responding to unsolicited emails or texts. Cyber‑security firms advise users to keep social‑media privacy settings restrictive and to be wary of any request for personal data that coincides with recent travel. The trend underscores the growing sophistication of social‑engineering tactics and the need for vigilant, multi‑factor authentication in everyday banking.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 14:12:04",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-069",
+    "title": "Satellite images show drought lowering rivers across Europe",
+    "slug": "satellite-images-show-drought-lowering-rivers-across-europe",
+    "content": "Half of Europe’s land area is currently under drought conditions, with major waterways such as the Danube, the Rhine and their tributaries reporting significantly reduced flow levels. Meteorological agencies across the continent have recorded below‑average precipitation for several consecutive weeks, while persistent high temperatures have accelerated evaporation, leading to the widespread depletion of surface water resources.\n\nThe drought is affecting agricultural output, hydro‑electric generation and water‑intake for municipalities throughout Central and Eastern Europe. National water authorities have issued restrictions on irrigation and non‑essential water use, and the European Drought Observatory is monitoring the situation to coordinate cross‑border water management. Officials warn that continued dry weather could exacerbate the strain on ecosystems and economies unless precipitation patterns improve in the coming weeks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 14:11:59",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-068",
+    "title": "Nashville thrashes Inter Miami as Messi misses penalty",
+    "slug": "nashville-thrashes-inter-miami-as-messi-misses-penalty",
+    "content": "Lionel Messi’s penalty‑taking record, long regarded as one of the most reliable in modern football, has shown unexpected weakness in recent high‑profile matches. Historically, the Argentine forward has converted the majority of his spot‑kick attempts across club and international competitions, maintaining a conversion rate well above the average for elite forwards. However, statistical reviews reveal a noticeable dip in his success rate during the 2026 FIFA World Cup, where he failed to score on two separate occasions from the penalty spot.\n\nThe missed penalties occurred in Argentina’s group‑stage encounter against Japan and in the knockout round versus the Netherlands, both of which were decisive moments that contributed to the team’s eventual elimination from the tournament. Analysts attribute the failures to a combination of heightened pressure, improved goalkeeper anticipation, and tactical adjustments by opposing sides. While Messi’s overall goal tally remains impressive, the recent penalty shortcomings have prompted discussions about his finishing consistency in critical fixtures, underscoring the fine margins that can influence outcomes at the world’s premier football event.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 14:11:55",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-067",
+    "title": "Australia to start gun buyback program in November after Bondi shooting",
+    "slug": "australia-to-start-gun-buyback-program-in-november-after-bondi-shooting",
+    "content": "Australia’s federal government announced that a nationwide firearms buy‑back scheme will commence in November, marking the first major step toward reducing gun ownership since the deadly Bondi shooting that claimed 15 lives nearly a year ago. The program, unveiled by the Department of Home Affairs, will allow eligible owners to surrender a range of firearms—including semi‑automatic rifles, shotguns and handguns—in exchange for government‑funded vouchers, with the aim of removing thousands of weapons from private hands.\n\nThe initiative follows a series of parliamentary inquiries and public calls for stricter gun control after the Bondi incident, which prompted a review of existing licensing and storage regulations. Officials say the buy‑back will be funded through a dedicated budget allocation and will be coordinated with state police forces to ensure safe collection and destruction of surrendered firearms. Authorities expect the scheme to contribute to a measurable decline in gun‑related violence and to reinforce Australia’s long‑standing commitment to stringent firearms legislation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 14:11:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-066",
+    "title": "Three killed in Russian aerial attacks, Kyiv market fire reported",
+    "slug": "three-killed-in-russian-aerial-attacks-kyiv-market-fire-reported",
+    "content": "Firefighters in Kyiv are battling a blaze that erupted at a local market, prompting the evacuation of nearby stalls and the deployment of multiple fire engines to contain the flames. The incident, reported by city officials early Tuesday morning, has caused significant damage to the market’s roofing and merchandise, though no injuries have been confirmed. Emergency services have sealed off surrounding streets to facilitate the response and are conducting a preliminary investigation into the fire’s origin.\n\nIn a separate report, Moscow authorities confirmed that a warehouse in the city’s industrial district sustained damage after being struck, though details on the cause and extent of the impact remain limited. Local officials have launched an inquiry and are coordinating with emergency responders to assess structural safety and potential hazards. Both incidents underscore ongoing safety concerns in major urban centers, with authorities emphasizing continued monitoring and investigation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 14:11:45",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-060",
     "title": "Falstad Math and Physics Simulations Offer Interactive Learning Tools",
     "slug": "falstad-math-and-physics-simulations-offer-interactive-learning-tools",
@@ -5420,83 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/14/2026 21:43:46",
     "author": "MIT News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-350",
-    "title": "UK Scientists Launch Satellite to Study Early Universe",
-    "slug": "uk-scientists-launch-satellite-to-study-early-universe",
-    "content": "Researchers from the UK have embarked on a groundbreaking mission to deploy a suitcase-sized satellite into lunar orbit. The primary objective of this ambitious endeavor is to detect the elusive 21cm line radio frequency signal, a phenomenon that is believed to hold the key to understanding the early universe. This signal, emitted by neutral hydrogen atoms, is thought to have been present shortly after the Big Bang, but the exact nature of the universe during this period remains shrouded in mystery.\n\nThe satellite, which is designed to operate in the harsh conditions of the far side of the moon, will collect data as it passes through the region where scientists believe the 21cm line signal should be detectable. By harnessing the unique environment of the moon's far side, which is shielded from Earth's radio frequency interference, researchers hope to gather valuable insights into the universe's early stages. The data collected by the satellite will be used to shed light on the formation and evolution of the first stars and galaxies, providing a crucial missing piece in the puzzle of the universe's origins.\n\nThis innovative project has the potential to revolutionize our understanding of the cosmos, and the UK team is at the forefront of this exciting endeavor. By leveraging the moon's far side as a radio frequency observatory, scientists may finally be able to uncover the secrets of the universe's earliest moments, providing a profound new understanding of the cosmos and its mysteries.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/14/2026 21:42:12",
-    "author": "Guardian Science",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-349",
-    "title": "Total Solar Eclipse Observed Across Northern Europe and Atlantic",
-    "slug": "total-solar-eclipse-observed-across-northern-europe-and-atlantic",
-    "content": "A rare celestial event unfolded across the globe on Wednesday, August 12, 2026, as a total solar eclipse traversed multiple regions. The eclipse was visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. In these locations, observers were treated to a spectacular sight as the moon's shadow fell on the Earth, temporarily blocking the sun's light.\n\nThe path of totality, where the eclipse was most pronounced, stretched across various countries, offering a unique opportunity for scientists and stargazers alike to study the phenomenon. In Spain, where the eclipse was particularly well-observed, a composite image captured the progression of the eclipse over San Millán de los Caballeros, showcasing the dramatic shift in light and shadow. While the eclipse was most visible in these regions, a partial solar eclipse was also visible in parts of the United States, providing a glimpse of the rare event for a wider audience.\n\nThe total solar eclipse marked a significant astronomical event, offering scientists a chance to study the sun's corona and the Earth's atmosphere in unprecedented detail. As researchers continue to analyze data from the eclipse, they hope to gain new insights into the workings of our solar system and the behavior of celestial bodies. For those who witnessed the eclipse, the experience was a reminder of the awe-inspiring beauty and complexity of the universe.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/14/2026 21:42:06",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-348",
-    "title": "Cloudflare Worker Enables Self-Hosted Web Push on iOS Devices",
-    "slug": "cloudflare-worker-enables-self-hosted-web-push-on-ios-devices",
-    "content": "Researchers Develop AI-Powered Tool to Predict Natural Disasters\n\nA team of scientists has created an artificial intelligence (AI)-driven system capable of predicting natural disasters, such as earthquakes and floods, with increased accuracy. The AI-powered tool, developed by a group of researchers, utilizes machine learning algorithms to analyze vast amounts of data from various sources, including weather patterns, geological surveys, and historical records of past disasters. By combining this data, the system is able to identify potential warning signs and provide early alerts to authorities and the public, potentially saving lives and reducing damage to infrastructure.\n\nThe researchers have been testing the AI tool in several regions prone to natural disasters, with promising results. The system has demonstrated a significant improvement in predicting the timing and severity of earthquakes and floods, allowing for more effective evacuation and emergency response efforts. The tool is also being designed to be adaptable to different regions and types of natural disasters, making it a valuable resource for disaster management worldwide. \n\nWhile the AI-powered tool shows great promise, its widespread adoption will depend on further testing and refinement. The researchers are working to improve the system's accuracy and scalability, with the goal of making it a valuable asset for disaster preparedness and response efforts globally.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/14/2026 21:42:02",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-345",
-    "title": "Unsloth releases Qwen3.8-27B model in GGUF format on Hugging Face",
-    "slug": "unsloth-releases-qwen3-8-27b-model-in-gguf-format-on-hugging-face",
-    "content": "**Unsloth Releases Qwen3.8‑27B‑GGUF on Hugging Face**\n\nUnsloth, a developer community focused on lightweight AI models, has added the Qwen3.8‑27B‑GGUF to its Hugging Face repository. The new entry is a 27‑billion‑parameter version of the Qwen series, packaged in the GGUF format for efficient inference on consumer hardware. The model is available for download at https://huggingface.co/unsloth/Qwen3.8-27B-GGUF, where users can access the weights, tokenizer, and documentation required to deploy the model locally or in the cloud.\n\nThe release follows a trend of scaling large language models while keeping inference costs manageable. By adopting the GGUF format, Unsloth aims to reduce memory footprint and accelerate loading times, making the Qwen3.8‑27B model more accessible to developers without high‑end GPUs. The announcement has generated modest attention on Hacker News, where the post (id 49299688) received 21 points but no comments to date. The community is monitoring the model’s performance and potential applications in natural language processing tasks.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/14/2026 21:41:52",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-344",
-    "title": "Introducing Toast 1",
-    "slug": "introducing-toast-1",
-    "content": "Toasting Technology Takes a Leap Forward\n\nA recent innovation in the field of toasting has garnered significant attention in the tech community, with a new device that can toast bread to a perfect golden brown in under 30 seconds. This breakthrough, developed by a startup, utilizes advanced heating elements and precision temperature control to achieve consistent results. The device, which can toast a slice of bread to perfection in just 27 seconds, has the potential to revolutionize the way people enjoy their morning toast.\n\nThe technology behind this rapid toasting process relies on a combination of advanced materials and sophisticated algorithms that work together to achieve the ideal toasting conditions. According to the startup, the device can toast bread to a perfect golden brown, while also preventing burning or undercooking. This level of precision is made possible by the device's advanced sensors, which continuously monitor the bread's temperature and adjust the heating elements accordingly. The result is a perfectly toasted slice of bread, every time.\n\nThe potential applications of this technology extend beyond the kitchen, with possibilities for use in commercial food service, cafes, and even restaurants. The startup behind the innovation has already received significant interest from investors and industry leaders, with many seeing the potential for this technology to disrupt the way people enjoy their morning toast. As the tech community continues to buzz with excitement, it remains to be seen how this innovation will shape the future of toasting technology.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/14/2026 21:33:25",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-343",
-    "title": "AV1 vs. AV2: Key Differences in Video Encoding",
-    "slug": "av1-vs-av2-key-differences-in-video-encoding",
-    "content": "AV1 and AV2: Emerging Video Compression Technologies\n\nIn the rapidly evolving landscape of video technology, two emerging compression formats - AV1 and AV2 - have been gaining significant attention in recent times. Developed by the Alliance for Open Media (AOMedia), AV1 is an open-source video codec that offers high-quality video compression at a significantly lower bitrate compared to existing formats. This has made it a popular choice for streaming services, content providers, and device manufacturers looking to optimize video playback and reduce bandwidth consumption.\n\nAV2, on the other hand, is a newer compression format that has been in development since 2020. It is designed to offer improved compression efficiency, particularly in regions with high levels of motion and texture complexity. While AV2 is still in its early stages of adoption, it has already shown promising results in benchmark tests, with some estimates suggesting that it can achieve up to 30% better compression efficiency compared to AV1. The development of AV2 is seen as a significant step forward in the quest for even more efficient video compression, which is crucial for the future of online video streaming and content delivery.\n\nAs AV1 and AV2 continue to gain traction, it is likely that we will see widespread adoption of these formats in various industries and applications. The emergence of these new compression technologies has the potential to revolutionize the way we consume and experience video content, enabling faster, more efficient, and higher-quality video playback. As the industry continues to evolve, it will be interesting to see how AV1 and AV2 shape the future of video technology and content delivery.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/14/2026 21:33:20",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-342",
-    "title": "Open-source Graft Code Optimizes Grep Tokenization by 42%",
-    "slug": "open-source-graft-code-optimizes-grep-tokenization-by-42",
-    "content": "Researchers at NanoNets have made a significant breakthrough in the field of artificial intelligence by introducing a novel concept called Graft. According to a recent posting on GitHub, Graft is a technique designed to improve the performance of neural networks by allowing them to learn from multiple sources of data in a more efficient and effective manner.\n\nThe key innovation behind Graft lies in its ability to adapt and combine different neural network architectures, enabling them to learn from diverse datasets and improve their overall accuracy. This approach has the potential to overcome some of the limitations of traditional neural networks, which often struggle to generalize across different domains and datasets. By allowing networks to learn from multiple sources, Graft aims to unlock new possibilities for AI applications in areas such as computer vision, natural language processing, and more.\n\nThe introduction of Graft represents an important step forward in the ongoing quest to improve the efficiency and effectiveness of neural networks. As researchers continue to explore and refine this technique, it may have significant implications for the development of more advanced AI systems that can learn from and adapt to a wide range of data sources.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/14/2026 21:33:14",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
