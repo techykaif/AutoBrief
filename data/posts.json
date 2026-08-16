@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260816-375",
+    "title": "30 U.S. states sue Meta over youth platform safety",
+    "slug": "30-u-s-states-sue-meta-over-youth-platform-safety",
+    "content": "Thirty U.S. states have filed a joint lawsuit against Meta Platforms Inc., alleging that the company’s Facebook, Instagram and Threads services fail to protect minors from harmful content and unlawful data collection. The complaint, signed by attorneys general from states ranging from California to New York, asserts that Meta’s platforms violate the Children’s Online Privacy Protection Act (COPPA) and the Federal Trade Commission’s 2022 settlement, which required the firm to obtain verifiable parental consent before collecting personal information from users under 13. The states seek a court order mandating an overhaul of Meta’s youth‑focused features, including mandatory age verification, robust parental‑control tools, restrictions on algorithmic recommendation of potentially harmful material, and a ban on targeted advertising to users under 18.\n\nMeta has responded that it already offers parental‑control settings and age‑gating mechanisms, and that it will defend the lawsuit while reviewing the plaintiffs’ demands. Legal experts note that the case could force the company to redesign its user‑experience for younger audiences and may set a precedent for broader regulatory action against social‑media firms. The lawsuit is expected to proceed through the federal courts, with a hearing slated for later this year, and could have significant implications for how tech platforms handle children’s data and safety nationwide.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 5:23:40",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-374",
     "title": "HBO's Lanterns Show Features Hal Jordan and John Stewart",
     "slug": "hbo-s-lanterns-show-features-hal-jordan-and-john-stewart",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/15/2026 7:22:28",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-008",
-    "title": "Ebola outbreak reaches sixth province in DR Congo",
-    "slug": "ebola-outbreak-reaches-sixth-province-in-dr-congo",
-    "content": "The Democratic Republic of Congo (DRC) is reporting a new expansion of its Ebola outbreak, with confirmed cases now in a sixth province, while the migration situation at the Morocco‑Spain border remains tense as authorities tighten security after thousands crossed into Spain’s North‑African enclave of Ceuta. In a separate cultural note, Ivorian youth are embracing a new dance phenomenon called Biama, a high‑energy blend of coupé‑décalé and local rap that has taken to streets and social media across the country.\n\nIn the DRC, health officials say the virus’s spread to the sixth province underscores the difficulty of containing the disease amid limited medical resources and ongoing conflict. The World Health Organization has urged intensified contact tracing and community engagement to curb further transmission. Meanwhile, Moroccan security forces have increased patrols and surveillance along the border with Spain, citing the recent mass exodus of migrants into Ceuta as a catalyst for heightened vigilance. The Spanish government has responded by bolstering its own border controls and offering emergency assistance to migrants in transit. Across West Africa, the Biama dance has surged in popularity, with influencers and local clubs promoting the style on platforms such as TikTok and Instagram, turning it into a nationwide social trend.\n\nThese developments highlight the region’s divergent challenges: a public health crisis demanding coordinated international aid, a migration crisis calling for cross‑border cooperation, and a cultural movement that showcases the resilience and creativity of young Africans. The international community continues to monitor the situation in the DRC, while European and African authorities work to manage the flow of migrants and support the cultural vibrancy of Ivory Coast.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 7:22:22",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
