@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260816-227",
+    "title": "New regulations target pub conversions to residential use",
+    "slug": "new-regulations-target-pub-conversions-to-residential-use",
+    "content": "New Regulations Set to Impact Local Development\n\nAs part of a broader overhaul of planning policy, new regulations are set to take effect on Monday, bringing significant changes to the way local development projects are managed. The introduction of these rules marks a significant shift in the way authorities approach planning and development, with a focus on streamlining processes and enhancing community engagement.\n\nKey aspects of the new regulations include revised guidelines for public consultations, increased transparency in the decision-making process, and stricter enforcement of environmental and zoning regulations. Additionally, the changes aim to reduce bureaucratic hurdles and expedite the approval process for certain types of projects, such as small-scale infrastructure developments and residential renovations. These updates are designed to promote more efficient and effective planning, ultimately benefiting local communities and businesses.\n\nThe implementation of these new regulations coincides with other significant changes to planning policy, marking a major milestone in the ongoing effort to modernize the development process. As the new rules come into effect, stakeholders and residents can expect increased transparency and accountability, as well as enhanced opportunities for community involvement in shaping local development projects.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/16/2026 21:02:23",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-226",
+    "title": "Firefighters Contain Greek Island Forest Fire",
+    "slug": "firefighters-contain-greek-island-forest-fire",
+    "content": "A forest fire on the Greek Aegean island of Skyros has entered its second day, with firefighters continuing their efforts to contain the blaze. The fire, which began on Saturday, has prompted a significant response from emergency services, who are working to prevent its spread and protect the island's residents and environment. As the situation continues to unfold, the local community remains on high alert, with many watching anxiously as the firefighters battle to gain control of the fire.\n\nThe local mayor has expressed optimism that the fire can soon be brought under control, citing the progress made by firefighters so far. Despite the challenges posed by the island's rugged terrain and strong winds, the emergency services have made significant strides in containing the blaze. The mayor's comments will be welcome news to the island's residents, who have been affected by the fire and are eager to see it brought to a swift and safe conclusion. As the situation continues to develop, the focus remains on supporting the firefighters and ensuring the safety of those in the affected area.\n\nAs the firefighting efforts enter their second day, the full extent of the damage caused by the fire is still being assessed. However, with the local mayor's hopeful comments and the ongoing efforts of the emergency services, there is a sense of cautious optimism that the situation may soon be brought under control. The incident serves as a reminder of the importance of vigilance and preparedness in the face of natural disasters, and the bravery and dedication of the firefighters who risk their lives to protect their communities.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/16/2026 21:02:18",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-225",
+    "title": "China Launches Arctic Route for European Shipments",
+    "slug": "china-launches-arctic-route-for-european-shipments",
+    "content": "A significant development in maritime trade has taken place as a Chinese container vessel embarked on a historic journey to Europe via the Arctic route. This new weekly service aims to significantly reduce shipment times, cutting them in half compared to traditional routes. The Arctic route, which spans approximately 4,800 nautical miles, typically takes around 20-25 days, whereas the traditional route via the Suez Canal takes around 40-45 days.\n\nThe new service, operated by the China Ocean Shipping Company, marks a significant milestone in the expansion of Arctic shipping. This route offers shorter travel times, reduced fuel consumption, and lower emissions. However, environmental groups have raised concerns that increased shipping activity in the Arctic could accelerate the melting of polar ice. The fragile Arctic ecosystem is already under threat from climate change, and the increased traffic could exacerbate the issue. The International Maritime Organization (IMO) has implemented regulations to mitigate the environmental impact of Arctic shipping, but the long-term effects of this new route remain to be seen.\n\nThe Arctic route is expected to become increasingly important as global trade continues to grow. The reduction in shipment times and costs could lead to increased cargo volumes, further expanding the Arctic shipping industry. While the economic benefits are clear, the environmental concerns highlighted by advocacy groups underscore the need for responsible and sustainable shipping practices in the region. As the Arctic shipping industry continues to evolve, it remains to be seen how the benefits of this new route will be balanced against the potential environmental costs.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/16/2026 21:02:13",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-224",
+    "title": "US Researchers Develop Strategy to Prevent Artificial Life Mirroring Earth's Ecosystems",
+    "slug": "us-researchers-develop-strategy-to-prevent-artificial-life-mirroring-earth-s-eco",
+    "content": "**New Study Reveals Surprising Insights into Human Decision-Making**\n\nA recent research report published by the Rand Corporation has shed light on the complex nature of human decision-making, highlighting the importance of considering multiple factors and perspectives when making choices. The study, which analyzed a large dataset of human decision-making processes, found that individuals often rely on a combination of emotions, intuition, and rational thinking to guide their decisions. According to the report, this multifaceted approach can lead to more effective decision-making, as it takes into account a broader range of variables and potential outcomes.\n\nThe study's findings suggest that humans tend to overestimate the role of rational thinking in their decision-making processes, while underestimating the influence of emotions and intuition. However, the report also notes that this is not necessarily a bad thing, as the interplay between different decision-making mechanisms can lead to more creative and innovative solutions. The researchers identified several key factors that contribute to effective decision-making, including the ability to consider multiple perspectives, the willingness to adapt to changing circumstances, and the capacity to learn from past experiences.\n\nThe implications of this study are far-reaching, with potential applications in fields such as business, politics, and education. By understanding the complexities of human decision-making, individuals and organizations can develop more effective strategies for making informed choices and navigating uncertain environments. As the report's authors note, the key to successful decision-making lies in striking a balance between rational analysis and intuitive insight, and being willing to adapt and learn in the face of uncertainty.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 21:02:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-221",
+    "title": "ChatGPT Desktop Adds Computer History Feature to Track User Actions",
+    "slug": "chatgpt-desktop-adds-computer-history-feature-to-track-user-actions",
+    "content": "OpenAI has added a new “Computer History” feature to its ChatGPT desktop app for macOS, designed to turn users’ everyday actions into training data that can inform future interactions. The system records a timeline of activities—such as document edits, code writing, and web browsing—that ChatGPT and its Codex engine can reference when a user makes a request. According to Ari Weinstein, Product and Engineering Manager at OpenAI, the feature is opt‑in, allowing users to exclude specific apps or websites and delete individual entries for finer control.\n\nThe feature is intended to help the model learn how a user works, suggest automations, and pick up tasks that were left incomplete. It automatically ignores content accessed in incognito or private browsing modes, and it can be turned off entirely. By building a contextual history, ChatGPT can provide more personalized and efficient responses, potentially reducing the time users spend repeating information or re‑explaining context.\n\nOpenAI’s announcement, shared on X, highlights the company’s ongoing effort to improve user experience through context-aware AI. While the feature promises greater productivity, it also raises questions about data privacy and user consent, prompting users to review the new settings and manage their activity logs as needed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 21:01:53",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-220",
+    "title": "Malta's Chris Fearne urges EU to adopt broader migration strategy",
+    "slug": "malta-s-chris-fearne-urges-eu-to-adopt-broader-migration-strategy",
+    "content": "Malta’s foreign minister, Chris Fearne, warned that Europe’s long‑term solution to its migration crisis cannot be achieved solely through border controls. Speaking at a European Union policy forum in Brussels, Fearne urged member states to expand cooperation with countries of origin and transit, arguing that a comprehensive approach is essential to address the root causes of irregular migration.\n\nFearne cited the growing numbers of migrants arriving by sea, the strain on frontline states, and the need for a coordinated legal framework that balances security with humanitarian obligations. He called for increased funding for development projects in North Africa and the Middle East, enhanced asylum processing capacity, and a shared responsibility system that would allow the EU to manage migration flows more effectively while respecting international law.\n\nThe minister concluded that without a broader, multilateral strategy, Europe risks repeating past failures and exacerbating humanitarian pressures. He urged the European Council to adopt a binding migration agreement that incorporates both preventive measures and robust support for destination and transit countries.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 21:01:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-219",
+    "title": "Hurricane Lala downgraded to tropical storm as flooding persists in Hawaii",
+    "slug": "hurricane-lala-downgraded-to-tropical-storm-as-flooding-persists-in-hawaii",
+    "content": "A powerful hurricane brushed the eastern flank of Hawaii’s Big Island on Thursday, prompting widespread alerts but ultimately sparing the island from a direct landfall. The storm, classified as a Category 3 system with sustained winds of 115 mph, moved parallel to the coastline before veering back out to sea, according to the National Hurricane Center.\n\nMeteorologists reported heavy rain bands that produced localized flooding in low‑lying areas, while strong surf generated hazardous conditions along several beaches. The Hawaii Emergency Management Agency activated shelters and pre‑positioned resources, and power outages affected approximately 2,300 customers, though restoration crews reported progress. No major structural damage or injuries were confirmed, and the storm’s core remained offshore, limiting its impact on populated regions.\n\nOfficials will continue to monitor the system as it tracks westward across the Pacific, emphasizing that residual rain and wind could affect the islands for the next 24‑48 hours. Residents are advised to stay informed through official channels and to heed any further advisories issued by local authorities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 21:01:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-218",
     "title": "DOJ Says Executive Privilege Not a Novel Concept",
     "slug": "doj-says-executive-privilege-not-a-novel-concept",
@@ -5420,83 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/15/2026 0:43:03",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-470",
-    "title": "Caspase-1 Inhibitor Shows Potential in Lung Cancer Prevention",
-    "slug": "caspase-1-inhibitor-shows-potential-in-lung-cancer-prevention",
-    "content": "Researchers at the Massachusetts Institute of Technology (MIT) have made a significant breakthrough in cancer research with a new study that reveals inhibiting caspase-1 can reduce the risk of tumor growth. The study, conducted by a team of scientists at MIT, aimed to explore the relationship between caspase-1, a protein that plays a crucial role in the body's inflammatory response, and cancer progression.\n\nAccording to the study, caspase-1 is involved in the activation of a signaling pathway that promotes tumor growth and metastasis. By inhibiting caspase-1, the researchers found that they could prevent the activation of this pathway, thereby reducing the risk of tumor growth. This discovery has significant implications for the development of new cancer therapies, as it suggests that targeting caspase-1 could be a potential strategy for preventing cancer progression.\n\nThe findings of the study have the potential to pave the way for the development of new treatments for various types of cancer. While more research is needed to fully understand the implications of this discovery, the results of the MIT study are promising and highlight the importance of continued research into the complex relationships between inflammation, cancer, and the body's cellular processes.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/15/2026 0:42:57",
-    "author": "MIT News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-469",
-    "title": "Citizen Science Project Tracks Cloud Changes",
-    "slug": "citizen-science-project-tracks-cloud-changes",
-    "content": "A notable shift has been observed in the behavior of certain cloud types, with these clouds appearing more frequently and at lower altitudes than they have in the past. This change has sparked the interest of scientists, who are now seeking to understand the underlying factors contributing to this phenomenon. To gain a better understanding of these changes, researchers have turned to the global community for assistance, leveraging the power of citizen science to collect valuable data.\n\nThe NASA-supported Space Cloud Watch project is at the forefront of this effort, inviting individuals from around the world to participate by submitting photographs of these clouds. By harnessing the collective efforts of a global network of observers armed with cameras, scientists aim to gather a vast and diverse array of images, which will be used to inform their research. The project's focus on crowd-sourced data collection allows for a level of scope and scale that would be difficult to achieve through traditional research methods, providing a unique opportunity for scientists to study these changes in unprecedented detail.\n\nThe success of the Space Cloud Watch project relies on the active participation of individuals worldwide, who can contribute to the project by capturing and sharing images of the clouds in question. By doing so, these citizen scientists will be playing a vital role in helping researchers to better understand the complex factors driving these changes, ultimately contributing to a deeper understanding of our planet's climate and weather systems.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/15/2026 0:42:51",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-468",
-    "title": "Embedding a Linux Terminal on Websites Made Easy",
-    "slug": "embedding-a-linux-terminal-on-websites-made-easy",
-    "content": "Unfortunately, the provided URLs do not contain specific information that can be used to write a news article. The URLs appear to be related to a sandbox environment and a comments section on a news website, but they do not provide any concrete details about a particular event or topic. As a result, it is challenging to craft a well-structured news article based on the given information.\n\nHowever, if we were to consider the context of the URLs, it seems that they might be related to a technology or startup-related news story. The mention of \"ycombinator\" suggests a connection to the well-known startup accelerator Y Combinator, which has been involved in the development of numerous successful companies. Additionally, the reference to a \"sandbox\" environment implies a potential link to software development or testing. If more information were available, it might be possible to write a more detailed article about a specific topic or event related to these themes.\n\nIn conclusion, due to the lack of concrete information provided by the URLs, it is not possible to write a comprehensive news article on this topic. Further research and details would be necessary to craft a well-structured and informative article. If more information becomes available, it may be possible to explore the topic in greater depth and provide a more detailed analysis of the events or issues at hand.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 0:42:46",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-467",
-    "title": "Europe Faces Challenges in Rocket Launch",
-    "slug": "europe-faces-challenges-in-rocket-launch",
-    "content": "Recent industry analyses confirm that the economics of reusable launch vehicles have proven highly favorable, fundamentally reshaping the commercial space sector. As aerospace companies continue to refine recovery and refurbishment procedures, operational data indicates that reusing rocket boosters substantially lowers per-launch expenses compared to traditional expendable systems. This financial shift has accelerated capital allocation toward reusable architectures and established them as the baseline for new orbital launch programs.\n\nThe cost advantages primarily originate from reduced manufacturing requirements and faster vehicle turnaround. By recovering and refurbishing first-stage components, operators avoid the significant expenditures tied to producing entirely new hardware for each mission. Industry reports consistently show that refurbishment costs represent only a fraction of original manufacturing outlays, while shortened preparation windows enable higher launch frequencies. Multiple commercial providers have already embedded these practices into their operational workflows, demonstrating measurable expense reductions across repeated flight campaigns.\n\nAs refurbishment protocols mature and operational experience expands, the financial case for reusable launch systems continues to strengthen. Market analysts project that sustained cost efficiencies will broaden access to orbit, support large-scale satellite deployments, and intensify competition among launch service providers. The transition toward reusable architectures is now widely regarded as a structural shift in how space access is financed and delivered.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 0:42:39",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-465",
-    "title": "Kalshi Ordered to Halt Wagering in Washington",
-    "slug": "kalshi-ordered-to-halt-wagering-in-washington",
-    "content": "A U.S. District Court judge in Washington has ordered Kalshi, the online betting exchange, to cease offering wagers to residents of the state. The court’s directive requires the company to implement geofencing technology that blocks access to its platform from within Washington’s borders. The order follows a lawsuit alleging that Kalshi’s operations violate state gambling laws, which prohibit the sale of betting services to Washington residents.\n\nKalshi’s compliance plan will involve technical measures to detect and prevent users in Washington from placing bets, as well as ongoing monitoring to ensure the restriction is enforced. The company has said it will cooperate with the court and will adjust its platform to comply with the geofencing requirement. The ruling underscores the growing scrutiny of online betting firms and the importance of state‑level regulatory compliance.\n\nIf Kalshi fails to comply, the court may impose additional sanctions, including monetary penalties or further restrictions on its business. The decision is expected to prompt other betting operators to review their geographic restrictions and may influence how regulators approach enforcement of state gambling statutes across the United States.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 0:42:28",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-462",
-    "title": "Mac Screen-Sharing Bug Enables Passwordless Remote Access",
-    "slug": "mac-screen-sharing-bug-enables-passwordless-remote-access",
-    "content": "A recent vulnerability in popular screen‑sharing software has been identified that allows remote attackers to gain full control of a victim’s computer without requiring a password. The flaw, present in the latest update of the widely used application, exploits a flaw in the authentication handshake that permits an unauthenticated user to establish a session once the target has accepted a screen‑share invitation. Security researchers have demonstrated that by sending a specially crafted request, an attacker can bypass the login prompt and execute arbitrary commands on the host machine, potentially exposing sensitive data and compromising the system.\n\nThe discovery has prompted the vendor to release an emergency patch and issued a warning to all users to update immediately. Cyber‑security firms note that the issue is similar to past authentication bypass incidents, underscoring the importance of multi‑factor authentication and strict invitation‑management policies. While the software’s support team has confirmed that the patch mitigates the risk, experts advise organizations to review their remote‑access protocols and monitor for unusual login attempts to prevent exploitation of the bug.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 0:42:11",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-461",
-    "title": "Pocket App Shuts Down; Export Your Data by Oct. 8, 2025",
-    "slug": "pocket-app-shuts-down-export-your-data-by-oct-8-2025",
-    "content": "Pocket, the popular read‑it‑later service, has announced that users must export their saved content by October 8, 2025. The deadline applies to all items stored in the platform, including articles, lists, archived posts, favorites, notes and highlights. Users who wish to preserve their collections can do so through the export feature in the Pocket app or on the web interface, which generates a downloadable file containing the full history of saved items.\n\nThe move follows a broader industry trend toward data portability and user control over personal information. By providing a straightforward export option, Pocket aims to help users maintain access to their reading libraries even if they decide to switch services or discontinue the app. The export file format is compatible with common data tools, allowing users to import their collections into other note‑taking or reading applications with minimal effort.\n\nPocket has urged its community to act before the cutoff date, noting that any items not exported by October 8, 2025 may become inaccessible. The company’s support team remains available to assist with the export process and to answer questions about data migration.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 0:42:06",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
