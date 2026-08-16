@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260816-367",
+    "title": "Olympics Tennis Schedule Sparks Concern Over Player Scheduling",
+    "slug": "olympics-tennis-schedule-sparks-concern-over-player-scheduling",
+    "content": "Tennis Players Face Scheduling Challenge Ahead of 2028 Olympics\n\nThe tennis competition at the 2028 Los Angeles Olympics is set to kick off just three days after the conclusion of Wimbledon. This unprecedented scheduling has sparked concerns among players, with reigning Wimbledon champion Elena Rybakina expressing her hopes that governing bodies will reconsider the timing to make it more convenient for athletes. According to the LA28 Olympics, the tennis event will take place between July 19 and 28, with Wimbledon's men's final scheduled for July 16.\n\nThe tight turnaround between the two events poses significant challenges for players, particularly those who will have to travel across continents and adapt to a change in surface from grass to hard courts. Rybakina, who recently won the Wimbledon title, has spoken out about the issue, stating that it's \"crazy\" and expressing her desire for a change. While the scheduling decision is likely driven by logistical and commercial considerations, it remains to be seen whether the governing bodies will take players' concerns into account and make adjustments to the Olympic schedule.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/17/2026 4:02:38",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-366",
+    "title": "Arsenal Wins Community Shield Against Manchester City",
+    "slug": "arsenal-wins-community-shield-against-manchester-city",
+    "content": "Arsenal Kick-Starts Season with Impressive Community Shield Win\n\nArsenal's players demonstrated their determination to defend the Premier League title as they defeated Manchester City 3-0 in the Community Shield at the Principality Stadium in Cardiff. The victory marked a triumphant start to the new season for Mikel Arteta's side, who are seeking to win back-to-back top-flight titles for the first time since 1934-35. The match marked a significant milestone for Enzo Maresca, Manchester City's new manager, who suffered his joint-heaviest defeat as a manager in England.\n\nThe match got off to a blistering start as Riccardo Calafiori scored the fastest goal in the competition since 1968, just 24 seconds into the game. Kai Havertz doubled Arsenal's lead, and Martin Ødegaard sealed the victory with a goal on 48 minutes. The 3-0 defeat marked the joint-heaviest loss for a City manager in their first game in charge, with Harry Newbould suffering a similar defeat in 1906. The result will undoubtedly put pressure on Maresca to deliver results, with Manchester City's signings expected to arrive soon to bolster the team.\n\nThe Community Shield win is a significant boost for Arsenal as they prepare for the upcoming season. The victory will give the team confidence and momentum, and it remains to be seen how they will perform in the Premier League. With key signings expected to arrive soon, Manchester City will look to bounce back from their opening defeat and mount a challenge for the title.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/17/2026 4:02:31",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-362",
+    "title": "Claude AI Service Experiencing Downtime",
+    "slug": "claude-ai-service-experiencing-downtime",
+    "content": "A number of users have reported that the authentication service of an unnamed platform is currently returning the error message “Authentication service was unavailable.” The service’s official status page has not posted any updates, leaving many users uncertain about the cause or expected resolution time.\n\nThe issue has gained traction on Hacker News, where a thread (https://news.ycombinator.com/item?id=49324078) has accumulated 32 points and 17 comments. In addition, Downdetector shows an active stream of user complaints and status updates, indicating that the problem is affecting a sizable portion of the user base. Despite the volume of reports, the platform’s status page remains unchanged, and no formal statement has been issued to explain the outage.\n\nAt this time, the platform’s engineering team is reportedly investigating the root cause. Users are encouraged to monitor the status page and Downdetector for any new information, as the service has not yet released an official timeline for restoring full authentication functionality.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 4:02:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-361",
+    "title": "Anthropic’s Claude Watermarking Alters Generated Text",
+    "slug": "anthropic-s-claude-watermarking-alters-generated-text",
+    "content": "Anthropics has added a watermark to the text generated by its Claude language model, a move intended to help users and developers detect AI‑generated content. The watermark is embedded in the output in a way that does not alter the meaning of the text but can be identified by specialized algorithms. The company claims the feature will aid in transparency and compliance with emerging regulations that require disclosure of machine‑generated content.\n\nThe addition has sparked criticism in the AI community. A recent article on Daring Fireball argues that the watermark constitutes a form of text adulteration that distorts the authenticity of writing, calling it a “perversion of writing.” The piece was discussed on Hacker News, where the thread received 11 points and eight comments, with users debating whether the watermark is a useful tool for accountability or an unnecessary manipulation of output.\n\nWhile Anthropics maintains that the watermark is a benign transparency measure, the controversy highlights a broader debate over how best to balance the benefits of AI‑generated text with the need for clear disclosure. The discussion continues as regulators, developers, and users weigh the implications of watermarking for both ethical and practical reasons.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 4:02:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-360",
+    "title": "Nearly 300 migrants and 61 facilitators detained near Ceuta border",
+    "slug": "nearly-300-migrants-and-61-facilitators-detained-near-ceuta-border",
+    "content": "Nearly 300 migrants and 61 individuals accused of facilitating the movement were detained by authorities during a coordinated effort to curb a large‑scale migration attempt. The operation, carried out by law‑enforcement and border‑control agencies, targeted a network believed to have organized the crossing, resulting in the apprehension of the migrants and the alleged smugglers in a single sweep.\n\nOfficials said the detainees will face immigration and criminal proceedings, while investigations continue into the broader smuggling ring. The arrests underscore the government’s intensified focus on disrupting organized migration channels and enforcing existing border regulations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 4:01:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-359",
+    "title": "Settler violence rises in West Bank under Netanyahu government",
+    "slug": "settler-violence-rises-in-west-bank-under-netanyahu-government",
+    "content": "Violence in the occupied West Bank has risen sharply since the formation of Prime Minister Benjamin Netanyahu’s right‑wing coalition in late 2022, according to data compiled by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) and Israeli human‑rights groups. OCHA reported a 45 percent increase in reported incidents of settler‑related attacks and a 30 percent rise in Palestinian civilian casualties between January 2023 and June 2024, compared with the same period in the previous two years. The surge coincides with the government’s approval of new settlement construction permits in Area C, expanded security‑force operations in response to alleged attacks, and a series of high‑profile clashes near the city of Nablus and the settlement of Kiryat Arba.\n\nIsraeli officials attribute the heightened security measures to an uptick in rocket fire and stabbing attacks, while Palestinian authorities and international observers cite the expansion of settlements and the perceived impunity of extremist settler groups as primary drivers of the escalation. The United Nations and the European Union have called for renewed investigations into alleged human‑rights violations and urged both sides to refrain from actions that could further inflame tensions. As the conflict intensifies, humanitarian agencies warn that the deteriorating security environment is hampering aid delivery and increasing the risk of broader instability in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 4:01:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-358",
     "title": "UK Considers Restricting Benefits for Foreign Nationals, Including EU Citizens",
     "slug": "uk-considers-restricting-benefits-for-foreign-nationals-including-eu-citizens",
@@ -5431,72 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/15/2026 7:21:51",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-001",
-    "title": "Magnitude 7.7 earthquake near Flores Island kills at least two",
-    "slug": "magnitude-7-7-earthquake-near-flores-island-kills-at-least-two",
-    "content": "Coastal communities around Flores Island were instructed on Tuesday to relocate inland or to higher ground after a magnitude‑6.2 earthquake struck the region at 03:14 UTC. The tremor, centered approximately 15 kilometres off the island’s western shoreline, was felt across several neighboring provinces and triggered a brief tsunami advisory that was later lifted after monitoring showed no significant wave activity. Local authorities reported minor structural damage to homes and fishing facilities along the coast, while emergency services dispatched teams to assess potential landslides and flooding in low‑lying areas.\n\nThe government’s disaster response agency emphasized that the precautionary evacuation is aimed at preventing casualties should aftershocks or secondary hazards arise. Residents were urged to remain in designated shelters until official updates confirm that conditions are safe for return. Officials continue to monitor seismic activity and have pledged to provide ongoing support to affected families, while urging the public to stay informed through official channels.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 7:21:46",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-609",
-    "title": "Extreme Heat Affects Cognitive Function",
-    "slug": "extreme-heat-affects-cognitive-function",
-    "content": "Heat-Induced Mental Fog: Scientists Explain the Link Between Summer and Cognitive Decline\n\nAs the summer sun beats down, many people experience a decline in mental clarity, making everyday tasks seem more challenging than usual. This phenomenon is not unique to individuals with pre-existing cognitive conditions, as research suggests that the heat itself can impair cognitive function. Scientists attribute this effect to the body's attempt to regulate its internal temperature, which diverts blood flow away from the brain and towards the skin to facilitate heat loss.\n\nThis temporary cognitive decline is often referred to as \"heat-induced mental fog.\" It is thought to occur when the brain's ability to regulate its temperature is compromised, leading to a decrease in blood flow and oxygenation. As a result, the brain's ability to process information and perform tasks efficiently is impaired. Additionally, the heat can also exacerbate existing conditions such as heat exhaustion and heat stroke, which can further compromise cognitive function.\n\nWhile the effects of heat-induced mental fog are typically temporary and reversible, understanding the underlying mechanisms can help individuals take preventive measures to mitigate its impact. Staying hydrated, seeking shade or cooler environments, and engaging in physical activity during cooler parts of the day can all help to minimize the effects of heat on cognitive function.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/15/2026 5:21:56",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-606",
-    "title": "Proposals to Overhaul American Science",
-    "slug": "proposals-to-overhaul-american-science",
-    "content": "The Economist’s feature “The case for overhauling American science” examines growing concerns that the United States’ research ecosystem is losing its competitive edge amid rising costs, bureaucratic complexity, and a fragmented funding landscape. Citing recent declines in the nation’s share of global scientific output and the increasing difficulty junior researchers face in securing stable positions, the article outlines how current grant‑making practices—dominated by short‑term, project‑specific awards—have contributed to a cycle of uncertainty and inefficiency. It also highlights comparative analyses showing that several peer nations have adopted more flexible, long‑term funding models and streamlined administrative procedures, resulting in higher retention of talent and faster translation of discoveries into commercial applications.\n\nIn response, the piece outlines a series of policy proposals aimed at revitalising the American research sector, including the creation of multi‑year, investigator‑focused grants, the consolidation of overlapping federal agencies to reduce redundancy, and the introduction of metrics that reward collaborative and interdisciplinary work. The article notes that implementing such reforms would require coordinated action among Congress, the National Institutes of Health, the National Science Foundation, and private foundations, but suggests that a more resilient funding architecture could restore the United States’ leadership in innovation and ensure a sustainable pipeline of scientific talent for the coming decades.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 5:21:42",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-605",
-    "title": "Scottie Scheffler Equals Course Record at St Jude Championship",
-    "slug": "scottie-scheffler-equals-course-record-at-st-jude-championship",
-    "content": "Scottie Scheffler Makes Statement at St Jude Championship\n\nThe St Jude Championship in Memphis has witnessed a remarkable performance from American golfer Scottie Scheffler, who has taken a commanding lead after the second round. Scheffler equalled the course record with an impressive nine-under 61, a feat that has catapulted him to the top of the leaderboard. His outstanding play has given him a three-stroke advantage over his closest competitors, setting the stage for an exciting conclusion to the tournament.\n\nScheffler's exceptional round was marked by a series of precision shots and clutch putts, which allowed him to navigate the challenging TPC Southwind course with ease. His incredible display of skill and consistency has left his opponents scrambling to keep up, with several notable golfers struggling to match his pace. As the tournament enters its final stages, Scheffler's dominance will undoubtedly put pressure on his rivals to deliver a strong performance if they hope to challenge his lead.\n\nWith a three-stroke advantage, Scheffler is well-positioned to claim victory at the St Jude Championship. However, the golfing world knows that anything can happen in the final round, and Scheffler will need to maintain his focus and composure to secure the win. As the competition intensifies, fans and golf enthusiasts alike will be eagerly watching to see if Scheffler can hold onto his lead and claim the coveted title.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/15/2026 5:02:47",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-604",
-    "title": "Florida Gov. DeSantis Declines to Support Rep. Cory Mills",
-    "slug": "florida-gov-desantis-declines-to-support-rep-cory-mills",
-    "content": "Florida Governor Ron DeSantis has joined a growing list of high-profile Republicans who have publicly distanced themselves from Rep. Cory Mills' (R) reelection bid in the state's 7th Congressional District. During a press conference on Friday, captured by C-SPAN, DeSantis was asked about his stance on Mills' candidacy and responded definitively, stating that he has not endorsed Mills and does not support his reelection.\n\nThis move marks the latest development in a series of Republican infighting in the Sunshine State. DeSantis' decision not to support Mills comes as the congressman faces growing criticism from within his own party, with some questioning his handling of various issues and his ability to effectively represent the district's constituents. The governor's stance is significant, given his own popularity and influence within the Republican Party, and may have significant implications for Mills' chances of securing the party's nomination.\n\nThe situation in the 7th Congressional District is now increasingly fluid, with DeSantis' decision not to support Mills joining a growing list of other Republicans who have either publicly criticized the congressman or opted to remain neutral in the election. As the primary season heats up, it remains to be seen how this development will play out and what impact it may have on the eventual outcome in the district.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/15/2026 5:02:38",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-601",
-    "title": "Tech Leaders Publish AI Manifestos",
-    "slug": "tech-leaders-publish-ai-manifestos",
-    "content": "Meta CEO Mark Zuckerberg released a letter of more than 2,000 words in which he outlined the company’s stance on artificial intelligence, calling for clearer regulatory frameworks and greater transparency in AI development. The letter, addressed to policymakers and industry stakeholders, stresses the need for safeguards against bias, privacy violations, and the potential misuse of autonomous systems. Zuckerberg also highlighted Meta’s own investments in AI research, noting that the firm is working on “responsible” models that can be audited and monitored for safety.\n\nZuckerberg’s communication follows a trend among Big Tech leaders who are increasingly vocal about AI governance. Earlier this year, Amazon’s chief executive and Microsoft’s head of AI both released public statements urging governments to adopt comprehensive AI policies. The Meta letter is the latest example of a technology executive attempting to shape public debate and influence regulatory outcomes while simultaneously promoting the company’s own AI initiatives.\n\nIn closing, Zuckerberg called on regulators to collaborate with the tech industry to establish standards that balance innovation with societal protection. The letter has already sparked discussion among lawmakers and industry analysts, who are weighing the implications of a unified corporate stance on AI regulation and the potential impact on future policy development.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 5:02:18",
-    "author": "BBC Technology",
     "isFeatured": false
   }
 ]
