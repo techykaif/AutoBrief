@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260814-435",
+    "title": "Discrete Fourier Transform Calculation",
+    "slug": "discrete-fourier-transform-calculation",
+    "content": "A recent article on the Byhand.ai website delves into the concept of the Discrete Fourier Transform (DFT), a mathematical algorithm used to decompose a function or a sequence of values into its constituent frequencies. The DFT is a fundamental tool in various fields, including signal processing, image analysis, and data compression. It allows for the efficient analysis of discrete-time signals, enabling the extraction of valuable information from complex data sets.\n\nThe article provides an in-depth explanation of the DFT, covering its definition, properties, and applications. It highlights the importance of the DFT in modern computing, citing its use in tasks such as image filtering, audio processing, and spectral analysis. The article also touches on the relationship between the DFT and other mathematical transforms, including the Fast Fourier Transform (FFT), which is an efficient algorithm for computing the DFT. Additionally, the article has sparked a discussion on the news.ycombinator.com platform, where users have shared their thoughts and insights on the topic, with one comment currently posted.\n\nIn conclusion, the article on the Discrete Fourier Transform serves as a valuable resource for individuals seeking to understand this complex mathematical concept. With its clear explanations and relevant examples, the article provides a comprehensive introduction to the DFT and its applications. As the discussion on the news.ycombinator.com platform continues to grow, it is likely that the article will remain a relevant and informative resource for those interested in signal processing and mathematical transforms, with the current 9 points and 1 comment indicating a moderate level of engagement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 23:32:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-432",
+    "title": "Mangione Pleads Guilty in Brian Thompson Shooting",
+    "slug": "mangione-pleads-guilty-in-brian-thompson-shooting",
+    "content": "Mangione entered a plea at a hastily scheduled hearing in Manhattan federal court, resolving one of two cases brought against him in connection with the death of Thompson. The plea was accepted by the judge, closing the first criminal proceeding related to the incident.\n\nThe case, part of a broader investigation into Thompson’s death, involved charges that had been pending for several months. By pleading, Mangione avoided a trial and the associated uncertainty, while the court set a schedule for the remaining case to be addressed in the coming weeks. The plea agreement included specific terms that the prosecution and defense had negotiated, though the exact details were not disclosed to the public.\n\nWith one case now closed, the focus shifts to the second proceeding. Prosecutors have indicated that they will pursue the remaining charges, and the court has scheduled additional hearings to determine the next steps in the litigation. The outcome of the unresolved case will ultimately determine the final legal consequences for Mangione.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 23:32:01",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-431",
+    "title": "Liverpool to sell minority stake to 1892 Holdings consortium including Jeff Bezos",
+    "slug": "liverpool-to-sell-minority-stake-to-1892-holdings-consortium-including-jeff-bezo",
+    "content": "The 1892 Holdings consortium, spearheaded by former Queens Park Rangers chairman Amit Bhatia, has announced a new partnership that brings Amazon founder Jeff Bezos’s K5 Sports Fund into its fold. The move expands the consortium’s reach in the football investment arena, positioning it to pursue opportunities across the sport’s commercial and sporting sectors.\n\nBhatia, who has overseen QPR’s strategic initiatives for several years, will coordinate the consortium’s activities, while K5 Sports Fund is expected to contribute both capital and industry expertise. The collaboration signals a growing trend of cross‑industry investment in football, with private equity and high‑profile sports funds seeking to capitalize on the sport’s global fan base and revenue streams.\n\nThe partnership is slated to commence operations in the coming months, with the consortium targeting clubs and assets that align with its long‑term growth strategy. Stakeholders anticipate that the combined resources of 1892 Holdings and K5 Sports Fund will enhance the consortium’s ability to secure high‑profile deals and deliver value to its investors.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 23:31:55",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-430",
+    "title": "France's Constitutional Council blocks under-15 social media ban",
+    "slug": "france-s-constitutional-council-blocks-under-15-social-media-ban",
+    "content": "Paris – France’s Constitutional Council has ruled that the recently enacted “anti‑hate speech” law violates the constitutional guarantee of freedom of expression, declaring several of its provisions ultra‑vires. The contested measures, which required online platforms to remove illegal content within 24 hours and imposed heavy penalties on repeat offenders, were deemed disproportionate and insufficiently precise, potentially criminalising a broad range of lawful speech. The Council’s decision, delivered on Tuesday, nullifies the sections that mandated automatic takedowns and mandated the government to revise the legislation to align with constitutional standards.\n\nPresident Emmanuel Macron responded immediately, affirming his intention to draft a new version of the law that respects free‑speech protections while addressing the rise of hateful content online. In a televised address, Macron pledged to consult legal experts, civil‑society groups and digital‑industry representatives before presenting a revised proposal to Parliament later this year. The administration’s next steps will focus on balancing the need for effective content moderation with the constitutional imperatives highlighted by the Council’s ruling.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 23:31:50",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-429",
+    "title": "Activists attempt aid delivery to trapped Palestinian families in West Bank",
+    "slug": "activists-attempt-aid-delivery-to-trapped-palestinian-families-in-west-bank",
+    "content": "Two families have been confined to their homes in the occupied West Bank for several days, unable to leave due to a combination of military restrictions and blocked access routes. The households, located in a village near a contested area, report that checkpoints and security cordons have prevented them from obtaining essential supplies and medical care, effectively isolating them from the surrounding community.\n\nHumanitarian organizations have expressed concern over the prolonged confinement, noting that such restrictions can exacerbate health risks and limit residents’ ability to respond to emergencies. Local authorities have not provided a timeline for lifting the barriers, while the families await assistance to restore normal movement. The situation underscores ongoing challenges faced by civilians in the region amid heightened security measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/14/2026 23:31:45",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-422",
+    "title": "Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
+    "slug": "liverpool-owner-fsg-seals-1-65bn-sale-of-30-stake-to-consortium-including-jeff-b",
+    "content": "Liverpool FC Sale: Consortium Secures 30% Stake for £1.65bn\n\nIn a significant development, Fenway Sports Group, the current owner of Liverpool Football Club, has confirmed the sale of a 30% stake in the club to a consortium led by Amit Bhatia. The deal, valued at £1.65bn, brings the total worth of the club to £5.5bn, making it one of the most valuable football clubs in the world. Bhatia, who will assume the role of vice-chairman on an expanded board, initiated and led negotiations with FSG on behalf of the 1892 Holdings consortium, a nod to Liverpool's founding year.\n\nThe consortium, which includes Amazon founder Jeff Bezos and Facebook co-founder Eduardo Saverin, has secured financial backing from prominent investors, including the Mittal Family Trust, the K5 Sports fund led by Bezos, and EE Capital, the family office of Elaine and Eduardo Saverin. Bhatia, the son-in-law of Indian steel magnate Lakshmi Mittal, has a background in football ownership, having previously co-owned Queens Park Rangers. This significant investment is expected to bring fresh resources and expertise to the club, potentially paving the way for future growth and success.\n\nThe deal marks a significant milestone in Liverpool's history, with the club poised to benefit from the new investment and leadership. As the club continues to evolve, fans and stakeholders will be eager to see how this partnership will shape the team's future, both on and off the pitch.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/14/2026 22:52:10",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-421",
+    "title": "Start of England's community rugby season postponed",
+    "slug": "start-of-england-s-community-rugby-season-postponed",
+    "content": "The Rugby Football Union (RFU) has announced a delay to the start of the community rugby season, citing concerns over player welfare and pitch conditions. The decision comes as much of England continues to experience challenging weather conditions, resulting in waterlogged and uneven pitches that pose a risk to player safety.\n\nThe delay is expected to impact clubs and teams across the country, with the RFU working closely with local authorities and pitch owners to assess the condition of playing surfaces. In a statement, the RFU emphasized the importance of prioritizing player welfare, stating that \"safety must come first\" when it comes to the start of the new season. The union is working to establish a revised start date, with the goal of ensuring that players can compete on safe and suitable pitches.\n\nThe decision to delay the start of the season is seen as a pragmatic move by the RFU, given the widespread impact of the weather on pitch conditions. The union's focus on player welfare and safety is likely to be welcomed by clubs, teams, and players, who prioritize the well-being of those involved in the sport. As the RFU continues to work towards a revised start date, the community rugby season is expected to get underway once the conditions are deemed safe for play.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/14/2026 22:52:05",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-419",
+    "title": "Adam Ramsay-Peaty Exits European Aquatics Championships Early",
+    "slug": "adam-ramsay-peaty-exits-european-aquatics-championships-early",
+    "content": "Adam Ramsay-Peaty, a renowned figure in the world of competitive swimming, has expressed his puzzlement over his recent performance at the ongoing European Aquatics Championships. The former Olympic and world champion has been struggling to find his footing in the competition, leaving him questioning his current form.\n\nRamsay-Peaty's struggles have been evident in his events, where he has failed to meet his usual standards. Despite being a multiple-time champion, the athlete has been unable to replicate his past success, sparking concerns about his current state of mind and physical conditioning. His comments come as a surprise to fans and fellow competitors alike, as Ramsay-Peaty has consistently been one of the top performers in the sport. The European Aquatics Championships, which are being held in a different location this year, have proven to be a challenging experience for the athlete so far.\n\nAs Ramsay-Peaty continues to navigate his way through the competition, it remains to be seen whether he can turn his form around and recapture his former glory. With the championships set to conclude soon, the pressure is mounting on the athlete to deliver a strong performance and redeem himself in front of a global audience.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/14/2026 22:51:58",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-418",
     "title": "Liverpool Sold to Consortium Including Jeff Bezos",
     "slug": "liverpool-sold-to-consortium-including-jeff-bezos",
