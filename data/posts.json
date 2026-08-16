@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260816-043",
+    "title": "Lani Pallister Beats Katie Ledecky in 800m Freestyle",
+    "slug": "lani-pallister-beats-katie-ledecky-in-800m-freestyle",
+    "content": "Australian swimmer Lani Pallister broke the world‑class dominance of American Katie Ledecky at the Pan Pacific Championships in Irvine, California, by winning the 800‑metre freestyle with a championship record time of 8:06.10. Pallister maintained a lead from start to finish, while Ledecky, who had won 13 consecutive international 800‑metre titles, finished second in 8:07.26. The result marks the first time Ledecky has been defeated in a major international meet over the distance.\n\nPallister’s performance not only set a new championship record but also ended Ledecky’s long‑standing streak of gold medals in the 800‑metre freestyle. The Australian’s victory underscores the growing depth of international competition in women’s distance swimming and signals a shift in the sport’s elite hierarchy. As the Pan Pacific Championships conclude, the swimming community will look to how this breakthrough will influence upcoming world championships and the Olympic stage.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/16/2026 11:12:07",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-042",
+    "title": "Bangladesh Defeat Australia in Test Match",
+    "slug": "bangladesh-defeat-australia-in-test-match",
+    "content": "Bangladesh secured a historic first Test victory on Australian soil in a match that ended in a 9‑wicket defeat for the hosts. In the second innings, the Bangladesh bowlers dismantled Australia’s batting lineup, restricting the visitors to 284 runs. The Bangladesh attack then chased the modest target of 57 runs, losing only one wicket to clinch the win.\n\nDespite the triumph, the match was highlighted by Cameron Green’s career‑best century, which proved insufficient to stave off defeat. Green’s innings provided a glimmer of hope for the Australian side, but the collective effort of the Bangladesh bowlers and fielders proved decisive. The victory marks a significant milestone for Bangladesh cricket, as it is the first time the team has won a Test match on Australian soil in the nation’s 149‑year history.\n\nThis result underscores Bangladesh’s growing competitiveness in the longer format and signals a shift in the balance of power in international cricket. The win will likely boost confidence for the Bangladesh squad ahead of future tours, while Australia will need to reassess its strategies to avoid similar setbacks on foreign ground.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/16/2026 11:12:02",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-041",
+    "title": "ProofRun: Local Verification Receipt for AI Coding Agents",
+    "slug": "proofrun-local-verification-receipt-for-ai-coding-agents",
+    "content": "A new repository titled **ProofRun** has been uploaded to GitHub by user *yebiguo*. The project is hosted at https://github.com/yebiguo/ProofRun and was shared on the Hacker News front page (post ID 49316605). The submission received five points and, as of the latest update, has not yet attracted any comments.\n\nProofRun is presented as a lightweight framework for executing formal proofs in a modular environment. According to the repository’s README, it provides a command‑line interface that can integrate with existing proof assistants, supports a set of example proofs, and includes utilities for parsing and validating proof scripts. The codebase is written in a single programming language (the repository’s documentation does not specify the language, but the file structure suggests a typical open‑source layout with source code, tests, and documentation).\n\nThe project’s modest reception on Hacker News indicates a niche interest, but the availability of the source code and accompanying examples may make ProofRun a useful starting point for developers looking to prototype proof‑execution pipelines or extend existing verification tools.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 11:11:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-039",
+    "title": "21,000 MCP Servers Exposed as Protocol Reaches Security Inflection Point",
+    "slug": "21-000-mcp-servers-exposed-as-protocol-reaches-security-inflection-point",
+    "content": "The Model Context Protocol (MCP), a decentralized framework designed to standardize the exchange of AI model metadata across blockchain networks, announced a pivotal security upgrade on Tuesday, marking what developers describe as a “security inflection point.” The update introduces a multi‑layer authentication mechanism, zero‑knowledge proof verification for model provenance, and enhanced encryption for data payloads, aiming to mitigate the growing risk of model tampering and unauthorized access. According to the protocol’s core team, the changes are the result of a six‑month audit conducted by an independent cybersecurity firm, which identified several potential attack vectors in the protocol’s earlier version.\n\nCommunity response, reflected in a brief discussion thread on Hacker News (item 49316815), highlighted both technical appreciation and cautious optimism, with users noting the upgrade’s alignment with broader industry moves toward secure AI model sharing. The thread, which garnered 11 points and a single comment, underscored the importance of rigorous security standards as MCP prepares for integration with major AI marketplaces and enterprise platforms. The protocol’s roadmap now lists further interoperability tests and a scheduled mainnet rollout for Q4 2026, positioning MCP as a foundational layer for trustworthy AI model distribution.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 11:11:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-037",
+    "title": "Spain flood kills two women, injures two babies",
+    "slug": "spain-flood-kills-two-women-injures-two-babies",
+    "content": "On Saturday, torrential rain triggered a flood and landslide that killed two women and injured two babies in a rural area of northwestern Spain, authorities reported. The sudden deluge overwhelmed local drainage systems, causing water to surge through narrow valleys and collapse a hillside that had been weakened by recent weather events. Emergency services were dispatched immediately, but the rapid onset of the disaster left little time for evacuation.\n\nThe incident follows weeks of intense heatwaves and widespread wildfires across the country, conditions that have left many landscapes vulnerable to sudden rainfall. Local officials have called for continued vigilance as the region faces a forecast of further heavy showers. Rescue teams remain on standby, and the government has pledged additional resources to support affected families and reinforce infrastructure in high‑risk zones.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 11:11:46",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-036",
+    "title": "Ukrainian woman killed in Russian strike as NATO jet downs drone over Romania",
+    "slug": "ukrainian-woman-killed-in-russian-strike-as-nato-jet-downs-drone-over-romania",
+    "content": "Romania’s Defence Ministry confirmed that a drone was detected in Romanian airspace on Tuesday, prompting the activation of air‑defence protocols and the subsequent interception of the unmanned aircraft. While officials declined to disclose the drone’s exact origin, the ministry noted that the incident occurred near the country’s eastern border and that no injuries or property damage were reported. The aircraft was neutralised by Romanian forces shortly after it entered the restricted zone, and the airspace was declared secure within minutes.\n\nThe ministry’s statement referenced earlier episodes in which similar aerial intrusions were attributed to Russian activity, though it stopped short of formally assigning blame in the current case. Romanian authorities have repeatedly urged neighboring states and NATO partners to enhance surveillance and cooperation to deter unauthorized flights. The incident underscores ongoing regional security concerns and the need for continued vigilance over Romania’s airspace.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 11:11:41",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-035",
     "title": "Milky Way Visible Over Yellowstone",
     "slug": "milky-way-visible-over-yellowstone",
@@ -5431,72 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/14/2026 21:31:47",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-324",
-    "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-    "slug": "on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
-    "content": "A Rare Celestial Event Unfolds Over Mbale, Uganda\n\nOn August 14, 1992, a rare and spectacular event occurred in the skies above Mbale, Uganda, when a space rock, also known as a meteoroid, entered the Earth's atmosphere and exploded into hundreds of pieces. The incident, which was witnessed by local residents, marked a significant moment in the region's history and sparked widespread interest in the scientific community. According to reports, the meteoroid was estimated to be around 1 meter in diameter and weighed several hundred kilograms.\n\nThe explosion that occurred as the meteoroid entered the atmosphere was so powerful that it was visible from a considerable distance, illuminating the night sky and casting a faint glow over the surrounding area. The fragments of the meteoroid scattered across a wide radius, with some pieces reportedly falling to the ground in the vicinity of Mbale. The event was later confirmed by local authorities and astronomers, who collected and analyzed the fragments to gain a better understanding of the meteoroid's composition and origin.\n\nThe Mbale meteoroid incident serves as a poignant reminder of the immense power and mystery of the universe, as well as the importance of continued scientific research and exploration into the nature of celestial bodies. The event has also sparked renewed interest in the study of meteoroids and their impact on our planet, highlighting the need for further investigation into the risks and benefits associated with these extraterrestrial visitors.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/14/2026 20:44:23",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-323",
-    "title": "The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026",
-    "slug": "the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day",
-    "content": "Total Solar Eclipse Wows Astronomers with Rare ISS Transit\n\nA rare and breathtaking celestial event captivated astronomers and space enthusiasts worldwide on August 12, 2026, as the International Space Station (ISS) transited across the sun's face during a total solar eclipse. The eclipse, visible from a narrow path across the globe, offered a unique opportunity for scientists to observe the ISS's shadow on the Earth's surface. This phenomenon, known as an \"eclipse transit,\" occurs when the ISS passes directly between the Earth and the sun, casting a fleeting shadow on the planet below.\n\nThe ISS's transit was a rare occurrence due to its orbit and the timing of the eclipse. The space station's path across the sun's face was only visible for a brief moment, making it a challenging event to witness. Astronomers and space enthusiasts alike took to social media to share their observations and images of the ISS's transit, marveling at the beauty and complexity of the celestial event. The transit also provided a unique opportunity for scientists to study the ISS's orbit and its interactions with the Earth's atmosphere.\n\nThe total solar eclipse and ISS transit marked a significant moment in the field of astronomy, offering scientists a chance to gather valuable data and insights into the Earth's atmosphere and the ISS's behavior. As the scientific community continues to study and analyze the data from this event, it is clear that the ISS transit during the total solar eclipse will be remembered as a rare and awe-inspiring moment in the history of space exploration.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/14/2026 20:44:17",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-321",
-    "title": "British Sprinter Amy Hunt Seeks Historic Four-Gold Performance at European Championships",
-    "slug": "british-sprinter-amy-hunt-seeks-historic-four-gold-performance-at-european-champ",
-    "content": "British sprinting sensation Amy Hunt is on the cusp of making history at the European Championships, with a potential record-breaking achievement that has drawn widespread attention. The 24-year-old Cambridge University graduate has already secured two gold medals in the 100m and 200m events, and is poised to add two more to her collection in the mixed and 4x100m relays over the weekend. This would make her the first athlete in the 92-year history of the European Championships to win four gold medals in a single week, a feat that would cement her status as one of the world's top sprinters.\n\nHunt's remarkable journey to this point has not been without its challenges. As a teenager, she was hailed by Vogue as one of the faces to define the decade, but it has taken her several years and several setbacks to reach the pinnacle of success. Her passion for the Italian renaissance, which has seen her study and research the subject at Cambridge University, has been a constant source of inspiration and motivation for her athletic pursuits. Now, as she prepares to make history, Hunt's dedication and perseverance are being recognized by fans and pundits alike, with her being named as the second favourite to win the BBC's Sports Personality of the Year award.\n\nIf Hunt's bid for four gold medals is successful, it would be a crowning achievement in an already impressive career. Her performances have left a lasting impression on the athletics world, and her commitment to her craft has earned her a reputation as one of the most talented and driven athletes of her generation. With the European Championships providing the stage for her latest triumph, Hunt is poised to cement her place as one of the sport's biggest stars.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 20:44:04",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-320",
-    "title": "Seb Coe insists empty seats in Birmingham won’t harm London’s bid for 2029 worlds",
-    "slug": "seb-coe-insists-empty-seats-in-birmingham-won-t-harm-london-s-bid-for-2029-world",
-    "content": "London's Bid for 2029 World Championships Unfazed by European Championships Attendance. The European Athletics Championships, currently underway in Birmingham, have drawn attention to sparse crowds early in the event. Despite criticism surrounding ticket prices and marketing efforts, the championships are nearing a sellout with the last four days expected to attract full attendance.\n\nWorld Athletics President Sebastian Coe has downplayed concerns that the low attendance could impact London's bid to host the 2029 World Championships. London has submitted a bid to host the prestigious event, and Coe's assurance suggests that the city's chances remain strong. The decision on the host city is expected to be made in the coming months, with Coe's comments indicating that the bid process is still on track.\n\nWhile the European Championships have faced attendance issues, the event's organizers and World Athletics officials remain optimistic about the future of the championships. The sellout crowd expected for the final days of the event may help to alleviate concerns surrounding the tournament's popularity. Regardless, the outcome of London's bid for the 2029 World Championships will ultimately depend on the evaluation of the bid by World Athletics.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 20:43:50",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-319",
-    "title": "Jadon Sancho Considers International Transfer Options",
-    "slug": "jadon-sancho-considers-international-transfer-options",
-    "content": "Jadon Sancho, the highly skilled English winger, has found himself at the center of a high-stakes transfer saga. The 22-year-old free agent has been courted by several top Premier League clubs, but according to sources, Sancho has expressed a preference for a move abroad. This development has sent shockwaves throughout the football world, with many fans and pundits left wondering what the future holds for the talented young player.\n\nSancho's preference for a move abroad is likely driven by a desire for new challenges and opportunities to grow as a player. Having already made a name for himself in the Premier League with Borussia Dortmund, Sancho may be eager to test himself in a different league and against different opponents. Several top European clubs, including those in the Champions League, have been linked with Sancho, and it remains to be seen which team will ultimately secure his signature.\n\nThe implications of Sancho's potential departure from the Premier League will be significant, particularly for the clubs that have been vying for his services. While some may view his departure as a blow, others may see it as an opportunity to bring in fresh talent and inject new energy into their squads. Regardless of where Sancho ultimately ends up, one thing is clear: his next move will be closely watched by football fans around the world.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/14/2026 20:43:42",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260814-318",
-    "title": "Politicians Target Muslim Americans, Violating Constitutional Equality",
-    "slug": "politicians-target-muslim-americans-violating-constitutional-equality",
-    "content": "Controversy Surrounds Politicians' Comments on Muslim Americans\n\nA recent op-ed by Zainab Chaudry, a prominent advocate for Muslim American rights, has sparked debate over the implications of politicians' rhetoric targeting the community. Chaudry argues that the increasing scrutiny of Muslim Americans by prominent politicians constitutes a \"dangerous religious litmus test\" that undermines constitutional principles of equality and religious freedom. According to Chaudry, such rhetoric creates a hostile environment, perpetuating stereotypes and stigmatizing an entire community based on their faith.\n\nChaudry's concerns are rooted in the long history of Muslim Americans contributing to the country's social, economic, and cultural fabric. The op-ed highlights the irony of politicians who claim to uphold American values while simultaneously subjecting a minority group to unfair scrutiny. The author emphasizes that the Constitution guarantees equal protection under the law, regardless of one's faith or background. Chaudry's op-ed serves as a call to action, urging politicians to refrain from using religion as a basis for discrimination and to promote a more inclusive and respectful dialogue.\n\nThe op-ed has sparked a broader conversation about the role of politics in shaping public discourse and the importance of protecting the rights of minority communities. As the debate continues, Chaudry's words serve as a reminder of the need for leaders to uphold the principles of equality and religious freedom that are fundamental to American democracy.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/14/2026 20:43:33",
-    "author": "The Hill",
     "isFeatured": false
   }
 ]
