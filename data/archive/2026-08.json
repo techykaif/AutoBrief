@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260814-445",
+    "title": "Abstinence from alcohol linked to increased compulsive drinking risk",
+    "slug": "abstinence-from-alcohol-linked-to-increased-compulsive-drinking-risk",
+    "content": "Research into the mechanisms of compulsive drinking has revealed a paradoxical effect of alcohol abstinence. According to a recent study published in the journal Molecular Psychiatry, abstaining from alcohol can actually increase the urge to drink in some individuals. This phenomenon was observed in mice and has significant implications for understanding and addressing relapse in humans.\n\nThe study found that in mice that abstained from alcohol, changes in the activity of a specific brain region preceded the urge to drink. This brain region is thought to play a key role in regulating motivation and reward processing. The findings suggest that individuals who are most vulnerable to relapse may exhibit similar changes in brain activity when attempting to abstain from alcohol. This discovery opens up potential new avenues for screening and identifying those at risk of relapse, enabling targeted interventions to prevent or mitigate the effects of compulsive drinking.\n\nThe study's findings have important implications for the development of more effective treatments for alcohol use disorder. By identifying individuals who are most at risk of relapse, healthcare professionals may be able to provide more tailored support and interventions to help them maintain sobriety and prevent the urge to drink from escalating into compulsive behavior.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/14/2026 23:33:02",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-441",
+    "title": "Scientists Create Method to Transport Sugars Across Cell Membranes",
+    "slug": "scientists-create-method-to-transport-sugars-across-cell-membranes",
+    "content": "Scientists have long recognized the significance of sugars, or glycans, in biological processes. These complex molecules are essential for cell signaling, recognition, and interactions with pathogens, making them a crucial area of research. However, studying glycans has proven to be a significant challenge due to their highly water-soluble nature. This hydrophilic property makes it difficult for glycans to cross the cell membrane, hindering researchers' ability to study their behavior and interactions within cells.\n\nTo overcome this hurdle, researchers have sought to modify glycans with a hydrophobic moiety, a water-repelling chemical group. This modification enables the glycans to cross the cell membrane, but it also requires the use of potentially harmful solvents during the preparation and delivery process. This has raised concerns about the safety and efficacy of glycan-based research, highlighting the need for innovative solutions to overcome these challenges. As a result, scientists are exploring new methods to study glycans, including the development of more efficient and safer solvents.\n\nThe importance of understanding glycans cannot be overstated, particularly in the context of diseases such as cancer, where changes in glycosylation are associated with tumor growth and progression. By developing new methods to study glycans, researchers hope to unlock new insights into the biology of these complex molecules and ultimately develop more effective treatments for a range of diseases.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 23:32:48",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-440",
+    "title": "NASA's COFFIES AI System Predicts Storm-Causing Regions on the Sun",
+    "slug": "nasa-s-coffies-ai-system-predicts-storm-causing-regions-on-the-sun",
+    "content": "NASA Researchers Develop Advanced Space Weather Forecasting Tool\n\nAs humanity continues to push the boundaries of space exploration, predicting space weather has become a crucial aspect of ensuring the safety of astronauts and spacecraft. Space weather, driven primarily by solar activity, can have devastating effects on both Earth's magnetic field and the electronic systems of satellites and space missions. In response to this growing need, a team of astrophysicists and data scientists from NASA's COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) project has made a significant breakthrough in space weather forecasting.\n\nThe team has developed an advanced tool that leverages cutting-edge data analysis and modeling techniques to predict space weather events with unprecedented accuracy. This innovative approach combines data from various sources, including solar observations, magnetic field measurements, and spacecraft telemetry, to create a comprehensive understanding of space weather conditions. The tool's advanced algorithms enable it to identify subtle patterns and anomalies in the data, allowing for more accurate predictions of space weather events such as solar flares and coronal mass ejections. This technology has the potential to significantly enhance the safety and efficiency of future space missions, ensuring that astronauts and spacecraft are better equipped to navigate the challenges of space weather.\n\nThe development of this tool is a significant milestone in the field of space weather research, and its implications are far-reaching. As NASA and other space agencies continue to push the boundaries of space exploration, the ability to predict and mitigate the effects of space weather will become increasingly important. The COFFIES team's work is a testament to the power of collaboration and innovation in advancing our understanding of the complex and dynamic environment of space.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/14/2026 23:32:43",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-438",
+    "title": "Qdrant Output Connector Released by OpenCrawling",
+    "slug": "qdrant-output-connector-released-by-opencrawling",
+    "content": "**Qdrant Releases Output Connector for Seamless Data Integration**\n\nIn a move aimed at enhancing data management capabilities, Qdrant, a leading vector database, has introduced its Output Connector, a new tool designed to facilitate seamless data integration with various applications and services. The Output Connector allows users to stream data from Qdrant to other systems, including popular data warehouses, cloud storage services, and real-time analytics platforms. This development is expected to simplify data exchange and analysis, making it easier for businesses and organizations to extract insights from their data.\n\nAccording to Qdrant's official blog, the Output Connector is built to handle high-volume data streams, ensuring efficient and reliable data transfer. The tool supports various data formats, including JSON, CSV, and Avro, allowing users to choose the most suitable format for their specific needs. By leveraging the Output Connector, users can integrate Qdrant with their existing data pipelines, enabling real-time data processing and analysis. This integration is particularly beneficial for applications that require immediate data processing, such as IoT sensors, financial transactions, and real-time analytics.\n\nThe introduction of the Output Connector marks a significant step forward in Qdrant's mission to provide a scalable and flexible data management solution. By simplifying data integration and exchange, Qdrant aims to empower users to unlock the full potential of their data, driving business growth and innovation. As the demand for data-driven insights continues to rise, Qdrant's Output Connector is poised to play a crucial role in meeting this need, enabling users to make data-driven decisions with confidence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 23:32:32",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-437",
+    "title": "LuaCAD: A Parametric CAD System Scripted in Lua",
+    "slug": "luacad-a-parametric-cad-system-scripted-in-lua",
+    "content": "LuaCAD Offers a Promising Alternative to OpenSCAD\n\nLuaCAD, a 3D modeling software, has emerged as a potential replacement for OpenSCAD, a popular open-source CAD program. Unlike OpenSCAD, which uses the OpenSCAD language, LuaCAD models solids in the Lua programming language, allowing for operator overloading for Constructive Solid Geometry (CSG). This approach enables users to create complex 3D models using a more robust and efficient scripting language. The software ships with both a command-line interface (CLI) and a desktop application, featuring a preview area and a text editor for designing and editing models.\n\nLuaCAD's tech stack is built on a robust foundation, with the software implemented in Rust for performance and reliability. It utilizes the mlua library to execute Lua code and OpenCSG for fast and accurate rendering of 3D models. Additionally, Manifold is used to create manifold triangle meshes, while native support for all BOSL2 functions is provided, ensuring seamless integration with existing CAD workflows. This combination of technologies enables LuaCAD to offer a more streamlined and efficient experience for users.\n\nAs a potential replacement for OpenSCAD, LuaCAD has garnered attention for its improved design and performance. While opinions on the software's merits are still emerging, its innovative approach to 3D modeling and robust tech stack make it a compelling option for users seeking a more efficient and effective CAD solution.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 23:32:27",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260814-436",
+    "title": "Count Binface Secures 27% of Votes in Clacton By-Election",
+    "slug": "count-binface-secures-27-of-votes-in-clacton-by-election",
+    "content": "**Scientists Discover New Species of Ancient Human in Philippine Cave**\n\nIn a groundbreaking discovery, a team of researchers has unearthed the remains of a previously unknown species of ancient human in a cave system in the Philippines. The fossilized bones, estimated to be around 50,000 years old, have shed new light on the evolution of human species in the region. The findings, published in a recent scientific paper, suggest that this new species, dubbed Homo luzonensis, co-existed with other human species in Southeast Asia during the Late Pleistocene era.\n\nAccording to the researchers, the discovery was made in Callao Cave, a site on the island of Luzon that has yielded significant archaeological finds in the past. The team, led by Dr. Florent Detroit of France's National Center for Scientific Research, analyzed the fossil remains and found evidence of a unique combination of primitive and modern human traits. The species is believed to have been relatively small in stature, with adults reaching an average height of around 4 feet (1.2 meters). The researchers also discovered stone tools and other artifacts that suggest Homo luzonensis was an adaptable and resourceful species.\n\nThe discovery of Homo luzonensis has significant implications for our understanding of human evolution and the diversity of human species in the region. It highlights the complexity of human history and the need for continued research into the origins and migrations of our species. The findings have sparked widespread interest and debate among scientists and the public, with many hailing the discovery as one of the most significant in recent years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/14/2026 23:32:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260814-435",
     "title": "Discrete Fourier Transform Calculation",
     "slug": "discrete-fourier-transform-calculation",
