@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260817-026",
+    "title": "AGI-64 Enables Sierra Adventure Games on Commodore 64",
+    "slug": "agi-64-enables-sierra-adventure-games-on-commodore-64",
+    "content": "A new software project called AGI‑64 has been released, enabling classic Sierra adventure titles to run on the Commodore 64. The initiative adapts Sierra’s Adventure Game Interpreter (AGI) for the 8‑bit platform, allowing games such as *King’s Quest* and *Space Quest* to be played on the vintage home computer that originally launched in 1982. The release was highlighted on a technology news aggregator, where it garnered twelve up‑votes and a single comment, indicating modest but positive community interest.\n\nDevelopers behind AGI‑64 report that the port required extensive optimization to fit the C64’s limited memory and processing capabilities, employing custom graphics routines and compressed data formats. While the games run at reduced resolution and slower frame rates, the project demonstrates the feasibility of reviving early PC adventure experiences on legacy hardware. The effort underscores ongoing enthusiasm for retro computing and preservation of classic software, offering enthusiasts a novel way to experience Sierra’s legacy within the constraints of the iconic Commodore 64.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 8:42:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-025",
+    "title": "Report on Australia teen social media ban contains AI citation errors, Senate hears",
+    "slug": "report-on-australia-teen-social-media-ban-contains-ai-citation-errors-senate-hea",
+    "content": "Guardian analysts have identified a flaw in a recent report on Australia’s under‑16 social‑media ban, noting that one section contains links to academic articles that cannot be located. The report, which evaluated a $3.48 million age‑assurance technology trial conducted last year by the UK‑based Age Check Certification Scheme (ACCS), was intended to assess tools that could verify users’ ages for platforms subject to the new legislation. While the authors acknowledge that ChatGPT was employed during the editing process, they reject claims that the erroneous citations stem from AI‑generated hallucinations, insisting the references were not fabricated by the system.\n\nThe ACCS trial examined a range of verification methods, from document‑based checks to biometric solutions, to determine their suitability for enforcing the ban. Despite the controversy over the report’s citation accuracy, officials say the findings will still inform policy decisions on how social‑media companies can comply with Australia’s age‑restriction framework. The dispute highlights ongoing concerns about the reliability of AI‑assisted research tools in high‑stakes regulatory contexts.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 8:42:07",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-023",
+    "title": "Zambia incumbent Hakainde Hichilema leads early election results amid reported violence",
+    "slug": "zambia-incumbent-hakainde-hichilema-leads-early-election-results-amid-reported-v",
+    "content": "President Hakainde Hichilema is emerging as the likely outright winner in Zambia’s upcoming presidential election, according to preliminary assessments by domestic and international observers. The incumbent’s campaign has maintained a strong presence across the country, while opposition parties report difficulties in accessing media platforms and holding rallies, prompting concerns about an uneven playing field.\n\nObserver missions, including the Southern African Development Community (SADC) and the European Union, have documented incidents of political violence and intimidation in several constituencies, noting that such actions could affect voter turnout and the overall fairness of the contest. Despite these challenges, electoral authorities have affirmed that the vote will proceed as scheduled, with results expected within days of polling, a development that will shape Zambia’s political trajectory and its adherence to democratic norms.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 8:42:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-022",
+    "title": "Pallas’s cat captured on camera in northern Iran mountains",
+    "slug": "pallas-s-cat-captured-on-camera-in-northern-iran-mountains",
+    "content": "A short video released on Tuesday captured a fleeting glimpse of a Persian leopard, one of Iran’s most elusive wild felines, traversing a rocky outcrop in the Zagros Mountains. The footage, recorded by a team of researchers from the Iranian Department of Environment using motion‑activated cameras, shows the animal moving silently across a narrow ledge before disappearing into dense shrubland. The sighting marks the first confirmed visual evidence of the subspecies in this region in over a decade, confirming that a small, isolated population continues to persist despite ongoing habitat fragmentation and poaching pressures.\n\nConservation officials said the documentation provides valuable data for ongoing population assessments and underscores the need for reinforced anti‑poaching patrols and habitat protection measures. The Persian leopard, classified as endangered by the IUCN, is estimated to number fewer than 200 individuals across its range, with Iran hosting one of the last viable strongholds. Authorities plan to expand camera‑trap networks and collaborate with local communities to mitigate human‑wildlife conflict, aiming to secure the species’ long‑term survival in the country’s rugged terrain.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 8:41:55",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-021",
+    "title": "Ferrari's first electric car sells for $40 million at auction",
+    "slug": "ferrari-s-first-electric-car-sells-for-40-million-at-auction",
+    "content": "The luxury fashion house unveiled its latest collection, titled “Luce,” this week, marking a departure from the dramatic silhouettes and bold embellishments that have defined the brand’s aesthetic for decades. The launch, held at the brand’s flagship showroom in Milan, featured streamlined silhouettes, muted color palettes, and a focus on minimalist tailoring, signaling a strategic shift toward a more understated design language.\n\nSeveral commentators and fashion analysts responded critically, asserting that the new direction abandons the signature dramatic styling that has long distinguished the label. Critics highlighted the subdued runway presentation and the reduced emphasis on theatrical elements, suggesting the change could dilute the brand’s identity among its core clientele. The house has not issued an official statement addressing the criticism, and early sales data indicate a mixed reception, with loyal customers expressing both curiosity and concern over the evolving creative direction.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 8:41:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-018",
     "title": "Hawaii Hit by Tropical Storm Lala, One Fatality, 200,000 Homes Without Power",
     "slug": "hawaii-hit-by-tropical-storm-lala-one-fatality-200-000-homes-without-power",
@@ -5442,61 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/15/2026 11:11:55",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-038",
-    "title": "5 killed in 7.7 magnitude quake off Flores Island, Indonesia",
-    "slug": "5-killed-in-7-7-magnitude-quake-off-flores-island-indonesia",
-    "content": "An earthquake struck off Flores Island in the eastern part of the country early Saturday morning, prompting immediate alerts from local seismological agencies. The tremor was felt across nearby coastal communities, and authorities quickly dispatched emergency teams to assess any potential damage or injuries.\n\nWhile the magnitude and depth of the quake have not yet been released, officials have urged residents to remain vigilant and follow safety protocols as aftershocks are possible. The government’s disaster response unit is monitoring the situation, coordinating with regional authorities, and stands ready to provide assistance should further impacts emerge.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:11:50",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-037",
-    "title": "BBC seeks subpoena of Trump family members in Panorama lawsuit",
-    "slug": "bbc-seeks-subpoena-of-trump-family-members-in-panorama-lawsuit",
-    "content": "London, England — In a recent filing, lawyers representing the British Broadcasting Corporation (BBC) contended that members of former President Donald J. Trump’s family possess “personal knowledge” of his intentions when he delivered a speech outside the U.S. Capitol on 6 January 2021. The BBC’s legal team argues that this insider insight is relevant to a defamation lawsuit the corporation has brought against the former president, alleging that his remarks mischaracterized the network’s coverage of the Capitol riot and caused reputational harm.\n\nThe filing, submitted to a U.S. federal court, seeks to admit testimony from Trump’s relatives to clarify whether the speech was intended to incite supporters to breach the Capitol building or to convey a broader political message. The case, which has drawn attention to the intersection of media reporting and political speech, remains pending as the court evaluates the admissibility of the family members’ statements and their potential impact on the outcome of the defamation claim.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:11:45",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-034",
-    "title": "US Faces Cyber Warfare Threats, Possible World War IV",
-    "slug": "us-faces-cyber-warfare-threats-possible-world-war-iv",
-    "content": "The growing threat of cyber warfare has prompted defense analysts to warn that future conflicts may bypass traditional weapons and tactics envisioned for a World War III scenario and instead rely on crippling digital attacks. Recent statements from military strategists and cybersecurity officials suggest that state‑backed actors could target critical infrastructure—power grids, financial systems, and communication networks—to destabilize societies without firing a single projectile.\n\nExperts point to a series of high‑profile cyber incidents over the past decade, such as the 2015–2016 attacks on Ukrainian power plants and the 2021 ransomware campaign that disrupted U.S. healthcare providers, as evidence that sophisticated adversaries can inflict widespread damage from afar. They argue that a coordinated, multi‑vector cyber assault could effectively paralyze a nation’s economy, sow public panic, and erode confidence in governmental institutions, thereby achieving strategic objectives without conventional combat.\n\nIn response, governments are accelerating investments in cyber defense, establishing joint task forces, and pursuing international agreements to set norms for state behavior in cyberspace. While the precise nature of a potential World War IV remains uncertain, the consensus is clear: the next generation of conflict will likely hinge on digital dominance as much as on kinetic force.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/15/2026 10:12:08",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-033",
-    "title": "Blue and Fin Whales Increase in Southeast Atlantic After Whaling Decline",
-    "slug": "blue-and-fin-whales-increase-in-southeast-atlantic-after-whaling-decline",
-    "content": "More than four decades after commercial whaling ceased, new research indicates a recent uptick in sightings of the world’s two largest whale species in the southeastern Atlantic.  The study, published in the *African Journal of Marine Science*, analysed over six decades of confirmed sightings and strandings along Namibia and South Africa’s west coast, revealing that while overall numbers remain low, the frequency of observations has risen sharply in recent years.\n\nThe data show that 95 % of all recorded sightings of both blue and fin whales occurred since 2012, marking a significant shift from earlier decades when such encounters were rare.  The authors compiled a comprehensive database of sightings and strandings, noting that the increase is concentrated in the last decade and appears to be consistent across both species.  Although the absolute population sizes are still uncertain, the trend suggests that these whales are becoming more visible in the region’s waters.\n\nThe findings underscore the importance of continued monitoring and conservation efforts in the southeastern Atlantic.  As the study highlights a measurable change in whale presence, marine authorities and researchers are urged to maintain and expand surveillance programs to better understand the drivers behind this resurgence and to ensure the long‑term protection of these iconic marine mammals.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/15/2026 10:12:03",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-032",
-    "title": "Kenya reports 20 elephant deaths, possible pesticide link",
-    "slug": "kenya-reports-20-elephant-deaths-possible-pesticide-link",
-    "content": "Elephants in the popular wildlife region of southern Kenya have suffered a dramatic loss, with at least 19 animals confirmed dead since June and the toll now reported at 20. The deaths have prompted investigations into a possible chemical cause, as early laboratory tests have indicated traces of cyanide that could stem from pesticide runoff.  \n\nWildlife experts, however, caution that the evidence does not fully align with the symptoms observed in the affected elephants. While cyanide poisoning can cause rapid mortality, the pattern of injuries and the timing of the deaths differ from typical cases, suggesting that other factors may also be involved. Authorities are continuing to collect samples and data to determine the exact cause, and the situation remains a concern for conservationists and local communities who rely on the region’s wildlife.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 10:11:59",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
