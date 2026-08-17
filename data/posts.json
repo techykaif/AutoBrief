@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260817-468",
+    "title": "Labrador Sea Supplies Oxygen to Deep North Atlantic Life",
+    "slug": "labrador-sea-supplies-oxygen-to-deep-north-atlantic-life",
+    "content": "Cornell University scientists have identified the Labrador Sea as the primary source of oxygen that fuels deep‑sea ecosystems in the North Atlantic. By combining satellite observations, in‑situ water‑column measurements, and advanced oceanographic modeling, the team traced the origin of oxygenated water that sinks from the surface and travels thousands of kilometers before reaching the abyssal plain. Their findings confirm long‑held hypotheses that the vigorous mixing and deep‑water formation in the Labrador Sea injects fresh, oxygen‑rich water into the deep ocean.\n\nThe research highlights the critical role of the Labrador Sea’s “churning waters” in maintaining the oxygen budget of the North Atlantic. As surface waters cool and become denser, they sink and spread into deeper layers, replenishing oxygen that supports the diverse communities of bacteria, plankton, and larger fauna that inhabit the deep sea. Understanding this process is essential for predicting how climate change—through altered temperature, salinity, and circulation patterns—might impact the resilience of deep‑sea habitats and the global carbon cycle.\n\nThese results underscore the interconnectedness of surface and deep‑water processes and provide a key piece of the puzzle in oceanic oxygen dynamics. By pinpointing the Labrador Sea as the main contributor, the study offers a clearer target for monitoring and modeling efforts aimed at safeguarding deep‑sea biodiversity and the ocean’s role in climate regulation.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 3:31:50",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-467",
+    "title": "UC Riverside study finds pesticides alter Argentine ant behavior before worker death",
+    "slug": "uc-riverside-study-finds-pesticides-alter-argentine-ant-behavior-before-worker-d",
+    "content": "Researchers at the University of California, Riverside have found that an increase in ant activity following the deployment of pesticide traps does not necessarily indicate a failed treatment. The study, published in the journal *Environmental Entomology*, tracked the movement of chemical agents through ant colonies and observed that sublethal exposure altered foraging patterns, causing workers to increase surface activity before the poison reaches lethal concentrations throughout the nest.\n\nThe findings suggest that pest‑management professionals should interpret a temporary surge in ant presence as a behavioral response to the dispersal of toxins rather than a sign of resistance or ineffective control. By recognizing that chemicals propagate through the colony over time, operators can allow the treatment to complete its action cycle, reducing the likelihood of premature re‑application and improving overall efficacy in ant suppression programs.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 3:31:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-449",
     "title": "Relay AI Startup Closes, Staff Join Google Chrome",
     "slug": "relay-ai-startup-closes-staff-join-google-chrome",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/15/2026 22:33:31",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-256",
-    "title": "Unicode Ghost Characters Discovered",
-    "slug": "unicode-ghost-characters-discovered",
-    "content": "**Mysterious \"Ghost Characters\" Phenomenon Leaves Developers Baffled**\n\nIn a bizarre incident that has left the tech community scratching its head, a group of developers has discovered a peculiar issue known as \"ghost characters\" while working on a project. According to reports, these characters appear randomly in the code editor, seemingly without any apparent reason or explanation. The phenomenon has been observed in various coding environments, including popular text editors and IDEs.\n\nThe exact cause of the \"ghost characters\" remains unknown, and experts are still trying to understand the underlying issue. The developers who first reported the problem have shared their experiences and code snippets online, hoping to gather more information and potentially find a solution. While some have speculated that the issue might be related to a bug in the code editor or a specific plugin, others believe it could be a more complex problem that requires further investigation. The incident has sparked a lively discussion on online forums, with many developers sharing their own experiences with similar issues.\n\nAs the investigation continues, the \"ghost characters\" phenomenon serves as a reminder of the complexities and mysteries that can arise in software development. While the issue may seem trivial to some, it highlights the importance of collaboration and open communication among developers, as well as the need for continued innovation and problem-solving in the tech industry.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 22:33:21",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-253",
-    "title": "Al-Burhan Offers Temporary Immunity for Sudan Dialogue Participants",
-    "slug": "al-burhan-offers-temporary-immunity-for-sudan-dialogue-participants",
-    "content": "Sudan’s former head of state, Abdel Fattah al‑Burhan, announced that participants in the upcoming national dialogue would receive temporary immunity and legal protections. The pledge was made during a press briefing in Khartoum on Thursday, as the country continues to seek a comprehensive political settlement following months of violence between the army and the paramilitary Rapid Support Forces.\n\nThe immunity is intended to safeguard civil society leaders, opposition figures, and other stakeholders who may face retaliation for speaking openly during the talks. Al‑Burhan explained that the protections would apply only to the duration of the dialogue and would not extend to any ongoing investigations or prosecutions unrelated to the discussions. The move follows earlier assurances from the transitional government that the dialogue would be a safe space for all parties to negotiate a lasting ceasefire and a roadmap to democratic governance.\n\nWhile the promise of legal safeguards is expected to encourage broader participation, observers note that its effectiveness will depend on enforcement mechanisms and the willingness of security forces to respect the immunity. The dialogue, scheduled to run for several weeks, remains a critical step toward ending Sudan’s civil conflict and restoring stability to the nation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 22:32:47",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
