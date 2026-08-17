@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260817-394",
+    "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+    "slug": "wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-th",
+    "content": "Extensive wildfires currently burning across North America have generated massive plumes of smoke, significantly impacting air quality and visibility across multiple regions. These active fire fronts are spreading",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/18/2026 2:11:57",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-393",
+    "title": "Asaph Hall discovers Mars moon Phobos on August 17, 1877",
+    "slug": "asaph-hall-discovers-mars-moon-phobos-on-august-17-1877",
+    "content": "On August 17, 1877, American astronomer Asaph Hall announced the discovery of Mars’s first natural satellite, Phobos. Hall, working at the United States Naval Observatory, had been observing the Red Planet for several years and noted a faint point of light moving in tandem with Mars. The new moon was named after the Greek god of fear, reflecting its small size and rapid orbit.\n\nHall’s observation was made with a 24‑inch refracting telescope, and the discovery was confirmed by additional observations the following nights. Phobos measures only about 22 kilometers across and orbits Mars in less than a day, making it the innermost of the planet’s two moons. The find expanded knowledge of the Martian system and provided a new target for future planetary studies.\n\nThe announcement was quickly published in scientific journals and received attention from the astronomical community worldwide. Hall’s work on Phobos and, later, on Mars’s other moon, Deimos, helped establish the United States as a leading center for planetary research in the late nineteenth century.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/18/2026 2:11:50",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-353",
     "title": "Paramount seeks $1.88 billion bond from state AGs over WBD merger delay",
     "slug": "paramount-seeks-1-88-billion-bond-from-state-ags-over-wbd-merger-delay",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/15/2026 22:11:57",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-243",
-    "title": "SpaceX completes acquisition of AI coding startup Cursor",
-    "slug": "spacex-completes-acquisition-of-ai-coding-startup-cursor",
-    "content": "AI coding platform Cursor, founded in 2022 to accelerate software development with generative‑AI assistance, has been acquired by aerospace manufacturer SpaceX. The deal, announced on Tuesday, marks SpaceX’s first formal entry into the artificial‑intelligence tooling market and aligns with the company’s broader strategy to integrate advanced software capabilities across its launch, satellite, and Starlink operations. Cursor’s technology, which offers real‑time code suggestions, debugging, and documentation generation, will be incorporated into SpaceX’s internal development pipelines, according to a statement from SpaceX’s chief technology officer.\n\nIndustry analysts note that the acquisition reflects a growing convergence between AI-driven development tools and high‑technology sectors that demand rapid, reliable software cycles. SpaceX plans to retain Cursor’s existing team and continue offering the platform to external developers under its current branding, while leveraging the startup’s expertise to enhance the reliability and efficiency of mission‑critical code. The move underscores SpaceX’s intent to bolster its technological stack as it expands launch cadence and pursues ambitious projects such as the Starship program and global broadband constellation.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 22:11:51",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-240",
-    "title": "Ukraine strikes Russian Samara region with Flamingo missiles, Moscow monitors arms shipment",
-    "slug": "ukraine-strikes-russian-samara-region-with-flamingo-missiles-moscow-monitors-arm",
-    "content": "Ukraine’s armed forces employed domestically produced Flaming Flare missiles to strike targets in Russia’s southwestern Samara region, marking a notable escalation in cross‑border attacks. The missiles, developed and manufactured within Ukraine, were launched from Ukrainian territory and reached several sites in the industrial area of Samara, according to statements from Ukrainian military officials.\n\nThe strike follows a pattern of recent Ukrainian operations aimed at disrupting Russian logistical and energy infrastructure in the country’s western and southern districts. Russian authorities have confirmed damage to infrastructure but have not disclosed casualty figures. The use of the home‑grown Flaming Flare system underscores Kyiv’s growing reliance on indigenous weaponry as the conflict enters its ninth year, while Moscow has warned of heightened defensive measures along the border.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 22:11:46",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
