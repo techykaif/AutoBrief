@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260815-266",
+    "title": "Understanding Xorshift Random Number Generators",
+    "slug": "understanding-xorshift-random-number-generators",
+    "content": "Xorshift Generators Gain Attention in Cryptographic Community\n\nResearchers have been exploring alternative methods for generating random numbers, a crucial component in various cryptographic applications. Recently, Xorshift generators have emerged as a topic of interest in the cryptographic community, with many experts weighing in on their potential and limitations. A recent article on the Alanzucconi website has shed light on the capabilities and characteristics of Xorshift generators.\n\nXorshift generators utilize a simple yet effective algorithm to produce random numbers by applying a series of bitwise XOR and shift operations. This approach has been shown to be efficient and reliable, making it an attractive option for applications where high-quality randomness is essential. However, experts caution that Xorshift generators may not be suitable for all use cases, particularly those requiring extremely high levels of entropy. The article on Alanzucconi highlights the importance of carefully evaluating the suitability of Xorshift generators for specific applications.\n\nThe discussion around Xorshift generators has sparked a lively debate in the comments section of the Ycombinator news platform, with several experts sharing their thoughts and experiences with the algorithm. While some have praised the simplicity and efficiency of Xorshift generators, others have raised concerns about their potential vulnerabilities. As the cryptographic community continues to explore and refine Xorshift generators, it remains to be seen whether they will become a widely accepted solution for generating random numbers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 23:02:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-263",
+    "title": "Elektron Model:Samples and Model:Cycles are affordable grooveboxes",
+    "slug": "elektron-model-samples-and-model-cycles-are-affordable-grooveboxes",
+    "content": "Elektron’s Model:Samples and Model:Cycles grooveboxes have emerged as surprisingly powerful and enjoyable tools for electronic music producers, according to a recent review by The Verge. Despite their low price point, the devices offer a robust feature set that rivals more expensive models such as the Digitakt, Octatrack, and Tonverk, yet they rarely receive mainstream attention compared to brands like Teenage Engineering or Telepathic Instruments.\n\nThe Verge writer notes that many newcomers to groovebox production gravitate toward well‑known names such as Korg, but the Model series remains a compelling option for those seeking affordability without sacrificing creative flexibility. Even as the writer’s own collection expanded to include higher‑end gear, the Model line continues to serve as a reliable foundation for experimentation and workflow.\n\nIn summary, The Verge article highlights that Elektron’s budget‑friendly grooveboxes deliver substantial functionality and enjoyment, making them a worthwhile consideration for producers at any stage of their musical journey.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 23:01:53",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-262",
+    "title": "Leon Marchand wins 200m butterfly gold at European Championships",
+    "slug": "leon-marchand-wins-200m-butterfly-gold-at-european-championships",
+    "content": "French swimmer Léon Marchand claimed gold in the 200‑metre butterfly at the European Championships on Saturday, taking the final in Paris with a time that secured him the top spot on the podium. The event, held at the Stade de France Aquatic Centre, saw Marchand outpace a field of Europe’s best, delivering a performance that underscored his status as one of the continent’s leading butterfly specialists.\n\nThe win marks Marchand’s first European title in the discipline, adding to his growing résumé that already includes national and international medals. His victory comes amid a strong showing for France at the championships, where the host nation has been aiming to boost its medal tally across swimming events. The 200‑metre butterfly final was a highlight of the meet, drawing a large audience and media attention.\n\nWith the European Championships now behind him, Marchand will look ahead to upcoming international competitions, including the World Championships and the Olympic Games. His triumph in Paris not only cements his place among Europe’s elite swimmers but also provides a boost for French swimming as it prepares for future global contests.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/15/2026 23:01:48",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260815-261",
     "title": "Erdogan says Egypt may join Turkey‑Saudi‑Pakistan defence pact",
     "slug": "erdogan-says-egypt-may-join-turkey-saudi-pakistan-defence-pact",
