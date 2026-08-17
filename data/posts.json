@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260817-472",
+    "title": "Former SpaceX Engineers Build Robotic Steel Factory",
+    "slug": "former-spacex-engineers-build-robotic-steel-factory",
+    "content": "Tech firm Horizon Robotics announced today that it is pursuing a flexible, incremental strategy for autonomous vehicle development rather than a rigid, dogmatic path to full autonomy. “We're not necessarily building in a dogmatic fashion towards full autonomy,” said Horizon’s Chief Technology Officer, Maya Patel, during a press briefing in San Francisco. The statement clarified that the company will continue to roll out advanced driver‑assist features while gradually expanding its autonomous capabilities in controlled environments.\n\nHorizon’s approach emphasizes iterative testing, data‑driven validation, and close coordination with regulatory bodies. The company plans to deploy Level 3 autonomous systems on its fleet of delivery vans in selected urban corridors by the end of 2026, with a phased expansion to Level 4 operations in high‑density markets over the next two years. By prioritizing safety metrics and real‑world performance, Horizon aims to reduce risk while gathering the extensive telemetry required to refine its algorithms before any full‑autonomy launch.\n\nIndustry analysts note that Horizon’s stance aligns with a broader trend among automotive and robotics firms that favor measured progress over rapid, untested deployment. The company’s strategy is expected to influence how regulators and insurers assess autonomous technology, potentially setting new standards for gradual, evidence‑based rollout in the emerging mobility sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 4:11:56",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-471",
+    "title": "US vaccination rates drop as exemption numbers rise, CDC data shows",
+    "slug": "us-vaccination-rates-drop-as-exemption-numbers-rise-cdc-data-shows",
+    "content": "The Centers for Disease Control and Prevention (CDC) has again opted to release new health data without issuing a full written report. Instead of a traditional publication, the agency posted the information directly on its website, making the raw figures and associated metadata available for download. This approach mirrors a recent precedent in which the CDC disseminated data on a rising infectious disease trend via an online dashboard rather than a formal report.\n\nThe dataset includes case counts, geographic distribution, and demographic breakdowns for the past twelve months. It is accompanied by a brief explanatory note that outlines the methodology used to compile the figures, but it does not provide the extended analysis or contextual commentary typically found in a comprehensive report. Public health officials and researchers can access the information immediately, yet the absence of a narrative synthesis may limit the ability of policymakers to interpret the trends without further independent analysis.\n\nBy choosing an online release, the CDC has prioritized rapid data availability over a detailed interpretive document. Stakeholders will need to consult the raw numbers directly and may seek additional guidance from supplementary resources or future publications. The move underscores the agency’s emphasis on timely data sharing, while also highlighting the trade‑off between speed and depth of analysis.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 4:11:51",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-470",
+    "title": "Trial begins for man accused of killing Tupac Shakur",
+    "slug": "trial-begins-for-man-accused-of-killing-tupac-shakur",
+    "content": "Prosecutors in a Los Angeles criminal case have asserted that former NFL player Duane “Keffe D” Davis served as the “on‑site commander” for the 1996 drive‑by shooting that killed rap icon Tupac Shakur. The indictment, unsealed this week, alleges that Davis coordinated the attack that took place on the night of September 7, 1996, on the intersection of Flamingo Road and Kato Road in Las Vegas, Nevada, and that he directed the gunmen who opened fire on Shakur’s vehicle, leading to the artist’s death six days later.\n\nThe charges stem from a renewed investigation into the long‑standing murder, which has remained unsolved for more than two decades. Prosecutors say newly obtained witness statements and forensic evidence link Davis to the planning and execution of the crime, positioning him as the primary organizer on the scene. If convicted, Davis faces a potential life sentence. The case is expected to proceed to trial later this year, marking a significant development in the effort to resolve one of the most high‑profile unsolved homicides in recent American history.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 4:11:46",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-468",
     "title": "Labrador Sea Supplies Oxygen to Deep North Atlantic Life",
     "slug": "labrador-sea-supplies-oxygen-to-deep-north-atlantic-life",
@@ -5464,39 +5497,6 @@
     "categorySlug": "sports",
     "publishedAt": "8/15/2026 22:34:13",
     "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-259",
-    "title": "Trump Family Crypto Company Receives Conditional Banking Approval",
-    "slug": "trump-family-crypto-company-receives-conditional-banking-approval",
-    "content": "Crypto Firm Partially Owned by Trump Family Receives Conditional Approval for Bank Charter\n\nIn a significant development, World Liberty Trust Co., a cryptocurrency firm partially owned by President Trump's family, has received preliminary conditional approval for a national trust bank charter from the Office of the Comptroller of the Currency (OCC). The OCC granted the conditional approval in a letter posted on its website, marking a crucial step towards the firm's bid to establish a fully-fledged bank. \n\nAccording to the OCC, the conditional approval is subject to several conditions and requirements, which World Liberty Trust Co. must meet before the charter can be finalized. The OCC has specified that the firm must demonstrate its ability to comply with banking regulations and laws, as well as establish robust risk management and compliance procedures. The OCC's decision to grant conditional approval is seen as a significant milestone, as it brings the firm one step closer to becoming a fully-fledged bank.\n\nThe conditional approval has sparked interest in the cryptocurrency and banking sectors, with many observers watching closely to see how World Liberty Trust Co. will navigate the regulatory requirements and establish itself as a legitimate banking entity. The OCC's decision is also seen as a significant development in the ongoing debate about the regulation of cryptocurrency firms and their potential to become mainstream banking institutions.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/15/2026 22:33:59",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-258",
-    "title": "Dark Photon Hypothesis Challenged in Early Universe Research",
-    "slug": "dark-photon-hypothesis-challenged-in-early-universe-research",
-    "content": "A recent study published in Physical Review Letters has shed new light on the properties of dark matter, a mysterious and invisible form of matter that is thought to make up approximately 27% of the universe's mass-energy density. The research focuses on the \"dark photon,\" a hypothetical particle that has been considered a leading candidate for dark matter. According to previous theories, the dark photon would have interacted with normal matter in the early universe, causing it to heat up.\n\nHowever, the new paper reveals that this is not the case. The study suggests that the dark photon would not have heated the early universe as previously thought, which has significant implications for the search for dark matter. This finding opens up a vast region for experimental searches, as it implies that dark matter may be more elusive and difficult to detect than previously assumed. The discovery could potentially change the direction of the hunt for dark matter, as scientists may need to rethink their strategies and develop new methods to detect and study this enigmatic form of matter.\n\nThe revised understanding of the dark photon's properties is a significant development in the field of astrophysics and cosmology. As scientists continue to explore the nature of dark matter, this new information will likely play a crucial role in shaping the course of future research. With the search for dark matter ongoing, the findings of this study will undoubtedly contribute to a deeper understanding of the universe and its many mysteries, ultimately bringing us closer to uncovering the truth about this elusive and intriguing phenomenon.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/15/2026 22:33:42",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-257",
-    "title": "AI in Software Development",
-    "slug": "ai-in-software-development",
-    "content": "**Global AI Development Hits a Roadblock Amid Concerns Over Safety and Control**\n\nThe rapid advancement of artificial intelligence (AI) has been a subject of fascination and debate in recent years, with many experts predicting its transformative impact on various industries. However, a growing number of voices are now expressing concerns over the safety and control of AI development. A recent discussion on the Y Combinator news forum has highlighted the need for a more cautious approach to AI development, with many experts warning that the current pace of progress may be unsustainable.\n\nThe comments section of the forum post, which has garnered over 30 points and 39 comments, features a mix of opinions from experts in the field. Some have expressed concerns over the lack of transparency and accountability in AI development, while others have highlighted the potential risks of AI systems becoming uncontrollable. The discussion has also touched on the need for more investment in AI safety research and the importance of developing regulatory frameworks to govern AI development. Despite the differing opinions, the consensus is clear: the AI community must come together to address the pressing concerns surrounding AI development.\n\nAs the world continues to grapple with the implications of AI, it is clear that a more nuanced approach to development is needed. By acknowledging the potential risks and challenges associated with AI, the global community can work towards creating a safer and more controlled environment for AI development. This requires collaboration among governments, industry leaders, and experts in the field to establish clear guidelines and regulations for AI development, ultimately ensuring that the benefits of AI are realized while minimizing its risks.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 22:33:31",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
