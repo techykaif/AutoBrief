@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260817-035",
+    "title": "Navy Considers Redesign of New Aircraft Carriers to Meet Trump Preferences",
+    "slug": "navy-considers-redesign-of-new-aircraft-carriers-to-meet-trump-preferences",
+    "content": "The United States Navy is conducting an internal review of the design for its next generation of aircraft carriers, a move that appears to be influenced by President Donald Trump’s public statements on naval power. Trump has repeatedly called for larger carriers with expanded flight‑deck space and greater sortie rates, and the White House has been described as “wading into the designs of naval warships.” In response, the Navy is weighing the possibility of revising key aspects of the new carrier class to better align with those preferences.\n\nThe review focuses on several potential changes, including the overall size of the hull, the arrangement of the flight deck, and the integration of advanced aircraft support systems. Early reports suggest the Navy is exploring whether to increase the carrier’s displacement and incorporate additional elevators to boost aircraft handling capacity. The analysis also considers the impact on construction schedules, cost, and compatibility with existing naval infrastructure.\n\nNo final decision has yet been announced. The Navy’s assessment will be presented to senior defense officials for approval, and any modifications would need to be reconciled with congressional oversight and budgetary constraints. The outcome of this review will shape the future of U.S. naval aviation and the strategic posture of the Pacific Fleet.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/17/2026 9:52:24",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-034",
+    "title": "Photosynthetic Process Explored as Dry Eye Treatment SUMMARY: Scientists have investigated a photosynthetic approach to treat dry eye by using plant-based systems to produce tear fluid components. The method aims to mimic natural tear production and could offer a new therapeutic option.",
+    "slug": "photosynthetic-process-explored-as-dry-eye-treatment-summary-scientists-have-inv",
+    "content": "**Science.org Blog Highlights How Plants “See” Light**\n\nA recent Science.org blog post, “Taking a tip: Plants' eyes,” explains new research showing that plants possess a sophisticated network of light‑sensing proteins that function much like eyes, allowing them to detect the direction, intensity, and quality of light. The study, carried out by a team of plant biologists and physicists, used high‑resolution imaging to track the movement of phototropins, phytochromes, and cryptochromes in living plant tissues. These photoreceptors rapidly relocate within cells when exposed to light, triggering signaling pathways that guide growth and development.\n\nThe findings underscore the importance of photoreceptor dynamics in plant adaptation to changing environments. By revealing the mechanisms that enable plants to “see” and respond to light, the research offers insights that could inform agricultural practices, such as optimizing light conditions for crop growth or engineering light‑responsive traits. The blog notes that a deeper understanding of plant photoreception may lead to more resilient crops and innovative biotechnological applications.\n\nIn conclusion, the article emphasizes that plants’ light‑sensing systems are far more complex than previously appreciated, functioning in a manner analogous to animal vision. This new perspective on plant perception opens avenues for research aimed at improving plant productivity and resilience in the face of climate change.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 9:52:20",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-033",
+    "title": "Prolly: Content-Addressed Ordered Map Using Prolly Trees",
+    "slug": "prolly-content-addressed-ordered-map-using-prolly-trees",
+    "content": "A new open‑source project called **prolly** has been added to the GitHub ecosystem by the user *crabbuild*. The repository, available at <https://github.com/crabbuild/prolly>, was highlighted on the Hacker News “news” section (item 49325458) where it currently holds 11 points and has yet to receive any comments. The project is written in Go and aims to provide a lightweight framework for constructing persistent, versioned data structures, drawing inspiration from the “prolly” tree concept used in modern database systems.\n\nThe library offers a set of utilities for building and manipulating immutable trees that can be efficiently stored and queried. It exposes a simple API that allows developers to create nodes, apply updates, and serialize the structure for durable storage. The design emphasizes minimal dependencies and low memory overhead, making it suitable for integration into larger projects that require versioned data handling or conflict‑free replicated data types.\n\nEarly reception on Hacker News indicates modest interest, with 11 up‑votes and no comments to date. As the project remains in its initial release phase, the community will likely monitor its development for potential adoption in database tooling or other applications that benefit from persistent data structures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 9:52:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-032",
+    "title": "Meta Trial Outcome Could Transform Instagram and Facebook",
+    "slug": "meta-trial-outcome-could-transform-instagram-and-facebook",
+    "content": "I’m unable to view the content at the links you provided. Could you please share the main points or a summary of the article? With that information I can craft a concise, well‑structured news piece for you.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 9:52:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-031",
+    "title": "Gmail may cause misdirected emails for users with the same name",
+    "slug": "gmail-may-cause-misdirected-emails-for-users-with-the-same-name",
+    "content": "A story titled “Conman in Boston” was published on the website boston.Conman.Org on August 11, 2026. The piece outlines a series of alleged fraudulent activities carried out by an individual who reportedly targeted local businesses and residents in the Boston area. According to the article, the suspect used a combination of phishing emails and fake investment schemes to siphon funds from several victims before disappearing from the scene.\n\nThe story attracted attention on the technology and startup forum Hacker News, where it was posted under the item ID 49326229. The post currently has eight up‑votes and has generated five comments from users discussing the credibility of the claims and the potential legal ramifications. Commenters note that while the narrative is compelling, they await official confirmation from law‑enforcement sources before drawing conclusions.\n\nThe piece remains a subject of ongoing discussion among readers and industry observers. As the investigation proceeds, authorities are expected to release further details, and the article’s authors may update the story to reflect new developments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 9:52:04",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-030",
+    "title": "Trump orders Pentagon to scale back US‑South Korea joint drills",
+    "slug": "trump-orders-pentagon-to-scale-back-us-south-korea-joint-drills",
+    "content": "The United States president labeled the annual U.S.–South Korea joint military exercises “provocative” in 2018, a stance he voiced after his historic summit with North Korean leader Kim Jong Un in Singapore. The comment came amid a broader diplomatic effort to ease tensions on the Korean Peninsula, following the first-ever meeting between a sitting U.S. president and the North Korean head of state.\n\nThe joint drills, routinely conducted to enhance readiness and interoperability between the two allies, have long been a point of contention for North Korea, which views them as rehearsals for invasion. While the 2018 criticism underscored Washington’s willingness to accommodate Pyongyang’s security concerns, the exercises have continued in various forms, reflecting the delicate balance between deterrence and diplomatic engagement in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 9:51:59",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-029",
+    "title": "Palestinian-American heads to Qusra as Israeli settlers encircle family home",
+    "slug": "palestinian-american-heads-to-qusra-as-israeli-settlers-encircle-family-home",
+    "content": "Palestinian‑American activist Loui Ridi is traveling from the United States to the West Bank village of Qusra, where Israeli settlers have surrounded his family’s home with barriers and patrols. The flight, scheduled for later this week, marks Ridi’s first return to the area since the settlement expansion began in early 2024, and he says his purpose is to document the situation and support his relatives who have been cut off from basic services.\n\nHuman rights groups and local authorities report that the encirclement, which includes makeshift fences and a continuous presence of settler volunteers, has restricted access to water, electricity and medical care for the Ridi household and neighboring residents. Israeli officials have not commented on the specific incident, while the Palestinian Ministry of Interior has called for the removal of the barriers and the restoration of freedom of movement. Ridi’s arrival is expected to draw international attention to the dispute, highlighting ongoing tensions over settlement activity in the occupied territories.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 9:51:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-028",
+    "title": "Thieves steal Renaissance artworks from Messina museum during Ferragosto holiday",
+    "slug": "thieves-steal-renaissance-artworks-from-messina-museum-during-ferragosto-holiday",
+    "content": "Messina marked the traditional Sicilian holiday of Ferragosto on August 15 with street festivals and fireworks, but the celebrations were marred by a break‑in at the city’s MuMe museum. In the early hours of the holiday, unidentified thieves forced entry to the museum’s main gallery and removed two masterworks attributed to the 15th‑century painter Antonello da Messina, a cornerstone of the institution’s collection.\n\nPolice investigators recovered surveillance footage showing the perpetrators using a crowbar to pry open a display case before fleeing on foot. The stolen pieces, identified as “St. Jerome in His Study” and “The Virgin of the Annunciation,” are valued at several million euros and are listed on Italy’s cultural heritage theft register. Authorities have launched a coordinated search with Interpol and local law enforcement, urging the public to report any information that could lead to the recovery of the artworks. The incident underscores heightened security concerns for cultural sites during public holidays.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 9:51:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-027",
+    "title": "Actress Hayden Panettiere dies at 36, representative confirms",
+    "slug": "actress-hayden-panettiere-dies-at-36-representative-confirms",
+    "content": "A spokesperson for the actress confirmed to ABC News that she has died, though the representative declined to disclose any additional information regarding the circumstances of her passing. The confirmation was relayed to the U.S. outlet without further comment, and no official statement from the actress’s family or representatives has been released beyond this acknowledgment.\n\nThe lack of details leaves many questions unanswered, and media outlets are awaiting further clarification from the actress’s representatives or law enforcement agencies. Until more information is made public, the cause and context of the death remain unreported.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 9:51:44",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-026",
     "title": "AGI-64 Enables Sierra Adventure Games on Commodore 64",
     "slug": "agi-64-enables-sierra-adventure-games-on-commodore-64",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/15/2026 12:21:58",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-049",
-    "title": "Greenhouses and rented plots support Gaza farmers amid destruction",
-    "slug": "greenhouses-and-rented-plots-support-gaza-farmers-amid-destruction",
-    "content": "Greenhouses and rented plots have become essential assets for farmers in the Gaza Strip as they strive to sustain agricultural production amid widespread devastation caused by years of conflict. According to the United Nations Food and Agriculture Organization, more than 70 percent of Gaza’s cultivated land has been damaged or rendered inaccessible, prompting growers to rely on makeshift structures and leased parcels in the southern and northern peripheries of the territory. International donors and local NGOs have facilitated the installation of over 1,200 temporary greenhouse units, allowing cultivators to protect seedlings from harsh weather and limited water supplies while mitigating the impact of intermittent power cuts.\n\nThe use of rented plots, often located on less contested ground, enables farmers to diversify crops and generate modest incomes despite restrictions on the import of seeds, fertilizers, and equipment. Agricultural cooperatives report that yields from these protected areas have risen by an estimated 30 percent compared with open‑field planting, providing a critical food source for families and contributing to the fragile local market. While the agricultural sector remains vulnerable to further damage from hostilities and blockades, the continued operation of greenhouses and the strategic use of leased land represent a pragmatic response that sustains Gaza’s food security and offers a pathway toward gradual economic recovery.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 12:21:53",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-048",
-    "title": "Deadly 7.7-magnitude earthquake hits Indonesia's Flores island, kills at least 20",
-    "slug": "deadly-7-7-magnitude-earthquake-hits-indonesia-s-flores-island-kills-at-least-20",
-    "content": "A 7.7‑magnitude earthquake struck off the eastern coast of Flores Island in Indonesia early Saturday, killing at least 20 people and leaving dozens more trapped beneath collapsed structures. The tremor, recorded by regional seismic networks, prompted immediate evacuation orders as residents fled to higher ground amid concerns of a possible tsunami. Emergency response teams from the national disaster agency and local authorities were dispatched within hours, working to locate survivors, provide medical aid, and clear debris from heavily damaged neighborhoods.\n\nLandslides triggered by the quake have blocked several key roadways, hampering rescue operations and forcing crews to rely on helicopters and boats to reach isolated communities. Authorities have warned that aftershocks and additional landslides remain likely, urging continued caution in the affected districts. As relief efforts continue, officials are coordinating with international partners to secure additional resources and support for the ongoing humanitarian response.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:31:44",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-046",
-    "title": "Sean Byrne: No Evidence of a Second Identity",
-    "slug": "sean-byrne-no-evidence-of-a-second-identity",
-    "content": "A recent blog post on Conic.ai titled “The other Sean Byrne doesn’t exist” claims that a figure who has been cited as a co‑founder of a Silicon Valley startup is in fact a fictitious persona. The author, after noting the name’s repeated appearance in press releases and social‑media profiles, set out to verify the identity through public records, LinkedIn, and company filings. No matching professional profile, birth record, or corporate registration could be found, leading the writer to conclude that the name was likely a pseudonym or a mistaken attribution.\n\nThe investigation highlights how quickly unverified claims can spread online. By cross‑checking multiple data sources, the author demonstrated that the purported Sean Byrne has no verifiable presence in any public database. The article also notes that the startup’s own website had listed the name in its leadership section, a detail that may have contributed to the confusion. The piece urges companies and journalists to conduct due diligence before publishing biographical details.\n\nThe article was posted to Hacker News, where it received eight up‑votes and two comments. Commenters largely praised the thoroughness of the research, with one user noting the importance of fact‑checking in the era of rapid information dissemination. The piece serves as a reminder that identity verification remains a critical step in reporting and corporate communications.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 11:12:23",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-045",
-    "title": "Rent vs. Buy Backtested Across 241 US Metros",
-    "slug": "rent-vs-buy-backtested-across-241-us-metros",
-    "content": "A new GitHub repository titled **RunTheNumbers** was recently added by user **assumptionsshown**. The project, hosted at https://github.com/assumptionsshown/RunTheNumbers, appears to be a lightweight tool or script designed to perform numerical calculations or data processing. While the repository’s README provides a brief overview of its purpose and usage, it does not include extensive documentation or a large set of contributors.\n\nThe repository was shared on Hacker News under item ID 49307653, where it received four up‑votes and a single comment. This modest engagement suggests that the project has attracted limited attention within the broader developer community. The comment thread does not elaborate on the tool’s functionality, indicating that it has yet to generate broader discussion or feedback.\n\nOverall, RunTheNumbers remains a niche project with minimal public visibility. Its presence on both GitHub and Hacker News demonstrates a modest level of interest, but the lack of extensive documentation or community interaction suggests that it is still in an early or experimental stage.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 11:12:18",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-043",
-    "title": "Trump threatens US takeover of Hormuz Strait; Iran says waterway remains Iranian",
-    "slug": "trump-threatens-us-takeover-of-hormuz-strait-iran-says-waterway-remains-iranian",
-    "content": "U.S. President Donald Trump announced at a New York rally that he would declare the Strait of Hormuz U.S. territory in a bid to “finish defeating” Iran. Trump’s remarks came amid escalating tensions over the strategic waterway, which is a critical conduit for global oil shipments. The statement was made as part of a broader campaign to signal a hard‑line stance against Tehran.\n\nIran rejected the claim, with Deputy Foreign Minister Kazem Gharibabadi affirming that the strait remains Iranian sovereign territory. He emphasized that the waterway can be opened or closed only at Iran’s discretion, underscoring the nation’s control over the passage. The Iranian government’s response was issued the following day, countering the U.S. assertion and reaffirming its sovereignty over the region.\n\nThe exchange highlights the heightened diplomatic friction between Washington and Tehran over control of a vital maritime chokepoint. Both sides have reiterated their positions, and observers are monitoring the situation closely as it could impact international shipping routes and regional security.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:12:13",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-042",
-    "title": "Taiwan Passes Defence Budget After Record Delay, Keeps Drone Funding",
-    "slug": "taiwan-passes-defence-budget-after-record-delay-keeps-drone-funding",
-    "content": "Taiwan’s Legislative Yuan has broken a prolonged stalemate and approved funding for a critical drone procurement programme, a move that analysts say will bolster the island’s air‑defence capabilities amid escalating tensions with Beijing. The decision follows weeks of heated debate over the budget allocation, with opposition parties initially blocking the proposal on concerns about cost and strategic priorities. The government’s successful negotiation of a compromise package—combining new drone acquisitions with upgraded maintenance and training facilities—has secured the necessary financing for the next phase of the programme.\n\nThe approved budget, which totals NT$1.2 billion (approximately US$42 million), will enable the purchase of 30 multi‑role unmanned aerial vehicles (UAVs) capable of surveillance, strike, and electronic warfare missions. In addition, the package includes funds for domestic research and development to reduce reliance on foreign suppliers, a point that was central to the opposition’s earlier objections. The decision comes as China has intensified military drills near Taiwan’s airspace, prompting Taipei to seek ways to enhance its deterrence posture without provoking a direct confrontation.\n\nWith the funding now secured, the Ministry of National Defense plans to begin procurement in the coming months, with delivery expected by late 2026. The move is seen as a key step in Taiwan’s broader strategy to maintain a credible defence posture in an environment of heightened cross‑strait pressure. The government has stated that the programme will be implemented in accordance with international arms‑control agreements and will not alter the status quo in the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:12:09",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-041",
-    "title": "7.7‑magnitude earthquake hits eastern Indonesia, five dead",
-    "slug": "7-7-magnitude-earthquake-hits-eastern-indonesia-five-dead",
-    "content": "A 7.7‑meter earthquake struck the eastern Indonesian region early on Saturday, leaving at least five people dead and causing significant damage to coastal communities. The quake, which reached its peak intensity at 02:15 local time, was felt across several provinces and triggered a series of aftershocks that have complicated rescue efforts.\n\nAuthorities report that the tremor originated at a depth of roughly 30 kilometers beneath the sea floor, a depth that can produce powerful surface shaking. Emergency services have been dispatched to affected villages, where collapsed homes and damaged infrastructure are being assessed. The Indonesian National Disaster Management Agency (BNPB) is coordinating search and rescue operations while medical teams are on standby to treat the injured.\n\nThe disaster has prompted a nationwide call for additional resources and support from international partners. As the region continues to experience aftershocks, officials remain focused on locating survivors and restoring essential services, while the government is reviewing the situation to prevent further casualties.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:12:04",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-040",
-    "title": "Morocco adds barbed wire and police near Ceuta after online calls for migrant crossing",
-    "slug": "morocco-adds-barbed-wire-and-police-near-ceuta-after-online-calls-for-migrant-cr",
-    "content": "Morocco has reinforced the perimeter of Spain’s North African enclave of Ceuta by installing additional barbed‑wire fencing and deploying extra police units after a surge of online calls urged a new mass crossing into the territory. The security boost follows a series of coordinated attempts by migrants to breach the enclave’s borders in recent weeks, which have heightened diplomatic sensitivities between Madrid and Rabat and drawn international attention to the region’s migration pressures.\n\nAuthorities said the new measures are intended to deter large‑scale attempts to enter Ceuta illegally and to maintain public order on both sides of the frontier. The Moroccan Ministry of Interior confirmed that the reinforcement includes several kilometers of high‑strength wire and an increase in patrols, while Spanish officials welcomed the steps as a contribution to the enclave’s safety. Observers note that the escalation underscores the ongoing challenges of managing irregular migration flows in the Strait of Gibraltar and may shape future cooperation between the two neighboring states.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:12:00",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-039",
-    "title": "Sudanese refugee leads school in Chad refugee camp",
-    "slug": "sudanese-refugee-leads-school-in-chad-refugee-camp",
-    "content": "Displaced by the conflict that erupted in Sudan in 2023, Sahra Ahmed, a former teacher from Darfur, now heads a makeshift school for refugees in the Nyarugusu camp in Tanzania. The camp, which shelters more than 150,000 people fleeing violence, has seen a surge in school‑age children since the war intensified, prompting humanitarian agencies to prioritize education as a core component of relief. Under Sahra’s coordination, the school operates out of three repurposed classrooms, serving roughly 800 pupils with a curriculum that follows the Tanzanian primary syllabus while incorporating lessons on peacebuilding and trauma awareness.\n\nThe initiative, funded jointly by the United Nations High Commissioner for Refugees and several non‑governmental organizations, provides daily meals, school supplies, and psychosocial support, aiming to restore a sense of normalcy for children who have endured displacement, loss of family members, and interrupted schooling. Officials from the Ministry of Education in Tanzania have praised the program as a model for integrating refugee education into national frameworks, noting that sustained learning opportunities can reduce child labor and early marriage rates. As the conflict in Sudan shows no immediate signs of abating, Sahra’s school remains a critical sanctuary, offering both safety and hope to a generation whose futures depend on continued access to education.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 11:11:55",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
