@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260817-203",
+    "title": "Self‑hosted email usage drops sharply in Tranco top 1M domains",
+    "slug": "self-hosted-email-usage-drops-sharply-in-tranco-top-1m-domains",
+    "content": "Artem Berezin, a researcher at the RIPE Labs, released a new analysis of the Tranco top‑1 million domain list that highlights two dominant email‑service providers, a persistent plateau in domain‑age distribution, and an unusually long tail of email addresses. By parsing the Tranco dataset, Berezin identified that a pair of providers account for a disproportionately large share of the most frequently accessed domains, suggesting a concentration of web traffic that could influence both search engine ranking and cybersecurity risk assessment.\n\nThe study also uncovered a “stubborn plateau” in the age distribution of domains, indicating that a significant portion of the top‑ranked sites have been active for a similar length of time, which may reflect a stabilization of the online ecosystem or a bottleneck in domain renewal practices. In addition, Berezin’s work revealed a very long tail of email addresses associated with these domains, pointing to a wide variety of user‑generated or low‑profile accounts that persist alongside the major providers. These findings provide a nuanced view of how domain ownership and email usage are distributed across the internet’s most visited sites.\n\nOverall, the analysis underscores the concentration of web traffic around a few key providers while also highlighting the diversity of email usage at the margins of the top domain list. The insights could inform future studies on internet infrastructure resilience, the impact of domain concentration on search engine optimization, and the design of more effective email‑security policies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 18:41:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-194",
     "title": "From being single to soaring costs and war: Why Iranian women are freezing their eggs",
     "slug": "from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their",
@@ -5485,17 +5496,6 @@
     "category": "Health",
     "categorySlug": "health",
     "publishedAt": "8/15/2026 18:32:44",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-159",
-    "title": "Saunas and Ice Baths Impact on Male Fertility",
-    "slug": "saunas-and-ice-baths-impact-on-male-fertility",
-    "content": "The Rise of \"Maxxing\": A Self-Improvement Phenomenon\n\nThe internet has witnessed a significant surge in the trend of \"maxxing,\" a term coined to describe the pursuit of optimal physical, mental, and emotional performance. This self-improvement phenomenon has permeated every aspect of modern life, from fitness and nutrition to productivity and relationships. Social media platforms are flooded with influencers and enthusiasts showcasing their rigorous routines, cutting-edge supplements, and high-tech gadgets, all aimed at achieving peak human potential.\n\nAt its core, maxxing is about pushing oneself to the limit, often through extreme measures. Fitness enthusiasts engage in grueling workout regimens, while others adopt strict diets and supplement regimens to enhance their physical performance. Similarly, productivity enthusiasts employ advanced tools and techniques to optimize their work habits, while some individuals focus on mental and emotional well-being through meditation, mindfulness, and self-reflection. As a result, the lines between healthy habits and obsessive behaviors have become increasingly blurred.\n\nThe maxxing trend has sparked both fascination and concern, with some hailing it as a revolutionary approach to self-improvement and others warning of its potential risks, such as burnout, injury, and mental health issues. As the internet continues to fuel this phenomenon, it remains to be seen whether maxxing will lead to lasting benefits or become just another fleeting trend in the world of self-improvement.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/15/2026 18:32:39",
     "author": "Medical Xpress",
     "isFeatured": false
   }
