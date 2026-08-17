@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260817-484",
+    "title": "Bluesky Adds Logo to Screenshots",
+    "slug": "bluesky-adds-logo-to-screenshots",
+    "content": "Tim Marinin recently posted a series of screenshots that give a detailed look at Bluesky, the decentralized micro‑blogging platform that has been developing behind a closed‑beta. The images, released on his personal site, showcase the platform’s main feed, user profiles, and settings menu, highlighting a clean, card‑based layout that emphasizes readability and user control. Marinin notes that the design appears to be a direct evolution of earlier prototypes, with a focus on modularity and easy navigation.\n\nKey features illustrated in the screenshots include a customizable timeline, a “boost” button that mirrors Twitter’s retweet function, and an expanded moderation panel that allows users to filter content by keyword or source. The interface also offers a new “Spaces” section for live audio discussions, a feature that has been under development since the platform’s announcement. Marinin points out that the screenshots reveal a commitment to an open‑source codebase, with GitHub links embedded in the interface for developers to contribute. The article places Bluesky’s design in the context of its broader mission to create a more transparent, user‑centric social network, noting that the platform is still in beta and has yet to launch a full public release.\n\nThe post has sparked discussion on Hacker News, where it has accumulated 44 points and 26 comments. Readers have debated the potential of Bluesky’s decentralized model, the effectiveness of its moderation tools, and the platform’s readiness for a wider audience. Marinin’s visual overview provides a useful snapshot for those following the project’s progress and assessing its design choices as it moves toward a broader rollout.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 4:31:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-483",
+    "title": "Colombia moves to recovery a week after deadly earthquake",
+    "slug": "colombia-moves-to-recovery-a-week-after-deadly-earthquake",
+    "content": "A magnitude‑6.2 earthquake struck the southwestern department of Cauca in Colombia on August 10, killing at least 45 people, injuring more than 200 and leaving thousands homeless. Search and rescue teams from the National Police, the military, and international partners worked continuously for the first 48 hours, extracting survivors from collapsed homes and clearing debris from main thoroughfares in the towns of Popayán and Santander de Quilichao. The Colombian government declared a state of emergency, mobilizing the National Unit for Disaster Risk Management and allocating emergency funds to support immediate relief operations.\n\nOne week after the tremor, authorities have shifted focus from rescue to providing shelter, food, medical care and initiating reconstruction. Temporary housing units have been erected in designated camps, while the Ministry of Health distributes medicines and mental‑health services to affected families. The United Nations Office for the Coordination of Humanitarian Affairs and several NGOs are coordinating the delivery of food parcels and clean water, and the Ministry of Housing has launched a rapid‑assessment program to evaluate structural damage and prioritize rebuilding of schools and health centers. Officials say the coordinated effort aims to restore basic services and support long‑term recovery in the quake‑hit region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 4:31:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-472",
     "title": "Former SpaceX Engineers Build Robotic Steel Factory",
     "slug": "former-spacex-engineers-build-robotic-steel-factory",
@@ -5475,28 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/15/2026 23:01:48",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-261",
-    "title": "Erdogan says Egypt may join Turkey‑Saudi‑Pakistan defence pact",
-    "slug": "erdogan-says-egypt-may-join-turkey-saudi-pakistan-defence-pact",
-    "content": "Ankara’s President Recep Tayyip Erdogan told Al Jazeera in a televised interview that the agreement his government signed last week remains open to additional participants. The pact, which was concluded on Tuesday between Turkey and a group of regional partners, is intended to bolster cooperation on security, migration management and economic development across the eastern Mediterranean and neighboring areas. Erdogan emphasized that the framework is designed to be inclusive, inviting any interested nation to join the initiative without compromising its core objectives.\n\nThe president also pledged that Turkey will continue to provide political, logistical and financial support to the agreement’s implementation, underscoring the country’s commitment to regional stability. He indicated that forthcoming meetings will outline the process for prospective members to accede, and that Turkey will work with existing signatories to ensure the pact’s operational effectiveness. The announcement signals Ankara’s intention to expand the coalition’s reach while maintaining the momentum of the newly established partnership.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/15/2026 23:01:43",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-260",
-    "title": "Women's Cricket in Bradford Captured in Photo Essay",
-    "slug": "women-s-cricket-in-bradford-captured-in-photo-essay",
-    "content": "Women's Cricket Gains Attention and Representation through Photography Project\n\nA photography project, Wicket, has captured the essence of women's cricket in Bradford, shedding light on the rapidly growing interest in the sport. Led by Nathan McGill, a recipient of the Royal Photographic Society's Eamonn McCabe bursary, the project focused on Bradford Park Avenue Ladies Cricket Club, resulting in a profound and extended engagement with the team. The initiative is part of a broader effort to document women's cricket, an area where visual culture often lags behind.\n\nThe project, Wicket, places women and girls at the forefront of its narrative, highlighting their participation, camaraderie, and community. The team, Bradford Park Avenue Ladies, is a reflection of Bradford's diverse social fabric, comprising a range of ages and backgrounds. This visually diverse team is a stark contrast to the traditional, often homogeneous images of cricket that dominate mainstream media. The project's focus on relationships and place has created a rich and nuanced record of women's cricket in Bradford, one that showcases the sport's growing appeal and the women who are driving it forward.\n\nThe success of Wicket is mirrored in the growing interest in women's cricket across the country. Recent records have been set for attendance and viewing figures at major tournaments, including the Women's T20 World Cup and a Test match at Lord's. The project's aim is to contribute to a richer contemporary record of women's cricket, one that reflects the sport's true diversity and appeal. By putting women and girls at the centre of the narrative, Wicket is helping to shape a more inclusive and representative visual culture for the sport.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/15/2026 22:34:13",
-    "author": "Guardian Sport",
     "isFeatured": false
   }
 ]
