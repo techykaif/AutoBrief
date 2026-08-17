@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260815-245",
+    "title": "Ukraine Strikes Russian Rocket Factory with Cruise Missiles",
+    "slug": "ukraine-strikes-russian-rocket-factory-with-cruise-missiles",
+    "content": "A defense ministry spokesperson announced on Thursday that the country’s latest “Flamingo” missile system was successfully deployed during a live‑fire exercise in the western desert. The test, conducted at the Al‑Jazira training base, involved a series of precision strikes on simulated targets and demonstrated the missile’s ability to engage high‑value assets at ranges exceeding 200 km.\n\nThe Flamingo is a short‑to‑medium‑range, air‑to‑ground missile that incorporates an advanced guidance suite combining inertial navigation with satellite augmentation. Its first operational deployment marks a milestone for the domestic aerospace industry, which has been developing the platform for the past five years. Officials highlighted that the exercise validated the missile’s reliability and the integration of its fire‑control systems with existing command‑and‑control networks.\n\nMilitary officials said the successful test will allow the armed forces to incorporate the Flamingo into future operational plans, enhancing deterrence capabilities against potential regional threats. The defense ministry plans to conduct further trials over the coming months to evaluate the system’s performance in varied environmental conditions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 22:12:02",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260815-244",
+    "title": "How to Detect Compromised Accounts on Major AI Platforms",
+    "slug": "how-to-detect-compromised-accounts-on-major-ai-platforms",
+    "content": "A new guide has been released to help users determine whether their accounts on leading artificial‑intelligence services have been compromised by unauthorized actors. The resource, compiled by cybersecurity experts, outlines step‑by‑step procedures for verifying account integrity on platforms such as ChatGPT, Midjourney, Stable Diffusion, and Claude. It advises users to review recent login activity, examine changes to personal settings, and monitor for unexpected usage patterns or billing anomalies that could indicate illicit access.\n\nThe guide also recommends enabling multi‑factor authentication, updating passwords regularly, and contacting platform support if suspicious activity is detected. By following these verification steps, individuals and organizations can quickly identify potential breaches, mitigate further exposure, and reinforce the security of their AI‑driven workflows.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/15/2026 22:11:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260815-243",
     "title": "SpaceX completes acquisition of AI coding startup Cursor",
     "slug": "spacex-completes-acquisition-of-ai-coding-startup-cursor",

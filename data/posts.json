@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260817-414",
+    "title": "AI;DR (AI; Didn't Read)",
+    "slug": "ai-dr-ai-didn-t-read",
+    "content": "A recent article examining the limitations of artificial intelligence in processing and comprehending written text has generated substantial discussion across technology and research communities. Published online and subsequently highlighted on Hacker News, the piece outlines documented cases where AI systems failed to accurately read,",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 2:21:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-413",
+    "title": "Study suggests computer use may exceed family time",
+    "slug": "study-suggests-computer-use-may-exceed-family-time",
+    "content": "A recent post on the personal‑blog platform Bearblog, titled “Will you have spent more of your life with computers than your family?” has attracted attention on the tech‑focused news aggregator Hacker News. The author questions the growing trend of individuals dedicating a larger portion of their daily routines to digital devices than to in‑person family interactions, and invites readers to reflect on how technology shapes personal priorities.\n\nThe article cites a mix of anecdotal evidence and emerging research on screen time, noting that many adults now log several hours a day on computers for work, entertainment, or social networking. It also highlights the psychological and social implications of this shift, including potential impacts on mental health and family cohesion. The post sparked a modest but engaged conversation on Hacker News, where it received 37 up‑votes and 21 comments, with readers debating the balance between professional obligations and personal relationships in an increasingly connected world.\n\nWhile the piece stops short of prescribing solutions, it underscores a broader cultural conversation about the role of technology in everyday life. By framing the issue in a personal narrative, the author encourages readers to assess their own digital habits and consider whether their time spent on computers outweighs the time devoted to family and close relationships.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 2:21:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-394",
     "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
     "slug": "wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-th",
@@ -5475,28 +5497,6 @@
     "categorySlug": "environment",
     "publishedAt": "8/15/2026 22:12:08",
     "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-245",
-    "title": "Ukraine Strikes Russian Rocket Factory with Cruise Missiles",
-    "slug": "ukraine-strikes-russian-rocket-factory-with-cruise-missiles",
-    "content": "A defense ministry spokesperson announced on Thursday that the country’s latest “Flamingo” missile system was successfully deployed during a live‑fire exercise in the western desert. The test, conducted at the Al‑Jazira training base, involved a series of precision strikes on simulated targets and demonstrated the missile’s ability to engage high‑value assets at ranges exceeding 200 km.\n\nThe Flamingo is a short‑to‑medium‑range, air‑to‑ground missile that incorporates an advanced guidance suite combining inertial navigation with satellite augmentation. Its first operational deployment marks a milestone for the domestic aerospace industry, which has been developing the platform for the past five years. Officials highlighted that the exercise validated the missile’s reliability and the integration of its fire‑control systems with existing command‑and‑control networks.\n\nMilitary officials said the successful test will allow the armed forces to incorporate the Flamingo into future operational plans, enhancing deterrence capabilities against potential regional threats. The defense ministry plans to conduct further trials over the coming months to evaluate the system’s performance in varied environmental conditions.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 22:12:02",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-244",
-    "title": "How to Detect Compromised Accounts on Major AI Platforms",
-    "slug": "how-to-detect-compromised-accounts-on-major-ai-platforms",
-    "content": "A new guide has been released to help users determine whether their accounts on leading artificial‑intelligence services have been compromised by unauthorized actors. The resource, compiled by cybersecurity experts, outlines step‑by‑step procedures for verifying account integrity on platforms such as ChatGPT, Midjourney, Stable Diffusion, and Claude. It advises users to review recent login activity, examine changes to personal settings, and monitor for unexpected usage patterns or billing anomalies that could indicate illicit access.\n\nThe guide also recommends enabling multi‑factor authentication, updating passwords regularly, and contacting platform support if suspicious activity is detected. By following these verification steps, individuals and organizations can quickly identify potential breaches, mitigate further exposure, and reinforce the security of their AI‑driven workflows.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/15/2026 22:11:57",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
