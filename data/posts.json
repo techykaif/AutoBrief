@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-561",
+    "title": "UK government warns of possible gas shortage by 2030s",
+    "slug": "uk-government-warns-of-possible-gas-shortage-by-2030s",
+    "content": "Britain’s gas supply is facing a looming crisis, according to a new government assessment that warns of a potential supply shock within the next decade. The report, released after a nationwide consultation, indicates that the country’s ageing pipeline network could fail to meet demand by the 2030s, even as renewable energy sources continue to grow. Ministers are urged to act swiftly, with the assessment calling for “unprecedented” measures to secure the nation’s energy future.\n\nKey findings highlight that a high‑stress scenario—characterised by a rapid decline in gas imports, limited domestic production, and insufficient infrastructure upgrades—could leave households and businesses without reliable gas supplies. The government is now exploring direct financial support to strengthen and modernise the existing gas grid, aiming to mitigate the risk of widespread shortages. This support would target critical infrastructure upgrades, emergency response capabilities, and investment in alternative heating technologies.\n\nThe assessment concludes that without decisive intervention, Britain could face significant energy insecurity, undermining economic stability and public confidence. It calls on ministers to prioritise infrastructure resilience and to implement a comprehensive strategy that balances immediate safeguards with long‑term energy diversification.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/19/2026 0:31:56",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-548",
     "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
     "slug": "garmin-watches-are-up-to-250-off-right-now-on-amazon-2026",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 14:12:08",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-070",
-    "title": "Scammers Exploit Holiday Photos to Send Phishing Emails to Travelers",
-    "slug": "scammers-exploit-holiday-photos-to-send-phishing-emails-to-travelers",
-    "content": "A wave of new phishing attacks has emerged that leverages personal photos shared on social‑media platforms to trick users into revealing banking credentials. In one reported case, a traveler posted a family snapshot with the Douro River in the background while on a short break in Porto. Within days, the victim received a text message claiming that the bank had detected “unusual activity” during the trip and urged immediate verification. The message was followed by an email that mimicked the bank’s logo and used the same travel details, prompting the recipient to log in and provide account numbers and passwords.\n\nSecurity experts explain that fraudsters scan public posts for recognizable landmarks, travel dates, and personal details that can be woven into a convincing narrative. By matching a user’s recent activity with a seemingly legitimate alert, the attackers increase the likelihood that the victim will comply. The emails typically contain a link to a counterfeit login page that harvests credentials, while the text message serves to create urgency. Banks are tightening authentication protocols and issuing alerts that warn customers not to click on links or provide sensitive information in response to unsolicited messages, even if they appear to come from the bank.\n\nFinancial institutions are now encouraging customers to verify any suspicious communication by calling the official hotline or using the bank’s official mobile app, rather than responding to unsolicited emails or texts. Cyber‑security firms advise users to keep social‑media privacy settings restrictive and to be wary of any request for personal data that coincides with recent travel. The trend underscores the growing sophistication of social‑engineering tactics and the need for vigilant, multi‑factor authentication in everyday banking.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/16/2026 14:12:04",
     "author": "Guardian Technology",
     "isFeatured": false
   }
