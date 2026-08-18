@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260816-030",
+    "title": "Yemeni government forces counter Houthi offensive with Saudi-backed strikes",
+    "slug": "yemeni-government-forces-counter-houthi-offensive-with-saudi-backed-strikes",
+    "content": "Yemeni government forces, supported by a Saudi Arabian coalition, launched a counter‑offensive on Saturday after the Houthi rebels initiated fresh attacks in territories under government control in the north‑central governorates of Marib and Al‑Jawf. The response, which included a series of airstrikes and artillery bombardments, targeted Houthi positions that had reportedly advanced toward key supply routes and military outposts, according to statements released by the Yemeni Ministry of Defense and the Saudi-led coalition’s spokesperson. The strikes were said to have hit command centers, weapons depots and vehicle convoys, with preliminary reports indicating several Houthi combatants killed and a number of militants wounded, while the coalition reported no casualties among its own forces.\n\nThe latest round of fighting underscores the fragile security situation in Yemen, where the government and Houthi factions have been locked in a protracted conflict since 2014, with Saudi Arabia providing air and logistical support to the internationally recognized administration. International observers have warned that renewed hostilities threaten to derail ongoing humanitarian aid deliveries and diplomatic efforts aimed at a ceasefire. Both sides have called for a de‑escalation, but the government’s retaliatory strikes signal a continued willingness to use force to repel Houthi advances and maintain control over contested regions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 10:42:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-029",
+    "title": "Australia to launch gun buyback in November after Bondi Beach attack",
+    "slug": "australia-to-launch-gun-buyback-in-november-after-bondi-beach-attack",
+    "content": "Australia has announced a new set of firearms regulations aimed at curbing gun ownership in the wake of the deadly attack on Bondi Beach in Sydney last year. The incident, which left several victims dead and many more injured, prompted federal and state officials to reevaluate existing gun control policies and to propose stricter measures to prevent similar tragedies.\n\nThe announced measures include tighter licensing requirements, mandatory background checks for all firearm purchases, and a ban on semi‑automatic rifles and high‑capacity magazines. Authorities will also expand the national firearms buy‑back program, offering compensation to owners who surrender prohibited weapons, and increase penalties for illegal possession and trafficking. The reforms are slated for parliamentary debate in the coming weeks, with the government emphasizing a coordinated approach between law‑enforcement agencies and community groups.\n\nIf enacted, the new regulations are expected to significantly reduce the number of firearms in private hands and to strengthen Australia’s long‑standing gun‑control framework. Officials say the changes will be monitored for effectiveness, with periodic reviews planned to assess their impact on public safety.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 10:41:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-028",
+    "title": "Israel airstrikes hit Nabatieh district in southern Lebanon",
+    "slug": "israel-airstrikes-hit-nabatieh-district-in-southern-lebanon",
+    "content": "Israeli forces carried out airstrikes on the Nabatieh district of southern Lebanon on Thursday, striking the area just hours after what Israeli officials described as the deadliest day of their raids in the Gaza Strip. The attacks, which targeted several sites in the district, were reported by Lebanese authorities to have caused damage to infrastructure and resulted in civilian injuries, though the exact number of casualties has not yet been confirmed.\n\nThe strikes come amid heightened tensions following Israel’s intensified campaign in Gaza, which has prompted retaliatory fire from Hezbollah and other militant groups based in Lebanon. Lebanese officials condemned the operation, calling it a violation of sovereignty and warning of further escalation. International observers noted the incident as part of a broader pattern of cross‑border hostilities that could widen the regional conflict, while diplomatic efforts continue to seek de‑escalation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 10:41:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-027",
+    "title": "Moiré Patterns Used to Guide Ships",
+    "slug": "moir-patterns-used-to-guide-ships",
+    "content": "A team of researchers has unveiled a novel approach to maritime navigation that employs moiré patterns to guide vessels through complex waterways. The method, detailed in a March 28, 2018 post on Tinkerings.org, uses carefully engineered interference patterns projected onto the water surface or detected by onboard sensors to provide real‑time positional cues. By overlaying these patterns with existing navigational data, the system can enhance a ship’s ability to maintain course in conditions where traditional GPS signals are weak or compromised.\n\nThe technique relies on the human eye’s sensitivity to moiré interference, allowing crew members to visually confirm alignment with a pre‑defined reference grid. Early trials conducted in coastal channels demonstrated a measurable reduction in course deviation compared to conventional radar and GPS‑based guidance. The researchers noted that the approach could be particularly valuable for autonomous vessels and in environments with high electromagnetic interference, offering a low‑cost, low‑power alternative to satellite navigation.\n\nWhile the concept shows promise, the developers emphasize that further testing is required before commercial deployment. They are currently collaborating with maritime authorities to refine the pattern generation algorithms and assess long‑term reliability under varying sea states. If successful, moiré‑based guidance could become an additional layer of safety for both manned and unmanned ships navigating congested or signal‑degraded waters.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 9:42:05",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-026",
     "title": "Emerging Multi-Agent Systems Show New Patterns and Challenges",
     "slug": "emerging-multi-agent-systems-show-new-patterns-and-challenges",
