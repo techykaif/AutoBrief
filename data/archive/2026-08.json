@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260816-076",
+    "title": "Three-year-old girl rescued after 100 hours in Colombia earthquake rubble",
+    "slug": "three-year-old-girl-rescued-after-100-hours-in-colombia-earthquake-rubble",
+    "content": "A three‑year‑old girl and a 75‑year‑old man were rescued alive from the debris of collapsed homes in the Colombian department of Cauca, days after a magnitude‑6.1 earthquake struck the region on August 12, 2026. The tremor, which registered a depth of 10 km, caused widespread damage to residential structures and infrastructure, leaving at least 30 people dead and dozens more injured. Search‑and‑rescue teams from the National Police, the Colombian Red Cross and local volunteer groups worked through the night, using dogs, listening devices and heavy equipment to locate survivors trapped under rubble.\n\nThe two victims were found by a coordinated effort that involved a rescue dog that signaled the presence of a child, followed by a manual excavation that uncovered the elderly man nearby. Both were taken to a field hospital where they received medical attention for minor injuries and dehydration. Authorities continue to assess the extent of the destruction, while additional teams remain on standby to locate any remaining missing persons. The government has pledged emergency aid and shelter for displaced residents as the region begins its recovery operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 15:11:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-075",
+    "title": "Novak Djokovic eliminated by Alejandro Tirante in Cincinnati Open second round",
+    "slug": "novak-djokovic-eliminated-by-alejandro-tirante-in-cincinnati-open-second-round",
+    "content": "Novak Djokovic was eliminated in his opening match at the Cincinnati Open on Saturday, marking his first competition since exiting Wimbledon. The Serbian star appeared to struggle with the extreme heat that enveloped the Lindner Family Tennis Center, a factor that hampered his usual level of play and contributed to a series of unforced errors that proved costly against his opponent.\n\nThe loss ends Djokovic’s brief post‑Wimbledon campaign and raises questions about his preparation ahead of the upcoming US Open. While the defeat was a setback, the result also highlights the demanding conditions that players must navigate as the summer swing moves deeper into the North American hard‑court season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 15:11:43",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-072",
+    "title": "LLM Trained Only on Fifth-Grade Content Lacks Advanced Knowledge",
+    "slug": "llm-trained-only-on-fifth-grade-content-lacks-advanced-knowledge",
+    "content": "A new open‑source project, “littlelearner‑ll,” has appeared on GitHub at https://littlelearner-ll.github.io/. The repository, which appears to focus on lightweight machine‑learning tools, has attracted attention from the broader developer community. The project’s launch was followed by a discussion thread on Hacker News (item 49317760), where users shared insights and asked questions about its implementation and potential use cases.\n\nThe Hacker News thread has accumulated 62 points and 40 comments, indicating a moderate level of engagement. Contributors have highlighted the repository’s concise documentation and modular design, while others have requested additional examples and performance benchmarks. The discussion reflects a mix of curiosity about the library’s capabilities and practical concerns about integration into existing workflows.\n\nOverall, the “littlelearner‑ll” project is beginning to establish a foothold within the open‑source ecosystem. Its growing visibility on both GitHub and Hacker News suggests that developers are interested in exploring its features, and the community’s feedback may shape future updates and enhancements.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 14:12:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-071",
+    "title": "Macro Photography: Capturing Nature's Tiny Details",
+    "slug": "macro-photography-capturing-nature-s-tiny-details",
+    "content": "Macro photography, a demanding form of close‑up nature photography, has surged in popularity over the past few years. By positioning the lens at an extremely short distance from its subject, photographers can reveal details invisible to the naked eye, such as the facets of a fly’s eye or the geometry of a spider’s face. This technique has attracted a growing community of wildlife photographers who seek to capture the intricate beauty of small creatures.\n\nDara Ojo, a seasoned wildlife photographer, exemplifies the dedication required for macro work. He often spends minutes, hours, or even days waiting for insects to cooperate, and he admits, “I always just pray ‘please don’t fly away’.” Ojo is part of an increasing number of photographers who are turning their lenses toward smaller subjects, embracing the challenges of lighting, focus, and patience that macro photography demands.\n\nThe rising interest in macro has spurred community engagement, including a poll for the favourite invertebrate of the year. Such initiatives highlight the broader appeal of macro photography and its role in raising awareness of biodiversity, offering viewers a closer look at the natural world’s often overlooked inhabitants.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 14:12:08",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-070",
     "title": "Scammers Exploit Holiday Photos to Send Phishing Emails to Travelers",
     "slug": "scammers-exploit-holiday-photos-to-send-phishing-emails-to-travelers",
