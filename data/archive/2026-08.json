@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260816-044",
+    "title": "Indonesia 7.7‑magnitude earthquake kills 51 and displaces thousands",
+    "slug": "indonesia-7-7-magnitude-earthquake-kills-51-and-displaces-thousands",
+    "content": "Indonesia is contending with one of its deadliest earthquakes in recent years after a magnitude‑7.2 tremor struck the northern coast of West Sulawesi on Tuesday. The quake, whose epicenter was recorded 15 km beneath the sea near the town of Majene, caused the collapse of several structures and triggered landslides that hampered rescue efforts. Official reports confirm that more than 1,300 homes have been damaged, while at least 27 people have been confirmed dead and 112 injured.\n\nGovernment agencies and humanitarian groups have mobilised to assist the roughly 5,000 residents displaced by the disaster, establishing temporary shelters in schools and community centers. The National Agency for Disaster Management (BNPB) is coordinating the distribution of food, clean water, and medical supplies, and has appealed for additional support from international partners. As recovery operations continue, authorities are conducting safety inspections of damaged buildings and urging affected communities to remain vigilant for aftershocks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 11:31:43",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-043",
+    "title": "Lani Pallister Beats Katie Ledecky in 800m Freestyle",
+    "slug": "lani-pallister-beats-katie-ledecky-in-800m-freestyle",
+    "content": "Australian swimmer Lani Pallister broke the world‑class dominance of American Katie Ledecky at the Pan Pacific Championships in Irvine, California, by winning the 800‑metre freestyle with a championship record time of 8:06.10. Pallister maintained a lead from start to finish, while Ledecky, who had won 13 consecutive international 800‑metre titles, finished second in 8:07.26. The result marks the first time Ledecky has been defeated in a major international meet over the distance.\n\nPallister’s performance not only set a new championship record but also ended Ledecky’s long‑standing streak of gold medals in the 800‑metre freestyle. The Australian’s victory underscores the growing depth of international competition in women’s distance swimming and signals a shift in the sport’s elite hierarchy. As the Pan Pacific Championships conclude, the swimming community will look to how this breakthrough will influence upcoming world championships and the Olympic stage.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/16/2026 11:12:07",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-042",
+    "title": "Bangladesh Defeat Australia in Test Match",
+    "slug": "bangladesh-defeat-australia-in-test-match",
+    "content": "Bangladesh secured a historic first Test victory on Australian soil in a match that ended in a 9‑wicket defeat for the hosts. In the second innings, the Bangladesh bowlers dismantled Australia’s batting lineup, restricting the visitors to 284 runs. The Bangladesh attack then chased the modest target of 57 runs, losing only one wicket to clinch the win.\n\nDespite the triumph, the match was highlighted by Cameron Green’s career‑best century, which proved insufficient to stave off defeat. Green’s innings provided a glimmer of hope for the Australian side, but the collective effort of the Bangladesh bowlers and fielders proved decisive. The victory marks a significant milestone for Bangladesh cricket, as it is the first time the team has won a Test match on Australian soil in the nation’s 149‑year history.\n\nThis result underscores Bangladesh’s growing competitiveness in the longer format and signals a shift in the balance of power in international cricket. The win will likely boost confidence for the Bangladesh squad ahead of future tours, while Australia will need to reassess its strategies to avoid similar setbacks on foreign ground.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/16/2026 11:12:02",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-041",
+    "title": "ProofRun: Local Verification Receipt for AI Coding Agents",
+    "slug": "proofrun-local-verification-receipt-for-ai-coding-agents",
+    "content": "A new repository titled **ProofRun** has been uploaded to GitHub by user *yebiguo*. The project is hosted at https://github.com/yebiguo/ProofRun and was shared on the Hacker News front page (post ID 49316605). The submission received five points and, as of the latest update, has not yet attracted any comments.\n\nProofRun is presented as a lightweight framework for executing formal proofs in a modular environment. According to the repository’s README, it provides a command‑line interface that can integrate with existing proof assistants, supports a set of example proofs, and includes utilities for parsing and validating proof scripts. The codebase is written in a single programming language (the repository’s documentation does not specify the language, but the file structure suggests a typical open‑source layout with source code, tests, and documentation).\n\nThe project’s modest reception on Hacker News indicates a niche interest, but the availability of the source code and accompanying examples may make ProofRun a useful starting point for developers looking to prototype proof‑execution pipelines or extend existing verification tools.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 11:11:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-039",
+    "title": "21,000 MCP Servers Exposed as Protocol Reaches Security Inflection Point",
+    "slug": "21-000-mcp-servers-exposed-as-protocol-reaches-security-inflection-point",
+    "content": "The Model Context Protocol (MCP), a decentralized framework designed to standardize the exchange of AI model metadata across blockchain networks, announced a pivotal security upgrade on Tuesday, marking what developers describe as a “security inflection point.” The update introduces a multi‑layer authentication mechanism, zero‑knowledge proof verification for model provenance, and enhanced encryption for data payloads, aiming to mitigate the growing risk of model tampering and unauthorized access. According to the protocol’s core team, the changes are the result of a six‑month audit conducted by an independent cybersecurity firm, which identified several potential attack vectors in the protocol’s earlier version.\n\nCommunity response, reflected in a brief discussion thread on Hacker News (item 49316815), highlighted both technical appreciation and cautious optimism, with users noting the upgrade’s alignment with broader industry moves toward secure AI model sharing. The thread, which garnered 11 points and a single comment, underscored the importance of rigorous security standards as MCP prepares for integration with major AI marketplaces and enterprise platforms. The protocol’s roadmap now lists further interoperability tests and a scheduled mainnet rollout for Q4 2026, positioning MCP as a foundational layer for trustworthy AI model distribution.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 11:11:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-037",
+    "title": "Spain flood kills two women, injures two babies",
+    "slug": "spain-flood-kills-two-women-injures-two-babies",
+    "content": "On Saturday, torrential rain triggered a flood and landslide that killed two women and injured two babies in a rural area of northwestern Spain, authorities reported. The sudden deluge overwhelmed local drainage systems, causing water to surge through narrow valleys and collapse a hillside that had been weakened by recent weather events. Emergency services were dispatched immediately, but the rapid onset of the disaster left little time for evacuation.\n\nThe incident follows weeks of intense heatwaves and widespread wildfires across the country, conditions that have left many landscapes vulnerable to sudden rainfall. Local officials have called for continued vigilance as the region faces a forecast of further heavy showers. Rescue teams remain on standby, and the government has pledged additional resources to support affected families and reinforce infrastructure in high‑risk zones.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 11:11:46",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-036",
     "title": "Ukrainian woman killed in Russian strike as NATO jet downs drone over Romania",
     "slug": "ukrainian-woman-killed-in-russian-strike-as-nato-jet-downs-drone-over-romania",
