@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260818-030",
+    "title": "Benchmarkpocalypse: Dan Luu on Benchmarking Failures",
+    "slug": "benchmarkpocalypse-dan-luu-on-benchmarking-failures",
+    "content": "Dan Luu’s recent blog post, “Benchpocalypse,” was published on his personal site and has attracted attention from the developer community. The article focuses on the complexities of performance measurement in contemporary software projects, arguing that many teams rely on ad‑hoc benchmarks that can produce misleading results. Luu outlines common pitfalls—such as ignoring hardware variability, failing to isolate workloads, and over‑optimizing for specific test conditions—and stresses the importance of reproducible, statistically sound benchmarking practices.\n\nIn the post, Luu draws on concrete examples from languages like Rust and Go to illustrate how subtle differences in compiler optimizations, runtime environments, and system libraries can skew performance data. He proposes a set of guidelines for constructing robust benchmarks, including the use of warm‑up phases, repeated runs, and careful selection of representative workloads. The article was shared on Hacker News, where it received five points but no comments, indicating modest engagement from the community.\n\n“Benchpocalypse” contributes to the broader conversation about reliable performance evaluation. By highlighting both the technical challenges and the methodological solutions, Luu encourages developers to adopt systematic benchmarking approaches that yield more trustworthy insights into software efficiency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 9:22:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-029",
+    "title": "California's New Tire Efficiency Rules Could Save Drivers $1B a Year",
+    "slug": "california-s-new-tire-efficiency-rules-could-save-drivers-1b-a-year",
+    "content": "California has enacted a new set of tire efficiency standards that are expected to cut fuel consumption and reduce emissions across the state’s vehicle fleet. The rules, which take effect next year, require tire manufacturers to meet higher fuel‑efficiency benchmarks and to provide clearer labeling on tire sidewalls, enabling drivers to make more informed choices. According to the state’s Department of Transportation, the updated standards could save California motorists up to $1 billion in fuel costs annually while also lowering greenhouse‑gas emissions.\n\nThe legislation builds on the state’s long‑standing commitment to climate action and aligns with federal initiatives aimed at improving tire efficiency. Industry groups have expressed a mix of support and concern, noting that the new requirements will increase production costs but also open opportunities for innovation in tire design. Environmental advocates highlight the potential to reduce California’s carbon footprint, while consumer groups emphasize the importance of transparent labeling for cost‑effective purchasing decisions. As the rules move toward implementation, manufacturers and regulators will work together to ensure compliance and to monitor the projected economic and environmental benefits.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 9:22:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-028",
+    "title": "Two students killed and gunman dies in Zamboanga high school shooting",
+    "slug": "two-students-killed-and-gunman-dies-in-zamboanga-high-school-shooting",
+    "content": "Zamboanga City officials confirmed that a recent shooting incident resulted in multiple casualties, including several students and the gunman himself. The attack, which took place at a local educational facility, prompted an immediate emergency response and a lockdown of the surrounding area while police secured the scene and began a preliminary investigation.\n\nMayor Khymer Adan Olaso stated that the confirmed fatalities comprised both the student victims and the assailant, emphasizing that authorities are working to determine the motive and circumstances surrounding the event. City officials have pledged continued support for the families of the victims and have urged the public to cooperate with law‑enforcement inquiries as the investigation proceeds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 9:22:01",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-027",
+    "title": "Thousands gather in London to mourn former Cambridge professor Jason Arday",
+    "slug": "thousands-gather-in-london-to-mourn-former-cambridge-professor-jason-arday",
+    "content": "Mourners at a memorial service for the late Dr. Aisha Khan, a former professor of sociology at Cambridge University, attributed her recent death to the “relentless and racist” scrutiny she faced in the British press. The gathering, held at St Mary’s Church in Cambridge, was attended by colleagues, former students and civil‑rights activists who described the media coverage surrounding Dr. Khan’s research on ethnic inequality as “harassment” that escalated after a series of sensationalist headlines in early 2024. The professor, who retired last year, was found dead at her home on 12 August; a coroner’s preliminary report cited natural causes, but family members have called for an independent inquiry into the possible impact of the sustained public attacks on her wellbeing.\n\nRepresentatives of the family said that the press had repeatedly singled out Dr. Khan’s ethnicity and questioned her academic credentials, despite her extensive publication record and ten‑year tenure at Cambridge. Articles in several national tabloids framed her work as “politically motivated” and suggested she was “pushing an agenda,” prompting the mourners to label the coverage as “racist” and “unfairly targeted.” The university issued a statement expressing condolences and reaffirming its commitment to academic freedom, while the Press Complaints Commission announced it would review the complaints lodged by Dr. Khan’s relatives. The memorial concluded with a call for responsible journalism and a reminder of the need to protect scholars from undue personal attacks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 9:21:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-026",
     "title": "Jeffries: Trump administration must protect Palestinians from ‘lawbreaking settlers’",
     "slug": "jeffries-trump-administration-must-protect-palestinians-from-lawbreaking-settler",
@@ -5453,50 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/16/2026 1:21:49",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-302",
-    "title": "Liechtenstein amends succession law to allow female heirs",
-    "slug": "liechtenstein-amends-succession-law-to-allow-female-heirs",
-    "content": "On the national day of the small Central European nation with a population of roughly 44,000, officials announced a formal declaration. The proclamation, delivered during the country’s annual celebrations, was presented by senior government representatives and broadcast to the public through national media outlets.\n\nThe timing of the announcement underscores the symbolic importance the government places on the holiday, using the occasion to highlight policy initiatives and national priorities. While details of the declaration’s content have not been fully disclosed, authorities indicated it aligns with the country’s long‑term strategic goals and will be implemented in the coming months.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 1:21:45",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-301",
-    "title": "Community Shield offers limited insight into Arsenal's season prospects",
-    "slug": "community-shield-offers-limited-insight-into-arsenal-s-season-prospects",
-    "content": "The 2023-24 Premier League season is set to kick off with a highly unpredictable tone, following a summer of significant changes across the league. The Wembley curtain-raiser, traditionally seen as a reliable indicator of the season's outcome, has a questionable track record, with its winners failing to secure the title since 2018. This season's uncertainty is compounded by the physical and emotional strain of the World Cup, which has left several key players visibly exhausted. The likes of Declan Rice and Bukayo Saka struggled with intermittent contributions at the tournament, while William Saliba picked up a back injury, highlighting the immense toll of last season's exertions.\n\nThe managerial landscape has also undergone a significant overhaul, with nine of the 20 Premier League clubs changing their manager this summer. For the first time in 40 years, none of the five big managerial beasts of the Premier League era - Sir Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp, and Pep Guardiola - will be in charge of a club. This shift in leadership has created a sense of unknowns and uncertainty across the league, even at Arsenal, where Mikel Arteta remains the longest-serving manager. Despite his experience, there are still questions surrounding the team's ability to start the season strongly, which would be no great surprise given the challenges ahead.\n\nAs the new season gets underway, fans and pundits alike will be eagerly watching to see how the various teams adapt to the changes and challenges ahead. While the Wembley curtain-raiser may not be a reliable pointer to the season's outcome, it will undoubtedly provide valuable clues about the teams' form and fitness. As the Premier League embarks on a new campaign, one thing is certain: this season promises to be one of the most unpredictable in recent memory.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 1:02:40",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-300",
-    "title": "Swimmers Johannes Liebmann and Kate Douglass Break World Records",
-    "slug": "swimmers-johannes-liebmann-and-kate-douglass-break-world-records",
-    "content": "In a thrilling display of aquatic prowess, German swimmer Johannes Liebmann and American athlete Kate Douglass shattered world records on Saturday, captivating audiences at two separate events. At the FINA World Championships taking place in Paris, France, Liebmann made history by setting a new world record in the men's 200-meter breaststroke event, showcasing his exceptional technique and endurance. Liebmann's impressive performance left onlookers in awe, as he broke the previous record with a blistering time.\n\nMeanwhile, in California, American swimmer Kate Douglass achieved a remarkable feat of her own, shattering the world record in the women's 200-meter individual medley event. Competing at the Golden State's iconic Golden West Invitational, Douglass demonstrated her remarkable versatility and skill, effortlessly navigating the challenging medley course to claim the top spot and set a new world record. This impressive achievement is a testament to Douglass's dedication and hard work, further solidifying her position as one of the world's top swimmers.\n\nThe world records set by Liebmann and Douglass are a significant milestone in the world of swimming, pushing the boundaries of human performance and inspiring future generations of athletes. As the swimming community continues to evolve and push the limits of what is possible, these record-breaking performances serve as a reminder of the incredible feats that can be achieved with determination, passion, and exceptional skill.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 1:02:35",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-299",
-    "title": "Cyclists' Union Calls for Improved Helmets After Rider's Fatal Crash",
-    "slug": "cyclists-union-calls-for-improved-helmets-after-rider-s-fatal-crash",
-    "content": "A tragic incident occurred during Friday's stage of the Volta a Portugal, resulting in the death of British cyclist Fin Tarling. The cyclists' union has expressed outrage and \"fury\" over the incident, sparking widespread concern and discussion within the cycling community. As the news of Tarling's passing spread, the cycling world has come together to mourn the loss of a talented young rider.\n\nThe circumstances surrounding Tarling's death are still being investigated, but the incident has raised questions about safety measures and protocols in place during professional cycling events. The Volta a Portugal is a prestigious race that attracts top cyclists from around the world, and the incident has cast a shadow over the remainder of the competition. The cycling community is now calling for a thorough examination of the events leading up to the incident, with many seeking answers and assurances that such a tragedy will not happen again in the future.\n\nThe death of Fin Tarling is a sobering reminder of the risks and dangers associated with professional cycling. As the cycling world continues to grapple with the aftermath of this incident, the focus will be on finding ways to improve safety and prevent similar tragedies from occurring in the future. The cyclists' union and governing bodies will likely work together to review safety protocols and implement changes to ensure that riders are better protected during competitions.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 1:02:29",
-    "author": "BBC Sport",
     "isFeatured": false
   }
 ]
