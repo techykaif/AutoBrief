@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-638",
+    "title": "Chronic Stress Linked to Immune Dysfunction in Cold Tumors",
+    "slug": "chronic-stress-linked-to-immune-dysfunction-in-cold-tumors",
+    "content": "Immunotherapy has become a cornerstone of modern oncology, yet a significant subset of malignancies continues to resist its benefits. These “cold tumors,” which include ovarian, breast and prostate cancers, exhibit low levels of immune cell infiltration and lack the inflammatory signals that enable effective immune targeting. As a result, patients with these cancers often experience limited responses to checkpoint inhibitors and other established immunotherapeutic agents.\n\nResearchers are actively investigating why cold tumors evade immune surveillance. Factors such as a suppressive tumor microenvironment, reduced antigen presentation, and the absence of neoantigen‑driven T‑cell activation contribute to their refractory nature. Current strategies aim to convert cold tumors into “hot” ones by combining immunotherapies with agents that stimulate immune infiltration, modify the stroma, or enhance antigen release. Early clinical trials of such combination approaches have shown promise, but larger studies are needed to confirm efficacy and safety across diverse patient populations.\n\nDespite these challenges, advances in tumor biology and immunology continue to drive the development of novel therapeutic modalities. Ongoing research into biomarkers that predict immunotherapy response and the integration of personalized vaccine platforms may ultimately improve outcomes for patients with cold tumors. The field remains focused on translating these scientific insights into clinically effective treatments that overcome the inherent resistance of ovarian, breast and prostate cancers.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/19/2026 2:21:47",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-626",
     "title": "ICC hits back after US announces fresh sanctions on senior court figures",
     "slug": "icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
@@ -5485,17 +5496,6 @@
     "category": "Business",
     "categorySlug": "business",
     "publishedAt": "8/16/2026 15:12:59",
-    "author": "Guardian Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-091",
-    "title": "University Spinout Launches Water Quality App",
-    "slug": "university-spinout-launches-water-quality-app",
-    "content": "A UK-based university spinout, Molendotech, is set to launch live water quality maps, aiming to provide real-time information on the safety of water bodies for swimmers. This development comes amid reports of numerous beachgoers falling ill after swimming, highlighting the need for more efficient and accurate water testing methods. Molendotech, which originated from the University of Plymouth, has developed a portable testing kit that can detect the presence of E coli and other bacteria in water, delivering instant results without the need for laboratory analysis.\n\nThe testing kit is designed to facilitate daily tests, and the data collected will be used to create the live water quality maps. This initiative will enable beachgoers to make informed decisions about the safety of the water before engaging in swimming or other water activities. By providing timely and accurate information, Molendotech's live water quality maps are expected to play a crucial role in preventing waterborne illnesses and promoting public health. The company's innovative approach to water testing has the potential to significantly improve the current methods of monitoring water quality, which often involve waiting for laboratory results.\n\nThe launch of Molendotech's live water quality maps is a significant step forward in addressing the concerns surrounding water safety, particularly during peak swimming seasons. By leveraging its rapid bacterial water testing kit, the company is poised to make a positive impact on public health and the environment. As the rollout of the live water quality maps approaches, it is likely that Molendotech's innovative solution will be closely watched by health authorities, environmental agencies, and the general public, all of whom stand to benefit from the provision of accurate and up-to-date information on water quality.",
-    "category": "Business",
-    "categorySlug": "business",
-    "publishedAt": "8/16/2026 15:12:50",
     "author": "Guardian Business",
     "isFeatured": false
   }
