@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260816-025",
+    "title": "Scientists Stimulate Hydrogen Production from Rocks",
+    "slug": "scientists-stimulate-hydrogen-production-from-rocks",
+    "content": "A team of researchers has unveiled a new method for generating hydrogen by stimulating naturally occurring geological formations. The technique, detailed in a recent IEEE Spectrum article, involves injecting a controlled mixture of water and carbon dioxide into deep subsurface reservoirs that contain reactive minerals. The interaction triggers a chemical reaction that releases hydrogen gas, a process that could be harnessed on a commercial scale to produce clean fuel without the need for large-scale electrolyzers.\n\nIn laboratory tests, the team demonstrated that the stimulated hydrogen production can reach yields comparable to conventional methods while consuming significantly less energy. The process relies on the inherent chemistry of the subsurface rocks, which act as catalysts when exposed to the injected fluids. Early field trials in a saline aquifer have confirmed the feasibility of the approach, showing stable hydrogen output over several weeks and minimal environmental impact. The researchers emphasize that the technology could complement existing renewable energy systems by providing a scalable, low‑carbon hydrogen source.\n\nWhile the concept is still in its infancy, the findings suggest a promising avenue for expanding the hydrogen economy. Further research will focus on optimizing injection parameters, scaling the process to larger reservoirs, and assessing long‑term storage and safety implications. If successful, stimulated geologic hydrogen could become a key component of efforts to decarbonize industrial sectors and transportation, offering a new tool in the global transition to sustainable energy.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 9:41:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-024",
     "title": "Nassim Taleb critiques government‑funded alcohol study for methodological flaws",
     "slug": "nassim-taleb-critiques-government-funded-alcohol-study-for-methodological-flaws",

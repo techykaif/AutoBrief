@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-295",
+    "title": "Deus Ex creator Warren Spector announces retirement from game development",
+    "slug": "deus-ex-creator-warren-spector-announces-retirement-from-game-development",
+    "content": "Warren Spector, the visionary behind landmark titles such as *Deus Ex* and *System Shock*, has announced his retirement from game development. The decision, reported by *Video Games Chronicle*, comes after a career spanning more than three decades during which Spector helped shape the narrative and design standards of modern interactive entertainment.\n\nSpector’s departure follows a period of reflection on the changing industry landscape and the personal toll of constant innovation. In his statement, he noted that the creative drive that once fueled his projects has diminished, and he prefers to focus on other pursuits outside of game design. The announcement has prompted discussion among industry veterans and fans alike, with the article drawing 21 points and three comments on a related discussion thread.\n\nThe gaming community will miss Spector’s distinctive blend of storytelling and player agency, but his legacy endures through the enduring influence of his titles and the many developers he has inspired. His retirement marks the end of an era for a creator whose work set a benchmark for immersive, choice‑driven gameplay.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 19:31:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-278",
     "title": "Japanese Activist Continues Protests Against Israel's Gaza Genocide",
     "slug": "japanese-activist-continues-protests-against-israel-s-gaza-genocide",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 9:42:01",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-025",
-    "title": "Scientists Stimulate Hydrogen Production from Rocks",
-    "slug": "scientists-stimulate-hydrogen-production-from-rocks",
-    "content": "A team of researchers has unveiled a new method for generating hydrogen by stimulating naturally occurring geological formations. The technique, detailed in a recent IEEE Spectrum article, involves injecting a controlled mixture of water and carbon dioxide into deep subsurface reservoirs that contain reactive minerals. The interaction triggers a chemical reaction that releases hydrogen gas, a process that could be harnessed on a commercial scale to produce clean fuel without the need for large-scale electrolyzers.\n\nIn laboratory tests, the team demonstrated that the stimulated hydrogen production can reach yields comparable to conventional methods while consuming significantly less energy. The process relies on the inherent chemistry of the subsurface rocks, which act as catalysts when exposed to the injected fluids. Early field trials in a saline aquifer have confirmed the feasibility of the approach, showing stable hydrogen output over several weeks and minimal environmental impact. The researchers emphasize that the technology could complement existing renewable energy systems by providing a scalable, low‑carbon hydrogen source.\n\nWhile the concept is still in its infancy, the findings suggest a promising avenue for expanding the hydrogen economy. Further research will focus on optimizing injection parameters, scaling the process to larger reservoirs, and assessing long‑term storage and safety implications. If successful, stimulated geologic hydrogen could become a key component of efforts to decarbonize industrial sectors and transportation, offering a new tool in the global transition to sustainable energy.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/16/2026 9:41:57",
     "author": "Hacker News",
     "isFeatured": false
   }
