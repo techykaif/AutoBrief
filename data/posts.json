@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260818-729",
+    "title": "Why you move—not just how often—could affect dementia risk",
+    "slug": "why-you-move-not-just-how-often-could-affect-dementia-risk",
+    "content": "Scientists have long linked regular physical activity to a reduced risk of dementia, but a new study from the University of Southern California adds nuance to that relationship. The research, published this week, indicates that the setting in which exercise occurs—whether as part of work duties or as leisure‑time activity—significantly influences its protective effect against cognitive decline.\n\nAnalyzing health data from more than 10,000 adults over a decade, USC investigators found that participants who engaged in moderate‑to‑vigorous exercise during their free time exhibited a 30 percent lower incidence of dementia compared with those whose activity was primarily work‑related. The study controlled for total exercise volume, age, education, and cardiovascular risk factors, suggesting that the mental disengagement and stress reduction associated with leisure exercise may enhance neuroprotective benefits. Researchers caution that while the findings underscore the importance of context, they do not diminish the value of staying active overall, and they recommend incorporating enjoyable, non‑obligatory physical activity into daily routines.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/19/2026 4:12:50",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-715",
+    "title": "3D fruit fly model runs on macOS using FlyWire connectome",
+    "slug": "3d-fruit-fly-model-runs-on-macos-using-flywire-connectome",
+    "content": "Denis Sergeevitch has released a new open‑source project on GitHub titled **desktop‑fly**. The repository, hosted at github.com/DenisSergeevitch/desktop‑fly, contains the source code, documentation, and license for a lightweight desktop application. According to the project’s README, the tool is designed to provide a minimal, highly customizable user interface that can be deployed on Linux systems with minimal resource overhead.\n\nThe repository is written in Rust and uses the GTK 3 toolkit for its graphical components. It currently has a modest number of stars and forks, indicating early interest from the community. The latest commit was made in early August 2026, and the project is licensed under the MIT license, encouraging contributions and reuse. The codebase includes a simple build script, unit tests, and a set of example configurations that demonstrate how to integrate the application into a standard desktop environment.\n\nThe project was highlighted on Hacker News, where it received four up‑votes and no comments to date. This modest engagement suggests that while the tool has not yet attracted widespread discussion, it has drawn attention from developers who are exploring lightweight desktop solutions. The repository remains active and open to community input, positioning it as a potential foundation for future desktop‑environment projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 4:12:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-714",
+    "title": "Cursor launches code hosting platform to compete with GitHub",
+    "slug": "cursor-launches-code-hosting-platform-to-compete-with-github",
+    "content": "Cursor, the company behind the AI‑powered code editor that has gained traction among developers for its autocomplete and refactoring capabilities, announced the launch of a new code‑hosting platform designed to compete directly with GitHub. The service, unveiled at a virtual developer conference, will integrate the editor’s generative AI features with repository management, issue tracking, and continuous integration tools, aiming to streamline the entire development workflow within a single environment.\n\nThe platform, slated for public beta later this quarter, promises seamless migration from existing Git repositories and supports standard Git operations, while offering AI‑driven suggestions for pull‑request reviews, code reviews, and documentation generation. Cursor’s leadership highlighted the growing demand for integrated development solutions and positioned the offering as an alternative for teams seeking tighter coupling between code editing and hosting. If adoption meets expectations, the service could reshape the competitive landscape that has long been dominated by GitHub’s ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 4:12:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-713",
+    "title": "Trump denies Iran talks, says Strait of Hormuz remains open",
+    "slug": "trump-denies-iran-talks-says-strait-of-hormuz-remains-open",
+    "content": "U.S. President Donald Trump told reporters on Tuesday that there are no ongoing negotiations with Iran and that the Strait of Hormuz remains open for navigation, despite recent reports of reduced vessel traffic and an alleged attack on a commercial ship in the waterway. The president emphasized that the United States continues to monitor the situation closely and that any disruption to the vital shipping lane would be met with a swift response.\n\nIn a separate development, regional officials said Trump warned Oman after the Gulf nation attempted to mediate a shipping agreement between Tehran and other regional partners. The president’s remarks suggested that Oman’s diplomatic efforts could be viewed unfavorably by Washington, underscoring the heightened tensions surrounding maritime security and the broader U.S.-Iran relationship.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 4:11:56",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-712",
+    "title": "Bolivia arrests political adviser linked to Latin American right‑wing groups",
+    "slug": "bolivia-arrests-political-adviser-linked-to-latin-american-right-wing-groups",
+    "content": "An arrest was made on Tuesday following a violent assault on anti‑corruption activist Nadia Beller, who alleged that she was targeted because of her public opposition to graft. Police said they detained a suspect identified as a local resident with prior connections to a political group under investigation for illicit financing. The attack, which occurred on a downtown sidewalk last week, left Beller with a broken wrist and bruises; she was treated at a municipal hospital and released after a brief observation period.\n\nAuthorities indicated that the arrest was the result of forensic analysis of surveillance footage and witness statements that linked the detained individual to the incident. The police spokesperson emphasized that the investigation remains ongoing and that further arrests could follow if additional evidence emerges. Beller’s organization reiterated its call for a thorough probe into the motives behind the assault, while officials affirmed their commitment to upholding the rule of law and protecting civil‑society activists.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 4:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-700",
     "title": "Claude code enables native HP Laser 1008a printing on macOS",
     "slug": "claude-code-enables-native-hp-laser-1008a-printing-on-macos",
@@ -5442,61 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/16/2026 16:01:51",
     "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-116",
-    "title": "Mohamed Salah debut for Trabzonspor ends in draw with Kasimpasa",
-    "slug": "mohamed-salah-debut-for-trabzonspor-ends-in-draw-with-kasimpasa",
-    "content": "The Egyptian forward, who completed a free‑transfer move to the Turkish side earlier this week, made his first appearance for the club on Saturday, entering the match as a substitute shortly after the break. He was brought on early in the second half, replacing a midfielder in the 48th minute as the team sought to increase its attacking options.\n\nThe substitution marked the player’s debut in Turkish football, giving him an opportunity to integrate into the squad’s tactical setup ahead of the upcoming league fixtures. Club officials noted that the early introduction was intended to assess his readiness for a regular role, and the coaching staff will evaluate his performance as the season progresses.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 16:01:46",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-111",
-    "title": "Gunman opens fire at Kentucky park, live video shows panic",
-    "slug": "gunman-opens-fire-at-kentucky-park-live-video-shows-panic",
-    "content": "A live video posted by a bystander on social media captured a chaotic scene as a gunman opened fire in a park in Kentucky on Tuesday afternoon. The footage shows the shooter, who was armed with an automatic weapon, firing several rounds into the surrounding area, causing panic among park visitors. Several people fled the scene, and the video shows police officers quickly converging on the location after receiving an emergency call.\n\nKentucky State Police responded to the call within minutes and secured the perimeter of the park. Officers engaged the suspect, who was later taken into custody after a brief exchange of gunfire. Preliminary reports indicate that no fatalities have been confirmed, but three individuals were treated for minor injuries at a nearby medical facility. The incident has prompted an investigation into the suspect’s background and the source of the weapon.\n\nThe park has been temporarily closed for safety and investigative purposes. Law enforcement officials are urging anyone with additional information about the shooter or the weapon to come forward. The incident underscores ongoing concerns about gun violence in public spaces and the importance of rapid law‑enforcement response in mitigating potential casualties.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 15:31:43",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-108",
-    "title": "Will Poulter Stars in Opioid Drama Union County",
-    "slug": "will-poulter-stars-in-opioid-drama-union-county",
-    "content": "British actor Will Poulter delivers a standout performance in the indie film Union County, a poignant portrayal of a rural Ohio community struggling with substance abuse. Directed by Ohio native Adam Meeks, the film offers a gritty yet lyrical depiction of a real-life drug recovery court in Bellefontaine, Ohio. Poulter's character, Cody, is a young man who finds himself in the county jail, where he meets counselor Annette Deao and decides to take the first steps towards recovery.\n\nPoulter describes Cody as a person struggling with low self-respect, who is hesitant to accept himself and embark on the journey of recovery. The film, led by Poulter and Noah Centineo as foster brothers, features a cast of first-time actors who share their personal and often painful stories of recovery. The narrative is woven with documentary-esque elements, creating a deeply affecting watch that is anchored by Poulter's natural and nuanced performance. The film's hybrid approach offers a raw and unflinching look at the complexities of addiction and recovery.\n\nUnion County is a powerful and thought-provoking exploration of the human spirit, offering a glimpse into the lives of those struggling with substance abuse in rural Ohio. With Poulter's standout performance at its core, the film is a testament to the resilience and determination of individuals working towards recovery. Directed by Adam Meeks, Union County is a must-watch for anyone interested in stories of hope and redemption.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/16/2026 15:22:44",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-106",
-    "title": "Unpaid Intern Leaves Fashion Industry",
-    "slug": "unpaid-intern-leaves-fashion-industry",
-    "content": "In the summer of 2017, a turning point was reached for an individual struggling to make ends meet as an unpaid intern in the fashion industry in London. The intern had been working without pay for 18 months, forced to live in budget hostels, including a £12-a-night hostel where they shared a dormitory with 14 others. The lack of financial stability and comfortable living conditions took a toll, leading to sleepless nights and a sense of desperation.\n\nIt was during one of these sleepless nights, at 3am, that the intern found an unexpected source of clarity. While watching the comedy series Unbreakable Kimmy Schmidt on their phone, a sarcastic song from the show struck a chord, prompting the intern to reevaluate their situation. The show, which follows the story of a woman who escapes a doomsday cult and starts a new life in New York, is known for its absurdist humor and the protagonist's relentless positivity. However, on this particular night, the intern found inspiration in a different way, as the show's message inadvertently encouraged them to give up on their unpaid internship and seek a better path.\n\nThe encounter with the TV show marked a significant moment for the intern, as it led them to walk away from their unpaid position and potentially seek more stable and rewarding opportunities. This experience highlights the challenges faced by many individuals in the fashion industry and other fields, where unpaid internships can be a barrier to career advancement and financial stability. The story serves as a reminder of the importance of fair compensation and support for interns, and the need for individuals to prioritize their well-being and seek out opportunities that align with their values and goals.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/16/2026 15:22:35",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-105",
-    "title": "Not for Glory Dance Performance Review",
-    "slug": "not-for-glory-dance-performance-review",
-    "content": "In a unique blend of dance and theatre, Assembly at Dance Base in Edinburgh features a captivating performance by Jack Anderson, Charlotte Mclean, and piper Malin Lewis. The trio, who have backgrounds in traditional Irish and Highland steps, are redefining their artistic roots through a process of distortion, deconstruction, and playful mockery. Anderson, a former champion Irish dancer, and Mclean, a competitive Highland dancer, have both had complex relationships with their respective dance forms, having at times tried to distance themselves from their pasts.\n\nAs they take the stage, Anderson and Mclean confront their artistic inheritance, using their experiences as a foundation for a fresh and innovative performance. They are joined by Malin Lewis, a talented piper who has already made a name for themselves in the music scene with their acclaimed album Halocline in 2024. Lewis's involvement brings an exciting element to the show, as they have been hailed as a key figure in the future of Scottish folk music. Through their collaborative effort, the trio aims to reclaim their artistic heritage on their own terms, presenting a bold and anarchic dance-theatre experience that challenges traditional norms and expectations.\n\nThe performance promises to be a thought-provoking and entertaining exploration of the dancers' journeys, as they navigate their pasts and forge new paths. With their unique blend of dance, music, and theatre, Anderson, Mclean, and Lewis are pushing the boundaries of traditional dance forms and creating something entirely new and innovative. As they reclaim their artistic inheritance, they invite the audience to join them on a captivating journey of self-discovery and creative expression, one that is sure to leave a lasting impression on all who experience it.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/16/2026 15:22:28",
-    "author": "Guardian Culture",
     "isFeatured": false
   }
 ]
