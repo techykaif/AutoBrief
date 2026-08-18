@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-350",
+    "title": "Kent Beck publishes article on composable tests",
+    "slug": "kent-beck-publishes-article-on-composable-tests",
+    "content": "Kent Beck, a veteran software engineer and pioneer of Test‑Driven Development, recently released a short newsletter titled “Composable Tests.” The article, available on his personal newsletter site, has drawn attention on Hacker News, where it has accumulated 15 points and one comment. Beck’s piece focuses on a testing paradigm that encourages building tests from reusable, composable components rather than monolithic, ad‑hoc test suites.\n\nIn the newsletter, Beck explains that composable tests treat each test as a small, independent unit that can be combined with others to create more complex scenarios. By modularizing test logic, developers can reduce duplication, improve maintainability, and accelerate refactoring. He also outlines practical guidelines for implementing composable tests in existing codebases, including how to structure helper functions, manage state, and integrate with continuous‑integration pipelines. The discussion touches on the benefits of clearer test intent and the potential for automated test generation when components are well‑defined.\n\nThe piece has sparked a modest but focused conversation on Hacker News, with readers praising the clarity of the concepts and questioning how best to transition legacy projects to a composable testing approach. While the discussion remains brief, Beck’s insights contribute to an ongoing dialogue about modern testing practices and the evolution of quality assurance in software development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 20:31:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-334",
     "title": "Migrant children on Ceuta's streets risk abuse, exploitation",
     "slug": "migrant-children-on-ceuta-s-streets-risk-abuse-exploitation",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/16/2026 10:42:13",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-031",
-    "title": "Léon Marchand Wins First European Title in 200m Butterfly",
-    "slug": "l-on-marchand-wins-first-european-title-in-200m-butterfly",
-    "content": "Day six of the European Championships in Paris saw French swimmer Léon Marchand secure his first continental title by winning the 200‑metre butterfly final. The four‑time Olympic champion, who has consistently performed at the highest level on the world stage, added a continental crown to his résumé as he edged out his rivals with a strong finish.\n\nLater that evening, France claimed a second gold when Mary‑Ambre Moluh set a new European record in the 100‑metre backstroke final. Moluh’s time of 56.02 seconds not only earned her the top podium spot but also surpassed the previous record by over a second, underscoring her rapid rise in the discipline.\n\nWith two gold medals and a continental record, France’s performances on day six highlighted the nation’s depth in swimming and set a positive tone for the remaining events of the championships.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 10:42:07",
     "author": "France 24",
     "isFeatured": false
   }
