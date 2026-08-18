@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-370",
+    "title": "Scientists investigate non-neuronal mechanisms of thought and their AI implications",
+    "slug": "scientists-investigate-non-neuronal-mechanisms-of-thought-and-their-ai-implicati",
+    "content": "Researchers are revisiting the long‑standing question of whether biological memory is fundamentally distinct from the way computers store and retrieve data. Recent experiments have highlighted how a familiar song can instantly evoke a memory from decades ago, how a particular scent can summon a specific person or place, and how a frightening recollection can trigger an almost immediate emotional and physical reaction. These observations underscore the powerful role of sensory cues in human memory retrieval.\n\nNeuroscientists are now comparing these biological mechanisms with computational models that rely on pattern recognition and associative networks. While computers can store vast amounts of information and retrieve it based on input patterns, the human brain’s ability to link memories to multi‑sensory experiences and to produce rapid, automatic responses remains a key area of inquiry. Studies employing functional imaging and machine learning are probing whether artificial systems can mimic the same depth of contextual binding that characterizes human memory.\n\nThe implications of this research extend beyond basic science. Understanding the parallels and differences between biological and computational memory could inform the design of more intuitive human‑computer interfaces, improve memory‑assisting technologies for patients with cognitive impairments, and guide ethical considerations in artificial intelligence. As the field advances, scientists anticipate clearer insights into how memory functions across living and artificial systems.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/18/2026 20:41:49",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-350",
     "title": "Kent Beck publishes article on composable tests",
     "slug": "kent-beck-publishes-article-on-composable-tests",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 10:42:18",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-032",
-    "title": "Moscow Hit by 600 Drones; Kyiv Fires from Russian Missile Attack",
-    "slug": "moscow-hit-by-600-drones-kyiv-fires-from-russian-missile-attack",
-    "content": "Six hundred drones were launched against the Moscow region in a sustained overnight assault that left three people wounded, the mayor of Russia’s capital reported on Sunday. The attack, part of Ukraine’s intensified use of long‑range drone strikes, targeted key infrastructure and civilian areas in the region, according to official statements.\n\nThe drone onslaught coincided with a Russian missile strike on Kyiv that ignited fires in at least two districts of the Ukrainian capital, Mayor Vitali Klitschko confirmed. The timing of the two attacks suggests a coordinated escalation, with Ukraine expanding its reach into Russian territory while Russia responds with counter‑attacks on Ukrainian targets.\n\nThe incidents underscore the growing intensity of the conflict, as both sides employ increasingly sophisticated aerial weaponry. Authorities are monitoring the situation closely, with emergency services responding to the damage and injuries caused by the drone and missile strikes.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 10:42:13",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
