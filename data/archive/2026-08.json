@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260816-007",
+    "title": "Five dead as Indiana experiences worst flooding in over 30 years",
+    "slug": "five-dead-as-indiana-experiences-worst-flooding-in-over-30-years",
+    "content": "The National Weather Service has confirmed that some parts of Indiana received more than 11 inches of rain over a two‑day period, triggering widespread flooding across the state. The deluge has already claimed at least five lives and left dozens injured as water levels rose rapidly in communities along the White River in Indianapolis.\n\nFirst responders deployed boats to evacuate residents from inundated neighborhoods, while the mayor of Indianapolis, Joe Hogsett, urged anyone in flood‑prone areas to follow evacuation orders. State officials reiterated the seriousness of the situation, warning that additional storms could worsen conditions and that residents should remain vigilant for further advisories.\n\nAs the weather system continues to batter the region, emergency services remain on high alert, coordinating rescue efforts and monitoring river levels to mitigate further loss of life and property.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/16/2026 7:22:11",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-006",
+    "title": "AI aids study of bacteriophages to combat antibiotic-resistant infections",
+    "slug": "ai-aids-study-of-bacteriophages-to-combat-antibiotic-resistant-infections",
+    "content": "Tiny viruses that infect bacteria, known as bacteriophages, are emerging as a potential weapon against drug‑resistant infections. As antibiotic resistance escalates worldwide, researchers are turning to these natural predators of bacteria to develop alternative therapies. However, the complex mechanisms by which phages locate, attach to, and lyse their bacterial hosts remain incompletely understood, limiting their clinical deployment.\n\nArtificial intelligence is now being applied to decode phage biology at scale. Machine‑learning models trained on genomic, structural, and infection‑outcome data can predict host range, identify functional genes, and simulate the dynamics of phage‑bacteria interactions. By accelerating the discovery of effective phage candidates and informing the design of engineered viruses, AI‑driven insights aim to bridge the gap between laboratory research and therapeutic use, offering a promising avenue to combat infections that no longer respond to conventional antibiotics.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/16/2026 7:22:07",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-005",
+    "title": "Touch Bar Issues Likely Software-Related, Not Hardware Faults",
+    "slug": "touch-bar-issues-likely-software-related-not-hardware-faults",
+    "content": "Apple’s Touch Bar, the capacitive strip that replaces the traditional function keys on recent MacBook Pro models, has long been a point of contention for users and developers alike. A new in‑depth analysis published on the Unsung Aresluna blog, titled “Deeper Dive: We’re Touch Bars Problems: Software, Rather Than Hardware,” argues that most of the reported issues stem from software bugs rather than hardware defects. The post was shared on Hacker News, where it garnered six up‑votes and one comment, indicating modest but notable interest from the tech community.\n\nThe article systematically examines common complaints—such as erratic button behavior, delayed responsiveness, and inconsistent app integration—showing that these symptoms correlate strongly with specific macOS releases and third‑party driver conflicts. By reviewing diagnostic logs, the author demonstrates that many crashes and freezes are triggered by outdated or poorly optimized Touch Bar frameworks. The piece also highlights recent Apple updates that address several of these glitches, suggesting that continued software refinement is the most effective path to a stable user experience. For developers, the analysis offers practical guidance on how to test and update their Touch Bar extensions to avoid the pitfalls identified.\n\nIn conclusion, the Unsung Aresluna blog’s investigation underscores that the Touch Bar’s reliability hinges more on robust, well‑maintained software than on the physical hardware itself. As Apple continues to iterate on its firmware and operating system, users can expect incremental improvements, while developers are encouraged to adopt best practices for Touch Bar integration to minimize future disruptions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 7:22:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-004",
+    "title": "Tea5767 Radio Tuner project posted on GitHub receives attention on Hacker News",
+    "slug": "tea5767-radio-tuner-project-posted-on-github-receives-attention-on-hacker-news",
+    "content": "A new open‑source repository for the TEA5767 FM radio tuner chip has been published on GitHub under the account “turtushig22‑blip.” The project, titled “tea5767‑radio‑tuner,” provides source code and documentation intended to simplify integration of the TEA5767 module with microcontroller platforms, such as Arduino and ESP32. The repository includes example sketches, a library for handling frequency selection, signal strength monitoring, and basic error handling, aiming to support hobbyists and developers building low‑cost radio receivers or embedded audio applications.\n\nThe release attracted modest attention on the technology news aggregator Hacker News, where the submission received nine upvotes and generated no comments at the time of reporting. The code is available under an open‑source license, allowing developers to clone, modify, and incorporate the library into their own projects. With the TEA5767 chip’s continued popularity in DIY electronics, the repository offers a ready‑made resource for rapid prototyping and educational use.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 7:21:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-003",
     "title": "Israel kills 11 in Lebanon as Iran and Oman discuss Hormuz Strait talks",
     "slug": "israel-kills-11-in-lebanon-as-iran-and-oman-discuss-hormuz-strait-talks",
