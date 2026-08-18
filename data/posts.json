@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-315",
+    "title": "Gas prices rise as some drivers pay nearly $7 per gallon",
+    "slug": "gas-prices-rise-as-some-drivers-pay-nearly-7-per-gallon",
+    "content": "Some drivers in the United States are now paying almost $7.00 per gallon for gasoline, a level that has pushed the average retail price above the $6.50 mark that was reached last month. According to the latest data from the American Automobile Association, the spike is most pronounced in the Midwest and the South, where several major refineries have reported increased operating costs and supply constraints. The rise follows a sharp rebound in crude oil prices, which have climbed by more than 20 percent over the past six weeks, and the ongoing impact of seasonal demand as summer travel ramps up.\n\nFuel‑price analysts point to a combination of factors that are driving the surge. Higher crude prices are being passed on to consumers, while refinery maintenance schedules and occasional shutdowns have reduced domestic output. In addition, the U.S. Department of Energy’s recent announcement of a temporary fuel tax exemption for electric vehicles has shifted some consumer spending toward gasoline, further tightening the market. State regulators are monitoring the situation closely, and several governors have called for a review of the current fuel pricing structure to ensure that consumers are not unduly burdened.\n\nAs the summer travel season continues, gasoline prices are expected to remain volatile. Industry experts advise drivers to plan routes that avoid high‑traffic corridors and to consider alternative transportation options where possible. The Department of Transportation has pledged to keep a close eye on market conditions and to coordinate with federal agencies to address any supply disruptions that could further elevate fuel costs.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/18/2026 19:41:52",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-295",
     "title": "Deus Ex creator Warren Spector announces retirement from game development",
     "slug": "deus-ex-creator-warren-spector-announces-retirement-from-game-development",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 9:42:05",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-026",
-    "title": "Emerging Multi-Agent Systems Show New Patterns and Challenges",
-    "slug": "emerging-multi-agent-systems-show-new-patterns-and-challenges",
-    "content": "Anthropic has unveiled a new research paper on multi‑agent systems, detailing how large language models can be orchestrated to collaborate on complex tasks. The study, posted on Anthropic’s research blog, outlines a framework that enables agents to negotiate, share information, and coordinate actions while maintaining individual goals. The authors emphasize that the approach is modular, allowing existing models to be repurposed without extensive retraining.\n\nThe paper presents a series of experiments in which agents solve puzzles, generate code, and conduct dialogue in a shared environment. Results indicate that the agents can achieve higher performance than single‑model baselines, particularly in scenarios requiring iterative refinement and conflict resolution. The authors also discuss safety implications, noting that the framework includes safeguards to prevent runaway coordination and to preserve user intent.\n\nThe release has attracted modest attention on Hacker News, where the post currently holds eight points and two comments. While the discussion is brief, it reflects a growing interest in the practical deployment of multi‑agent AI systems. Anthropic’s work is positioned as a step toward more robust, collaborative AI applications, and it may influence future research on coordinated autonomous agents.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/16/2026 9:42:01",
     "author": "Hacker News",
     "isFeatured": false
   }
