@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-135",
+    "title": "Exercise-released molecule shown to protect muscles in type 2 diabetes",
+    "slug": "exercise-released-molecule-shown-to-protect-muscles-in-type-2-diabetes",
+    "content": "Scientists have identified a molecule released during physical activity that appears to enhance muscle strength, boost exercise performance, and may offer a new therapeutic avenue for muscle damage associated with type 2 diabetes. The compound, produced by skeletal muscle cells in response to contraction, was shown in laboratory studies to stimulate pathways that increase protein synthesis and improve muscle endurance.\n\nIn controlled experiments, animals treated with the molecule exhibited stronger, more resilient muscles and demonstrated higher performance in endurance tests compared to untreated controls. Researchers also observed that the compound mitigated the decline in muscle mass and function typically seen in diabetic models, suggesting it could counteract the catabolic effects of chronic high blood sugar on muscle tissue.\n\nIf these findings translate to humans, the molecule could become a novel treatment for preventing or reversing muscle wasting in people with type 2 diabetes, a condition that often leads to reduced mobility and quality of life. Further clinical trials will be necessary to confirm safety and efficacy in patients.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/18/2026 15:21:55",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-122",
     "title": "UK trial uses AI to cut aircraft contrail formation",
     "slug": "uk-trial-uses-ai-to-cut-aircraft-contrail-formation",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 5:01:53",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260815-361",
-    "title": "Colombia asks US to suspend tariffs amid $6.4 bn earthquake reconstruction costs",
-    "slug": "colombia-asks-us-to-suspend-tariffs-amid-6-4-bn-earthquake-reconstruction-costs",
-    "content": "Colombia’s government has announced that rebuilding the areas devastated by last year’s 7.1‑magnitude earthquake will require an estimated $6.4 billion.  The figure, drawn up by the Ministry of Housing and the national reconstruction agency, covers the repair of infrastructure, housing, schools and health facilities across the affected departments of Valle del Cauca, Cauca and Nariño.  International donors and private investors have pledged support, but the country will need to secure additional funding to meet the full cost of the extensive reconstruction effort.\n\nAt the same time, Colombia’s trade environment has become more difficult as the United States has reinstated tariffs on a range of Colombian exports, including coffee, bananas and other agricultural products.  The tariffs, part of a broader U.S. trade strategy aimed at addressing perceived unfair trade practices, are expected to reduce Colombian export revenues and increase costs for domestic producers.  The government has warned that the new duties could strain the country’s already fragile economy, which is still recovering from the earthquake’s damage.\n\nThe dual challenges of financing a multi‑billion‑dollar reconstruction program while navigating a tougher trade landscape underscore the need for coordinated policy responses.  Colombia’s authorities are exploring ways to secure additional foreign aid, streamline reconstruction spending and negotiate tariff relief, in order to protect both the country’s physical infrastructure and its economic stability.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/16/2026 5:01:48",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
