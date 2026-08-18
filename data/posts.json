@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-700",
+    "title": "Claude code enables native HP Laser 1008a printing on macOS",
+    "slug": "claude-code-enables-native-hp-laser-1008a-printing-on-macos",
+    "content": "A new driver for the HP Laser 1008a printer has been released by Kuber Studio and is now available for download from their content delivery network. The driver, packaged as a single file, is intended to provide updated support for the 1008a model on modern operating systems. It includes fixes for printing stability and compatibility with recent kernel updates, and is distributed under a permissive license that allows both individual and commercial use.\n\nThe release was highlighted on the Hacker News community, where a post linking to the driver garnered 34 points and attracted 12 comments. Users discussed the driver’s performance improvements, the ease of installation, and potential compatibility issues with older firmware. The discussion also touched on the broader trend of community‑maintained drivers filling gaps left by manufacturer support.\n\nOverall, the HP Laser 1008a driver has drawn attention from the tech community, demonstrating continued demand for reliable printing solutions on legacy hardware. The active conversation on Hacker News suggests that the driver is meeting a real need, and its availability through Kuber Studio’s CDN provides a straightforward path for users to upgrade their printing setup.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 3:21:45",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-688",
     "title": "BNITM researchers model West Nile virus spread in Germany through 2025",
     "slug": "bnitm-researchers-model-west-nile-virus-spread-in-germany-through-2025",
@@ -5485,17 +5496,6 @@
     "category": "Entertainment",
     "categorySlug": "entertainment",
     "publishedAt": "8/16/2026 15:22:28",
-    "author": "Guardian Culture",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-103",
-    "title": "Christopher Berry-Dee Faces Abuse Allegations",
-    "slug": "christopher-berry-dee-faces-abuse-allegations",
-    "content": "A recent investigation by The Guardian has shed light on disturbing allegations surrounding British true crime writer Christopher Berry-Dee. Known for his ability to delve into the minds of serial killers, Berry-Dee's own life has been marred by multiple accusations of assault and child sexual abuse. The allegations have been made by several individuals, including his own daughter, who has described him as \"absolute evil\". This stark contrast between his public persona and the dark reality of his personal life has raised questions about the truth behind the man who has made a career out of exploring the darkest corners of human nature.\n\nThe investigation has revealed a disturbing picture of life inside the Berry-Dee household, where the writer's fascination with serial killers and murder memorabilia created a toxic environment for his family. His daughters, Zoe and Sasha, were exposed to gruesome artifacts and recordings of confessions, which became a normalized part of their daily lives. Zoe, now 38, has spoken out about the trauma she experienced, recalling the shock of discovering a murdered girl's clothes in her father's wardrobe and the constant presence of disturbing recordings in their home. The family's life was further complicated by Berry-Dee's relationships with convicted murderers, whom he befriended and corresponded with, gaining insight into their twisted minds.\n\nThe allegations against Christopher Berry-Dee are a sobering reminder that the darkest aspects of human nature can sometimes be found in unexpected places. As the investigation continues to unfold, it remains to be seen what consequences Berry-Dee will face and how his public persona will be affected by these disturbing revelations. For now, the focus remains on the victims and their families, who have been affected by Berry-Dee's alleged actions, and the importance of shedding light on the truth, no matter how difficult or uncomfortable it may be.",
-    "category": "Entertainment",
-    "categorySlug": "entertainment",
-    "publishedAt": "8/16/2026 15:22:16",
     "author": "Guardian Culture",
     "isFeatured": false
   }
