@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260816-035",
+    "title": "Milky Way Visible Over Yellowstone",
+    "slug": "milky-way-visible-over-yellowstone",
+    "content": "NASA’s Astronomy Picture of the Day (APOD) featured a new image of the Milky Way on August 16, 2026, continuing its established practice of publishing a daily astronomical photograph or illustration. Each entry is paired with a concise scientific explanation authored by a professional astronomer, ensuring that the visual content is accurately contextualized for public consumption. The feature aligns with the program’s core objective of making complex cosmic phenomena accessible to educators, students, and general audiences.\n\nThe APOD platform",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/16/2026 10:42:31",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-034",
+    "title": "30 Frontier Model Cards Benchmarked in Labs Report",
+    "slug": "30-frontier-model-cards-benchmarked-in-labs-report",
+    "content": "A new entry on the Hacker News front page highlights a “benchmark radar” leaderboard hosted by the developer site koutian.is‑a.dev. The post, titled “Benchmark Radar – Leaderboard View,” was submitted to the community and has attracted a modest amount of engagement, currently tallying seven up‑votes and seven comments. The link directs readers to a page that displays comparative performance metrics across a range of software or hardware benchmarks, allowing users to see how different systems rank against one another.\n\nThe leaderboard interface appears to be a straightforward ranking list, with each entry presumably representing a distinct benchmark test or configuration. While the post does not include detailed commentary on the methodology or data sources, the fact that it has been discussed by a handful of users suggests that the community is interested in the comparative insights it offers. The post’s visibility on Hacker News indicates that it has reached a technical audience that values performance metrics and peer comparison.\n\nIn summary, the “Benchmark Radar – Leaderboard View” post has sparked a small but active conversation on Hacker News. With seven points and seven comments, it demonstrates a niche interest in benchmark comparisons among developers and technologists. The leaderboard remains accessible through the provided URL, offering a resource for those seeking up‑to‑date performance rankings within the community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 10:42:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-033",
+    "title": "Programming Language Creators Showcase Quirky Personal Homepages",
+    "slug": "programming-language-creators-showcase-quirky-personal-homepages",
+    "content": "A new web‑based platform called **plMakers** has been announced, targeting hobbyists and professional makers who need a streamlined way to design, prototype, and share projects. The service, which launched on the breck.lol domain, offers a lightweight interface for creating interactive 3D models, integrating with popular fabrication tools, and publishing designs to a community gallery.\n\nKey features of plMakers include a drag‑and‑drop editor, real‑time collaboration, and built‑in support for exporting files to CNC machines, 3D printers, and laser cutters. The platform also provides a library of reusable components and templates, allowing users to accelerate development cycles. According to the launch post, plMakers is open source, encouraging developers to contribute plugins and extensions that expand its capabilities.\n\nThe project has attracted modest attention on Hacker News, where the post received nine points and two comments. While the discussion remains brief, the community’s engagement suggests that plMakers may fill a niche for makers seeking an integrated, open‑source workflow solution.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 10:42:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-032",
     "title": "Moscow Hit by 600 Drones; Kyiv Fires from Russian Missile Attack",
     "slug": "moscow-hit-by-600-drones-kyiv-fires-from-russian-missile-attack",
