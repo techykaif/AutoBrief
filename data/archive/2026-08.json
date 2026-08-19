@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260816-319",
+    "title": "Models Are Being Simplified Intentionally, Article Reports",
+    "slug": "models-are-being-simplified-intentionally-article-reports",
+    "content": "A recent blog post by w4g1.dev, titled “Models Are Getting Dumber on Purpose,” has sparked a lively discussion on Hacker News, where it received 93 up‑votes and 45 comments. The article argues that developers and researchers are increasingly releasing smaller, less capable language models deliberately, rather than simply scaling up the biggest systems.\n\nThe post explains that the trend is driven by several practical concerns. Smaller models are cheaper to train and run, which lowers the barrier for experimentation and deployment in resource‑constrained environments. They also tend to produce fewer hallucinations and are easier to fine‑tune for niche tasks, making them safer for specialized applications. Open‑source projects such as GPT‑Neo, GPT‑J, and Meta’s LLaMA have already followed this approach, and the author notes that some commercial teams are now offering “dumbed‑down” versions of their flagship models to meet regulatory or ethical guidelines.\n\nOverall, the discussion highlights a shift in the AI community toward more controlled, purpose‑built systems that balance capability with cost, safety, and compliance. The debate continues on Hacker News, where participants weigh the trade‑offs between model power and the practicalities of responsible deployment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 2:01:54",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-318",
+    "title": "Kushner meets Hamas leader to discuss Trump's Gaza peace plan",
+    "slug": "kushner-meets-hamas-leader-to-discuss-trump-s-gaza-peace-plan",
+    "content": "A rare diplomatic gathering took place this week, marking one of the few instances of direct engagement among the parties involved in the ongoing Gaza conflict. The meeting, described by officials as “unusual” due to the limited contact between the sides in recent months, was convened shortly after a significant policy shift in the region.\n\nThe timing of the talks follows Israel’s decision, announced a week earlier, to reject the peace proposal put forward by former U.S. President Donald Trump for Gaza. Analysts note that the rejection underscores the complexities of achieving a negotiated settlement and adds pressure on regional actors to explore alternative avenues for dialogue. The rare encounter may signal a tentative step toward renewed diplomatic efforts, though concrete outcomes remain to be seen.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/17/2026 2:01:48",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-317",
+    "title": "Barcelona Sign Rodri from Manchester City for £65m",
+    "slug": "barcelona-sign-rodri-from-manchester-city-for-65m",
+    "content": "Barcelona has reportedly reached an agreement to sign Spanish national team captain Rodri from Manchester City. The highly anticipated transfer has been a subject of speculation for several months, with both clubs engaged in intense negotiations. Sources close to the deal have confirmed that the Catalan giants have successfully negotiated a fee, paving the way for the midfielder's move to the Camp Nou.\n\nRodri, a 28-year-old Spanish midfielder, has been a key player for Manchester City since his arrival in 2019. He has consistently demonstrated his exceptional passing range, vision, and control, making him a valuable asset to the team. As a leader on the pitch, Rodri has also captained the Spanish national team, showcasing his ability to inspire and motivate his teammates. His signing is expected to strengthen Barcelona's midfield, providing a significant boost to their attacking capabilities.\n\nThe transfer is a significant coup for Barcelona, who have been actively seeking to bolster their squad ahead of the new season. With Rodri's arrival, the club aims to challenge for major honors, including the La Liga title and the Champions League. The deal is expected to be finalized in the coming days, with Rodri set to undergo a medical and complete the necessary paperwork before joining his new teammates.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/17/2026 1:22:14",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-316",
+    "title": "Doug Jones Dismisses Republican Claims of 'Far Left' Democrats",
+    "slug": "doug-jones-dismisses-republican-claims-of-far-left-democrats",
+    "content": "In a recent interview, Alabama gubernatorial candidate Doug Jones addressed concerns surrounding the growing number of left-wing Democrats winning primary elections. During a conversation on \"The Hill Sunday,\" Jones dismissed Republican claims that these developments signal a takeover by \"communists\" within the Democratic Party. According to Jones, the criticism from Republicans is primarily aimed at their own base, with the intention of rallying support rather than genuinely addressing the issues at hand.\n\nJones' comments come as several left-wing Democrats have secured primary victories in recent elections, sparking concerns among more moderate and centrist Democrats. However, the former Alabama senator maintains that these developments do not necessarily indicate a shift towards socialism or communism within the party. Instead, Jones suggests that the increasing diversity of Democratic candidates and ideologies reflects a broader effort to engage with and represent a wider range of voices and perspectives within the party.\n\nJones' stance on this issue underscores the ongoing debate within the Democratic Party about its direction and identity. As the party navigates the challenges of the 2024 election cycle, Jones' comments offer a nuanced perspective on the role of left-wing Democrats within the party and the need for inclusive and diverse representation.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/17/2026 1:22:09",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-315",
     "title": "Hurricane Lala Moves Away from Hawaii's Big Island",
     "slug": "hurricane-lala-moves-away-from-hawaii-s-big-island",
