@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260819-340",
+    "title": "Offloading work tasks to AI comes with a cost—to our brains",
+    "slug": "offloading-work-tasks-to-ai-comes-with-a-cost-to-our-brains",
+    "content": "Government agencies and corporate policy teams are increasingly turning to generative artificial intelligence to accelerate the production of high-stakes policy documents amid compressed deadlines. In recent months, researchers and strategic advisors have reported that AI systems can generate comprehensive draft papers within minutes, delivering organized frameworks, structured arguments, and formatted citations that mirror traditional academic and institutional standards. This rapid output capability is prompting organizations to reassess their research workflows as they balance the demand for swift deliverables with the need for reliable analysis.\n\nThe underlying models synthesize information from vast training datasets to produce coherent policy narratives and reference lists",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 20:31:55",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-339",
+    "title": "Study investigates leveraging quantum battery environmental sensitivity for better energy use",
+    "slug": "study-investigates-leveraging-quantum-battery-environmental-sensitivity-for-bett",
+    "content": "Quantum batteries—devices that store energy through quantum mechanical effects—promise faster charging and higher efficiency than conventional batteries. Recent studies suggest that, in principle, these batteries could be charged more quickly by harnessing collective quantum phenomena, potentially transforming portable power and grid storage.\n\nHowever, researchers have found that the act of connecting a quantum battery to a charger introduces quantum correlations between the two systems. These correlations can lock a portion of the stored energy within the combined battery‑charger complex, preventing it from being extracted as useful work. As a result, the amount of energy that can be delivered to a load is reduced, undermining some of the anticipated performance gains.\n\nThe findings highlight a critical challenge for practical quantum energy devices: while quantum effects can enhance storage and charging speeds, they also create entanglement that must be managed to avoid energy loss. Future research will need to develop strategies for decoupling or mitigating these correlations to fully realize the advantages of quantum batteries.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 20:31:47",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-325",
     "title": "Australia mushroom killer's lawyers point to jury irregularities at appeal",
     "slug": "australia-mushroom-killer-s-lawyers-point-to-jury-irregularities-at-appeal",
@@ -5475,28 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/17/2026 1:02:05",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-300",
-    "title": "Cloudflare adds analytics script automatically when domains switch to its nameservers",
-    "slug": "cloudflare-adds-analytics-script-automatically-when-domains-switch-to-its-namese",
-    "content": "Cloudflare’s default configuration has come under scrutiny after a user reported that the service automatically injected a JavaScript analytics snippet into a static website when the user switched the site’s nameservers to Cloudflare in order to enable R2 bucket serving via a custom subdomain. The issue was first documented in a comment thread on Hacker News, where the post garnered 46 points and four replies.\n\nAccording to the user’s account, the injection occurred silently on a site that contained only HTML and no JavaScript, prompting the user to access Cloudflare’s Analytics dashboard, add the site to the analytics list, and then manually disable the snippet. The user described the practice as invasive, arguing that such features should require explicit opt‑in rather than an opt‑out process.\n\nThe incident highlights the importance of reviewing Cloudflare’s default settings after a nameserver change, particularly for sites that do not intend to run client‑side scripts. Administrators are advised to verify whether the analytics feature is enabled and to disable it if it is not needed, thereby avoiding unintended code insertion.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 1:02:00",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-299",
-    "title": "MathCode mathematical coding agent released on GitHub",
-    "slug": "mathcode-mathematical-coding-agent-released-on-github",
-    "content": "A new open‑source repository titled **MathCode** has been launched by the Math‑AI organization and is hosted on a GitHub Pages site at https://math‑ai‑org.github.io/mathcode/. The project’s initial release provides a collection of algorithms, data sets, and reference implementations aimed at facilitating research and development in artificial intelligence applications that involve mathematical reasoning, symbolic computation, and numerical analysis. The codebase is organized into modular components, each accompanied by documentation and example notebooks, allowing developers to integrate the tools into existing machine‑learning pipelines or to experiment with novel approaches to automated theorem proving and equation solving.\n\nThe announcement quickly attracted attention on the technology news aggregator Hacker News, where the item (ID 49322330) recorded ten points and one comment at the time of reporting. While the community response has been modest, the early engagement suggests interest among researchers and practitioners seeking accessible, community‑driven resources for math‑focused AI work. The Math‑AI team plans to expand the repository with additional modules, benchmark results, and collaborative contributions, positioning MathCode as a growing hub for open‑source innovation in the intersection of mathematics and artificial intelligence.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 1:01:54",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
