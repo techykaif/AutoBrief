@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260819-705",
+    "title": "Does 'AI‑watermarking' mean the party is over for cheating students?",
+    "slug": "does-ai-watermarking-mean-the-party-is-over-for-cheating-students",
+    "content": "Educators and administrators across K-12 schools and higher education institutions are increasingly addressing widespread concerns regarding the use of artificial intelligence tools for academic dishonesty. As generative AI platforms become more accessible and sophisticated, schools report a growing number of incidents where students submit AI-generated essays, code, and research assignments as their own work. This development has prompted a rapid reassessment of academic integrity policies and evaluation methods across educational systems.\n\nIn response, many institutions have adopted AI detection software, revised grading rubrics, and redesigned assignments to prioritize in-class writing, oral defenses, and process-driven projects that require documented research steps. Faculty development programs now frequently include training on identifying AI-assisted work and integrating ethical technology use into coursework. Meanwhile, educational researchers and technology developers are collaborating to establish standardized guidelines that distinguish between permissible AI assistance and academic misconduct, while tracking how these tools affect long-term student learning outcomes.\n\nThe expanding presence of AI in academic settings highlights the necessity for updated educational frameworks that align with modern technological realities. As schools and universities continue to refine their policies and instructional approaches, the primary objective remains maintaining academic standards while equipping students with the critical thinking and digital literacy skills required for future professional environments.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 4:12:56",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-703",
+    "title": "IBM XT OS Gains Browser, CP/M 2.2 Z80 Core, and MS Word 1.1a on Os8088.com",
+    "slug": "ibm-xt-os-gains-browser-cp-m-2-2-z80-core-and-ms-word-1-1a-on-os8088-com",
+    "content": "OS8088.com’s “Spotlight” series has recently published a new feature article, accessible at https://os8088.com/spotlight/. The piece, which delves into a recent development in the tech landscape, has attracted attention beyond the site’s own readership. It was shared on the Hacker News community, where it currently holds eight up‑votes and has prompted three comments, indicating modest engagement from the platform’s active user base.\n\nThe article’s discussion on Hacker News underscores the broader interest in the topic covered by OS8088’s Spotlight. While the comments are brief, they reflect a curiosity about the subject matter and suggest that the piece resonates with professionals who follow emerging trends. The cross‑platform presence of the story highlights the growing relevance of OS8088’s content within the wider technology discourse.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 4:12:43",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-702",
+    "title": "OpenAI introduces new privacy protections to compete with Anthropic",
+    "slug": "openai-introduces-new-privacy-protections-to-compete-with-anthropic",
+    "content": "A growing competition between OpenAI and Anthropic is centering on which company can deliver the most robust privacy safeguards for enterprise customer data. As businesses increasingly integrate artificial intelligence into sensitive operational workflows, the race to establish trust through stringent data protection measures has become a defining factor in corporate AI procurement. Both firms are positioning privacy not merely as a compliance obligation, but as a core differentiator in the expanding enterprise AI market.\n\nOpenAI has recently expanded its enterprise offerings with dedicated data isolation protocols, optional zero-retention training environments, and compliance alignments with major regulatory standards. Anthropic has countered by emphasizing transparent data handling policies, enterprise-grade encryption, and customizable privacy controls designed to meet sector-specific security requirements. Industry observers note that these developments reflect a broader shift in the AI sector, where organizations are prioritizing vendors that can guarantee data sovereignty, limit exposure risks, and maintain strict access controls without degrading model performance.\n\nThe ongoing rivalry is expected to accelerate improvements in enterprise AI security standards as both companies refine their privacy architectures to meet evolving corporate and regulatory expectations. As data protection requirements become more stringent and the consequences of breaches grow more severe, the trajectory of this competition will likely establish new benchmarks for responsible AI deployment across commercial sectors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 4:12:36",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-701",
+    "title": "Waymo Ojai Robotaxi Now Available in Three Cities",
+    "slug": "waymo-ojai-robotaxi-now-available-in-three-cities",
+    "content": "Waymo has announced the Waymo Ojai, a next‑generation robotaxi designed to accelerate the company’s transition to mass‑scale operations and eventual profitability. The Ojai platform builds on Waymo’s existing autonomous driving technology, integrating advanced sensor suites, refined navigation algorithms, and a new vehicle architecture that is intended to reduce production costs while improving safety and passenger experience.\n\nThe rollout of the Waymo Ojai is part of a broader strategy to expand service coverage and increase vehicle utilization rates. By deploying a fleet of Ojai units in high‑density urban corridors, Waymo aims to demonstrate the viability of autonomous ride‑hailing at scale, gather extensive real‑world data, and refine its software through continuous learning. The company also plans to leverage the Ojai’s modular design to support future upgrades and regulatory compliance across multiple jurisdictions.\n\nIf successful, the Waymo Ojai could serve as a cornerstone for Waymo’s long‑term commercial model, enabling the company to achieve cost efficiencies that bring the business closer to profitability while maintaining a strong safety record. The introduction of this vehicle marks a significant milestone in the autonomous mobility sector, underscoring the industry’s push toward widespread, reliable robotaxi services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 4:12:29",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-700",
+    "title": "Trump says he gets along well with North Korean leader Kim Jong Un",
+    "slug": "trump-says-he-gets-along-well-with-north-korean-leader-kim-jong-un",
+    "content": "U.S. President Donald Trump recently lauded the rapport he has cultivated with North Korean leader Kim Jong Un, citing the progress made in easing tensions on the Korean Peninsula. The statement, issued through a press briefing, highlighted the series of high‑level talks that began in 2018 and continued through 2019, during which the two leaders met in Singapore, Hanoi, and the United States.\n\nTrump underscored that the relationship has helped reduce the risk of military escalation and opened avenues for further diplomatic engagement. He noted that the U.S. and North Korea have agreed to pursue denuclearization steps, including the dismantlement of certain missile sites and the return of U.S. personnel to the Korean Demilitarized Zone. The president also mentioned ongoing discussions aimed at restoring economic ties and lifting sanctions, framing the partnership as a cornerstone of his administration’s foreign policy.\n\nThe remarks come amid renewed interest in revisiting the 2018 summit agreements and assessing the next phase of U.S.–North Korea relations. While the administration signals optimism, analysts caution that the durability of the partnership will depend on continued diplomatic momentum and verification of North Korea’s compliance with denuclearization commitments.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 4:12:07",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-699",
+    "title": "Australia to summon Israeli ambassador after decision not to prosecute Gaza aid worker killing",
+    "slug": "australia-to-summon-israeli-ambassador-after-decision-not-to-prosecute-gaza-aid",
+    "content": "The foreign minister announced that she will summon the Israeli ambassador to protest a decision described as “insulting” to Zomi Frankcom. In a statement released on Tuesday, the minister said the move reflects her government’s commitment to defending the dignity of individuals affected by foreign policies and underscored the seriousness with which the issue is being treated at the highest diplomatic level.\n\nThe summons is expected to take place within the coming days, providing an official forum for the foreign ministry to seek clarification and express formal objection to the contested decision. Officials indicated that the discussion will focus on the implications of the decision for bilateral relations and may lead to further diplomatic engagement aimed at resolving the matter.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 4:12:00",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-688",
     "title": "Cognition CEO denies reports of SpaceX acquisition talks",
     "slug": "cognition-ceo-denies-reports-of-spacex-acquisition-talks",
@@ -5431,72 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/17/2026 7:21:51",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-375",
-    "title": "30 U.S. states sue Meta over youth platform safety",
-    "slug": "30-u-s-states-sue-meta-over-youth-platform-safety",
-    "content": "Thirty U.S. states have filed a joint lawsuit against Meta Platforms Inc., alleging that the company’s Facebook, Instagram and Threads services fail to protect minors from harmful content and unlawful data collection. The complaint, signed by attorneys general from states ranging from California to New York, asserts that Meta’s platforms violate the Children’s Online Privacy Protection Act (COPPA) and the Federal Trade Commission’s 2022 settlement, which required the firm to obtain verifiable parental consent before collecting personal information from users under 13. The states seek a court order mandating an overhaul of Meta’s youth‑focused features, including mandatory age verification, robust parental‑control tools, restrictions on algorithmic recommendation of potentially harmful material, and a ban on targeted advertising to users under 18.\n\nMeta has responded that it already offers parental‑control settings and age‑gating mechanisms, and that it will defend the lawsuit while reviewing the plaintiffs’ demands. Legal experts note that the case could force the company to redesign its user‑experience for younger audiences and may set a precedent for broader regulatory action against social‑media firms. The lawsuit is expected to proceed through the federal courts, with a hearing slated for later this year, and could have significant implications for how tech platforms handle children’s data and safety nationwide.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 5:23:40",
-    "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-374",
-    "title": "HBO's Lanterns Show Features Hal Jordan and John Stewart",
-    "slug": "hbo-s-lanterns-show-features-hal-jordan-and-john-stewart",
-    "content": "A new hardboiled space‑cop mystery has been released, bringing the iconic Green Lanterns Hal Jordan and John Stewart into a gritty, noir‑style adventure. The novel, titled *Green Lantern: Dark Horizon*, follows the two heroes as they investigate a series of murders on the orbital outpost of New Eden, where corporate espionage and interstellar crime threaten the fragile peace of the sector.\n\nThe story blends classic detective tropes with the high‑concept world of the Green Lantern Corps. Readers are introduced to a cast of suspects ranging from rogue technomancers to disgruntled former crew members, while Jordan and Stewart use their ring‑powered abilities to interrogate suspects, trace energy signatures, and navigate the political intrigue of the Guardians’ oversight. The author, a veteran of both comic and mystery genres, has been praised for maintaining the characters’ core values while immersing them in a darker, more realistic setting.\n\n*Green Lantern: Dark Horizon* is positioned as a crossover event that appeals to fans of both the DC universe and crime‑fiction aficionados. Its release is expected to boost sales for the Green Lantern franchise and may pave the way for future collaborations that explore the characters in unconventional narrative formats.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/17/2026 5:02:00",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-373",
-    "title": "McIlroy finishes 66th as Scheffler wins St Jude Championship",
-    "slug": "mcilroy-finishes-66th-as-scheffler-wins-st-jude-championship",
-    "content": "Rory McIlroy admitted feeling “lost” during the final rounds of the St. Jude Championship in Memphis, where he finished in 66th place, 25 strokes behind the tournament’s champion, Scottie Scheffler. The 2024 event, held at the Memphis Golf Club, saw Scheffler capture his first major title with a steady performance that left McIlroy scrambling to keep pace.\n\nMcIlroy’s struggles were evident from the third round onward, as he battled both the course’s demanding layout and his own confidence. In a post‑tournament interview, the Northern Irish star described the experience as disorienting, noting that the pressure of maintaining a top‑ten position had worn him down. Despite a solid start, his scores slipped, and he was unable to recover the ground lost early in the tournament.\n\nThe result marks a significant drop for McIlroy, who has been a perennial contender on the PGA Tour. While Scheffler’s victory underscores his rising dominance, McIlroy’s performance highlights the challenges even seasoned players face in high‑stakes events. He will likely use the experience to reassess his strategy and training as he prepares for upcoming tournaments.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/17/2026 5:01:55",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-372",
-    "title": "Sen. John Fetterman warns of rising socialism in Democratic Party",
-    "slug": "sen-john-fetterman-warns-of-rising-socialism-in-democratic-party",
-    "content": "Sen. John Fetterman (D‑Pa.) took to the social media platform X on Tuesday to caution that “socialism is gaining ground” within the Democratic Party, a remark prompted by a CBS News report on a recent poll. The poll, released earlier in the week, indicated that 58 percent of Democratic voters believe the party is moving toward more socialist policies, a perception that Fetterman said could alienate moderate and working‑class constituents. In his post, the Pennsylvania senator, who has occasionally broken with party leadership on issues such as criminal‑justice reform and fiscal policy, warned that the growing influence of democratic socialists and insurgent progressives—who have secured victories in several recent primaries—might reshape the party’s platform in ways that could prove electorally risky.\n\nFetterman’s statement arrives amid a broader discussion about the ideological direction of the Democratic Party, as candidates identifying with democratic socialism have secured nominations in states like New Hampshire and Nevada, and progressive challengers have unseated incumbents in a number of congressional races. Party officials have noted the need to balance the enthusiasm of the left‑leaning base with the concerns of centrist voters, a tension reflected in the poll’s findings. The senator’s warning underscores the ongoing debate within the party about how to integrate progressive demands while maintaining broad electoral appeal.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/17/2026 5:01:50",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-371",
-    "title": "Centcom Commander Visits USS Abraham Lincoln",
-    "slug": "centcom-commander-visits-uss-abraham-lincoln",
-    "content": "USS Abraham Lincoln Returns Home After Prolonged Deployment\n\nThe USS Abraham Lincoln, an aircraft carrier that has been docked in the Middle East for more than 260 days, has finally begun its journey back home. In a statement, U.S. Central Command (Centcom) commander Adm. Brad Cooper addressed concerns about the mental health of service members aboard the ship, acknowledging the challenges they have faced during their extended deployment. Cooper described his visit to the ship on Saturday as \"awe-inspiring,\" highlighting the resilience and dedication of the crew.\n\nDuring his visit, Cooper emphasized the importance of supporting the mental health and well-being of service members, particularly those who have been away from their families and loved ones for an extended period. The prolonged deployment has undoubtedly taken a toll on the crew, and Cooper's visit aimed to provide reassurance and encouragement. The USS Abraham Lincoln has been a key player in the U.S. military's efforts in the Middle East, and its return home marks a significant milestone for the crew and their families.\n\nAs the USS Abraham Lincoln makes its way back to its homeport, the U.S. military is likely to continue monitoring the mental health and well-being of its service members. Cooper's visit serves as a reminder of the importance of supporting the men and women who serve in the military, and the need for ongoing care and resources to address the unique challenges they face.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/17/2026 4:22:04",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-369",
-    "title": "Radio telescopes map space molecules, revealing star‑formation sites",
-    "slug": "radio-telescopes-map-space-molecules-revealing-star-formation-sites",
-    "content": "Astronomers have long traced the origins of the elements that compose the Earth’s crust, living organisms, and even the human body back to the cores of the first stars. In the 1970s, physicist Carl Sagan famously remarked that “we are made of star‑stuff,” a statement that captures the process by which heavier elements are forged in stellar interiors and later dispersed into space. When massive stars exhaust their nuclear fuel, they explode as supernovae, ejecting newly created atoms into the interstellar medium where they mix with gas and dust.\n\nThe expelled material eventually coalesces into new generations of stars and planetary systems. In the protoplanetary disk that surrounds a young star, dust grains rich in carbon, nitrogen, oxygen, and heavier metals collide and stick together, forming planetesimals that grow into rocky planets. On Earth, these building blocks were incorporated into the planet’s mantle, crust, and eventually the biosphere, giving rise to the complex chemistry required for life.\n\nThis chain of stellar nucleosynthesis and planetary accretion explains why the same elements that once powered the hearts of ancient stars now make up the minerals in our rocks, the chlorophyll in plants, and the proteins in human cells. Understanding this cosmic cycle provides a profound context for the interconnectedness of the universe and the origins of life on Earth.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 4:21:54",
-    "author": "Phys.org",
     "isFeatured": false
   }
 ]
