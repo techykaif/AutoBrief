@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260819-749",
+    "title": "Kim Jong Un’s sister ‘unaware’ of talks between US, North Korea",
+    "slug": "kim-jong-un-s-sister-unaware-of-talks-between-us-north-korea",
+    "content": "North Korean state media released a message on Wednesday from Kim Yo Jong, the country’s top adviser and sister of Leader Kim Jong Un, in which she denied any knowledge of talks between Kim and former U.S. President Donald Trump. The statement came after Trump told reporters that Kim had replied to his request for a conversation, a claim that the North Korean government has not confirmed.\n\nIn her brief note, Kim Yo Jong said that she was unaware of any such discussions and that the leadership had not authorized any direct contact with the former president. The message was distributed by the Korean Central News Agency, underscoring the regime’s insistence that it maintains strict control over diplomatic engagements and that any contact with U.S. officials is carefully vetted.\n\nThe denial follows a series of high‑profile exchanges between the two leaders, including a historic summit in 2018 and subsequent attempts at dialogue. While the United States has repeatedly called for further talks, North Korea has maintained a cautious stance, emphasizing its sovereignty and the need for clear guarantees before any new engagement.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/20/2026 5:21:56",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-748",
+    "title": "Supramolecular nanofibers paired with nanohole substrate improve exciton transport in organic solid",
+    "slug": "supramolecular-nanofibers-paired-with-nanohole-substrate-improve-exciton-transpo",
+    "content": "Researchers at Science Tokyo have demonstrated that self‑assembling, anthracene‑based supramolecular nanofibers can transport singlet excitons across distances of several hundred nanometres. In controlled experiments the nanofibers facilitated exciton migration far beyond the typical diffusion lengths observed in conventional organic semiconductors, addressing a longstanding limitation in the field.\n\nWhen the nanofibers were integrated with a plasmonic gold nanohole substrate, the exciton diffusivity was reported to double, further enhancing charge‑carrier transport. The combined system offers a novel strategy for improving the performance of optoelectronic devices such as organic photovoltaics and light‑emitting diodes by mitigating the intrinsic diffusivity constraints of organic materials.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 5:21:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-746",
+    "title": "Stripe acquisition of OpenRouter driven by strategic AI integration",
+    "slug": "stripe-acquisition-of-openrouter-driven-by-strategic-ai-integration",
+    "content": "Stripe has announced its acquisition of PromptRoute, a startup that builds a routing layer for AI models, allowing developers to send a single prompt to the most suitable model among several providers. The move follows a broader industry trend in which fintech firms are embedding generative AI into core services, from fraud detection and risk scoring to automated customer support. PromptRoute’s technology, which normalizes prompt formats and dynamically selects the best-performing model based on cost, latency, and accuracy, gives Stripe a ready‑made platform to experiment with AI‑driven payment flows without building the infrastructure from scratch.\n\nIn public statements, Stripe executives have framed the purchase as a step toward the “singularity,” a tongue‑in‑cheek reference to the convergence of AI and finance. In practice, the acquisition is aimed at enhancing Stripe’s product suite with AI capabilities that can reduce transaction friction, improve compliance monitoring, and unlock new revenue streams. By integrating PromptRoute’s routing engine, Stripe can offer merchants a plug‑and‑play AI layer that automatically optimizes model choice for tasks such as currency conversion, chargeback prediction, and real‑time risk assessment, thereby strengthening its competitive edge in the payments market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 5:21:43",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-733",
     "title": "Amazon targets 500 U.S. neighborhoods for Prime Air drones by 2026",
     "slug": "amazon-targets-500-u-s-neighborhoods-for-prime-air-drones-by-2026",
@@ -5464,39 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/17/2026 7:22:33",
     "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-007",
-    "title": "Israeli security minister calls for nightly killing of 30‑40 Palestinians in Gaza",
-    "slug": "israeli-security-minister-calls-for-nightly-killing-of-30-40-palestinians-in-gaz",
-    "content": "Far‑right National Security Minister Itamar Ben‑Gvir has secured a seat in Israel’s security cabinet, the body that coordinates the nation’s defense strategy and war‑time decision‑making. The cabinet, composed of senior ministers and key officials, meets regularly to assess threats, allocate resources, and shape operational plans in response to regional tensions and ongoing conflicts.\n\nBen‑Gvir’s inclusion follows his election to the Knesset on the Likud list and his appointment by Prime Minister Benjamin Netanyahu. His hard‑line stance on security matters and his influence within the Likud party have positioned him as a pivotal voice on issues ranging from counter‑terrorism to border policy. The cabinet’s deliberations now carry his perspectives on how best to confront threats from hostile actors in the region, potentially affecting the conduct of military operations and diplomatic outreach.\n\nThe expanded role of the security cabinet underscores the Israeli government’s emphasis on a unified, top‑level approach to national defense. By bringing Ben‑Gvir into the core decision‑making circle, the administration signals a continued focus on stringent security measures amid escalating regional instability, while also navigating the political dynamics that shape Israel’s war and policy strategies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 7:22:27",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-006",
-    "title": "UN rapporteur says Israel outsourcing coercion to West Bank settlers",
-    "slug": "un-rapporteur-says-israel-outsourcing-coercion-to-west-bank-settlers",
-    "content": "The United Nations’ Special Rapporteur on the situation of human rights in the Palestinian territories, Francesca Albanese, asserted that Israel bears responsibility for the coercive tactics employed by Israeli settlers against Palestinians, describing the practice as an “outsourcing” of state violence. In a recent statement to the UN Human Rights Council, Albanese highlighted a pattern of intimidation, property demolition, and restricted movement that she says is facilitated by the Israeli government’s failure to intervene or hold settlers accountable. She emphasized that the state’s legal and administrative support—such as permitting settlement expansion and providing security forces that often turn a blind eye—effectively enables the settlers to act with impunity.\n\nAlbanese’s remarks come amid heightened scrutiny of settlement activity in the West Bank, where international bodies have repeatedly called for adherence to international law and the protection of civilian rights. The rapporteur urged Israel to investigate alleged abuses, prosecute perpetrators, and halt policies that empower settler violence, warning that continued inaction could constitute a breach of Israel’s obligations under international human‑rights conventions. The UN’s call for accountability underscores ongoing diplomatic pressure to address the humanitarian impact of settlement‑related coercion on the Palestinian population.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 7:22:21",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-005",
-    "title": "Hamas urges Board of Peace to pressure Israel after meeting with Jared Kushner in Cairo",
-    "slug": "hamas-urges-board-of-peace-to-pressure-israel-after-meeting-with-jared-kushner-i",
-    "content": "Hamas announced on Thursday that it is urging the newly formed Board of Peace to pressure Israel into accepting the Gaza peace plan that the group presented earlier this year. The call followed a meeting in Cairo between senior Hamas officials and former U.S. senior adviser Jared Kushner, who has been working with regional actors to facilitate a diplomatic pathway to end the conflict in the enclave. In the Cairo talks, Hamas reiterated its willingness to implement the cease‑fire and reconstruction measures outlined in its proposal, while urging the Board—comprising representatives from Egypt, Qatar, the United Nations and other mediators—to use its influence to compel Israeli authorities to engage with the plan.\n\nThe Board of Peace, established in early 2024 to coordinate international efforts toward a lasting settlement, has so far faced challenges in securing Israeli participation, with Jerusalem maintaining that any agreement must address security concerns and the release of hostages. Kushner’s involvement underscores the United States’ continued interest in a negotiated solution, though Washington has not publicly endorsed the Hamas proposal. Analysts note that Hamas’ appeal to the Board signals a strategic shift toward leveraging multilateral mechanisms rather than direct bilateral talks. The next steps will likely involve diplomatic outreach by the Board to both parties, aiming to set a timetable for negotiations and assess the feasibility of implementing the Gaza peace plan.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 7:22:16",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
