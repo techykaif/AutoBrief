@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260819-634",
+    "title": "A viral 'loose cannon' enzyme helps phages shut down bacterial defenses",
+    "slug": "a-viral-loose-cannon-enzyme-helps-phages-shut-down-bacterial-defenses",
+    "content": "Antimicrobial resistance is rising worldwide, prompting the scientific community to seek alternative treatments that can outpace evolving bacterial defenses. Among the most promising options are bacteriophages—viruses that specifically infect and destroy bacteria. By targeting only pathogenic species, phages can eradicate infections without disturbing the beneficial microbiota, offering a potential solution for strains that have become resistant to conventional antibiotics.\n\nResearch into phage therapy is accelerating as laboratories demonstrate its efficacy against a range of drug‑resistant bacteria, including methicillin‑resistant *Staphylococcus aureus* and carbapenem‑resistant *Enterobacteriaceae*. Clinical trials are now underway in several countries, evaluating safety, dosing, and delivery methods such as topical sprays and intravenous infusions. Early results suggest that phages can clear infections that remain stubbornly persistent after standard treatment, and that they can be combined with antibiotics to enhance bacterial killing.\n\nIf these trials continue to show positive outcomes, phage therapy could become a vital tool in the global fight against antimicrobial resistance. Regulatory pathways are being established to streamline approval processes, and partnerships between academia and industry are growing to support large‑scale production. The emergence of phage-based treatments marks a significant shift toward precision medicine in infectious disease, potentially restoring the effectiveness of bacterial infections that have outlived traditional drugs.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 2:13:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-624",
+    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+    "slug": "flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-employee-data",
+    "content": "Spirit Airlines has faced mounting criticism following allegations that the bankrupt carrier entered into a comprehensive data-sharing agreement with Google that prioritizes corporate restructuring over employee privacy. The controversy surfaced as the low-cost airline navigates Chapter 11 proceedings, with labor advocates and former employees claiming the arrangement effectively commodifies sensitive workforce information. According to internal documents and whistleblower accounts, the deal reportedly grants Google access to extensive operational and personnel datasets, prompting immediate concerns about data security and worker consent.\n\nUnder the reported terms of the agreement, Spirit would provide Google with aggregated flight operations metrics, customer interaction records, and internal workforce analytics in exchange for cloud infrastructure support and financial restructuring assistance. Labor representatives argue that the scope of the data transfer extends beyond standard business operations, potentially exposing employee performance records, scheduling patterns, and internal communication logs",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 2:12:32",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-623",
+    "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+    "slug": "framework-responds-to-complaints-that-bios-update-bricks-ryzen-7040-laptops",
+    "content": "Framework, the modular‑design laptop manufacturer, announced that it will replace a batch of out‑of‑warranty AMD mainboards used in several of its devices. The company said the decision follows the identification of a hardware issue that could affect system stability, prompting a voluntary remediation program for affected units that are no longer covered by the standard warranty period.\n\nCustomers with the specified AMD‑based models can request a replacement board by contacting Framework’s support team, which will provide a refurbished or new mainboard at no cost. The company outlined that the program will run through the end of the calendar year and that shipping will be handled worldwide, with an estimated turnaround of two to three weeks after the request is approved. Framework emphasized that the replacement will not require additional software updates and that the move is part of its commitment to long‑term device sustainability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 2:12:20",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-620",
+    "title": "Rillet Secures $100M Series C, Reaches $1B Valuation",
+    "slug": "rillet-secures-100m-series-c-reaches-1b-valuation",
+    "content": "Rillet, an AI‑native account management startup, has reached unicorn status after its annual recurring revenue (ARR) doubled over the past three months, the company announced today. The valuation, led by investment firm ICONIQ, now places Rillet at a $1 billion market value, making it one of the fastest‑growing fintech firms in the AI‑accounting space.\n\nThe surge in ARR reflects Rillet’s expanding client base and the adoption of its AI‑driven workflow tools, which streamline financial operations for mid‑size businesses. ICONIQ’s leadership and capital infusion are expected to accelerate product development and geographic expansion, positioning Rillet to compete with larger incumbents in the automated accounting sector. The milestone underscores the growing investor confidence in AI‑powered fintech solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 2:12:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-619",
+    "title": "Five Americans and two others killed in Kenya safari helicopter crash",
+    "slug": "five-americans-and-two-others-killed-in-kenya-safari-helicopter-crash",
+    "content": "A safari helicopter carrying seven passengers crashed Wednesday morning in a remote area of northern Kenya, killing all aboard, officials said. Local police and the U.S. State Department confirmed that five of the victims were American citizens, and among the deceased were a senior executive of Telemundo, the Spanish‑language network owned by NBCUniversal, and the director of Ecuador’s national intelligence service.\n\nThe crash occurred in a sparsely populated region, and rescue teams were dispatched to the site shortly after the incident was reported. Authorities are conducting an investigation to determine the cause of the accident, while diplomatic representatives from the United States, Ecuador and other affected nations have been notified. The loss of the media executive and the Ecuadorian intelligence chief underscores the international dimension of the tragedy, and officials have pledged to cooperate fully with families and investigators as the inquiry proceeds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 2:11:54",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-618",
+    "title": "Helicopter crash in Kenya kills seven, including Ecuadorian intelligence chief",
+    "slug": "helicopter-crash-in-kenya-kills-seven-including-ecuadorian-intelligence-chief",
+    "content": "Ecuador’s chief of intelligence, Michele Sensi‑Contugi, and NBCUniversal journalist José Suárez were confirmed among the dead in a fatal incident that occurred earlier today, officials said. The deaths were reported by local authorities after emergency responders arrived at the scene, though the exact nature of the event has not yet been disclosed.\n\nAuthorities identified the victims as Sensi‑Contugi, who heads the nation’s intelligence agency, and Suarez, a correspondent covering regional affairs for the U.S. media conglomerate. Both were traveling together when the incident took place, and investigators are now working to determine the circumstances surrounding the fatalities. The government has pledged a thorough inquiry and has urged the public to await official findings before drawing conclusions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 2:11:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-612",
     "title": "Police officer accessed Flock cameras 717 times to track estranged wife",
     "slug": "police-officer-accessed-flock-cameras-717-times-to-track-estranged-wife",
@@ -5431,72 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/17/2026 3:22:19",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-355",
-    "title": "Nvidia scales back OpenAI data center financing commitment",
-    "slug": "nvidia-scales-back-openai-data-center-financing-commitment",
-    "content": "NVIDIA Scales Back $250 Billion OpenAI Data Center Guarantee: Report\n\nNVIDIA, a leading technology company specializing in artificial intelligence and graphics processing units (GPUs), has reportedly scaled back its commitment to building a massive data center for OpenAI, a prominent AI research organization. According to a recent report by The Wall Street Journal, NVIDIA had initially agreed to invest $250 billion in building a data center to support OpenAI's AI endeavors. However, the company has since revised its plans, with the exact details of the revised agreement remaining unclear.\n\nThe revised agreement is seen as a significant shift in NVIDIA's strategy, considering the initial commitment was one of the largest investments in the history of the tech industry. The revised agreement may indicate that NVIDIA is reassessing its priorities or adjusting to changing market conditions. The move has sparked speculation among industry analysts, with some speculating that the revised agreement may be a result of NVIDIA's efforts to manage costs and mitigate potential risks associated with the project.\n\nThe implications of NVIDIA's revised agreement with OpenAI are still unfolding, and it remains to be seen how this development will impact the broader tech industry. As the tech landscape continues to evolve, companies like NVIDIA and OpenAI are likely to face new challenges and opportunities, and their strategic decisions will have far-reaching consequences for the industry as a whole.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 3:22:14",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-354",
-    "title": "OpenAI Disbands Preparedness Team Amid Company Reorganization",
-    "slug": "openai-disbands-preparedness-team-amid-company-reorganization",
-    "content": "OpenAI Shakes Up Risk Management Amidst IPO Preparations\n\nIn a recent move, OpenAI has disbanded its dedicated preparedness team, a unit responsible for assessing and mitigating potential risks associated with its AI models. According to a report by the Financial Times, the team's duties have been reassigned to existing departments, with specific areas such as biosecurity and cybersecurity now being handled separately. This change marks the latest in a series of adjustments at the company, which is gearing up for a highly anticipated initial public offering (IPO).\n\nThe move is part of a broader shift at OpenAI, which has been reorganizing its structure over the past few years. The company has been scaling back its more ambitious projects, including the dissolution of its Advanced Grants (AG) program, which aimed to fund research in AI safety and governance. This reorientation comes as OpenAI prepares to list on the public markets, a move that could bring significant investment and scrutiny to the company's operations.\n\nThe implications of OpenAI's reorganization are unclear, but the company's focus on risk management will likely be under intense scrutiny as it navigates the complexities of AI development. As the technology continues to advance, concerns about safety and governance have grown, and OpenAI's efforts to address these issues will be closely watched by regulators, investors, and the public.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 3:22:09",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-353",
-    "title": "Israelis Vandalize Palestinian-Owned Cafe in Iceland Over Map Incident",
-    "slug": "israelis-vandalize-palestinian-owned-cafe-in-iceland-over-map-incident",
-    "content": "A video circulating online has sparked outrage and condemnation after it appeared to show a group of individuals, identified as Israeli tourists, vandalizing a framed map of Palestine at a Palestinian-owned cafe in Reykjavik, Iceland. The footage, captured by a CCTV camera, shows the group entering the cafe, with one of them approaching the map and ripping it from the wall. The incident is believed to have taken place on August 10, with the video emerging on social media platforms in recent days.\n\nAccording to eyewitnesses and the cafe's owner, the group was a family of four, who had been in the cafe for a short period before the incident occurred. The owner, who wishes to remain anonymous, stated that the group had been served and had left the cafe before returning, allegedly to take a photo in front of the map. However, one of the individuals then proceeded to rip the map from the wall, causing significant damage. The cafe's owner has since condemned the incident, stating that it was a senseless act of vandalism that has left the community feeling shocked and saddened.\n\nThe incident has sparked widespread condemnation, with many calling for greater awareness and education about the complexities of the Israeli-Palestinian conflict. Icelandic authorities have launched an investigation into the incident, with the cafe's owner cooperating fully. The incident serves as a reminder of the importance of respect and tolerance in our global community, and the need for continued dialogue and understanding in the face of conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 3:22:05",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-352",
-    "title": "Ferry Disaster in Zimbabwe Claims 84 Lives",
-    "slug": "ferry-disaster-in-zimbabwe-claims-84-lives",
-    "content": "A devastating maritime accident occurred in the region of Lake Tanganyika, near the border of Zambia and Tanzania, resulting in a boat capsizing due to intense winds. The incident, which happened in the early hours of the morning, has left several people missing and others injured.\n\nAccording to eyewitnesses, the boat was carrying a group of passengers and crew members when it was caught in a sudden gust of wind. The strong gust caused the vessel to lose balance and overturn, sending its occupants into the water. Rescue efforts are currently underway, with local authorities and emergency services working to locate those still missing and provide assistance to those in need. The exact number of casualties and missing individuals has not been confirmed at this time.\n\nAs the search and rescue operation continues, officials are urging caution and vigilance in the face of the harsh weather conditions. The incident serves as a poignant reminder of the importance of safety protocols and emergency preparedness in high-risk environments.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 3:21:59",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-350",
-    "title": "Admiral Cooper Highlights Mental Health Priority on USS Lincoln",
-    "slug": "admiral-cooper-highlights-mental-health-priority-on-uss-lincoln",
-    "content": "Admiral Brad Cooper, a senior officer in the navy, remarked that serving at sea for extended periods is “uniquely challenging and tough” after a recent visit to a warship. The statement came as the vessel completed its sea‑to‑sea trials and was preparing for its first operational deployment.\n\nDuring the inspection, Cooper highlighted the demanding nature of long‑haul missions, noting that crews must maintain readiness under harsh weather, limited shore contact, and the physical strain of continuous operations. He praised the crew’s professionalism and resilience, underscoring the importance of rigorous training and support systems to sustain morale and effectiveness during such deployments.\n\nThe comments reinforce the navy’s ongoing commitment to readiness and crew welfare as it expands its fleet and undertakes increasingly complex missions. The warship’s upcoming deployment will test the lessons learned during its trials and the readiness of its personnel in a real‑world operational environment.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 3:21:51",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-349",
-    "title": "Trump announces reduction of US‑South Korea military drills",
-    "slug": "trump-announces-reduction-of-us-south-korea-military-drills",
-    "content": "The unnamed leader announced a scaling back of his partnership with a foreign entity after Seoul formally declined to provide assistance for his declared war effort in Iran. The decision, made public in a brief statement, cited South Korea’s recent refusal as the primary catalyst for reassessing the scope of the collaboration, which had previously involved shared resources and strategic coordination.\n\nAnalysts note that the reduction may affect ongoing logistical and diplomatic arrangements tied to the conflict, though the leader did not elaborate on the specific dimensions of the partnership that will be curtailed. South Korea’s refusal, attributed to its policy of non‑involvement in the regional conflict, underscores the growing diplomatic challenges faced by the leader as he seeks external support for operations in Iran. The adjustment in the partnership signals a potential shift in the leader’s broader strategic outreach.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 3:21:46",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
