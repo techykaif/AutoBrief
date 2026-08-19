@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260819-440",
+    "title": "Google Pixel Watch 5 adds new health software but lacks full feature rollout",
+    "slug": "google-pixel-watch-5-adds-new-health-software-but-lacks-full-feature-rollout",
+    "content": "The Google Pixel Watch 5 has proven to be the most challenging model in the Pixel Watch line to evaluate. While the device’s hardware remains largely unchanged—identical dimensions, the same Snapdragon Wear 4100+ processor, and only a marginal battery improvement—the watch’s new pyrite‑satin case finish marks the most visible cosmetic upgrade.\n\nThe primary focus of this year’s release lies in software, with Google expanding the Health app’s capabilities and integrating an AI coach that debuted with the Fitbit Air earlier in the year. The updated watch promises new health metrics, including blood‑pressure monitoring, insulin‑resistance trend analysis, and nightly sleep‑breathing metrics. However, reviewers have noted that these features are not yet available on the device.\n\nDespite the lack of the promised health tools, the Pixel Watch 5’s continued emphasis on software enhancements underscores Google’s strategy to differentiate its wearable through data and AI rather than hardware changes. The Verge’s full review details the watch’s performance and the current status of its health features.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 22:21:47",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-425",
     "title": "No, Italy’s Lake Como didn’t dry up",
     "slug": "no-italy-s-lake-como-didn-t-dry-up",
@@ -5486,17 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/17/2026 1:22:04",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-314",
-    "title": "Protobuf Now Supports Language Server Protocol",
-    "slug": "protobuf-now-supports-language-server-protocol",
-    "content": "Protobuf LSP Gains Momentum in the Development Community\n\nA recent blog post on Buf Build highlights the growing adoption of the Protocol Buffers Language Server (Protobuf LSP) in the software development industry. This open-source project aims to provide a standardized language server for the Protocol Buffers (protobuf) data serialization format, used extensively in various applications, including Google's internal systems. The Protobuf LSP offers improved code completion, diagnostics, and other features that enhance the developer experience when working with protobuf files.\n\nThe adoption of the Protobuf LSP is driven by its ability to streamline the development process, reduce errors, and increase productivity. According to the blog post, the project has seen significant traction, with several major companies and open-source projects already integrating the LSP into their workflows. The community-driven effort has also led to the creation of a large user base, with users sharing their experiences and contributing to the project's development. This growing ecosystem is a testament to the importance of standardized tools in modern software development.\n\nAs the Protobuf LSP continues to gain momentum, it is likely to become a standard tool for developers working with protobuf files. The project's open-source nature and community-driven approach ensure that it remains flexible and adaptable to the evolving needs of the development community. With its potential to improve the developer experience and increase productivity, the Protobuf LSP is an exciting development in the world of software development.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 1:21:57",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]

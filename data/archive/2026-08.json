@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260816-314",
+    "title": "Protobuf Now Supports Language Server Protocol",
+    "slug": "protobuf-now-supports-language-server-protocol",
+    "content": "Protobuf LSP Gains Momentum in the Development Community\n\nA recent blog post on Buf Build highlights the growing adoption of the Protocol Buffers Language Server (Protobuf LSP) in the software development industry. This open-source project aims to provide a standardized language server for the Protocol Buffers (protobuf) data serialization format, used extensively in various applications, including Google's internal systems. The Protobuf LSP offers improved code completion, diagnostics, and other features that enhance the developer experience when working with protobuf files.\n\nThe adoption of the Protobuf LSP is driven by its ability to streamline the development process, reduce errors, and increase productivity. According to the blog post, the project has seen significant traction, with several major companies and open-source projects already integrating the LSP into their workflows. The community-driven effort has also led to the creation of a large user base, with users sharing their experiences and contributing to the project's development. This growing ecosystem is a testament to the importance of standardized tools in modern software development.\n\nAs the Protobuf LSP continues to gain momentum, it is likely to become a standard tool for developers working with protobuf files. The project's open-source nature and community-driven approach ensure that it remains flexible and adaptable to the evolving needs of the development community. With its potential to improve the developer experience and increase productivity, the Protobuf LSP is an exciting development in the world of software development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/17/2026 1:21:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-313",
     "title": "Erdogan Calls for Reopening of Strait of Hormuz",
     "slug": "erdogan-calls-for-reopening-of-strait-of-hormuz",
