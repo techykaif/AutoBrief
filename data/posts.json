@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260819-203",
+    "title": "The everyday tech I use to track my corgi",
+    "slug": "the-everyday-tech-i-use-to-track-my-corgi",
+    "content": "Apple’s AirTag, first marketed as a convenient way to keep tabs on keys, wallets, and luggage, is finding a new niche among pet owners. By attaching the small, waterproof device to a collar, owners can leverage Apple’s Find My network to locate their animals if they wander off or become lost. The technology, which uses Bluetooth and U‑1 chip proximity sensing, turns every Apple device into a potential beacon that can relay a pet’s position to the owner’s iPhone.\n\nOne user, who keeps a corgi named Jelly, has already installed an AirTag in a silicone holder on her dog’s collar. Though she has never had to use the tracker to retrieve Jelly, she describes it as “insurance” — a safety net that would prove invaluable if the dog ever did stray. The AirTag’s discreet size and battery life make it a practical addition to a pet’s gear, and its integration with the Find My app offers real‑time location updates without the need for a separate GPS collar.\n\nWhile Apple does not officially market AirTags as pet trackers, the growing trend among pet owners suggests that the device’s versatility extends beyond personal belongings. As more people adopt the technology for animal safety, it may become a standard feature in the pet‑tracking market, providing a low‑cost, reliable solution for keeping beloved companions within reach.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 17:12:09",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-200",
+    "title": "Spotting Fake Social Media Accounts, Bots, and Trolls",
+    "slug": "spotting-fake-social-media-accounts-bots-and-trolls",
+    "content": "Social media users are increasingly cautioned to scrutinise the source of every message they encounter on TikTok and X before accepting it as reliable.  Experts explain that the most common culprits behind misleading or harmful content are fake accounts, automated bots and coordinated troll campaigns.  By evaluating a set of clear indicators, users can quickly assess whether a post originates from a legitimate, human-operated profile or from a potentially deceptive source.\n\nKey indicators include the account’s creation date and activity history—new accounts with minimal posts or a sudden spike in followers are red flags.  The presence of a verified badge or an official organisational profile is a strong sign of authenticity, though its absence does not automatically imply fraud.  Consistency between the account’s stated identity, profile picture, and the content it shares also matters; mismatches often signal impersonation.  Engagement patterns reveal further clues: unusually high ratios of likes or shares relative to followers, or a flurry of repetitive comments, suggest bot activity.  Finally, cross‑checking the information with reputable news outlets or official statements can confirm or refute the claim.\n\nIn an era where misinformation can spread rapidly across TikTok’s short‑form videos and X’s threaded conversations, a disciplined approach to source verification helps users protect themselves and their communities.  By applying these straightforward checks, individuals can better distinguish credible voices from those engineered to mislead.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 17:11:56",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-199",
+    "title": "India Supreme Court permits passive euthanasia, awareness of living wills remains low",
+    "slug": "india-supreme-court-permits-passive-euthanasia-awareness-of-living-wills-remains",
+    "content": "A recent report released by the National Institute for Palliative Care indicates that families of terminally ill patients often enter the end‑of‑life phase with limited awareness of the medical, emotional, and logistical challenges that lie ahead. The study, which surveyed over 1,200 caregivers across the United States, found that more than 70 percent felt unprepared for decisions related to hospice enrollment, symptom management, and the coordination of funeral arrangements. Researchers attributed the gap to insufficient communication from healthcare providers and a lack of accessible educational resources tailored to families confronting a loved one’s imminent death.\n\nThe findings have prompted calls for systematic improvements in patient‑family counseling, including the integration of advance‑care planning discussions early in the disease trajectory and the development of standardized informational toolkits. Health systems cited in the report are beginning to pilot multidisciplinary support programs that combine medical guidance with social‑work and spiritual services, aiming to reduce the uncertainty families face. Officials emphasized that enhancing preparedness not only eases the emotional burden on caregivers but also aligns treatment choices with patients’ preferences, thereby improving overall quality of end‑of‑life care.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 17:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-198",
+    "title": "Liberia to receive 1,200 US deportees under humanitarian arrangement",
+    "slug": "liberia-to-receive-1-200-us-deportees-under-humanitarian-arrangement",
+    "content": "Liberia has characterized a recently announced agreement as a “humanitarian arrangement,” emphasizing that the country will not receive any monetary compensation under its terms. Government officials made the statement during a press briefing following the signing of the deal, which is intended to facilitate the transfer of individuals identified by the partnering nation as requiring repatriation for humanitarian reasons.\n\nThe arrangement, finalized earlier this week, outlines procedures for the reception and processing of the transferred persons but does not include financial payments to the Liberian government. Liberian authorities indicated that the primary objective is to address urgent humanitarian needs rather than to generate revenue, and they affirmed that the country will bear the associated logistical costs. The government said it will monitor implementation to ensure compliance with international standards and to protect the rights of those affected.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 17:11:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-193",
     "title": "White House envoys struggle to influence Israel's war leader",
     "slug": "white-house-envoys-struggle-to-influence-israel-s-war-leader",
@@ -5453,50 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/16/2026 23:01:48",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-269",
-    "title": "Arsenal Defeat Manchester City in Community Shield",
-    "slug": "arsenal-defeat-manchester-city-in-community-shield",
-    "content": "Manchester City's Post-Pep Era Off to a Rocky Start\n\nIn a shocking turn of events, Manchester City's first competitive game under Enzo Maresca's leadership ended in a resounding defeat to Arsenal, with the Gunners lifting the Community Shield. The match got off to a disastrous start for City, with Riccardo Calafiori scoring just 24.5 seconds into the game after a brilliant pass from Myles Lewis-Skelly. Arsenal continued to dominate, with Kai Havertz doubling their lead on 28 minutes. The visitors sealed their victory with a third goal from Martin Ødegaard just three minutes into the second half, as Gianluigi Donnarumma was left fooled by the Norwegian midfielder's finish.\n\nThe loss marks a tough beginning to the post-Pep era for Manchester City, who struggled to exert control over the game despite the absence of Rodri, who is currently facing doubts over his future. Meanwhile, England midfielder Elliot Anderson, who made his competitive debut after a £116m move from Nottingham Forest, struggled to make an impact. The defeat will undoubtedly raise concerns about the team's ability to adapt to their new coach and the loss of key players.\n\nArsenal, on the other hand, will be thrilled with their victory, which marks a strong start to the new season. The win, which was sealed with a convincing performance, will give the team confidence as they look to build on their success from last season. With the Community Shield win, Arsenal have put down an impressive marker, and their fans will be eager to see if they can maintain this level of performance throughout the season.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 22:32:11",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-268",
-    "title": "Cristiano Ronaldo Hints at Retirement",
-    "slug": "cristiano-ronaldo-hints-at-retirement-1",
-    "content": "Cristiano Ronaldo has signaled that this season may mark the end of his illustrious football career. The Portuguese superstar, widely regarded as one of the greatest players of all time, has been a dominant force in the sport for nearly two decades, having started his professional journey at Sporting CP in 2002. Throughout his illustrious career, Ronaldo has won numerous accolades, including five Ballon d'Or awards, and has played for top-tier clubs such as Manchester United, Real Madrid, and Juventus.\n\nRonaldo's decision to step away from the game comes at a time when he is still performing at a high level, having recently scored crucial goals for his club, Al Nassr, in the Saudi Pro League. The 38-year-old's announcement has sparked widespread interest and speculation among football fans and pundits alike, with many questioning what the future holds for a player who has consistently pushed the boundaries of excellence throughout his career. Ronaldo's decision is also likely to have significant implications for the football world, with his departure potentially paving the way for a new generation of players to take center stage.\n\nAs Ronaldo prepares to bid farewell to the sport he loves, his legacy is set to endure for generations to come. With his record-breaking achievements and unparalleled success, he will undoubtedly be remembered as one of the greatest footballers of all time. The question now remains: what's next for a player who has dedicated his life to the beautiful game? Only time will tell as Ronaldo embarks on the next chapter of his life, one that is sure to be filled with excitement, intrigue, and a lasting impact on the world of football.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 22:32:05",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-264",
-    "title": "Trent Rockets Win Maiden Women's Hundred Title",
-    "slug": "trent-rockets-win-maiden-women-s-hundred-title",
-    "content": "Trent Rockets Secure Maiden Hundred Title with Convincing Win\n\nIn a dominant display, Trent Rockets claimed their maiden Hundred title with an eight-wicket victory over Sunrisers Leeds in the final at Lord's on Sunday. The Rockets' impressive performance was marked by a strong bowling effort, which saw them restrict Sunrisers to a paltry total of 91 - the lowest score achieved by the franchise in six seasons of the competition. This low total set the tone for the remainder of the match, with the Rockets' batswomen taking control from the outset.\n\nThe key partnership in the Trent Rockets' chase came from Sophia Dunkley and Beth Mooney, who put on a 69-run stand from just 40 deliveries. This impressive display all but sealed the win for the Rockets, with Dunkley eventually falling short of a half-century by nine runs. The Rockets' victory was a testament to their strength and consistency throughout the competition, having qualified for the final with just one loss in the group stages. Their performance on Sunday was a fitting culmination to an impressive campaign.\n\nThe Trent Rockets' maiden Hundred title marks a significant achievement for the franchise, and cements their status as a force to be reckoned with in the competition. The team's convincing win over Sunrisers Leeds will undoubtedly be remembered as a highlight of the season, and sets a high standard for future campaigns.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 22:22:16",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-263",
-    "title": "GB women narrowly defeated in Olympic qualifier",
-    "slug": "gb-women-narrowly-defeated-in-olympic-qualifier",
-    "content": "Great Britain's women's flag football team faced a disappointing outcome at the World Championships, falling short in their bid to qualify for the 2028 Olympics. The team, comprised of talented athletes from across the country, had high aspirations going into the tournament, but ultimately succumbed to the stiff competition. Despite their valiant efforts, they were unable to secure a spot in the Olympic qualifiers, marking a setback for the team and their supporters.\n\nThe World Championships served as a crucial opportunity for the British team to gain valuable experience and test their skills against the world's best flag football players. However, the team's performance was not enough to propel them to the top, and they were ultimately eliminated from contention. Flag football is a rapidly growing sport, and the British team's participation in the World Championships was a significant step forward for the sport in the country. Nevertheless, the team's failure to qualify for the Olympics will undoubtedly be a source of disappointment for those involved.\n\nThe loss will serve as a motivation for the team to regroup and refocus their efforts ahead of future competitions. With the 2028 Olympics on the horizon, the British women's flag football team will be eager to learn from their mistakes and work towards a more successful outcome in the years to come. As the sport continues to gain popularity, there will be opportunities for the team to compete at the highest level and potentially secure a spot in the Olympics.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/16/2026 22:22:10",
-    "author": "BBC Sport",
     "isFeatured": false
   }
 ]
