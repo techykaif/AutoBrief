@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260819-598",
+    "title": "3D map of kinase signaling sites created to aid cancer research",
+    "slug": "3d-map-of-kinase-signaling-sites-created-to-aid-cancer-research",
+    "content": "Scientists are uncovering the hidden complexity of protein kinases—enzymes that regulate cell growth and are frequently hijacked by cancers. While kinases are known to drive tumor development, pinpointing which specific enzymes are active in any given cancer remains a major challenge.\n\nHuman proteins contain roughly 1.8 million potential phosphorylation sites where kinases could act. To date, researchers have fully mapped less than one percent of these sites, leaving a vast majority of kinase‑protein interactions uncharted. This knowledge gap hampers efforts to design targeted therapies, as many drugs rely on precise identification of the kinases driving a patient’s tumor.\n\nAddressing this deficit is a priority for cancer research. Advances in mass spectrometry, computational modeling, and high‑throughput screening are accelerating the cataloguing of kinase activity, promising more accurate diagnostics and personalized treatments in the near future.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 1:21:41",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-583",
     "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
     "slug": "iran-s-hardline-parliament-raises-concerns-with-foreign-infiltration-plan",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/17/2026 3:02:21",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-342",
-    "title": "Stripe Acquires OpenRouter for $7 Billion",
-    "slug": "stripe-acquires-openrouter-for-7-billion",
-    "content": "Stripe, a leading online payment processing service, is reportedly nearing a deal to acquire OpenRouter, a prominent artificial intelligence (AI) firm. According to sources, the acquisition is valued at over $7 billion, marking one of the largest deals in the fintech sector this year. This move is seen as a strategic step by Stripe to bolster its offerings and stay at the forefront of the rapidly evolving payments landscape.\n\nThe acquisition is expected to significantly enhance Stripe's capabilities in areas such as risk management, customer onboarding, and fraud detection. OpenRouter's AI technology has been widely recognized for its ability to analyze complex data sets and make accurate predictions, making it a valuable asset for Stripe. By integrating OpenRouter's technology, Stripe aims to improve its overall efficiency, reduce costs, and provide a more seamless experience for its customers. The deal is also expected to further solidify Stripe's position as a major player in the fintech industry.\n\nWhile the details of the acquisition are still emerging, it is clear that Stripe is committed to investing in cutting-edge technology to drive innovation and growth. The acquisition of OpenRouter is a significant step in this direction, and it will be closely watched by industry observers to see how it shapes the future of online payments and financial services.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 3:02:16",
     "author": "Hacker News",
     "isFeatured": false
   }
