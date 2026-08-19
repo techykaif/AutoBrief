@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260819-388",
+    "title": "Researchers investigate how cat urine scent marks retain identity information over time",
+    "slug": "researchers-investigate-how-cat-urine-scent-marks-retain-identity-information-ov",
+    "content": "**Scent marks remain reliable signals long after the scent is released**  \nResearchers have long noted that many mammals, birds, and reptiles use urine and other scent marks to communicate across space and time. These marks persist in the environment even after the animal has left, allowing individuals to assess territory boundaries, reproductive status, and social hierarchy. However, the volatile odor molecules that compose these marks are subject to evaporation, degradation, and chemical transformation, raising the question of how a scent can still convey accurate information about its source.\n\nRecent studies have shown that scent marks are not simple, single‑molecule signals but complex mixtures of compounds with varying chemical stability. Certain hydrocarbons and fatty acids remain intact for days or weeks, while more volatile pheromones provide immediate, short‑term cues. Animals have evolved highly sensitive olfactory receptors tuned to detect these persistent components, enabling them to identify the individual who deposited the mark, its sex, reproductive condition, and even its recent health status. Laboratory experiments tracking the decay of specific urinary compounds confirm that the most informative molecules are those least affected by environmental factors such as temperature, humidity, and microbial activity.\n\nThese findings underscore the sophistication of chemical communication in the animal kingdom. By relying on a suite of stable and transient molecules, creatures can maintain reliable social and territorial information over extended periods, ensuring effective navigation of complex ecological landscapes.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 21:21:56",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-376",
     "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
     "slug": "sachin-bansal-s-fintech-navi-raises-first-outside-capital-with-100m-prosus-inves",
@@ -5486,17 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/17/2026 1:02:34",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-306",
-    "title": "SADS Identified in Mark Hughes' Son's Death",
-    "slug": "sads-identified-in-mark-hughes-son-s-death",
-    "content": "The sudden and tragic loss of a loved one is always devastating, and for former Manchester United and Wales manager Mark Hughes, the passing of his 38-year-old son was a particularly heart-wrenching experience. An inquest into the death has since revealed that the cause was sudden adult death syndrome, or SADS. This condition, which is also known as sudden arrhythmic death syndrome, occurs when a person dies suddenly and unexpectedly due to a cardiac arrhythmia, often without any prior symptoms or warning signs.\n\nThe inquest's findings have brought attention to the importance of raising awareness about SADS, a condition that can affect individuals of any age, but is most commonly seen in young adults. While the exact cause of SADS is often unclear, it is believed to be linked to a range of underlying heart conditions, including genetic disorders and structural abnormalities. In many cases, the first sign of a problem is the sudden and unexpected death of the individual, making it a particularly challenging condition to diagnose and prevent. As a result, efforts are being made to educate the public about the risks and symptoms of SADS, in the hope of reducing the number of sudden and unexpected deaths among young adults.\n\nThe inquest's conclusion has likely brought some sense of closure for Mark Hughes and his family, although the loss of a loved one is never easy to come to terms with. The case serves as a poignant reminder of the importance of prioritizing cardiac health and being aware of the potential risks of SADS, particularly among young adults. By raising awareness and promoting education about this condition, it is hoped that lives can be saved and tragedies like the one experienced by the Hughes family can be prevented in the future.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/17/2026 1:02:29",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
