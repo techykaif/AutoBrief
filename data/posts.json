@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260819-496",
+    "title": "Book chronicles rise of desert toad psychedelic and its promoter",
+    "slug": "book-chronicles-rise-of-desert-toad-psychedelic-and-its-promoter",
+    "content": "Kimon de Greef’s new book, *The Ego Trip*, traces the history of a powerful psychedelic compound that originates from the secretions of certain toads. The narrative follows the drug’s journey from its natural source to its emergence as a sought‑after psychoactive substance, detailing the scientific and cultural forces that have shaped its reputation.\n\nThe work centers on a controversial figure who claimed that the compound possesses extraordinary abilities, and it examines the claims through interviews, laboratory reports, and historical documents. Olivia Goldhill, a researcher and journalist, uncovered the story through a combination of archival research and firsthand accounts, revealing how the drug’s allure has evolved over decades and how it has been embraced by both the scientific community and countercultural movements.\n\n*The Ego Trip* offers a comprehensive look at the intersection of biology, mysticism, and modern drug culture, providing readers with a nuanced understanding of how a simple toad secretion has become a symbol of altered consciousness. The book has been praised for its thorough research and balanced presentation, and it is expected to contribute significantly to discussions about psychedelic substances and their place in contemporary society.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 23:21:54",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-485",
     "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
     "slug": "trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda",
@@ -5486,17 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/17/2026 2:02:06",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260816-320",
-    "title": "Northeastern University Tests Custom Video Game with 50 Participants",
-    "slug": "northeastern-university-tests-custom-video-game-with-50-participants",
-    "content": "A cohort of 50 participants from across the United States logged into a custom‑built video game developed by researchers at Northeastern University. The study, conducted remotely, required each participant to use their own computer to access the game’s online platform. The participants’ geographic distribution spanned all 50 states, allowing the researchers to gather data from a broad cross‑section of the U.S. population.\n\nThe bespoke game was designed to collect behavioral and performance metrics in a controlled digital environment. Researchers used the platform to assess specific cognitive or behavioral variables, recording metrics such as reaction time, decision‑making patterns, and engagement levels. The data will be analyzed to determine how participants respond to varying game scenarios and to evaluate the reliability of the game as a research tool.\n\nPreliminary findings will be compiled in a forthcoming report that will outline the game’s effectiveness for measuring the targeted variables and discuss potential applications in educational or clinical settings. The study’s results are expected to inform future iterations of the game and guide subsequent research projects at Northeastern University.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/17/2026 2:02:00",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
