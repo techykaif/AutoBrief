@@ -1,298 +1,380 @@
-# AutoBrief — News Automation Website
+# AutoBrief — Automated News Platform
 
-AutoBrief is a Next.js + TypeScript news aggregation site that reads content from a Google Sheet and serves both a website and simple JSON APIs. The project includes a simple "AI gating" rule where AI-generated fields from the sheet are used only when a post's processing status is `LIVE`.
+AutoBrief is a production Next.js news platform with an automated content pipeline. News is collected from RSS sources, processed through the Google Sheets/AI workflow, exported into versioned static JSON data, and served by the website from that generated dataset.
 
-This README covers:
-- Getting started (install & run)
-- Google Sheets + Service Account setup (required env vars)
-- API reference with examples
-- Data model and Google Sheets schema
-- Project structure and development notes
-- Troubleshooting and deployment tips
+This repository contains both the web application and the automation scripts that keep its news dataset current.
+
+## Production Architecture
+
+```text
+RSS Sources
+    ↓
+GitHub Actions RSS Scraper
+    ↓
+Google Sheets / AI Processing
+    ↓
+Automated Export
+    ↓
+Static JSON Dataset committed to Git
+    ↓
+Next.js Website
+    ↓
+Users / JSON APIs
+```
+
+### Runtime data model
+
+The deployed website uses the **static data provider by default** (`DATA_PROVIDER=static`). This means the production site does not need to query Google Sheets for every request.
+
+Generated data is stored under `data/`:
+
+- `data/posts.json` — the latest 500 posts used for the primary news experience.
+- `data/archive-index.json` — maps archived article slugs to their monthly shard.
+- `data/archive/YYYY-MM.json` — monthly archive shards for older articles.
+- `data/meta.json` — generated dataset metadata and counts.
+
+When an archived article is requested, AutoBrief uses the archive index to load only the relevant monthly shard instead of scanning the entire archive.
+
+Google Sheets remains the upstream content and AI-processing layer used by the automation pipeline. The application also contains a Sheets provider for environments that explicitly set `DATA_PROVIDER=sheets`.
+
+---
+
+## Automation
+
+AutoBrief is designed to run continuously with GitHub Actions rather than requiring manual content publishing.
+
+### 1. RSS ingestion
+
+`.github/workflows/rss-scraper.yml` runs on a schedule every 30 minutes and can also be started manually. It:
+
+1. Installs the locked Node.js dependencies.
+2. Runs `scripts/rss/rssScraper.ts`.
+3. Reads the configured Google Sheets credentials from GitHub Actions secrets.
+4. Collects and processes new RSS content for the upstream workflow.
+
+### 2. Export and deployment
+
+`.github/workflows/export-posts.yml` is manually dispatchable and is also compatible with the external automation that triggers the production export flow.
+
+The export workflow:
+
+1. Checks out `main`.
+2. Runs `scripts/export/export-posts.ts`.
+3. Regenerates the static JSON dataset under `data/`.
+4. Commits changed data files to `main` using the GitHub Actions bot.
+5. Pushes the generated dataset.
+6. Triggers the configured Vercel deploy hook when one is available.
+
+The repository history shows the automated data commits being produced successfully, so the generated dataset is an active part of the production workflow.
 
 ---
 
 ## Quick Start
 
-1. Clone the repo
-   ```bash
-   git clone https://github.com/techykaif/news_automation_website.git
-   cd news_automation_website
-   ```
+### Prerequisites
 
-2. Install dependencies
-   ```bash
-   npm install
-   # or
-   # pnpm install
-   ```
+- Node.js 20+
+- npm
 
-3. Create a `.env.local` file (see next section for required variables).
+### Install
 
-4. Run the dev server
-   ```bash
-   npm run dev
-   ```
-   The app runs at http://localhost:3000 by default.
+```bash
+git clone https://github.com/techykaif/AutoBrief.git
+cd AutoBrief
+npm ci
+```
 
-5. Build & start (production)
-   ```bash
-   npm run build
-   npm run start
-   ```
+### Run locally
 
-6. Lint
-   ```bash
-   npm run lint
-   ```
+```bash
+npm run dev
+```
+
+The development server runs at `http://localhost:3000` by default.
+
+### Build and run production locally
+
+```bash
+npm run build
+npm run start
+```
+
+### Lint
+
+```bash
+npm run lint
+```
 
 ---
 
-## Environment Variables (Google Sheets)
+## Environment Variables
 
-This app reads news content from a Google Sheet. You must create a Google Cloud service account with the `https://www.googleapis.com/auth/spreadsheets.readonly` scope and give it read access to the target sheet.
+### Website
 
-Required environment variables (set in `.env.local`):
-```
+The default static provider reads generated files from the repository, so the deployed website does not require Google Sheets credentials for normal static-data operation.
+
+If you explicitly use the Google Sheets provider, set:
+
+```env
+DATA_PROVIDER=sheets
 GOOGLE_SERVICE_ACCOUNT_EMAIL=service-account@example.iam.gserviceaccount.com
-GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----
-MIIEvAIBADANBgkq...
------END PRIVATE KEY-----
-"
-GOOGLE_SHEET_ID=1aBcD...yourSheetId...XYZ
+GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
+GOOGLE_SHEET_ID=your_google_sheet_id
 ```
 
-Notes:
-- The code replaces `\
-` with `
-`, so when pasting the key into `.env.local` you can either keep real newlines or escape them as `\
-`. Common approach:
-  - If you paste the JSON private key value directly, ensure newlines appear as `
-` escape sequences OR configure your environment to preserve newlines (some hosts expect escaped newlines).
-- Share the Google Sheet with the service account email (give Viewer permissions).
-- Ensure the service account has the Sheets API enabled in the Google Cloud project.
+The private key is normalized by the application so escaped newlines can be used in environment-variable based deployments.
 
-Troubleshooting common auth errors are covered later.
+### Automation secrets
+
+The GitHub Actions RSS and export workflows require these repository secrets:
+
+- `GOOGLE_SHEET_ID`
+- `GOOGLE_SERVICE_ACCOUNT_EMAIL`
+- `GOOGLE_PRIVATE_KEY`
+
+The export workflow can additionally use:
+
+- `VERCEL_DEPLOY_HOOK`
+
+Never commit service-account credentials or private keys to the repository.
 
 ---
 
 ## API Reference
 
-All endpoints are server-side routes under `/api/*`. The APIs return JSON and set cache headers in many responses.
+All API routes are available under `/api/*`.
 
-Base URL (local):
+### `GET /api/news`
+
+Returns published news and supports category filtering and a result limit.
+
+```bash
+curl "http://localhost:3000/api/news?limit=10"
+curl "http://localhost:3000/api/news?category=technology&limit=10"
 ```
-http://localhost:3000
+
+### `GET /api/post`
+
+Returns a single article by slug.
+
+```bash
+curl "http://localhost:3000/api/post?slug=example-slug"
 ```
 
-1. GET /api/news
-- Description: Get all published posts, optionally filter by category and/or limit results.
-- Query params:
-  - `category` (optional) — filter by category slug/name
-  - `limit` (optional) — integer limit of results
-- Examples:
-  ```bash
-  # all news
-  curl http://localhost:3000/api/news
+### `GET /api/categories`
 
-  # limit results
-  curl "http://localhost:3000/api/news?limit=5"
+Returns available categories and their counts.
 
-  # filter by category
-  curl "http://localhost:3000/api/news?category=technology"
-  ```
+```bash
+curl http://localhost:3000/api/categories
+```
 
-2. GET /api/post
-- Description: Get a single post by slug.
-- Query params:
-  - `slug` (required)
-- Examples:
-  ```bash
-  curl "http://localhost:3000/api/post?slug=example-slug"
-  ```
+### `GET /api/search`
 
-3. GET /api/categories
-- Description: Returns aggregated categories and counts.
-- Example:
-  ```bash
-  curl http://localhost:3000/api/categories
-  ```
+Searches the published news dataset.
 
-4. GET /api/search
-- Description: Search published posts by query string.
-- Query params:
-  - `q` (required) — search query
-  - `limit` (optional) — integer limit of results
-- Example:
-  ```bash
-  curl "http://localhost:3000/api/search?q=electric%20vehicle&limit=10"
-  ```
+```bash
+curl "http://localhost:3000/api/search?q=electric%20vehicle&limit=10"
+```
 
-5. GET /api/health
-- Description: Health check endpoint returning status, timestamp, and version.
-- Example:
-  ```bash
-  curl http://localhost:3000/api/health
-  ```
+### `GET /api/health`
 
-Example response shape (NewsPost):
+Returns a lightweight health response with status, timestamp, and application version.
+
+```bash
+curl http://localhost:3000/api/health
+```
+
+### `GET /api/status`
+
+Returns application/data status information used by the platform's status surface.
+
+### `POST /api/track`
+
+Handles the application's visit-tracking operation.
+
+---
+
+## Data Model
+
+The canonical application type definitions are in `lib/types.ts`.
+
+A news post contains fields such as:
+
 ```json
 {
   "id": "123",
   "title": "Final Title",
   "slug": "final-title",
-  "content": "Full article content or AI-generated content",
+  "content": "Article content",
   "category": "Technology",
-  "publishedAt": "2025-01-01T12:00:00.000Z",
+  "publishedAt": "2026-01-01T12:00:00.000Z",
   "author": "Author Name",
   "isFeatured": true
 }
 ```
 
-The type definitions are in `lib/types.ts` (NewsPost, Category, HealthResponse).
+### Google Sheets source schema
+
+The Sheets integration expects the `FINAL_BLOGS` sheet with the following zero-based column mapping:
+
+| Index | Field |
+|---:|---|
+| 0 | `id` |
+| 1 | `source_id` |
+| 2 | `title` |
+| 3 | `slug` |
+| 4 | `content_base` |
+| 5 | `summary_base` |
+| 6 | `category` |
+| 7 | `author` |
+| 8 | `published_at` |
+| 9 | `is_published` |
+| 10 | `is_featured` |
+| 11 | `seo_title_base` |
+| 12 | `seo_description_base` |
+| 13 | `processing_status` |
+| 14 | `ai_summary` |
+| 15 | `ai_content` |
+| 16 | `ai_seo_title` |
+
+The Sheets provider applies the production AI gating rules when `processing_status` is `LIVE`, while base content remains available as the fallback path defined by the application.
 
 ---
 
-## Google Sheets Schema & Data Flow
+## Project Structure
 
-The code expects a sheet named `FINAL_BLOGS` with columns starting from A (0-based indices documented in code). The mapping in `lib/google-sheets.ts`:
+```text
+app/                    Next.js App Router pages and API routes
+components/             Reusable UI components
+hooks/                  Client-side hooks
+lib/                    Data providers, Google Sheets integration, types and utilities
+scripts/
+  rss/                  RSS ingestion automation
+  export/               Static dataset generation
+  check-env.ts          Environment validation helper
+data/
+  posts.json            Latest generated posts
+  archive-index.json    Archived slug lookup index
+  archive/*.json        Monthly archive shards
+  meta.json             Generated dataset metadata
+public/                 Static assets
+.github/workflows/      Automation workflows
+```
 
-Index → Column meaning
-- 0: id
-- 1: source_id
-- 2: title
-- 3: slug
-- 4: content_base
-- 5: summary_base
-- 6: category
-- 7: author
-- 8: published_at
-- 9: is_published
-- 10: is_featured
-- 11: seo_title_base
-- 12: seo_description_base
-- 13: processing_status
-- 14: ai_summary
-- 15: ai_content
-- 16: ai_seo_title
+### Important entry points
 
-Important behaviors implemented in `lib/google-sheets.ts`:
-- Token caching for Google access token (cachedToken + tokenExpiry).
-- fetchSheetData uses the Sheets REST API with read-only scope.
-- rowToPost enforces an "AI gate":
-  - If `processing_status` (column 13) is `"LIVE"` and AI fields exist (e.g., ai_content at index 15), the final title/content prefer AI-generated values.
-  - Otherwise uses base title/content from columns 2 and 4.
-- getPublishedPosts filters rows where `is_published` (index 9) is truthy AND `processing_status` is `"LIVE"`; also accepts `READY` posts as a fallback when `is_published` is set.
-- Slugs are derived from the finalTitle (lowercased and sanitized).
-- getFeaturedPosts returns up to 3 posts flagged as isFeatured.
-- searchPosts performs a case-insensitive substring search across title, content, category, and author.
-
-If you modify the sheet structure, update the mapping here accordingly.
-
----
-
-## Project Structure (high level)
-
-- app/
-  - page.tsx — homepage (fetches posts, categories, featured)
-  - api/
-    - news/route.ts
-    - post/route.ts
-    - categories/route.ts
-    - search/route.ts
-    - health/route.ts
-  - layout.tsx — root layout, theme provider, header/footer
-  - globals.css — Tailwind CSS entry + theme variables
-- components/ — UI components used by pages (Card, Header, Footer, NewsCard, etc.)
-- lib/
-  - google-sheets.ts — core integration with Google Sheets
-  - types.ts — central TS types
-  - utils.ts — small helpers
-- hooks/ — UI hooks
-- public/ — static assets and placeholder images
-
-Notes:
-- The app uses Next.js App Router (app directory).
-- `app/page.tsx` exports `revalidate = 60` for ISR (revalidate every 60 seconds).
-- API routes set cache-control headers (s-maxage/stale-while-revalidate in many endpoints).
+- `lib/data-source.ts` — selects the static or Sheets data provider.
+- `lib/static-data.ts` — reads recent posts and archive shards.
+- `lib/google-sheets.ts` — Google Sheets integration.
+- `scripts/rss/rssScraper.ts` — RSS ingestion.
+- `scripts/export/export-posts.ts` — generated dataset export.
+- `app/page.tsx` — homepage.
+- `app/api/*` — JSON API surface.
 
 ---
 
 ## Development Notes
 
-- Next.js: v16 (app router)
-- React: v19
-- TypeScript: configured in tsconfig.json with path alias `@/* -> ./*`
-  - Your IDE should support TypeScript path mapping; in VSCode, add the `jsconfig.json` or use the recommended settings to resolve imports.
-- TailwindCSS: configured via `globals.css` (Tailwind v4 plugin entries appear in package.json)
-- Images: `next.config.mjs` sets `images.unoptimized = true` — images are served as-is
-- TypeScript build: `next.config.mjs` sets `typescript.ignoreBuildErrors = true` (be cautious — this allows builds to succeed even when TS errors exist)
+- Next.js 16 with the App Router
+- React 19
+- TypeScript
+- Tailwind CSS 4
+- Google authentication via `google-auth-library`
+- RSS parsing via `rss-parser`
+- Vercel-compatible deployment configuration
 
-Helpful dev commands:
-- Start dev server: `npm run dev`
-- Build: `npm run build`
-- Start production server after build: `npm run start`
-- Lint: `npm run lint`
+`next.config.mjs` currently enables unoptimized image delivery and compression. It does **not** disable TypeScript build checking.
+
+The static data provider keeps the deployed application independent from live Sheets reads while preserving the Sheets provider for explicit use cases.
 
 ---
 
 ## Troubleshooting
 
-1. 401 / 403 when fetching Sheets
-   - Ensure `GOOGLE_SERVICE_ACCOUNT_EMAIL` matches the service account and the Google Sheet is shared with that email (Viewer).
-   - Ensure the Sheets API is enabled in the service account's GCP project.
-   - Confirm the private key is correct and newline escapes are handled properly (replace `\
-` with `
-` if needed).
+### Google Sheets authentication errors
 
-2. "GOOGLE_SHEET_ID is missing"
-   - Set `GOOGLE_SHEET_ID` in your environment; this is the long id from the sheet URL:
-     - Example: `https://docs.google.com/spreadsheets/d/<GOOGLE_SHEET_ID>/edit#gid=0`
+If the RSS scraper or Sheets provider returns authorization errors:
 
-3. Empty results
-   - Confirm sheet rows exist under `FINAL_BLOGS!A2:Q`.
-   - Check `is_published` and `processing_status` values (`TRUE`, `LIVE`, `READY`) for expected rows.
+1. Confirm the service account email is correct.
+2. Confirm the target Google Sheet is shared with the service account.
+3. Confirm the Google Sheets API is enabled for the relevant Google Cloud project.
+4. Confirm `GOOGLE_PRIVATE_KEY` is correctly configured, including newline handling.
 
-4. Slug generation unusual characters
-   - Slugs are generated from final title (lowercased, non-alphanumeric replaced with `-`). If you prefer a custom slug, populate column index 3 (slug) in the sheet and adapt rowToPost to use it.
+### Missing Google Sheet ID
 
----
+Set `GOOGLE_SHEET_ID` to the ID contained in the Google Sheets URL:
 
-## Suggested Improvements & Next Steps
+```text
+https://docs.google.com/spreadsheets/d/<GOOGLE_SHEET_ID>/edit
+```
 
-- Add unit/integration tests for lib/google-sheets and API routes.
-- Add CI (GitHub Actions) to run lint and tests on push.
-- Dockerfile for containerized builds (useful for non-Vercel deployments).
-- Add pagination & sorting to /api/news.
-- Add auth for dashboard pages that manage the sheet (or a backend that writes back to Sheets).
-- Move sensitive configuration to a secrets management solution in production (e.g., Vercel Environment Variables, AWS Secrets Manager).
+### Empty website data
+
+For the static provider, verify that the generated files exist and contain valid JSON:
+
+- `data/posts.json`
+- `data/meta.json`
+- `data/archive-index.json`
+
+If the automation pipeline is the source of the problem, inspect the relevant GitHub Actions workflow run and the latest generated data commit.
+
+### Archived article not found
+
+An archived article must have a matching entry in `data/archive-index.json` and the corresponding monthly archive shard under `data/archive/`.
 
 ---
 
 ## Deployment
 
-Recommended: Vercel (native for Next.js).
-- Make sure to set environment variables in the Vercel project settings.
-- Remember to share the Google Sheet with the service account email (same as in `.env`).
-- If you deploy to other platforms, ensure network access and env variables are set, and the Sheets API is reachable.
+The repository includes a Vercel configuration (`vercel.json`) for the Next.js application.
 
-Cache & CDN:
-- API routes use s-maxage and stale-while-revalidate; tune values based on how fresh your data must be.
+Production deployment uses the generated static dataset committed under `data/`. When the export automation updates that dataset, the deployment flow can trigger a new Vercel build through the configured deploy hook.
 
----
+For a deployment environment:
 
-## Where to Look Next (entry points for contributors)
-
-- lib/google-sheets.ts — Google Sheets integration & data transformations
-- lib/types.ts — canonical data types for API and UI
-- app/api/* — API surface (news, post, categories, search, health)
-- app/page.tsx and components/* — UI and layout
+1. Configure the required build/runtime settings for the application.
+2. Configure Google credentials only where the Sheets provider or automation requires them.
+3. Keep service-account credentials in secure environment variables or GitHub Actions secrets.
+4. Verify the generated data files are present after export.
+5. Verify the health endpoint after deployment.
 
 ---
 
-If you'd like, I can:
-- Add example unit tests for the Google Sheets functions.
-- Create a sample `.github/workflows/ci.yml` for linting and tests.
-- Generate a Dockerfile and docker-compose for local testing.
+## Automation Safety Notes
 
-Happy to expand any section or add code examples for contributors or maintainers.
+AutoBrief treats generated news data as a production artifact. Changes to application code and changes to generated content are separate concerns:
+
+- Application changes should be reviewed through the normal Git workflow.
+- Generated `data/` changes are produced by the automation pipeline.
+- Do not hand-edit generated JSON unless intentionally repairing the generated dataset.
+- Keep credentials out of source control.
+
+---
+
+## Contributing
+
+Before changing application behavior:
+
+1. Create an issue describing the change or problem.
+2. Create a focused branch from `main`.
+3. Keep the change scoped to the issue.
+4. Run the relevant checks locally.
+5. Open a pull request against `main`.
+6. Review the diff and validation results before merging.
+
+Documentation-only changes should remain documentation-only and must not modify production code or automation behavior.
+
+---
+
+## Current Production Philosophy
+
+AutoBrief is intentionally automated and data-driven. The goal is not to introduce infrastructure changes simply because alternative architectures exist; changes should be made when they provide a concrete production benefit, solve a demonstrated problem, or reduce a meaningful operational risk.
+
+For maintainers, start by checking the automation runs, generated data commits, and application health before treating an observed behavior as a production issue.
+
+---
+
+## License
+
+See the repository for the current project licensing terms.
