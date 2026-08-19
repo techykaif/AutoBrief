@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260816-221",
+    "title": "ChatGPT Desktop Adds Computer History Feature to Track User Actions",
+    "slug": "chatgpt-desktop-adds-computer-history-feature-to-track-user-actions",
+    "content": "OpenAI has added a new “Computer History” feature to its ChatGPT desktop app for macOS, designed to turn users’ everyday actions into training data that can inform future interactions. The system records a timeline of activities—such as document edits, code writing, and web browsing—that ChatGPT and its Codex engine can reference when a user makes a request. According to Ari Weinstein, Product and Engineering Manager at OpenAI, the feature is opt‑in, allowing users to exclude specific apps or websites and delete individual entries for finer control.\n\nThe feature is intended to help the model learn how a user works, suggest automations, and pick up tasks that were left incomplete. It automatically ignores content accessed in incognito or private browsing modes, and it can be turned off entirely. By building a contextual history, ChatGPT can provide more personalized and efficient responses, potentially reducing the time users spend repeating information or re‑explaining context.\n\nOpenAI’s announcement, shared on X, highlights the company’s ongoing effort to improve user experience through context-aware AI. While the feature promises greater productivity, it also raises questions about data privacy and user consent, prompting users to review the new settings and manage their activity logs as needed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/16/2026 21:01:53",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-220",
+    "title": "Malta's Chris Fearne urges EU to adopt broader migration strategy",
+    "slug": "malta-s-chris-fearne-urges-eu-to-adopt-broader-migration-strategy",
+    "content": "Malta’s foreign minister, Chris Fearne, warned that Europe’s long‑term solution to its migration crisis cannot be achieved solely through border controls. Speaking at a European Union policy forum in Brussels, Fearne urged member states to expand cooperation with countries of origin and transit, arguing that a comprehensive approach is essential to address the root causes of irregular migration.\n\nFearne cited the growing numbers of migrants arriving by sea, the strain on frontline states, and the need for a coordinated legal framework that balances security with humanitarian obligations. He called for increased funding for development projects in North Africa and the Middle East, enhanced asylum processing capacity, and a shared responsibility system that would allow the EU to manage migration flows more effectively while respecting international law.\n\nThe minister concluded that without a broader, multilateral strategy, Europe risks repeating past failures and exacerbating humanitarian pressures. He urged the European Council to adopt a binding migration agreement that incorporates both preventive measures and robust support for destination and transit countries.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 21:01:48",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-219",
+    "title": "Hurricane Lala downgraded to tropical storm as flooding persists in Hawaii",
+    "slug": "hurricane-lala-downgraded-to-tropical-storm-as-flooding-persists-in-hawaii",
+    "content": "A powerful hurricane brushed the eastern flank of Hawaii’s Big Island on Thursday, prompting widespread alerts but ultimately sparing the island from a direct landfall. The storm, classified as a Category 3 system with sustained winds of 115 mph, moved parallel to the coastline before veering back out to sea, according to the National Hurricane Center.\n\nMeteorologists reported heavy rain bands that produced localized flooding in low‑lying areas, while strong surf generated hazardous conditions along several beaches. The Hawaii Emergency Management Agency activated shelters and pre‑positioned resources, and power outages affected approximately 2,300 customers, though restoration crews reported progress. No major structural damage or injuries were confirmed, and the storm’s core remained offshore, limiting its impact on populated regions.\n\nOfficials will continue to monitor the system as it tracks westward across the Pacific, emphasizing that residual rain and wind could affect the islands for the next 24‑48 hours. Residents are advised to stay informed through official channels and to heed any further advisories issued by local authorities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 21:01:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-218",
+    "title": "DOJ Says Executive Privilege Not a Novel Concept",
+    "slug": "doj-says-executive-privilege-not-a-novel-concept",
+    "content": "Justice Department Defends Executive Privilege Stance\n\nIn a recent statement, Attorney General Todd Blanche dismissed criticism surrounding the Justice Department's (DOJ) opinion on executive privilege, specifically regarding communications between the president and private advisors outside of government. Blanche appeared on \"Fox News Sunday\" and responded to criticism from lawmakers, including Rep. Robert Garcia (D-Calif.), who expressed concerns over the DOJ's stance. When asked about the matter, Blanche stated that the concept of executive privilege over such communications is not a novel legal idea.\n\nBlanche's comments suggest that the DOJ is standing firm on its interpretation of executive privilege, which has been a topic of debate in recent weeks. The controversy stems from the DOJ's opinion that the president's communications with private advisors, such as lawyers and consultants, are protected from disclosure under executive privilege. This stance has raised concerns among lawmakers and transparency advocates, who argue that it could be used to conceal potentially sensitive information. Blanche's defense of the DOJ's position emphasizes that it is grounded in established legal precedent.\n\nThe debate over executive privilege is likely to continue, with lawmakers and the DOJ engaging in a nuanced discussion over the boundaries of the president's authority. As the Justice Department defends its stance, it remains to be seen how this issue will play out in the coming weeks and months.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/16/2026 20:32:18",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-217",
+    "title": "SpaceMD Partners with Starfall for Space-Based Pharmaceutical Development",
+    "slug": "spacemd-partners-with-starfall-for-space-based-pharmaceutical-development",
+    "content": "A significant advancement in medical research has been achieved with SpaceMD's utilization of Starfall, a technology that enables the creation of innovative treatments in low Earth orbit. This breakthrough represents a major leap forward in the field of medicine, with potential applications in the development of treatments for a wide range of diseases. By harnessing the unique conditions of space, researchers can now explore new avenues for creating groundbreaking therapies that were previously impossible to produce on Earth.\n\nThe use of Starfall in low Earth orbit offers a number of advantages for medical research, particularly in the creation of complex biological structures and compounds. In microgravity environments, researchers can manipulate cells and molecules in ways that are not possible on Earth, allowing for the development of novel treatments with unprecedented precision and efficacy. This technology has the potential to revolutionize the treatment of diseases such as cancer and Alzheimer's, which have long been the focus of intense research efforts. By creating new treatments in space, scientists may be able to overcome the limitations of traditional Earth-based research methods and unlock new possibilities for improving human health.\n\nThe implications of SpaceMD's use of Starfall are far-reaching, with potential benefits for patients and medical researchers around the world. As this technology continues to evolve, it is likely that we will see significant advancements in the treatment of a wide range of diseases, leading to improved health outcomes and a better quality of life for those affected. With its potential to transform the field of medicine, SpaceMD's innovative approach to medical research in space is an exciting development that warrants close attention and further exploration.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/16/2026 20:32:13",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-216",
+    "title": "Jason Arday Faces Media Backlash",
+    "slug": "jason-arday-faces-media-backlash",
+    "content": "Lord Simon Woolley Speaks Out on Media Treatment of Arday\n\nLord Simon Woolley, a prominent figure in British society, has expressed his concerns over the media's handling of a recent high-profile case involving Arday. According to Lord Woolley, Arday has been subjected to intense media scrutiny, which he describes as \"hounding.\" This relentless pursuit by the media has caught the attention of many, sparking debates about the ethics of journalism and the impact it has on individuals.\n\nLord Woolley's comments come as Arday continues to face a barrage of media attention, with many outlets seeking to uncover every detail of the case. While the media's role in holding those in power accountable is crucial, Lord Woolley's statement highlights the need for a more balanced approach. The pursuit of a story should not come at the expense of an individual's well-being, and it is essential that the media respects the boundaries of those they are reporting on. As the situation unfolds, it will be interesting to see how the media responds to Lord Woolley's concerns.\n\nThe case of Arday has garnered significant attention in recent weeks, with many calling for a more measured approach to media coverage. Lord Woolley's comments have added to the growing debate, emphasizing the need for a more considerate and nuanced approach to reporting. As the situation continues to evolve, it will be essential for the media to strike a balance between informing the public and respecting the rights of those involved.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/16/2026 20:32:07",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260816-213",
+    "title": "Yasukuni Shrine: 2.5 Million Enshrined, Including War Criminals",
+    "slug": "yasukuni-shrine-2-5-million-enshrined-including-war-criminals",
+    "content": "Yasukuni Shrine in Tokyo, a site that honors Japan’s war dead, currently enshrines roughly 2.5 million individuals. Among those commemorated are soldiers, officers, and other personnel who served the Imperial Japanese Army and Navy during the first half of the twentieth century, including figures later identified as war criminals by international tribunals and domestic courts.\n\nThe shrine’s inclusion of war‑time figures who were convicted of crimes against humanity has long drawn criticism from neighboring countries such as China and South Korea, as well as from human rights observers. Visits by Japanese officials and politicians to Yasukuni are routinely viewed as provocative, prompting diplomatic protests and calls for a more nuanced approach to Japan’s wartime legacy.\n\nDespite the controversy, the shrine remains a focal point for Japanese remembrance ceremonies, especially on national holidays. Its continued role in memorializing a broad spectrum of wartime personnel underscores the complex and contested nature of Japan’s collective memory of World War II.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/16/2026 20:31:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260816-212",
     "title": "Israeli minister Ben-Gvir urges nightly killings in Gaza",
     "slug": "israeli-minister-ben-gvir-urges-nightly-killings-in-gaza",
