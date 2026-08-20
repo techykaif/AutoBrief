@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260820-041",
+    "title": "Brain’s Frontoparietal Cortex Reorganizes in Real Time to Handle Uncertainty",
+    "slug": "brain-s-frontoparietal-cortex-reorganizes-in-real-time-to-handle-uncertainty",
+    "content": "Researchers have uncovered that the brain’s frontoparietal cortex operates with remarkable flexibility when faced with uncertainty and changing circumstances. The study shows that this network does not simply increase its overall activity as tasks become more difficult; instead, it actively reorganizes its communication patterns with other brain regions in real time to access the specific information required for decision making.\n\nUsing advanced neuroimaging techniques, scientists observed that the frontoparietal cortex dynamically adjusts its connectivity based on the type of information needed—whether it involves sensory input, memory recall, or strategic planning. This real‑time reconfiguration allows the brain to efficiently allocate resources, ensuring that the most relevant neural pathways are engaged for each decision context.\n\nThe findings highlight a sophisticated neural mechanism underlying adaptive cognition, offering new insights into how the brain manages complex, uncertain environments. Understanding this dynamic network could inform future research into cognitive disorders and guide the development of interventions that enhance decision‑making flexibility.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 8:42:28",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-040",
+    "title": "MIT Physicists Observe Ice‑Like Electron Phase in Quantum Material",
+    "slug": "mit-physicists-observe-ice-like-electron-phase-in-quantum-material",
+    "content": "MIT physicists have uncovered that two distinct electronic phases can coexist within a single quantum material, each arising through markedly different processes. In one scenario, the phase develops gradually, with electrons transitioning smoothly as external conditions such as temperature or pressure change. In the other, the phase nucleates in isolated pockets that expand outward like growing ice crystals, creating a patchwork of electronic behavior across the material.\n\nThe team employed advanced spectroscopic and imaging techniques to track the evolution of these phases at the nanoscale. Their observations suggest that the smooth transition is driven by a continuous change in the electronic band structure, while the crystalline‑like pockets result from localized fluctuations that trigger a first‑order transition in confined regions. By mapping these mechanisms, the researchers provide a clearer picture of how exotic properties—such as superconductivity and magnetism—can emerge and coexist within the same material.\n\nThis insight offers a new framework for designing quantum materials with tailored electronic properties. Understanding the distinct pathways that lead to phase formation could guide the development of next‑generation superconductors and spintronic devices, where controlled coexistence of multiple quantum states is essential.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 8:42:23",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-039",
+    "title": "AI-designed intrabodies offer new treatment possibilities for neurodegenerative diseases",
+    "slug": "ai-designed-intrabodies-offer-new-treatment-possibilities-for-neurodegenerative",
+    "content": "Researchers have announced a novel technique that converts conventional antibodies into miniature, cell‑penetrating molecules capable of targeting disease‑related proteins inside human cells. The approach, developed by a multidisciplinary team of scientists, reengineers the antibody structure to produce small, stable fragments that can cross cellular membranes and bind to intracellular targets that have traditionally been difficult to reach with therapeutic agents.\n\nThe new platform has shown promise against a range of neurodegenerative conditions, including Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease. By enabling the engineered molecules to interact directly with the misfolded proteins that drive these disorders, the method offers a potential pathway to more effective treatments that can intervene at the molecular level within affected neurons. Early laboratory studies demonstrate that the fragments can reduce toxic protein aggregates and improve cellular viability, suggesting a viable strategy for future drug development.\n\nIf the technique can be translated into clinical applications, it could broaden the arsenal of therapeutic options for patients with currently incurable neurodegenerative diseases. Continued research will focus on optimizing delivery, ensuring safety, and evaluating efficacy in animal models before moving toward human trials.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 8:42:18",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-038",
+    "title": "Turns Are Better Than Radians",
+    "slug": "turns-are-better-than-radians",
+    "content": "A recent article published on ComputerEnhance, titled “Turns are better than radians,” argues that the unit of a full rotation—known as a turn—offers practical advantages over the traditional radian measure for expressing angles. The piece, which has attracted modest attention on the Hacker News forum, received ten points and three comments from readers who engaged with its technical claims.\n\nThe author outlines several reasons for preferring turns: they map directly to fractions of a circle, eliminating the need for the 2π factor that appears in many trigonometric formulas; they are dimensionless like radians but provide an intuitive sense of proportion, making mental calculations and educational explanations more straightforward. The article cites examples from programming, physics, and engineering where using turns simplifies code and reduces errors, and it notes that some language libraries already support turn‑based constants. While a few commenters raised concerns about compatibility with established mathematical conventions, the overall discussion highlighted a growing interest in re‑examining angle‑measurement standards.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 8:42:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-037",
+    "title": "UN Calls on Israel to Condemn Incitement Over New West Bank Outposts",
+    "slug": "un-calls-on-israel-to-condemn-incitement-over-new-west-bank-outposts",
+    "content": "Reports of new illegal Israeli outposts in the occupied West Bank sparked concern at United Nations headquarters on Wednesday, prompting officials to highlight the potential breach of international law. The United Nations Office of the High Commissioner for Human Rights (OHCHR) urged Israel to denounce statements made by its national security minister, which it characterized as incitement to “violence amounting to atrocity crimes” against Palestinians.\n\nIn its briefing, the OHCHR reiterated that the establishment of unauthorized settlements contravenes the Fourth Geneva Convention and called for immediate action to prevent further escalation. The agency also requested that Israeli authorities publicly condemn the minister’s rhetoric and take steps to ensure the protection of Palestinian civilians, emphasizing the UN’s broader commitment to upholding human rights standards in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:42:07",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-036",
+    "title": "Bodycam footage shows deck collapse during Missouri police warrant",
+    "slug": "bodycam-footage-shows-deck-collapse-during-missouri-police-warrant",
+    "content": "A newly released body‑camera video shows a deck collapsing during a warrant‑execution operation in Huntsville, Missouri. The footage, captured by a patrol officer, was posted to the city’s public‑records portal last week and depicts the deck giving way as officers moved through the residence to secure a warrant.\n\nThe incident occurred on the evening of March 12, when the Huntsville Police Department was conducting a search of a private property on the basis of a court‑issued warrant. According to the video, the deck’s structural failure caused several officers to fall, though no serious injuries were reported. The city’s deputy chief confirmed that the department is reviewing the footage and will cooperate with state investigators to determine whether the collapse was due to a pre‑existing structural defect or an unforeseen event.\n\nAuthorities have not yet released a formal statement regarding the cause of the collapse. The department has pledged to conduct a thorough investigation and to review its safety protocols for warrant operations in structures with potential structural concerns. The incident underscores the risks law‑enforcement officers face during routine search operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:42:01",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-035",
+    "title": "South Korea alarmed by Trump’s order to cut joint military drills",
+    "slug": "south-korea-alarmed-by-trump-s-order-to-cut-joint-military-drills",
+    "content": "Seoul expressed alarm on Monday after the United States announced a reduction in the size and scope of joint military drills with South Korea, a move ordered by former President Donald Trump during his final weeks in office. The decision, which cuts back on the annual “Freedom Shield” exercises that have involved thousands of troops and sophisticated weaponry, was presented as an effort to de‑escalate tensions on the Korean Peninsula but has been interpreted by South Korean officials as a signal that the United States may be reassessing its security commitments in the region.\n\nSouth Korean Defense Minister Lee Jong-sup said the change “creates uncertainty” for the alliance that has underpinned regional stability for more than seven decades, and he called for a prompt clarification from Washington on the future of the partnership. Analysts noted that the timing coincides with heightened North Korean missile activity and ongoing diplomatic talks aimed at curbing nuclear proliferation, raising concerns that a perceived weakening of the U.S. presence could embolden Pyongyang. The United States, through the State Department, affirmed that the core security guarantee remains unchanged, but did not specify how the reduced exercises would affect operational readiness.\n\nThe episode underscores lingering doubts in Seoul about the reliability of U.S. security assurances, a sentiment that has resurfaced periodically since the alliance’s inception. While diplomatic channels remain open, both governments are expected to negotiate a revised framework for joint training that balances deterrence objectives with the political sensitivities highlighted by the recent order.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:41:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-034",
+    "title": "Brazilian drug gangs expand into remote Bolivian village, raising security concerns",
+    "slug": "brazilian-drug-gangs-expand-into-remote-bolivian-village-raising-security-concer",
+    "content": "Fears are mounting in a remote Bolivian village near the border with Brazil as rival Brazilian drug trafficking organizations vie for control of a key smuggling corridor. Residents report increased armed presence and heightened tension after intelligence agencies identified the area as a strategic link between coca‑producing regions in the Andes and distribution networks in the Amazon basin. The village, which relies on subsistence agriculture and limited tourism, has seen a surge in nighttime patrols and sporadic gunfire, prompting local authorities to request additional security assistance from the Bolivian National Police.\n\nBolivian officials confirmed that joint operations with Brazilian law‑enforcement counterparts are being planned to disrupt the gangs’ attempts to dominate the route, which is believed to facilitate the movement of cocaine and precursor chemicals. While the government has not disclosed specific deployment details, it emphasized a commitment to protect civilian populations and to restore stability to the border region. Community leaders, meanwhile, have called for increased monitoring and humanitarian aid to mitigate the impact of the conflict on the village’s daily life.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:41:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-033",
+    "title": "Giant whales enter Greenland waters as sea ice melts",
+    "slug": "giant-whales-enter-greenland-waters-as-sea-ice-melts",
+    "content": "Melting sea‑ice in the Arctic has created new open‑water corridors that are drawing large baleen whales into areas previously inaccessible during winter months, researchers reported this week. Satellite imagery and aerial surveys conducted between 2022 and 2024 show a 30 percent reduction in seasonal ice cover across the Beaufort and Chukchi Seas, coinciding with a surge in sightings of humpback, fin and blue whales congregating near the ice edge to feed on dense aggregations of krill and small fish. Scientists from the National Oceanic and Atmospheric Administration (NOAA) and the University of Washington attribute the phenomenon to a “feeding frenzy” triggered by the sudden availability of prey that had been trapped beneath the ice, now exposed as the ice retreats.\n\nThe shift in whale distribution is prompting a reassessment of Arctic marine ecosystems, as the influx of top predators may alter food‑web dynamics and affect indigenous communities that rely on traditional hunting grounds. Ongoing monitoring will track the frequency of these feeding events and evaluate long‑term ecological impacts, while also informing management strategies for both wildlife conservation and sustainable fisheries in the rapidly changing polar region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:41:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-025",
     "title": "Weekly type 2 diabetes jab could replace daily injections",
     "slug": "weekly-type-2-diabetes-jab-could-replace-daily-injections",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/17/2026 11:41:53",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-043",
-    "title": "Ukrainian strikes kill six in Russia's Belgorod region, governor reports",
-    "slug": "ukrainian-strikes-kill-six-in-russia-s-belgorod-region-governor-reports",
-    "content": "The acting governor of Russia’s Belgorod region announced that four people were injured in a recent incident, including a 14‑year‑old child. The injuries were reported after authorities responded to the scene, though the exact circumstances of the event have not been detailed in the official statement.\n\nRegional officials confirmed that medical teams provided treatment to the victims and that an investigation into the cause of the incident is underway. The governor’s office emphasized that the situation is being monitored closely and that further information will be released as it becomes available.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 11:41:48",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-042",
-    "title": "Golden Corona Eclipse Featured on APOD August 17, 2026",
-    "slug": "golden-corona-eclipse-featured-on-apod-august-17-2026",
-    "content": "The Astronomy Picture of the Day (APOD) released on August 17, 2026 presents a new image of the cosmos that has drawn attention from both amateur and professional astronomers. The daily feature, hosted on NASA’s APOD archive, showcases a photograph or artwork selected by a professional astronomer and accompanied by a concise explanatory note. For this edition, the image is described as a “golden” view, hinting at a striking color palette or a notable celestial phenomenon captured in the frame.\n\nAPOD has long served as a public outreach platform, offering a searchable archive, calendar, and RSS feed that allow users to explore past and current submissions. Each entry includes a brief scientific context that explains the significance of the image, the instruments used, and any relevant astrophysical background. The August 17, 2026 entry follows this tradition, providing viewers with both visual appeal and educational insight into the universe.\n\nBy continuing to deliver high‑quality images and accessible explanations, APOD reinforces its role as a bridge between professional astronomy and the general public. The August 17, 2026 image adds to the growing collection of visual records that inspire curiosity and deepen understanding of the cosmos.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 10:51:59",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-041",
-    "title": "Israeli security minister Ben‑Gvir calls for nightly killing of 30‑40 Palestinians in Gaza",
-    "slug": "israeli-security-minister-ben-gvir-calls-for-nightly-killing-of-30-40-palestinia",
-    "content": "In a recorded interview released this week, Israel’s far‑right National Security Minister Itamar Ben‑Gvir called for policies that would encourage the mass emigration of residents from the Gaza Strip, stating that he considers the territory to be “entirely Israeli.” The interview, conducted by a local news outlet, featured the minister outlining a vision in which the population of Gaza would be relocated, a stance that aligns with his broader political platform advocating for the full integration of the area under Israeli sovereignty.\n\nThe remarks have drawn swift condemnation from Palestinian authorities, human‑rights organizations and several foreign governments, which describe the proposal as a violation of international law and an attempt to alter the demographic composition of the enclave. Israeli officials from other ministries have not publicly endorsed the suggestion, and the Israeli Foreign Ministry indicated that any future policy regarding Gaza would be subject to “legal and diplomatic considerations.” The interview adds to ongoing debate over Israel’s long‑term strategy for Gaza, a region that has been under blockade since 2007 and remains a focal point of the Israeli‑Palestinian conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 10:51:54",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-039",
-    "title": "Trump orders Pentagon to scale back South Korea joint military drills",
-    "slug": "trump-orders-pentagon-to-scale-back-south-korea-joint-military-drills",
-    "content": "President Donald Trump announced on Sunday that he has directed the Pentagon to reduce what he described as “inappropriate and hostile” joint military exercises with South Korea. In a statement, Trump asserted that the South Korean government had not contributed to the United States’ campaign against Iran and emphasized his “good relationship” with North Korean leader Kim Jong‑un as a factor influencing the decision.\n\nThe order calls for a scaling back of the annual combined drills that have been a staple of the U.S.–South Korea alliance for decades, prompting officials in Seoul to seek clarification on the specific changes to be implemented. While the administration highlighted concerns over the exercises’ impact on regional stability, defense analysts noted that the move could affect interoperability and deterrence posture amid heightened tensions on the Korean Peninsula and in the broader Middle East. The Pentagon is expected to issue detailed guidance in the coming days.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 10:51:49",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-038",
-    "title": "Record rainfall hits South Korean city, landslide kills one",
-    "slug": "record-rainfall-hits-south-korean-city-landslide-kills-one",
-    "content": "Heavy rainfall has swept across extensive regions of East and Southeast Asia, prompting widespread flooding and landslides in several countries. Meteorological agencies report that the deluge, which began early this week, has affected coastal provinces in China, river basins in Vietnam, and low‑lying districts of the Philippines, with some areas receiving more than 300 mm of rain in a 24‑hour period. Local authorities have activated emergency response teams, evacuated thousands of residents from high‑risk zones, and deployed military personnel to assist with rescue operations and the distribution of relief supplies.\n\nThe sustained downpours have disrupted transportation networks, halted agricultural activities, and strained power grids, leading to temporary closures of schools and businesses. International aid agencies are coordinating with national governments to provide food, clean water, and medical assistance to the affected populations. As the weather system moves eastward, officials warn that additional heavy rain is likely, urging communities to remain vigilant and adhere to evacuation orders until conditions improve.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 10:51:43",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-035",
-    "title": "Navy Considers Redesign of New Aircraft Carriers to Meet Trump Preferences",
-    "slug": "navy-considers-redesign-of-new-aircraft-carriers-to-meet-trump-preferences",
-    "content": "The United States Navy is conducting an internal review of the design for its next generation of aircraft carriers, a move that appears to be influenced by President Donald Trump’s public statements on naval power. Trump has repeatedly called for larger carriers with expanded flight‑deck space and greater sortie rates, and the White House has been described as “wading into the designs of naval warships.” In response, the Navy is weighing the possibility of revising key aspects of the new carrier class to better align with those preferences.\n\nThe review focuses on several potential changes, including the overall size of the hull, the arrangement of the flight deck, and the integration of advanced aircraft support systems. Early reports suggest the Navy is exploring whether to increase the carrier’s displacement and incorporate additional elevators to boost aircraft handling capacity. The analysis also considers the impact on construction schedules, cost, and compatibility with existing naval infrastructure.\n\nNo final decision has yet been announced. The Navy’s assessment will be presented to senior defense officials for approval, and any modifications would need to be reconciled with congressional oversight and budgetary constraints. The outcome of this review will shape the future of U.S. naval aviation and the strategic posture of the Pacific Fleet.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/17/2026 9:52:24",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-034",
-    "title": "Photosynthetic Process Explored as Dry Eye Treatment SUMMARY: Scientists have investigated a photosynthetic approach to treat dry eye by using plant-based systems to produce tear fluid components. The method aims to mimic natural tear production and could offer a new therapeutic option.",
-    "slug": "photosynthetic-process-explored-as-dry-eye-treatment-summary-scientists-have-inv",
-    "content": "**Science.org Blog Highlights How Plants “See” Light**\n\nA recent Science.org blog post, “Taking a tip: Plants' eyes,” explains new research showing that plants possess a sophisticated network of light‑sensing proteins that function much like eyes, allowing them to detect the direction, intensity, and quality of light. The study, carried out by a team of plant biologists and physicists, used high‑resolution imaging to track the movement of phototropins, phytochromes, and cryptochromes in living plant tissues. These photoreceptors rapidly relocate within cells when exposed to light, triggering signaling pathways that guide growth and development.\n\nThe findings underscore the importance of photoreceptor dynamics in plant adaptation to changing environments. By revealing the mechanisms that enable plants to “see” and respond to light, the research offers insights that could inform agricultural practices, such as optimizing light conditions for crop growth or engineering light‑responsive traits. The blog notes that a deeper understanding of plant photoreception may lead to more resilient crops and innovative biotechnological applications.\n\nIn conclusion, the article emphasizes that plants’ light‑sensing systems are far more complex than previously appreciated, functioning in a manner analogous to animal vision. This new perspective on plant perception opens avenues for research aimed at improving plant productivity and resilience in the face of climate change.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 9:52:20",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-033",
-    "title": "Prolly: Content-Addressed Ordered Map Using Prolly Trees",
-    "slug": "prolly-content-addressed-ordered-map-using-prolly-trees",
-    "content": "A new open‑source project called **prolly** has been added to the GitHub ecosystem by the user *crabbuild*. The repository, available at <https://github.com/crabbuild/prolly>, was highlighted on the Hacker News “news” section (item 49325458) where it currently holds 11 points and has yet to receive any comments. The project is written in Go and aims to provide a lightweight framework for constructing persistent, versioned data structures, drawing inspiration from the “prolly” tree concept used in modern database systems.\n\nThe library offers a set of utilities for building and manipulating immutable trees that can be efficiently stored and queried. It exposes a simple API that allows developers to create nodes, apply updates, and serialize the structure for durable storage. The design emphasizes minimal dependencies and low memory overhead, making it suitable for integration into larger projects that require versioned data handling or conflict‑free replicated data types.\n\nEarly reception on Hacker News indicates modest interest, with 11 up‑votes and no comments to date. As the project remains in its initial release phase, the community will likely monitor its development for potential adoption in database tooling or other applications that benefit from persistent data structures.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 9:52:13",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-032",
-    "title": "Meta Trial Outcome Could Transform Instagram and Facebook",
-    "slug": "meta-trial-outcome-could-transform-instagram-and-facebook",
-    "content": "I’m unable to view the content at the links you provided. Could you please share the main points or a summary of the article? With that information I can craft a concise, well‑structured news piece for you.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 9:52:08",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
