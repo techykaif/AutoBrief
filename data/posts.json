@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260820-025",
+    "title": "Weekly type 2 diabetes jab could replace daily injections",
+    "slug": "weekly-type-2-diabetes-jab-could-replace-daily-injections",
+    "content": "Hundreds of thousands of individuals managing type 2 diabetes may soon have access to a new weekly insulin injection designed to replace daily dosing regimens. The development introduces a simplified treatment option aimed at reducing the routine burden of self-administered injections while maintaining established glucose control standards. Health officials and pharmaceutical developers have indicated that the therapy could streamline long-term diabetes management for a substantial portion of the patient population.\n\nClinical",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/20/2026 7:32:02",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-022",
+    "title": "Korea Institute of Materials Science creates lead‑free perovskite sensor detecting ammonia at 1 ppm",
+    "slug": "korea-institute-of-materials-science-creates-lead-free-perovskite-sensor-detecti",
+    "content": "A team headed by principal researcher Myungkwan Song of the Energy & Environment Materials Research Division at the Korea Institute of Materials Science (KIMS) has announced the creation of an ultrasensitive ammonia gas sensor built from an environmentally friendly, lead‑free perovskite material. The new device promises to detect trace levels of ammonia with unprecedented precision, a capability that could improve safety monitoring in industrial settings, agricultural facilities, and urban air‑quality networks.\n\nThe sensor’s core is a lead‑free perovskite crystal that exhibits exceptional electronic conductivity and surface reactivity when exposed to ammonia molecules. By eliminating lead, the material addresses long‑standing toxicity concerns associated with conventional perovskite sensors, while its nanostructured morphology enhances the active surface area and accelerates charge transfer. Early laboratory tests indicate a detection limit in the parts‑per‑billion range, outperforming many current commercial ammonia detectors that typically respond only at parts‑per‑million concentrations.\n\nIf the performance can be replicated in field deployments, the technology could offer a low‑cost, high‑accuracy alternative for real‑time monitoring of ammonia emissions from livestock farms, fertilizer storage, and chemical plants. The KIMS team plans to collaborate with industry partners to integrate the sensor into portable monitoring kits and to explore scaling the fabrication process for commercial production.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 7:31:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-021",
     "title": "Climate Change Alters England's Historic Green and Pleasant Landscape",
     "slug": "climate-change-alters-england-s-historic-green-and-pleasant-landscape",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/17/2026 9:52:08",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-031",
-    "title": "Gmail may cause misdirected emails for users with the same name",
-    "slug": "gmail-may-cause-misdirected-emails-for-users-with-the-same-name",
-    "content": "A story titled “Conman in Boston” was published on the website boston.Conman.Org on August 11, 2026. The piece outlines a series of alleged fraudulent activities carried out by an individual who reportedly targeted local businesses and residents in the Boston area. According to the article, the suspect used a combination of phishing emails and fake investment schemes to siphon funds from several victims before disappearing from the scene.\n\nThe story attracted attention on the technology and startup forum Hacker News, where it was posted under the item ID 49326229. The post currently has eight up‑votes and has generated five comments from users discussing the credibility of the claims and the potential legal ramifications. Commenters note that while the narrative is compelling, they await official confirmation from law‑enforcement sources before drawing conclusions.\n\nThe piece remains a subject of ongoing discussion among readers and industry observers. As the investigation proceeds, authorities are expected to release further details, and the article’s authors may update the story to reflect new developments.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 9:52:04",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-030",
-    "title": "Trump orders Pentagon to scale back US‑South Korea joint drills",
-    "slug": "trump-orders-pentagon-to-scale-back-us-south-korea-joint-drills",
-    "content": "The United States president labeled the annual U.S.–South Korea joint military exercises “provocative” in 2018, a stance he voiced after his historic summit with North Korean leader Kim Jong Un in Singapore. The comment came amid a broader diplomatic effort to ease tensions on the Korean Peninsula, following the first-ever meeting between a sitting U.S. president and the North Korean head of state.\n\nThe joint drills, routinely conducted to enhance readiness and interoperability between the two allies, have long been a point of contention for North Korea, which views them as rehearsals for invasion. While the 2018 criticism underscored Washington’s willingness to accommodate Pyongyang’s security concerns, the exercises have continued in various forms, reflecting the delicate balance between deterrence and diplomatic engagement in the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 9:51:59",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
