@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260820-715",
+    "title": "VCs Seek Financially Savvy Founders, Says $1B‑Raised CEO",
+    "slug": "vcs-seek-financially-savvy-founders-says-1b-raised-ceo",
+    "content": "In the latest episode of the Build Mode podcast, host Isabelle Johannessen interviews Sasha Orloff, founder and CEO of Puzzle, to discuss the critical role of financial discipline in early-stage startups. Orloff stresses that investors increasingly seek founders who possess a clear grasp of their company’s financial reality. He warns that messy data, misunderstood metrics, and delaying fundraising until cash reserves are nearly exhausted can erode a founder’s negotiating power, lower valuations, and even jeopardize securing a term sheet.\n\nThe conversation highlights specific pitfalls: inconsistent data collection can mask true performance, leading to misaligned expectations between founders and investors. Orloff advises establishing robust financial reporting systems early, prioritizing key metrics that investors scrutinize, and timing capital raises to maintain runway without compromising leverage. He cites examples of startups that lost valuation upside because they waited too long to present a clean financial picture.\n\nConcluding the episode, Orloff underscores that disciplined financial management is not merely a back‑office task but a strategic lever in fundraising. By maintaining accurate data, focusing on the metrics that matter, and initiating capital discussions at the right moment, founders can preserve valuation, secure favorable terms, and ultimately increase the likelihood of a successful funding round.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 5:11:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-714",
+    "title": "Landscape gardening shifts to electric tools but adoption lags",
+    "slug": "landscape-gardening-shifts-to-electric-tools-but-adoption-lags",
+    "content": "The transition from diesel‑powered to electric machinery, which promises reduced noise levels in construction sites, ports and other industrial settings, is progressing more slowly than anticipated by regulators and advocacy groups. Recent surveys from the International Energy Agency and national occupational health agencies indicate that only about 30 % of new equipment purchases in the United States and Europe in the past year were electric, a share far below the 50 % target set for 2025 under several municipal noise‑abatement plans. Manufacturers cite higher upfront costs, limited battery endurance, and the need for upgraded charging infrastructure as primary obstacles, while many contractors point to the lack of comparable performance specifications for heavy‑duty tasks.\n\nIndustry analysts note that policy incentives, such as tax credits and low‑interest loans, have begun to stimulate demand, but the pace of adoption remains constrained by supply‑chain bottlenecks and the gradual rollout of supportive regulations. As governments continue to tighten noise‑pollution standards and public pressure mounts for quieter urban environments, stakeholders are expected to intensify efforts to address cost and technology gaps, aiming to accelerate the shift toward quieter electric equipment in the coming years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 5:11:52",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-713",
+    "title": "Woman arrested for alleged plot against New York State Capitol",
+    "slug": "woman-arrested-for-alleged-plot-against-new-york-state-capitol",
+    "content": "Jessica Bowie, a 35‑year‑old woman, was taken into custody on charges of providing material support for terrorism. Law enforcement officials announced the arrest, indicating that the indictment alleges Bowie supplied resources that aided a designated terrorist organization, a violation punishable under federal statutes.\n\nThe charge of material support for terrorism carries severe penalties, including lengthy imprisonment and substantial fines, and typically involves the provision of funds, training, weapons, or other assistance to extremist groups. Bowie is expected to appear before a federal judge in the coming days, where the prosecution will outline the evidence and the defense will have an opportunity to respond.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 5:11:47",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-706",
     "title": "NY Mayor Mamdani Sues to Block $10,000 Teaching Aide Bonuses",
     "slug": "ny-mayor-mamdani-sues-to-block-10-000-teaching-aide-bonuses",
@@ -5464,39 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/18/2026 3:31:50",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-467",
-    "title": "UC Riverside study finds pesticides alter Argentine ant behavior before worker death",
-    "slug": "uc-riverside-study-finds-pesticides-alter-argentine-ant-behavior-before-worker-d",
-    "content": "Researchers at the University of California, Riverside have found that an increase in ant activity following the deployment of pesticide traps does not necessarily indicate a failed treatment. The study, published in the journal *Environmental Entomology*, tracked the movement of chemical agents through ant colonies and observed that sublethal exposure altered foraging patterns, causing workers to increase surface activity before the poison reaches lethal concentrations throughout the nest.\n\nThe findings suggest that pest‑management professionals should interpret a temporary surge in ant presence as a behavioral response to the dispersal of toxins rather than a sign of resistance or ineffective control. By recognizing that chemicals propagate through the colony over time, operators can allow the treatment to complete its action cycle, reducing the likelihood of premature re‑application and improving overall efficacy in ant suppression programs.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 3:31:46",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-449",
-    "title": "Relay AI Startup Closes, Staff Join Google Chrome",
-    "slug": "relay-ai-startup-closes-staff-join-google-chrome",
-    "content": "Relay, a workflow‑automation platform aimed at businesses, announced that it will cease operations next month. The company’s CEO and a number of employees have indicated that they will transition to developing features for Google Chrome, suggesting a pivot toward browser‑based productivity tools.\n\nRelay’s service enabled teams to automate repetitive tasks, integrate disparate software, and streamline internal processes. The decision to shut down follows a period of declining user growth and increasing competition from larger cloud‑automation providers. While the company has not disclosed specific financial details, it cited the need to reallocate resources to more promising ventures.\n\nThe transition to Google Chrome development is expected to allow former Relay staff to leverage the browser’s extensive developer ecosystem and user base. As the platform winds down, existing customers will be advised to migrate their workflows to alternative solutions, and the company will provide a final support window before the shutdown.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 3:11:57",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-448",
-    "title": "UNIFIL reports 137 projectiles fired daily in Lebanon amid Israeli military escalation",
-    "slug": "unifil-reports-137-projectiles-fired-daily-in-lebanon-amid-israeli-military-esca",
-    "content": "The United Nations peacekeeping mission operating in the conflict‑affected region reported that an average of 137 projectiles were fired each day over the past fourteen days. The figure was derived from continuous field observations and data collection by the force’s monitoring units, which track the frequency and intensity of hostilities as part of their mandate to protect civilians and support stability.\n\nUN officials said the sustained level of fire underscores the volatile security environment and will inform future operational planning and diplomatic engagement. The mission will maintain its surveillance activities and coordinate with local authorities and international partners to mitigate the risk of further escalation while continuing to document incidents for reporting to the United Nations Security Council.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 3:11:51",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]

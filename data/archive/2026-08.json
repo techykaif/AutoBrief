@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260817-467",
+    "title": "UC Riverside study finds pesticides alter Argentine ant behavior before worker death",
+    "slug": "uc-riverside-study-finds-pesticides-alter-argentine-ant-behavior-before-worker-d",
+    "content": "Researchers at the University of California, Riverside have found that an increase in ant activity following the deployment of pesticide traps does not necessarily indicate a failed treatment. The study, published in the journal *Environmental Entomology*, tracked the movement of chemical agents through ant colonies and observed that sublethal exposure altered foraging patterns, causing workers to increase surface activity before the poison reaches lethal concentrations throughout the nest.\n\nThe findings suggest that pest‑management professionals should interpret a temporary surge in ant presence as a behavioral response to the dispersal of toxins rather than a sign of resistance or ineffective control. By recognizing that chemicals propagate through the colony over time, operators can allow the treatment to complete its action cycle, reducing the likelihood of premature re‑application and improving overall efficacy in ant suppression programs.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 3:31:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-449",
+    "title": "Relay AI Startup Closes, Staff Join Google Chrome",
+    "slug": "relay-ai-startup-closes-staff-join-google-chrome",
+    "content": "Relay, a workflow‑automation platform aimed at businesses, announced that it will cease operations next month. The company’s CEO and a number of employees have indicated that they will transition to developing features for Google Chrome, suggesting a pivot toward browser‑based productivity tools.\n\nRelay’s service enabled teams to automate repetitive tasks, integrate disparate software, and streamline internal processes. The decision to shut down follows a period of declining user growth and increasing competition from larger cloud‑automation providers. While the company has not disclosed specific financial details, it cited the need to reallocate resources to more promising ventures.\n\nThe transition to Google Chrome development is expected to allow former Relay staff to leverage the browser’s extensive developer ecosystem and user base. As the platform winds down, existing customers will be advised to migrate their workflows to alternative solutions, and the company will provide a final support window before the shutdown.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 3:11:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-448",
+    "title": "UNIFIL reports 137 projectiles fired daily in Lebanon amid Israeli military escalation",
+    "slug": "unifil-reports-137-projectiles-fired-daily-in-lebanon-amid-israeli-military-esca",
+    "content": "The United Nations peacekeeping mission operating in the conflict‑affected region reported that an average of 137 projectiles were fired each day over the past fourteen days. The figure was derived from continuous field observations and data collection by the force’s monitoring units, which track the frequency and intensity of hostilities as part of their mandate to protect civilians and support stability.\n\nUN officials said the sustained level of fire underscores the volatile security environment and will inform future operational planning and diplomatic engagement. The mission will maintain its surveillance activities and coordinate with local authorities and international partners to mitigate the risk of further escalation while continuing to document incidents for reporting to the United Nations Security Council.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 3:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-447",
     "title": "Palestinian-American Loui Ridi reunites with family in Qusra, West Bank",
     "slug": "palestinian-american-loui-ridi-reunites-with-family-in-qusra-west-bank",
