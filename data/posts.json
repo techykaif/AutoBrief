@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260820-666",
+    "title": "AI boosts sensitivity to double-Higgs signatures occurring about once per trillion collisions",
+    "slug": "ai-boosts-sensitivity-to-double-higgs-signatures-occurring-about-once-per-trilli",
+    "content": "Particle physicists are gearing up to test a fundamental assumption about the cosmos: whether the universe is truly stable. The inquiry will be pursued at the Large Hadron Collider (LHC), the world’s most powerful particle accelerator, whose next major upgrade is slated for completion in roughly four years. The enhanced machine will deliver higher collision energies and greater data volumes, offering scientists an unprecedented opportunity to probe the stability of the vacuum that underpins all physical phenomena.\n\nIn preparation for the upgraded LHC, research teams worldwide are refining the analytical methods needed to interpret the incoming flood of information. A group at the University of Michigan, alongside international collaborators, is focusing on improving data‑analysis algorithms, detector‑calibration techniques, and theoretical models. By sharpening these tools now, the community aims to maximize the scientific return from both the LHC’s current operations and its future, high‑precision runs, potentially delivering decisive insight into the long‑standing question of cosmic stability.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 3:12:08",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-665",
+    "title": "A new role for nitrate reductase in regulating nitrogen-responsive nodulation",
+    "slug": "a-new-role-for-nitrate-reductase-in-regulating-nitrogen-responsive-nodulation",
+    "content": "Plants such as legumes develop specialized root structures known as nodules, where they host nitrogen‑fixing bacteria in a mutualistic partnership. Within these nodules, the bacteria convert atmospheric nitrogen into forms the plant can assimilate, allowing the host to obtain essential nutrients without relying heavily on external nitrogen fertilizers.\n\nResearchers highlight the potential of leveraging this natural symbiosis to create more sustainable agricultural systems. By promoting or engineering root nodule formation in crop species, the dependence on synthetic fertilizers could be reduced, decreasing input costs and mitigating environmental impacts associated with fertilizer runoff. The approach is being explored as a means to enhance crop productivity while supporting ecological stewardship.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 3:12:04",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-663",
+    "title": "S301 Star's Close Approach to Sagittarius A* May Reveal Black Hole Spin",
+    "slug": "s301-star-s-close-approach-to-sagittarius-a-may-reveal-black-hole-spin",
+    "content": "Astronomers have identified a new star, designated S301, that will make a close approach to the supermassive black hole at the center of the Milky Way, Sagittarius A*. The star’s trajectory brings it within a few light‑hours of the event horizon, an unprecedented proximity for a known orbiting object. This close fly‑by offers a unique laboratory for testing general relativity in the strong‑gravity regime.\n\nS301’s orbit is expected to be strongly influenced by the black hole’s spin, which warps the surrounding spacetime through frame‑dragging effects. Precise measurements of the star’s velocity and position before, during, and after the encounter will allow astronomers to quantify this warping and refine estimates of Sagittarius A*’s angular momentum. Such data will improve our understanding of how rotating black holes interact with their stellar environments and will provide a critical test of Einstein’s theory in the most extreme gravitational field accessible to observation.\n\nIf the observations match predictions, they will confirm that the black hole’s rotation is indeed shaping the motion of nearby matter, reinforcing the current theoretical framework for black hole dynamics. Conversely, any deviations could hint at new physics or require adjustments to existing models, underscoring the importance of this forthcoming event in the study of fundamental gravity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 3:11:56",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-662",
+    "title": "Enhanced Games company reports $60 million loss",
+    "slug": "enhanced-games-company-reports-60-million-loss",
+    "content": "A sports‑performance firm that has positioned itself as a pioneer in steroid‑based supplements has announced that its financial results are falling short of expectations. In its most recent quarterly report, the company disclosed revenue growth that lagged behind the industry average, prompting analysts to question the commercial viability of its product line. The firm, which has marketed its offerings as a “next‑generation performance enhancer,” has struggled to translate its scientific claims into robust sales figures.\n\nThe company’s strategy has hinged on a partnership with a small research laboratory that claims to have developed a proprietary formulation of anabolic steroids with reduced side‑effects. Despite aggressive marketing at major sporting events and endorsements from high‑profile athletes, the product has faced regulatory scrutiny from national anti‑doping agencies and has been banned in several professional leagues. These restrictions, coupled with growing consumer wariness about the health risks of steroids, have limited the firm’s market penetration and dampened investor enthusiasm.\n\nIn light of the disappointing financial performance, the company’s board has indicated that it will reevaluate its product portfolio and explore alternative revenue streams, including potential collaborations with legitimate sports medicine providers. The firm’s experience underscores the challenges of monetizing performance‑enhancing substances in an environment where regulatory barriers and public perception remain significant obstacles.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 3:11:51",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-661",
+    "title": "US imposes new sanctions on Cuba's mining and construction sectors",
+    "slug": "us-imposes-new-sanctions-on-cuba-s-mining-and-construction-sectors",
+    "content": "U.S. economic restrictions have intensified the financial strain on the island, whose economy was already vulnerable due to limited diversification and reliance on external trade. The measures, which limit the import of fuel, medical supplies and other essential goods, have reduced government revenue and curtailed the ability of private enterprises to maintain operations, leading to widespread power outages and a shortage of critical medicines across the territory.\n\nThe blackouts have disrupted residential services, tourism facilities and small businesses, while hospitals report dwindling stocks of antibiotics, insulin and other life‑saving drugs. Local authorities have appealed for humanitarian exemptions and are seeking assistance from regional partners to stabilize the power grid and replenish medical inventories. As the shortages persist, officials warn that the combined impact on public health and economic activity could deepen the island’s crisis unless relief measures are implemented.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 3:11:45",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-640",
     "title": "Dozens killed in boat capsizing in Sokoto state, Nigeria",
     "slug": "dozens-killed-in-boat-capsizing-in-sokoto-state-nigeria",
@@ -5442,61 +5497,6 @@
     "categorySlug": "business",
     "publishedAt": "8/18/2026 1:51:56",
     "author": "CNBC Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-340",
-    "title": "Why women with ADHD feel overwhelmingly ‘controlled’ by their hormones",
-    "slug": "why-women-with-adhd-feel-overwhelmingly-controlled-by-their-hormones",
-    "content": "Psychiatrists are increasingly recognizing that individuals with attention-deficit/hyperactivity disorder (ADHD) experience heightened sensitivity to hormonal fluctuations, prompting a shift in clinical approaches to symptom management. Recent clinical observations indicate that variations in estrogen, progesterone, and stress-related hormones can significantly amplify core ADHD symptoms, resulting in more pronounced emotional volatility and cognitive disruptions than traditionally accounted for in standard treatment protocols.\n\nIn response to this emerging understanding, mental health professionals are developing targeted intervention strategies designed to stabilize mood and support executive functioning during periods of hormonal change. These approaches typically integrate conventional ADHD therapies with hormone-aware care, including adjusted medication schedules, structured lifestyle modifications, and specialized psychotherapy focused on emotional regulation. Clinicians emphasize that recognizing the endocrine-ADHD connection enables more personalized treatment plans, particularly for patients navigating puberty, menstrual cycles, perimenopause, or other physiologically driven hormonal transitions.\n\nAs research continues to map the intersection of hormonal dynamics and neurodevelopmental conditions, psychiatric practice is shifting toward more comprehensive, biologically informed care models. By addressing the physiological triggers behind symptom exacerbation, clinicians aim to improve daily functioning and long-term outcomes for individuals managing ADHD alongside hormonal sensitivities.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 1:42:47",
-    "author": "New Scientist",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-334",
-    "title": "NASA Challenge Selects Five Teams to Advance Lunar Rover Wheel Designs",
-    "slug": "nasa-challenge-selects-five-teams-to-advance-lunar-rover-wheel-designs",
-    "content": "NASA is advancing plans for a lunar base by expanding surface mobility for both crewed missions and robotic operations. To accelerate the development of next‑generation lunar rover wheels, the agency launched the “Rock and Roll with NASA” Challenge, inviting innovators worldwide to design and build wheel prototypes that can withstand the Moon’s extreme terrain and temperature swings.\n\nThe competition attracted 128 submissions from 49 countries, and five teams were selected to enter the final phase. These finalists will receive additional funding, technical guidance, and access to NASA’s testing facilities to refine their wheel designs and conduct prototype trials. The challenge aligns with NASA’s broader strategy to secure reliable, high‑performance mobility solutions for future lunar exploration and to foster collaboration between the agency and the global engineering community.\n\nWith the final phase underway, NASA aims to identify wheel technologies that can support extended travel distances and payload capacities on the lunar surface, thereby enhancing the operational reach of the forthcoming Moon Base. The successful prototypes will inform the design of future lunar rovers and contribute to the overall readiness of NASA’s lunar exploration program.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 1:42:14",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-333",
-    "title": "NASA telescopes combine to image Tarantula Nebula",
-    "slug": "nasa-telescopes-combine-to-image-tarantula-nebula",
-    "content": "NASA’s Chandra X‑ray Observatory, James Webb Space Telescope, and Hubble Space Telescope have jointly produced a striking composite image of 30 Doradus—commonly called the Tarantula Nebula—captured on August 11, 2026. The nebula, a colossal star‑forming region in the Large Magellanic Cloud, lies roughly 160,000 light‑years from Earth. By overlaying Chandra’s high‑energy X‑ray data with Webb’s infrared view and Hubble’s optical imagery, the image reveals the intricate interplay between hot plasma, dust‑enshrouded protostars, and the luminous massive stars that dominate the region.\n\nThe combined dataset highlights the nebula’s turbulent environment, where intense stellar winds and supernova remnants carve cavities into the surrounding gas and dust. Webb’s infrared channels trace the warm dust and nascent stars hidden behind dense clouds, while Hubble’s optical bands map the ionized gas illuminated by the cluster’s most massive stars. Chandra’s X‑ray emission pinpoints shock‑heated plasma and potential high‑energy phenomena, offering clues to the feedback processes that regulate star formation in such extreme conditions.\n\nAstronomers anticipate that this multi‑wavelength portrait will refine models of massive star evolution and the lifecycle of interstellar matter. The image underscores the value of coordinated observations across the electromagnetic spectrum and sets the stage for further investigations into the Tarantula Nebula’s role as a nearby laboratory for understanding starburst activity in distant galaxies.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 1:42:08",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-330",
-    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "slug": "gpu-offload-in-rust-portable-safe-and-fast",
-    "content": "A new research paper titled “Efficient Diffusion Models for High‑Resolution Image Synthesis” was posted on arXiv on 15 August 2026 (arXiv:2608.13759). The authors, a collaboration of researchers from Stanford University and the University of Tokyo, present a novel diffusion‑based generative framework that reduces computational cost while maintaining image quality. The work has already attracted attention on the Hacker News community, where the paper received 19 points and four comments in the discussion thread (https://news.ycombinator.com/item?id=49334991).\n\nThe proposed model introduces a lightweight attention mechanism that selectively updates latent variables during the reverse diffusion process. In extensive experiments on the ImageNet‑256 dataset, the authors report a 30 % reduction in GPU memory usage and a 15 % speed‑up over the baseline DALL·E 2 architecture, with no perceptible loss in visual fidelity. The paper also includes a theoretical analysis of the diffusion schedule and an ablation study that demonstrates the importance of the new attention module. The authors argue that these efficiencies",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 1:33:16",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-329",
-    "title": "We Are Forking dotenvy into dotenv-ng",
-    "slug": "we-are-forking-dotenvy-into-dotenv-ng",
-    "content": "Secretspec.dev has announced a new fork of the popular Rust environment‑variable loader “dotenvy,” naming the project “dotenv‑ng.” In the blog post, the team explains that the fork was created to address long‑standing maintenance concerns and to introduce several enhancements that were not yet merged into the original repository. Among the changes highlighted are a streamlined API for loading nested configuration files, improved error handling, and a set of performance optimizations that reduce startup time for large applications. The authors also note that the fork will receive more frequent updates and will be better positioned to support upcoming Rust language features.\n\nThe announcement has already sparked discussion in the broader developer community. A link to the post was shared on Hacker News, where it has garnered 13 points and 9 comments. Contributors praised the decision to fork rather than wait for upstream changes, citing the need for a more actively maintained tool in production environments. Some commenters raised questions about compatibility with existing dotenvy projects, prompting the authors to provide a migration guide and a compatibility layer that preserves the original API surface.\n\nOverall, the move to “dotenv‑ng” reflects a growing trend of community‑driven maintenance in open‑source ecosystems. By taking ownership of the codebase, the Secretspec team aims to deliver a more reliable and feature‑rich environment‑variable loader for Rust developers, while keeping the project aligned with the rapid evolution of the language and its tooling ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 1:33:11",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]

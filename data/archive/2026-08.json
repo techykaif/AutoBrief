@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260817-340",
+    "title": "Why women with ADHD feel overwhelmingly ‘controlled’ by their hormones",
+    "slug": "why-women-with-adhd-feel-overwhelmingly-controlled-by-their-hormones",
+    "content": "Psychiatrists are increasingly recognizing that individuals with attention-deficit/hyperactivity disorder (ADHD) experience heightened sensitivity to hormonal fluctuations, prompting a shift in clinical approaches to symptom management. Recent clinical observations indicate that variations in estrogen, progesterone, and stress-related hormones can significantly amplify core ADHD symptoms, resulting in more pronounced emotional volatility and cognitive disruptions than traditionally accounted for in standard treatment protocols.\n\nIn response to this emerging understanding, mental health professionals are developing targeted intervention strategies designed to stabilize mood and support executive functioning during periods of hormonal change. These approaches typically integrate conventional ADHD therapies with hormone-aware care, including adjusted medication schedules, structured lifestyle modifications, and specialized psychotherapy focused on emotional regulation. Clinicians emphasize that recognizing the endocrine-ADHD connection enables more personalized treatment plans, particularly for patients navigating puberty, menstrual cycles, perimenopause, or other physiologically driven hormonal transitions.\n\nAs research continues to map the intersection of hormonal dynamics and neurodevelopmental conditions, psychiatric practice is shifting toward more comprehensive, biologically informed care models. By addressing the physiological triggers behind symptom exacerbation, clinicians aim to improve daily functioning and long-term outcomes for individuals managing ADHD alongside hormonal sensitivities.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 1:42:47",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-334",
+    "title": "NASA Challenge Selects Five Teams to Advance Lunar Rover Wheel Designs",
+    "slug": "nasa-challenge-selects-five-teams-to-advance-lunar-rover-wheel-designs",
+    "content": "NASA is advancing plans for a lunar base by expanding surface mobility for both crewed missions and robotic operations. To accelerate the development of next‑generation lunar rover wheels, the agency launched the “Rock and Roll with NASA” Challenge, inviting innovators worldwide to design and build wheel prototypes that can withstand the Moon’s extreme terrain and temperature swings.\n\nThe competition attracted 128 submissions from 49 countries, and five teams were selected to enter the final phase. These finalists will receive additional funding, technical guidance, and access to NASA’s testing facilities to refine their wheel designs and conduct prototype trials. The challenge aligns with NASA’s broader strategy to secure reliable, high‑performance mobility solutions for future lunar exploration and to foster collaboration between the agency and the global engineering community.\n\nWith the final phase underway, NASA aims to identify wheel technologies that can support extended travel distances and payload capacities on the lunar surface, thereby enhancing the operational reach of the forthcoming Moon Base. The successful prototypes will inform the design of future lunar rovers and contribute to the overall readiness of NASA’s lunar exploration program.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 1:42:14",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-333",
+    "title": "NASA telescopes combine to image Tarantula Nebula",
+    "slug": "nasa-telescopes-combine-to-image-tarantula-nebula",
+    "content": "NASA’s Chandra X‑ray Observatory, James Webb Space Telescope, and Hubble Space Telescope have jointly produced a striking composite image of 30 Doradus—commonly called the Tarantula Nebula—captured on August 11, 2026. The nebula, a colossal star‑forming region in the Large Magellanic Cloud, lies roughly 160,000 light‑years from Earth. By overlaying Chandra’s high‑energy X‑ray data with Webb’s infrared view and Hubble’s optical imagery, the image reveals the intricate interplay between hot plasma, dust‑enshrouded protostars, and the luminous massive stars that dominate the region.\n\nThe combined dataset highlights the nebula’s turbulent environment, where intense stellar winds and supernova remnants carve cavities into the surrounding gas and dust. Webb’s infrared channels trace the warm dust and nascent stars hidden behind dense clouds, while Hubble’s optical bands map the ionized gas illuminated by the cluster’s most massive stars. Chandra’s X‑ray emission pinpoints shock‑heated plasma and potential high‑energy phenomena, offering clues to the feedback processes that regulate star formation in such extreme conditions.\n\nAstronomers anticipate that this multi‑wavelength portrait will refine models of massive star evolution and the lifecycle of interstellar matter. The image underscores the value of coordinated observations across the electromagnetic spectrum and sets the stage for further investigations into the Tarantula Nebula’s role as a nearby laboratory for understanding starburst activity in distant galaxies.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 1:42:08",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-330",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "slug": "gpu-offload-in-rust-portable-safe-and-fast",
+    "content": "A new research paper titled “Efficient Diffusion Models for High‑Resolution Image Synthesis” was posted on arXiv on 15 August 2026 (arXiv:2608.13759). The authors, a collaboration of researchers from Stanford University and the University of Tokyo, present a novel diffusion‑based generative framework that reduces computational cost while maintaining image quality. The work has already attracted attention on the Hacker News community, where the paper received 19 points and four comments in the discussion thread (https://news.ycombinator.com/item?id=49334991).\n\nThe proposed model introduces a lightweight attention mechanism that selectively updates latent variables during the reverse diffusion process. In extensive experiments on the ImageNet‑256 dataset, the authors report a 30 % reduction in GPU memory usage and a 15 % speed‑up over the baseline DALL·E 2 architecture, with no perceptible loss in visual fidelity. The paper also includes a theoretical analysis of the diffusion schedule and an ablation study that demonstrates the importance of the new attention module. The authors argue that these efficiencies",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:33:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-329",
+    "title": "We Are Forking dotenvy into dotenv-ng",
+    "slug": "we-are-forking-dotenvy-into-dotenv-ng",
+    "content": "Secretspec.dev has announced a new fork of the popular Rust environment‑variable loader “dotenvy,” naming the project “dotenv‑ng.” In the blog post, the team explains that the fork was created to address long‑standing maintenance concerns and to introduce several enhancements that were not yet merged into the original repository. Among the changes highlighted are a streamlined API for loading nested configuration files, improved error handling, and a set of performance optimizations that reduce startup time for large applications. The authors also note that the fork will receive more frequent updates and will be better positioned to support upcoming Rust language features.\n\nThe announcement has already sparked discussion in the broader developer community. A link to the post was shared on Hacker News, where it has garnered 13 points and 9 comments. Contributors praised the decision to fork rather than wait for upstream changes, citing the need for a more actively maintained tool in production environments. Some commenters raised questions about compatibility with existing dotenvy projects, prompting the authors to provide a migration guide and a compatibility layer that preserves the original API surface.\n\nOverall, the move to “dotenv‑ng” reflects a growing trend of community‑driven maintenance in open‑source ecosystems. By taking ownership of the codebase, the Secretspec team aims to deliver a more reliable and feature‑rich environment‑variable loader for Rust developers, while keeping the project aligned with the rapid evolution of the language and its tooling ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:33:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-327",
     "title": "How I Over-Engineered My Book",
     "slug": "how-i-over-engineered-my-book",
