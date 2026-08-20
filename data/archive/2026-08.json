@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260817-310",
+    "title": "Feedly blames bug for weeklong web app slowdown",
+    "slug": "feedly-blames-bug-for-weeklong-web-app-slowdown",
+    "content": "Feedly has identified a software bug as the cause of recent performance problems that have rendered its web application nearly unusable for a segment of its user base. The issue, which emerged in early August, triggered slow loading times, frequent timeouts, and intermittent crashes, prompting a surge of complaints on social media and user forums. In a statement released on Thursday, Feedly’s engineering team confirmed that the bug was introduced during a recent update to the platform’s content‑aggregation engine and that a fix is being rolled out to restore normal functionality.\n\nThe technical glitch coincides with growing dissatisfaction over the service’s mobile applications and customer support, which users have described as unresponsive and difficult to navigate. While the company has not disclosed specific timelines for the mobile app improvements, it has pledged to enhance its support channels and to monitor the situation closely. Feedly’s acknowledgment of the bug and its ongoing remediation efforts aim to mitigate the current disruptions and restore confidence among its subscribers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:23:11",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-309",
+    "title": "YouTube will count a view when a video starts playing",
+    "slug": "youtube-will-count-a-view-when-a-video-starts-playing",
+    "content": "YouTube has announced a new adjustment to its view‑counting methodology, a move that echoes a similar change implemented a year ago for its Shorts videos. The platform said the update will align the way views are tallied on regular uploads with the system that has already been in place for Shorts content.\n\nUnder the revised approach, YouTube will apply the same criteria and verification steps used for Shorts to all videos. This means that views will be counted only after certain thresholds are met, and the platform will employ additional checks to confirm that each view is legitimate. The change is intended to reduce inflated numbers and provide a more accurate metric for creators and advertisers.\n\nThe update reflects YouTube’s ongoing effort to improve transparency and consistency across its metrics. By standardizing view counts across all video formats, the company aims to give creators and advertisers a clearer picture of audience engagement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:23:06",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-308",
+    "title": "Sonic Fire Tech raises $15 million for sound‑powered fire protection system",
+    "slug": "sonic-fire-tech-raises-15-million-for-sound-powered-fire-protection-system",
+    "content": "Sonic Fire Tech, a startup that has developed a sound‑powered fire protection system, announced the closing of a new funding round aimed at accelerating the deployment of its technology across a broad range of building types. The company’s system uses acoustic sensors to detect the early sound signatures of fire, triggering alarms and suppression measures before smoke or heat is visible.\n\nThe round, which raised an undisclosed amount, is expected to support expansion into commercial kitchens, apartment buildings, and other high‑risk environments where traditional fire detection can be delayed. Sonic Fire Tech plans to use the capital to scale production, pursue additional regulatory approvals, and broaden its marketing and sales efforts to reach more property owners and facility managers.\n\nWith the new funding, Sonic Fire Tech intends to enhance fire safety in both commercial and residential settings, providing an early‑warning system that could reduce damage and improve occupant protection across a wide range of building types.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:23:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-307",
+    "title": "Reddit Tests Video and Audio Versions of Popular Posts",
+    "slug": "reddit-tests-video-and-audio-versions-of-popular-posts",
+    "content": "Reddit has launched a test that adds video and audio formats to a selection of popular posts, giving users the option to watch or listen to content rather than solely reading text. The feature, currently being rolled out to a limited group of users, automatically generates short video clips or audio narrations from the most up‑voted submissions in various subreddits, allowing creators’ stories to be consumed in a more dynamic medium.\n\nThe experiment follows Reddit’s broader push to diversify its content offerings and increase engagement on the platform, which hosts millions of active communities. By converting text‑based posts into multimedia, Reddit aims to attract users who prefer visual or auditory consumption while maintaining the community‑driven voting system that surfaces top content. The company will monitor user feedback and interaction metrics before deciding whether to expand the feature platform‑wide.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:22:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-306",
     "title": "Higgsfield secures $400 million Series B funding, valuation climbs to $5.4 billion",
     "slug": "higgsfield-secures-400-million-series-b-funding-valuation-climbs-to-5-4-billion",
