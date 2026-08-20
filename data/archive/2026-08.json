@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260817-305",
+    "title": "Spotify introduces Playlist Notes feature for users and editors",
+    "slug": "spotify-introduces-playlist-notes-feature-for-users-and-editors",
+    "content": "Spotify has introduced a new feature that allows users to add personal commentary explaining the stories and reasoning behind their favorite tracks. The tool, integrated directly into the streaming platform, enables listeners to write brief notes that accompany songs, offering insight into lyrical meaning, cultural relevance, or personal connections.\n\nThe feature will also be employed by Spotify’s editorial team, who plan to use it on high‑profile playlists such as RapCaviar and other curated collections. By pairing editorial commentary with user‑generated notes, the service aims to deepen engagement and provide richer context for its audience while maintaining the existing playlist experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:22:47",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-304",
+    "title": "TechCrunch Disrupt 2026 Pass Discount Up to $300 Until August 21",
+    "slug": "techcrunch-disrupt-2026-pass-discount-up-to-300-until-august-21",
+    "content": "San Francisco will host the annual Disrupt conference from October 13‑15, drawing a large segment of the startup community to Moscone West. The event, organized by TechCrunch, is scheduled to feature keynote speakers, panel discussions, and networking sessions aimed at entrepreneurs, investors, and technology professionals.\n\nAttendees can secure their passes now, as early‑bird pricing and limited seating remain available. Registration opens immediately, and participants are encouraged to finalize their plans to ensure entry to the venue and access to all scheduled sessions. The conference will run daily from 9 a.m. to 6 p.m., with a mix of in‑person and virtual components.\n\nThe next edition of Disrupt promises to showcase emerging trends in technology and venture capital, offering a platform for startups to present new products and secure funding. Those who register early will benefit from discounted rates and priority access to networking events, positioning them to engage with peers and industry leaders during the three‑day gathering.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:22:43",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-303",
+    "title": "Anthropic to add watermark to AI-generated text to meet EU regulations",
+    "slug": "anthropic-to-add-watermark-to-ai-generated-text-to-meet-eu-regulations",
+    "content": "Anthropic announced that it will modify the way its chatbot makes small, random choices in order to meet the requirements of the European Union’s upcoming AI regulation. The company said the changes will be implemented in the next software update and are designed to increase transparency and reduce the risk of unintended bias in the model’s responses. The move comes as the EU’s AI Act moves closer to enforcement, mandating that high‑risk systems provide clear documentation of their decision‑making processes.\n\nKey to the update is a new algorithm that limits the extent of random variation in word choice and sentence structure. Anthropic noted that typical machine‑generated tropes—such as the overuse of words like “delve,” an excess of em dashes, and the repetitive “it’s not X but Y” construction—are often a byproduct of these random choices. By tightening the randomness, the company aims to produce more consistent and less stylized output while still preserving the model’s flexibility.\n\nWith the update, Anthropic intends to demonstrate compliance with the EU’s transparency and accountability obligations, potentially setting a standard for other AI developers. The company’s statement suggests that the changes will not affect the core capabilities of the chatbot, but will instead refine its linguistic patterns to better align with regulatory expectations and user expectations for natural, varied language.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:22:39",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260817-302",
+    "title": "Hayden Panettiere Dies at 36; Authorities Investigate Cause",
+    "slug": "hayden-panettiere-dies-at-36-authorities-investigate-cause",
+    "content": "Actress Hayden Panettiere, 36, was found dead earlier this week, prompting an outpouring of tributes from colleagues and fans who remembered her for roles in “Heroes,” “Nashville,” and the “Alvin and the Chipmunks” film series. Authorities have not released an official cause of death, and the investigation remains ongoing. The Los Angeles County Medical Examiner’s Office confirmed that an autopsy is pending, and no details have been made public beyond the confirmation of her passing.\n\nU.S. media outlets have reported that a dispatch audio obtained by People magazine includes a discussion among officials referencing a possible “overdose.” The report characterizes this as speculation, noting that investigators have not confirmed any substance involvement. As the case proceeds, law enforcement officials have asked for privacy for Panettiere’s family while they continue to gather facts surrounding the circumstances of her death.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 1:22:33",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-301",
     "title": "7,200 Eggs Used to Make Giant Omelette at Malmedy Festival",
     "slug": "7-200-eggs-used-to-make-giant-omelette-at-malmedy-festival",
