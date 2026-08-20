@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-580",
+    "title": "Consumer Rights Wiki page gets 10 points on Hacker News",
+    "slug": "consumer-rights-wiki-page-gets-10-points-on-hacker-news",
+    "content": "Consumer rights advocates and tech enthusiasts have turned their attention to a newly highlighted resource on the internet: the Consumer Rights Wiki, accessible at https://consumerrights.wiki/w/Main_Page. The wiki, which offers a collaboratively curated repository of information on consumer protection laws, product safety standards, and dispute resolution mechanisms, has been featured in a recent Hacker News discussion. The post, identified by the item ID 49378243, garnered ten up‑votes but, as of now, has not attracted any comments.\n\nThe Hacker News thread serves as a brief endorsement of the wiki’s potential utility for both consumers and professionals seeking up‑to‑date legal guidance. While the post’s modest score suggests limited engagement, the absence of comments indicates that the community has yet to debate or critique the resource’s content or structure. The wiki’s main page provides quick links to key topics such as consumer contracts, privacy rights, and complaint filing procedures, positioning it as a one‑stop reference for individuals navigating complex consumer issues.\n\nIn summary, the Consumer Rights Wiki’s appearance on Hacker News underscores growing interest in accessible, crowd‑sourced legal information. Although the discussion remains sparse, the platform’s presence on a prominent technology forum may encourage further development and wider adoption among users seeking reliable consumer protection resources.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 1:21:49",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-571",
     "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
     "slug": "runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/18/2026 1:23:20",
     "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-311",
-    "title": "Amazon Uses Rare Books for AI Training",
-    "slug": "amazon-uses-rare-books-for-ai-training",
-    "content": "Rare literary works are emerging as a strategic resource for enhancing large language models (LLMs), according to recent commentary from artificial‑intelligence researchers. While contemporary LLMs have been trained on vast corpora drawn primarily from publicly accessible digital content, many historically significant texts remain under‑represented because they have not been widely digitized or included in standard training datasets. Experts note that integrating rare books—often preserved in specialized archives and libraries—could fill gaps in cultural and scholarly knowledge, providing models with richer linguistic patterns and nuanced historical context that are absent from mainstream web sources.\n\nIndustry analysts indicate that the incorporation of these scarce materials may improve the factual depth and interpretive capabilities of future LLMs, particularly in domains such as literary criticism, historical research, and the preservation of linguistic heritage. Ongoing collaborations between AI developers and cultural institutions aim to digitize and curate rare collections for safe, licensed use in model training, balancing intellectual‑property considerations with the potential benefits of broader knowledge representation. The initiative underscores a growing recognition that expanding the diversity of source material is essential for the next generation of more comprehensive and reliable language models.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 1:23:15",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]

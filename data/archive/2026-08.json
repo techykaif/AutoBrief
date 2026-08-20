@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260817-311",
+    "title": "Amazon Uses Rare Books for AI Training",
+    "slug": "amazon-uses-rare-books-for-ai-training",
+    "content": "Rare literary works are emerging as a strategic resource for enhancing large language models (LLMs), according to recent commentary from artificial‑intelligence researchers. While contemporary LLMs have been trained on vast corpora drawn primarily from publicly accessible digital content, many historically significant texts remain under‑represented because they have not been widely digitized or included in standard training datasets. Experts note that integrating rare books—often preserved in specialized archives and libraries—could fill gaps in cultural and scholarly knowledge, providing models with richer linguistic patterns and nuanced historical context that are absent from mainstream web sources.\n\nIndustry analysts indicate that the incorporation of these scarce materials may improve the factual depth and interpretive capabilities of future LLMs, particularly in domains such as literary criticism, historical research, and the preservation of linguistic heritage. Ongoing collaborations between AI developers and cultural institutions aim to digitize and curate rare collections for safe, licensed use in model training, balancing intellectual‑property considerations with the potential benefits of broader knowledge representation. The initiative underscores a growing recognition that expanding the diversity of source material is essential for the next generation of more comprehensive and reliable language models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:23:15",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-310",
     "title": "Feedly blames bug for weeklong web app slowdown",
     "slug": "feedly-blames-bug-for-weeklong-web-app-slowdown",
