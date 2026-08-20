@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260820-302",
+    "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+    "slug": "reform-uk-proposes-tax-rebates-for-firms-to-boost-apprenticeships",
+    "content": "Suella Braverman, the former UK Home Secretary and Conservative MP for Fareham, warned university‑bound students that they risk “being ripped off by the great university scam” during a briefing on higher‑education finance held at the House of Commons on Tuesday. Speaking to a group of prospective undergraduates and their families, Braverman highlighted the steep rise in tuition fees and associated living costs, arguing that many institutions charge fees that outpace the value of the qualifications they confer. She urged students to scrutinise fee structures, compare graduate‑employment outcomes and consider alternative pathways such as apprenticeships or vocational training.\n\nThe remarks have prompted responses from university representatives and student unions, who contend that the sector provides essential academic and research services and that fee levels are set in line with government policy. The Department for Education has not indicated any immediate policy shift, but the comment adds to ongoing debate over tuition‑fee reform and the affordability of higher education for young people across the United Kingdom.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/20/2026 19:42:36",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-290",
+    "title": "Canonical supports project to translate large C codebases into safe Rust",
+    "slug": "canonical-supports-project-to-translate-large-c-codebases-into-safe-rust",
+    "content": "Canonical has announced it will fund a new open‑source initiative aimed at converting large C codebases into safe Rust. The project, which is still in its early stages, seeks to provide automated tooling that can translate legacy C code while preserving functionality and performance. By leveraging Rust’s ownership model and compile‑time safety checks, the effort intends to reduce the prevalence of memory‑related bugs that have historically plagued C‑based software.\n\nThe initiative is part of Canonical’s broader strategy to strengthen the Rust ecosystem within the Linux community. Developers participating in the project will be able to run the conversion tools on existing code, review the generated Rust modules, and incrementally replace C components. Canonical plans to release the tooling under an open‑source license and invites contributions from the wider community, including other Linux vendors and security researchers.\n\nIf successful, the project could provide a practical pathway for organizations to modernize their software stacks without rewriting code from scratch. By making large, complex C applications safer through Rust, Canonical hopes to improve overall system reliability and security across the Linux ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 19:41:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-271",
     "title": "US envoy's Kashmir visit triggers dispute with Pakistan",
     "slug": "us-envoy-s-kashmir-visit-triggers-dispute-with-pakistan",
@@ -5474,28 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/18/2026 1:11:56",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-274",
-    "title": "French PM faces criticism over wildfire response as EU fires persist",
-    "slug": "french-pm-faces-criticism-over-wildfire-response-as-eu-fires-persist",
-    "content": "Paris – The French prime minister announced on Monday a €12 million assistance package for the regions most severely impacted by recent wildfires. The funding, earmarked for the affected departments in the south and southwest of the country, is intended to support emergency response operations, reinforce fire‑prevention infrastructure and aid communities in rebuilding homes and public facilities damaged by the blazes.\n\nThe allocation follows a series of intense fire events that swept across several French territories over the past weeks, prompting evacuations and extensive property loss. Officials said the aid will be distributed through local authorities and relevant agencies to expedite recovery efforts and bolster resilience against future fire risks. The government’s swift response underscores its commitment to addressing the immediate needs of residents while reinforcing long‑term safety measures.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 1:11:51",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-273",
-    "title": "Russian opposition politician Lev Schlosberg sentenced to 11 years for discrediting army",
-    "slug": "russian-opposition-politician-lev-schlosberg-sentenced-to-11-years-for-discredit",
-    "content": "Lev Schlosberg, a former Russian senator and prominent opposition activist, was found guilty on Thursday of “discrediting” the Russian army by a court in Moscow. The verdict, issued under the 2022 law that criminalizes statements deemed to undermine the reputation of the armed forces, carries a fine of 300,000 roubles and a six‑month suspended sentence. Prosecutors cited Schlosberg’s public comments on the conflict in Ukraine and his participation in anti‑war demonstrations as evidence of the alleged offense.\n\nSchlosberg denounced the ruling as a politically motivated punishment, stating that the judgment targets his opposition activities rather than any genuine legal breach. International human‑rights organizations have repeatedly warned that the “discrediting the army” statute is being used to suppress dissent and silence critics of the government’s military policies. The case adds to a series of recent convictions of activists and journalists under the same law, underscoring the tightening of legal constraints on free expression in Russia.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 1:11:47",
     "author": "BBC World",
     "isFeatured": false
   }
