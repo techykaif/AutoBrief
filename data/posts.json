@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-483",
+    "title": "Linux 7.2 Released",
+    "slug": "linux-7-2-released",
+    "content": "Linux kernel version 7.2 was officially released by the Igalia project team on August 19, 2026. The new release builds on the 7.x series, adding a range of performance improvements, expanded hardware support, and critical security patches. It is available for download through the standard distribution channels and can be installed on most Linux-based systems without requiring significant changes to existing configurations.\n\nThe 7.2 update introduces several notable enhancements. A new power‑management subsystem reduces idle power consumption by up to 15 % on supported ARM and x86 platforms, while the updated networking stack improves TCP throughput for high‑bandwidth workloads. Kernel developers also incorporated a set of backported features from the 8.0 development branch, including support for the latest NVMe‑over‑PCIe devices and a hardened memory allocator that mitigates a class of buffer‑overflow vulnerabilities. In addition, the release includes numerous bug fixes, such as a resolved race condition in the file‑system cache that could cause data corruption under heavy I/O.\n\nThe announcement has attracted modest attention on Hacker News, where the post received 20 points and one comment. Users praised the release for its stability and the timely patching of security issues. Overall, Linux 7.2 continues the project’s commitment to delivering a robust, high‑performance kernel that meets the needs of both enterprise and hobbyist developers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 23:22:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-471",
     "title": "French PM announces creation of unit to combat cyberattacks",
     "slug": "french-pm-announces-creation-of-unit-to-combat-cyberattacks",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/18/2026 1:22:29",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-299",
-    "title": "Tokyo's Fukagawa Hachiman Matsuri turns streets into water fight on Aug 16, 2026",
-    "slug": "tokyo-s-fukagawa-hachiman-matsuri-turns-streets-into-water-fight-on-aug-16-2026",
-    "content": "On 16 August 2026, Tokyo’s triennial Fukagawa Hachiman Matsuri turned into a splashy spectacle when crowds drenched mikoshi bearers with buckets, hoses and water pistols. The festival, held in the Fukagawa district, features a parade of portable shrines (mikoshi) that are carried through the streets by local residents and shrine attendants. During the procession, spectators lined the route and began pouring water on the bearers, creating a sudden, wet interruption to the traditional ceremony.\n\nThe incident occurred in the early afternoon, as the mikoshi made its way past the shrine’s main gate. According to police reports, the crowd’s enthusiasm led to a spontaneous water‑throwing event that lasted several minutes. No injuries were reported, and the bearers were able to continue the procession after a brief pause. Festival officials confirmed that the event did not disrupt the overall schedule, and the remaining parade proceeded as planned.\n\nAuthorities noted that the water‑throwing was an impromptu act of celebration rather than an act of vandalism. The Fukagawa Hachiman Matsuri, which attracts thousands of visitors every three years, remains a key cultural event in Tokyo, and organizers have pledged to maintain safety measures while preserving the festival’s spirited atmosphere.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 1:22:24",
     "author": "Euronews",
     "isFeatured": false
   }
