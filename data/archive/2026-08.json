@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260817-327",
+    "title": "How I Over-Engineered My Book",
+    "slug": "how-i-over-engineered-my-book",
+    "content": "Ben Balter published a blog post on August 17, 2026 titled “How I over‑engineered my book.” In the piece he recounts the development of a technical guide that, in hindsight, became far more complex than necessary. Balter explains how he began with a clear goal—creating a comprehensive resource for developers—but gradually introduced additional layers of abstraction, tooling, and documentation that ultimately slowed progress and obscured the core material.\n\nThe article details the specific choices that led to the over‑engineering: the adoption of a custom build system, the integration of multiple static‑analysis tools, and the decision to publish the book in a highly modular format that required readers to assemble chapters themselves. Balter reflects on the trade‑offs he made, noting that while the extra features added polish, they also increased maintenance overhead and made the book harder for newcomers to navigate. He concludes with a set of lessons learned, emphasizing the value of early simplicity, iterative refinement, and keeping the user’s experience at the forefront.\n\nThe post drew attention on Hacker News, where it received 18 up‑votes and generated 10 comments. Readers praised Balter’s candid assessment of the pitfalls of excessive technical ambition, while others offered their own experiences with similar projects. The discussion highlighted a broader conversation in the developer community about balancing ambition with usability and the importance of disciplined scope management.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 1:33:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260817-325",
     "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
     "slug": "the-lonely-men-who-work-in-patagonia-at-the-end-of-the-world",

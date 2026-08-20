@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-640",
+    "title": "Dozens killed in boat capsizing in Sokoto state, Nigeria",
+    "slug": "dozens-killed-in-boat-capsizing-in-sokoto-state-nigeria",
+    "content": "An incident in Sokoto state, located in the northwest region of the country, has left authorities alarmed after reports indicated that many of the victims may have been children. The event occurred on a recent day in the rural outskirts of the state, where local residents first reported the disturbance.\n\nPreliminary accounts describe a sudden, violent occurrence that resulted in multiple casualties, though the exact nature of the incident remains unclear. Emergency services were dispatched promptly, and a joint task force of state police and medical teams has been deployed to the site. Officials have confirmed that the victims include children, but the total number of casualties has not yet been released pending further investigation.\n\nThe state government has called for a thorough inquiry into the incident and urged calm among the affected communities. Investigators are working to determine the cause and to identify any individuals responsible, while local authorities continue to provide support to families impacted by the tragedy.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 2:31:47",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-634",
     "title": "Conservative migrants from blue states influence Florida's political shift",
     "slug": "conservative-migrants-from-blue-states-influence-florida-s-political-shift",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/18/2026 1:33:11",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-327",
-    "title": "How I Over-Engineered My Book",
-    "slug": "how-i-over-engineered-my-book",
-    "content": "Ben Balter published a blog post on August 17, 2026 titled “How I over‑engineered my book.” In the piece he recounts the development of a technical guide that, in hindsight, became far more complex than necessary. Balter explains how he began with a clear goal—creating a comprehensive resource for developers—but gradually introduced additional layers of abstraction, tooling, and documentation that ultimately slowed progress and obscured the core material.\n\nThe article details the specific choices that led to the over‑engineering: the adoption of a custom build system, the integration of multiple static‑analysis tools, and the decision to publish the book in a highly modular format that required readers to assemble chapters themselves. Balter reflects on the trade‑offs he made, noting that while the extra features added polish, they also increased maintenance overhead and made the book harder for newcomers to navigate. He concludes with a set of lessons learned, emphasizing the value of early simplicity, iterative refinement, and keeping the user’s experience at the forefront.\n\nThe post drew attention on Hacker News, where it received 18 up‑votes and generated 10 comments. Readers praised Balter’s candid assessment of the pitfalls of excessive technical ambition, while others offered their own experiences with similar projects. The discussion highlighted a broader conversation in the developer community about balancing ambition with usability and the importance of disciplined scope management.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 1:33:00",
     "author": "Hacker News",
     "isFeatured": false
   }
