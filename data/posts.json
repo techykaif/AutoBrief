@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-546",
+    "title": "Gray and white matter together influence cognitive aging, study finds",
+    "slug": "gray-and-white-matter-together-influence-cognitive-aging-study-finds",
+    "content": "Researchers at the Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) of the Keck School of Medicine at the University of Southern California have uncovered evidence that two distinct types of brain tissue collaborate to sustain cognition in older adults. The study, which examined neuroimaging data from a cohort of seniors, found that the integrity of both gray matter and the brain’s short‑range white‑matter tracts—often referred to as “local wiring”—is essential for maintaining mental performance.\n\nThe investigators showed that while gray matter loss is a common hallmark of aging, the preservation of short‑range white‑matter connections can mitigate its impact on cognitive function. By mapping the density and connectivity of these local tracts, the team demonstrated a compensatory relationship: healthier short‑range wiring was associated with better memory, attention, and executive‑function scores, even when gray‑matter volume had declined. These findings suggest that interventions aimed at protecting or enhancing the microstructure of local white‑matter pathways could help reduce age‑related cognitive decline.\n\nThe study adds a new layer to our understanding of brain resilience in aging, highlighting that cognitive health depends not only on the quantity of gray matter but also on the quality of its immediate wiring network. Future research will explore whether lifestyle, pharmacologic, or neuromodulatory strategies can strengthen these short‑range connections and thereby preserve cognition in the elderly.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/21/2026 0:41:48",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-529",
     "title": "Alcaraz Set to Return at US Open After Four-Month Injury Layoff",
     "slug": "alcaraz-set-to-return-at-us-open-after-four-month-injury-layoff",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/18/2026 1:22:57",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-306",
-    "title": "Higgsfield secures $400 million Series B funding, valuation climbs to $5.4 billion",
-    "slug": "higgsfield-secures-400-million-series-b-funding-valuation-climbs-to-5-4-billion",
-    "content": "Higgsfield, a newly launched startup founded by former Snap executive Alex Mashrabov, offers a platform that enables users to create artificial‑intelligence‑generated images and videos. The company entered the market amid growing demand for consumer‑friendly tools that simplify the production of visual content using generative AI technologies.\n\nThe Higgsfield service provides an interface where users can input prompts or upload reference material to produce customized graphics and short video clips, leveraging machine‑learning models trained on large datasets. By targeting both hobbyists and professionals seeking rapid, cost‑effective content creation, the platform aims to broaden access to AI‑driven media production and compete with existing generative‑AI offerings.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 1:22:52",
     "author": "TechCrunch",
     "isFeatured": false
   }
