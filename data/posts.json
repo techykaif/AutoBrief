@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260820-085",
+    "title": "Which supplements do athletes take and why?",
+    "slug": "which-supplements-do-athletes-take-and-why",
+    "content": "Elite athletes routinely incorporate dietary supplements into their training regimens as part of a structured approach to securing marginal competitive advantages. Rather than experimenting with unverified products, top-tier competitors and their support staff typically select substances validated by peer-reviewed research and sanctioned by international sporting federations. These compounds are integrated into precisely calibrated nutrition programs designed to optimize physiological function, accelerate post-exertion recovery, and meet the heightened metabolic demands of elite competition.\n\nThe most commonly utilized supplements include creatine monohydrate, caffeine, and beta-alanine, each chosen for specific, well-documented effects. Creatine enhances phosphocreatine stores to support rapid energy production during short, high-intensity efforts, while caffeine improves focus and lowers perceived exertion during endurance events. Beta-alanine helps buffer hydrogen ion accumulation in muscle tissue, delaying fatigue during repeated high-intensity intervals. Athletes also frequently use electrolyte solutions, iron, and vitamin D to correct dietary shortfalls, maintain hydration status, and support bone density and",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/20/2026 12:32:30",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-082",
+    "title": "Microsoft Entertainment Pack Sticker Confirms Tetris Inclusion",
+    "slug": "microsoft-entertainment-pack-sticker-confirms-tetris-inclusion",
+    "content": "Microsoft’s DevBlogs released a new entry in the long‑running “Old New Thing” series on August 18, 2026.  Written by Raymond Chen, the post tackles a subtle but frequently misunderstood behavior in the Windows API that has tripped up developers for years.  The article explains the precise circumstances under which a particular system call can return an unexpected value, the historical reasons for the design choice, and",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 12:32:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-081",
+    "title": "Windows' Ambiguity Mirrors a Rorschach Test",
+    "slug": "windows-ambiguity-mirrors-a-rorschach-test",
+    "content": "Microsoft’s DevBlogs released an August 25, 2003 post by Raymond Chen, part of his long‑running “The Old New Thing” series that dissects quirks of the Windows API. The article focuses on the message‑loop routine, specifically the GetMessage function and its handling of the WM_QUIT message. Chen explains how GetMessage returns a non‑zero value for normal messages, zero when a WM_QUIT message is retrieved, and –1 on error, and why this return‑value pattern matters for robust application design.\n\nThe post clarifies common misconceptions that developers sometimes have about message loops. Chen details how a WM_QUIT message signals the termination of a thread’s message queue, how the return value of GetMessage must be checked for –1 to detect errors, and why ignoring the error case can lead to silent failures. He illustrates the correct usage with concise code snippets, emphasizing the importance of handling the return value properly to avoid subtle bugs in long‑running applications.\n\nThe article attracted attention on Hacker News, where it received five points and no comments, indicating a modest but engaged readership. By shedding light on a foundational Windows mechanism",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 12:32:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-080",
+    "title": "eBay offers 20% discount coupons for August 2026",
+    "slug": "ebay-offers-20-discount-coupons-for-august-2026",
+    "content": "eBay has launched a limited‑time discount event offering shoppers savings of up to 60 percent on a curated range of products. The promotion, which began this week, targets a broad selection of categories, including consumer electronics, home goods, card games, automotive parts and additional items across the marketplace.\n\nThe reduced‑price listings are available through eBay’s standard platform, with discounts applied at checkout for eligible items. The company has not disclosed the exact duration of the sale, but promotional materials indicate that inventory is subject to availability and may vary by region. Shoppers are encouraged to review individual product pages for specific discount details and any applicable terms and conditions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 12:32:05",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-079",
+    "title": "Israeli military admits firing on car that killed 5-year-old in Gaza",
+    "slug": "israeli-military-admits-firing-on-car-that-killed-5-year-old-in-gaza",
+    "content": "The Israeli military confirmed on Wednesday that its forces opened fire on a vehicle transporting five‑year‑old Hind Rajab in Gaza in 2024, an incident that sparked widespread international condemnation. The defense establishment said it has ordered a criminal investigation into the killing, acknowledging the seriousness of the case and the pressure from foreign governments and human‑rights organizations demanding accountability.\n\nIn addition to the Rajab case, the military released reviews of four other high‑profile incidents in the enclave and announced a criminal probe into the 2025 strike that killed 15 Palestinian medics and humanitarian workers. The disclosures come as part of a broader effort by Israeli authorities to address allegations of unlawful conduct in the ongoing conflict. FRANCE 24’s Emerald Maxwell provides further coverage of the developments.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 12:32:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-078",
+    "title": "Israeli army opens delayed investigation into Hind Rajab and Gaza paramedics killings",
+    "slug": "israeli-army-opens-delayed-investigation-into-hind-rajab-and-gaza-paramedics-kil",
+    "content": "The Israeli army has opened a criminal investigation into the deaths of Hind Rajab and a team of paramedics in Gaza, a move described by France 24 correspondent Noga Tarnopolsky as “a surprise” given the length of time that has elapsed since the incidents. Tarnopolsky noted that the timing is “extremely late,” underscoring the unusual delay in initiating formal scrutiny of the cases.\n\nAccording to Tarnopolsky, the decision to refer these high‑profile incidents to a criminal probe signals an implicit acknowledgment by the Israeli military that serious errors occurred. The investigation, which comes months after the killings, is expected to examine the circumstances surrounding the attacks and determine whether violations of law or protocol took place, marking a notable shift in the army’s handling of the events.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 12:31:56",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-077",
+    "title": "Trump says he will meet North Korea's Kim Jong Un later this year",
+    "slug": "trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
+    "content": "U.S. President Donald Trump announced Wednesday that he plans to meet North Korean leader Kim Jong Un later this year, saying the summit will revive the personal rapport he says was established during his first term in office. The statement, made during a press briefing, indicated that the upcoming talks will focus on building on the diplomatic groundwork laid at the 2018 Singapore and 2019 Hanoi meetings, which produced a series of joint statements on denuclearization and peace on the Korean Peninsula.\n\nMonte Francis of France 24 reported that the proposed encounter comes amid a broader effort by the United States to re‑engage with Pyongyang after a period of heightened tensions under the previous administration. Officials noted that any future agreement would likely address the status of North Korea’s nuclear program, sanctions relief, and mechanisms for verification, while also reflecting the evolving security dynamics in the region. The announcement underscores Washington’s intent to pursue direct dialogue as a means of addressing longstanding concerns about North Korea’s weapons capabilities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 12:31:51",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-076",
+    "title": "Bangladesh parliament set to elect veteran BNP politician as president",
+    "slug": "bangladesh-parliament-set-to-elect-veteran-bnp-politician-as-president",
+    "content": "Dhaka – As the Awami League retains a commanding two‑thirds majority in the Jatiya Sangsad, political analysts say the forthcoming presidential vote is set to confirm a veteran Bangladesh Nationalist Party (BNP) figure as the next head of state. The ruling party’s supermajority, secured in the latest general election, gives it the constitutional leverage to endorse the candidate without opposition, effectively shaping the outcome of a post that is largely ceremonial under the nation’s parliamentary system.\n\nThe BNP nominee, a long‑standing member of the opposition with decades of legislative experience, is expected to assume the presidency in a largely symbolic capacity, overseeing formal duties such as the swearing‑in of the prime minister and representing Bangladesh in diplomatic ceremonies. With the parliamentary arithmetic firmly in favor of the Awami League, the transition is projected to proceed without contest, underscoring the entrenched party dynamics that have characterized the country’s recent political landscape.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 12:31:46",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-075",
+    "title": "Australia summons Israeli ambassador over World Central Kitchen case",
+    "slug": "australia-summons-israeli-ambassador-over-world-central-kitchen-case",
+    "content": "Australia’s foreign ministry summoned the Israeli ambassador on Monday to express strong displeasure after Israel announced it would not initiate criminal proceedings related to alleged violations of international law. The diplomatic protest follows a request from the Australian government for Israel to investigate incidents that may constitute war crimes, prompting the ambassador’s meeting with senior officials in Canberra.\n\nAustralian Foreign Minister Penny Wong said the decision undermines accountability and the rule of law, urging Israel to reconsider its stance and cooperate with any independent inquiries. Israel’s legal counsel reiterated that existing investigations are ongoing and that the matter is being handled within its judicial system. Both governments indicated that dialogue will continue, with Australia monitoring the situation closely and assessing further diplomatic options.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 12:31:41",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-070",
     "title": "APOD 2026-08-20: Elephant's Trunk Nebula in Cepheus",
     "slug": "apod-2026-08-20-elephant-s-trunk-nebula-in-cepheus",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/17/2026 14:41:48",
     "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-083",
-    "title": "Ayetoro Beach Shrinks as Homes Are Swallowed by Ocean",
-    "slug": "ayetoro-beach-shrinks-as-homes-are-swallowed-by-ocean",
-    "content": "Aerosol‑laden waves are steadily eroding the shoreline of Ayetoro, a coastal community in southern Nigeria, leaving behind a patchwork of abandoned homes that have been swallowed by the sea. Over the past decade, satellite imagery and local reports indicate a measurable retreat of the beach line, with structures that once stood on the dunes now exposed only as skeletal remains. The most recent wave of erosion has claimed several houses that were lost just months ago, while older ruins, some dating back several years, lie scattered along the exposed coast.\n\nLocal residents and municipal officials attribute the rapid shoreline loss to a combination of rising sea levels, increased storm frequency, and the removal of mangrove buffers that once helped dissipate wave energy. In response, the district administration has begun a coastal protection program that includes the replanting of mangrove saplings and the construction of a modest seawall at the most vulnerable points of the beach. Community outreach efforts are also underway to inform residents about evacuation routes and to facilitate the relocation of those whose homes are at imminent risk.\n\nDespite these measures, the shrinking beach remains a stark reminder of the broader challenges facing Nigeria’s Atlantic coast. Continued monitoring and investment in shoreline stabilization are essential to safeguard the remaining habitable land and to preserve the cultural heritage of Ayetoro’s residents.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 13:42:30",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-082",
-    "title": "Experimental Compound Blocks Protein Clumps in Mouse Alzheimer’s Model",
-    "slug": "experimental-compound-blocks-protein-clumps-in-mouse-alzheimer-s-model",
-    "content": "A new experimental compound designed to treat Alzheimer’s disease has shown promising results in pre‑clinical trials, according to researchers. In laboratory mice, the drug prevented the formation of harmful protein aggregates in the brain, a hallmark of the disease, and helped nerve cells survive longer. The treatment also reduced overall amyloid plaque buildup, a key factor in the progression of Alzheimer’s pathology.\n\nBeyond its neurological effects, the compound appeared to confer cardiovascular benefits and slowed several markers of biological aging in the animals. The dual impact on both brain health and systemic aging processes suggests that the therapy could address multiple aspects of the disease, potentially offering a more comprehensive approach to dementia care.\n\nWhile the findings are preliminary and limited to animal models, they raise optimism for the development of a novel therapeutic strategy against Alzheimer’s. Further studies in humans will be required to confirm safety, efficacy, and the extent of the compound’s benefits across the complex spectrum of dementia.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 13:42:24",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-081",
-    "title": "Animals Can Digest Natural Bioplastics, Study Finds",
-    "slug": "animals-can-digest-natural-bioplastics-study-finds",
-    "content": "Scientists have uncovered that a wide range of animal species possess enzymes capable of degrading polyhydroxyalkanoates (PHAs), a class of biodegradable plastics produced by microbes. The discovery, published in a recent study, shows that dozens of animals—from insects to mammals—can break down these bioplastics, a function previously thought to be exclusive to microorganisms. Researchers argue that this ability has likely evolved over hundreds of millions of years, suggesting that natural ecosystems have long contained and processed PHAs long before human-made plastics were introduced.\n\nThe study examined tissue samples from various species and identified specific PHA-degrading enzymes that facilitate the conversion of these polymers into harmless by‑products. By demonstrating that animals can metabolize PHAs, the findings challenge the prevailing view that only bacteria and fungi play a role in bioplastic degradation. The research also highlights the potential for leveraging these natural enzymes in biotechnological applications, such as developing more efficient waste‑management strategies for plastic pollution.\n\nThese results underscore the complexity of natural biodegradation pathways and suggest that ecosystems may already be equipped to handle certain types of biodegradable plastics. Further investigation into the distribution and efficiency of these enzymes could inform the design of environmentally friendly materials and improve our understanding of long‑term plastic fate in the wild.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 13:42:19",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-080",
-    "title": "Tiny Graphene Wrinkles Drastically Alter Electrical Properties",
-    "slug": "tiny-graphene-wrinkles-drastically-alter-electrical-properties",
-    "content": "Scientists have identified that minute, sharply curved wrinkles in graphene—a single‑atom‑thick lattice of carbon—can dramatically modify the material’s electrical properties, generating an unexpectedly strong separation of electric charge. The discovery, reported by a research team using high‑resolution electron microscopy and electronic transport measurements, shows that these nanoscale deformations act as localized regions where electrons and holes accumulate, effectively turning the otherwise uniform graphene sheet into a patchwork of distinct charge domains.\n\nThe findings suggest a new pathway for engineering electronic devices by physically reshaping materials at the atomic level rather than altering their chemical composition. By deliberately introducing or controlling such curvature‑induced wrinkles, future technologies could fine‑tune conductivity, carrier mobility, and other key parameters, opening possibilities for more adaptable and efficient components in nanoelectronics and sensor applications.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 13:42:10",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-079",
-    "title": "Finnish study finds higher screen time linked to better teen cognitive processing",
-    "slug": "finnish-study-finds-higher-screen-time-linked-to-better-teen-cognitive-processin",
-    "content": "A Finnish longitudinal study spanning eight years has reported that children who spent more time on screens during early childhood exhibited improved cognitive processing when they reached adolescence. The research, which followed a cohort of Finnish youth from preschool through their teenage years, found that higher screen exposure correlated with better performance on tasks measuring attention, problem‑solving, and information processing.\n\nThe investigators suggest that the positive effect may stem from a balanced mix of physical activity and screen‑based activities that promote learning, creativity, and active thinking. They caution that simply increasing screen time is not the solution; rather, integrating educational and imaginative content with regular movement appears key to harnessing the benefits while mitigating potential drawbacks.\n\nThese findings challenge the prevailing narrative that screen use is inherently detrimental to child development. While further research is needed to understand the mechanisms at play, the study underscores the importance of thoughtful, balanced media consumption for fostering cognitive growth in young people.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/17/2026 13:42:04",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-078",
-    "title": "Dario Amodei shares AI regulation and messaging post on Hacker News",
-    "slug": "dario-amodei-shares-ai-regulation-and-messaging-post-on-hacker-news",
-    "content": "Dario Amodei, the former OpenAI researcher and co‑founder of Anthropic, posted a brief update on X on March 15, 2023. In the tweet, Amodei announced the launch of a new AI research initiative aimed at advancing safety and alignment techniques for large language models. The post, which has received 13 points and no comments, was subsequently shared on the Hacker News front page (item 49325789), where it also attracted no comments.\n\nThe initiative, described as a collaborative effort with academic partners and industry stakeholders, will focus on developing tools and methodologies to reduce harmful outputs and increase transparency in model behavior. Amodei noted that the project will build on prior work from both OpenAI and Anthropic, and that it will be open to external researchers for peer review and contribution.\n\nWhile the announcement has yet to generate extensive discussion, it underscores the growing emphasis within the AI community on responsible development practices. The initiative’s progress will likely be tracked through forthcoming research papers and open‑source releases, offering a new avenue for the broader community to engage with AI safety research.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/17/2026 13:41:59",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-077",
-    "title": "Wildfire spreads in eastern Belgium towards Germany",
-    "slug": "wildfire-spreads-in-eastern-belgium-towards-germany",
-    "content": "Firefighters are confronting a rapidly spreading forest fire in eastern Belgium, where thick smoke and rugged terrain are hampering containment efforts. The blaze, first reported early Thursday, has engulfed several hectares of mixed woodland near the town of Eupen, prompting the deployment of over 150 emergency personnel, multiple fire engines, and aerial water drops from helicopters.\n\nAuthorities have warned nearby communities of potential evacuations and have closed several forest access roads as a precaution. Weather forecasts indicate continued dry, windy conditions that could further exacerbate the fire’s advance. Officials from the regional fire service continue to coordinate the response, emphasizing that the priority remains protecting lives and property while working to bring the fire under control.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 13:41:54",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-076",
-    "title": "Six killed in Belgorod missile strike, two killed in Russian attacks across Ukraine",
-    "slug": "six-killed-in-belgorod-missile-strike-two-killed-in-russian-attacks-across-ukrai",
-    "content": "Overnight missile and drone strikes launched by Russian forces hit several locations across Ukraine, leaving two civilians dead and 19 others injured, officials said. The attacks, which began in the early hours, targeted residential areas and critical infrastructure in the eastern and southern regions, prompting widespread alerts and emergency evacuations.\n\nUkrainian authorities reported that the strikes involved a combination of guided missiles and unmanned aerial vehicles, striking cities such as Kharkiv, Zaporizhzhia and the coastal town of Mariupol. Local emergency services responded to the scenes, providing medical aid and securing damaged structures, while the Ukrainian military condemned the attacks as violations of international humanitarian law. The incidents add to the ongoing pattern of cross‑border hostilities that have intensified since the conflict’s escalation, underscoring the continued threat to civilian populations in the affected areas.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 13:41:48",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-075",
-    "title": "Irish consortium fails to buy Premier League club for Dublin relocation",
-    "slug": "irish-consortium-fails-to-buy-premier-league-club-for-dublin-relocation",
-    "content": "A recent revelation has shed light on a previously undisclosed attempt by an Irish consortium to purchase a Premier League team with the intention of relocating the club to Dublin. Although the exact timeline and details of the bid remain unclear, it is understood that the consortium had been in discussions with the owners of the team, exploring the possibility of a takeover. The proposal, which ultimately fell through, would have seen the team relocate to Dublin, potentially paving the way for the first-ever Premier League club to be based outside of the United Kingdom.\n\nThe consortium's bid was reportedly serious, with significant financial backing and a well-thought-out plan for the relocation. However, the Premier League and the Football Association of Ireland would have had to approve the move, which would have likely faced significant opposition from fans, players, and other stakeholders. The team in question has not been named, but it is believed to have been a lower-to-mid-table Premier League side, rather than one of the top-tier clubs. The revelation has sparked debate among football fans and pundits, with some questioning the feasibility and potential consequences of such a move.\n\nThe failed bid highlights the complexities and challenges involved in relocating a professional sports team, particularly one with a rich history and loyal fan base. While the idea of a Premier League team based in Dublin may have been an intriguing one, it ultimately appears that the obstacles and opposition proved too great to overcome. The incident serves as a reminder of the significant considerations and approvals required for such a move, and the importance of prioritizing the interests of fans, players, and the sport as a whole.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/17/2026 12:43:15",
-    "author": "BBC Sport",
     "isFeatured": false
   }
 ]
