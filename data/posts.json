@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-239",
+    "title": "Risk Engineering article shared on Hacker News",
+    "slug": "risk-engineering-article-shared-on-hacker-news",
+    "content": "A new piece published on the Risk‑Engineering.org website has recently attracted attention on Hacker News, where it was posted under the item ID 49372661. The post received six up‑votes and one comment, indicating a modest but focused interest from the community. The article itself appears to outline contemporary approaches to risk assessment and mitigation in engineering projects, though the exact title and author are not specified in the available metadata.\n\nThe discussion on Hacker News was brief, with the single comment suggesting a question about the applicability of the proposed risk‑engineering framework to large‑scale infrastructure projects. The article’s placement on Risk‑Engineering.org suggests it is aimed at professionals seeking to update their knowledge of best practices in identifying, quantifying, and managing engineering risks. The piece likely draws on recent case studies and industry standards to illustrate its points.\n\nWhile the engagement level remains low, the post’s presence on a high‑traffic technology forum underscores the ongoing relevance of risk engineering in today’s complex engineering landscape. The modest reception may reflect either the niche nature of the topic or the need for broader dissemination to reach a wider audience of engineers and project managers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 18:51:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-226",
     "title": "Germany Reports 14,000 Heat-Related Deaths This Summer",
     "slug": "germany-reports-14-000-heat-related-deaths-this-summer",
@@ -5486,17 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/17/2026 19:31:50",
     "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-230",
-    "title": "Belgium Wildfires: Worst in a Century, International Help Arrives",
-    "slug": "belgium-wildfires-worst-in-a-century-international-help-arrives",
-    "content": "Belgium is confronting its most severe wildfire crisis in more than a century, with large-scale fires raging across the Hautes Fagnes nature reserve. Hundreds of local firefighters are battling the flames, while several nearby towns have been evacuated to safeguard residents. The blaze has prompted a coordinated response from neighboring countries.\n\nGermany, Sweden, Norway and the Netherlands have dispatched additional resources, including helicopters and ground crews, to assist Belgian authorities. These reinforcements aim to provide aerial surveillance, water drops, and manpower to contain the rapidly spreading fires. The cross‑border cooperation underscores the scale of the emergency and the urgency of a unified firefighting effort.\n\nAs the situation evolves, Belgian officials continue to monitor the fire’s progression and the effectiveness of the international aid. The focus remains on protecting lives, property, and the region’s ecological assets while working to bring the blaze under control.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/17/2026 19:22:12",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
