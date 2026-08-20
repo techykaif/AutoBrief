@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260820-435",
+    "title": "Personalised mRNA vaccine shows positive results in late-stage skin cancer trial",
+    "slug": "personalised-mrna-vaccine-shows-positive-results-in-late-stage-skin-cancer-trial",
+    "content": "A final‑stage clinical trial of a personalised messenger‑RNA (mRNA) cancer vaccine has reported encouraging results in patients with skin cancer, suggesting that the technology could be adapted to treat a wide range of malignancies. The study, which enrolled a cohort of individuals with advanced melanoma, evaluated the vaccine’s ability to stimulate a targeted immune response against tumour‑specific antigens.\n\nIn the trial, patients received a series of vaccine doses tailored to the genetic profile of their own tumours. The investigators measured tumour shrinkage, progression‑free survival, and immune‑cell activity. The vaccine was well tolerated, with no unexpected safety signals, and a substantial proportion of participants achieved durable disease control. These findings mirror the success of mRNA platforms in infectious disease vaccines and demonstrate the feasibility of a highly customised approach to oncology.\n\nIf replicated in larger, multi‑centre studies, the data could pave the way for mRNA vaccines to be developed for other cancer types. The ability to rapidly design and manufacture a vaccine that targets patient‑specific tumour antigens offers a promising strategy to overcome tumour heterogeneity and resistance to conventional therapies. The research community now looks forward to further trials that will confirm the efficacy and broaden the applicability of this novel immunotherapeutic platform.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 22:31:55",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-418",
     "title": "US Intensifies Efforts to Unite Rival Libyan Governments",
     "slug": "us-intensifies-efforts-to-unite-rival-libyan-governments",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/18/2026 1:21:59",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260817-293",
-    "title": "Russian strike hits central Kyiv book market, targeting cultural sites",
-    "slug": "russian-strike-hits-central-kyiv-book-market-targeting-cultural-sites",
-    "content": "A Russian missile strike on Sunday hit the central book market in Kyiv, causing damage to the commercial hub that sells a wide range of Ukrainian literature and educational materials. The attack occurred amid an intensified campaign of aerial bombardments across the capital, which has seen numerous civilian and cultural sites targeted in recent weeks. Local authorities reported that the market sustained structural damage and that several stalls were destroyed, though no casualties were immediately confirmed.\n\nFRANCE 24 correspondent Emmanuelle Chaze described the strike as part of a broader effort to undermine Ukrainian culture, stating that the assaults aim at “Ukrainian culture, the Ukrainian language and Ukrainian identity.” She noted that, since the start of the summer, Russian forces have destroyed millions of books in similar attacks and have also targeted churches and other key cultural institutions, a pattern she characterises as an attempt to weaken the nation’s cultural heritage. Ukrainian officials have condemned the strike, reaffirming their commitment to protect cultural sites while continuing defensive operations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 1:21:54",
     "author": "France 24",
     "isFeatured": false
   }
