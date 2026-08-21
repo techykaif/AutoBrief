@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-395",
+    "title": "Dark stars may have seeded early supermassive black holes, study finds",
+    "slug": "dark-stars-may-have-seeded-early-supermassive-black-holes-study-finds",
+    "content": "A faint, persistent hum of gravitational waves permeating the universe may trace its origins to ancient “dark stars,” the massive, short‑lived objects that once ignited in the early cosmos. Recent theoretical work suggests that the collective radiation from these collapsed stars could form a stochastic background of spacetime ripples, offering a new window into the universe’s first billion years.\n\nAstrophysicists model dark stars as hydrogen‑rich, metal‑poor objects that grew to hundreds of solar masses before collapsing into black holes. These remnants are thought to be the progenitors of the supermassive black holes that now sit at the centers of galaxies. By calculating the expected gravitational wave signatures from such collapses, researchers predict a low‑frequency background that could be detectable by next‑generation detectors, such as the Laser Interferometer Space Antenna (LISA), and might help confirm the role of dark stars in seeding the early universe’s most massive black holes.\n\nIf confirmed, this gravitational wave background would provide the first indirect evidence of dark stars and illuminate the processes that led to the rapid assembly of supermassive black holes. The discovery would deepen our understanding of cosmic evolution and the mechanisms that shaped the large‑scale structure of the universe.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/21/2026 21:31:55",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-376",
     "title": "Shark DNA could hold answers to how we age",
     "slug": "shark-dna-could-hold-answers-to-how-we-age",
@@ -5486,17 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/18/2026 21:11:48",
     "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-370",
-    "title": "Scientists investigate non-neuronal mechanisms of thought and their AI implications",
-    "slug": "scientists-investigate-non-neuronal-mechanisms-of-thought-and-their-ai-implicati",
-    "content": "Researchers are revisiting the long‑standing question of whether biological memory is fundamentally distinct from the way computers store and retrieve data. Recent experiments have highlighted how a familiar song can instantly evoke a memory from decades ago, how a particular scent can summon a specific person or place, and how a frightening recollection can trigger an almost immediate emotional and physical reaction. These observations underscore the powerful role of sensory cues in human memory retrieval.\n\nNeuroscientists are now comparing these biological mechanisms with computational models that rely on pattern recognition and associative networks. While computers can store vast amounts of information and retrieve it based on input patterns, the human brain’s ability to link memories to multi‑sensory experiences and to produce rapid, automatic responses remains a key area of inquiry. Studies employing functional imaging and machine learning are probing whether artificial systems can mimic the same depth of contextual binding that characterizes human memory.\n\nThe implications of this research extend beyond basic science. Understanding the parallels and differences between biological and computational memory could inform the design of more intuitive human‑computer interfaces, improve memory‑assisting technologies for patients with cognitive impairments, and guide ethical considerations in artificial intelligence. As the field advances, scientists anticipate clearer insights into how memory functions across living and artificial systems.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/18/2026 20:41:49",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
