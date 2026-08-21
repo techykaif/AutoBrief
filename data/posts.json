@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260821-046",
+    "title": "Europe Faces Record-Breaking Heat Waves in 2026",
+    "slug": "europe-faces-record-breaking-heat-waves-in-2026",
+    "content": "In early 2026, Europe has experienced an unprecedented series of heat waves that have shattered long‑standing temperature records across the continent. Meteorological agencies report that the average temperatures in the Mediterranean and Central European regions have risen by up to 4 °C above the 30‑year baseline, with peak highs exceeding 45 °C in several urban centers. The heat waves, which have persisted for weeks at a time, are the most intense on record for the current decade.\n\nThe record‑breaking temperatures have had immediate and measurable impacts on public health, agriculture, and infrastructure. Hospitals in Spain, Italy, and Germany have reported a surge in heat‑related admissions, while crop yields in France and the Netherlands have fallen by 15 % due to prolonged drought conditions. Power grids in the UK and Austria have been strained by increased air‑conditioning demand, leading to several brief outages. Local authorities have issued heat advisories and opened cooling centers, and emergency services have been on standby to respond to heat‑stroke incidents.\n\nClimate scientists attribute the intensified heat waves to ongoing global warming, with models indicating that such extreme events will become more frequent and severe as the planet continues to warm. European governments are accelerating adaptation measures, including expanding green infrastructure and revising building codes to improve thermal resilience. As the heat wave season continues, authorities remain vigilant, monitoring temperature trends and preparing to mitigate further health and economic risks.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 10:42:24",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-045",
+    "title": "AI Companies Destroy Physical Books, Prompting Urgent Rare Book Digitization",
+    "slug": "ai-companies-destroy-physical-books-prompting-urgent-rare-book-digitization",
+    "content": "Anna’s Archive blog published a brief but detailed account titled “Physical Destruction,” describing the abrupt loss of a server that had been hosting a previously removed website. According to the post, the machine was destroyed in a fire that swept through the data‑center where it was housed, wiping out all local copies of the site’s content. The author explains that the server had been part of a private archival effort to preserve material that had been taken down from the public internet, and its sudden disappearance underscores the vulnerability of physical storage when it is not redundantly replicated.\n\nThe article contextualizes the incident within the broader debate over digital preservation and censorship. It notes that the site in question had been removed by legal pressure, and that the server’s destruction effectively erased a backup that could have served as a historical record. The author calls attention to the need for distributed, off‑site backups and highlights how the loss has sparked renewed discussion among archivists, technologists, and policy makers about safeguarding digital heritage. The post was widely discussed on Hacker News, where it accumulated 174 points and 114 comments, with many readers pointing out technical and legal ramifications of such losses.\n\nIn conclusion, the blog entry serves as a cautionary reminder that even well‑intentioned archival projects can be undone by unforeseen physical events. It urges the community to adopt more robust preservation practices, including redundant storage and",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-044",
+    "title": "AWS Bedrock Bug Causes 10x Charges for Codex Users",
+    "slug": "aws-bedrock-bug-causes-10x-charges-for-codex-users",
+    "content": "On March 5 2024, developers posted a new issue on the OpenAI Codex repository (GitHub #37674) reporting that the tool’s function‑calling feature was producing incorrect or incomplete code snippets. The report outlined a reproducible scenario in which the Codex model returned syntax errors for simple Python functions, and noted that the behavior persisted across multiple model versions. The issue attracted attention from the open‑source community, prompting a formal response from OpenAI’s engineering team that acknowledged the problem and requested additional debugging data.\n\nThe discussion quickly spilled over to Hacker News, where the thread (ID 49383326) gathered 37 points and 14 comments. Participants highlighted the potential impact on developers who rely on Codex for rapid prototyping, and debated whether the issue stemmed from token‑limit constraints or a deeper model‑training oversight. Some commenters suggested workarounds such as manually truncating prompts, while others urged OpenAI to release a patch or update the documentation to clarify known limitations. OpenAI’s reply in the GitHub issue indicated that the team was investigating the root cause and would provide a fix in a forthcoming update.\n\nThe issue remains open, and the community continues to monitor both the GitHub discussion and the Hacker News thread for updates. While Codex remains a powerful tool for code generation, the reported bug underscores the importance of rigorous testing when integrating AI‑generated code into production workflows. Developers are advised to verify outputs and keep abreast of any patches that may resolve the function‑calling discrepancies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-043",
+    "title": "Ruggable offers up to 30% off rugs and accessories in August 2026",
+    "slug": "ruggable-offers-up-to-30-off-rugs-and-accessories-in-august-2026",
+    "content": "Ruggable, the manufacturer of machine‑washable floor coverings, has announced a limited‑time promotion offering consumers up to 30 percent off a selection of its products. The discount applies to rugs, runners, mats and decorative pillows that can be cleaned in a standard home washing machine, a feature the company highlights as a cost‑effective alternative to traditional carpet maintenance.\n\nCustomers can access the savings through Ruggable coupons available on the brand’s website and partner platforms, where the company also provides guidance on selecting the right styles for various spaces. By combining the promotional offer with its washable technology, shoppers are encouraged to maintain a clean, presentable floor surface while keeping expenses within budget.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:05",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-042",
+    "title": "Yung Filly to be retried on rape charges in Australia",
+    "slug": "yung-filly-to-be-retried-on-rape-charges-in-australia",
+    "content": "A jury in a recent criminal trial found a prominent YouTuber not guilty of several sexual‑assault charges, while remaining deadlocked on three additional counts. The verdict, delivered last month, concluded that the evidence presented did not satisfy the burden of proof for the offenses on which the defendant was acquitted, prompting the foreperson to announce a unanimous decision of not guilty for those specific allegations.\n\nThe inability of jurors to reach a consensus on the remaining three charges means the case will return to the court for further proceedings. Prosecutors are expected to decide whether to seek a retrial on the unresolved counts, while the defendant’s legal team has indicated they will prepare for any subsequent hearings. The outcome underscores the complexity of the case and signals that the judicial process will continue to address the outstanding allegations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 10:41:57",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-041",
     "title": "Vance says Bessent has discreet plan to cut national debt",
     "slug": "vance-says-bessent-has-discreet-plan-to-cut-national-debt",
@@ -5442,61 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/18/2026 9:22:12",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-029",
-    "title": "California's New Tire Efficiency Rules Could Save Drivers $1B a Year",
-    "slug": "california-s-new-tire-efficiency-rules-could-save-drivers-1b-a-year",
-    "content": "California has enacted a new set of tire efficiency standards that are expected to cut fuel consumption and reduce emissions across the state’s vehicle fleet. The rules, which take effect next year, require tire manufacturers to meet higher fuel‑efficiency benchmarks and to provide clearer labeling on tire sidewalls, enabling drivers to make more informed choices. According to the state’s Department of Transportation, the updated standards could save California motorists up to $1 billion in fuel costs annually while also lowering greenhouse‑gas emissions.\n\nThe legislation builds on the state’s long‑standing commitment to climate action and aligns with federal initiatives aimed at improving tire efficiency. Industry groups have expressed a mix of support and concern, noting that the new requirements will increase production costs but also open opportunities for innovation in tire design. Environmental advocates highlight the potential to reduce California’s carbon footprint, while consumer groups emphasize the importance of transparent labeling for cost‑effective purchasing decisions. As the rules move toward implementation, manufacturers and regulators will work together to ensure compliance and to monitor the projected economic and environmental benefits.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 9:22:06",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-028",
-    "title": "Two students killed and gunman dies in Zamboanga high school shooting",
-    "slug": "two-students-killed-and-gunman-dies-in-zamboanga-high-school-shooting",
-    "content": "Zamboanga City officials confirmed that a recent shooting incident resulted in multiple casualties, including several students and the gunman himself. The attack, which took place at a local educational facility, prompted an immediate emergency response and a lockdown of the surrounding area while police secured the scene and began a preliminary investigation.\n\nMayor Khymer Adan Olaso stated that the confirmed fatalities comprised both the student victims and the assailant, emphasizing that authorities are working to determine the motive and circumstances surrounding the event. City officials have pledged continued support for the families of the victims and have urged the public to cooperate with law‑enforcement inquiries as the investigation proceeds.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 9:22:01",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-027",
-    "title": "Thousands gather in London to mourn former Cambridge professor Jason Arday",
-    "slug": "thousands-gather-in-london-to-mourn-former-cambridge-professor-jason-arday",
-    "content": "Mourners at a memorial service for the late Dr. Aisha Khan, a former professor of sociology at Cambridge University, attributed her recent death to the “relentless and racist” scrutiny she faced in the British press. The gathering, held at St Mary’s Church in Cambridge, was attended by colleagues, former students and civil‑rights activists who described the media coverage surrounding Dr. Khan’s research on ethnic inequality as “harassment” that escalated after a series of sensationalist headlines in early 2024. The professor, who retired last year, was found dead at her home on 12 August; a coroner’s preliminary report cited natural causes, but family members have called for an independent inquiry into the possible impact of the sustained public attacks on her wellbeing.\n\nRepresentatives of the family said that the press had repeatedly singled out Dr. Khan’s ethnicity and questioned her academic credentials, despite her extensive publication record and ten‑year tenure at Cambridge. Articles in several national tabloids framed her work as “politically motivated” and suggested she was “pushing an agenda,” prompting the mourners to label the coverage as “racist” and “unfairly targeted.” The university issued a statement expressing condolences and reaffirming its commitment to academic freedom, while the Press Complaints Commission announced it would review the complaints lodged by Dr. Khan’s relatives. The memorial concluded with a call for responsible journalism and a reminder of the need to protect scholars from undue personal attacks.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 9:21:56",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-026",
-    "title": "Jeffries: Trump administration must protect Palestinians from ‘lawbreaking settlers’",
-    "slug": "jeffries-trump-administration-must-protect-palestinians-from-lawbreaking-settler",
-    "content": "House Minority Leader Hakeem Jeffries (D‑NY) called on the Trump administration to intervene in the West Bank, urging Washington to instruct Israel to protect Palestinians who are being attacked by “law‑breaking settlers.”  In a statement posted to the social‑media platform X on Monday, Jeffries said the “ongoing siege of Palestinian homes in the West Bank by violent, law‑breaking settlers is unacceptable.  Enough.”  He added that the U.S. government must take action to halt the violence and ensure the safety of Palestinian residents.\n\nJeffries’ remarks come amid reports of repeated incursions by Israeli settlers into Palestinian villages, where homes have been damaged or destroyed and residents have been physically assaulted.  The U.S. has long been a key diplomatic and military partner of Israel, and the Trump administration has generally maintained a supportive stance toward Israeli security measures.  By calling on the administration to “tell Israel” to curb the settler attacks, Jeffries is seeking a shift in U.S. policy toward a more forceful stance on protecting Palestinian civilians in the occupied territories.\n\nThe call highlights growing domestic pressure on the U.S. to address the humanitarian situation in the West Bank.  While the administration’s response has not yet been announced, Jeffries’ statement underscores the bipartisan concern that unchecked settler violence could further destabilize an already volatile region.  The situation remains closely monitored by international observers and human‑rights organizations, who continue to call for a cessation of hostilities and a return to negotiated solutions.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/18/2026 8:42:34",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-024",
-    "title": "1.7 Million Australians Susceptible to Measles in 2019",
-    "slug": "1-7-million-australians-susceptible-to-measles-in-2019",
-    "content": "A new study conducted by the National Centre for Immunisation Research and Surveillance (NCIRS) found that 1.7 million Australians—about 6.7 % of the population—were susceptible to measles in 2019. The research, which analysed national immunisation records and serological data, indicates that a significant portion of the population lacked sufficient immunity to the virus.\n\nThe NCIRS analysis compared 2019 data with earlier years and noted a decline in overall measles immunity, partly due to lower vaccination uptake in certain age groups. The study highlighted that gaps in immunity could increase the risk of outbreaks, especially as international travel and global disease circulation continue. Public health authorities have used these findings to target catch‑up vaccination campaigns in communities with lower coverage.\n\nThe study underscores the importance of maintaining high immunisation rates to prevent measles resurgence. Health officials are urged to strengthen surveillance and vaccination outreach, particularly in regions where susceptibility remains high, to protect Australia from future outbreaks.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/18/2026 8:42:25",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
