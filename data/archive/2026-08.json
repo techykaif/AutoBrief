@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260818-541",
+    "title": "Earthquake damages Granada, injures three and closes Alhambra",
+    "slug": "earthquake-damages-granada-injures-three-and-closes-alhambra",
+    "content": "Historic Granada has suffered damage to several structures and vehicles after an incident that prompted authorities to temporarily close the Alhambra, the UNESCO‑listed palace and fortress that draws millions of visitors each year. Emergency services responded to the scene, securing the area and assessing the extent of the damage to both residential and commercial buildings as well as parked cars throughout the city’s old quarter.\n\nOfficials confirmed that the Alhambra will remain shut until safety inspections are completed and necessary repairs are made, a measure aimed at protecting both the monument and the public. The closure is expected to affect tourism flows, and local authorities have urged residents and visitors to avoid the affected zones while restoration work proceeds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 0:21:43",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-534",
+    "title": "Oral exams are making a comeback to stop AI cheating. But they have their own problems",
+    "slug": "oral-exams-are-making-a-comeback-to-stop-ai-cheating-but-they-have-their-own-pro",
+    "content": "Higher education institutions are increasingly replacing traditional written assessments with oral examinations to counter the widespread use of artificial intelligence in student coursework. Faculty members and academic administrators have identified generative AI tools as a growing threat to academic integrity, prompting a rapid shift toward in-person,",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/18/2026 23:41:57",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-533",
+    "title": "Claude Code weekly limits to drop by one third starting tomorrow",
+    "slug": "claude-code-weekly-limits-to-drop-by-one-third-starting-tomorrow",
+    "content": "Anthropic announced that, beginning in May 2026, its Claude Code product will adopt new weekly usage limits as part of a limited‑time promotion. The change, detailed in a support article on the Claude website, outlines the revised cap on the number of code‑generation requests that users can submit each week. The update is intended to manage demand while offering an incentive for early adopters to explore the service.\n\nUnder the new policy, free‑tier users will receive a higher weekly allowance—up to 5,000 requests—compared with the previous 2,000‑request cap, while paid subscribers will see a proportional increase that aligns with their plan tier. The promotion is available for a 30‑day period, after which the limits will revert to the standard rates unless further adjustments are announced. Anthropic also provided guidance on how to monitor usage and how to request a temporary lift if a project requires additional capacity.\n\nThe announcement sparked discussion on Hacker News, where the post received 44 points and 15 comments. Users noted the potential impact on developers who rely on Claude Code for rapid prototyping, and some expressed interest in the temporary boost as a way to evaluate the service before committing to a paid plan. Anthropic’s update reflects the company’s broader strategy to balance accessibility with resource constraints as the AI‑driven coding market expands.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 23:41:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-507",
+    "title": "Textile researchers explain complexities of choosing fabrics for extreme heat",
+    "slug": "textile-researchers-explain-complexities-of-choosing-fabrics-for-extreme-heat",
+    "content": "When the temperature climbs, many people instinctively reach for a light, loose garment, assuming it will keep them cool. Recent studies by textile scientists, however, reveal that the relationship between clothing and heat is far more nuanced. Researchers at the University of Leeds have examined a range of summer fabrics and found that factors such as fiber type, weave density, and moisture‑wicking properties can significantly influence how a garment feels in high heat.\n\nThe team tested over 30 textile samples, including cotton, polyester blends, and newly engineered micro‑fibers. While cotton is breathable, its natural fibers can trap sweat, leading to a clammy sensation. Conversely, certain polyester blends with engineered micro‑channels disperse moisture more effectively, allowing the skin to cool faster. The weave also matters: looser weaves permit better air circulation, but if the fabric is too porous, it can allow heat to build up. The researchers emphasize that the optimal choice depends on a combination of these variables rather than simply weight or color.\n\nThese findings suggest that consumers and apparel designers should look beyond conventional descriptors like “light” or “loose.” By selecting fabrics engineered for moisture management and airflow, clothing can provide genuine relief in hot conditions. As the industry moves toward more performance‑oriented materials, consumers are encouraged to read technical specifications rather than rely solely on traditional summer‑wear clichés.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/18/2026 23:24:47",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-507",
     "title": "Textile researchers explain complexities of choosing fabrics for extreme heat",
     "slug": "textile-researchers-explain-complexities-of-choosing-fabrics-for-extreme-heat-1",
