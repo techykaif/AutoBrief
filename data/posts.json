@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-157",
+    "title": "Small native web tricks highlighted in new article",
+    "slug": "small-native-web-tricks-highlighted-in-new-article",
+    "content": "A new article has been posted on the website htmlcat.net, and it has already begun to attract attention on the technology discussion platform Hacker News. The piece, which can be accessed directly via its URL, was shared with the broader community and has since appeared in the news feed under the identifier 49385860.\n\nAccording to the Hacker News metrics, the article has received 14 points and one comment. The comment thread, available at the provided link, indicates that the post has sparked a modest level of engagement among readers. While the content of the article itself has not been detailed in the public summary, the upvote count suggests that it has resonated with at least a small segment of the platform’s audience.\n\nThe early reception on Hacker News points to a growing interest in the topic covered by htmlcat.net. As the discussion continues, additional insights and reactions may emerge, offering a clearer picture of the article’s impact and relevance within the tech community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 16:21:48",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-138",
     "title": "Northern Philippines Floods Intensify Corruption Protests",
     "slug": "northern-philippines-floods-intensify-corruption-protests",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/18/2026 15:12:19",
     "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-120",
-    "title": "Syrian court sentences Wassim al-Assad to death",
-    "slug": "syrian-court-sentences-wassim-al-assad-to-death",
-    "content": "A former Syrian regime official and cousin of President Bashar al-Assad has been convicted of multiple serious offenses, including premeditated murder and torture, following a court trial. The ruling concludes a legal process that examined the defendant’s conduct while he held a senior position within the government during the country’s protracted",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 15:12:10",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
