@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-122",
+    "title": "UK trial uses AI to cut aircraft contrail formation",
+    "slug": "uk-trial-uses-ai-to-cut-aircraft-contrail-formation",
+    "content": "A new United Kingdom trial aims to cut the amount of condensation trails—commonly known as contrails—left by aircraft, a key source of atmospheric heat retention. The pilot project, launched by the UK’s Department for Transport in partnership with the Royal Aeronautical Society, will test a suite of mitigation technologies on a selected fleet of regional jets over the next 18 months.\n\nThe trial will deploy advanced engine‑bypass‑air cooling systems, low‑emission fuel blends, and real‑time contrail‑prediction software to adjust flight paths and altitudes. Engineers will monitor changes in contrail formation and persistence using ground‑based lidar and satellite data, comparing the results against a control group of aircraft operating under standard procedures. The goal is to quantify how much the new measures can reduce the radiative forcing associated with contrails, potentially lowering the aviation sector’s contribution to climate change.\n\nIf successful, the project could provide a scalable framework for airlines across the UK and beyond, offering a practical step toward meeting the aviation industry’s net‑zero targets. The findings will be published by the end of 2027, informing future regulatory standards and encouraging broader adoption of contrail‑mitigation strategies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 15:12:19",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-120",
     "title": "Syrian court sentences Wassim al-Assad to death",
     "slug": "syrian-court-sentences-wassim-al-assad-to-death",

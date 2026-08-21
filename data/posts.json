@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-169",
+    "title": "Two Belgian hikers missing since 1992 found in Switzerland's Trift Glacier",
+    "slug": "two-belgian-hikers-missing-since-1992-found-in-switzerland-s-trift-glacier",
+    "content": "Officials announced that the bodies of two Belgian tourists, who vanished in 1992 while hiking near the Trift Glacier in the Swiss Alps, have been recovered after the glacier retreated. The victims, identified as Jean‑Pierre De Smet and Marie‑Claire Lemaire, were last seen attempting to cross the ice field in late summer of that year. Their disappearance had remained unsolved for nearly three decades, with the glacier’s shifting mass having obscured the site until recent meltwater flows exposed the remains.\n\nThe recovery operation, carried out by the Swiss Federal Office for the Environment in cooperation with local search teams, involved careful excavation of the glacier’s lower reaches. The bodies were found in a partially preserved state, with evidence suggesting they were trapped by a sudden ice collapse. Authorities confirmed that the victims’ personal effects, including hiking gear and identification documents, were recovered alongside the bodies, allowing for definitive identification. The Swiss authorities have pledged to investigate the circumstances of the incident and to assess the glacier’s stability for future safety measures.\n\nThe discovery brings closure to a long‑standing mystery that had haunted the local community and the families of the victims. Swiss officials have expressed gratitude to the search teams for their perseverance and to the families for their patience. The incident is being reviewed in the context of climate‑induced glacier retreat, underscoring the increasing risks to mountaineers in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 16:31:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-157",
     "title": "Small native web tricks highlighted in new article",
     "slug": "small-native-web-tricks-highlighted-in-new-article",
@@ -5486,17 +5497,6 @@
     "categorySlug": "health",
     "publishedAt": "8/18/2026 15:21:55",
     "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-122",
-    "title": "UK trial uses AI to cut aircraft contrail formation",
-    "slug": "uk-trial-uses-ai-to-cut-aircraft-contrail-formation",
-    "content": "A new United Kingdom trial aims to cut the amount of condensation trails—commonly known as contrails—left by aircraft, a key source of atmospheric heat retention. The pilot project, launched by the UK’s Department for Transport in partnership with the Royal Aeronautical Society, will test a suite of mitigation technologies on a selected fleet of regional jets over the next 18 months.\n\nThe trial will deploy advanced engine‑bypass‑air cooling systems, low‑emission fuel blends, and real‑time contrail‑prediction software to adjust flight paths and altitudes. Engineers will monitor changes in contrail formation and persistence using ground‑based lidar and satellite data, comparing the results against a control group of aircraft operating under standard procedures. The goal is to quantify how much the new measures can reduce the radiative forcing associated with contrails, potentially lowering the aviation sector’s contribution to climate change.\n\nIf successful, the project could provide a scalable framework for airlines across the UK and beyond, offering a practical step toward meeting the aviation industry’s net‑zero targets. The findings will be published by the end of 2027, informing future regulatory standards and encouraging broader adoption of contrail‑mitigation strategies.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 15:12:19",
-    "author": "BBC Technology",
     "isFeatured": false
   }
 ]
