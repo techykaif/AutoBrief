@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-288",
+    "title": "Trump administration appoints former JPMorgan exec Matt Zames as unpaid Social Security adviser",
+    "slug": "trump-administration-appoints-former-jpmorgan-exec-matt-zames-as-unpaid-social-s",
+    "content": "Matt Zames, a former JPMorgan executive, has agreed to serve in an unpaid capacity to assist former colleague Frank Bisignano with the modernization of the U.S. Social Security Administration (SSA), CNBC reports. The move comes as the SSA seeks to overhaul its technology infrastructure and improve service delivery to millions of beneficiaries.\n\nZames brings a decade of experience in financial technology and regulatory compliance, having led digital transformation initiatives at JPMorgan. Bisignano, who was recently appointed to a senior SSA oversight role, is tasked with steering the agency’s efforts to adopt cloud-based systems, enhance data analytics capabilities, and streamline claims processing. The partnership aims to accelerate the SSA’s transition to more agile, secure, and user‑friendly platforms.\n\nWhile the arrangement is unpaid, it underscores the urgency of the modernization effort and the SSA’s reliance on private‑sector expertise. If successful, the initiative could reduce processing times and improve the overall efficiency of the agency’s operations, benefiting the millions of Americans who depend on Social Security benefits.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/21/2026 19:31:51",
+    "author": "CNBC Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-269",
     "title": "Liverpool preview: Five key questions heading into 2026-27 season",
     "slug": "liverpool-preview-five-key-questions-heading-into-2026-27-season",
@@ -5486,17 +5497,6 @@
     "categorySlug": "business",
     "publishedAt": "8/18/2026 18:41:48",
     "author": "CNBC Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-246",
-    "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-    "slug": "as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers",
-    "content": "Recent scientific findings indicate that rising temperatures significantly intensify the health and environmental risks associated with pesticide exposure. Researchers have documented that heat accelerates the chemical breakdown and volatility of common agricultural and residential pesticides, leading to higher concentrations of toxic byproducts in air, soil, and water. This interaction between climate conditions and chemical agents raises concerns for both human populations and ecosystems, particularly in regions experiencing increasingly frequent and prolonged heatwaves.\n\nStudies reveal that elevated temperatures increase the rate at which pesticides volatilize and penetrate biological tissues, while simultaneously impairing the metabolic processes responsible for detoxification. Laboratory and field data show that heat stress can reduce liver and kidney efficiency, making organisms more susceptible to chemical toxicity even at standard application levels. Agricultural workers, communities near treatment zones, and non-target species such as pollinators and aquatic life face compounded risks during high-temperature periods, prompting researchers to recommend revised safety protocols and seasonal application adjustments.\n\nAs global temperatures continue to rise, experts emphasize the need for updated regulatory frameworks that account for climate-driven changes in pesticide behavior. Ongoing environmental monitoring and adaptive management strategies are being prioritized to mitigate exposure risks and safeguard public health and ecological stability in warming climates.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 18:32:29",
-    "author": "Ars Technica",
     "isFeatured": false
   }
 ]
