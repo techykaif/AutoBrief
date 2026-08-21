@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260818-036",
+    "title": "DR Congo records deadliest Ebola outbreak in its history",
+    "slug": "dr-congo-records-deadliest-ebola-outbreak-in-its-history",
+    "content": "The World Health Organization (WHO) announced on Monday that the current Ebola outbreak in the Democratic Republic of the Congo (DRC) – caused by the Bundibugyo strain – has become the country’s deadliest epidemic to date. WHO officials said the number of confirmed cases and deaths has surpassed all previous Ebola outbreaks in the DRC, marking a new record for the severity of the disease in the region.\n\nThe outbreak, which began in the eastern provinces of the DRC, has prompted an intensified response from international health agencies and the Congolese government. WHO has deployed additional medical teams, expanded contact‑tracing efforts, and increased the distribution of the rVSV‑ZEBOV vaccine to frontline workers and high‑risk communities. Local authorities have also implemented travel restrictions and community education campaigns to curb transmission.\n\nDespite the heightened response, health experts warn that the situation remains precarious. WHO continues to monitor the epidemic’s trajectory and stresses the importance of sustained surveillance, rapid case isolation, and community engagement to prevent further spread and to bring the outbreak under control.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 10:22:05",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-035",
+    "title": "UN humanitarian workers reach trapped families in Qusra village amid ongoing Gaza crisis",
+    "slug": "un-humanitarian-workers-reach-trapped-families-in-qusra-village-amid-ongoing-gaz",
+    "content": "Humanitarian teams have reached Palestinian families who were confined for several days by Israeli settlers in the village of Qusra in the northern West Bank, the United Nations announced on Monday. The families, who had been cut off from essential services and assistance, were finally able to receive medical aid, food supplies and evacuation support after a prolonged standoff that drew international attention.\n\nUN officials cautioned that such incidents must not become routine, warning that the repeated use of settler‑led blockades threatens to normalize a pattern of violence and humanitarian obstruction. The agency called for immediate measures to prevent further escalations and to ensure that civilian populations in the occupied territories retain unhindered access to aid and protection.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 10:22:00",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-034",
+    "title": "Governments prioritize land protection to combat desertification and safeguard vital infrastructure",
+    "slug": "governments-prioritize-land-protection-to-combat-desertification-and-safeguard-v",
+    "content": "Heatwaves, wildfires, and rising sea levels have dominated headlines as climate‑related disasters intensify worldwide, prompting emergency responses and large‑scale relief efforts. While these visible threats receive substantial attention, a less conspicuous but equally critical issue is the accelerating degradation of soil and land resources. According to the United Nations Food and Agriculture Organization, an estimated 33 percent of the planet’s land surface is already degraded, a figure that has risen steadily over the past two decades as agricultural expansion, deforestation, and unsustainable land‑use practices erode fertility and increase erosion.\n\nRecent reports from the Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services (IPBES) highlight that land degradation undermines food security, reduces carbon sequestration capacity, and exacerbates vulnerability to floods and droughts, thereby compounding the impacts of other climate hazards. Governments and international bodies have begun to integrate land restoration into climate strategies, with initiatives such as the UN Decade on Restoration (2021‑2030) aiming to restore at least 350 million hectares of degraded land. Continued monitoring, investment in sustainable land management, and coordinated policy action are essential to address this overlooked component of the global environmental crisis.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 10:21:55",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-033",
+    "title": "Hichilema wins second term as Zambia president",
+    "slug": "hichilema-wins-second-term-as-zambia-president",
+    "content": "Zambia’s presidential election concluded with incumbent President Hakainde Hichilema securing a decisive victory, obtaining roughly 60% of the vote. The result was announced after the electoral commission resumed counting, which had been temporarily suspended following a series of attacks on election officials earlier in the tallying process.\n\nThe disruptions, attributed to unidentified assailants, briefly halted the vote count but did not affect the overall transparency of the election, according to the Electoral Commission of Zambia. International observers noted that the polling proceeded largely peacefully across the country, and the final tally confirmed Hichilema’s strong mandate for a second term. The election outcome is expected to shape Zambia’s policy direction in the coming years.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/18/2026 10:21:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-030",
+    "title": "Benchmarkpocalypse: Dan Luu on Benchmarking Failures",
+    "slug": "benchmarkpocalypse-dan-luu-on-benchmarking-failures",
+    "content": "Dan Luu’s recent blog post, “Benchpocalypse,” was published on his personal site and has attracted attention from the developer community. The article focuses on the complexities of performance measurement in contemporary software projects, arguing that many teams rely on ad‑hoc benchmarks that can produce misleading results. Luu outlines common pitfalls—such as ignoring hardware variability, failing to isolate workloads, and over‑optimizing for specific test conditions—and stresses the importance of reproducible, statistically sound benchmarking practices.\n\nIn the post, Luu draws on concrete examples from languages like Rust and Go to illustrate how subtle differences in compiler optimizations, runtime environments, and system libraries can skew performance data. He proposes a set of guidelines for constructing robust benchmarks, including the use of warm‑up phases, repeated runs, and careful selection of representative workloads. The article was shared on Hacker News, where it received five points but no comments, indicating modest engagement from the community.\n\n“Benchpocalypse” contributes to the broader conversation about reliable performance evaluation. By highlighting both the technical challenges and the methodological solutions, Luu encourages developers to adopt systematic benchmarking approaches that yield more trustworthy insights into software efficiency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/18/2026 9:22:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-029",
     "title": "California's New Tire Efficiency Rules Could Save Drivers $1B a Year",
     "slug": "california-s-new-tire-efficiency-rules-could-save-drivers-1b-a-year",
