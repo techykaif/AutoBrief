@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260821-032",
+    "title": "Distance, insurance and hidden costs hinder clinical trial participation",
+    "slug": "distance-insurance-and-hidden-costs-hinder-clinical-trial-participation",
+    "content": "Connecting patients to appropriate clinical trials remains a complex endeavor, even when a promising match is identified. The process is hampered by a range of practical obstacles that can derail participation before a trial even begins.\n\nKey barriers include geographic incompatibility, as many trials are concentrated in specific research centers far from patients’ homes, and financial constraints, such as travel costs, lost wages, and insurance limitations that can make enrollment unaffordable. Time considerations also play a critical role; the lengthy screening, consent, and scheduling procedures can conflict with patients’ work, caregiving responsibilities, and overall health management, further discouraging participation.\n\nAddressing these challenges requires coordinated efforts from researchers, payers, and patient advocacy groups to streamline enrollment logistics, expand trial sites, and provide comprehensive support services. By reducing geographic, financial, and temporal hurdles, the clinical research community can improve patient access and accelerate the development of new therapies.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/21/2026 8:42:26",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-031",
+    "title": "AI identifies heat‑stable lead‑free dielectric materials",
+    "slug": "ai-identifies-heat-stable-lead-free-dielectric-materials",
+    "content": "Artificial intelligence has sifted through data from hundreds of research papers to identify new lead‑free dielectric materials that retain stable performance at elevated temperatures. By mining published experimental results, the AI model pinpointed compositions that combine high dielectric constants with low loss and robust thermal stability—attributes that are difficult to achieve in conventional lead‑based ceramics.\n\nThe study demonstrates a data‑driven workflow that replaces the traditional trial‑and‑error approach to materials discovery. Instead of synthesizing and testing dozens of candidates in the lab, researchers can now use the AI‑derived database to predict promising lead‑free dielectrics before any experimental work begins. This shift could accelerate the development of environmentally friendly components for high‑temperature electronic devices, such as power converters and aerospace sensors.\n\nIf adopted widely, the approach could streamline the search for advanced functional materials across the industry. By turning vast scientific literature into actionable design rules, the AI‑based method offers a scalable path toward safer, high‑performance dielectrics and other critical materials, potentially reducing development time and cost while advancing sustainability goals.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 8:42:20",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-030",
+    "title": "Berkeley Law Adopts AI Policy for Academic Work",
+    "slug": "berkeley-law-adopts-ai-policy-for-academic-work",
+    "content": "The University of California, Berkeley School of Law has released a new set of academic rules governing the use of artificial intelligence (AI) tools in coursework, research, and scholarly writing. The policy, published on the law school’s registrar website, outlines permissible AI applications, requires proper citation of AI-generated content, and establishes penalties for violations that threaten academic integrity. It reflects a growing trend among universities to address the rapid rise of generative AI technologies while preserving rigorous scholarly standards.\n\nKey provisions of the policy include a clear definition of what constitutes AI assistance, guidelines for student and faculty use, and a framework for reporting and adjudicating suspected misconduct. The document also emphasizes the importance of transparency in AI-assisted work and encourages educators to incorporate AI literacy into their curricula. The policy’s release has attracted attention beyond the campus, as evidenced by a discussion thread on Hacker News that garnered 21 points and nine comments, indicating a broader interest in how academic institutions are adapting to AI’s evolving role.\n\nBy formalizing expectations around AI use, Berkeley Law aims to balance innovation with integrity, ensuring that students and scholars can benefit from advanced tools without compromising the credibility of legal education. The policy’s adoption signals a proactive stance on AI governance that other law schools and academic institutions may look to as a model for navigating the challenges of emerging technologies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 8:42:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-029",
+    "title": "Genki Unveils Manta Controller with Large Screen and Customizable Buttons",
+    "slug": "genki-unveils-manta-controller-with-large-screen-and-customizable-buttons",
+    "content": "Genki has unveiled its first controller designed entirely in-house, the Manta, after a two‑year collaboration with 8BitDo. The device departs from conventional layouts by placing thumbsticks and buttons above a sizable 2.9‑inch LCD screen, giving it a noticeably bulkier silhouette than most contemporary gamepads. The screen, coupled with on‑board controls, allows users to tweak a wide range of settings—ranging from stick sensitivity to button mapping—directly from the controller, providing a level of customizability that Genki says is unmatched in the market.\n\nThe Manta is launching today through a Kickstarter campaign, with early backers able to pre‑order the unit. Genki emphasizes that the controller’s design is meant to accommodate a variety of play styles, offering adjustable configurations that can be tailored to each player’s preferences. The company’s move signals a push toward more personalized gaming peripherals, positioning the Manta as a potential alternative for enthusiasts seeking deeper control over their hardware.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 8:42:10",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-028",
+    "title": "US urges allies, China to join pressure on Iran's economy",
+    "slug": "us-urges-allies-china-to-join-pressure-on-iran-s-economy",
+    "content": "The United States on Thursday called on its allies and the People’s Republic of China to join a coordinated effort to further isolate Iran’s economy, a move President Donald Trump said was intended to heighten pressure on Tehran as the regional conflict remains at an impasse and criticism of his administration’s Middle‑East strategy grows at home. The appeal was made during a press briefing by senior State Department officials, who emphasized that additional diplomatic and financial restrictions would complement the sanctions already imposed after the United States withdrew from the 2015 nuclear agreement.\n\nWashington’s request targets a broad range of economic levers, including restrictions on Iranian oil exports, limits on access to the international banking system, and curbs on the procurement of dual‑use technologies. The United States has urged European Union members, Gulf Cooperation Council states and other long‑standing partners to synchronize their measures, while also seeking Chinese cooperation to prevent Tehran from circumventing sanctions through alternative trade routes. The push comes amid a stalemate in the ongoing war in the region—particularly the proxy confrontations in Syria and Iraq—where neither side has achieved decisive gains, and as domestic critics question the effectiveness of heightened sanctions in achieving U.S. policy goals.\n\nBy rallying a wider coalition, the Trump administration aims to tighten economic pressure on Iran in hopes of compelling a change in Tehran’s regional behavior and nuclear posture. Officials indicated that a unified front could limit Iran’s ability to fund militant groups and pursue its nuclear program, though analysts note that the ultimate impact will depend on the willingness of allies and China to adopt the proposed measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 8:42:05",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-027",
+    "title": "Egypt faces new test over Ethiopia's upcoming Nile dam projects",
+    "slug": "egypt-faces-new-test-over-ethiopia-s-upcoming-nile-dam-projects",
+    "content": "Cairo announced the launch of three major water‑security initiatives this week, a move analysts say will test Egypt’s capacity to offset the loss of Nile inflows after the country’s legal challenge to the Grand Ethiopian Renaissance Dam (GERD) failed to halt construction. The projects—a 1,200‑megawatt desalination plant on the Mediterranean coast, a 2.5‑billion‑cubic‑metre reservoir at the Aswan High Dam’s upstream basin, and a nationwide wastewater‑recycling network slated to treat 70 percent of urban effluent—are slated to begin operation between 2028 and 2032. Funding will combine state budget allocations, a $1.5 billion loan from the African Development Bank, and private‑sector investment through public‑private partnerships, with the Ministry of Water Resources and Irrigation overseeing implementation.\n\nThe initiatives aim to diversify Egypt’s water supply, reduce reliance on the Nile, and mitigate potential shortfalls from the GERD, which Ethiopia expects to fill by 2024. Officials highlighted that the desalination plant will provide up to 300 million cubic metres of fresh water annually, while the new reservoir is designed to capture floodwaters during the high‑flow season for use during drought periods. The wastewater‑recycling scheme is projected to add roughly 1.2 billion cubic metres of reclaimed water to agricultural use each year. If the projects meet their timelines, they could reshape Egypt’s water management strategy and serve as a benchmark for the country’s resilience in the face of regional hydro‑political challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 8:41:59",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-026",
+    "title": "Bali court sentences Swiss tourist to jail for insulting Day of Silence",
+    "slug": "bali-court-sentences-swiss-tourist-to-jail-for-insulting-day-of-silence",
+    "content": "A 26‑year‑old user ignited public outrage after posting a profanity‑filled comment that disparaged a sacred holiday on a popular social‑media platform. The message, which appeared on the user’s personal account on Tuesday, quickly spread through shares and comments, prompting a wave of criticism from religious groups, cultural organizations, and other online users who described the content as disrespectful and inflammatory.\n\nIn response, the platform’s moderation team removed the post and issued a statement indicating that the material violated its community‑guidelines on hate speech and harassment. Several community leaders called for broader discussions on online etiquette and respect for religious observances, while law‑enforcement officials confirmed that no criminal investigation had been opened. The incident underscores ongoing tensions surrounding freedom of expression and the protection of cultural sensitivities in digital spaces.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 8:41:53",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-025",
+    "title": "Three Hong Kong activists convicted of inciting subversion under national security law",
+    "slug": "three-hong-kong-activists-convicted-of-inciting-subversion-under-national-securi",
+    "content": "Three activists have been formally accused of inciting others to subvert state power, a charge that falls under a law recently introduced by Chinese authorities. The indictment, filed by prosecutors in the jurisdiction where the activists operate, alleges that they used public statements and organized gatherings to encourage actions deemed hostile to the state, thereby violating the provisions of the new legislation aimed at safeguarding national security.\n\nLegal experts note that the subversion charge carries severe penalties and reflects a broader trend of applying the law to a range of dissenting activities. The case underscores the heightened scrutiny of political expression in China and signals that authorities are prepared to pursue criminal proceedings against individuals perceived to challenge state authority. The activists await trial, while observers monitor the proceedings for potential implications on civil liberties and the enforcement of the newly enacted statute.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 8:41:48",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-021",
     "title": "Fashion tech founder sentenced to five years prison for $300 million fraud",
     "slug": "fashion-tech-founder-sentenced-to-five-years-prison-for-300-million-fraud",
@@ -5409,94 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/18/2026 8:41:56",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-017",
-    "title": "Trump says talks with North Korea's Kim improve South Korea's safety",
-    "slug": "trump-says-talks-with-north-korea-s-kim-improve-south-korea-s-safety",
-    "content": "U.S. President Donald Trump announced that North Korean leader Kim Jong Un responded “very positively” to a recent diplomatic overture from Washington. The comment was made during a press briefing on Thursday, where the president said the North Korean response marked a notable shift in the tone of the two countries’ dialogue after months of heightened tension.\n\nTrump indicated that the positive reaction followed a series of communications aimed at exploring possible steps toward a broader engagement, including discussions on security and economic cooperation. He did not disclose the specific content of the proposal but noted that the exchange reflected a willingness on both sides to pursue further talks. The statement comes amid ongoing international efforts to address North Korea’s nuclear program and to stabilize regional relations in East Asia.\n\nThe president’s remarks suggest that the United States may seek to build on the favorable response in upcoming diplomatic initiatives. Officials from both governments are expected to continue their discussions, with the aim of establishing a framework for more substantive negotiations in the near future.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 8:41:50",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-016",
-    "title": "Witness says Tupac Shakur told police he would handle his own shooting",
-    "slug": "witness-says-tupac-shakur-told-police-he-would-handle-his-own-shooting",
-    "content": "A police officer who was present at the scene of the 1996 Las Vegas shooting testified that, after Tupac Shakur was struck by multiple gunshots, the rapper declined to answer questions and told the officer, “We’ll take care of it.” The testimony was given during a recent hearing on the cold case, which has remained unsolved for more than two decades.\n\nAccording to the officer’s account, Shakur was taken to the University Medical Center of Southern Nevada where he later died from his injuries. Investigators reported that Shakur’s refusal to cooperate limited the immediate collection of evidence, and no arrests have been made despite multiple leads and renewed interest from law‑enforcement agencies. The testimony underscores the challenges faced by authorities in piecing together the circumstances surrounding the fatal shooting, which continues to attract public and media attention.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 8:41:45",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-013",
-    "title": "US-Canada Trade Talks Intensify Ahead of Tariff Deadline",
-    "slug": "us-canada-trade-talks-intensify-ahead-of-tariff-deadline",
-    "content": "Canadian trade officials are preparing to face a tough bargaining position as the United States threatens new tariffs on a range of Canadian goods. Former Bank of Canada governor Mark Carney, who has been appointed to lead the Canadian delegation in negotiations, will need to convince the public that any concessions to Washington are necessary to avoid the economic fallout of President Donald Trump’s latest tariff proposals. The United States has signaled that it will target steel, aluminum, and agricultural products unless Canada offers a comprehensive trade package.\n\nCarney’s role will involve balancing the interests of Canadian producers, consumers and the broader economy against the pressure from U.S. lawmakers to secure a deal that curtails the president’s tariff agenda. He will have to articulate how the concessions—such as increased market access for Canadian services and adjustments to tariff schedules—will ultimately protect Canadian jobs and trade relationships. The negotiations are unfolding amid a broader push by Canada to maintain its free‑trade commitments while managing domestic political expectations.\n\nAs the talks progress, Canadian officials will monitor the United States’ willingness to roll back or modify its tariff stance. The outcome will hinge on Carney’s ability to frame the concessions as a strategic trade compromise rather than a capitulation, thereby securing support from both policymakers and the Canadian public. The next few weeks will be critical in determining whether Canada can avert a significant tariff increase and preserve its economic ties with the United States.",
-    "category": "Business",
-    "categorySlug": "business",
-    "publishedAt": "8/18/2026 7:23:35",
-    "author": "BBC Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-012",
-    "title": "Scientists Discover Touch Sensation in Memory T Cells",
-    "slug": "scientists-discover-touch-sensation-in-memory-t-cells",
-    "content": "Scientists have long held that tissue‑resident memory T cells—immune cells that remain in tissues after an infection has cleared and can mount a rapid response if the pathogen returns—are molded primarily by biochemical signals. A new study led by researchers at McGill University challenges this view by revealing a previously unknown ability of these T cells. The discovery suggests that additional, non‑biochemical factors may play a role in shaping long‑term immunity.\n\nThe McGill‑led research demonstrates that T cells possess a functional capacity beyond what was traditionally understood. By identifying this new mechanism, the study opens the possibility that memory T cells can be influenced by other environmental cues, potentially altering how durable immune protection is established and maintained. The findings provide a fresh perspective on the complex processes that govern immune memory.\n\nIf confirmed by further investigation, this insight could reshape strategies for vaccine development and immunotherapy. By broadening the framework for understanding memory T‑cell biology, the study lays groundwork for future research aimed at harnessing these newly identified mechanisms to improve long‑term protection against disease.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 7:23:27",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-011",
-    "title": "Seven-Dimension Model Helps Telecoms Assess Big Data Readiness",
-    "slug": "seven-dimension-model-helps-telecoms-assess-big-data-readiness",
-    "content": "A recent article in the *International Journal of Business Information Systems* introduces a sector‑specific framework designed to evaluate how effectively telecommunications firms leverage big data. The study outlines a systematic approach that combines quantitative metrics with qualitative assessment tools, allowing operators to benchmark their data‑driven initiatives against industry standards.\n\nThe framework addresses the unique challenges of the telecom sector, such as high‑volume real‑time traffic, stringent regulatory requirements, and the need for rapid innovation in customer experience and network optimization. By mapping data assets, governance practices, and analytical capabilities, the model provides a clear roadmap for identifying gaps, prioritizing investments, and aligning data strategy with business objectives. The authors also discuss pilot implementations that demonstrate measurable improvements in operational efficiency and revenue forecasting.\n\nThe publication highlights the growing importance of data analytics in maintaining competitive advantage within the telecommunications market. It offers practitioners a practical tool for continuous improvement and signals a broader trend toward data‑centric decision making in the industry.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 7:23:19",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-010",
-    "title": "Billions of invasive round goby populate Great Lakes, researchers aim to curb inland spread",
-    "slug": "billions-of-invasive-round-goby-populate-great-lakes-researchers-aim-to-curb-inl",
-    "content": "The round goby (Neogobius melanostomus) has long been a major invasive threat to the Great Lakes ecosystem. First detected in the 1990s, the species has since spread to all five lakes, where it thrives in benthic habitats and competes aggressively with native fish for food and spawning grounds. Scientists now estimate the population in the billions, a figure that underscores the difficulty of controlling its spread.\n\nEfforts to manage the round goby focus on monitoring, public education, and targeted removal in high‑impact areas. Researchers have documented significant declines in native fish populations, particularly lake trout and whitefish, and noted alterations in benthic community structure. While eradication remains unrealistic given the goby's reproductive capacity and widespread distribution, ongoing studies aim to develop more effective containment strategies and assess the long‑term ecological consequences of its presence.\n\nIn light of these challenges, federal and state agencies continue to collaborate on surveillance programs and research initiatives. The goal is to mitigate the round goby's impact on commercial fisheries and preserve the ecological integrity of the Great Lakes, even as the species remains firmly established across the region.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/18/2026 7:23:13",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-009",
-    "title": "Repair Cafe platform encourages fixing broken items",
-    "slug": "repair-cafe-platform-encourages-fixing-broken-items",
-    "content": "Repaircafe.org has launched a new online platform designed to streamline the process of locating and booking repair services for a wide range of consumer electronics. The site provides a searchable directory of certified repair shops, an integrated scheduling system, and a library of troubleshooting guides. Users can compare shop ratings, read customer reviews, and receive real‑time availability updates, all within a single interface.\n\nThe platform’s creators emphasize its role in reducing electronic waste by extending the lifespan of devices. In addition to commercial repair listings, Repaircafe.org hosts community workshops and offers educational resources on basic repair techniques. The initiative is positioned as a collaborative effort between local repair businesses, environmental groups, and consumer advocacy organizations.\n\nWhile the initial launch has garnered modest attention—garnering nine up‑votes and two comments on Hacker News—the founders aim to broaden the network of participating shops and expand the range of supported devices. They hope that by making repair more accessible, the platform will encourage sustainable consumption habits and help mitigate the environmental impact of discarded electronics.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 7:23:07",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-008",
-    "title": "Anthropic's annualized revenue reaches $65 billion",
-    "slug": "anthropic-s-annualized-revenue-reaches-65-billion",
-    "content": "A leading artificial‑intelligence model maker announced that it has added $18 billion to its annualized revenue in just two months. The jump, reported in the company’s latest earnings update, reflects a surge in demand for its flagship language and vision models, which are now being licensed by a growing roster of enterprise customers.\n\nThe revenue boost comes as the firm expands its cloud‑based model‑as‑a‑service offering and rolls out new, higher‑capacity models that support real‑time analytics and content generation. Analysts note that the increase places the company among the top three AI model providers worldwide, reinforcing its competitive edge against rivals that have struggled to scale their own offerings.\n\nWith the new revenue stream, the company plans to invest further in research and infrastructure, aiming to enhance model efficiency and broaden its application portfolio. The move underscores the rapid commercial uptake of large‑scale AI models across industries such as finance, healthcare, and media.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 7:23:01",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
