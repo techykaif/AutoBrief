@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260818-714",
+    "title": "Cursor launches code hosting platform to compete with GitHub",
+    "slug": "cursor-launches-code-hosting-platform-to-compete-with-github",
+    "content": "Cursor, the company behind the AI‑powered code editor that has gained traction among developers for its autocomplete and refactoring capabilities, announced the launch of a new code‑hosting platform designed to compete directly with GitHub. The service, unveiled at a virtual developer conference, will integrate the editor’s generative AI features with repository management, issue tracking, and continuous integration tools, aiming to streamline the entire development workflow within a single environment.\n\nThe platform, slated for public beta later this quarter, promises seamless migration from existing Git repositories and supports standard Git operations, while offering AI‑driven suggestions for pull‑request reviews, code reviews, and documentation generation. Cursor’s leadership highlighted the growing demand for integrated development solutions and positioned the offering as an alternative for teams seeking tighter coupling between code editing and hosting. If adoption meets expectations, the service could reshape the competitive landscape that has long been dominated by GitHub’s ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 4:12:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-713",
     "title": "Trump denies Iran talks, says Strait of Hormuz remains open",
     "slug": "trump-denies-iran-talks-says-strait-of-hormuz-remains-open",

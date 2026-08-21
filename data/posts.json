@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-636",
+    "title": "OzBrain introduced as a shared knowledge platform for AI agents and teams",
+    "slug": "ozbrain-introduced-as-a-shared-knowledge-platform-for-ai-agents-and-teams",
+    "content": "OzBrain is a new agent‑centric knowledge management platform that aims to replace traditional dashboards and note‑taking tools with a single, central repository for AI‑generated insights. The system is designed to let software agents reason, write, and update content automatically while keeping a complete audit trail of changes. By abstracting the underlying data store and providing an API that any agent can use, OzBrain lets teams and collaborators share a “brain” that evolves as new information is added.\n\nKey features include an agent‑agnostic interface that accepts input from multiple LLMs, conflict resolution logic to prevent duplicate or contradictory entries, and a token‑friendly indexing scheme that optimizes storage and retrieval. The platform also supports secure, Supabase‑backed Markdown storage, allowing developers to build voice‑AI and other applications without managing file systems or version control. Early adopters report that OzBrain eliminates the need to juggle separate Obsidian vaults, Git repositories, or custom scripts for knowledge sharing.\n\nThe project is still in alpha and has not yet been deployed on customer data, but the creator invites developers to test the maintenance loop and provide feedback. Those who have built their own knowledge systems are encouraged to share their designs and criteria for success. The goal is to create a scalable, secure, and user‑friendly environment where AI agents can collaborate and continuously refine shared knowledge without the overhead of traditional tools.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 5:21:47",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-630",
     "title": "Inner Mongolia City Becomes Key Data Center Hub",
     "slug": "inner-mongolia-city-becomes-key-data-center-hub",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/19/2026 4:12:06",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-714",
-    "title": "Cursor launches code hosting platform to compete with GitHub",
-    "slug": "cursor-launches-code-hosting-platform-to-compete-with-github",
-    "content": "Cursor, the company behind the AI‑powered code editor that has gained traction among developers for its autocomplete and refactoring capabilities, announced the launch of a new code‑hosting platform designed to compete directly with GitHub. The service, unveiled at a virtual developer conference, will integrate the editor’s generative AI features with repository management, issue tracking, and continuous integration tools, aiming to streamline the entire development workflow within a single environment.\n\nThe platform, slated for public beta later this quarter, promises seamless migration from existing Git repositories and supports standard Git operations, while offering AI‑driven suggestions for pull‑request reviews, code reviews, and documentation generation. Cursor’s leadership highlighted the growing demand for integrated development solutions and positioned the offering as an alternative for teams seeking tighter coupling between code editing and hosting. If adoption meets expectations, the service could reshape the competitive landscape that has long been dominated by GitHub’s ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/19/2026 4:12:01",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
