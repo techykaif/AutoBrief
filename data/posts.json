@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-575",
+    "title": "Trump signs national space policy targeting 1,000 launches annually by 2030",
+    "slug": "trump-signs-national-space-policy-targeting-1-000-launches-annually-by-2030",
+    "content": "The United States is revising its spaceflight and reentry management framework to accommodate an ambitious target of over 1,000 rocket launches annually by 2030. The update, announced by the Federal Aviation Administration and the National Aeronautics and Space Administration, aims to streamline regulatory processes and enhance coordination among launch providers, air traffic control, and space agencies.\n\nKey changes include the creation of a dedicated launch coordination office, the expansion of launch windows, and the adoption of new safety protocols that leverage real‑time telemetry and automated flight‑path monitoring. The agencies also plan to invest in ground‑based infrastructure and data sharing platforms to support the projected surge in commercial and governmental missions. The initiative is expected to bolster the U.S. position in the global space industry while maintaining stringent safety standards for aircraft and the public.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/22/2026 2:21:48",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-560",
     "title": "Teenager and 58-Year-Old Killed in Separate West Bank Shootings",
     "slug": "teenager-and-58-year-old-killed-in-separate-west-bank-shootings",
@@ -5486,17 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/19/2026 1:12:05",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-580",
-    "title": "Israeli strike kills six in Gaza City cafe",
-    "slug": "israeli-strike-kills-six-in-gaza-city-cafe",
-    "content": "An Israeli airstrike on a café in the port area west of Gaza City resulted in the deaths of six Palestinians, including a child, according to local reports. The café, located near the maritime zone that serves as a commercial hub for the city, was struck by a missile fired from Israeli territory. Witnesses say the blast caused extensive damage to the building and surrounding structures, and emergency services were dispatched to the scene within minutes.\n\nThe incident adds to the escalating violence in the region, where Israeli forces have conducted numerous strikes in response to rocket fire from Gaza. Palestinian authorities have condemned the attack, calling it a tragic loss of civilian life, while Israeli officials maintain that the target was linked to hostile activity. The United Nations and other international bodies have urged both sides to exercise restraint and protect civilians amid the ongoing conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 1:11:59",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
