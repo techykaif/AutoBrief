@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260821-623",
+    "title": "Nvidia partners with Cloverleaf to expand data center development",
+    "slug": "nvidia-partners-with-cloverleaf-to-expand-data-center-development",
+    "content": "Nvidia is deepening its commitment to data‑center infrastructure, investing billions in new facilities and technology to support the explosive growth of artificial‑intelligence workloads.  The company’s data‑center segment, which includes its flagship A100 and H100 GPUs, has become the largest contributor to Nvidia’s revenue, accounting for more than 70 % of its earnings in the most recent fiscal year.  To meet rising demand, Nvidia is expanding its own data‑center footprint and partnering with cloud providers to build next‑generation AI platforms.\n\nThe company’s capital allocation reflects the symbiotic relationship between Nvidia’s hardware and the AI data‑center ecosystem.  As enterprises and research institutions deploy ever‑larger neural‑network models, they require the high‑performance compute and energy efficiency that Nvidia’s GPUs deliver.  In turn, the proliferation of AI‑centric data centers fuels Nvidia’s sales, creating a virtuous cycle of revenue and reinvestment.  Recent quarterly reports show a 60 % year‑over‑year increase in data‑center revenue, underscoring the sector’s pivotal role in Nvidia’s growth strategy.\n\nLooking ahead, Nvidia plans to further scale its data‑center operations, adding new fabrication nodes and expanding its software stack to optimize performance and cost.  The company’s continued investment signals confidence that AI workloads will remain a dominant driver of demand for advanced GPUs and associated infrastructure, ensuring Nvidia’s leadership in the high‑performance computing market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 4:31:50",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-622",
+    "title": "TikTok agrees to $400 million settlement with US Justice Department over child privacy violations",
+    "slug": "tiktok-agrees-to-400-million-settlement-with-us-justice-department-over-child-pr",
+    "content": "TikTok and the United States government reached a settlement on Thursday that resolves accusations the short‑form video platform breached the Children’s Online Privacy Protection Act (COPPA) and related state laws. The agreement follows a joint investigation by the Federal Trade Commission (FTC) and attorneys general from 42 states, which alleged that TikTok collected personal information from users under the age of 13 without obtaining verifiable parental consent.\n\nUnder the terms of the settlement, TikTok will pay a $92 million civil penalty and will be required to implement a series of privacy safeguards. The company must establish a “privacy center” that provides clear, accessible information about its data‑collection practices, obtain parental consent before gathering personal data from minors, and submit to independent audits for three years to verify compliance. Additionally, TikTok will be prohibited from collecting personal data from children under 13 unless it can demonstrate that it has met the statutory consent requirements.\n\nThe resolution marks the largest COPPA enforcement action to date and signals heightened regulatory scrutiny of social‑media apps that attract young audiences. By agreeing to the settlement, TikTok avoids further litigation while committing to stronger protections for minors, and the FTC and state regulators underscore their intent to enforce privacy rules across digital platforms.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 4:31:46",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-617",
     "title": "Trump has mountain of Leavitt replacements, says Scott Jennings ‘is good’",
     "slug": "trump-has-mountain-of-leavitt-replacements-says-scott-jennings-is-good",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/19/2026 3:21:45",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-688",
-    "title": "BNITM researchers model West Nile virus spread in Germany through 2025",
-    "slug": "bnitm-researchers-model-west-nile-virus-spread-in-germany-through-2025",
-    "content": "Researchers at the Bernhard Nocht Institute for Tropical Medicine (BNITM) are employing a suite of mathematical models to estimate the future spread of West Nile virus across Germany. By integrating climatic data, mosquito ecology, and human travel patterns, the models project how the virus could move through different regions over the coming seasons.\n\nIn parallel, the team is developing forecasting tools that predict mosquito population dynamics and assess the effectiveness of various surveillance and prevention strategies. These tools aim to identify which interventions—such as targeted insecticide use, public awareness campaigns, or early warning systems—are likely to yield the greatest reduction in virus transmission.\n\nThe BNITM’s work seeks to provide public health authorities with actionable insights, enabling more efficient allocation of resources and timely implementation of control measures. By combining predictive modeling with practical prevention strategies, the institute hopes to curb the potential impact of West Nile virus outbreaks in Germany.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/19/2026 3:11:50",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-670",
-    "title": "Syria opens Assad-era nuclear programme to UN probe",
-    "slug": "syria-opens-assad-era-nuclear-programme-to-un-probe",
-    "content": "The United Nations Office of the High Commissioner for Human Rights released a report today stating that it has uncovered substantial amounts of material at several undisclosed sites in Syria. The findings were presented to the UN Human Rights Council and detail the discovery of large stockpiles of what the agency describes as “potentially harmful material,” including weapons and related equipment.\n\nAccording to the report, the material was located at multiple sites that were not previously known to international monitoring bodies. The UN team conducted a series of covert inspections, gathering evidence that the stockpiles could pose a serious risk to civilian safety and regional stability. The agency has called for an independent investigation and urged all parties to the Syrian conflict to allow unrestricted access to the sites to verify the nature and use of the material.\n\nThe UN has reiterated its commitment to safeguarding human rights in Syria and to ensuring that all parties comply with international humanitarian law. While the report does not yet specify the exact type or quantity of the material, it underscores the urgent need for transparency and accountability in the ongoing conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 3:02:16",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
