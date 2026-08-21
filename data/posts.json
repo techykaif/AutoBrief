@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260821-246",
+    "title": "Precision Medicine Research Aims to Personalize Pancreatic Cancer Treatment",
+    "slug": "precision-medicine-research-aims-to-personalize-pancreatic-cancer-treatment",
+    "content": "A new approach to treating pancreatic cancer could allow doctors to select the most effective chemotherapy or immunotherapy regimen before a patient even begins treatment. Researchers at several leading cancer centers are developing a rapid diagnostic platform that analyzes tumor genetics and molecular markers to predict which therapies are likely to work best for individual patients. The goal is to personalize treatment plans for the disease’s most aggressive and treatment‑resistant forms, potentially improving survival rates and quality of life.\n\nThe platform combines next‑generation sequencing with advanced bioinformatics to identify actionable mutations, expression patterns, and immune‑related signatures in a matter of days. Early clinical trials have shown that patients whose therapy was chosen based on the test’s recommendations experienced higher response rates and longer progression‑free intervals compared with those receiving standard first‑line treatments. The technology also includes a decision‑support algorithm that weighs the risks and benefits of different drug combinations, aiming to reduce unnecessary toxicity.\n\nIf validated in larger studies, this rapid profiling tool could become a standard part of the diagnostic work‑up for pancreatic cancer, allowing oncologists to tailor therapy from the outset and potentially extend life expectancy for patients with this historically difficult‑to‑treat disease.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/21/2026 19:01:51",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-220",
     "title": "Iran's president calls for end to war from 'position of power' as US ups pressure",
     "slug": "iran-s-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
@@ -5486,17 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/18/2026 18:32:02",
     "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-241",
-    "title": "Myanmar revokes Rohingya citizenship, sparking expulsions and ICJ genocide case",
-    "slug": "myanmar-revokes-rohingya-citizenship-sparking-expulsions-and-icj-genocide-case",
-    "content": "Myanmar’s 1982 Citizenship Law, amended in 2015, formally excluded the Rohingya—a predominantly Muslim community in Rakhine State—from the nation’s legal definition of citizenship. The legislation required proof of residence before 1948 and a series of other onerous criteria that the Rohingya could not satisfy, rendering them effectively stateless. In 2017, a military crackdown on alleged insurgent activity triggered a humanitarian crisis, with over 700,000 Rohingya fleeing to Bangladesh and other neighboring countries. The mass expulsions were accompanied by widespread reports of violence, forced displacement, and systematic denial of basic rights, prompting international condemnation and calls for accountability.\n\nIn response to these events, Bangladesh filed a genocide case against Myanmar at the International Court of Justice (ICJ) in 2017, alleging that the state’s actions constituted genocide under the Genocide Convention. The ICJ dismissed the case in 2023 on jurisdictional grounds, but the proceedings highlighted the international community’s scrutiny of Myanmar’s citizenship policies and human rights record. The stripping of citizenship has left millions of Rohingya stateless, fueling continued displacement and drawing sustained attention from global legal and humanitarian bodies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 18:31:57",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
