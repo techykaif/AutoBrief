@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260821-376",
+    "title": "Shark DNA could hold answers to how we age",
+    "slug": "shark-dna-could-hold-answers-to-how-we-age",
+    "content": "University of Georgia researchers have developed a novel technique to estimate the age of sharks by analyzing specific changes in their DNA. The study utilizes epigenetic clocks, which measure chemical alterations known as DNA methylation to assess cellular wear and tear over time. This method provides a noninvasive, rapid, and accurate assessment of age for these apex predators, offering a reliable solution to a persistent challenge in marine biology",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 21:21:53",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-375",
+    "title": "Cod skin dressing speeds burn healing more than synthetic products",
+    "slug": "cod-skin-dressing-speeds-burn-healing-more-than-synthetic-products",
+    "content": "Severe burn wounds are routinely managed with synthetic dressings while patients await definitive skin grafting, a practice that has long been the standard of care. Recent research, however, suggests that a biologic dressing derived from minimally processed cod skin may offer superior outcomes. The study, published in a peer‑reviewed journal, compared healing rates and scar quality between patients treated with the cod‑skin product and those receiving conventional synthetic materials.\n\nThe cod‑skin dressing, which retains natural collagen and growth factors while avoiding extensive processing, was found to accelerate epithelialization and reduce infection rates. Patients treated with the biologic product experienced fewer complications and reported less pain during the healing phase. Researchers attribute these benefits to the product’s close resemblance to human skin’s extracellular matrix, which appears to promote more natural tissue regeneration.\n\nIf these findings are confirmed in larger trials, cod‑skin dressings could become a new benchmark for burn care, potentially shortening hospital stays and improving long‑term cosmetic outcomes. The medical community will be watching closely as further evidence emerges on this promising, nature‑derived alternative to synthetic burn dressings.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 21:21:47",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-361",
     "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
     "slug": "manchester-city-s-maresca-admits-he-needs-time-as-bournemouth-visit-in-epl",
@@ -5475,28 +5497,6 @@
     "categorySlug": "health",
     "publishedAt": "8/18/2026 20:41:49",
     "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-350",
-    "title": "Kent Beck publishes article on composable tests",
-    "slug": "kent-beck-publishes-article-on-composable-tests",
-    "content": "Kent Beck, a veteran software engineer and pioneer of Test‑Driven Development, recently released a short newsletter titled “Composable Tests.” The article, available on his personal newsletter site, has drawn attention on Hacker News, where it has accumulated 15 points and one comment. Beck’s piece focuses on a testing paradigm that encourages building tests from reusable, composable components rather than monolithic, ad‑hoc test suites.\n\nIn the newsletter, Beck explains that composable tests treat each test as a small, independent unit that can be combined with others to create more complex scenarios. By modularizing test logic, developers can reduce duplication, improve maintainability, and accelerate refactoring. He also outlines practical guidelines for implementing composable tests in existing codebases, including how to structure helper functions, manage state, and integrate with continuous‑integration pipelines. The discussion touches on the benefits of clearer test intent and the potential for automated test generation when components are well‑defined.\n\nThe piece has sparked a modest but focused conversation on Hacker News, with readers praising the clarity of the concepts and questioning how best to transition legacy projects to a composable testing approach. While the discussion remains brief, Beck’s insights contribute to an ongoing dialogue about modern testing practices and the evolution of quality assurance in software development.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/18/2026 20:31:51",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-334",
-    "title": "Migrant children on Ceuta's streets risk abuse, exploitation",
-    "slug": "migrant-children-on-ceuta-s-streets-risk-abuse-exploitation",
-    "content": "Thousands of unaccompanied minors have congregated in Ceuta, a Spanish autonomous city on the northern coast of Africa, creating a severe humanitarian and logistical crisis. Local officials have acknowledged that the rapid influx has exceeded the capacity of existing reception infrastructure, prompting urgent requests for coordinated regional and international assistance. The situation has drawn scrutiny from migration authorities and human rights monitors as administrative systems struggle to process and shelter the growing population.\n\nReports from health workers and aid organizations indicate that many of the minors are suffering from untreated illnesses and have endured physical and psychological abuse during their transit. Overcrowded temporary shelters, limited medical supplies, and inadequate sanitation have compounded the health risks, while authorities admit they lack the personnel and funding to provide comprehensive care. Spanish and Moroccan agencies, alongside European migration bodies, are working to register the children, deliver emergency medical services, and establish legal pathways for their protection, though bureaucratic delays and resource shortages continue to hinder operations.\n\nAs the crisis unfolds, officials stress the necessity of sustained cross-border cooperation and increased financial support to safeguard the minors' immediate well-being. Temporary facilities are being expanded, and procedural frameworks for handling unaccompanied migrants are under review to improve long-term management. The gathering in Ceuta highlights ongoing structural challenges facing European border regions in balancing migration control with international protection obligations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 20:22:07",
-    "author": "DW World",
     "isFeatured": false
   }
 ]
