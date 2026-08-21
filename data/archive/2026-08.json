@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260818-713",
+    "title": "Trump denies Iran talks, says Strait of Hormuz remains open",
+    "slug": "trump-denies-iran-talks-says-strait-of-hormuz-remains-open",
+    "content": "U.S. President Donald Trump told reporters on Tuesday that there are no ongoing negotiations with Iran and that the Strait of Hormuz remains open for navigation, despite recent reports of reduced vessel traffic and an alleged attack on a commercial ship in the waterway. The president emphasized that the United States continues to monitor the situation closely and that any disruption to the vital shipping lane would be met with a swift response.\n\nIn a separate development, regional officials said Trump warned Oman after the Gulf nation attempted to mediate a shipping agreement between Tehran and other regional partners. The president’s remarks suggested that Oman’s diplomatic efforts could be viewed unfavorably by Washington, underscoring the heightened tensions surrounding maritime security and the broader U.S.-Iran relationship.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 4:11:56",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-712",
+    "title": "Bolivia arrests political adviser linked to Latin American right‑wing groups",
+    "slug": "bolivia-arrests-political-adviser-linked-to-latin-american-right-wing-groups",
+    "content": "An arrest was made on Tuesday following a violent assault on anti‑corruption activist Nadia Beller, who alleged that she was targeted because of her public opposition to graft. Police said they detained a suspect identified as a local resident with prior connections to a political group under investigation for illicit financing. The attack, which occurred on a downtown sidewalk last week, left Beller with a broken wrist and bruises; she was treated at a municipal hospital and released after a brief observation period.\n\nAuthorities indicated that the arrest was the result of forensic analysis of surveillance footage and witness statements that linked the detained individual to the incident. The police spokesperson emphasized that the investigation remains ongoing and that further arrests could follow if additional evidence emerges. Beller’s organization reiterated its call for a thorough probe into the motives behind the assault, while officials affirmed their commitment to upholding the rule of law and protecting civil‑society activists.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 4:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260818-700",
+    "title": "Claude code enables native HP Laser 1008a printing on macOS",
+    "slug": "claude-code-enables-native-hp-laser-1008a-printing-on-macos",
+    "content": "A new driver for the HP Laser 1008a printer has been released by Kuber Studio and is now available for download from their content delivery network. The driver, packaged as a single file, is intended to provide updated support for the 1008a model on modern operating systems. It includes fixes for printing stability and compatibility with recent kernel updates, and is distributed under a permissive license that allows both individual and commercial use.\n\nThe release was highlighted on the Hacker News community, where a post linking to the driver garnered 34 points and attracted 12 comments. Users discussed the driver’s performance improvements, the ease of installation, and potential compatibility issues with older firmware. The discussion also touched on the broader trend of community‑maintained drivers filling gaps left by manufacturer support.\n\nOverall, the HP Laser 1008a driver has drawn attention from the tech community, demonstrating continued demand for reliable printing solutions on legacy hardware. The active conversation on Hacker News suggests that the driver is meeting a real need, and its availability through Kuber Studio’s CDN provides a straightforward path for users to upgrade their printing setup.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 3:21:45",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260818-688",
     "title": "BNITM researchers model West Nile virus spread in Germany through 2025",
     "slug": "bnitm-researchers-model-west-nile-virus-spread-in-germany-through-2025",

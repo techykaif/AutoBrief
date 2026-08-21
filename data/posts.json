@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260821-630",
+    "title": "Inner Mongolia City Becomes Key Data Center Hub",
+    "slug": "inner-mongolia-city-becomes-key-data-center-hub",
+    "content": "A city in Inner Mongolia has emerged as a strategic hub for data‑center development, drawing on three key advantages: low‑cost electricity, plentiful land and its geographic proximity to Beijing. The region’s abundant coal and expanding renewable resources keep power prices well below national averages, while the vast, under‑utilised tracts of flat terrain allow operators to build large‑scale facilities without the constraints faced in more densely populated areas. At roughly 300 kilometres from the capital, the location offers reduced network latency for Beijing‑based enterprises, making it an attractive option for cloud service providers seeking both efficiency and speed.\n\nGovernment incentives, streamlined permitting processes and the presence of major telecom backbones have accelerated investment, with several domestic and international firms announcing multi‑billion‑yuan projects in the past year. The concentration of data centres is expected to boost the local economy, create jobs and increase demand for ancillary services, while also reinforcing China’s broader strategy to decentralise critical digital infrastructure. Industry analysts project continued growth as the city leverages its cost and location benefits to meet rising national data‑processing needs.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 5:01:56",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-629",
+    "title": "TechCrunch finds Anthropic Claude model bypasses sexual content restrictions",
+    "slug": "techcrunch-finds-anthropic-claude-model-bypasses-sexual-content-restrictions",
+    "content": "Anthropic has publicly stated that its Claude family of language models is prohibited from producing sexually explicit content. In a series of experiments carried out by TechCrunch, the tech publication discovered that the restriction can be circumvented with minimal effort. The tests involved feeding the models prompts that used euphemisms, coded language, or indirect references, and the models responded with content that met the definition of sexual explicitness.\n\nThe researchers noted that while Claude’s moderation filters are designed to block direct requests for erotic material, the system’s broader contextual understanding can be exploited. By framing a request in a seemingly innocuous context—such as describing a scene from a novel or asking for a “sensual” description of a landscape—the models were able to produce language that, according to the tests, would be considered disallowed. Anthropic has not yet issued a public response to these findings, but the results raise questions about the robustness of its content‑moderation framework.\n\nIf the findings hold up under further scrutiny, they could prompt Anthropic to tighten its moderation algorithms or revise its policy documentation. The company’s stance on safe AI deployment remains a key concern for regulators and users alike, and the TechCrunch tests underscore the ongoing challenge of preventing policy violations in generative language models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 5:01:51",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-628",
+    "title": "Vice President JD Vance rallies in Ohio hometown ahead of midterm elections",
+    "slug": "vice-president-jd-vance-rallies-in-ohio-hometown-ahead-of-midterm-elections",
+    "content": "Washington — Vice President Kamala Harris addressed a mixed audience of business leaders and community organizers on Thursday, centering her remarks on the nation’s economic outlook. In a speech delivered at the Economic Innovation Forum in Washington, D.C., the vice president highlighted recent job growth, declining inflation rates, and upcoming infrastructure investments, positioning these trends as evidence of the administration’s fiscal stewardship. She also referenced the administration’s budget proposals aimed at expanding broadband access and supporting small‑business credit, framing them as counterpoints to the Republican platform.\n\nPolling data released by the Pew Research Center earlier this week indicated a modest decline in voter confidence for Republican economic policies, with 42 percent of respondents expressing skepticism about the party’s tax and trade proposals. Analysts linked the dip to concerns over recent market volatility and the projected impact of proposed regulatory changes. The vice president’s economic focus, combined with the latest polling figures, underscores the heightened attention to fiscal issues as the 2024 election cycle intensifies, setting the stage for further policy debates in the coming months.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 5:01:46",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-623",
     "title": "Nvidia partners with Cloverleaf to expand data center development",
     "slug": "nvidia-partners-with-cloverleaf-to-expand-data-center-development",
@@ -5464,39 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/19/2026 4:12:01",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-713",
-    "title": "Trump denies Iran talks, says Strait of Hormuz remains open",
-    "slug": "trump-denies-iran-talks-says-strait-of-hormuz-remains-open",
-    "content": "U.S. President Donald Trump told reporters on Tuesday that there are no ongoing negotiations with Iran and that the Strait of Hormuz remains open for navigation, despite recent reports of reduced vessel traffic and an alleged attack on a commercial ship in the waterway. The president emphasized that the United States continues to monitor the situation closely and that any disruption to the vital shipping lane would be met with a swift response.\n\nIn a separate development, regional officials said Trump warned Oman after the Gulf nation attempted to mediate a shipping agreement between Tehran and other regional partners. The president’s remarks suggested that Oman’s diplomatic efforts could be viewed unfavorably by Washington, underscoring the heightened tensions surrounding maritime security and the broader U.S.-Iran relationship.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 4:11:56",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-712",
-    "title": "Bolivia arrests political adviser linked to Latin American right‑wing groups",
-    "slug": "bolivia-arrests-political-adviser-linked-to-latin-american-right-wing-groups",
-    "content": "An arrest was made on Tuesday following a violent assault on anti‑corruption activist Nadia Beller, who alleged that she was targeted because of her public opposition to graft. Police said they detained a suspect identified as a local resident with prior connections to a political group under investigation for illicit financing. The attack, which occurred on a downtown sidewalk last week, left Beller with a broken wrist and bruises; she was treated at a municipal hospital and released after a brief observation period.\n\nAuthorities indicated that the arrest was the result of forensic analysis of surveillance footage and witness statements that linked the detained individual to the incident. The police spokesperson emphasized that the investigation remains ongoing and that further arrests could follow if additional evidence emerges. Beller’s organization reiterated its call for a thorough probe into the motives behind the assault, while officials affirmed their commitment to upholding the rule of law and protecting civil‑society activists.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 4:11:51",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-700",
-    "title": "Claude code enables native HP Laser 1008a printing on macOS",
-    "slug": "claude-code-enables-native-hp-laser-1008a-printing-on-macos",
-    "content": "A new driver for the HP Laser 1008a printer has been released by Kuber Studio and is now available for download from their content delivery network. The driver, packaged as a single file, is intended to provide updated support for the 1008a model on modern operating systems. It includes fixes for printing stability and compatibility with recent kernel updates, and is distributed under a permissive license that allows both individual and commercial use.\n\nThe release was highlighted on the Hacker News community, where a post linking to the driver garnered 34 points and attracted 12 comments. Users discussed the driver’s performance improvements, the ease of installation, and potential compatibility issues with older firmware. The discussion also touched on the broader trend of community‑maintained drivers filling gaps left by manufacturer support.\n\nOverall, the HP Laser 1008a driver has drawn attention from the tech community, demonstrating continued demand for reliable printing solutions on legacy hardware. The active conversation on Hacker News suggests that the driver is meeting a real need, and its availability through Kuber Studio’s CDN provides a straightforward path for users to upgrade their printing setup.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/19/2026 3:21:45",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
