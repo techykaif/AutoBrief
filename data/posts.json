@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260821-451",
+    "title": "A self hosted AI software factory",
+    "slug": "a-self-hosted-ai-software-factory",
+    "content": "Jakes Saunders has announced the development of an “almost fully self‑hosted sandboxed agentic software factory,” a new platform that aims to streamline the creation and deployment of software through autonomous agents. The blog post, posted on his personal site, explains that the system is designed to run locally on a user’s own infrastructure, minimizing reliance on external cloud services while providing a secure sandbox environment for each agent to operate.\n\nThe factory integrates several open‑source components, including container orchestration for isolation, a lightweight runtime for executing agent code, and a configuration layer that allows developers to specify the scope and permissions of each agent. Saunders highlights that the sandboxing mechanism prevents agents from accessing the host system beyond their designated resources, thereby reducing security risks. The platform also supports modular plug‑ins, enabling teams to extend functionality without compromising isolation.\n\nThe post has attracted modest attention on Hacker News, where it received nine up‑votes and four comments. Readers praised the emphasis on self‑hosting and security, noting that the approach could be valuable for organizations that require strict data governance. Saunders indicates that future updates will focus on improving agent coordination and expanding the library of pre‑built agent templates.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 23:12:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-442",
+    "title": "Germany probes Russian links to weapons cache found in woods",
+    "slug": "germany-probes-russian-links-to-weapons-cache-found-in-woods",
+    "content": "German intelligence agencies have concluded that firearms seized in a German investigation last year were intended for use in assassination operations carried out on behalf of Moscow, according to reports. The Bundesnachrichtendienst (BND) and the Federal Office for the Protection of the Constitution (BfV) identified the weapons as having been specially modified and marked in a manner consistent with covert operational use. The findings suggest that the guns were not merely for personal defense but were prepared for targeted killings, raising concerns about foreign influence and potential threats to national security.\n\nThe intelligence assessment has prompted a coordinated investigation involving German law‑enforcement and security services. Authorities are examining possible links between the weapons and Russian intelligence networks, while also reviewing the broader context of Russian covert activity within Europe. The investigation remains ongoing, with German officials emphasizing the importance of safeguarding public safety and countering foreign‑state espionage efforts.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 23:11:50",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-441",
+    "title": "UK, Canada and Australia condemn Israel over lack of criminal probe into Gaza aid worker deaths",
+    "slug": "uk-canada-and-australia-condemn-israel-over-lack-of-criminal-probe-into-gaza-aid",
+    "content": "Seven workers from the humanitarian organization World Central Kitchen were killed when an Israeli airstrike hit their convoy in 2024, officials said. The convoy, which was transporting food supplies to civilians in the conflict zone, was struck while traveling along a designated humanitarian route, resulting in the deaths of all seven aid workers on board.\n\nThe incident has prompted calls from international bodies for a thorough investigation into the circumstances of the strike and for renewed safeguards for humanitarian missions operating in the area. Israeli authorities have indicated they are reviewing the event, while World Central Kitchen has urged the international community to reinforce protections for aid personnel to prevent further loss of life.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 23:11:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-438",
     "title": "Bacio wins Nunthorpe Stakes at York with Juan Hernandez aboard",
     "slug": "bacio-wins-nunthorpe-stakes-at-york-with-juan-hernandez-aboard",
@@ -5464,39 +5497,6 @@
     "categorySlug": "health",
     "publishedAt": "8/18/2026 22:31:58",
     "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-432",
-    "title": "Spain builds tent cities for the thousands stuck in Ceuta",
-    "slug": "spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta",
-    "content": "Spain is constructing four temporary reception sites in Ceuta, with a total capacity of 1,500 places, to accommodate the estimated 5,000 migrants currently housed in the Spanish enclave. The new facilities aim to improve living conditions and streamline the processing of arrivals, which have surged in recent months.\n\nThe temporary sites will provide basic accommodation, medical care, and administrative support, allowing authorities to better manage the influx and reduce overcrowding in existing shelters. Officials say the expansion is part of a broader strategy to address the humanitarian and logistical challenges posed by the high number of migrants awaiting processing.\n\nOnce operational, the sites are expected to relieve pressure on Ceuta’s current infrastructure and help ensure that migrants receive timely assistance while their status is determined. The Spanish government will monitor the situation closely as the new facilities become active.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 22:12:35",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-430",
-    "title": "Disney Sues FCC Over ABC Station Renewal",
-    "slug": "disney-sues-fcc-over-abc-station-renewal",
-    "content": "The Federal Communications Commission (FCC) is under increased scrutiny after the Walt Disney Company publicly challenged a renewal order it received for the ABC broadcast network’s license. Disney argues that the FCC’s decision is driven by political motives aimed at penalizing ABC for its coverage of recent political events, rather than being based on the agency’s regulatory criteria. The company claims that the FCC’s actions are retaliatory and violate the principles of fair and impartial oversight.\n\nIn the renewal hearing, the FCC cited several technical and compliance issues that it said warranted a stricter licensing framework for ABC. Disney, however, contends that these concerns are overstated and that the real intent behind the order is to curb ABC’s reporting on politically sensitive topics. The dispute has drawn attention from both media watchdogs and political commentators, who are monitoring whether the FCC’s regulatory process remains free from partisan influence. The FCC has stated that its decision was made in accordance with established guidelines and that it remains open to further review.\n\nThe outcome of this conflict could set a precedent for how broadcast licenses are evaluated in politically charged contexts. If the FCC’s renewal order stands, it may signal a shift toward more stringent oversight of major networks. Conversely, a reversal or modification of the order could reinforce the agency’s commitment to neutrality. The case remains closely watched as it touches on the broader debate over media regulation and political influence in the United States.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 22:12:20",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260818-429",
-    "title": "Iran Prepares to Sustain Economy Amid US Sanction Threats",
-    "slug": "iran-prepares-to-sustain-economy-amid-us-sanction-threats",
-    "content": "Iran’s senior officials have warned that the country could move to offensive military operations if Washington pursues additional sanctions. The statement, issued by the Iranian foreign ministry, comes amid a renewed U.S. effort to tighten restrictions on Iran’s nuclear program, oil exports and financial transactions. The Iranian government cited the potential economic and diplomatic fallout from new sanctions as a catalyst for a more assertive posture.\n\nIn the briefing, the ministry said that any escalation would be “measured and targeted” and would focus on protecting Iran’s national interests and regional stability. Officials noted that the U.S. has already imposed a series of punitive measures over the past year, including limits on Iranian oil sales and a crackdown on entities linked to Iran’s ballistic missile program. They added that the Iranian military is preparing contingency plans to respond to what it perceives as an increasingly hostile environment.\n\nThe warning underscores the growing tension between Tehran and Washington as the U.S. considers expanding its sanctions regime. While Iran has historically maintained a policy of deterrence, the new threat of offensive action signals a shift in its strategic calculus. The U.S. has indicated that it will weigh the economic impact on Iran against the broader goal of curbing nuclear proliferation, leaving the next phase of the dispute uncertain.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/18/2026 22:12:13",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
