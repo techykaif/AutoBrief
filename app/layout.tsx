@@ -12,7 +12,7 @@ const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" })
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://autobrief-ai.netlify.app"),
+  metadataBase: new URL("https://autobrief-ai.vercel.app"),
   title: {
     default: "AutoBrief — Automated News Aggregation",
     template: "%s | AutoBrief",
