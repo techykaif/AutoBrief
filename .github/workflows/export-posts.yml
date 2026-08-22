@@ -34,14 +34,14 @@ jobs:
           GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
         run: npx tsx scripts/export/export-posts.ts
 
-      - name: Commit posts.json to main
+      - name: Commit exported data and sitemap
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ public/sitemap.xml public/sitemaps/
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           ARTICLE_COUNT="${{ github.event.inputs.articles_count }}"
-          git commit -m "data: update posts.json (+${ARTICLE_COUNT} articles) [$(date -u '+%Y-%m-%dT%H:%M:%SZ')]"
+          git commit -m "data: update dataset and sitemap (+${ARTICLE_COUNT} articles) [$(date -u '+%Y-%m-%dT%H:%M:%SZ')]"
           git push origin main
 
       - name: Trigger Vercel rebuild
