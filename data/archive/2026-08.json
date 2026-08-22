@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260819-058",
+    "title": "Palomar Launches Registry of Lean-Verified Mathematics",
+    "slug": "palomar-launches-registry-of-lean-verified-mathematics",
+    "content": "Terry Tao announced on his personal WordPress blog on August 18 2026 that a new registry, named Palomar, has been created to catalogue mathematics that has been formally verified in the Lean theorem prover. The post explains that Palomar will serve as a searchable index of Lean‑verified theorems, definitions, and proofs, providing researchers with a reliable source for citing formally proven results and facilitating the reuse of verified mathematical content.\n\nKey features highlighted in the announcement include a standardized metadata schema for each entry, integration with existing Lean libraries, and a web interface that allows users to browse and search proofs by topic, author, or formal proof length. Tao noted that the registry is intended to promote transparency and reproducibility in mathematical research by making the underlying formal proofs publicly accessible. The post was shared on Hacker News, where it received six upvotes and no comments to date.\n\nBy centralizing Lean‑verified mathematics, Palomar aims to streamline collaboration among mathematicians and computer scientists working with formal methods. The initiative is expected to support the growing ecosystem of formalized mathematics, potentially accelerating the verification of complex proofs and encouraging broader adoption of theorem‑proving tools in research.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 9:32:14",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-057",
+    "title": "Turkey Rejects Israeli Claims Over Syria Air Base Strike",
+    "slug": "turkey-rejects-israeli-claims-over-syria-air-base-strike",
+    "content": "Turkey denied on Wednesday that it was preparing to deploy troops to a Syrian base that had recently been struck, a move Israel has alleged threatens regional security. The United States has attributed the strike to Israeli forces, citing intelligence that the attack targeted a facility used by the Syrian government. Turkish officials stated that the country had no involvement in the operation and that its military presence in Syria is limited to humanitarian and training missions.\n\nThe incident follows a series of tensions between Ankara and Tel Aviv over military activities in the Levant. While Israel has repeatedly warned of potential escalation, Turkey maintains that it is committed to preventing any further destabilization. The United States has urged all parties to exercise restraint and to engage in diplomatic efforts to resolve the dispute.\n\nAs the situation develops, observers note that the dispute could impact broader U.S. policy in the region. The liveblog will continue to provide updates on diplomatic statements and any new information regarding the strike and Turkey’s stance.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/19/2026 9:32:09",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-056",
     "title": "Trump pauses 50% Canada tariffs for three days, mentions Keystone XL revival",
     "slug": "trump-pauses-50-canada-tariffs-for-three-days-mentions-keystone-xl-revival",
