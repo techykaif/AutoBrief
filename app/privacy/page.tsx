@@ -56,11 +56,11 @@ export default function PrivacyPage() {
             <p className="mb-2">AutoBrief uses the following third-party infrastructure:</p>
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                <span className="text-foreground font-medium">Netlify:</span> Hosts the website.
-                Netlify may collect standard server logs including IP addresses as part of their
+                <span className="text-foreground font-medium">Vercel:</span> Hosts the website.
+                Vercel may collect standard server logs including IP addresses as part of their
                 infrastructure. See{" "}
-                <a href="https://www.netlify.com/privacy/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
-                  Netlify's Privacy Policy
+                <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                  Vercel's Privacy Policy
                 </a>.
               </li>
               <li>
