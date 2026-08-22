@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260822-318",
+    "title": "End the Biden inflation tax",
+    "slug": "end-the-biden-inflation-tax",
+    "content": "A newly introduced legislative proposal seeks to modify the taxation of capital gains by indexing them for inflation and broadening the exemptions available for residential property sales. The reform is designed to address current constraints in the housing market while fostering broader economic expansion. Lawmakers and policy analysts indicate that adjusting tax calculations to reflect inflationary changes could reduce the financial burden on property owners and investors,",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 2:12:37",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-316",
+    "title": "USPS Tightens Mail‑In Voting Rules Amid Court Challenges",
+    "slug": "usps-tightens-mail-in-voting-rules-amid-court-challenges",
+    "content": "The United States Postal Service announced on Friday that it will adopt new eligibility guidelines for mail‑in ballots, a move that aligns with President Donald Trump’s March executive order that limited the practice. The order, which was later invalidated by a federal court, had sought to restrict the distribution of absentee voting materials. Despite the court’s ruling, USPS said it would proceed with the guidelines as a means of complying with the executive directive.\n\nIn a 95‑page unpublished report that the agency plans to release on August 26, USPS outlined the procedures it will use to distribute mail‑in ballots for the November midterm elections. The document details the logistics of ballot delivery, eligibility verification, and the handling of absentee requests, providing a comprehensive framework for the upcoming election cycle. The report is intended to clarify how the postal service will manage ballot distribution under the new rules while maintaining compliance with federal regulations.\n\nThe announcement signals USPS’s commitment to implementing the executive order’s restrictions, even as the legal landscape surrounding absentee voting remains unsettled. The forthcoming report will offer the public and election officials a clearer view of the agency’s operational plan for the midterms, underscoring the postal service’s role in facilitating voter participation within the bounds of current policy directives.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 2:12:24",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-315",
+    "title": "Local LLMs Often Seem Less Capable Due to Dataset Size and Context Limits",
+    "slug": "local-llms-often-seem-less-capable-due-to-dataset-size-and-context-limits",
+    "content": "A recent discussion on the Level1techs forum titled “Why Your Local LLM Feels Dumber Than It Is” has attracted attention from the broader tech community, including a brief thread on Hacker News. The post explains that many users experience a noticeable drop in performance when running large language models locally, compared to cloud‑hosted versions. According to the author, the primary factors are limited context windows, reduced inference speed, and the absence of continual fine‑tuning that cloud providers can apply to keep models up‑to‑date. The article also highlights that local deployments often rely on older checkpoint versions or stripped‑down architectures to fit within hardware constraints, which can further degrade output quality.\n\nThe forum thread outlines practical mitigation strategies, such as increasing the token limit, using more powerful GPUs, or integrating external knowledge bases to supplement the model’s internal memory. It also cautions that users should manage expectations: local models, while offering privacy and lower latency, cannot yet match the breadth of data and optimization that large‑scale cloud services provide. The discussion on Hacker News, which garnered 16 points and a single comment, underscores the growing interest in balancing local deployment benefits with the performance gaps that still exist. In conclusion, while local LLMs are becoming more accessible, users must weigh hardware limitations and model updates against the convenience and scale of cloud‑based solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-314",
+    "title": "Browser tool adds HDR gain‑map to logos for brighter display",
+    "slug": "browser-tool-adds-hdr-gain-map-to-logos-for-brighter-display",
+    "content": "A recent investigation revealed that a number of brand logos on LinkedIn are rendered noticeably brighter and whiter than the surrounding content when viewed on high‑dynamic‑range (HDR) displays, such as the latest MacBook Pro models. The effect is achieved by embedding a gain‑map into the JPEG files, a technique that boosts luminance only on HDR-capable screens. Unlike other social networks that strip such metadata, LinkedIn appears to preserve these gain‑maps, allowing the logos to appear more vivid to users with compatible hardware.\n\nThe discoverer collaborated with the open‑source project Claude Code to develop a lightweight, browser‑based tool that extracts and displays the enhanced logos without requiring registration. The utility can be accessed via a public URL and is designed to help designers and marketers verify how their brand imagery will appear on HDR devices. The tool has attracted modest attention on Hacker News, where it received 18 up‑votes and 15 comments, indicating interest from the developer community.\n\nWhile the practice of embedding gain‑maps is not widespread, its use on LinkedIn highlights a niche area of digital asset optimization that may become more relevant as HDR displays become standard. The availability of a free, no‑registration utility offers a practical solution for stakeholders who wish to ensure consistent brand presentation across diverse viewing environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-313",
+    "title": "English‑Claudish Translator Released Online",
+    "slug": "english-claudish-translator-released-online",
+    "content": "A new entry titled “Claudish” was posted on the website ProgramasWeights.com, drawing modest engagement on the technology news aggregator Hacker News. The submission, linked at https://programasweights.com/claudish, accumulated five points from the community and generated a single comment, as recorded on the discussion thread https://news.ycombinator.com/item?id=49402907. The brief interaction reflects the platform’s typical voting and commenting mechanisms, where users up‑vote content they find valuable and may add brief remarks.\n\nThe limited response suggests that while the post reached the Hacker News audience, it has not sparked extensive discussion or widespread attention at this stage. Observers of online content trends often view point totals and comment counts as early indicators of a piece’s resonance, and the current metrics place “Claudish” in a low‑engagement category. Further activity may develop if additional users discover the link or if the subject matter gains relevance in related forums.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-312",
+    "title": "DOJ investigates Andreessen Horowitz over startup board seat practices",
+    "slug": "doj-investigates-andreessen-horowitz-over-startup-board-seat-practices",
+    "content": "The U.S. Department of Justice announced a formal investigation into the practice of allocating board seats to venture‑capital‑backed startups, a development highlighted in the most recent episode of the “Equity” podcast. The probe, launched earlier this month, focuses on whether the arrangement of board appointments—often tied to financing rounds—violates antitrust laws by potentially restricting competition, influencing market entry, or creating undue influence over emerging companies.\n\nRegulators are reviewing a sample of recent financing deals in which investors secured board positions as a condition of capital infusion, examining the terms of those agreements and any accompanying non‑compete or exclusivity clauses. Industry observers note that the inquiry could reshape standard venture‑capital practices, prompting firms to reassess governance structures and disclosure requirements. The DOJ has not indicated any immediate enforcement actions, but the investigation underscores heightened scrutiny of corporate governance arrangements within the tech startup ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:00",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-311",
+    "title": "Iran allows select Iraqi oil tankers to transit Hormuz",
+    "slug": "iran-allows-select-iraqi-oil-tankers-to-transit-hormuz",
+    "content": "Baghdad – Iraqi President Nizar Amidi declared that Iraq’s territory will not be employed as a launchpad for attacks against any other state, emphasizing the nation’s commitment to uphold its sovereignty and regional stability. The statement was made during a press briefing in the capital, where Amidi responded to growing concerns from neighboring countries about the possible use of Iraqi soil by non‑state actors to conduct cross‑border operations.\n\nAmidi’s remarks come amid heightened diplomatic pressure following a series of incidents in which militias based in Iraq were alleged to have fired rockets toward neighboring territories. The Iraqi government has repeatedly called for the disarmament of armed groups operating within its borders and has pledged to strengthen border controls and intelligence cooperation with regional partners. In the same briefing, officials outlined ongoing efforts to curtail the flow of weapons and to enforce existing security agreements, underscoring that any violation would be treated as a breach of Iraq’s international obligations.\n\nThe president’s unequivocal stance reinforces Baghdad’s policy of non‑intervention and signals to the international community that Iraq intends to prevent its territory from being exploited for hostile actions. By reaffirming these principles, the Iraqi leadership aims to mitigate external tensions and maintain a neutral posture in an increasingly volatile Middle‑East environment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 2:11:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-307",
     "title": "Sudan's Kordofan Sees Over 200,000 Displaced Amid Fighting",
     "slug": "sudan-s-kordofan-sees-over-200-000-displaced-amid-fighting",
@@ -5420,83 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/20/2026 1:11:51",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-564",
-    "title": "In Crohn's disease and ulcerative colitis, inflammation blocks its own healing",
-    "slug": "in-crohn-s-disease-and-ulcerative-colitis-inflammation-blocks-its-own-healing",
-    "content": "Researchers from institutions in Kiel, Germany, and the United States have identified a biological mechanism that explains why inflammation persists in Crohn’s disease and ulcerative colitis despite the body’s natural regulatory efforts. The study reveals that chronic intestinal inflammation directly interferes with a critical metabolic pathway responsible for delivering energy to the cells lining the gut. This disruption prevents the intestinal barrier from properly repairing itself, allowing inflammatory processes to continue unchecked.\n\nUnder normal",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/20/2026 0:31:54",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-563",
-    "title": "Bronze Age brands identified in Arabian desert oasis pottery",
-    "slug": "bronze-age-brands-identified-in-arabian-desert-oasis-pottery",
-    "content": "Archaeologists have confirmed that branding practices pre‑date modern capitalist societies.  An international research team headed by Marta Luciani of the University of Vienna reports that Bronze Age traders in northwestern Arabia used distinctive marks on pottery to identify producers, a form of early brand that dates back roughly 3,200 years.\n\nThe study, based on excavations at the oasis of Qurayyah, uncovered two‑colour painted vessels bearing consistent, stylised symbols.  The marks, found on a wide range of ceramic wares, indicate a standardized production system and suggest that goods were tracked and possibly traded across regional networks.  The discovery provides the first concrete evidence of commercial branding in a non‑capitalist economy of the ancient Near East.\n\nThese findings broaden the historical understanding of early market mechanisms and demonstrate that the concept of a brand—an identifiable mark linked to a specific producer—has deep roots in human trade practices.  The research underscores the sophistication of Bronze Age commerce in Arabia and invites further investigation into the spread of branding across ancient societies.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/20/2026 0:31:47",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-546",
-    "title": "Brazil Bus Crash Kills 23, Injures 5 in Parana",
-    "slug": "brazil-bus-crash-kills-23-injures-5-in-parana",
-    "content": "A bus en route to hospitals near Curitiba was involved in an accident on a local road, according to preliminary reports. The vehicle was traveling northward from the city toward a cluster of medical facilities when the incident occurred. No details about the exact location or the time of day have been released by local authorities.\n\nInvestigators are examining the circumstances of the crash, but the cause remains unknown. No official statement has yet confirmed whether there were injuries or fatalities, and authorities have not released a casualty count. The incident has prompted a temporary suspension of",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 0:22:07",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-545",
-    "title": "Kennedy Center Board Rejects Immediate Restoration of Trump Name",
-    "slug": "kennedy-center-board-rejects-immediate-restoration-of-trump-name",
-    "content": "A local entertainment venue has become the focus of a legal dispute after a court ordered the removal of a former president’s name from its signage. The ruling, issued last month by a regional court, cited violations of a trademark agreement and demanded that the venue cease using the name in all promotional materials and on the building itself. Opponents of the venue’s continued use of the name argue that the establishment appears “intent on defying” the court order, suggesting a disregard for the judicial decision.\n\nThe venue’s management has responded that the name is integral to its brand identity and that they are reviewing the court’s directive. Legal analysts note that non‑compliance could result in fines or an injunction compelling the removal of the signage. The case remains pending, with a hearing scheduled for next week to determine whether the venue will comply with the order or face further sanctions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 0:22:01",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-544",
-    "title": "Canada pledges $50 million aid to Lebanon, condemns Israeli invasion",
-    "slug": "canada-pledges-50-million-aid-to-lebanon-condemns-israeli-invasion",
-    "content": "Ottawa’s foreign affairs minister publicly denounced Israel’s recent military incursion into southern Lebanon, describing it as an “invasion” that violates Lebanese sovereignty. In a statement released on Tuesday, the minister urged all parties to respect international law and called for an immediate de‑escalation of hostilities that have displaced thousands of civilians and strained already fragile infrastructure in the crisis‑hit nation.\n\nThe Canadian government announced a new assistance package worth CAD 30 million, earmarked for emergency shelter, medical supplies, and food distribution to communities affected by the fighting. The aid, to be delivered through the United Nations Relief and Works Agency and local NGOs, aims to bolster Lebanon’s capacity to respond to the surge in displaced persons and to support reconstruction of damaged health facilities. Ottawa said the pledge underscores Canada’s commitment to Lebanon’s territorial integrity and to broader regional stability, while urging the international community to pursue diplomatic solutions to the conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 0:21:55",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-543",
-    "title": "Canada and US near completion of trade deal as deadline approaches",
-    "slug": "canada-and-us-near-completion-of-trade-deal-as-deadline-approaches",
-    "content": "Prime Minister Carney said the latest round of trade negotiations has achieved “significant progress,” as the two nations work to finalize remaining issues before a newly set weekend deadline for tariff adjustments. The statement was made during a press briefing on Thursday, where Carney emphasized that both sides are focused on resolving outstanding points that have delayed the implementation of the agreed‑upon tariff schedule.\n\nNegotiators are now concentrating on the final details of market access, rules of origin and dispute‑resolution mechanisms, with the goal of meeting the deadline that will determine whether the provisional tariff reductions take effect. Officials from both governments have indicated that, if the deadline is met, the revised tariff framework could boost bilateral trade flows and provide greater certainty for businesses operating across the border.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 0:21:50",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-536",
-    "title": "Human remains found at Lake Mead as water levels fall",
-    "slug": "human-remains-found-at-lake-mead-as-water-levels-fall",
-    "content": "Human remains were found in Lake Mead on August 16, according to a report by USA Today, marking the latest grim discovery in the reservoir that supplies water to the Las Vegas area. The National Park Service said the body showed no signs of suspicious activity, and investigators are treating it as a routine search for missing persons.\n\nLake Mead has been experiencing record low water levels for several years, raising concerns about water supply and environmental conditions. The discovery follows a series of similar findings in recent months, prompting authorities to review safety protocols and increase monitoring of the lake’s shoreline. While the circumstances of this particular case remain unclear, the NPS has confirmed that the investigation is ongoing.\n\nThe incident underscores the challenges facing the region as water scarcity and climate change continue to affect the reservoir’s capacity. Officials have urged anyone with information to come forward, and the search for the individual remains a priority for local law‑enforcement and park officials.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "8/19/2026 23:41:42",
-    "author": "Guardian Environment",
     "isFeatured": false
   }
 ]
