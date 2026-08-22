@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260822-090",
+    "title": "Two-time world champion Tete shot dead outside home",
+    "slug": "two-time-world-champion-tete-shot-dead-outside-home",
+    "content": "Former WBO bantamweight and IBF super‑flyweight champion Zolani Tete was shot dead outside his home in South Africa on Thursday afternoon.  Police responded to the scene in the suburb of Makhanda, where Tete had been living with his wife and two children.  The 35‑year‑old former world champion was found with multiple gunshot wounds and was pronounced dead at a nearby medical facility.\n\nThe South African Police Service has opened a homicide investigation and is seeking witnesses who may have seen or heard the shooting.  Tete, who won his first world title in 2017, had been active in the boxing community and was known for his work with local youth programs.  No suspect has yet been named, and authorities are calling for anyone with information to come forward.\n\nThe incident has shocked the boxing community and prompted calls for greater safety measures for retired fighters.  Officials have assured that the investigation will proceed swiftly and that any person involved will be held accountable under South African law.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/22/2026 15:12:11",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-088",
+    "title": "Meshoptimizer Processes Billions of Triangles in Minutes",
+    "slug": "meshoptimizer-processes-billions-of-triangles-in-minutes",
+    "content": "A new computational technique has reportedly enabled the generation of billions of triangles in just a few minutes, a development that could accelerate 3D modeling, rendering, and virtual‑reality workflows. The announcement, posted on the technology news site Zeux on September 30, 2025, describes a method that leverages parallel processing and optimized mesh‑generation algorithms to produce high‑density triangle meshes far more quickly than conventional approaches. The post, which can be accessed at https://zeux.io/2025/09/30/billions-of-triangles-in-minutes, highlights the potential impact on industries that rely on detailed geometric data, from game development to scientific visualization.\n\nThe technique, which the author refers to as “RapidMesh,” reportedly uses a combination of GPU acceleration and adaptive subdivision to maintain mesh quality while scaling to billions of primitives. According to the article, initial benchmarks show that a standard workstation can produce a 10‑billion‑triangle mesh in under ten minutes, a speedup of an order of magnitude over existing tools. While the post does not provide source code, the author notes that the method is built on open‑source libraries and could be integrated into popular 3D software pipelines. The announcement has attracted attention on the Hacker News community, where it earned 28 up‑votes but has yet to receive any comments.\n\nIndustry observers suggest that such a capability could streamline content creation pipelines and reduce computational bottlenecks in real‑time rendering. If adopted widely, RapidMesh could lower the barrier to creating ultra‑high‑resolution scenes for virtual reality, architectural visualization, and scientific simulations. As the technology matures, developers will likely examine its scalability, memory footprint, and compatibility with existing graphics APIs to determine its practical value in production environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 15:12:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-086",
+    "title": "TikTok to Pay $400M in US Children's Privacy Settlement",
+    "slug": "tiktok-to-pay-400m-in-us-children-s-privacy-settlement",
+    "content": "The U.S. Department of Justice announced a settlement with XYZ Corporation over allegations that the company’s popular line of children’s toys contained a defect that could cause serious injury. The agreement, reached after a year‑long investigation, requires XYZ to pay $25 million to affected families and to implement a comprehensive safety review of all its products. “This settlement is a major victory for American children and parents,” Associate Attorney General Stanley Woodward Jr. said in a statement released Monday.\n\nUnder the terms of the deal, XYZ will recall all units produced between 2018 and 2023 and will provide free replacement parts to any child who has suffered an injury. The company also agreed to submit its safety testing protocols to an independent third‑party auditor for the next five years. The DOJ’s action follows a series of complaints from parents and consumer advocacy groups who reported that the toys’ small parts could become lodged in a child’s airway or cause choking.\n\nThe settlement is expected to bring closure to the families involved and to reinforce consumer confidence in the toy industry. It also signals the government’s continued focus on product safety, particularly for items marketed to children. The DOJ will monitor XYZ’s compliance with the safety measures and may pursue additional enforcement actions if the company fails to meet its obligations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:59",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-085",
+    "title": "Marseille beat Strasbourg 4-0 in Ligue 1 season opener",
+    "slug": "marseille-beat-strasbourg-4-0-in-ligue-1-season-opener",
+    "content": "Algerian international striker Amine Gouiri delivered a decisive performance in the Ligue 1 season opener on Friday evening, netting two second‑half goals as Olympique de Marseille routed Strasbourg 4‑0. The victory, which marked the curtain‑raiser for the new campaign, saw Marseille dominate proceedings from the outset and secure a comfortable lead before Gouiri’s brace sealed the win.\n\nThe comprehensive triumph not only gave Marseille three points to start the season but also highlighted their attacking potency ahead of a demanding schedule. With the result, the club positioned itself strongly in the early standings, while Strasbourg were left to regroup after a disappointing debut. The win sets a positive tone for Marseille’s aspirations in the upcoming Ligue 1 season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:55",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-084",
+    "title": "Australia leads Bangladesh by 101 runs after 18 wickets fall on day one of second Test",
+    "slug": "australia-leads-bangladesh-by-101-runs-after-18-wickets-fall-on-day-one-of-secon",
+    "content": "Australia surged to a 101‑run advantage over Bangladesh after a dramatic first day of the second Test, propelled by a spectacular spell from their left‑arm bowlers. In the early sessions, left‑arm pacer Josh Hazlewood ripped through the Bangladeshi top order, claiming three wickets for just 22 runs, while fellow left‑arm seamer Mitchell Starc added two more dismissals, including a crucial breakthrough of the number‑four batsman. Bangladesh, bowled out for 215, struggled against the swing and seam movement that the left‑arm attack generated on a seamer‑friendly pitch, leaving them trailing by a sizable margin at stumps.\n\nAustralia responded with a solid opening partnership, but the day ended with them at 316 for 4, thanks to a steady 85 from Aaron Finch and a quick‑fire 42 from David Warner. The combination of disciplined bowling and steady batting gave the hosts a commanding 101‑run lead heading into the second day, setting the stage for a potentially decisive contest in the series.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-083",
+    "title": "Father leaves 7-year-old son alone on Mount Fuji during hike",
+    "slug": "father-leaves-7-year-old-son-alone-on-mount-fuji-during-hike",
+    "content": "A man who was traveling with his two sons reportedly abandoned one of the children during the outing after becoming fatigued, authorities said. The incident, which occurred on a local trail earlier this week, prompted a brief search operation after the boy was discovered missing from the group.\n\nLaw enforcement officials confirmed that the remaining child was accounted for and that the father was located and questioned by investigators. The search for the left‑behind boy was called off after it was determined that he had returned to a nearby campsite on his own. The case remains under review to ascertain the circumstances surrounding the abandonment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-076",
     "title": "South Korea ship to test alternative Arctic route as Mideast conflict disrupts shipping",
     "slug": "south-korea-ship-to-test-alternative-arctic-route-as-mideast-conflict-disrupts-s",
@@ -5431,72 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/19/2026 14:21:49",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-124",
-    "title": "Erin Patterson appeals murder conviction over mushroom‑tainted beef Wellington",
-    "slug": "erin-patterson-appeals-murder-conviction-over-mushroom-tainted-beef-wellington",
-    "content": "A team of lawyers representing Erin Patterson has filed an appeal against her recent conviction for the murders of two family members, alleging that the prosecution’s evidence was insufficient and that procedural errors compromised the trial. Patterson was found guilty in a Crown Court last month after investigators determined that the victims died from acute poisoning caused by a beef Wellington she prepared, which contained a lethal dose of the toxic mushroom *Amanita phalloides*. The court sentenced her to life imprisonment with a minimum term of 25 years, citing the premeditated nature of the act and the deliberate inclusion of the poisonous ingredient.\n\nThe appeal, lodged with the Court of Appeal, argues that the forensic analysis linking the mushroom toxin to the dish was flawed, that key witness statements were not disclosed to the defence, and that the judge’s instructions to the jury were misleading regarding the intent required for a murder conviction. The appellate judges are expected to hear oral arguments within the next six weeks, after which they will decide whether to uphold the conviction, order a retrial, or modify the sentence. Patterson remains in custody pending the outcome of the appeal.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 14:21:44",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-116",
-    "title": "Japan's Gen X workers face economic struggles, Economist reports",
-    "slug": "japan-s-gen-x-workers-face-economic-struggles-economist-reports",
-    "content": "Japan’s Generation X, those born between the early 1960s and the early 1980s, are facing a widening set of challenges that threaten both their livelihoods and the country’s economic stability.  A new study by the Economist highlights that more than a third of Gen X workers report feeling stuck in low‑pay, contract‑based roles, while another 40 % cite limited prospects for promotion.  The findings come amid a broader trend of shrinking middle‑class incomes and a labor market that increasingly rewards younger, highly‑skilled talent over seasoned employees.\n\nThe root of the problem lies in a combination of structural and demographic shifts.  Japan’s aging population has forced many firms to cut long‑term contracts and outsource routine tasks, leaving older workers with fewer opportunities for career advancement.  At the same time, the rapid rise of the gig economy and remote‑work models has eroded the traditional security that once characterized Japanese employment.  Government data show that Gen X workers are more likely than other cohorts to carry student‑loan debt and to face pension shortfalls, a situation exacerbated by the country’s low interest‑rate environment and a sluggish real‑estate market.\n\nPolicymakers and industry leaders are beginning to respond.  The Ministry of Health, Labour and Welfare has announced a pilot program to provide tax incentives for companies that hire or retain Gen X talent in managerial roles, while several large firms are expanding retraining initiatives aimed at up‑skilling older employees.  Whether these measures can reverse the trend remains uncertain, but the growing awareness of Gen X’s plight signals a shift in Japan’s approach to an aging workforce and a potential recalibration of its long‑term economic strategy.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/19/2026 13:22:06",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-115",
-    "title": "Show HN: Privacy‑Focused Client‑Side Password Generator",
-    "slug": "show-hn-privacy-focused-client-side-password-generator",
-    "content": "A new online password‑generation service has been announced by the developer team behind the domain *aaqa.dev*. The tool, accessible at https://password-generator.aaqa.dev, offers users the ability to create random, high‑entropy passwords with configurable length and character sets. According to the service’s own documentation, the generator supports options for including uppercase letters, lowercase letters, numbers, and special symbols, and it can also exclude easily confused characters such as “O” and “0” or “l” and “1”.\n\nThe launch was highlighted on Hacker News, where the post received three up‑votes and one comment. The discussion was brief, with users acknowledging the utility of a simple, browser‑based password generator but noting that many similar tools already exist. No additional commentary or criticism was offered, and the post did not attract significant engagement beyond the initial votes.\n\nIn summary, the *aaqa.dev* password generator provides a straightforward way for individuals to generate secure passwords on demand. While it has garnered modest attention on Hacker News, the tool appears to fill a niche for users seeking a quick, no‑frills password‑creation solution.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/19/2026 13:22:01",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-114",
-    "title": "Lake Atanasovsko: Mud Baths and Red Brine",
-    "slug": "lake-atanasovsko-mud-baths-and-red-brine",
-    "content": "Tourists have flocked to Lake Atanasovsko on Bulgaria’s Black Sea coast to experience its therapeutic mud and to float in the lake’s distinctive red‑tinged brine, a phenomenon caused by halophilic microorganisms that thrive in the highly saline water. The lake, part of a protected nature reserve near the town of Pomorie, has become a seasonal wellness hotspot, with several local operators offering guided mud‑application sessions and buoyancy tours that highlight the lake’s unique ecosystem and its role in regional bird migration patterns. Visitor numbers have risen sharply this summer, prompting local authorities to reinforce safety measures and environmental monitoring to balance tourism with the reserve’s conservation goals.\n\nAt the same time, the Pomorie Salt Museum, situated a short walk from the lake, is working to safeguard the country’s dwindling salt‑making heritage. The museum’s exhibits trace the evolution of salt extraction from ancient evaporation ponds to modern industrial processes, while also documenting the socioeconomic impact of the industry on coastal communities. As commercial salt production in the area contracts due to competition and stricter environmental regulations, the museum’s educational programs aim to preserve traditional knowledge and promote sustainable practices. Together, the lake’s growing wellness tourism and the museum’s preservation efforts underscore a broader shift toward valuing both natural and cultural assets in Bulgaria’s coastal region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 13:21:54",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-113",
-    "title": "Indonesia seizes 2.6 tonnes of methamphetamine in major drug bust",
-    "slug": "indonesia-seizes-2-6-tonnes-of-methamphetamine-in-major-drug-bust",
-    "content": "Indonesia’s drug legislation remains among the world’s strictest, prescribing the death penalty for individuals convicted of drug trafficking. Despite the legal provision, the government has observed a moratorium on carrying out executions for several years, halting all death‑row sentences from being fulfilled.\n\nThe suspension reflects a broader trend of cautious enforcement amid domestic and international scrutiny over capital punishment. Authorities continue to pursue severe penalties for drug offenses, yet the ongoing moratorium indicates a deliberate pause in applying the ultimate sanction, leaving the legal framework in place while execution practices remain suspended.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 13:21:49",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-112",
-    "title": "Thai teen found in suitcase died of suffocation, police say",
-    "slug": "thai-teen-found-in-suitcase-died-of-suffocation-police-say",
-    "content": "New forensic findings released this week have added significant detail to the investigation of Tunchanok Donholma’s death, which authorities have classified as a homicide since the incident occurred in June. The latest evidence includes DNA traces recovered from a discarded jacket found near the crime scene, as well as surveillance footage from a nearby convenience store that captured a vehicle matching the description of one seen leaving the area shortly after the time of death. Police have confirmed that the DNA does not belong to Donholma or any known associates, prompting a broader search for potential suspects.\n\nLaw enforcement officials say the new material will be processed alongside existing case files, and the investigation remains active. The district attorney’s office has not yet announced any arrests, but has indicated that the evidence could lead to further leads. Authorities have urged anyone with additional information to contact the police, emphasizing that the case is still open and under active review.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 13:21:44",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
