@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260819-340",
+    "title": "Offloading work tasks to AI comes with a cost—to our brains",
+    "slug": "offloading-work-tasks-to-ai-comes-with-a-cost-to-our-brains",
+    "content": "Government agencies and corporate policy teams are increasingly turning to generative artificial intelligence to accelerate the production of high-stakes policy documents amid compressed deadlines. In recent months, researchers and strategic advisors have reported that AI systems can generate comprehensive draft papers within minutes, delivering organized frameworks, structured arguments, and formatted citations that mirror traditional academic and institutional standards. This rapid output capability is prompting organizations to reassess their research workflows as they balance the demand for swift deliverables with the need for reliable analysis.\n\nThe underlying models synthesize information from vast training datasets to produce coherent policy narratives and reference lists",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 20:31:55",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-339",
+    "title": "Study investigates leveraging quantum battery environmental sensitivity for better energy use",
+    "slug": "study-investigates-leveraging-quantum-battery-environmental-sensitivity-for-bett",
+    "content": "Quantum batteries—devices that store energy through quantum mechanical effects—promise faster charging and higher efficiency than conventional batteries. Recent studies suggest that, in principle, these batteries could be charged more quickly by harnessing collective quantum phenomena, potentially transforming portable power and grid storage.\n\nHowever, researchers have found that the act of connecting a quantum battery to a charger introduces quantum correlations between the two systems. These correlations can lock a portion of the stored energy within the combined battery‑charger complex, preventing it from being extracted as useful work. As a result, the amount of energy that can be delivered to a load is reduced, undermining some of the anticipated performance gains.\n\nThe findings highlight a critical challenge for practical quantum energy devices: while quantum effects can enhance storage and charging speeds, they also create entanglement that must be managed to avoid energy loss. Future research will need to develop strategies for decoupling or mitigating these correlations to fully realize the advantages of quantum batteries.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/19/2026 20:31:47",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-325",
     "title": "Australia mushroom killer's lawyers point to jury irregularities at appeal",
     "slug": "australia-mushroom-killer-s-lawyers-point-to-jury-irregularities-at-appeal",
