@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260822-345",
+    "title": "US-Canada Trade Dispute Escalates: 50% Tariff Imposed, Canada Retaliates",
+    "slug": "us-canada-trade-dispute-escalates-50-tariff-imposed-canada-retaliates",
+    "content": "Negotiations between the United States and Canada collapsed over the weekend, prompting the Trump administration to impose a 50 percent tariff on Canadian goods. The move was intended to pressure Canada into revising trade terms that the U.S. deemed unfavorable. In response, Canadian Prime Minister Mark Carney announced a retaliatory tariff on U.S. products, stating during a Saturday press conference that Canada would “match Washington’s” tariff.\n\nThe U.S. tariff targets a range of Canadian imports, including agricultural products and manufactured goods, and is part of a broader strategy to renegotiate trade agreements. Canada’s counter‑tariff is expected to affect similar categories of U.S. exports, potentially escalating the trade dispute. Both leaders indicated that the tariffs would remain in place until a new agreement is reached, and they urged their respective governments to resume negotiations promptly.\n\nThe swift reciprocal action underscores the heightened tensions in North American trade relations. While the tariffs may impose costs on consumers and businesses in both countries, the administrations have signaled a willingness to engage in further talks. The next phase will likely involve diplomatic efforts to resolve the impasse and restore the status quo of bilateral trade.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 5:02:03",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-344",
+    "title": "Haida Gwaii Recovers First Marbled Murrelet Nest in 30 Years",
+    "slug": "haida-gwaii-recovers-first-marbled-murrelet-nest-in-30-years",
+    "content": "A small expedition team set out from the southern coast of Haida Gwaii on a late‑summer day, crossing the Dixon Entrance in an open skiff before trekking into the island’s interior. The group, composed of four hikers and a marine biologist, navigated the turbulent waters head‑on, battling swells and salt spray as they crossed the narrow channel that separates the archipelago from mainland British Columbia.\n\nAfter the sea crossing, the team entered the dense salal understory and wove between towering western red cedars that line the northern part of the island. The forest, shrouded in twilight, presented a stark contrast to the open sea they had just left. The journey, which took several days, highlighted the logistical challenges of moving through remote wilderness while maintaining communication and safety protocols in an area with limited infrastructure.\n\nThe expedition underscores the rugged nature of Haida Gwaii’s landscape and the resilience required to traverse it. While the team successfully reached their destination, the experience serves as a reminder of the delicate balance between exploration and environmental stewardship in this pristine region.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/23/2026 5:01:57",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-343",
+    "title": "Heatwaves threaten school calendar as teachers report classroom challenges",
+    "slug": "heatwaves-threaten-school-calendar-as-teachers-report-classroom-challenges",
+    "content": "Teachers across the country are warning that the increasing intensity of summer heat could make it progressively harder for classrooms to operate effectively during the hottest months. In statements gathered from several school districts, educators cited rising ambient temperatures, limited ventilation, and the absence of air‑conditioning in many older school buildings as primary concerns. The warnings come after a series of record‑breaking heatwaves that have pushed daily highs above 95°F (35°C) in many regions, prompting health officials to issue heat advisories for vulnerable populations, including children.\n\nAccording to a recent survey conducted by a national teachers’ association, more than 70 percent of respondents reported that excessive heat had already disrupted lesson plans, reduced student concentration, and increased fatigue among both pupils and staff. Several districts have responded by adjusting school calendars, shortening recess, and installing temporary cooling units, but many schools lack the funding or infrastructure to implement comprehensive climate‑control solutions. Experts note that prolonged exposure to high indoor temperatures can impair cognitive performance and exacerbate health risks, potentially widening educational inequities in communities with older facilities.\n\nEducation officials acknowledge the teachers’ concerns and are reviewing strategies to mitigate heat‑related disruptions. Proposed measures include expanding the use of shaded outdoor learning spaces, upgrading HVAC systems, and revising school schedules to avoid the peak heat of the day. The ongoing dialogue underscores the need for coordinated action as climate trends suggest that extreme summer temperatures will become more frequent in the coming years.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/23/2026 5:01:52",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-342",
+    "title": "NanoGPT Speedrun Frontier article published on Primeintellect.ai",
+    "slug": "nanogpt-speedrun-frontier-article-published-on-primeintellect-ai",
+    "content": "Primeintellect.Ai’s research site has published a brief report titled “nanogpt‑speedrun,” documenting a rapid training run of the lightweight NanoGPT language model. The article outlines the configuration used for the experiment, including the hardware specifications and the software settings that enabled the model to be trained in a markedly short period compared with conventional approaches.\n\nThe post provides quantitative results such as total training time, loss progression, and final model performance, emphasizing NanoGPT’s efficiency for small‑scale language modeling tasks. A corresponding discussion thread on Hacker News shows the entry receiving four up‑votes and no comments, reflecting modest engagement from the broader community. The speedrun demonstrates continued interest in optimizing the speed and resource usage of generative‑pre‑trained transformer models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 5:01:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-341",
     "title": "Tottenham Lose 3-0 to Brentford; De Zerbi Criticises Team",
     "slug": "tottenham-lose-3-0-to-brentford-de-zerbi-criticises-team",
@@ -5452,50 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/20/2026 3:12:07",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-664",
-    "title": "USS Lincoln Conditions Expose Navy Supply Limits",
-    "slug": "uss-lincoln-conditions-expose-navy-supply-limits",
-    "content": "Reports of dire conditions in the region have brought the supply challenges faced by aid agencies into sharp focus, prompting experts to question the feasibility of the United States’ current relief strategy. Field teams have documented shortages of food, clean water, and medical supplies, while logistical bottlenecks at key transit points have stalled the delivery of critical resources.\n\nAnalysts point to a combination of infrastructure damage, limited port capacity, and regulatory delays that have slowed the flow of goods into the affected area. The U.S. government has announced a multi‑phase assistance program that includes airlifts of humanitarian aid and a planned build‑out of a temporary distribution hub, but experts warn that the timeline may be overly optimistic given the existing constraints. They argue that without immediate upgrades to transport routes and a streamlined customs process, the projected relief deliveries risk falling short of the urgent needs on the ground.\n\nIn light of these concerns, specialists are calling for a reassessment of the U.S. approach, emphasizing the need for coordinated international support and investment in local logistics infrastructure. A revised plan that incorporates real‑time supply chain monitoring and contingency measures could improve the effectiveness of aid efforts and better address the pressing humanitarian crisis.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 3:12:02",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-663",
-    "title": "Israel launches criminal investigation into death of 6-year-old Hind Rajab in Gaza",
-    "slug": "israel-launches-criminal-investigation-into-death-of-6-year-old-hind-rajab-in-ga",
-    "content": "The Israeli Defense Forces (IDF) announced on Tuesday that criminal investigations have been opened into the death of six‑year‑old Hind Rajab, who was killed during recent hostilities in the Gaza Strip. The statement, issued by the IDF’s spokesperson office, said the investigations will examine whether any breach of the law of armed conflict or misconduct by Israeli soldiers contributed to the child’s death. The probe will be conducted by the Military Police Corps in coordination with the Israel Defense Forces’ Legal Corps, and findings will be forwarded to the appropriate prosecutorial authorities.\n\nAuthorities have not disclosed the specific circumstances surrounding the incident, but the announcement follows heightened scrutiny of civilian casualties in the ongoing Israel‑Gaza conflict. The IDF emphasized that the investigations are part of its standard procedure to ensure accountability and adherence to international humanitarian law. Results of the inquiries are expected to be released in due course, pending the completion of forensic and witness analyses.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 3:11:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-662",
-    "title": "Displaced Lebanese watch Israeli attacks in southern Lebanon pilot zones",
-    "slug": "displaced-lebanese-watch-israeli-attacks-in-southern-lebanon-pilot-zones",
-    "content": "Al Jazeera journalist Ali Hashem described the scene as “you can’t do anything. Just stand here and watch,” while observing Israeli airstrikes that struck residential areas near his hometown on Tuesday. The attacks, part of a broader military operation launched earlier this week, targeted several neighborhoods, causing damage to homes and infrastructure and prompting evacuations of dozens of families.\n\nThe strikes come amid intensified fighting between Israeli forces and Palestinian militants in the region, which officials say aim to neutralize rocket launch sites and underground tunnels. Local authorities reported multiple casualties and a growing humanitarian need, while humanitarian agencies called for unhindered access to deliver aid. As the conflict continues, residents remain under curfew and the international community has urged both sides to de‑escalate and protect civilians.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 3:11:52",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-661",
-    "title": "Israeli strike kills Gaza police women's chief and officers",
-    "slug": "israeli-strike-kills-gaza-police-women-s-chief-and-officers",
-    "content": "An Israeli airstrike targeted the police headquarters in Gaza City on Thursday, killing the chief of the women’s police division along with several other officers. The strike, reported by local authorities and confirmed by the Palestinian Ministry of Health, resulted in multiple fatalities and injuries among the building’s staff. Israeli officials said the operation was aimed at neutralizing militants they claim were using the facility for command and control, though they did not provide further details about the specific targets.\n\nThe incident adds to the escalating violence in the densely populated enclave, where clashes between Israeli forces and Hamas-affiliated groups have intensified over the past weeks. Humanitarian agencies have warned that repeated attacks on security installations risk further civilian casualties and strain already limited medical resources. International observers called for restraint and an immediate investigation into the strike’s compliance with international humanitarian law.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 3:11:46",
     "author": "Al Jazeera",
     "isFeatured": false
   }
