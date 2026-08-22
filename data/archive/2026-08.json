@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260819-624",
+    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+    "slug": "flight-attendants-freaked-out-that-google-is-buying-tons-of-spirit-employee-data",
+    "content": "Spirit Airlines has faced mounting criticism following allegations that the bankrupt carrier entered into a comprehensive data-sharing agreement with Google that prioritizes corporate restructuring over employee privacy. The controversy surfaced as the low-cost airline navigates Chapter 11 proceedings, with labor advocates and former employees claiming the arrangement effectively commodifies sensitive workforce information. According to internal documents and whistleblower accounts, the deal reportedly grants Google access to extensive operational and personnel datasets, prompting immediate concerns about data security and worker consent.\n\nUnder the reported terms of the agreement, Spirit would provide Google with aggregated flight operations metrics, customer interaction records, and internal workforce analytics in exchange for cloud infrastructure support and financial restructuring assistance. Labor representatives argue that the scope of the data transfer extends beyond standard business operations, potentially exposing employee performance records, scheduling patterns, and internal communication logs",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 2:12:32",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-623",
+    "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+    "slug": "framework-responds-to-complaints-that-bios-update-bricks-ryzen-7040-laptops",
+    "content": "Framework, the modular‑design laptop manufacturer, announced that it will replace a batch of out‑of‑warranty AMD mainboards used in several of its devices. The company said the decision follows the identification of a hardware issue that could affect system stability, prompting a voluntary remediation program for affected units that are no longer covered by the standard warranty period.\n\nCustomers with the specified AMD‑based models can request a replacement board by contacting Framework’s support team, which will provide a refurbished or new mainboard at no cost. The company outlined that the program will run through the end of the calendar year and that shipping will be handled worldwide, with an estimated turnaround of two to three weeks after the request is approved. Framework emphasized that the replacement will not require additional software updates and that the move is part of its commitment to long‑term device sustainability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 2:12:20",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-620",
     "title": "Rillet Secures $100M Series C, Reaches $1B Valuation",
     "slug": "rillet-secures-100m-series-c-reaches-1b-valuation",
