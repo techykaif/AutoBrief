@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260819-136",
+    "title": "Kyrgios provisionally suspended after positive cocaine test",
+    "slug": "kyrgios-provisionally-suspended-after-positive-cocaine-test",
+    "content": "Australian tennis star Nick Kyrgios has been provisionally suspended by the sport’s governing bodies after a routine anti‑doping test returned a positive result for cocaine. The suspension, announced on Monday, follows the International Tennis Federation’s (ITF) receipt of the laboratory report, which indicated the presence of the stimulant in a sample collected during a tournament in early June. Kyrgios, a former top‑20 player known for his powerful serve and volatile on‑court demeanor, will be barred from competition pending a formal hearing, during which he may present evidence or request a B‑sample analysis.\n\nThe provisional ban aligns with the World Anti‑Doping Agency’s strict liability framework, which treats any prohibited substance found in an athlete’s system as a violation unless a valid therapeutic use exemption is demonstrated. Cocaine is listed as a non‑performance‑enhancing stimulant and is prohibited in-competition, meaning Kyrgios could face a suspension of up to two years if the violation is upheld. The case adds to a series of disciplinary issues that have shadowed Kyrgios’s career, and the ATP has indicated that it will cooperate fully with the ITF’s investigation while awaiting the outcome of the upcoming adjudication.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/19/2026 14:22:40",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-130",
+    "title": "Modern Factors Disrupt Human Sleep Patterns",
+    "slug": "modern-factors-disrupt-human-sleep-patterns",
+    "content": "The Nautilus article “Where Human Sleep Went Wrong” examines how modern lifestyles have disrupted the evolutionary sleep patterns that once benefited our ancestors. The piece traces the shift from the polyphasic, dusk‑to‑dawn rest cycles of hunter‑gatherers to the rigid, single‑block sleep schedule that dominates contemporary society. It argues that this mismatch between our biology and our environment has contributed to widespread sleep deprivation and its associated health risks.\n\nKey points in the article highlight the role of circadian rhythms, the impact of artificial light and digital screens, and the prevalence of shift work and caffeine consumption. The author notes that our internal clocks evolved to respond to natural light cues, yet today’s constant illumination and irregular schedules interfere with melatonin production and sleep quality. The piece also cites studies linking chronic sleep loss to obesity, cardiovascular disease, impaired cognition, and mental health disorders, underscoring the broad societal cost of poor sleep hygiene.\n\nThe article has generated discussion on the Hacker News “Y Combinator” forum, where it received 27 upvotes and 7 comments, reflecting growing public interest in sleep science and the need for evidence‑based solutions to restore healthier sleep habits.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 14:22:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-129",
+    "title": "Mojo Language by Modular Now Open Source",
+    "slug": "mojo-language-by-modular-now-open-source",
+    "content": "Modular has released the final schedule and key details for its upcoming ModCon conference, slated to take place from May 15‑17, 2026, at the San Francisco Convention Center. The event will feature a mix of keynote addresses, panel discussions, and hands‑on workshops focused on the latest trends in modular construction, sustainable building practices, and digital integration. Speakers include industry leaders from companies such as Katerra, Skanska, and local innovators, while the agenda covers topics ranging from prefabrication technology to regulatory compliance and market expansion strategies.\n\nThe announcement, posted on Modular’s official blog, also outlines the conference’s registration process, early‑bird pricing, and sponsorship opportunities. Attendees will have access to a dedicated expo hall showcasing modular solutions, a networking lounge, and a dedicated session for investors. With a growing interest in modular solutions, ModCon aims to bring together architects, developers, investors, and technology providers to share best practices and explore new business models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 14:22:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-128",
+    "title": "Unitree Shares Jump 600% on China Stock Market Debut",
+    "slug": "unitree-shares-jump-600-on-china-stock-market-debut",
+    "content": "Unitree, the world’s largest humanoid‑robot manufacturer, has made a dramatic debut on China’s stock market, with its shares surging more than 600 % on the first day of trading. The Shanghai-listed company, known for its high‑performance robots, attracted investors’ attention after a series of viral videos showcased its machines executing martial‑arts routines, sprinting at Olympic speeds, and even serving as backup dancers for pop stars.\n\nThe company’s robots have become a global sensation, drawing millions of views on social media platforms and demonstrating advanced agility and coordination. Unitree’s rapid rise in the market reflects both the growing interest in robotics technology and the company’s reputation for pushing the limits of humanoid mobility. Analysts note that the surge underscores confidence in China’s tech sector and the potential for robotics to play a larger role in entertainment and industrial applications.\n\nIn short, Unitree’s successful IPO and the viral popularity of its robots have positioned the firm as a leading player in the global robotics arena, with a market valuation that has jumped dramatically since its listing. The company’s future performance will likely hinge on continued innovation and expanding commercial partnerships.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 14:22:05",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-127",
+    "title": "US states sue Meta for $200 billion over addictive design",
+    "slug": "us-states-sue-meta-for-200-billion-over-addictive-design",
+    "content": "Twenty‑nine U.S. states have filed a lawsuit against Meta Platforms, alleging that the company’s social media services were engineered to be addictive and that this design contributed to a growing public‑health crisis. The states seek billions in damages, arguing that Meta’s algorithms and user‑experience features deliberately exploit behavioral vulnerabilities to keep users engaged for longer periods.\n\nThe lawsuit echoes the 1994 coalition of more than 40 states that sued the tobacco industry over deceptive advertising and the health harms of smoking. That case culminated in a settlement in which tobacco companies paid an unprecedented sum to the federal government, and the states largely dropped many of their claims in exchange for the payments. The current suit similarly frames Meta’s practices as a form of deceptive conduct that has widespread societal impacts, and the states are demanding a comparable scale of financial restitution.\n\nIf the court sides with the states, the outcome could set a new precedent for holding technology companies accountable for design choices that influence user behavior. Meta has indicated it will contest the allegations, and the litigation is expected to proceed through preliminary hearings before a final judgment is rendered.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 14:22:00",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-126",
     "title": "Meta faces trial over child addiction claims on Facebook and Instagram",
     "slug": "meta-faces-trial-over-child-addiction-claims-on-facebook-and-instagram",
