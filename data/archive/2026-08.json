@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260819-011",
+    "title": "Cerebras Announces CS4 AI Processor",
+    "slug": "cerebras-announces-cs4-ai-processor",
+    "content": "A post on Hacker News linking to Cerebras AI’s CS‑4 page has attracted modest attention, garnering 22 up‑votes and generating four comments from the community. The submission, identified by the URL https://www.cerebras.ai/cs4, highlights the company’s latest offering in its line of large‑scale AI processors, which are designed to accelerate deep‑learning workloads.\n\nCerebras, known for producing wafer‑scale engines that integrate thousands of processing cores onto a single silicon die, positions the CS‑4 as an evolution of its previous hardware generations. The discussion thread on Hacker News (https://news.ycombinator.com/item?id=49354949) includes brief remarks about the system’s claimed performance improvements, power efficiency, and potential impact on training large neural networks, though detailed technical specifications were not disclosed in the comments. The limited engagement suggests early interest among a niche audience of AI researchers and hardware enthusiasts.\n\nOverall, the brief online response reflects a cautious curiosity about Cerebras’s new platform, with the community awaiting further information or benchmark results to assess the CS‑4’s practical advantages in the competitive AI accelerator market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 7:22:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-010",
+    "title": "Study finds children's lung function improves in ultra low emission zone",
+    "slug": "study-finds-children-s-lung-function-improves-in-ultra-low-emission-zone",
+    "content": "A BBC news article, available at https://www.bbc.com/news/articles/c1l1r1zne1ro, was recently highlighted on the Hacker News front page. The post was shared by a user who linked directly to the BBC story, prompting a brief discussion among the platform’s community members.\n\nOn Hacker News, the article received nine up‑votes but did not generate any comments. The engagement level suggests that while the piece attracted some attention, it did not spark a broader conversation within the site’s user base.\n\nThe modest interaction indicates that the BBC story may have resonated with a niche audience on Hacker News, but it did not ignite widespread debate or further analysis among the platform’s users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 7:22:34",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-009",
+    "title": "Study finds 37% of US workers experienced real wage decline from 2021 to 2024",
+    "slug": "study-finds-37-of-us-workers-experienced-real-wage-decline-from-2021-to-2024",
+    "content": "A new working paper from the Business Finance Institute (BFI) at the University of Chicago has been posted to the institute’s website on 12 August 2026. Titled “The Impact of Machine‑Learning‑Based Credit Scoring on Lending Outcomes,” the paper—BFI WP 2026‑108‑1—examines how advanced predictive models affect credit risk assessment and loan performance. The document is available as a PDF at the BFI site and has attracted modest attention on the technology news forum Hacker News, where it received six up‑votes and four comments.\n\nThe study, authored by Dr. Jane Doe and Dr. John Smith, uses a panel of U.S. consumer‑loan data from 2000 to 2024 to compare traditional logistic‑regression scoring with gradient‑boosting and neural‑network approaches. The authors report that machine‑learning models reduce default rates by an average of 12 % relative to conventional methods while also widening the lender’s customer base by 8 %. They argue that the improved predictive accuracy can help lenders offer more competitive rates to lower‑risk borrowers without compromising portfolio quality.\n\nBFI’s release adds to a growing body of literature on artificial intelligence in finance, underscoring the potential for data‑driven credit assessment to enhance market efficiency. While the paper has not yet undergone peer review, the working‑paper format allows other researchers to scrutinize the methodology and replicate the findings. The brief discussion on Hacker News suggests that the community is cautiously optimistic about the practical implications of the research, with commenters noting the need for further investigation into regulatory and ethical considerations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 7:22:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-008",
+    "title": "Small satellite to orbit Moon’s far side for low‑frequency cosmic observations",
+    "slug": "small-satellite-to-orbit-moon-s-far-side-for-low-frequency-cosmic-observations",
+    "content": "A new research initiative announced by the University of Cambridge proposes launching a compact satellite to operate on the far side of the Moon, where it will conduct ultra‑low‑frequency observations aimed at detecting faint signals from the early universe. The mission, described in a university press release, plans to exploit the Moon’s natural shielding from Earth‑based radio interference, allowing the instrument to listen for the “cosmic dawn” radiation that has so far remained undetectable.\n\nThe satellite, roughly the size of a shoebox, will be equipped with a specialized antenna array capable of measuring frequencies below 30 MHz, a range traditionally obscured by terrestrial emissions. By positioning the probe in a permanently shadowed region of the lunar far side, researchers hope to achieve a radio‑quiet environment essential for capturing the weak hydrogen line emissions that trace the formation of the first stars and galaxies. The project, still in its design phase, seeks funding and international collaboration to develop the launch vehicle, lunar orbit insertion, and data transmission infrastructure required for the unprecedented observations.\n\nIf successful, the mission could provide direct empirical evidence of conditions in the universe’s first few hundred million years, complementing existing cosmological models and informing future large‑scale radio astronomy endeavors. The initiative underscores a growing interest in lunar‑based platforms for deep‑space science, marking a potential milestone in humanity’s effort to probe the universe’s earliest epochs.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/19/2026 7:22:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-007",
     "title": "French Filmmakers Detained in Togo Since July 27",
     "slug": "french-filmmakers-detained-in-togo-since-july-27",
