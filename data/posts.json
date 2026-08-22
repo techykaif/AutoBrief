@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260822-321",
+    "title": "Guidelines for Determining Loop Termination and Convergence",
+    "slug": "guidelines-for-determining-loop-termination-and-convergence",
+    "content": "a16z recently released an article titled “Knowing When to Stop: The Art of Making a Loop Converge,” which examines the critical decision point at which a startup’s iterative development cycle has reached a stable state and should be halted to move forward. The piece argues that recognizing loop convergence is essential for efficient resource allocation and avoiding the costly trap of endless experimentation.\n\nThe article lays out a framework for measuring loop performance, including quantitative thresholds and qualitative signals that indicate diminishing returns. It highlights case studies from early‑stage companies that successfully pivoted after identifying convergence, and offers practical advice on setting clear exit criteria, aligning cross‑functional teams around those metrics, and balancing the need for rapid iteration with the discipline of stopping when the loop no longer delivers incremental value.\n\nThe discussion has already sparked interest in the broader tech community, with the article appearing on Hacker News where it received four upvotes and no comments. This engagement underscores the relevance of the topic for founders and product leaders seeking to optimize their development cycles and accelerate growth.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:21:48",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-318",
     "title": "End the Biden inflation tax",
     "slug": "end-the-biden-inflation-tax",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/20/2026 1:11:57",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-578",
-    "title": "582 skeletons, including children, found in Sri Lanka mass grave",
-    "slug": "582-skeletons-including-children-found-in-sri-lanka-mass-grave",
-    "content": "A forensic team in Sri Lanka has uncovered a mass grave containing 582 human skeletons, officials said, after an extensive excavation at a remote site in the country’s northern region. The remains, which include a significant number of infants and children, were recovered over the course of several weeks of systematic digging and documentation. Authorities have not yet released information on the identities of the deceased or the precise time frame of the burials, but the scale of the find has prompted calls for a thorough investigation.\n\nThe discovery is being examined by the Ministry of Defence’s forensic unit in collaboration with international experts to determine the cause of death and any possible links to past conflicts in the area. DNA testing and osteological analysis are underway to establish the ages, sexes, and possible familial relationships among the victims. Officials have pledged to inform families of any matches that emerge and to pursue legal avenues if evidence of wrongdoing is confirmed, underscoring a broader effort to address unresolved human‑rights concerns in Sri Lanka.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 1:11:51",
     "author": "Al Jazeera",
     "isFeatured": false
   }
