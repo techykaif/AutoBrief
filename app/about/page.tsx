@@ -4,7 +4,7 @@ import type { Metadata } from "next"
 import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 
-const SITE_URL = "https://autobrief-ai.netlify.app"
+const SITE_URL = "https://autobrief-ai.vercel.app"
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -29,7 +29,7 @@ const organizationSchema = {
 const TECH_STACK = [
   { icon: Rss,      label: "RSS Scraper",     detail: "50+ sources, every 30 min" },
   { icon: Database, label: "Google Sheets",    detail: "Pipeline & data store" },
-  { icon: Bot,      label: "Groq AI",          detail: "Llama 3.3 70B — article writing" },
+  { icon: Bot,      label: "Groq AI",          detail: "AI article generation" },
   { icon: Cpu,      label: "Next.js",          detail: "Static site, zero runtime DB" },
 ]
 
@@ -126,8 +126,8 @@ export default function AboutPage() {
               {[
                 { step: "01", title: "Scrape", desc: "GitHub Actions scrapes 50+ RSS feeds every 30 minutes and stores raw articles in Google Sheets." },
                 { step: "02", title: "Process", desc: "Google Apps Script cleans the raw content, removes duplicates, and queues articles for AI processing." },
-                { step: "03", title: "Write", desc: "Groq's Llama 3.3 70B rewrites each article into a clear, well-structured 3-paragraph news piece with an SEO headline." },
-                { step: "04", title: "Publish", desc: "Once AI validates the content, articles are exported to a static JSON file, committed to GitHub, and Netlify rebuilds the site automatically." },
+                { step: "03", title: "Write", desc: "Groq AI rewrites each article into a clear, well-structured news piece with an SEO headline." },
+                { step: "04", title: "Publish", desc: "Once AI validates the content, articles are exported to static JSON, committed to GitHub, and deployed automatically on Vercel." },
               ].map((item, i) => (
                 <div key={i} className="flex gap-6 mb-8 relative">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-primary flex items-center justify-center text-primary-foreground text-xs font-bold z-10">
@@ -193,7 +193,7 @@ export default function AboutPage() {
                     GitHub
                   </a>
                   <a
-                    href="https://autobrief-ai.netlify.app"
+                    href={SITE_URL}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
