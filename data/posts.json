@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260822-059",
+    "title": "Cris Cyborg’s title not at stake after Ketlen Vieira misses weight",
+    "slug": "cris-cyborg-s-title-not-at-stake-after-ketlen-vieira-misses-weight",
+    "content": "Cris “Cyborg” Justino’s feather‑weight world title bout at the Professional Fighters League (PFL) event in Tampa on Saturday will no longer be contested for the championship after her scheduled opponent, Ketlen Vieira, failed to make the required weight limit. The fight, originally billed as a title defense for the Brazilian veteran, will proceed as a non‑title bout following the weigh‑in results.\n\nPFL officials confirmed that Vieira’s excess weight disqualified the contest from being a championship match, and the organization will enforce the standard penalties for missing weight, including a fine and a portion of her purse being awarded to Cyborg. The change does not affect the fighters’ contracts or the overall card, and the bout will still be featured as part of the league’s regular season schedule.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/22/2026 12:32:21",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-058",
+    "title": "UK recycling centres lose £1bn annually to lithium battery fires",
+    "slug": "uk-recycling-centres-lose-1bn-annually-to-lithium-battery-fires",
+    "content": "Experts report that fires ignited by improperly discarded lithium batteries—commonly found in vapes—are now occurring at waste facilities at a rate exceeding ten incidents per week. The new figures highlight a growing safety concern as these battery‑related blazes threaten the lives of workers and nearby residents.\n\nThe volume of such fires has reached a crisis level, according to fire safety specialists, with annual costs estimated at £1 billion. Fire chiefs have expressed frustration over the frequency and severity of the incidents, noting that the rapid spread of lithium‑battery fires complicates emergency response and increases the risk of injury and property damage.\n\nAuthorities are reviewing current disposal regulations and encouraging stricter compliance to curb the trend. The situation underscores the need for improved public awareness and more robust waste‑management protocols for high‑energy batteries.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/22/2026 12:32:16",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-057",
+    "title": "OpenAI cuts GPT‑5.6 Sol price by 20%",
+    "slug": "openai-cuts-gpt-5-6-sol-price-by-20",
+    "content": "OpenAI has announced the launch of a new language model, GPT‑5.6, which is now available through its API. The update, detailed on the company’s developer documentation site, introduces a “sol” variant that offers refined performance on a range of natural‑language tasks, including text generation, summarization, and code synthesis. According to the release notes, GPT‑5.6 builds on the architecture of its predecessor, GPT‑5, with optimizations that reduce inference latency and improve context handling for longer prompts.\n\nThe model is positioned as a drop‑in replacement for earlier versions, with developers encouraged to test it against their existing workloads. OpenAI highlights that GPT‑5.6 achieves higher accuracy on benchmark datasets such as MMLU and OpenBookQA, while also incorporating enhanced safety mitigations to curb hallucinations and reduce bias. The announcement has sparked discussion on Hacker News, where the post has attracted 38 up‑votes and 20 comments, with users evaluating the practical gains in performance and the cost implications of adopting the new model.\n\nWhile the exact pricing tier for GPT‑5.6 remains to be confirmed, the release underscores OpenAI’s ongoing commitment to iterative improvements in its language models. The company has stated that the new variant will be available to all API customers in the coming weeks, and it is expected to influence a broad spectrum of applications—from conversational agents to automated content creation—by providing more reliable and contextually aware outputs.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 12:32:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-056",
+    "title": "Canada to Match US Tariffs Dollar for Dollar, Says Finance Minister",
+    "slug": "canada-to-match-us-tariffs-dollar-for-dollar-says-finance-minister",
+    "content": "Toronto – In recent weeks, Canada has moved forward in negotiations aimed at securing what officials describe as “the best deal in the world” with the United States, according to Mark Carney, former governor of the Bank of Canada and current special envoy on trade. Carney highlighted a series of incremental agreements on tariffs, regulatory alignment, and cross‑border investment that have narrowed gaps identified in earlier rounds of talks. The advances, he noted, reflect a concerted effort by both governments to strengthen economic ties and address lingering issues such as agricultural market access and digital trade provisions.\n\nDespite the progress, Carney cautioned that the gains fall short of the objectives set for Canadian stakeholders. He emphasized that the current trajectory does not fully meet the expectations for job creation, price stability, and broader economic benefits that were outlined at the outset of the negotiations. The statement underscores the need for further dialogue and potential concessions before a final agreement can be ratified, signaling that while momentum exists, additional work remains to align the deal with Canada’s strategic priorities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 12:32:06",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-055",
+    "title": "Panama Canal to Reduce Daily Ship Transits Starting September",
+    "slug": "panama-canal-to-reduce-daily-ship-transits-starting-september",
+    "content": "The Panama Canal Authority announced that the waterway will reduce its daily ship transits beginning in September as persistent low rainfall and an intensifying El Niño event diminish reservoir levels. The cutback, which will lower the maximum number of vessels allowed to cross each day, is intended to conserve water while maintaining safe navigation standards across the canal’s locks.\n\nOfficials indicated that the reduction will remain in effect until water levels stabilize, with the authority monitoring rainfall and reservoir data on a weekly basis. The adjustment is expected to affect global shipping schedules, prompting carriers to consider alternative routes or adjust cargo loads. The canal, which handles roughly 5 percent of world trade, emphasized that the measure is a temporary response to the climatic conditions and that operations will resume normal capacity once sufficient water is restored.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 12:32:01",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-054",
+    "title": "Assam floods cause multiple deaths and missing persons",
+    "slug": "assam-floods-cause-multiple-deaths-and-missing-persons",
+    "content": "Heavy rains over the past week have turned rivers into raging torrents across the [region], prompting emergency services to launch large‑scale rescue operations and leaving a growing death toll in their wake. Local officials confirmed that dozens of people have been killed or remain missing, with floodwaters inundating homes, roads and critical infrastructure. Among the victims, a father continues to search for the body of his 8‑year‑old daughter, while another resident lost his life after drowning while attempting to pull a friend from the swollen creek.\n\nAuthorities have deployed helicopters, boats and ground crews to evacuate stranded residents and to recover bodies, while shelters have been set up for thousands of displaced families. The disaster response team warned that rising water levels could persist for several more days, urging communities to heed evacuation orders and avoid entering flood‑affected zones. As recovery efforts intensify, officials say the full extent of the damage will be assessed in the coming weeks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 12:31:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-053",
+    "title": "China launches Chang'e-7 mission to study lunar ice",
+    "slug": "china-launches-chang-e-7-mission-to-study-lunar-ice",
+    "content": "China’s upcoming lunar probe, Chang’e‑7, is slated to launch later this year with the primary objective of investigating water ice deposits in the Moon’s permanently shadowed craters. The spacecraft will enter a low‑altitude polar orbit, allowing its suite of spectrometers, radar, and thermal imagers to map the distribution and abundance of volatiles within the permanently dark regions of the lunar south pole. By conducting in‑situ measurements and high‑resolution remote sensing, the mission aims to quantify the quantity of water trapped in regolith and assess its accessibility for future exploration.\n\nThe data gathered by Chang’e‑7 will complement previous findings from missions such as NASA’s Lunar Reconnaissance Orbiter and India’s Chandrayaan‑3, providing a more detailed picture of lunar water resources. Scientists anticipate that a clearer understanding of these deposits could inform the planning of sustainable human presence on the Moon, including the development of in‑situ resource utilization technologies. The mission’s results are expected to be released to the international scientific community within a year of the probe’s arrival, offering new insights into the Moon’s volatile inventory and its implications for future space endeavors.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 12:31:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-051",
     "title": "Maddison credits twins for distraction from ACL injury",
     "slug": "maddison-credits-twins-for-distraction-from-acl-injury",
@@ -5420,83 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/19/2026 10:22:27",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-070",
-    "title": "US Imposes Sanctions on ICC President and Lawyer",
-    "slug": "us-imposes-sanctions-on-icc-president-and-lawyer",
-    "content": "The United States has announced sanctions against two high‑profile figures associated with the International Criminal Court (ICC).  President Tomoko Akane, who heads the court’s executive board, and Abdoulaye Seye, a prominent trial lawyer, were targeted in a coordinated move that the U.S. Treasury Department described as a response to “unlawful conduct” linked to ICC operations.  \n\nUnder the new measures, both individuals are placed on the Office of Foreign Assets Control’s Specially Designated Nationals list, prohibiting U.S. persons from conducting business with them and freezing any assets under U.S. jurisdiction.  The Treasury cited allegations that Akane and Seye engaged in activities that undermined U.S. foreign policy objectives and violated international sanctions regimes, though specific details of the alleged violations were not disclosed in the public statement.  \n\nThe sanctions are part of a broader U.S. strategy to curb what it views as the ICC’s overreach and to protect U.S. interests in international criminal justice.  The move is expected to restrict the sanctioned individuals’ ability to travel to the United States and to engage in financial transactions with U.S. entities, while also signaling a broader diplomatic stance toward the court’s leadership and legal staff.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:22:21",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-069",
-    "title": "UAE Imposes Indefinite Embargo on Iran Over Alleged Missile Attacks",
-    "slug": "uae-imposes-indefinite-embargo-on-iran-over-alleged-missile-attacks",
-    "content": "Iran has officially denied responsibility for a missile launch that was reported to have struck the United Arab Emirates (UAE). In a statement released by the Iranian foreign ministry, Tehran said the incident was a “false flag operation” designed to mislead observers and create confusion about the source of the attack. The ministry added that no Iranian missiles were involved and that the claim was part of a broader propaganda effort.\n\nThe missile incident, which occurred on the evening of July 12 near the UAE’s eastern coast, was initially attributed to Iranian forces by UAE officials and some Western intelligence analysts. UAE authorities reported that the missile caused significant damage to coastal infrastructure but caused no casualties. The UAE’s foreign ministry condemned the attack and called for an international investigation, while U.S. officials reiterated their support for the UAE’s right to self‑defence.\n\nIran’s denial comes amid heightened tensions in the Gulf region, where sporadic missile tests and drone flights have raised concerns about regional security. While the UAE has not yet released independent verification of the missile’s origin, the Iranian statement underscores the complex dynamics of attribution and misinformation that can accompany military incidents in the area.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:22:15",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-068",
-    "title": "US unions file lawsuit against new visa limits for students and journalists",
-    "slug": "us-unions-file-lawsuit-against-new-visa-limits-for-students-and-journalists",
-    "content": "A new immigration regulation has been introduced that will limit the duration of certain non‑immigrant visas. Under the rule, student and exchange visitor visas will be capped at a maximum of four years, while most journalist visas will be restricted to 240 days. The change is part of a broader effort to streamline visa categories and address concerns about long‑term residency and employment among non‑immigrant entrants.\n\nThe four‑year limit applies to individuals who enter the United States on F‑1, M‑1, J‑1, and other student or exchange visitor categories. Journalists who typically hold B‑1 visas for business or J‑1 for specialized reporting will now be required to leave the country after 240 days, unless they qualify for an exemption or a different visa status. Officials say the adjustment aims to reduce the potential for visa holders to transition to permanent residency without proper oversight.\n\nThe rule is expected to affect thousands of international students and journalists who travel to the United States each year. While the policy is intended to tighten visa enforcement, critics warn it could disrupt academic programs and limit the flow of foreign media coverage. The new limits will take effect at the start of the fiscal year, and stakeholders are advised to review their visa plans accordingly.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:22:10",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-067",
-    "title": "Indonesian gym owner refuses service to Israeli tourists citing IDF links",
-    "slug": "indonesian-gym-owner-refuses-service-to-israeli-tourists-citing-idf-links",
-    "content": "A gym owner in Indonesia posted a video on social media in which he explained his decision to refuse service to three Israeli tourists who visited his facility. The video, which quickly garnered attention online, outlined the proprietor’s reasoning for the refusal, citing personal and political considerations that guided his actions.\n\nThe owner’s statement came amid ongoing public discourse in Indonesia regarding the country’s stance toward Israel, a nation with which Indonesia does not maintain formal diplomatic relations. Local authorities have not indicated any legal action against the gym owner, and the incident has prompted discussion on the balance between private business rights and anti‑discrimination norms within the nation’s tourism sector.\n\nThe episode highlights the sensitivities surrounding international visitors in regions where geopolitical tensions influence commercial interactions. Observers note that the case may contribute to broader conversations about the treatment of foreign guests and the extent to which personal convictions can affect service provision in Indonesia’s hospitality and fitness industries.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:22:04",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-066",
-    "title": "25 villagers killed in house-to-house attack in Nigeria's Plateau state",
-    "slug": "25-villagers-killed-in-house-to-house-attack-in-nigeria-s-plateau-state",
-    "content": "An armed assault on a village in Nigeria’s central Plateau state has left at least 25 people dead, local officials said. The attack, which took place in the early hours of the day, targeted residential homes and resulted in multiple fatalities and injuries, prompting an immediate response from state security forces who arrived on the scene to secure the area and begin rescue operations.\n\nPlateau state has a history of inter‑communal violence, often linked to disputes over land and resources, and authorities have repeatedly warned of the risk of further attacks. The governor’s office has pledged a thorough investigation and urged residents to cooperate with law‑enforcement agencies, while humanitarian groups have mobilised to provide medical aid and support to the affected families. No group has yet claimed responsibility for the incident.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:21:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-065",
-    "title": "South Korea reduces joint war games with United States after Washington request",
-    "slug": "south-korea-reduces-joint-war-games-with-united-states-after-washington-request",
-    "content": "President Donald Trump announced on Thursday that the United States will scale back the annual joint military exercises conducted with South Korea, arguing that the decision reflects a “very good” relationship with North Korean leader Kim Jong Un. The statement was made during a press briefing at the White House, where the president emphasized that the reduction in training activities is intended to support diplomatic engagement on the Korean Peninsula and to avoid unnecessary provocation.\n\nThe proposed curtailment marks a shift from a decades‑long practice of large‑scale combined drills that have been a cornerstone of the U.S.–South Korean alliance. South Korean officials expressed concern that scaling back the exercises could weaken deterrence against potential aggression, while senior U.S. defense advisers warned that reduced interoperability might compromise readiness. Analysts note that the move follows recent diplomatic overtures between Washington and Pyongyang, but it also introduces uncertainty about the future of security cooperation in the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/19/2026 10:21:52",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-059",
-    "title": "Wyoming secretary of state wins GOP primary for open House seat",
-    "slug": "wyoming-secretary-of-state-wins-gop-primary-for-open-house-seat",
-    "content": "Wyoming Secretary of State Chuck Gray (R) is projected to win the GOP primary for the state’s at‑large House seat, according to Decision Decision HQ.  The nonpartisan election handicapper Cook Political Report notes that the district leans solidly Republican, making the primary the decisive contest.  If Gray secures the nomination later this year, he will succeed Rep. Harriet Hageman (R‑Wyo.), who is running for re‑election to the seat.\n\nGray, who has served as Secretary of State since 2019 and previously held a seat in the state legislature, faces no serious challengers in the primary scheduled for June 4.  Hageman, the incumbent, has held the at‑large district since 2017 and is campaigning for a third term.  The primary outcome will determine the Republican nominee for the November general election,",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/19/2026 9:32:20",
-    "author": "The Hill",
     "isFeatured": false
   }
 ]
