@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260822-335",
+    "title": "Harvard Bootcamp Uses AI Avatars to Coach Startups",
+    "slug": "harvard-bootcamp-uses-ai-avatars-to-coach-startups",
+    "content": "Harvard Business School’s Foundry program has introduced AI avatars to provide real‑time feedback during practice pitches and simulated board meetings. The avatars, powered by advanced natural‑language processing and behavioral analytics, evaluate presentation style, content clarity, and persuasive techniques, offering suggestions that mirror the insights a seasoned investor or board member might give. Participants can rehearse multiple iterations, receiving data‑driven critiques on tone, pacing, and strategic framing before facing actual investors.\n\nThe initiative is part of Foundry’s broader effort to blend technology with experiential learning. By integrating AI‑generated feedback, the program aims to accelerate skill acquisition and reduce the variability that comes from relying solely on human coaches. Early pilots have shown that students who use the avatars report higher confidence levels and a clearer understanding of how to tailor their messaging to diverse stakeholder audiences.\n\nWhile the program remains in a testing phase, its success could signal a shift in executive education toward more scalable, tech‑enabled coaching models. If adopted widely, AI avatars may become a standard tool for entrepreneurs and executives seeking to refine their pitch and negotiation tactics in a controlled, data‑rich environment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 3:21:48",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-334",
+    "title": "Open-air cinema revives movie nights in Khartoum",
+    "slug": "open-air-cinema-revives-movie-nights-in-khartoum",
+    "content": "Families have begun gathering again at an open‑air cinema in Khartoum, marking a modest return to communal entertainment amid the city’s ongoing conflict. The temporary venue, set up in a fenced courtyard near the central district, screens popular Arabic and international films twice nightly and is managed by a local cultural association that secured permission from municipal authorities to operate under strict security protocols.\n\nOrganizers report that attendance has risen steadily since the venue reopened last month, with dozens of families citing the screenings as a rare opportunity for normalcy and brief respite from the war that has displaced thousands and disrupted daily life across Sudan’s capital. Security checkpoints, limited lighting and a curfew‑compliant schedule are intended to safeguard patrons, while volunteers distribute water and basic first‑aid supplies. The initiative reflects broader efforts by community groups to preserve cultural life despite the instability, offering a small but tangible sense of continuity for Khartoum’s residents.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 3:21:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-329",
     "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
     "slug": "drugs-at-their-fingertips-intense-pressure-why-child-stars-fall-into-addiction",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/20/2026 2:12:20",
     "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-620",
-    "title": "Rillet Secures $100M Series C, Reaches $1B Valuation",
-    "slug": "rillet-secures-100m-series-c-reaches-1b-valuation",
-    "content": "Rillet, an AI‑native account management startup, has reached unicorn status after its annual recurring revenue (ARR) doubled over the past three months, the company announced today. The valuation, led by investment firm ICONIQ, now places Rillet at a $1 billion market value, making it one of the fastest‑growing fintech firms in the AI‑accounting space.\n\nThe surge in ARR reflects Rillet’s expanding client base and the adoption of its AI‑driven workflow tools, which streamline financial operations for mid‑size businesses. ICONIQ’s leadership and capital infusion are expected to accelerate product development and geographic expansion, positioning Rillet to compete with larger incumbents in the automated accounting sector. The milestone underscores the growing investor confidence in AI‑powered fintech solutions.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/20/2026 2:12:01",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260819-619",
-    "title": "Five Americans and two others killed in Kenya safari helicopter crash",
-    "slug": "five-americans-and-two-others-killed-in-kenya-safari-helicopter-crash",
-    "content": "A safari helicopter carrying seven passengers crashed Wednesday morning in a remote area of northern Kenya, killing all aboard, officials said. Local police and the U.S. State Department confirmed that five of the victims were American citizens, and among the deceased were a senior executive of Telemundo, the Spanish‑language network owned by NBCUniversal, and the director of Ecuador’s national intelligence service.\n\nThe crash occurred in a sparsely populated region, and rescue teams were dispatched to the site shortly after the incident was reported. Authorities are conducting an investigation to determine the cause of the accident, while diplomatic representatives from the United States, Ecuador and other affected nations have been notified. The loss of the media executive and the Ecuadorian intelligence chief underscores the international dimension of the tragedy, and officials have pledged to cooperate fully with families and investigators as the inquiry proceeds.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 2:11:54",
-    "author": "Guardian World",
     "isFeatured": false
   }
 ]
