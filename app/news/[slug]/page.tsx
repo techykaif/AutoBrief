@@ -9,6 +9,8 @@ import { Badge } from "@/components/ui/badge"
 import { ArrowLeft, User, Calendar, Clock, BookOpen } from "lucide-react"
 import { getPostBySlug, getPostsByCategory, getAllPosts } from "@/lib/data-source"
 
+const SITE_URL = "https://autobrief-ai.vercel.app"
+
 export const revalidate = false
 
 // getAllPosts() now returns only the bounded "recent window" written by
@@ -77,7 +79,7 @@ export default async function NewsPostPage({ params }: PageProps) {
     description: post.content.substring(0, 160),
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://autobrief-ai.netlify.app/news/${post.slug}`,
+      "@id": `${SITE_URL}/news/${post.slug}`,
     },
   }
 
