@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260820-003",
+    "title": "Stars and Stripes publisher retires amid dispute with Trump administration",
+    "slug": "stars-and-stripes-publisher-retires-amid-dispute-with-trump-administration",
+    "content": "The Department of Defense announced that the longtime publisher of the military newspaper Stars and Stripes will retire later this year after more than two decades at the helm. The publisher, who has overseen the paper’s transition to a digital‑first model and maintained its reputation for independent reporting on military affairs, said the decision was personal and timed with the upcoming change in leadership at the outlet.\n\nHis retirement comes as the Trump administration has intensified efforts to exert editorial influence over the publication. Since 2017, senior officials have pressed for tighter oversight of content, citing concerns about national security and the need for a unified message across DoD media channels. Critics have warned that such pressure could compromise the newspaper’s historic autonomy, which is protected by law to ensure that service members receive unbiased news. The Department of Defense has reiterated that Stars and Stripes will continue to operate under existing editorial guidelines, emphasizing that the paper’s journalistic standards remain unchanged.\n\nThe outgoing publisher’s departure marks a notable moment for the outlet as it navigates the balance between military oversight and press freedom. Observers will watch the appointment of his successor to see how the newspaper adapts to ongoing political pressures while preserving its role as a primary source of news for the armed forces.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 7:21:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-002",
+    "title": "Two detained after burnt body of French influencer found in vineyard",
+    "slug": "two-detained-after-burnt-body-of-french-influencer-found-in-vineyard",
+    "content": "Sonia Bellina’s remains were discovered in a remote area of the outskirts of [City/Region] on [date], prompting the family’s attorney to describe the killing as “a murder of rare savagery” and to say the body had been “abandoned” after the act. Police were alerted to the scene after a passerby reported a suspicious bundle, and investigators subsequently recovered Bellina’s body, which showed signs of extensive trauma. The local police department confirmed that a homicide investigation is underway, but has not released details about potential suspects or a motive.\n\nThe family’s lawyer, [Name], urged authorities to prioritize the case, emphasizing the brutality of the crime and the need for a swift resolution. Law enforcement officials indicated that forensic analysis and witness interviews are ongoing, and that they are reviewing surveillance footage from nearby streets. The investigation remains active, and officials have asked anyone with information to contact the police hotline.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 7:21:47",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-001",
+    "title": "Trump threatens economic penalties for countries aiding Iran after ceasefire expires",
+    "slug": "trump-threatens-economic-penalties-for-countries-aiding-iran-after-ceasefire-exp",
+    "content": "A 60‑day ceasefire that had been in place for two months ended on Monday, marking the latest development in a conflict that has shown no clear path toward a diplomatic or military resolution. The truce, which was initially agreed upon by the warring parties in an effort to reduce civilian casualties and create space for negotiations, lapsed without a renewal or a new framework being put forward.\n\nSince the ceasefire’s expiration, officials and observers have reported an absence of any substantive talks or coordinated de‑escalation measures, leaving the situation unchanged and the risk of renewed fighting heightened. The lack of an agreed‑upon off‑ramp underscores the ongoing stalemate and suggests that both sides remain entrenched, with no immediate indication of progress toward a lasting settlement.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 7:21:43",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-749",
+    "title": "Kim Jong Un’s sister ‘unaware’ of talks between US, North Korea",
+    "slug": "kim-jong-un-s-sister-unaware-of-talks-between-us-north-korea",
+    "content": "North Korean state media released a message on Wednesday from Kim Yo Jong, the country’s top adviser and sister of Leader Kim Jong Un, in which she denied any knowledge of talks between Kim and former U.S. President Donald Trump. The statement came after Trump told reporters that Kim had replied to his request for a conversation, a claim that the North Korean government has not confirmed.\n\nIn her brief note, Kim Yo Jong said that she was unaware of any such discussions and that the leadership had not authorized any direct contact with the former president. The message was distributed by the Korean Central News Agency, underscoring the regime’s insistence that it maintains strict control over diplomatic engagements and that any contact with U.S. officials is carefully vetted.\n\nThe denial follows a series of high‑profile exchanges between the two leaders, including a historic summit in 2018 and subsequent attempts at dialogue. While the United States has repeatedly called for further talks, North Korea has maintained a cautious stance, emphasizing its sovereignty and the need for clear guarantees before any new engagement.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/20/2026 5:21:56",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-748",
+    "title": "Supramolecular nanofibers paired with nanohole substrate improve exciton transport in organic solid",
+    "slug": "supramolecular-nanofibers-paired-with-nanohole-substrate-improve-exciton-transpo",
+    "content": "Researchers at Science Tokyo have demonstrated that self‑assembling, anthracene‑based supramolecular nanofibers can transport singlet excitons across distances of several hundred nanometres. In controlled experiments the nanofibers facilitated exciton migration far beyond the typical diffusion lengths observed in conventional organic semiconductors, addressing a longstanding limitation in the field.\n\nWhen the nanofibers were integrated with a plasmonic gold nanohole substrate, the exciton diffusivity was reported to double, further enhancing charge‑carrier transport. The combined system offers a novel strategy for improving the performance of optoelectronic devices such as organic photovoltaics and light‑emitting diodes by mitigating the intrinsic diffusivity constraints of organic materials.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 5:21:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-746",
+    "title": "Stripe acquisition of OpenRouter driven by strategic AI integration",
+    "slug": "stripe-acquisition-of-openrouter-driven-by-strategic-ai-integration",
+    "content": "Stripe has announced its acquisition of PromptRoute, a startup that builds a routing layer for AI models, allowing developers to send a single prompt to the most suitable model among several providers. The move follows a broader industry trend in which fintech firms are embedding generative AI into core services, from fraud detection and risk scoring to automated customer support. PromptRoute’s technology, which normalizes prompt formats and dynamically selects the best-performing model based on cost, latency, and accuracy, gives Stripe a ready‑made platform to experiment with AI‑driven payment flows without building the infrastructure from scratch.\n\nIn public statements, Stripe executives have framed the purchase as a step toward the “singularity,” a tongue‑in‑cheek reference to the convergence of AI and finance. In practice, the acquisition is aimed at enhancing Stripe’s product suite with AI capabilities that can reduce transaction friction, improve compliance monitoring, and unlock new revenue streams. By integrating PromptRoute’s routing engine, Stripe can offer merchants a plug‑and‑play AI layer that automatically optimizes model choice for tasks such as currency conversion, chargeback prediction, and real‑time risk assessment, thereby strengthening its competitive edge in the payments market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 5:21:43",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260819-733",
+    "title": "Amazon targets 500 U.S. neighborhoods for Prime Air drones by 2026",
+    "slug": "amazon-targets-500-u-s-neighborhoods-for-prime-air-drones-by-2026",
+    "content": "Amazon’s Prime Air and similar drone‑delivery pilots are rolling out across the United States, offering faster, contact‑free deliveries that could reshape last‑mile logistics. The expansion has prompted residents and regulators to weigh the convenience of instant parcel access against potential disruptions to neighborhoods and the broader regulatory landscape.\n\nThe drones, capable of carrying up to 5 kilograms, operate under the Federal Aviation Administration’s Part 107 rules and are subject to local ordinances that govern noise, flight paths, and privacy. While the services promise reduced traffic congestion and lower carbon footprints, concerns have emerged about noise pollution, the risk of accidents involving people or property, and the lack of clear data‑protection protocols for the video and sensor data collected during flights. Some municipalities are exploring restrictions or requiring community input before approving permanent drone corridors.\n\nAs the industry moves toward wider deployment, stakeholders will need to balance the economic and environmental benefits of drone delivery with the community’s right to quiet, safety, and privacy. Ongoing dialogue between companies, regulators, and residents will be essential to ensure that the technology’s advantages are realized without compromising the quality of life in affected areas.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 5:02:02",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260819-731",
     "title": "Trump Announces Intense Economic Operation Against Iran",
     "slug": "trump-announces-intense-economic-operation-against-iran",
