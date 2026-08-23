@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260823-208",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "slug": "is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-complicated",
+    "content": "A growing number of published authors have discovered that their copyrighted works were incorporated into artificial intelligence training datasets without their knowledge or consent, prompting legal and industry scrutiny over intellectual property protections. As generative AI systems expand their commercial applications, writers and literary organizations are raising concerns that the unauthorized use of their creative output could diminish market demand for human-authored content. The issue has drawn attention from copyright advocates, publishers, and policymakers who are examining whether current legal standards adequately address the scale and nature of machine learning data collection.\n\nAI developers typically aggregate training material from publicly accessible internet sources, including digitized books, journals, and literary archives, often without obtaining licenses or providing compensation. While some technology companies maintain that this practice qualifies as fair use under existing copyright law, authors and rights holders argue that the mass reproduction and derivative generation of their works constitute infringement. Several high-profile lawsuits have been filed against major AI firms, with federal courts currently evaluating whether the training process violates copyright statutes or falls within legally permissible boundaries. In response, industry coalitions are urging legislative action that",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 21:02:14",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-206",
+    "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+    "slug": "zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+    "content": "Ukrainian President Volodymyr Zelensky has warned that holding national elections while the country remains in the midst of armed conflict would pose a serious threat to Ukraine’s stability. The statement came after a former defense minister publicly called for an election to be scheduled, a move that many officials and analysts have deemed premature.\n\nIn a recent opinion poll conducted by the Kyiv Institute of Sociology during the summer, only 15 percent of respondents expressed support for an election at this time. The poll’s findings suggest that a vast majority of Ukrainians view the current wartime conditions as unsuitable for a democratic process, echoing concerns raised by government officials about the logistical and security challenges that an election could entail.\n\nThe government’s caution underscores the broader debate over balancing democratic governance with national security during a period of intense military engagement. While the call for an election has sparked discussion, the prevailing public sentiment and the president’s warning indicate that any move toward voting will likely be postponed until the conflict subsides.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 21:02:03",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-205",
+    "title": "Thousands rally in Stockholm to demand stronger climate action ahead of Swedish election",
+    "slug": "thousands-rally-in-stockholm-to-demand-stronger-climate-action-ahead-of-swedish",
+    "content": "A large climate demonstration took place in Stockholm on Sunday, drawing an estimated 10,000 participants who called for more decisive action on climate change. The rally occurred weeks before the country’s general election, adding a sense of urgency to the message. The event was organized by a coalition of environmental groups that have been critical of recent government policies.\n\nOrganizers accused the Swedish government of weakening its emissions‑reduction strategy and urged lawmakers to accelerate efforts to meet the nation’s climate targets. The protest was bolstered by the presence of prominent climate activist Greta Thunberg, who joined the march to underscore the importance of swift policy change. Participants highlighted the need for stronger regulatory measures and a faster transition to renewable energy sources.\n\nThe rally underscored the growing public pressure on Swedish politicians to prioritize climate action ahead of the upcoming election. While the government has pledged to meet its commitments, critics argue that the pace of implementation remains insufficient, calling for immediate and robust policy reforms.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 21:01:58",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-204",
+    "title": "Russia Faces Fuel Shortage Amid Attacks on Refineries",
+    "slug": "russia-faces-fuel-shortage-amid-attacks-on-refineries",
+    "content": "Attacks on several Russian oil refineries have sharply reduced domestic fuel supplies, leaving petrol stations with empty pumps and drivers facing prolonged queues. The disruptions, attributed to Ukrainian drone strikes and sabotage, have curtailed output at key processing facilities, prompting the government to impose temporary export bans and to tap strategic reserves in an effort to stabilise the market. Despite these measures, analysts note that the shortfall is expected to persist through the winter months, exacerbating logistical challenges for both civilian commuters and commercial transport across the country.\n\nA group of dissident Russian economists argues that the growing public frustration over fuel scarcity could translate into broader opposition to the war in Ukraine. They contend that widespread inconvenience and rising living costs may erode popular support for the Kremlin’s military strategy, potentially creating pressure for a diplomatic resolution. While the economists caution that the link between economic hardship and political change is not deterministic, they highlight the fuel shortage as a tangible factor that could influence public sentiment and, consequently, the trajectory of the conflict.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 21:01:54",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-203",
+    "title": "France links heatwave to surge in drownings, 301 dead since June 19",
+    "slug": "france-links-heatwave-to-surge-in-drownings-301-dead-since-june-19",
+    "content": "A government minister warned on Tuesday that many people have been taking unnecessary risks by entering bodies of water, a behavior that has contributed to a sharp rise in fatalities. Since 19 June, officials have recorded 301 deaths linked to drowning or water‑related incidents, prompting renewed calls for heightened public awareness and stricter safety measures.\n\nThe minister emphasized that the surge in casualties coincides with a period of unusually warm weather and increased recreational activity near rivers, lakes and coastal areas. Authorities are urging residents and visitors to heed local advisories, use designated swimming zones, and avoid swimming alone or under hazardous conditions. The government says it will intensify patrols and public‑education campaigns to reduce the number of preventable deaths.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 21:01:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260823-199",
     "title": "China delays Chang'e 7 mission to moon's south pole due to storm",
     "slug": "china-delays-chang-e-7-mission-to-moon-s-south-pole-due-to-storm",
@@ -5442,61 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/20/2026 18:42:10",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-221",
-    "title": "Bangladesh government faces youth job protests amid energy crisis and price hikes",
-    "slug": "bangladesh-government-faces-youth-job-protests-amid-energy-crisis-and-price-hike",
-    "content": "Six months after Tariq Rahman assumed office as Bangladesh’s prime minister, the country is confronting a sharp energy shortfall accompanied by a noticeable rise in consumer prices. The Ministry of Power, Energy and Mineral Resources reported that national electricity generation fell 8 percent below projected levels in the first half of the fiscal year, prompting rolling blackouts in major urban centers and disrupting industrial output.\n\nIn response, the Rahman administration has accelerated negotiations for additional liquefied natural gas shipments, approved a temporary surcharge on electricity bills, and sought a $1.2 billion loan from the Asian Development Bank to fund renewable‑energy projects. Inflation data released by the Bangladesh Bureau of Statistics showed a 6.4 percent year‑on‑year increase in the consumer price index, driven largely by higher costs for fuel, food and transport. Analysts note that the combined pressure of power constraints and price hikes could strain household budgets and slow economic growth, while the government’s fiscal measures aim to stabilize supply and curb inflation in the coming months.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 18:42:03",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-220",
-    "title": "South Korea conducts nationwide air raid drill alongside US exercises",
-    "slug": "south-korea-conducts-nationwide-air-raid-drill-alongside-us-exercises",
-    "content": "Seoul announced that the Republic of Korea’s armed forces launched a nationwide air‑raid simulation drill on Tuesday, timing the exercise to run alongside the annual joint military training with United States forces. The operation, coordinated by the Ministry of National Defense, involved the activation of air‑defence warning systems, the deployment of fighter aircraft, and the mobilization of ground troops across all eight provinces.\n\nThe drill, dubbed “Operation Sky Shield,” simulated a scenario in which hostile aircraft entered South Korean airspace, prompting a coordinated response from the Republic of Korea Air Force, the Army’s anti‑aircraft units, and the U.S. Pacific Air Forces. Participants practiced radar tracking, missile launch procedures and civilian alert protocols, while emergency services conducted mock evacuations in several major cities. The exercise follows a series of heightened alerts in the region and is intended to demonstrate readiness against potential aggression.\n\nOfficials said the combined training aims to enhance interoperability between the two allies and to reinforce deterrence amid ongoing security concerns on the Korean Peninsula. The drills are scheduled to conclude later this week, after which a joint assessment will be conducted to evaluate performance and identify areas for improvement.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 18:41:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-219",
-    "title": "Lebanon extradites former Syrian general Adel Issa to Syria on war crimes charges",
-    "slug": "lebanon-extradites-former-syrian-general-adel-issa-to-syria-on-war-crimes-charge",
-    "content": "Beirut authorities transferred former Syrian army officer Adel Issa to Damascus on Tuesday, marking the latest development in Syria’s intensified campaign to apprehend officials linked to the pre‑2011 regime. Issa, who held the rank of general under Hafez al‑Assad and was later dismissed after the 2011 uprising, had been residing in Lebanon for several years under a provisional protection arrangement. Lebanese officials said the handover was carried out in accordance with a bilateral security agreement and followed a formal request from Syrian prosecutors, who allege that Issa participated in actions that constitute crimes against the state.\n\nThe transfer comes as Damascus steps up efforts to locate and prosecute a broader list of former regime figures, a move that has drawn both domestic support in Syria and criticism from international observers concerned about due‑process guarantees. Human‑rights groups have warned that many of the individuals targeted are subject to politically motivated charges and that the legal mechanisms employed may fall short of international standards. Lebanon’s cooperation underscores a growing alignment between the two neighboring governments on security matters, while also highlighting the delicate balance Beirut must maintain between regional pressures and adherence to legal norms.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 18:41:53",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-204",
-    "title": "Nottingham Forest 2026-27 Premier League preview predicts 11th‑place finish",
-    "slug": "nottingham-forest-2026-27-premier-league-preview-predicts-11th-place-finish",
-    "content": "The 2023‑24 Premier League campaign has left Nottingham Forest in a state of flux, with four different managers steering the club over the course of the season. The club’s supporters now turn their hopes toward newly appointed head coach Oliver Glasner, who is expected to bring much‑needed stability after a turbulent period of leadership changes.  \n\nGuardian writers have projected a 11th‑place finish for Forest this season, a significant improvement over the club’s 16th‑place result last year. The average of the writers’ predictions, which excludes the individual forecast of Will Unwin, reflects a cautious optimism that Glasner’s appointment could translate into a higher league standing and a more consistent performance on the pitch.  \n\nIf Glasner can establish a coherent tactical identity and maintain a stable squad environment, Forest may well surpass its previous season’s outcome. The club’s management and fan base alike will be watching closely to see whether the new coach can deliver the steadiness that has been sorely lacking in recent months.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/20/2026 17:21:50",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-187",
-    "title": "Tibetan exiles protest in New Delhi against China's Ethnic Unity and Progress Law",
-    "slug": "tibetan-exiles-protest-in-new-delhi-against-china-s-ethnic-unity-and-progress-la",
-    "content": "Hundreds of Tibetan exiles assembled in New Delhi on Thursday, 20 August, to protest China’s recently enacted Ethnic Unity and Progress Law. The gathering, organized by Tibetan community groups, aimed to draw international attention to the law’s provisions that the protesters say undermine cultural and religious freedoms for ethnic minorities in China.\n\nThe law, approved by Beijing’s National People's Congress in June, is portrayed by the Chinese government as a framework for national cohesion and economic development. Critics argue that its broad definitions of “ethnic unity” could be used to suppress distinct cultural identities and restrict religious practices, particularly for Tibetan Buddhists. The Delhi protest, which included speeches, chants, and a symbolic display of Tibetan flags, echoed similar demonstrations in other diaspora hubs and underscored ongoing tensions between the Chinese state and the Tibetan exile community.\n\nWhile the protest did not result in immediate policy changes, it reinforced the exiles’ call for international scrutiny of China’s minority policies. The event also highlighted the continued role of the Indian capital as a focal point for Tibetan activism, as organizers plan further outreach to global human‑rights bodies in the coming weeks.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 17:11:56",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
