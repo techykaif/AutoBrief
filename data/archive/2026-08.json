@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260820-270",
+    "title": "German police identify suspected neo-Nazi in 1970 Munich Jewish centre fire",
+    "slug": "german-police-identify-suspected-neo-nazi-in-1970-munich-jewish-centre-fire",
+    "content": "Investigators announced that they have likely identified the individual responsible for the 1970 arson attack on a Jewish community centre in Munich that resulted in seven fatalities. The breakthrough follows a renewed review of cold‑case files, forensic evidence and witness statements, prompting authorities to name a suspect for the first time since the crime occurred over five decades ago.\n\nThe 1970 fire, which devastated the centre and claimed the lives of seven members of the local Jewish community, remained unsolved despite extensive inquiries in the years that followed. Recent advances in forensic technology and the re‑examination of archival material have led police to focus on a former extremist with documented anti‑Jewish activity in the late 1960s. Prosecutors are evaluating the evidence to determine whether charges can be filed, while the identification offers a measure of closure to survivors and families affected by the tragedy.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 19:31:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-259",
+    "title": "Fans petition for FIFA president Gianni Infantino to resign",
+    "slug": "fans-petition-for-fifa-president-gianni-infantino-to-resign",
+    "content": "Fans worldwide have launched a petition demanding the resignation of Gianni Infantino as FIFA president and calling for a wholesale overhaul of the organisation. The appeal, signed by supporters from several continents, argues that Infantino has “lost the right to lead” and that the governing body must be restructured to restore confidence among the global football community. The petition was issued after a series of controversies that have eroded trust in the federation’s leadership.\n\nInfantino’s position has weakened further after he was forced to abandon plans to secure private investment for the running of FIFA tournaments, including the men’s and women’s World Cups. The proposed partnership, which would have introduced commercial stakeholders to help finance and manage the events, was met with criticism over concerns about transparency and the influence of external interests. The cancellation of the initiative has intensified scrutiny of Infantino’s leadership style and decision‑making processes, prompting calls from fan groups for a more accountable and transparent governance structure.\n\nThe petition underscores a growing demand for reform within FIFA, reflecting widespread dissatisfaction with the current administration. While no immediate action has been announced, the pressure from supporters and stakeholders suggests that the federation may face significant challenges in maintaining its authority and credibility in the near future.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/20/2026 19:01:46",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-239",
+    "title": "Risk Engineering article shared on Hacker News",
+    "slug": "risk-engineering-article-shared-on-hacker-news",
+    "content": "A new piece published on the Risk‑Engineering.org website has recently attracted attention on Hacker News, where it was posted under the item ID 49372661. The post received six up‑votes and one comment, indicating a modest but focused interest from the community. The article itself appears to outline contemporary approaches to risk assessment and mitigation in engineering projects, though the exact title and author are not specified in the available metadata.\n\nThe discussion on Hacker News was brief, with the single comment suggesting a question about the applicability of the proposed risk‑engineering framework to large‑scale infrastructure projects. The article’s placement on Risk‑Engineering.org suggests it is aimed at professionals seeking to update their knowledge of best practices in identifying, quantifying, and managing engineering risks. The piece likely draws on recent case studies and industry standards to illustrate its points.\n\nWhile the engagement level remains low, the post’s presence on a high‑traffic technology forum underscores the ongoing relevance of risk engineering in today’s complex engineering landscape. The modest reception may reflect either the niche nature of the topic or the need for broader dissemination to reach a wider audience of engineers and project managers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 18:51:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-226",
+    "title": "Germany Reports 14,000 Heat-Related Deaths This Summer",
+    "slug": "germany-reports-14-000-heat-related-deaths-this-summer",
+    "content": "Berlin has recorded roughly 14,000 heat‑related deaths this summer, according to official data released Thursday. The figure reflects the city’s experience during a prolonged heatwave that pushed temperatures to record highs, resulting in a sharp increase in mortality among vulnerable populations.\n\nThe spike in Berlin mirrors a broader trend across Europe, where heat‑related deaths have surged as the continent has faced historically high temperatures. Climate scientists attribute the intensity and frequency of these heatwaves to human‑driven climate change, which amplifies heat stress and exacerbates health risks for residents in affected regions.\n\nThese developments underscore the urgent need for public health interventions and climate adaptation strategies. Authorities are monitoring the situation closely while urging communities to adopt measures that reduce heat exposure and protect at‑risk groups.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 18:42:39",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-225",
+    "title": "Iran drafts bill to criminalize contacts with foreign institutions and media",
+    "slug": "iran-drafts-bill-to-criminalize-contacts-with-foreign-institutions-and-media",
+    "content": "A new bill introduced in Iran’s legislative body would tighten the country’s already restrictive media environment by imposing sweeping penalties on individuals and organizations that maintain ties with foreign institutions or engage with foreign‑based media outlets. The proposed legislation expands the scope of existing sanctions, making it harder for journalists, academics, and civil society actors to collaborate internationally or to share information beyond Iran’s borders.\n\nUnder the draft, any contact with foreign media—whether through interviews, social‑media posts, or distribution of foreign‑produced content—could trigger fines, imprisonment, or revocation of professional licenses. The bill also targets foreign‑affiliated research groups, universities, and NGOs, threatening to curtail academic exchanges and joint projects that have previously facilitated knowledge transfer into the country. Lawmakers argue the measure is intended to safeguard national security, while critics warn it will further isolate Iran from global discourse.\n\nIf passed, the legislation would deepen the information bottleneck that already limits citizens’ access to diverse viewpoints. By criminalizing foreign media engagement, the Iranian government would effectively widen the digital and intellectual divide, potentially stifling investigative reporting and academic inquiry within the nation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 18:42:32",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-224",
     "title": "Bangladesh Elects BNP Leader Alamgir as President",
     "slug": "bangladesh-elects-bnp-leader-alamgir-as-president",
