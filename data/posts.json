@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260823-036",
+    "title": "Restriction zone scheme for offenders to start in October",
+    "slug": "restriction-zone-scheme-for-offenders-to-start-in-october",
+    "content": "Authorities are implementing strict geographic restrictions for serious violent and sexual offenders transitioning from incarceration to probation. Under these measures, individuals convicted of severe crimes may be limited to living and operating within a designated radius of just a few miles from their court-approved residence. The policy is designed to enhance community safety while maintaining intensive supervision during the critical post-release period.\n\nThe geographic confinement is enforced through standardized probation conditions that require offenders to remain within established boundaries, typically monitored via electronic tracking devices and scheduled meetings with probation officers. Officials note that restricting movement reduces opportunities for reoffending and allows supervision staff to maintain consistent oversight of high-risk individuals. Probation departments evaluate each case individually, considering offense severity, validated risk assessments, and the availability of local support services before determining the specific perimeter.\n\nWhile the restrictions aim to balance public protection with structured reentry, they also create logistical hurdles for offenders seeking employment, treatment, and stable housing within confined zones. Correctional and probation agencies continue to adjust these geographic limitations as part of broader strategies to manage high-risk",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 10:42:37",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-035",
+    "title": "Mayors to get powers to overrule local councils on planning decisions",
+    "slug": "mayors-to-get-powers-to-overrule-local-councils-on-planning-decisions",
+    "content": "Housing Minister Matthew Pennycook announced that a recent legislative change is “essential” for helping mayors “effectively deliver new homes,” underscoring the government’s commitment to boosting the UK’s housing supply. The reform, part of the Housing Delivery Act 2023, expands the powers of local mayors over planning decisions, allowing them to fast‑track applications that meet national affordability and sustainability targets.\n\nUnder the new framework, mayors can now set local planning priorities, streamline approval processes, and impose conditions that align with broader housing strategies. The minister noted that these tools will enable councils to respond more swiftly to demand, reduce bureaucratic delays, and ensure that development projects meet the standards required for long‑term community benefit. By centralising decision‑making at the mayoral level, the government aims to create a more coherent and efficient pathway for new homes across the country.\n\nPennycook concluded that the enhanced mayoral powers will accelerate the construction of affordable housing, support local economic growth, and help the UK meet its ambitious targets for new homebuilding. The move is expected to bring greater clarity and speed to the planning system, ultimately delivering tangible benefits to communities in need of new homes.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 10:42:30",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-029",
+    "title": "Golden Rule to Improve Writing Skills",
+    "slug": "golden-rule-to-improve-writing-skills",
+    "content": "A recent post on the Napper Time blog, titled “The Golden Rule of Becoming a Better Writer,” outlines a straightforward principle that the author argues can dramatically improve a writer’s clarity and effectiveness. The article explains that the rule—essentially treating every piece of writing as if it were a conversation with a single, well‑defined reader—helps authors avoid unnecessary jargon, maintain focus, and keep their prose engaging. By constantly asking “Would this be clear to a friend who knows nothing about my topic?” the writer is encouraged to simplify explanations, structure arguments logically, and eliminate redundant information.\n\nThe piece was shared on Hacker News, where it garnered five up‑votes and one comment, suggesting that while the idea resonated with a niche audience of writers and developers, it did not spark widespread debate. The comment thread briefly touched on the practicality of the rule in technical documentation and creative writing, noting that the same principle can be applied across genres. The author also cites a few classic writers who exemplified this approach, reinforcing the rule’s historical relevance.\n\nIn conclusion, the Napper Time article presents a concise, actionable guideline that many writers can adopt to sharpen their work. By focusing on the reader’s perspective, the golden rule encourages precision and readability, qualities that are valuable in both professional and creative contexts. The modest engagement on Hacker News indicates that while the concept is appreciated, it remains one of many tools writers may choose to incorporate into their craft.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 10:42:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-028",
+    "title": "Microsoft Blames RGB Lighting Devices for Windows Gaming Issues",
+    "slug": "microsoft-blames-rgb-lighting-devices-for-windows-gaming-issues",
+    "content": "Microsoft has identified that certain RGB lighting devices are responsible for a wave of gaming‑related issues on Windows, according to a statement released by the company and reported by BleepingComputer.  The company said that drivers from third‑party lighting hardware—such as those produced by Corsair, Razer, and other popular brands—can interfere with the Windows graphics stack, causing crashes, stuttering and other performance problems in games.  Microsoft’s investigation found that the conflicts arise when the lighting firmware attempts to communicate with the GPU driver, leading to instability in the Windows 11 gaming environment.\n\nTo address the problem, Microsoft has urged users to either disable RGB lighting or update the device’s firmware to the latest version, noting that many vendors have already released fixes that eliminate the driver clashes.  The company is working closely with hardware manufacturers to ensure that future lighting drivers are fully compatible with the Windows graphics stack, and it has promised a system update that will mitigate the issue for affected users.  The announcement comes amid growing reports from gamers that performance hiccups are linked to lighting peripherals rather than the operating system itself.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 10:42:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-027",
+    "title": "Covid-19 scandal continues to unfold, Economist reports",
+    "slug": "covid-19-scandal-continues-to-unfold-economist-reports",
+    "content": "**The COVID‑19 scandal continues to unfold**\n\nNew evidence released this week has reignited debate over the United States’ pandemic response, revealing a series of missteps that were previously kept out of the public eye. A trove of internal memos and emails, obtained through a Freedom of Information Act request, shows that federal agencies delayed critical data sharing with state health departments and that key decision‑makers were aware of vaccine supply shortages long before the public was informed. The documents also document a pattern of inconsistent messaging from senior officials, which critics argue contributed to widespread confusion and eroded public trust.\n\nThe revelations come as a panel of independent experts convenes to review the handling of the pandemic. The panel’s preliminary report cites a lack of coordinated strategy, inadequate testing infrastructure, and a failure to enforce mask mandates in high‑risk settings. In addition, whistleblowers from the Centers for Disease Control and Prevention have testified that internal audits were suppressed to avoid political fallout. These findings have prompted calls for congressional oversight and a comprehensive audit of federal pandemic spending.\n\nIf the investigation proceeds as outlined, lawmakers could face pressure to enact reforms that would strengthen emergency preparedness and transparency. While the full scope of the scandal remains unclear, the unfolding story underscores the need for robust accountability mechanisms in future public health crises. The outcome of the inquiry will likely shape how the United States plans for and responds to pandemics for years to come.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 10:42:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-026",
+    "title": "Crypto executive missing for four years, successor now under scrutiny",
+    "slug": "crypto-executive-missing-for-four-years-successor-now-under-scrutiny",
+    "content": "Poland and Estonia announced a bilateral partnership on Thursday aimed at harmonising their approaches to cryptocurrency regulation and fostering cross‑border digital‑asset services. The agreement, signed in Warsaw by the Polish Ministry of Finance and Estonia’s Ministry of Economic Affairs, establishes a joint working group to develop common standards for anti‑money‑laundering (AML) compliance, consumer protection, and licensing of crypto‑exchange platforms operating in both countries. Officials said the collaboration will also explore the creation of a shared sandbox environment where fintech firms can test blockchain‑based solutions under coordinated supervisory oversight.\n\nThe initiative comes as both nations seek to position themselves as competitive hubs for digital‑finance innovation within the European Union, while aligning with forthcoming EU directives on crypto‑assets. By pooling regulatory expertise and facilitating seamless market access, the partnership is expected to attract investment from domestic and international firms and reduce operational barriers for existing providers. The working group is slated to deliver its first set of recommendations by the end of 2027, with the possibility of expanding the framework to include additional EU members in the future.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 10:41:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-025",
+    "title": "Sinaloa governor Ruben Rocha Moya seeks leave amid US drug trafficking charges",
+    "slug": "sinaloa-governor-ruben-rocha-moya-seeks-leave-amid-us-drug-trafficking-charges",
+    "content": "Sinaloa’s governor, Rubén Rocha Moya, has submitted a request for a second leave of absence just days after resuming his duties, as authorities continue to investigate him on drug‑trafficking allegations. The request, filed with the state’s legislative assembly on Thursday, cites personal health reasons, though officials note it coincides with a federal prosecutor’s indictment that accuses the former mayor of Tijuana of facilitating the movement of narcotics through the state’s ports and highways.\n\nThe indictment, unsealed earlier this month, alleges that Rocha Moya used his political influence to shield cartel operations and received financial benefits in exchange for protection. He had previously taken a temporary leave in March to address the same accusations, returning to office in early August after a brief judicial review. The new request has reignited calls from opposition legislators and civil‑society groups for a permanent suspension or impeachment, while legal experts say the case will likely proceed through the federal courts, potentially barring him from holding public office if convicted.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 10:41:50",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-024",
+    "title": "Sydney Marathon medals feature incorrect German stadium engraving",
+    "slug": "sydney-marathon-medals-feature-incorrect-german-stadium-engraving",
+    "content": "Runners participating in the 2026 Sydney Marathon will be presented with a commemorative medal that bears an engraving of Germany’s iconic Olympiastadion in Berlin. The decision, announced by the event’s organizing committee in March, aims to celebrate the marathon’s growing international partnerships and to highlight the historic venue’s architectural legacy.\n\nThe medal, produced by a local Australian mint in collaboration with German design firm Studio Kraft, features a detailed relief of the Olympiastadion’s distinctive sweeping roof and the 1936 Olympic rings, alongside the Sydney Harbour Bridge motif on the reverse side. Organizers said the dual‑nation motif reflects the marathon’s inclusion of a “global circuit” segment, which will see elite athletes from Europe and Australia compete side by side. The 2026 race, scheduled for October 10, is expected to attract over 15,000 participants, and the new medal will be awarded to all finishers as a token of the event’s cross‑continental collaboration.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 10:41:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260823-023",
     "title": "NAACP President condemns Navy's reported plan to replace Doris Miller carrier name with Trump",
     "slug": "naacp-president-condemns-navy-s-reported-plan-to-replace-doris-miller-carrier-na",
@@ -5409,94 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/20/2026 7:22:51",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-016",
-    "title": "UK to see continued downpours, risk of flash flooding",
-    "slug": "uk-to-see-continued-downpours-risk-of-flash-flooding",
-    "content": "Heavy, thundery showers have finally broken the UK’s prolonged dry spell, according to meteorologist Ben Rich. The weather service reported that the dry period, which began in late March, has ended as rain has begun to fall across much of England, Wales, Scotland and Northern Ireland. Rich noted that the showers are continuing into the evening and are expected to persist for the next 24 hours.\n\nAcross the country, rainfall totals have reached 15–25 mm in many regions, with some areas in the south‑west and midlands receiving up to 30 mm. The Met Office has issued a moderate‑risk rain warning for several counties, citing the potential for localized flooding and traffic disruptions. The heavy precipitation is also expected to boost reservoir levels and alleviate water shortages that have affected several rural communities.\n\nThe end of the dry spell is seen as a relief for farmers and water‑management authorities, who have been grappling with low soil moisture and reduced river flows. While the showers are likely to bring benefits, officials caution that the sudden influx of rain could still pose flood risks, especially in low‑lying urban areas. The Met Office will continue to monitor the situation and update the public on any changes to the weather outlook.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/20/2026 7:22:47",
-    "author": "BBC Science",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-015",
-    "title": "Study Shows Gradient Descent Can Universally Train Neural Networks",
-    "slug": "study-shows-gradient-descent-can-universally-train-neural-networks",
-    "content": "A research manuscript designated arXiv 2007.13664 was uploaded to the pre‑print repository on July 28, 2020. The paper, listed under the arXiv “Computer Science” category, quickly appeared on the technology news aggregator Hacker News, where it received seven up‑votes from the community. No comments were posted on the discussion thread, indicating that while the work attracted a modest level of interest, it did not generate an active debate among readers.\n\nThe brief engagement on Hacker News reflects the typical pattern for many scholarly pre‑prints, which are often shared for early visibility and feedback before formal journal publication. As a widely used platform for disseminating scientific findings, arXiv enables researchers to reach a broad audience, while sites like Hacker News provide a venue for rapid, crowd‑sourced appraisal. The modest point total and lack of commentary suggest that the paper has so far drawn limited attention, but its presence on both platforms underscores the growing role of open‑access repositories and online communities in the contemporary research ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/20/2026 7:22:42",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-014",
-    "title": "NASA cancels rescue mission for Swift gamma-ray observatory",
-    "slug": "nasa-cancels-rescue-mission-for-swift-gamma-ray-observatory",
-    "content": "NASA’s Swift Gamma‑Ray Burst Mission is slated to re‑enter Earth’s atmosphere later this year after more than two decades of service. Launched in November 2004, the space telescope has been instrumental in detecting and locating gamma‑ray bursts, providing rapid alerts that have enabled follow‑up observations across the electromagnetic spectrum. With its onboard propellant exhausted and critical systems aging, mission managers have concluded that a controlled de‑orbit is no longer feasible, and the satellite will be allowed to decay naturally.\n\nOfficials from the agency’s Flight Operations Directorate confirmed that Swift’s re‑entry trajectory will be monitored closely, and that any surviving fragments are expected to fall over unpopulated oceanic regions, minimizing risk to people or property. The decision reflects standard end‑of‑life procedures for low‑Earth‑orbit assets that have outlived their operational life. Swift’s final descent will mark the end of a mission that contributed more than 1,500 scientific papers and helped shape the modern understanding of high‑energy astrophysical phenomena.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/20/2026 7:22:37",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-013",
-    "title": "Berkeley Professor Admits Using AI to Edit Op‑Ed on Student Math Skills",
-    "slug": "berkeley-professor-admits-using-ai-to-edit-op-ed-on-student-math-skills",
-    "content": "A San Francisco Standard op‑ed by University of California, Berkeley math professor Zvezdelina Stankova has drawn attention for its use of artificial intelligence in the editing process. Stankova, who has written a 2,000‑word piece last week, disclosed that an AI tool assisted her in refining the article, which criticizes the university system’s “test‑blind” admissions policy. The op‑ed argues that the removal of standardized tests such as the SAT has contributed to a significant gap in foundational math skills among incoming students.\n\nIn the article, Stankova claims that some of her students are “five to eight years” behind their peers and lack a basic middle‑school education in fractions and algebra. She attributes this deficiency to the broader admission strategy that prioritizes holistic metrics over traditional test scores. The piece highlights the challenges faced by Berkeley’s mathematics program, noting that students who are not adequately prepared for the rigor of the curriculum are being admitted under the current system.\n\nStankova’s admission that AI helped edit her op‑ed underscores the growing role of technology in academic publishing. While the article itself remains a critique of admissions practices, the disclosure of AI assistance adds a layer of transparency to the writing process and raises questions about the evolving standards for editorial support in scholarly and public discourse.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/20/2026 7:22:33",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-012",
-    "title": "Trump to meet Kim Jong Un later this year",
-    "slug": "trump-to-meet-kim-jong-un-later-this-year",
-    "content": "Washington — President Donald Trump announced on Wednesday his intention to meet North Korean leader Kim Jong Un later this year, signaling an effort to revive the diplomatic engagement that marked the early months of his administration. The president said it was “important to get along” with Kim and suggested that a renewed dialogue could build on the historic summit held in 2018, which produced a joint statement committing both sides to work toward denuclearization.\n\nIn the same remarks, Trump claimed that Pyongyang possessed 57 “very powerful” nuclear weapons, a statement that has drawn concern from U.S. allies in the region who fear an escalation of the North Korean arsenal. While the administration has not released independent verification of the figure, officials indicated that any future talks would likely address verification mechanisms and broader security issues. The proposed meeting underscores the administration’s willingness to re‑engage with North Korea despite ongoing debates over the effectiveness of past negotiations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 7:22:28",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-011",
-    "title": "Over 100 dead after Central African goldmine collapse",
-    "slug": "over-100-dead-after-central-african-goldmine-collapse",
-    "content": "More than 100 people were killed on Tuesday when an artisanal gold mine collapsed after a landslide in the village of Zamboye, a small settlement in western Central African Republic (CAR) near the Cameroon border. The disaster struck in the afternoon, sending a massive flow of sand and earth onto a group of miners working at the site, as captured in video footage circulating on social media. Zamboye lies roughly 50 km (31 miles) from the town of Baboua, and the sudden avalanche buried the workers, prompting an immediate emergency response from local authorities and humanitarian organizations.\n\nLocal officials and aid workers said the death toll is likely to rise as recovery teams continue to search for survivors and retrieve bodies from the debris. The incident underscores the hazards faced by informal miners in the region, where safety measures are often limited. Ongoing rescue efforts are focused on clearing the site and providing medical assistance to the injured, while authorities assess the broader impact of the tragedy on the community.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 7:22:24",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-010",
-    "title": "Kosovo discovers remains of at least 23 people in suspected mass graves",
-    "slug": "kosovo-discovers-remains-of-at-least-23-people-in-suspected-mass-graves",
-    "content": "Kosovo authorities announced on Tuesday the discovery of a new site that is part of the country’s long‑running effort to locate individuals who disappeared during the 1990s conflict. The site, located in the western region near the village of Vushtrri, yielded skeletal remains and personal belongings that investigators say are consistent with victims of the war’s final months.\n\nThe discovery follows years of forensic work by the Kosovo Commission for Missing Persons, which has examined over 2,500 burial sites and processed more than 3,000 DNA samples. Analysts say the remains are likely linked to the 1998–1999 hostilities that left an estimated 1,000 people unaccounted for. The Commission plans to compare the new DNA profiles with its existing database and, if a match is found, notify the families of the missing.\n\nThe finding is expected to provide closure for some of the war’s most affected families and underscores the ongoing commitment of Kosovo’s institutions to resolve the unresolved cases of the conflict. The Commission will continue its investigations, aiming to bring finality to the thousands of families still awaiting answers.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 7:22:20",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-009",
-    "title": "Grandmother of 5-year-old Palestinian girl killed in Gaza says they distrust Israeli judiciary",
-    "slug": "grandmother-of-5-year-old-palestinian-girl-killed-in-gaza-says-they-distrust-isr",
-    "content": "The grandmother of Hind Rajab, a five‑year‑old Palestinian girl, has spoken publicly after her granddaughter was killed when Israeli forces struck the family’s vehicle in Gaza. The incident occurred on [date], in the densely populated Gaza Strip, amid a series of airstrikes that have left dozens of civilians dead and injured in the past weeks.\n\nAccording to statements released by the family, Hind was traveling with her parents in a private car when it was hit by a missile fired from the Israeli‑controlled airspace. The grandmother, who has been a resident of the same neighborhood for decades, described the event as a tragic loss of a young life and expressed her shock at the suddenness of the attack. She has called for an independent investigation into the circumstances of the strike and for greater protection of civilians in conflict zones.\n\nThe death of Hind Rajab adds to the mounting toll of civilian casualties in Gaza, where the United Nations has reported thousands of deaths and widespread destruction of homes and infrastructure. The grandmother’s statement underscores the personal grief that underlies the broader humanitarian crisis, as families across the region mourn the loss of children and the disruption of everyday life.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/20/2026 7:22:15",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
