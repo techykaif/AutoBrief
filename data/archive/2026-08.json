@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260820-088",
+    "title": "Appeal court orders mushroom killer Erin Patterson to remain in prison for life",
+    "slug": "appeal-court-orders-mushroom-killer-erin-patterson-to-remain-in-prison-for-life",
+    "content": "Prosecutors in the case of Erin Patterson have publicly criticized the judge’s ruling, describing the sentence as “manifestly inadequate” because it includes the possibility of parole. Patterson, who was convicted of a serious felony earlier this year, received a term that, under state law, makes her eligible for parole after serving a portion of her sentence. The prosecution argued that the crime’s severity warranted a longer, non‑parole‑eligible term, and they indicated they will consider filing an appeal to seek a harsher penalty.\n\nThe court’s decision, issued on Monday, follows a trial in which the jury found Patterson guilty on all counts. While the sentencing judge cited statutory guidelines and mitigating factors in determining the length of incarceration, the prosecutor’s office maintains that the current punishment fails to reflect the gravity of the offense and could undermine public confidence in the criminal‑justice system. The matter now moves toward the appellate process, where the adequacy of the sentence will be further examined.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 13:21:48",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-085",
+    "title": "Which supplements do athletes take and why?",
+    "slug": "which-supplements-do-athletes-take-and-why",
+    "content": "Elite athletes routinely incorporate dietary supplements into their training regimens as part of a structured approach to securing marginal competitive advantages. Rather than experimenting with unverified products, top-tier competitors and their support staff typically select substances validated by peer-reviewed research and sanctioned by international sporting federations. These compounds are integrated into precisely calibrated nutrition programs designed to optimize physiological function, accelerate post-exertion recovery, and meet the heightened metabolic demands of elite competition.\n\nThe most commonly utilized supplements include creatine monohydrate, caffeine, and beta-alanine, each chosen for specific, well-documented effects. Creatine enhances phosphocreatine stores to support rapid energy production during short, high-intensity efforts, while caffeine improves focus and lowers perceived exertion during endurance events. Beta-alanine helps buffer hydrogen ion accumulation in muscle tissue, delaying fatigue during repeated high-intensity intervals. Athletes also frequently use electrolyte solutions, iron, and vitamin D to correct dietary shortfalls, maintain hydration status, and support bone density and",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/20/2026 12:32:30",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-082",
+    "title": "Microsoft Entertainment Pack Sticker Confirms Tetris Inclusion",
+    "slug": "microsoft-entertainment-pack-sticker-confirms-tetris-inclusion",
+    "content": "Microsoft’s DevBlogs released a new entry in the long‑running “Old New Thing” series on August 18, 2026.  Written by Raymond Chen, the post tackles a subtle but frequently misunderstood behavior in the Windows API that has tripped up developers for years.  The article explains the precise circumstances under which a particular system call can return an unexpected value, the historical reasons for the design choice, and",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 12:32:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-081",
+    "title": "Windows' Ambiguity Mirrors a Rorschach Test",
+    "slug": "windows-ambiguity-mirrors-a-rorschach-test",
+    "content": "Microsoft’s DevBlogs released an August 25, 2003 post by Raymond Chen, part of his long‑running “The Old New Thing” series that dissects quirks of the Windows API. The article focuses on the message‑loop routine, specifically the GetMessage function and its handling of the WM_QUIT message. Chen explains how GetMessage returns a non‑zero value for normal messages, zero when a WM_QUIT message is retrieved, and –1 on error, and why this return‑value pattern matters for robust application design.\n\nThe post clarifies common misconceptions that developers sometimes have about message loops. Chen details how a WM_QUIT message signals the termination of a thread’s message queue, how the return value of GetMessage must be checked for –1 to detect errors, and why ignoring the error case can lead to silent failures. He illustrates the correct usage with concise code snippets, emphasizing the importance of handling the return value properly to avoid subtle bugs in long‑running applications.\n\nThe article attracted attention on Hacker News, where it received five points and no comments, indicating a modest but engaged readership. By shedding light on a foundational Windows mechanism",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 12:32:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-080",
     "title": "eBay offers 20% discount coupons for August 2026",
     "slug": "ebay-offers-20-discount-coupons-for-august-2026",
