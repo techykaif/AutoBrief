@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260823-362",
+    "title": "Accent Bias Persists in Workplaces, Survey Finds",
+    "slug": "accent-bias-persists-in-workplaces-survey-finds",
+    "content": "A recent survey examining workplace attitudes toward accents has found that “accent bias” remains a pervasive problem in many organisations. The study, conducted by the Institute for Workplace Equality in partnership with the University of Leeds, surveyed over 3,000 employees across the United Kingdom and the United States, asking respondents to rate the perceived competence, friendliness, and trustworthiness of colleagues with various accents.\n\nResults revealed that 62 % of participants believed that a strong regional or foreign accent could negatively influence hiring decisions, while 48 % felt that accent bias could affect promotion opportunities. The survey also highlighted that bias is most pronounced in sectors such as finance, law, and technology, where a “standard” accent is often equated with professionalism. Respondents noted that subtle cues—such as intonation or pronunciation—can lead to unfair assumptions about an individual’s communication skills or cultural fit, even when objective performance metrics remain unchanged.\n\nThe findings underscore the need for organisations to implement targeted diversity and inclusion training that addresses unconscious bias related to speech. By raising awareness and establishing clear, evidence‑based hiring and evaluation practices, companies can help ensure that employees are assessed on merit rather than the way they speak.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/24/2026 5:21:58",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-361",
+    "title": "Government launches review of pub and hotel business rates in England and Wales",
+    "slug": "government-launches-review-of-pub-and-hotel-business-rates-in-england-and-wales",
+    "content": "A government‑commissioned review of the methodology used to calculate local taxes in England and Wales is under way, with officials indicating that the findings could prompt substantive reforms to the current system. The inquiry, led by the Treasury’s Tax Policy Unit in partnership with the Ministry of Housing, Communities and Local Government, aims to assess the fairness, transparency and fiscal sustainability of both council tax and business rates, which together raise the bulk of revenue for local authorities.\n\nStakeholders, including local councils, business groups and consumer watchdogs, have been invited to submit evidence on how the existing formulas affect households and enterprises across different regions. The review will examine whether the weighting of property values, the treatment of empty dwellings and the allocation of central government grants reflect contemporary economic conditions. A final report is expected by early next year, after which the government may introduce legislative changes to adjust rate calculations, modify relief schemes or redesign the distribution of funds to ensure a more balanced fiscal framework for local services.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/24/2026 5:21:52",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260823-360",
     "title": "Arthur Fils Wins Cincinnati Masters Title Over Frances Tiafoe",
     "slug": "arthur-fils-wins-cincinnati-masters-title-over-frances-tiafoe",
@@ -5475,28 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/21/2026 2:31:47",
     "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-634",
-    "title": "Conservative migrants from blue states influence Florida's political shift",
-    "slug": "conservative-migrants-from-blue-states-influence-florida-s-political-shift",
-    "content": "Conservative voters leaving Democratic‑leaning states for Republican‑controlled regions are increasingly referred to as “blue state refugees.”  The term captures a growing trend of migration from urban and suburban areas that vote Democratic to more rural or suburban counties that lean Republican, a shift that has been documented in recent census and voter registration data.\n\nIn Florida, the influx of these movers has altered the composition of the electorate.  New residents from states such as New York, California, and Illinois have joined the state’s growing conservative base, bolstering Republican turnout in traditionally competitive districts.  Election officials report that the number of registered voters who changed parties after relocating has risen by nearly 15 percent over the past decade, contributing to tighter races and a shift in campaign strategies.\n\nThe demographic shift is prompting both parties to adjust their outreach.  While Republicans are capitalizing on the new voters’ preferences, Democrats are seeking to retain urban centers and appeal to younger, more diverse constituents.  Analysts suggest that Florida’s political landscape will continue to evolve as migration patterns and voter registration trends persist.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/21/2026 2:21:49",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-619",
-    "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-    "slug": "china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready",
-    "content": "This week’s episode of the podcast “Uncanny Valley” features journalist Andy Greenberg, who details his participation in a cybersecurity war game designed to simulate a coordinated digital intrusion attributed to the Chinese hacking group Volt Typhoon. The exercise brought together defense officials, technology experts, and private sector representatives to replicate a realistic attack scenario and assess institutional readiness. Greenberg’s account offers a structured overview of how cross-sector teams coordinate under simulated pressure",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/21/2026 2:12:26",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
