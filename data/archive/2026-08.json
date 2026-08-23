@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260820-526",
+    "title": "US Treasury Secretary urges allies to back plan to curb Iran's economy",
+    "slug": "us-treasury-secretary-urges-allies-to-back-plan-to-curb-iran-s-economy",
+    "content": "U.S. Treasury Secretary Janet Yellen warned that America’s partners must make a clear choice about their alignment with U.S. policy, stating that allies will need to decide whether they “are with us or against us.” The remark was made during a press briefing in Washington on Thursday as the Treasury Department outlined a new round of financial measures aimed at curbing the flow of capital to entities deemed to be supporting hostile actions abroad. Yellen emphasized that coordinated sanctions and export controls are most effective when implemented by a united coalition, and she urged European and Indo‑Pacific partners to adopt a consistent stance on the issues at hand.\n\nThe Treasury secretary’s comments come amid heightened diplomatic pressure on countries that have been reluctant to join recent U.S. sanctions regimes targeting Russia’s war effort and Iran’s nuclear program. While some European Union members have signaled readiness to align with the new measures, others have expressed concerns about the economic repercussions for their own industries. Yellen’s statement underscores Washington’s intent to maintain a firm, collective approach and signals that future cooperation may hinge on the willingness of allies to match the United States’ resolve in enforcing financial restrictions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 0:31:56",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-503",
+    "title": "Liverpool's £50m offer for Brighton winger Yankuba Minteh rejected",
+    "slug": "liverpool-s-50m-offer-for-brighton-winger-yankuba-minteh-rejected",
+    "content": "Liverpool’s £50 million bid for Brighton winger Yankuba Minteh was turned down by the Seagulls. The 22‑year‑old, who has become a key attacking option for Brighton over the past season, was deemed too valuable for the club to part with, according to club officials. Brighton’s manager confirmed the decision, citing the player’s importance in the squad and the need to maintain squad depth for the remainder of the Premier League campaign.\n\nThe rejection comes after Liverpool expressed keen interest in the young winger, who has attracted attention with his pace, dribbling and ability to create chances from the wing. While the transfer window remains open, Brighton’s decision signals a willingness to hold onto talent that has helped the club achieve a mid‑table finish. Liverpool will likely continue to monitor Minteh’s progress, but for now the move remains off the table.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/20/2026 23:31:52",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-483",
+    "title": "Linux 7.2 Released",
+    "slug": "linux-7-2-released",
+    "content": "Linux kernel version 7.2 was officially released by the Igalia project team on August 19, 2026. The new release builds on the 7.x series, adding a range of performance improvements, expanded hardware support, and critical security patches. It is available for download through the standard distribution channels and can be installed on most Linux-based systems without requiring significant changes to existing configurations.\n\nThe 7.2 update introduces several notable enhancements. A new power‑management subsystem reduces idle power consumption by up to 15 % on supported ARM and x86 platforms, while the updated networking stack improves TCP throughput for high‑bandwidth workloads. Kernel developers also incorporated a set of backported features from the 8.0 development branch, including support for the latest NVMe‑over‑PCIe devices and a hardened memory allocator that mitigates a class of buffer‑overflow vulnerabilities. In addition, the release includes numerous bug fixes, such as a resolved race condition in the file‑system cache that could cause data corruption under heavy I/O.\n\nThe announcement has attracted modest attention on Hacker News, where the post received 20 points and one comment. Users praised the release for its stability and the timely patching of security issues. Overall, Linux 7.2 continues the project’s commitment to delivering a robust, high‑performance kernel that meets the needs of both enterprise and hobbyist developers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 23:22:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-471",
+    "title": "French PM announces creation of unit to combat cyberattacks",
+    "slug": "french-pm-announces-creation-of-unit-to-combat-cyberattacks",
+    "content": "Paris – French Prime Minister Sébastien Lecornu announced on Thursday the establishment of a dedicated cyber‑defence unit aimed at bolstering the nation’s response to increasingly frequent cyberattacks. The move comes after a series of high‑profile intrusions into the websites of government services, which exposed significant gaps in the country’s IT security infrastructure. The new unit, to be integrated within the Ministry of the Interior, will coordinate with the national cybersecurity agency ANSSI and existing Computer Emergency Response Teams to centralise threat monitoring, incident response and forensic analysis.\n\nOfficials indicated that the unit will be equipped with a suite of tools ranging from real‑time intrusion‑detection systems and threat‑intelligence platforms to offensive capabilities that can disrupt malicious actors’ infrastructure. While the initiative expands France’s defensive posture, authorities acknowledge that the rapidly evolving nature of cyber threats requires continual assessment of whether current measures are sufficient. The government plans to review the unit’s effectiveness annually, aiming to ensure that France’s cyber‑security framework remains robust against future attacks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 23:12:34",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-468",
+    "title": "At least 800 people evacuated from major wildfire in western Spain",
+    "slug": "at-least-800-people-evacuated-from-major-wildfire-in-western-spain",
+    "content": "A fast‑moving wildfire in western Spain has forced the evacuation of more than 800 residents as flames encroach on several villages. The blaze, which ignited on Tuesday amid high temperatures and strong winds, has spread across a forested area near the towns of O Barco de Valdeorras and Ponferrada, prompting local authorities to issue emergency alerts and activate evacuation protocols. Emergency services, including firefighters, aerial water‑dropping units, and police, have been deployed to contain the fire and secure the affected zones, while temporary shelters have been set up in nearby schools and community centers to accommodate those displaced.\n\nOfficials continue to monitor the situation as the fire remains active, with containment efforts hampered by the prevailing dry conditions. The regional government has pledged additional resources and urged residents to remain vigilant, emphasizing that the safety of the evacuated population remains the priority. Updates will be provided as the firefighting operation progresses and authorities assess the extent of damage to the surrounding environment and infrastructure.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 23:12:23",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-464",
     "title": "China’s Humanoid Robots Lead Tech Race at World Robot Conference",
     "slug": "china-s-humanoid-robots-lead-tech-race-at-world-robot-conference",
