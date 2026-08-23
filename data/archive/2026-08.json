@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260820-040",
+    "title": "MIT Physicists Observe Ice‑Like Electron Phase in Quantum Material",
+    "slug": "mit-physicists-observe-ice-like-electron-phase-in-quantum-material",
+    "content": "MIT physicists have uncovered that two distinct electronic phases can coexist within a single quantum material, each arising through markedly different processes. In one scenario, the phase develops gradually, with electrons transitioning smoothly as external conditions such as temperature or pressure change. In the other, the phase nucleates in isolated pockets that expand outward like growing ice crystals, creating a patchwork of electronic behavior across the material.\n\nThe team employed advanced spectroscopic and imaging techniques to track the evolution of these phases at the nanoscale. Their observations suggest that the smooth transition is driven by a continuous change in the electronic band structure, while the crystalline‑like pockets result from localized fluctuations that trigger a first‑order transition in confined regions. By mapping these mechanisms, the researchers provide a clearer picture of how exotic properties—such as superconductivity and magnetism—can emerge and coexist within the same material.\n\nThis insight offers a new framework for designing quantum materials with tailored electronic properties. Understanding the distinct pathways that lead to phase formation could guide the development of next‑generation superconductors and spintronic devices, where controlled coexistence of multiple quantum states is essential.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 8:42:23",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-039",
+    "title": "AI-designed intrabodies offer new treatment possibilities for neurodegenerative diseases",
+    "slug": "ai-designed-intrabodies-offer-new-treatment-possibilities-for-neurodegenerative",
+    "content": "Researchers have announced a novel technique that converts conventional antibodies into miniature, cell‑penetrating molecules capable of targeting disease‑related proteins inside human cells. The approach, developed by a multidisciplinary team of scientists, reengineers the antibody structure to produce small, stable fragments that can cross cellular membranes and bind to intracellular targets that have traditionally been difficult to reach with therapeutic agents.\n\nThe new platform has shown promise against a range of neurodegenerative conditions, including Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease. By enabling the engineered molecules to interact directly with the misfolded proteins that drive these disorders, the method offers a potential pathway to more effective treatments that can intervene at the molecular level within affected neurons. Early laboratory studies demonstrate that the fragments can reduce toxic protein aggregates and improve cellular viability, suggesting a viable strategy for future drug development.\n\nIf the technique can be translated into clinical applications, it could broaden the arsenal of therapeutic options for patients with currently incurable neurodegenerative diseases. Continued research will focus on optimizing delivery, ensuring safety, and evaluating efficacy in animal models before moving toward human trials.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/20/2026 8:42:18",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-038",
+    "title": "Turns Are Better Than Radians",
+    "slug": "turns-are-better-than-radians",
+    "content": "A recent article published on ComputerEnhance, titled “Turns are better than radians,” argues that the unit of a full rotation—known as a turn—offers practical advantages over the traditional radian measure for expressing angles. The piece, which has attracted modest attention on the Hacker News forum, received ten points and three comments from readers who engaged with its technical claims.\n\nThe author outlines several reasons for preferring turns: they map directly to fractions of a circle, eliminating the need for the 2π factor that appears in many trigonometric formulas; they are dimensionless like radians but provide an intuitive sense of proportion, making mental calculations and educational explanations more straightforward. The article cites examples from programming, physics, and engineering where using turns simplifies code and reduces errors, and it notes that some language libraries already support turn‑based constants. While a few commenters raised concerns about compatibility with established mathematical conventions, the overall discussion highlighted a growing interest in re‑examining angle‑measurement standards.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/20/2026 8:42:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-037",
+    "title": "UN Calls on Israel to Condemn Incitement Over New West Bank Outposts",
+    "slug": "un-calls-on-israel-to-condemn-incitement-over-new-west-bank-outposts",
+    "content": "Reports of new illegal Israeli outposts in the occupied West Bank sparked concern at United Nations headquarters on Wednesday, prompting officials to highlight the potential breach of international law. The United Nations Office of the High Commissioner for Human Rights (OHCHR) urged Israel to denounce statements made by its national security minister, which it characterized as incitement to “violence amounting to atrocity crimes” against Palestinians.\n\nIn its briefing, the OHCHR reiterated that the establishment of unauthorized settlements contravenes the Fourth Geneva Convention and called for immediate action to prevent further escalation. The agency also requested that Israeli authorities publicly condemn the minister’s rhetoric and take steps to ensure the protection of Palestinian civilians, emphasizing the UN’s broader commitment to upholding human rights standards in the region.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:42:07",
+    "author": "UN News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-036",
+    "title": "Bodycam footage shows deck collapse during Missouri police warrant",
+    "slug": "bodycam-footage-shows-deck-collapse-during-missouri-police-warrant",
+    "content": "A newly released body‑camera video shows a deck collapsing during a warrant‑execution operation in Huntsville, Missouri. The footage, captured by a patrol officer, was posted to the city’s public‑records portal last week and depicts the deck giving way as officers moved through the residence to secure a warrant.\n\nThe incident occurred on the evening of March 12, when the Huntsville Police Department was conducting a search of a private property on the basis of a court‑issued warrant. According to the video, the deck’s structural failure caused several officers to fall, though no serious injuries were reported. The city’s deputy chief confirmed that the department is reviewing the footage and will cooperate with state investigators to determine whether the collapse was due to a pre‑existing structural defect or an unforeseen event.\n\nAuthorities have not yet released a formal statement regarding the cause of the collapse. The department has pledged to conduct a thorough investigation and to review its safety protocols for warrant operations in structures with potential structural concerns. The incident underscores the risks law‑enforcement officers face during routine search operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:42:01",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260820-035",
+    "title": "South Korea alarmed by Trump’s order to cut joint military drills",
+    "slug": "south-korea-alarmed-by-trump-s-order-to-cut-joint-military-drills",
+    "content": "Seoul expressed alarm on Monday after the United States announced a reduction in the size and scope of joint military drills with South Korea, a move ordered by former President Donald Trump during his final weeks in office. The decision, which cuts back on the annual “Freedom Shield” exercises that have involved thousands of troops and sophisticated weaponry, was presented as an effort to de‑escalate tensions on the Korean Peninsula but has been interpreted by South Korean officials as a signal that the United States may be reassessing its security commitments in the region.\n\nSouth Korean Defense Minister Lee Jong-sup said the change “creates uncertainty” for the alliance that has underpinned regional stability for more than seven decades, and he called for a prompt clarification from Washington on the future of the partnership. Analysts noted that the timing coincides with heightened North Korean missile activity and ongoing diplomatic talks aimed at curbing nuclear proliferation, raising concerns that a perceived weakening of the U.S. presence could embolden Pyongyang. The United States, through the State Department, affirmed that the core security guarantee remains unchanged, but did not specify how the reduced exercises would affect operational readiness.\n\nThe episode underscores lingering doubts in Seoul about the reliability of U.S. security assurances, a sentiment that has resurfaced periodically since the alliance’s inception. While diplomatic channels remain open, both governments are expected to negotiate a revised framework for joint training that balances deterrence objectives with the political sensitivities highlighted by the recent order.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/20/2026 8:41:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260820-034",
     "title": "Brazilian drug gangs expand into remote Bolivian village, raising security concerns",
     "slug": "brazilian-drug-gangs-expand-into-remote-bolivian-village-raising-security-concer",
