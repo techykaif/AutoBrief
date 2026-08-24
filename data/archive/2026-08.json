@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260821-045",
+    "title": "AI Companies Destroy Physical Books, Prompting Urgent Rare Book Digitization",
+    "slug": "ai-companies-destroy-physical-books-prompting-urgent-rare-book-digitization",
+    "content": "Anna’s Archive blog published a brief but detailed account titled “Physical Destruction,” describing the abrupt loss of a server that had been hosting a previously removed website. According to the post, the machine was destroyed in a fire that swept through the data‑center where it was housed, wiping out all local copies of the site’s content. The author explains that the server had been part of a private archival effort to preserve material that had been taken down from the public internet, and its sudden disappearance underscores the vulnerability of physical storage when it is not redundantly replicated.\n\nThe article contextualizes the incident within the broader debate over digital preservation and censorship. It notes that the site in question had been removed by legal pressure, and that the server’s destruction effectively erased a backup that could have served as a historical record. The author calls attention to the need for distributed, off‑site backups and highlights how the loss has sparked renewed discussion among archivists, technologists, and policy makers about safeguarding digital heritage. The post was widely discussed on Hacker News, where it accumulated 174 points and 114 comments, with many readers pointing out technical and legal ramifications of such losses.\n\nIn conclusion, the blog entry serves as a cautionary reminder that even well‑intentioned archival projects can be undone by unforeseen physical events. It urges the community to adopt more robust preservation practices, including redundant storage and",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-044",
+    "title": "AWS Bedrock Bug Causes 10x Charges for Codex Users",
+    "slug": "aws-bedrock-bug-causes-10x-charges-for-codex-users",
+    "content": "On March 5 2024, developers posted a new issue on the OpenAI Codex repository (GitHub #37674) reporting that the tool’s function‑calling feature was producing incorrect or incomplete code snippets. The report outlined a reproducible scenario in which the Codex model returned syntax errors for simple Python functions, and noted that the behavior persisted across multiple model versions. The issue attracted attention from the open‑source community, prompting a formal response from OpenAI’s engineering team that acknowledged the problem and requested additional debugging data.\n\nThe discussion quickly spilled over to Hacker News, where the thread (ID 49383326) gathered 37 points and 14 comments. Participants highlighted the potential impact on developers who rely on Codex for rapid prototyping, and debated whether the issue stemmed from token‑limit constraints or a deeper model‑training oversight. Some commenters suggested workarounds such as manually truncating prompts, while others urged OpenAI to release a patch or update the documentation to clarify known limitations. OpenAI’s reply in the GitHub issue indicated that the team was investigating the root cause and would provide a fix in a forthcoming update.\n\nThe issue remains open, and the community continues to monitor both the GitHub discussion and the Hacker News thread for updates. While Codex remains a powerful tool for code generation, the reported bug underscores the importance of rigorous testing when integrating AI‑generated code into production workflows. Developers are advised to verify outputs and keep abreast of any patches that may resolve the function‑calling discrepancies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-043",
+    "title": "Ruggable offers up to 30% off rugs and accessories in August 2026",
+    "slug": "ruggable-offers-up-to-30-off-rugs-and-accessories-in-august-2026",
+    "content": "Ruggable, the manufacturer of machine‑washable floor coverings, has announced a limited‑time promotion offering consumers up to 30 percent off a selection of its products. The discount applies to rugs, runners, mats and decorative pillows that can be cleaned in a standard home washing machine, a feature the company highlights as a cost‑effective alternative to traditional carpet maintenance.\n\nCustomers can access the savings through Ruggable coupons available on the brand’s website and partner platforms, where the company also provides guidance on selecting the right styles for various spaces. By combining the promotional offer with its washable technology, shoppers are encouraged to maintain a clean, presentable floor surface while keeping expenses within budget.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 10:42:05",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-042",
+    "title": "Yung Filly to be retried on rape charges in Australia",
+    "slug": "yung-filly-to-be-retried-on-rape-charges-in-australia",
+    "content": "A jury in a recent criminal trial found a prominent YouTuber not guilty of several sexual‑assault charges, while remaining deadlocked on three additional counts. The verdict, delivered last month, concluded that the evidence presented did not satisfy the burden of proof for the offenses on which the defendant was acquitted, prompting the foreperson to announce a unanimous decision of not guilty for those specific allegations.\n\nThe inability of jurors to reach a consensus on the remaining three charges means the case will return to the court for further proceedings. Prosecutors are expected to decide whether to seek a retrial on the unresolved counts, while the defendant’s legal team has indicated they will prepare for any subsequent hearings. The outcome underscores the complexity of the case and signals that the judicial process will continue to address the outstanding allegations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 10:41:57",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-041",
+    "title": "Vance says Bessent has discreet plan to cut national debt",
+    "slug": "vance-says-bessent-has-discreet-plan-to-cut-national-debt",
+    "content": "Vice President John Vance announced Thursday night that Treasury Secretary Scott Bessent is pursuing a “very discreet plan” to reduce the United States’ debt load. The Vice President said the strategy, which has the full backing of President Biden, is designed to shift the economy toward a growth trajectory that outpaces the current debt‑to‑GDP ratio. While details remain confidential, officials indicated that the plan will involve a mix of targeted spending cuts and revenue‑enhancing measures.\n\nBessent’s approach is intended to address the nation’s fiscal imbalance without triggering a sharp slowdown in economic activity. The Treasury is reportedly exploring ways to streamline discretionary spending, close loopholes in tax collection, and reallocate resources toward high‑productivity sectors. The plan is expected to be phased over several fiscal years, with periodic reviews to gauge its impact on both debt levels and economic growth.\n\nThe Treasury Department has not yet released a formal policy brief, but the announcement signals a renewed focus on fiscal consolidation at the highest levels of government. Analysts will be watching how the proposed measures are implemented and whether they achieve the dual goal of debt reduction and sustained economic expansion.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/21/2026 9:52:21",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-040",
+    "title": "Scientists warn free-to-play video games impose hidden costs on players",
+    "slug": "scientists-warn-free-to-play-video-games-impose-hidden-costs-on-players",
+    "content": "Digital media, especially video games, constitute a major leisure activity for adolescents and adults worldwide. Over the past decade, the industry has increasingly adopted a free‑to‑play model, allowing users to download and play games at no cost while generating revenue through optional in‑game purchases known as microtransactions.\n\nUnder this model, players can acquire additional content, cosmetic items, or gameplay advantages by spending real money. The industry stresses that these purchases are entirely voluntary, and players retain the ability to enjoy the core game without spending. The microtransaction strategy has proven highly profitable, enabling developers to fund ongoing updates and support for their titles.\n\nAs free‑to‑play games continue to dominate the market, the reliance on microtransactions remains a defining feature of contemporary digital entertainment, shaping how developers monetize and how players engage with their favorite games.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/21/2026 9:52:15",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-039",
+    "title": "Study links transport costs and inequality to global food accessibility",
+    "slug": "study-links-transport-costs-and-inequality-to-global-food-accessibility",
+    "content": "A new study from the University of Oulu, in collaboration with Aalto University and Pellervo Economic Research (PTT), has highlighted that food security depends not only on production but also on how well transport networks link supply with demand worldwide. The researchers developed a spatial accessibility framework that maps global food distribution pathways and evaluates their efficiency under varying economic conditions and potential disruptions.\n\nUsing the framework, the team found that gaps in transport infrastructure and rising economic inequality significantly limit access to food in many regions. The analysis shows that even where food is produced in sufficient quantities, poor connectivity and uneven wealth distribution can prevent it from reaching populations that need it most. The study also simulates different disruption scenarios—such as natural disasters or trade restrictions—to assess how resilient current networks are and where improvements would most enhance accessibility.\n\nThe research underscores the need for coordinated investment in transport systems and policies that address inequality to strengthen global food security. By identifying critical bottlenecks, the framework offers policymakers a tool to prioritize infrastructure upgrades and economic interventions that can make food more reliably available to all populations.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 9:52:08",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-038",
+    "title": "Chester Zoo python receives first snake electrochemotherapy cancer treatment",
+    "slug": "chester-zoo-python-receives-first-snake-electrochemotherapy-cancer-treatment",
+    "content": "Chester Zoo’s 23‑year‑old reticulated python, Jodie Foster, has returned to her typical active behavior after undergoing electrochemotherapy to treat a tumour in her jaw. The 15‑foot, 50‑kilogram snake was the first reptile worldwide to receive the pioneering cancer treatment, which is normally reserved for human patients. Keepers first noted her decline when she began eating less and spending more time inactive in her enclosure, prompting veterinary assessment and the decision to pursue the experimental therapy.\n\nThe procedure involved delivering a brief electric pulse to the tumour site to enhance the uptake of chemotherapy drugs, effectively targeting the cancer cells while minimizing systemic effects. Following the treatment, Jodie Foster resumed regular feeding patterns and displayed the feisty demeanor for which she is known. Her successful recovery highlights the potential of electrochemotherapy as a viable option for managing malignancies in exotic species, offering a new avenue for veterinary oncology in zoological collections.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 9:52:03",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-037",
     "title": "Hong Kong court convicts Tiananmen activists on national security charges",
     "slug": "hong-kong-court-convicts-tiananmen-activists-on-national-security-charges",
