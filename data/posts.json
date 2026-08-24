@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260824-199",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "slug": "hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+    "content": "Hugging Face, the San Francisco‑based startup known for its open‑source machine‑learning models and tools, has reportedly been approached with acquisition proposals that would value the company at roughly $13 billion. Sources familiar with the discussions say several potential buyers, including large technology firms and private‑equity groups, have expressed interest in leveraging Hugging Face’s extensive model repository and developer community to expand their AI offerings. The company has not confirmed the talks publicly, and the terms of any potential deal remain undisclosed.\n\nDespite the financial allure, co‑founders Clem Delangue and Thomas Wolf have signaled a strong sense of responsibility toward the open‑source community that underpins Hugging Face’s platform. In recent interviews, they emphasized the importance of preserving the collaborative ecosystem and maintaining independent stewardship of the technology. This stance, combined with the lack of an official statement, has led analysts to question whether a sale will ultimately materialize, suggesting that any future transaction would need to reconcile the founders’ community‑centric priorities with investor expectations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/24/2026 19:33:52",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-197",
+    "title": "Warehouse burns near St Petersburg as Ukraine targets Ozon sites",
+    "slug": "warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+    "content": "Firefighters extinguished a blaze at a logistics centre adjacent to an Ozon e‑commerce facility on the outskirts of St Petersburg early this week. The fire, which was reported by local authorities, was contained within a few hours and caused no casualties, though the extent of the damage to the warehouse and surrounding infrastructure is still being assessed.\n\nThe incident comes amid a broader escalation in Ukraine’s drone campaign targeting Russian e‑commerce logistics hubs. Ukrainian officials have announced an expansion of these operations, citing the strategic importance of disrupting supply chains for major online retailers. The Ozon‑linked site, one of several warehouses under attack, highlights the growing risk to commercial logistics assets in the region.\n\nAuthorities are monitoring the situation closely as the Ukrainian drone campaign continues to intensify. The incident underscores the heightened vulnerability of commercial infrastructure in areas of ongoing conflict and may prompt further defensive measures by Russian e‑commerce operators.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 19:33:31",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-189",
+    "title": "Mufti Sentenced to Life for Barrel Bomb Plot in Syria",
+    "slug": "mufti-sentenced-to-life-for-barrel-bomb-plot-in-syria",
+    "content": "A Syrian court in Damascus sentenced a prominent mufti to life imprisonment on Tuesday for his alleged role in supporting the use of barrel bombs during the ongoing civil conflict. The judge found the cleric, identified as Sheikh Ali al‑Hassan, guilty of incitement to terrorism, propaganda, and aiding the regime’s campaign of indiscriminate bombing that has caused widespread civilian casualties. The sentence was delivered after a trial that included testimonies from security officials and witnesses who claimed the mufti had publicly endorsed the use of barrel bombs as a legitimate military tactic.\n\nThe prosecution argued that al‑Hassan’s sermons and public statements provided ideological justification for the regime’s air campaign, effectively encouraging the deployment of the destructive weapons. The defense contended that the cleric had been coerced into making statements and that his involvement was limited to religious duties. Nonetheless, the court rejected the defense’s claims and imposed the maximum penalty for terrorism-related offenses under Syrian law. The decision follows a broader pattern of the government’s efforts to clamp down on religious figures perceived as collaborators with extremist elements.\n\nThe life sentence is intended to signal the authorities’ determination to hold religious leaders accountable for their influence on the conflict. It also reflects the ongoing legal battles over the use of barrel bombs, a tactic that has drawn international condemnation for its indiscriminate impact on civilians. The ruling may affect how religious leaders engage with political and military actors in the region, underscoring the legal risks associated with endorsing or facilitating violent operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 19:32:21",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-188",
+    "title": "Typhoon Narra brings heavy rain and flooding to China and Vietnam",
+    "slug": "typhoon-narra-brings-heavy-rain-and-flooding-to-china-and-vietnam",
+    "content": "Typhoon Narra slammed the coastal regions of southern China and northern Vietnam with torrential rain and flash flooding on Saturday, prompting widespread emergency alerts across the affected provinces. Meteorological agencies in both countries recorded sustained winds of up to 120 km/h and rainfall totals exceeding 200 mm in the hardest‑hit districts, causing rivers to overflow and low‑lying urban areas to become inundated within hours of the storm’s landfall.\n\nLocal authorities in China’s Guangdong and Guangxi provinces ordered the evacuation of more than 30,000 residents from flood‑prone neighborhoods and deployed rescue teams to assist stranded motorists, while Vietnam’s Quang Ninh and Haiphong provinces activated flood‑control measures and set up temporary shelters for displaced families. Preliminary reports indicated dozens of injuries, several missing persons and property damage estimated in the tens of millions of dollars. Relief operations, coordinated by national disaster management agencies, continue to distribute food, clean water and medical supplies, and officials warned that rising water levels could prolong recovery efforts in the coming days.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 19:32:12",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-187",
+    "title": "Former Officer Sean Grayson Dies in Prison While Receiving Cancer Treatment",
+    "slug": "former-officer-sean-grayson-dies-in-prison-while-receiving-cancer-treatment",
+    "content": "A former police officer whose criminal conviction reignited nationwide debate over police brutality in the United States is currently receiving treatment for cancer. The case, which drew extensive media coverage and prompted renewed scrutiny of law‑enforcement practices, has now shifted public attention to the officer’s health condition as he undergoes medical care.\n\nLegal and civil‑rights observers note that the officer’s conviction had become a focal point in discussions about accountability and systemic reform within policing. While the criminal proceedings concluded with a sentence, the officer’s recent diagnosis adds a personal dimension to the ongoing discourse. Health officials confirmed that he is in a treatment program for cancer, though details of his prognosis have not been released. The development underscores the complex interplay between criminal justice outcomes and the personal circumstances of those involved, concluding the latest chapter in a case that continues to influence policy debates.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 19:32:04",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260824-179",
     "title": "The Senate races that will define the Democratic Party",
     "slug": "the-senate-races-that-will-define-the-democratic-party",
@@ -5441,61 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/21/2026 19:21:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260821-267",
-    "title": "Deep partial lunar eclipse on Aug. 28 displays Earth's curved shadow",
-    "slug": "deep-partial-lunar-eclipse-on-aug-28-displays-earth-s-curved-shadow",
-    "content": "A deep partial lunar eclipse will soon sweep across the night sky, casting a giant curved shadow that will glide slowly over the moon’s surface. The event, visible from large portions of North and South America, Europe, and Africa, begins at 02:12 UTC and reaches maximum eclipse at 04:45 UTC, when the moon will be 78 % obscured by Earth’s penumbra. The eclipse’s magnitude of 0.78 means the lunar disc will be largely covered, producing a dramatic, slowly moving silhouette that will be visible to observers with modest telescopes or binoculars.\n\nAstronomers explain that the shadow is the Earth’s penumbral region, which partially blocks sunlight from reaching the moon. As the moon orbits Earth, the penumbra’s edge moves across the lunar surface, creating a curved, shifting darkness that can be tracked in real time. The event offers a rare opportunity to study the interaction between Earth’s atmosphere and the moon’s surface, as atmospheric scattering subtly alters the color of the illuminated portions. In addition to the eclipse, observers may also witness the waxing gibbous phase and the occasional appearance of lunar maria, providing a fuller celestial display.\n\nFor those wishing to view the eclipse, clear skies and minimal light pollution are essential. Local observatories and planetariums will likely host guided viewing sessions, and many online platforms will stream the event in real time. While the partial eclipse itself is the highlight, the combination of the moon’s illuminated surface and the slowly moving shadow creates an enlightening spectacle that underscores the dynamic nature of our celestial neighborhood.",
-    "category": "Space",
-    "categorySlug": "space",
-    "publishedAt": "8/21/2026 19:11:56",
-    "author": "Space.com",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260821-246",
-    "title": "Precision Medicine Research Aims to Personalize Pancreatic Cancer Treatment",
-    "slug": "precision-medicine-research-aims-to-personalize-pancreatic-cancer-treatment",
-    "content": "A new approach to treating pancreatic cancer could allow doctors to select the most effective chemotherapy or immunotherapy regimen before a patient even begins treatment. Researchers at several leading cancer centers are developing a rapid diagnostic platform that analyzes tumor genetics and molecular markers to predict which therapies are likely to work best for individual patients. The goal is to personalize treatment plans for the disease’s most aggressive and treatment‑resistant forms, potentially improving survival rates and quality of life.\n\nThe platform combines next‑generation sequencing with advanced bioinformatics to identify actionable mutations, expression patterns, and immune‑related signatures in a matter of days. Early clinical trials have shown that patients whose therapy was chosen based on the test’s recommendations experienced higher response rates and longer progression‑free intervals compared with those receiving standard first‑line treatments. The technology also includes a decision‑support algorithm that weighs the risks and benefits of different drug combinations, aiming to reduce unnecessary toxicity.\n\nIf validated in larger studies, this rapid profiling tool could become a standard part of the diagnostic work‑up for pancreatic cancer, allowing oncologists to tailor therapy from the outset and potentially extend life expectancy for patients with this historically difficult‑to‑treat disease.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/21/2026 19:01:51",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260821-220",
-    "title": "Iran's president calls for end to war from 'position of power' as US ups pressure",
-    "slug": "iran-s-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
-    "content": "President Ebrahim Pezeshkian asserted that Iran stands in a state of “power and dignity” and emphasized that the nation should conclude the ongoing conflict on its own terms. His remarks came during a televised address in which he rejected external pressure to alter Iran’s strategic decisions, underscoring a broader policy of self‑determination in the face of regional hostilities.\n\nAt the same time, U.S. officials announced plans to intensify economic measures against Tehran, labeling the upcoming wave of sanctions an “Economic D‑Day.” The proposed restrictions target key sectors of Iran’s economy, including banking, energy and trade, and are intended to compel a shift in Tehran’s regional posture. Analysts note that the heightened sanctions could deepen economic strain within Iran while also influencing diplomatic calculations ahead of any potential resolution to the conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/21/2026 18:42:52",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260821-212",
-    "title": "Imran Khan's Sister Reports Jail Torture Claims",
-    "slug": "imran-khan-s-sister-reports-jail-torture-claims",
-    "content": "Sister of former Pakistani prime minister Imran Khan has alleged that he was subjected to torture while incarcerated. In a statement released to the press, she said Khan confided in her that he was being physically abused by jail staff during his detention.\n\nKhan was arrested in July 2023 on corruption charges and held at Karachi Central Jail. According to the sister, the alleged mistreatment included beatings and other forms of physical coercion. Pakistani authorities have denied any wrongdoing, asserting that the former leader was treated in accordance with the law and that the allegations are unsubstantiated.\n\nThe claims add to growing concerns about the treatment of political detainees in Pakistan. While independent verification of the allegations has yet to be conducted, the statements have prompted calls from opposition parties and human‑rights groups for a transparent inquiry into the conditions at the jail.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/21/2026 18:42:29",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260821-211",
-    "title": "Swedish Palestinian Minister Sparks Controversy Over Star of David",
-    "slug": "swedish-palestinian-minister-sparks-controversy-over-star-of-david",
-    "content": "Anti‑Semitic incidents across Europe have increased sharply since the outbreak of Israel’s military campaign in Gaza, according to reports from several monitoring organisations.  Data compiled by the European Union Agency for Fundamental Rights and corroborated by the Anti‑Defamation League indicate a 30 % rise in hate‑crime complaints involving Jewish victims in the first six months of the conflict, with the majority of cases occurring in France, Germany and the United Kingdom.\n\nThe surge has coincided with a wave of online harassment and physical assaults, including vandalism of synagogues and Jewish community centres.  Law‑enforcement agencies in several countries have noted a correlation between spikes in anti‑Semitic rhetoric on social media and the escalation of hostilities in the Middle East.  Authorities are urging increased vigilance and the implementation of targeted counter‑hate measures, while community organisations call for coordinated efforts to protect vulnerable populations.\n\nIn response, European governments have pledged to strengthen anti‑hate legislation and to support victim‑services networks.  The trend underscores the broader challenge of managing domestic xenophobia and religious intolerance amid international conflicts, and highlights the need for sustained monitoring and preventative action to safeguard minority communities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/21/2026 18:42:23",
     "author": "Al Jazeera",
     "isFeatured": false
   }
