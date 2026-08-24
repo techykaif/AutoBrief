@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260821-025",
+    "title": "Three Hong Kong activists convicted of inciting subversion under national security law",
+    "slug": "three-hong-kong-activists-convicted-of-inciting-subversion-under-national-securi",
+    "content": "Three activists have been formally accused of inciting others to subvert state power, a charge that falls under a law recently introduced by Chinese authorities. The indictment, filed by prosecutors in the jurisdiction where the activists operate, alleges that they used public statements and organized gatherings to encourage actions deemed hostile to the state, thereby violating the provisions of the new legislation aimed at safeguarding national security.\n\nLegal experts note that the subversion charge carries severe penalties and reflects a broader trend of applying the law to a range of dissenting activities. The case underscores the heightened scrutiny of political expression in China and signals that authorities are prepared to pursue criminal proceedings against individuals perceived to challenge state authority. The activists await trial, while observers monitor the proceedings for potential implications on civil liberties and the enforcement of the newly enacted statute.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 8:41:48",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-021",
+    "title": "Fashion tech founder sentenced to five years prison for $300 million fraud",
+    "slug": "fashion-tech-founder-sentenced-to-five-years-prison-for-300-million-fraud",
+    "content": "Christine Hunsicker, the former chief executive officer of fashion‑technology startup CaaStle Inc., was sentenced to five years in federal prison and three years of supervised release on Thursday by a Manhattan federal judge. The sentence follows a guilty plea in March to a single count of securities fraud for a scheme that allegedly defrauded hundreds of investors and inflated the company’s financial statements with falsified documents that overstated profits and cash reserves. The fraud, which prosecutors say spanned from 2019 to 2025, involved the issuance of misleading financial reports to raise capital and mislead shareholders about CaaStle’s financial health.\n\nThe Manhattan U.S. Attorney’s Office described the case as a $300 million fraud scheme, noting that Hunsicker’s actions violated federal securities laws and undermined investor confidence in the company’s operations. While her attorneys did not respond to requests for comment, the sentencing underscores the federal government’s continued focus on prosecuting corporate fraud in the tech and fashion sectors. The ruling is expected to serve as a deterrent for executives who might consider manipulating financial disclosures to attract investment.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/21/2026 7:31:57",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-020",
+    "title": "Occupational health challenges require more than individual support, new doctoral study shows",
+    "slug": "occupational-health-challenges-require-more-than-individual-support-new-doctoral",
+    "content": "Mental health conditions have become the leading cause of sick leave in Finland, marking a notable shift in the country’s occupational health trends. Recent labor and health data indicate that psychological strain and declining occupational well-being are now the primary drivers behind medical leave referrals, surpassing traditional physical illnesses. This development reflects a broader acknowledgment of mental health as a central factor in workplace sustainability and employee retention across Finnish industries.\n\nThe typical trajectory begins when an employee’s mental health deteriorates under workplace demands, prompting healthcare providers to issue sick leave recommendations. However, occupational health reports show that these medical interventions are rarely accompanied by corresponding adjustments within the organizations themselves. Workplaces frequently maintain existing workloads, management structures, and environmental conditions, leaving the original stressors unaddressed. As a result, many employees return to unchanged work environments, contributing to repeated leave cycles and extended recovery timelines.\n\nWith mental health-related absences continuing to rise, Finnish labor authorities and occupational health professionals are highlighting the necessity of integrating workplace-level interventions with individual medical care. Systematic reviews of working conditions and proactive organizational adjustments are increasingly viewed as essential steps toward reducing long-term sick leave rates and supporting sustainable workforce health.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/21/2026 7:23:12",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-014",
+    "title": "Copyright does not protect AI-generated content in EU",
+    "slug": "copyright-does-not-protect-ai-generated-content-in-eu",
+    "content": "A new post by user @maxpool on the mathstodon.xyz platform has attracted attention on the Hacker News community. The original content, posted on the Mastodon instance, was shared on the tech‑news aggregator where it quickly accumulated 83 points and 71 comments. The post’s visibility reflects the active engagement of both the mathstodon and Hacker News audiences.\n\nThe discussion on Hacker News centers on the technical subject presented by @maxpool, with commenters weighing in on its implications, potential applications, and limitations. Participants include developers, researchers, and hobbyists who analyze the post’s claims, provide supporting evidence, and raise questions about scalability and implementation. The conversation demonstrates a broad interest in the topic and highlights the collaborative nature of online technical discourse.\n\nThe post’s traction on Hacker News indicates that it has sparked a meaningful dialogue within the community. As the discussion continues, it is likely to influence further research",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 7:22:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-013",
+    "title": "Modern software projects now require large development teams",
+    "slug": "modern-software-projects-now-require-large-development-teams",
+    "content": "Jacob Gold’s recent blog post, “There’s No Such Thing as a Small Software Team,” challenges the conventional wisdom that a handful of developers can independently deliver a complete product. Gold argues that even the smallest teams inevitably rely on a breadth of specialized skills—product management, design, quality assurance, operations, and security—that expand the team’s effective size. He illustrates how the hidden dependencies and scaling pressures that arise early in a project’s life cycle force teams to grow beyond their initial headcount, making the notion of a truly “small” software team a myth.\n\nThe article sparked a discussion on Hacker News, where it received 19 points and 13 comments. Readers debated the practicality of Gold’s claims, citing real‑world examples of micro‑teams that succeed by outsourcing or automating non‑core functions. Some commenters pointed out that the line between a small and a large team can be blurry, especially in fast‑moving tech environments, while others noted that the article’s insights are particularly relevant for startups seeking to balance speed with sustainability.\n\nIn summary, Gold’s piece invites software leaders to reexamine team structures and the often‑overlooked support functions that underpin product development. By highlighting the hidden complexity that accompanies even modestly sized teams, the article underscores the importance of intentional scaling and role clarity—a perspective that has resonated with a growing number of practitioners in the startup ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 7:22:44",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-012",
     "title": "Amazon Declares New Content Strategy Fair Use",
     "slug": "amazon-declares-new-content-strategy-fair-use",
