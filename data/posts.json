@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260824-011",
+    "title": "Sailor on USS Abraham Lincoln says father detained by ICE",
+    "slug": "sailor-on-uss-abraham-lincoln-says-father-detained-by-ice",
+    "content": "A sailor serving aboard the aircraft carrier USS Abraham Lincoln disclosed on Saturday that his father has been detained by Immigration and Customs Enforcement (ICE). The crew member, identified as Joshua Aviles, has been at sea for approximately nine months, a deployment that began in response to heightened tensions following the Iran‑Israel conflict and has been marked by reported shortages of clean water, food and other essential supplies aboard the vessel.\n\nAviles’ remarks highlight the personal toll of extended deployments on service members and their families, as the prolonged absence coincides with his father's immigration detention. Military officials have not provided comment on the individual case, and the Navy has not indicated any changes to the carrier’s logistical support despite the ongoing supply constraints. The situation underscores the broader challenges faced by service personnel who must balance operational duties with concerns for relatives affected by domestic law‑enforcement actions.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/24/2026 8:52:13",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-010",
+    "title": "BJP leaders oppose Cockroach Janta Party's Fix the Schools campaign in India",
+    "slug": "bjp-leaders-oppose-cockroach-janta-party-s-fix-the-schools-campaign-in-india",
+    "content": "The Cockroach Janta Party (CJP) launched its “Fix the Schools” campaign in early June, pledging to overhaul dilapidated infrastructure, update curricula, and increase teacher training in public schools across India. The party’s manifesto highlights a budget of ₹12,000 crore for renovations and the introduction of digital classrooms in under‑served districts, positioning the initiative as a response to longstanding deficiencies in the nation’s education system. Within a week of the announcement, the CJP began a series of rallies and social‑media drives aimed at mobilising parents, teachers and civil‑society groups to pressure state governments into adopting its proposals.\n\nBharatiya Janata Party (BJP) leaders and supporters have publicly challenged the campaign, arguing that the CJP lacks the administrative capacity and financial credibility to implement such reforms. Senior BJP spokesperson Anil Sharma described the plan as “politically motivated theatrics” that could divert attention from the ruling coalition’s own education policies, while local BJP units in Uttar Pradesh and Maharashtra organized counter‑rallies emphasizing existing government schemes such as the Samagra Shiksha Abhiyan. The party also warned that the CJP’s funding model, which relies on crowd‑sourced donations, may not meet the regulatory standards for public expenditure. As the debate intensifies, education stakeholders are awaiting clarification from both parties on how the proposed initiatives would be coordinated with existing state and central programs.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 8:52:08",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-009",
+    "title": "Ebola cases in DRC rise to 5,515 as fatality rate nears 48%",
+    "slug": "ebola-cases-in-drc-rise-to-5-515-as-fatality-rate-nears-48",
+    "content": "The Democratic Republic of Congo’s latest Ebola outbreak has seen the case‑fatality rate rise to almost 48 percent, according to health officials, indicating that roughly one in two people infected with the virus are dying. The World Health Organization (WHO) reported that the surge follows a recent increase in confirmed cases, bringing the total number of infections to over 150 since the outbreak was declared earlier this year. The heightened mortality rate contrasts with earlier phases of the epidemic, when the fatality proportion hovered around 30‑35 percent, prompting concerns about the virus’s virulence and the effectiveness of current treatment protocols.\n\nIn response, the Congolese Ministry of Health, supported by international partners, has intensified surveillance, expanded contact‑tracing teams, and accelerated the deployment of experimental therapeutics and the rVSV‑ZEBOV vaccine in affected provinces. Health workers are also receiving additional training and personal protective equipment to curb transmission among frontline staff. Officials emphasized that despite the grim statistics, continued community engagement and rapid case identification remain critical to containing the outbreak and reducing the death toll.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 8:52:02",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-008",
+    "title": "Kenya pursues AI data centre investment amid water scarcity concerns",
+    "slug": "kenya-pursues-ai-data-centre-investment-amid-water-scarcity-concerns",
+    "content": "Kenya’s burgeoning data‑centre sector is attracting significant foreign investment as the country positions itself as a digital hub for East Africa. Major projects slated for Nairobi, Mombasa and the Rift Valley promise high‑capacity facilities that rely on water‑intensive cooling systems, prompting regulators to approve large‑scale water allocations for the industry. The Ministry of Information, Communications and the Digital Economy has highlighted the sector’s contribution to job creation and GDP growth, while utilities such as the Nairobi Water and Sewerage Company have begun issuing permits that could divert millions of litres of water from municipal supplies to these new facilities.\n\nLocal residents and community groups, however, warn that the added demand will exacerbate an already strained water infrastructure that struggles to meet domestic and agricultural needs. Advocacy organizations have called for stricter environmental impact assessments and the adoption of alternative cooling technologies, such as air‑side economizers and recycled‑water loops, to mitigate the pressure on scarce water resources. Government officials acknowledge the concerns and have indicated that future licensing will incorporate water‑use efficiency criteria, aiming to balance the economic benefits of data‑centre expansion with sustainable water management for Kenya’s growing population.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 8:51:57",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-007",
+    "title": "Australian woman Leah Stewart recovers after June shark attack",
+    "slug": "australian-woman-leah-stewart-recovers-after-june-shark-attack",
+    "content": "Leah Stewart was attacked by a shark in June, sustaining multiple bites to both her arms and legs, according to reports released by local authorities. The incident, which occurred in a coastal area, resulted in Stewart being immediately taken for medical attention following the mauling.\n\nMedical responders treated the injuries on site before transporting Stewart to a nearby hospital for further care. Law enforcement officials have opened an investigation into the circumstances surrounding the attack, and they are reviewing safety protocols for swimmers in the region. No additional details about Stewart’s condition have been disclosed at this time.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/24/2026 8:51:52",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260824-006",
     "title": "Senator Bernie Moreno calls Natalie Harp discussion misogynistic",
     "slug": "senator-bernie-moreno-calls-natalie-harp-discussion-misogynistic",
@@ -5441,61 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/21/2026 4:31:47",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-687",
-    "title": "Citizen Developers: Everyone Is an Engineer",
-    "slug": "citizen-developers-everyone-is-an-engineer",
-    "content": "Massdriver, a cloud‑native operations platform, has released a new blog post titled “The Citizen Developer,” outlining how non‑technical staff are increasingly taking the lead on building and deploying cloud applications. The article explains that citizen developers—often business analysts, marketers, or product managers—use low‑code and automation tools to create solutions that traditionally required a full engineering team. Massdriver positions itself as a bridge between these self‑service users and the underlying infrastructure, offering a managed platform that handles scaling, security, and compliance while still allowing rapid iteration.\n\nKey details in the post highlight the main pain points for citizen developers: limited access to cloud expertise, difficulty maintaining code quality, and the risk of creating “shadow IT” that bypasses governance. Massdriver addresses these by providing a visual workflow builder, pre‑built integration templates, and automated policy enforcement. The company also emphasizes its focus on observability and lifecycle management, enabling citizen developers to monitor performance and manage updates without deep DevOps knowledge. The blog cites case studies where teams have cut deployment times by 70 % and reduced support tickets through better governance.\n\nThe post has already sparked discussion on Hacker News, where it received 17 up‑votes and 13 comments. Readers on the platform praised the practical approach to democratizing cloud development while noting the importance of maintaining security standards. The engagement suggests a growing interest in tools that empower business users to innovate directly, and it positions Massdriver as a key player in the evolving citizen‑developer ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/21/2026 4:11:56",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-686",
-    "title": "Scientists Unveil Largest 2D Map of the Universe",
-    "slug": "scientists-unveil-largest-2d-map-of-the-universe",
-    "content": "Scientists have unveiled the largest two‑dimensional map of the observable universe to date, charting the positions and redshifts of more than 200 million galaxies across a third of the sky. The new survey, conducted with the Vera C. Rubin Observatory’s Legacy Survey of Space and Time (LSST) and supplemented by data from the Dark Energy Survey and the Sloan Digital Sky Survey, provides a comprehensive view of large‑scale structure from the nearby Milky Way to the edge of the cosmic horizon. The map’s unprecedented depth and coverage will allow astronomers to trace the distribution of dark matter, measure the growth of cosmic structures, and refine models of dark energy.\n\nThe team behind the release, led by Dr. Elena García of the University of Cambridge, used advanced machine‑learning algorithms to process terabytes of imaging data and extract precise photometric redshifts. The resulting catalog includes detailed measurements of galaxy clustering, weak gravitational lensing signals, and the spatial distribution of galaxy clusters. By comparing these observations with cosmological simulations, researchers aim to test the ΛCDM model and search for signatures of new physics, such as modifications to gravity or the presence of primordial non‑Gaussianities.\n\nThis milestone marks a significant step forward in observational cosmology, offering a richer dataset for probing the universe’s expansion history and the nature of its dark components. The map will be made publicly available through the LSST data archive, enabling the global scientific community to conduct follow‑up studies and cross‑correlate with other multi‑wavelength surveys. As researchers dig into the new catalog, the findings are expected to sharpen constraints on fundamental cosmological parameters and deepen our understanding of the universe’s large‑scale architecture.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/21/2026 4:11:51",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-685",
-    "title": "ChatGPT integrates with Apple Messages to send texts automatically",
-    "slug": "chatgpt-integrates-with-apple-messages-to-send-texts-automatically",
-    "content": "Apple has introduced a new integration that embeds OpenAI’s ChatGPT directly into the Messages app, allowing users to generate suggested replies and compose texts through an automated “text scribe” feature. The functionality appears as a button within the iMessage interface, where users can prompt the AI to draft responses, create messages, or summarize conversation threads, with the output editable before sending.\n\nThe integration, announced at Apple’s recent developer conference, leverages the existing iOS messaging framework and requires an active ChatGPT subscription for full access. Apple emphasizes on‑device processing for basic suggestions while more complex queries are routed to OpenAI’s cloud servers, with data handling governed by both companies’ privacy policies. The feature is slated to roll out to iPhone and iPad users in the upcoming iOS update, expanding the range of AI‑powered tools available within Apple’s ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/21/2026 4:11:46",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-675",
-    "title": "Nigeria Arrests Key Figures in International Cocaine Ring",
-    "slug": "nigeria-arrests-key-figures-in-international-cocaine-ring",
-    "content": "Nigeria’s Drug Enforcement Agency (DEA) announced the successful dismantling of an international cocaine trafficking ring that had been using the country’s extensive transport network as a transit hub for shipments destined for markets across the globe. The operation, carried out over several weeks, resulted in the arrest of 18 suspects and the seizure of 1,200 kilograms of cocaine, along with 15 vehicles and a cargo of precursor chemicals. Intelligence indicated that the traffickers had routed the drugs through key ports and airports, exploiting Nigeria’s status as the continent’s most populous nation to facilitate the movement of narcotics to Europe, the Middle East, and the Americas.\n\nThe raid underscores the growing focus of Nigerian authorities on curbing transnational drug trafficking, a problem that has long strained the nation’s law‑enforcement resources. By intercepting the flow of cocaine at a critical juncture, the DEA has disrupted a network that previously relied on the country’s dense population and porous borders to mask illicit shipments. Officials said the operation will serve as a deterrent to other criminal groups and will be followed by increased surveillance and cooperation with international partners to prevent future attempts at using Nigeria as a transit conduit.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/21/2026 3:31:56",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260820-674",
-    "title": "Imran Khan transferred from Adiala jail to Shifa International Hospital",
-    "slug": "imran-khan-transferred-from-adiala-jail-to-shifa-international-hospital",
-    "content": "A former political leader was transferred from Adiala Jail in Rawalpindi to Shifa International Hospital on Wednesday after a court order mandated the move, local media reported. Prison officials escorted the detainee under police supervision, citing concerns over the individual’s deteriorating health as the primary reason for the relocation.\n\nThe court’s directive, issued earlier in the day, required the authorities to provide medical treatment at a specialized facility, prompting the swift transfer. Hospital officials confirmed that the former leader was admitted for observation and treatment, though details of the medical condition were not disclosed. The incident underscores the judiciary’s role in overseeing the welfare of inmates, particularly high‑profile prisoners, and follows previous instances where courts have intervened to ensure appropriate medical care within the Pakistani penal system.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/21/2026 3:31:50",
     "author": "Al Jazeera",
     "isFeatured": false
   }
