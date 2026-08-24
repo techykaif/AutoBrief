@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260821-012",
+    "title": "Amazon Declares New Content Strategy Fair Use",
+    "slug": "amazon-declares-new-content-strategy-fair-use",
+    "content": "A new piece titled “It is sign of times that Amazon gets to” was published on the Observational Epidemiology Blogspot on 2026‑08‑01. The post, which can be accessed at http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html, has drawn attention from the tech‑focused community on Hacker News, where it was shared under the item ID 49382200. The link has accumulated 12 up‑votes and sparked three comments, indicating a modest but focused interest in the content.\n\nWhile the article itself is not summarized in the provided material, its presence on Hacker News suggests that it addresses a recent development involving Amazon—likely a new product launch, strategic partnership, or policy shift that resonates with the broader conversation about the company’s expanding influence. The Observational Epidemiology blog, known for its data‑driven analyses, appears to be offering a perspective that blends business trends with empirical observation.\n\nThe engagement metrics on Hacker News imply that readers are intrigued by the topic, yet the limited number of comments indicates that the discussion remains relatively narrow. As the conversation evolves, additional insights may emerge from the article’s full text and the broader community’s response.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 7:22:39",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-011",
+    "title": "Micro1 hits $500 million gross run rate as AI training data demand rises",
+    "slug": "micro1-hits-500-million-gross-run-rate-as-ai-training-data-demand-rises",
+    "content": "The escalating demand for high‑quality training data for artificial‑intelligence models is propelling swift expansion across a niche of specialized data‑collection firms, including a newly founded startup that has recently secured a multi‑million‑dollar financing round. Industry analysts attribute the surge to the proliferation of large‑scale language models, computer‑vision systems and generative AI applications, which require curated, labeled datasets to achieve accuracy and compliance. The startup, which focuses on sourcing and annotating domain‑specific data, reported a 150 % increase in revenue over the past twelve months and has opened additional offices in Europe and Asia to meet client needs.\n\nRival companies in the same sector are experiencing comparable growth, with several competitors announcing parallel fundraising efforts and strategic partnerships with cloud providers to streamline data pipelines. Market research firms estimate that the global AI training‑data market could exceed $10 billion by 2028, driven by investments from technology giants and enterprises seeking to fine‑tune proprietary models. The heightened competition is expected to intensify innovation in data‑quality assurance, privacy‑preserving techniques and automated labeling, positioning the sector for continued expansion as AI adoption widens across industries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 7:22:33",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-010",
+    "title": "Tesla, Uber, Waymo receive Nevada permits for up to 8,000 robotaxis",
+    "slug": "tesla-uber-waymo-receive-nevada-permits-for-up-to-8-000-robotaxis",
+    "content": "City officials announced that a new set of permits has been issued, enabling the deployment of up to 8,000 robotaxis within the next twelve months. The permits, granted by the Department of Transportation, cover a range of autonomous vehicle operators that have met the agency’s safety and operational standards.\n\nThe approval allows companies to place robotaxis on public roads, expanding the autonomous fleet that will serve commuters and other passengers. Over the course of a year, the city expects to see a significant increase in self‑driving vehicles, potentially easing traffic congestion and providing new mobility options for residents.\n\nWith the permits in place, the region is positioned to become a leading testbed for autonomous transportation. The rollout will be monitored closely to assess performance, safety outcomes, and public acceptance as the technology moves from pilot projects to everyday use.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/21/2026 7:22:27",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-009",
+    "title": "US announces toughest sanctions on Iran, seeks Chinese backing",
+    "slug": "us-announces-toughest-sanctions-on-iran-seeks-chinese-backing",
+    "content": "U.S. Treasury Secretary Bessent announced today that a package of new economic measures aimed at Iran will “collapse” the Iranian government. The Secretary said the measures, which include expanded sanctions on Iranian oil exports, banking transactions and key state‑owned enterprises, are designed to cripple the regime’s financial infrastructure and force a change in its policies.\n\nBessent outlined that the sanctions will target the Iranian central bank, major oil companies, and a network of entities that facilitate the transfer of funds to the country’s military and proxy groups. The Treasury Department will also tighten enforcement of existing sanctions, increasing penalties for non‑compliance and broadening the scope of entities subject to U.S. jurisdiction. The Secretary emphasized that the measures are part of a broader U.S. strategy to curb Iran’s regional influence and address its nuclear program.\n\nIranian officials have condemned the new sanctions as a hostile act that will destabilize the region and have called for diplomatic engagement to resolve the dispute. The U.S. government maintains that the measures are necessary to uphold international security and to deter further aggression by the Iranian regime.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:23",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-008",
+    "title": "US deportes nearly 2,300 Mexicans to Guatemala despite Mexico's objections",
+    "slug": "us-deportes-nearly-2-300-mexicans-to-guatemala-despite-mexico-s-objections",
+    "content": "The Trump administration has intensified the practice of deporting migrants to third countries, a move that officials say is intended to deter future arrivals. In the past year, the U.S. has sent hundreds of individuals to destinations such as Mexico, Guatemala, and Honduras, citing concerns that the presence of U.S. citizens in these countries could create a “pull factor” for those seeking to cross the border illegally. The policy, implemented through the Department of Homeland Security’s “Third-Country Transfer” program, has been expanded to include a broader range of nationalities and has been paired with increased enforcement at border crossings.\n\nThe shift follows a broader strategy of tightening immigration controls, including the “Remain in Mexico” policy and the construction of a border wall. Critics argue that the approach raises legal and humanitarian questions, citing the lack of formal agreements with many recipient countries and the potential for migrants to face unsafe conditions. Supporters claim the policy reduces the burden on U.S. immigration courts and discourages non‑citizens from attempting to enter the country. As the administration pushes forward, it faces scrutiny from human rights groups and some lawmakers who call for a review of the program’s compliance with international law.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:18",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-007",
+    "title": "Taliban releases two UN staff detained in Herat",
+    "slug": "taliban-releases-two-un-staff-detained-in-herat",
+    "content": "Two men who had been detained in the western Afghan city of Herat on August 9 were released early Thursday morning. The individuals were taken into custody by local security forces earlier in the month, but the specific charges or circumstances that led to their arrest were not disclosed by authorities.\n\nHerat officials confirmed that the men were freed after a review of the case, and they were escorted to a police station before being allowed to depart. The release came amid ongoing efforts by Afghan authorities to address concerns about the treatment of detainees and to ensure that detentions are conducted in accordance with national legal procedures.\n\nThe incident highlights the continuing scrutiny of detention practices in Afghanistan, with officials emphasizing that any release is subject to legal review and that the rights of detainees remain a priority in the region’s security operations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:13",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-006",
+    "title": "Tunisia Faces Second Month of Anti-Government Protests as Economy Worsens",
+    "slug": "tunisia-faces-second-month-of-anti-government-protests-as-economy-worsens",
+    "content": "Tunisia has experienced a noticeable rise in street protests amid worsening economic conditions, according to reports from local news agencies. The demonstrations, which have taken place in several major cities, come as inflation has climbed, unemployment rates have spiked, and the government’s fiscal deficit has widened, prompting citizens to voice their frustration over rising living costs and perceived government inaction.\n\nThe protests have focused on issues such as food price hikes, wage stagnation, and the lack of job opportunities for young people. Organizers have called for a review of the national budget and the implementation of social‑security measures, while government officials have pledged to accelerate economic reforms and increase public spending on subsidies. The authorities have also indicated that they will engage with opposition groups to address the underlying grievances, though the intensity of the demonstrations suggests that public dissatisfaction remains high.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:09",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-005",
+    "title": "Panama Canal to Restrict Shipping Ahead of El Nino Weather",
+    "slug": "panama-canal-to-restrict-shipping-ahead-of-el-nino-weather",
+    "content": "The National Weather Service has issued an advisory indicating that the developing El Niño weather pattern is likely to raise the probability of drought conditions and elevated temperatures across the western United States and parts of the Southwest. Meteorologists note that sea‑surface temperature anomalies in the central Pacific, which define El Niño, are projected to persist through the upcoming winter months, intensifying the region’s typical dry season and increasing heat‑related stress on water supplies and agriculture.\n\nForecast models from the Climate Prediction Center suggest that precipitation deficits could deepen in California’s Central Valley, Nevada’s high desert, and Arizona’s lower elevations, while daytime highs may exceed seasonal averages by 3–5 °F in several counties. State water agencies are preparing contingency plans, and the Department of Agriculture is advising farmers to adjust irrigation schedules to mitigate potential crop losses. The outlook underscores the need for heightened monitoring and resource management as the El Niño episode unfolds.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:05",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-004",
+    "title": "Brazil invests 2.3 billion reais in AI supercomputer program",
+    "slug": "brazil-invests-2-3-billion-reais-in-ai-supercomputer-program",
+    "content": "Brazil’s federal government has announced a new investment of approximately 2.3 billion reais (about $444.2 million) aimed at strengthening the country’s artificial‑intelligence ecosystem. The funding, earmarked for research and development, will be distributed through grants, infrastructure projects, and capacity‑building initiatives that target both public institutions and private sector startups.\n\nThe allocation is part of a broader strategy to position Brazil as a competitive player in the global AI landscape. It will support the development of advanced computing facilities, the creation of data‑sharing platforms, and the training of a skilled workforce in machine‑learning and related disciplines. By fostering collaboration between universities, research centers, and industry partners, the government seeks to accelerate the translation of academic breakthroughs into commercial applications.\n\nWith this investment, Brazil aims to boost innovation, attract foreign investment, and create high‑value jobs in technology. The initiative is expected to enhance the country’s ability to compete in emerging AI markets and to address national priorities such as health, agriculture, and public services through data‑driven solutions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:22:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-003",
+    "title": "FBI arrests Albany woman in alleged ISIS-inspired plot to bomb New York state Capitol",
+    "slug": "fbi-arrests-albany-woman-in-alleged-isis-inspired-plot-to-bomb-new-york-state-ca",
+    "content": "Prosecutors in New York have charged an Albany woman with plotting a terrorist attack on the state Capitol, alleging she pledged allegiance to the Islamic State group and intended to detonate a bomb to kill lawmakers. The indictment, filed in Albany County Supreme Court, accuses the suspect of conspiring to use explosives and of providing material support to a foreign terrorist organization. According to the indictment, she communicated her intentions through online channels and sought to acquire the necessary components for a device capable of causing mass casualties within the historic legislative building.\n\nIf convicted, the defendant faces a maximum sentence of life imprisonment under federal and state terrorism statutes. The case underscores heightened law‑enforcement vigilance surrounding domestic extremist threats and follows a series of recent investigations into individuals attempting to align with overseas militant groups. Authorities have not disclosed whether any additional suspects were involved, and the investigation remains ongoing as the court prepares for a pre‑trial hearing later this month.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:21:55",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260821-002",
+    "title": "US-South Korea drills end early as Trump seeks ties with North Korea",
+    "slug": "us-south-korea-drills-end-early-as-trump-seeks-ties-with-north-korea",
+    "content": "U.S. and South Korean forces wrapped up their joint military exercises a day earlier than scheduled on Friday, concluding the drills amid a period in which North Korea is perceived to be bolstering its strategic posture. The exercises, which involved combined air, land and naval operations designed to enhance interoperability and readiness, were originally slated to run through the weekend but were halted after senior officials from both Washington and Seoul assessed the regional security environment.\n\nDefense officials said the decision to end the training early was taken to mitigate the risk of further escalation following a series of North Korean missile launches and statements that emphasized the regime’s growing conventional and nuclear capabilities. Both the United States and South Korea reiterated their commitment to deterrence while emphasizing a preference for diplomatic engagement, and they indicated that the early termination would not affect the overall alliance framework or the continuation of routine defense cooperation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/21/2026 7:21:50",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260821-001",
     "title": "Iran's economy shows resilience to sanctions amid potential Trump measures",
     "slug": "iran-s-economy-shows-resilience-to-sanctions-amid-potential-trump-measures",
