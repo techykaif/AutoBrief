@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260825-412",
+    "title": "A Census Bureau report on noncitizen voting has ties to a Trump-aligned think tank",
+    "slug": "a-census-bureau-report-on-noncitizen-voting-has-ties-to-a-trump-aligned-think-ta",
+    "content": "A Trump‑aligned think tank has been linked to an anomalous Census Bureau report that President Donald Trump is citing to revive allegations that non‑U.S. citizens cast large numbers of ballots in the 2020 election, NPR reported. The think tank, identified as the Heritage Foundation, commissioned a study that referenced a little‑known Census Bureau document describing “foreign‑born voting patterns,” a report that has not been released publicly and whose methodology has not been validated by independent experts.\n\nThe Heritage Foundation’s analysis extrapolated data from the unpublished Census material to suggest that millions of foreign‑born individuals were eligible to vote, despite the fact that non‑citizens are barred from voting in federal elections. The president’s recent remarks echoed this claim, asserting that the 2020 vote was “stolen” by illegal voters, a narrative that has been repeatedly debunked by election officials and courts. NPR’s investigation found that the Census Bureau’s internal report was intended for internal use only and was not meant to serve as evidence of voter fraud.\n\nThe revelation underscores ongoing efforts to leverage questionable data to support unfounded assertions about the 2020 election. Officials from the Census Bureau and the Department of Justice have stated that there is no evidence of widespread non‑citizen voting, and the report in question remains unrelated to any official election statistics.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/25/2026 21:52:19",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-408",
+    "title": "Faster walking linked to higher daily activity in older adults",
+    "slug": "faster-walking-linked-to-higher-daily-activity-in-older-adults",
+    "content": "A recent longitudinal study conducted by researchers at the University of Jyväskylä in Finland has found that physical activity levels decline significantly as people age, even among older adults who are otherwise in good physical condition. The investigation tracked participants over a four‑year period, measuring their physical activity energy expenditure (PAEE) through objective monitoring devices.\n\nThe results revealed an average reduction of roughly 17 % in PAEE across the cohort. This decline was consistent across various age groups and was not fully explained by changes in body weight or health status, suggesting that age itself may be a strong predictor of reduced activity. The researchers noted that the decrease occurred despite participants maintaining overall fitness, indicating that other factors—such as lifestyle changes, social engagement, or environmental barriers—might contribute to the drop in activity.\n\nThese findings underscore the importance of targeted interventions to sustain physical activity in older populations. By identifying the magnitude of decline and its persistence even among fit individuals, the study provides a benchmark for public health programs aimed at promoting active aging and mitigating the risks associated with sedentary behavior.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/25/2026 21:51:55",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-387",
     "title": "That fake Grand Theft Auto VI demo is actually just malware",
     "slug": "that-fake-grand-theft-auto-vi-demo-is-actually-just-malware",
@@ -5475,28 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/23/2026 1:02:08",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-292",
-    "title": "Swedish police identify 17‑year‑old victim in school sword attack",
-    "slug": "swedish-police-identify-17-year-old-victim-in-school-sword-attack",
-    "content": "The principal of Brinell School confirmed that the 18‑year‑old suspect identified by police in connection with Friday’s deadly sword attack was enrolled at the institution. The assault, which took place at a nearby community center on Friday afternoon, resulted in three fatalities and several injuries before the assailant was subdued by security personnel. Authorities have placed the suspect in custody and are conducting a forensic examination of the weapon and the crime scene.\n\nLaw enforcement officials said the investigation is ongoing and that they are reviewing surveillance footage and interviewing witnesses to establish a motive. The school has activated its crisis‑response protocol, offering counseling services to students and staff while cooperating fully with investigators. No further threats have been reported, and officials emphasized that public safety measures remain in effect as the case proceeds through the legal system.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 1:02:03",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-291",
-    "title": "Israel and Turkey clash over Syria, challenging regional consensus",
-    "slug": "israel-and-turkey-clash-over-syria-challenging-regional-consensus",
-    "content": "Israel’s recent military operations in Syria have intensified tensions not only with Turkey but also with a broad coalition of regional and international actors. In the past month, the Israeli Defense Forces conducted a series of airstrikes targeting Iranian-backed militia positions near the Golan Heights, citing the need to prevent the transfer of advanced weaponry to hostile groups. The strikes, which reportedly hit multiple sites in the eastern Homs and Idlib provinces, were met with condemnation from Ankara, which accused Israel of violating Syrian sovereignty and escalating the conflict.\n\nTurkey’s reaction has been swift and forceful. Ankara has deployed additional naval and air assets to the eastern Mediterranean, and its foreign ministry has called for an urgent UN Security Council meeting to address the “unilateral” Israeli actions. Meanwhile, the United Nations and several Arab states have reiterated calls for a cessation of hostilities and the protection of civilian populations in Syria. The broader international community, including the United States and European Union, has urged restraint, noting that Israel’s operations risk destabilizing an already fragile ceasefire framework established by the Geneva peace talks.\n\nThe convergence of these diplomatic pressures underscores a growing consensus that Israel’s conduct in Syria deviates from accepted norms. While Israel maintains that its strikes are defensive measures against Iranian influence, the combined response from Turkey, the UN, and regional partners signals a unified stance against unilateral military actions that threaten to widen the Syrian conflict. As diplomatic channels remain strained, the situation remains volatile, with potential implications for regional stability and international law.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 1:01:57",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
