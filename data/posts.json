@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260825-056",
+    "title": "Headlong: Microharness for Persistent Agents",
+    "slug": "headlong-microharness-for-persistent-agents",
+    "content": "Headlong is a lightweight microharness designed to streamline the development and testing of persistent agents—software components that maintain long‑term state and interact continuously with external systems. The project, detailed in an update on Laude.org, offers a minimalistic framework that abstracts common agent concerns such as state persistence, fault tolerance, and lifecycle management, allowing developers to focus on business logic rather than boilerplate infrastructure.\n\nThe release notes highlight several core features: a built‑in persistence layer that supports multiple backends, a modular plugin system for extending agent capabilities, and a simple command‑line interface for deployment and monitoring. The tool has attracted attention on Hacker News, where its announcement received 12 upvotes and three comments, indicating early interest from the startup and open‑source communities. Contributors praised its concise API and the potential to accelerate prototype cycles for autonomous services.\n\nIn summary, Headlong provides a focused, easy‑to‑integrate solution for building resilient persistent agents. By reducing setup complexity and offering flexible persistence options, it aims to lower the barrier for teams seeking to deploy long‑running, stateful applications in production environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/25/2026 10:22:14",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-055",
+    "title": "Data Centers Drive Rapid Expansion of Gas Power Projects in the U.S.",
+    "slug": "data-centers-drive-rapid-expansion-of-gas-power-projects-in-the-u-s",
+    "content": "The rapid expansion of data centers across North America and Europe has spurred a surge in natural‑gas projects, with dozens of new plants either proposed or already under construction. Industry analysts point to the growing energy demands of high‑density server farms as the primary driver, noting that many operators are turning to gas‑fired power generation for its reliability and lower carbon intensity compared to coal. In the United States, for example, several mid‑size gas turbines are slated to begin operations by 2025, while European utilities are investing in combined‑cycle facilities to meet the projected 30‑percent increase in data‑center electricity consumption over the next decade.\n\nKey details of the boom include the geographic spread of these projects. In the U.S., new gas plants are clustered around major metropolitan hubs such as the Dallas‑Fort Worth area, the San Francisco Bay region, and the New York‑New Jersey corridor—locations that also host the largest concentrations of cloud‑service providers. European developments are concentrated in the Netherlands, Germany, and the United Kingdom, where data‑center operators are partnering with local utilities to secure dedicated gas supply contracts. These partnerships often involve long‑term agreements that guarantee a steady supply of power while allowing operators to meet regulatory emissions targets.\n\nThe broader context underscores a shift in the data‑center industry’s energy strategy. While renewable sources remain a long‑term goal, the immediacy of meeting current demand has led many operators to rely on natural gas as a bridge technology. This trend is likely to persist until storage and grid‑scale renewable solutions mature enough to support the high‑density, 24‑hour power needs of modern data‑center facilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/25/2026 10:22:09",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-054",
+    "title": "Rare Tornado Strikes Carcassonne, France, Causing Damage and Injuries",
+    "slug": "rare-tornado-strikes-carcassonne-france-causing-damage-and-injuries",
+    "content": "A rare tornado was captured on video as it tore across parts of southern France on Thursday, an event that has drawn attention from meteorologists and emergency services alike. The funnel, visible from a highway near the town of Nîmes, was estimated to be 200 meters wide and produced wind speeds of up to 120 kilometers per hour, according to the French Meteorological Service (Météo-France). While no injuries have been reported, several trees were uprooted and a few roofs were damaged in the surrounding villages.\n\nMétéo-France confirmed that the storm system responsible for the tornado was an isolated supercell that formed over the Mediterranean Sea before moving inland. The agency issued a tornado warning for the region earlier in the day, prompting local authorities to suspend traffic on major roads and to advise residents to seek shelter. Emergency crews are currently assessing the extent of the damage and have urged residents to remain cautious as additional thunderstorms are expected to develop over the next 48 hours.\n\nThe incident underscores the increasing frequency of severe weather events in Europe, a trend that scientists attribute to climate change. While tornadoes are uncommon in France, the country has experienced a modest rise in such occurrences over the past decade. Authorities remain on alert, and Météo-France will continue to monitor the weather patterns that may lead to further hazardous conditions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 10:22:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-053",
+    "title": "France and Saudi Arabia approve $7 billion theme park near Paris",
+    "slug": "france-and-saudi-arabia-approve-7-billion-theme-park-near-paris",
+    "content": "Saudi Crown Prince Mohammed bin Salman concluded a multi‑sector diplomatic tour of Paris by signing a series of agreements that span energy, defence, artificial intelligence and tourism, including a new theme‑park project slated for development in Saudi Arabia. The deals were announced on Friday as part of a broader effort to deepen economic ties between Saudi Arabia and France, with the Crown Prince meeting French officials and business leaders throughout his three‑day visit.\n\nAmong the signed contracts, a French entertainment consortium will partner with the Saudi sovereign wealth fund to build a large‑scale theme park that aims to attract both domestic and international visitors. Parallel agreements cover a joint venture in renewable‑energy infrastructure, a defence procurement package involving advanced aerospace systems, and a collaborative AI research programme linking French tech firms with Saudi research institutions. French officials highlighted the projects as a boost to bilateral trade, while Saudi representatives framed them as key components of the Kingdom’s Vision 2030 diversification strategy.\n\nThe suite of agreements underscores a renewed momentum in Franco‑Saudi cooperation, signaling a shift toward high‑value, technology‑driven investments. Observers note that the theme‑park initiative, alongside the other deals, illustrates the Crown Prince’s focus on expanding the Kingdom’s non‑oil economy and strengthening strategic partnerships with European partners.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 10:21:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-052",
+    "title": "Syrian President Ahmed al-Sharaa thanks nation after removal from US terror list",
+    "slug": "syrian-president-ahmed-al-sharaa-thanks-nation-after-removal-from-us-terror-list",
+    "content": "Syrian President Ahmed al‑Sharaa publicly thanked the Syrian people on Tuesday after the United States announced the removal of Syria from its State Sponsors of Terrorism list. The decision, made by the U.S. Department of State, marks the first time since 2020 that Syria has been cleared of the designation that imposes stringent economic and diplomatic restrictions on the country.\n\nWashington’s move follows a series of diplomatic overtures, including Syria’s cooperation on counter‑terrorism measures and its pledge to curb extremist financing, as well as broader regional negotiations aimed at stabilising the conflict‑torn nation. U.S. officials indicated that the delisting reflects progress in these areas, though they emphasized that continued compliance will be monitored. President al‑Sharaa’s statement highlighted the perceived national achievement and signalled a desire to deepen international engagement, while analysts noted that the change could open pathways for increased foreign investment and aid, pending further reforms.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 10:21:53",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-051",
+    "title": "New Zealand sect leader jailed for death of Chinese follower",
+    "slug": "new-zealand-sect-leader-jailed-for-death-of-chinese-follower",
+    "content": "A body identified as 70‑year‑old Shulai Wang was discovered near a marina on the outskirts of Auckland earlier this year. Police were alerted to the location after a passerby reported the find, prompting officers to secure the scene and initiate a formal investigation into the circumstances surrounding the death.\n\nAuthorities have confirmed Wang’s identity through forensic examination and are treating the case as a homicide pending further inquiry. Investigators are reviewing surveillance footage from the marina, interviewing witnesses, and coordinating with local forensic teams to determine the cause of death and any potential links to other incidents in the area. The police have asked anyone with information to come forward, emphasizing that the investigation remains ongoing.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 10:21:48",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-048",
     "title": "Airbound Raises $37M for Drone Delivery",
     "slug": "airbound-raises-37m-for-drone-delivery",
@@ -5431,72 +5497,6 @@
     "categorySlug": "sports",
     "publishedAt": "8/22/2026 13:11:57",
     "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-061",
-    "title": "Russian strikes kill at least two in Ukraine, injure several",
-    "slug": "russian-strikes-kill-at-least-two-in-ukraine-injure-several",
-    "content": "At least two people were reported dead early Saturday, local authorities said, after a new wave of Russian strikes hit Ukrainian territory. The casualties were confirmed in the aftermath of air and missile attacks that targeted residential areas and infrastructure, adding to the toll of recent hostilities in the region.\n\nThe Saturday attacks followed a series of bombings on Friday that killed at least 20 people, including 16 victims of a daytime drone strike on a crowded shopping centre in Kryvyi Rih, the hometown of President Volodymyr Zelensky. Ukrainian officials have condemned the escalations, while international observers continue to monitor the situation amid ongoing conflict between Russia and Ukraine.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/22/2026 13:11:51",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-060",
-    "title": "Court hears Lindsay Clancy experienced command hallucinations during child killings",
-    "slug": "court-hears-lindsay-clancy-experienced-command-hallucinations-during-child-killi",
-    "content": "In a pivotal moment of the ongoing murder trial, the defense called its final witness—a forensic psychiatrist—to the stand on Tuesday. The specialist was tasked with explaining the clinical characteristics of postpartum psychosis, a rare but severe mental‑health condition that can emerge in the weeks following childbirth and is associated with hallucinations, delusions, and extreme mood disturbances. By detailing how the disorder can impair judgment and reality testing, the psychiatrist aimed to establish a link between the defendant’s recent postpartum period and the alleged criminal conduct.\n\nThe testimony, which lasted approximately forty minutes, included references to diagnostic criteria, typical symptom trajectories, and the potential for sudden, impulsive actions driven by psychotic episodes. Prosecutors cross‑examined the expert on the rarity of violent behavior among postpartum psychosis patients and on the availability of treatment options. The court will now consider the psychiatrist’s insights alongside other evidence before delivering a verdict, with the judge slated to issue a ruling later this month.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/22/2026 13:11:47",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-059",
-    "title": "Cris Cyborg’s title not at stake after Ketlen Vieira misses weight",
-    "slug": "cris-cyborg-s-title-not-at-stake-after-ketlen-vieira-misses-weight",
-    "content": "Cris “Cyborg” Justino’s feather‑weight world title bout at the Professional Fighters League (PFL) event in Tampa on Saturday will no longer be contested for the championship after her scheduled opponent, Ketlen Vieira, failed to make the required weight limit. The fight, originally billed as a title defense for the Brazilian veteran, will proceed as a non‑title bout following the weigh‑in results.\n\nPFL officials confirmed that Vieira’s excess weight disqualified the contest from being a championship match, and the organization will enforce the standard penalties for missing weight, including a fine and a portion of her purse being awarded to Cyborg. The change does not affect the fighters’ contracts or the overall card, and the bout will still be featured as part of the league’s regular season schedule.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/22/2026 12:32:21",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-058",
-    "title": "UK recycling centres lose £1bn annually to lithium battery fires",
-    "slug": "uk-recycling-centres-lose-1bn-annually-to-lithium-battery-fires",
-    "content": "Experts report that fires ignited by improperly discarded lithium batteries—commonly found in vapes—are now occurring at waste facilities at a rate exceeding ten incidents per week. The new figures highlight a growing safety concern as these battery‑related blazes threaten the lives of workers and nearby residents.\n\nThe volume of such fires has reached a crisis level, according to fire safety specialists, with annual costs estimated at £1 billion. Fire chiefs have expressed frustration over the frequency and severity of the incidents, noting that the rapid spread of lithium‑battery fires complicates emergency response and increases the risk of injury and property damage.\n\nAuthorities are reviewing current disposal regulations and encouraging stricter compliance to curb the trend. The situation underscores the need for improved public awareness and more robust waste‑management protocols for high‑energy batteries.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "8/22/2026 12:32:16",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-057",
-    "title": "OpenAI cuts GPT‑5.6 Sol price by 20%",
-    "slug": "openai-cuts-gpt-5-6-sol-price-by-20",
-    "content": "OpenAI has announced the launch of a new language model, GPT‑5.6, which is now available through its API. The update, detailed on the company’s developer documentation site, introduces a “sol” variant that offers refined performance on a range of natural‑language tasks, including text generation, summarization, and code synthesis. According to the release notes, GPT‑5.6 builds on the architecture of its predecessor, GPT‑5, with optimizations that reduce inference latency and improve context handling for longer prompts.\n\nThe model is positioned as a drop‑in replacement for earlier versions, with developers encouraged to test it against their existing workloads. OpenAI highlights that GPT‑5.6 achieves higher accuracy on benchmark datasets such as MMLU and OpenBookQA, while also incorporating enhanced safety mitigations to curb hallucinations and reduce bias. The announcement has sparked discussion on Hacker News, where the post has attracted 38 up‑votes and 20 comments, with users evaluating the practical gains in performance and the cost implications of adopting the new model.\n\nWhile the exact pricing tier for GPT‑5.6 remains to be confirmed, the release underscores OpenAI’s ongoing commitment to iterative improvements in its language models. The company has stated that the new variant will be available to all API customers in the coming weeks, and it is expected to influence a broad spectrum of applications—from conversational agents to automated content creation—by providing more reliable and contextually aware outputs.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/22/2026 12:32:11",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-056",
-    "title": "Canada to Match US Tariffs Dollar for Dollar, Says Finance Minister",
-    "slug": "canada-to-match-us-tariffs-dollar-for-dollar-says-finance-minister",
-    "content": "Toronto – In recent weeks, Canada has moved forward in negotiations aimed at securing what officials describe as “the best deal in the world” with the United States, according to Mark Carney, former governor of the Bank of Canada and current special envoy on trade. Carney highlighted a series of incremental agreements on tariffs, regulatory alignment, and cross‑border investment that have narrowed gaps identified in earlier rounds of talks. The advances, he noted, reflect a concerted effort by both governments to strengthen economic ties and address lingering issues such as agricultural market access and digital trade provisions.\n\nDespite the progress, Carney cautioned that the gains fall short of the objectives set for Canadian stakeholders. He emphasized that the current trajectory does not fully meet the expectations for job creation, price stability, and broader economic benefits that were outlined at the outset of the negotiations. The statement underscores the need for further dialogue and potential concessions before a final agreement can be ratified, signaling that while momentum exists, additional work remains to align the deal with Canada’s strategic priorities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/22/2026 12:32:06",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
