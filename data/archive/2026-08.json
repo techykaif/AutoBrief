@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260822-316",
+    "title": "USPS Tightens Mail‑In Voting Rules Amid Court Challenges",
+    "slug": "usps-tightens-mail-in-voting-rules-amid-court-challenges",
+    "content": "The United States Postal Service announced on Friday that it will adopt new eligibility guidelines for mail‑in ballots, a move that aligns with President Donald Trump’s March executive order that limited the practice. The order, which was later invalidated by a federal court, had sought to restrict the distribution of absentee voting materials. Despite the court’s ruling, USPS said it would proceed with the guidelines as a means of complying with the executive directive.\n\nIn a 95‑page unpublished report that the agency plans to release on August 26, USPS outlined the procedures it will use to distribute mail‑in ballots for the November midterm elections. The document details the logistics of ballot delivery, eligibility verification, and the handling of absentee requests, providing a comprehensive framework for the upcoming election cycle. The report is intended to clarify how the postal service will manage ballot distribution under the new rules while maintaining compliance with federal regulations.\n\nThe announcement signals USPS’s commitment to implementing the executive order’s restrictions, even as the legal landscape surrounding absentee voting remains unsettled. The forthcoming report will offer the public and election officials a clearer view of the agency’s operational plan for the midterms, underscoring the postal service’s role in facilitating voter participation within the bounds of current policy directives.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/23/2026 2:12:24",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-315",
     "title": "Local LLMs Often Seem Less Capable Due to Dataset Size and Context Limits",
     "slug": "local-llms-often-seem-less-capable-due-to-dataset-size-and-context-limits",

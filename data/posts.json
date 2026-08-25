@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-488",
+    "title": "Article Discusses Optimal Tooltip Delay and Skipping Mechanism",
+    "slug": "article-discusses-optimal-tooltip-delay-and-skipping-mechanism",
+    "content": "A recent post on the Master.Dev blog, titled “Tooltips need a delay and then they need to skip it,” examines the nuanced behavior of tooltip displays in web interfaces. The author argues that a brief delay before a tooltip appears prevents accidental pop‑ups during rapid mouse movement, while an additional “skip” logic—hiding the tooltip if the cursor leaves the target area before the delay completes—reduces visual clutter and improves user experience. The article cites research on human‑computer interaction and provides code snippets illustrating how to implement these features in JavaScript frameworks such as React and Vue.\n\nThe discussion was shared on Hacker News, where the post currently holds six points and has yet to generate any comments. The community’s modest engagement suggests the topic is of niche interest, likely resonating with front‑end developers and UX designers focused on refining subtle interface interactions. The article’s practical guidance and reference to empirical studies make it a useful resource for teams seeking to balance responsiveness with usability in tooltip design.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/25/2026 23:21:54",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-469",
     "title": "Majority of Democrats in early 2028 primary states oppose U.S. aid to Israel, cite genocide claims",
     "slug": "majority-of-democrats-in-early-2028-primary-states-oppose-u-s-aid-to-israel-cite",
@@ -5485,17 +5496,6 @@
     "category": "Politics",
     "categorySlug": "politics",
     "publishedAt": "8/23/2026 2:12:37",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-316",
-    "title": "USPS Tightens Mail‑In Voting Rules Amid Court Challenges",
-    "slug": "usps-tightens-mail-in-voting-rules-amid-court-challenges",
-    "content": "The United States Postal Service announced on Friday that it will adopt new eligibility guidelines for mail‑in ballots, a move that aligns with President Donald Trump’s March executive order that limited the practice. The order, which was later invalidated by a federal court, had sought to restrict the distribution of absentee voting materials. Despite the court’s ruling, USPS said it would proceed with the guidelines as a means of complying with the executive directive.\n\nIn a 95‑page unpublished report that the agency plans to release on August 26, USPS outlined the procedures it will use to distribute mail‑in ballots for the November midterm elections. The document details the logistics of ballot delivery, eligibility verification, and the handling of absentee requests, providing a comprehensive framework for the upcoming election cycle. The report is intended to clarify how the postal service will manage ballot distribution under the new rules while maintaining compliance with federal regulations.\n\nThe announcement signals USPS’s commitment to implementing the executive order’s restrictions, even as the legal landscape surrounding absentee voting remains unsettled. The forthcoming report will offer the public and election officials a clearer view of the agency’s operational plan for the midterms, underscoring the postal service’s role in facilitating voter participation within the bounds of current policy directives.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/23/2026 2:12:24",
     "author": "The Hill",
     "isFeatured": false
   }
