@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260822-028",
+    "title": "FDA Approves First Standalone Robotic Blood-Draw Device",
+    "slug": "fda-approves-first-standalone-robotic-blood-draw-device",
+    "content": "The U.S. Food and Drug Administration has granted marketing authorization to Vitestro for its Aletta system, the first standalone robotic device capable of drawing blood from a patient’s arm. The FDA’s approval marks a milestone in medical device innovation, allowing Aletta to be used in clinical settings without the need for a traditional phlebotomist.\n\nAletta operates by autonomously locating a vein, inserting a needle, and collecting the required volume of blood. The system is designed to reduce patient discomfort, improve consistency in sample collection, and free up healthcare staff for other tasks. Vitestro’s technology has undergone extensive clinical testing to demonstrate safety, accuracy, and reliability in a range of patient populations.\n\nWith this authorization, Vitestro becomes the first company to bring a fully automated blood‑draw device to the U.S. market, potentially reshaping routine phlebotomy procedures in hospitals, laboratories, and outpatient clinics.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/22/2026 9:21:58",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-027",
+    "title": "Two-thirds of Americans support banning glyphosate, survey finds",
+    "slug": "two-thirds-of-americans-support-banning-glyphosate-survey-finds",
+    "content": "A new nationally representative poll conducted by the Annenberg Public Policy Center at the University of Pennsylvania finds that two‑thirds of Americans support banning glyphosate, the herbicide’s active ingredient in the widely used Roundup weedkiller, from crops grown in the United States. The survey, which sampled a cross‑section of the adult population, indicates a substantial shift in public opinion toward stricter regulation of the chemical in domestic agriculture.\n\nThe findings arrive amid ongoing debate over glyphosate’s safety, with health agencies and courts previously weighing its carcinogenic potential and numerous lawsuits challenging its use. While the federal government has yet to enact a nationwide ban, the strong public preference highlighted by the APPC study could influence future policy discussions and regulatory actions concerning the herbicide’s application on food crops.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/22/2026 9:21:53",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-026",
+    "title": "Early Humans Consumed Carbohydrates and Sugary Foods, Study Finds",
+    "slug": "early-humans-consumed-carbohydrates-and-sugary-foods-study-finds",
+    "content": "A new synthesis of archaeological, biochemical and genetic evidence indicates that early human ancestors regularly consumed a diet rich in natural sugars and complex carbohydrates, challenging the long‑standing view that prehistoric hominins subsisted primarily on meat and raw vegetation. Researchers examined dental calculus, stable‑isotope ratios in fossilized bones, and plant micro‑remains from sites dating between 2 million and 200 thousand years ago, finding consistent traces of fruit sugars, tuber starches and even honey residues. These findings are corroborated by genetic analyses that show a gradual increase in AMY1 gene copy number—responsible for salivary amylase production—across Homo species, suggesting an evolutionary response to higher carbohydrate intake.\n\nThe study highlights that early hominins exploited a variety of carbohydrate sources, including ripe fruits, underground storage organs, and seasonal nectar, to meet energy demands during periods of low meat availability. Microwear patterns on molar surfaces reveal grinding motions typical of processing fibrous plant material, while isotopic signatures point to a mixed diet with up to 30 percent of caloric intake derived from plant‑based sugars and starches. The timing of these dietary shifts aligns with climatic fluctuations that expanded savanna habitats, providing abundant edible flora and encouraging foraging behaviors that later paved the way for the development of cooking and food processing techniques.\n\nThese insights refine the understanding of human nutritional evolution, illustrating that carbohydrate consumption has deep roots in our lineage. The evidence underscores the adaptability of early ancestors to diverse food resources and offers a broader context for contemporary discussions on diet and metabolic health.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 9:21:49",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-025",
     "title": "Lord O'Neill declines role as Andy Burnham's chief economic adviser",
     "slug": "lord-o-neill-declines-role-as-andy-burnham-s-chief-economic-adviser",

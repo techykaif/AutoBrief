@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260824-350",
+    "title": "FDA approves new blood test for Alzheimer’s disease",
+    "slug": "fda-approves-new-blood-test-for-alzheimer-s-disease",
+    "content": "The U.S. Food and Drug Administration has approved Roche’s Elecsys Phospho‑Tau blood test for diagnosing Alzheimer’s disease, marking the fourth Alzheimer’s blood‑based diagnostic test cleared by the agency in under two years. The approval, announced by Roche on Sunday, adds to a rapidly expanding portfolio of laboratory tools that aim to detect the neurodegenerative condition through a simple blood draw rather than more invasive procedures such as lumbar puncture or costly imaging.\n\nThe Elecsys Phospho‑Tau assay measures phosphorylated tau protein, a biomarker associated with the formation of neurofibrillary tangles in the brain. FDA clearance follows a series of clinical studies that demonstrated the test’s ability to differentiate Alzheimer’s disease from other dementias with a high degree of accuracy. The move reflects the agency’s broader effort to facilitate earlier and more accessible diagnosis, potentially enabling timely therapeutic interventions and better patient management as the prevalence of Alzheimer’s continues to rise.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/25/2026 6:12:19",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-344",
+    "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+    "slug": "supreme-court-pauses-lower-court-ruling-on-trump-s-mail-voting-order-as-hurdles",
+    "content": "The Supreme Court has temporarily halted a lower court’s injunction that had barred key provisions of former President Donald Trump’s executive order aimed at restricting mail‑in voting for the upcoming midterm elections. The order, issued in December, sought to limit the use of absentee ballots and tighten the requirements for voters to receive and return them by mail. While the Supreme Court’s pause relieves the immediate pressure on the order’s enforcement, it does not lift the nationwide injunction that blocks the United States Postal Service from carrying out the order’s directives.  \n\nThe lower court had found that the order violated the Voting Rights Act and the Constitution’s protections for absentee voting, and it had ordered the Postal Service to cease any actions that would reduce the availability of mail‑in ballots. By pausing that ruling, the Supreme Court has given the Postal Service a brief window to comply with the order, but the broader injunction remains in effect, preventing the agency from implementing any changes that would limit mail voting across the country. The decision leaves the legal battle over the order’s validity and the Postal Service’s role in the midterm election logistics unresolved.  \n\nIn short, the Supreme Court’s pause relieves the immediate injunction against Trump’s mail‑voting restrictions, yet the nationwide block on Postal Service work remains in place, leaving the implementation of the order in limbo until further judicial review.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/25/2026 6:11:57",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260824-341",
+    "title": "Bird flu H5N1 detected in Australian fur seal, scientists warn risk to sea lion population",
+    "slug": "bird-flu-h5n1-detected-in-australian-fur-seal-scientists-warn-risk-to-sea-lion-p",
+    "content": "Scientists warn that the H5N1 avian influenza strain that has already devastated seal populations in South America and sub‑Antarctic waters could threaten Australia’s marine mammals.  The virus has caused catastrophic losses among seal pups in those regions, and experts predict similar “carnage” could follow if the disease spreads further.  The concern is heightened by the recent detection of H5N1 in a long‑nosed fur seal in South Australia, the first confirmed case of the virus in a mainland mammal in the country.\n\nThe outbreak was confirmed after a dead long‑nosed fur seal was found at Beachport on the Limestone Coast.  Laboratory tests revealed the presence of H5N1, the same highly pathogenic strain that has been linked to mass mortality events in seal colonies worldwide.  Authorities are now monitoring seal and sea lion populations across the coast, and wildlife health teams are working to assess the extent of the outbreak and implement containment measures.\n\nWhile the full impact on Australia’s seal and sea lion populations remains uncertain, the detection of H5N1 in a mainland mammal signals a potential escalation of the threat.  Scientists and wildlife managers are urging vigilance and rapid response to prevent further losses among these vulnerable marine mammals.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "8/25/2026 6:11:46",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260824-335",
     "title": "Small-molecule inhibitors shown to promote robust antitumor immunity",
     "slug": "small-molecule-inhibitors-shown-to-promote-robust-antitumor-immunity",
@@ -5464,39 +5497,6 @@
     "categorySlug": "health",
     "publishedAt": "8/22/2026 9:22:04",
     "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-028",
-    "title": "FDA Approves First Standalone Robotic Blood-Draw Device",
-    "slug": "fda-approves-first-standalone-robotic-blood-draw-device",
-    "content": "The U.S. Food and Drug Administration has granted marketing authorization to Vitestro for its Aletta system, the first standalone robotic device capable of drawing blood from a patient’s arm. The FDA’s approval marks a milestone in medical device innovation, allowing Aletta to be used in clinical settings without the need for a traditional phlebotomist.\n\nAletta operates by autonomously locating a vein, inserting a needle, and collecting the required volume of blood. The system is designed to reduce patient discomfort, improve consistency in sample collection, and free up healthcare staff for other tasks. Vitestro’s technology has undergone extensive clinical testing to demonstrate safety, accuracy, and reliability in a range of patient populations.\n\nWith this authorization, Vitestro becomes the first company to bring a fully automated blood‑draw device to the U.S. market, potentially reshaping routine phlebotomy procedures in hospitals, laboratories, and outpatient clinics.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/22/2026 9:21:58",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-027",
-    "title": "Two-thirds of Americans support banning glyphosate, survey finds",
-    "slug": "two-thirds-of-americans-support-banning-glyphosate-survey-finds",
-    "content": "A new nationally representative poll conducted by the Annenberg Public Policy Center at the University of Pennsylvania finds that two‑thirds of Americans support banning glyphosate, the herbicide’s active ingredient in the widely used Roundup weedkiller, from crops grown in the United States. The survey, which sampled a cross‑section of the adult population, indicates a substantial shift in public opinion toward stricter regulation of the chemical in domestic agriculture.\n\nThe findings arrive amid ongoing debate over glyphosate’s safety, with health agencies and courts previously weighing its carcinogenic potential and numerous lawsuits challenging its use. While the federal government has yet to enact a nationwide ban, the strong public preference highlighted by the APPC study could influence future policy discussions and regulatory actions concerning the herbicide’s application on food crops.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/22/2026 9:21:53",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-026",
-    "title": "Early Humans Consumed Carbohydrates and Sugary Foods, Study Finds",
-    "slug": "early-humans-consumed-carbohydrates-and-sugary-foods-study-finds",
-    "content": "A new synthesis of archaeological, biochemical and genetic evidence indicates that early human ancestors regularly consumed a diet rich in natural sugars and complex carbohydrates, challenging the long‑standing view that prehistoric hominins subsisted primarily on meat and raw vegetation. Researchers examined dental calculus, stable‑isotope ratios in fossilized bones, and plant micro‑remains from sites dating between 2 million and 200 thousand years ago, finding consistent traces of fruit sugars, tuber starches and even honey residues. These findings are corroborated by genetic analyses that show a gradual increase in AMY1 gene copy number—responsible for salivary amylase production—across Homo species, suggesting an evolutionary response to higher carbohydrate intake.\n\nThe study highlights that early hominins exploited a variety of carbohydrate sources, including ripe fruits, underground storage organs, and seasonal nectar, to meet energy demands during periods of low meat availability. Microwear patterns on molar surfaces reveal grinding motions typical of processing fibrous plant material, while isotopic signatures point to a mixed diet with up to 30 percent of caloric intake derived from plant‑based sugars and starches. The timing of these dietary shifts aligns with climatic fluctuations that expanded savanna habitats, providing abundant edible flora and encouraging foraging behaviors that later paved the way for the development of cooking and food processing techniques.\n\nThese insights refine the understanding of human nutritional evolution, illustrating that carbohydrate consumption has deep roots in our lineage. The evidence underscores the adaptability of early ancestors to diverse food resources and offers a broader context for contemporary discussions on diet and metabolic health.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/22/2026 9:21:49",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
