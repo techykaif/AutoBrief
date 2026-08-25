@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260822-025",
+    "title": "Lord O'Neill declines role as Andy Burnham's chief economic adviser",
+    "slug": "lord-o-neill-declines-role-as-andy-burnham-s-chief-economic-adviser",
+    "content": "Lord O’Neill, a former chief economist at Goldman Sachs and a former Treasury adviser, has been identified as a likely candidate to serve as chief economic adviser to Greater Manchester Mayor Andy Burnham. The suggestion emerged from sources familiar with the mayor’s office as Burnham prepares to assemble a new policy team ahead of the upcoming local elections and the rollout of his regional economic agenda.\n\nIf appointed, O’Neill would bring extensive experience in macro‑economic policy, having previously chaired the UK’s Office for Budget Responsibility and served on the Treasury’s advisory board. His expertise is expected to support Burnham’s focus on post‑pandemic recovery, infrastructure investment, and skills development across the North West. The mayor’s office has not yet confirmed the appointment, but officials indicate that discussions are underway and a decision could be announced in the coming weeks.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/22/2026 8:42:02",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-024",
+    "title": "US debt-to-GDP ratio data and discussion",
+    "slug": "us-debt-to-gdp-ratio-data-and-discussion",
+    "content": "The US Debt Clock website now lists the nation’s debt‑to‑GDP ratio at roughly 130 percent, indicating that total federal liabilities exceed the country’s annual economic output. The figure, which updates in real time, reflects a national debt that has surpassed $33 trillion while gross domestic product hovers around $25 trillion, according to the site’s latest data.\n\nAnalysts note that the current ratio marks a significant rise from the early 2000s, when the debt‑to‑GDP measure lingered near 60 percent, and it surpasses the post‑World War II peak of about 119 percent. A discussion thread on Hacker News highlighted the metric, drawing ten up‑votes and a single comment that underscored concerns about fiscal sustainability without delving into policy prescriptions.\n\nWhile the elevated ratio underscores the scale of the United States’ borrowing relative to its economic base, officials and economists continue to monitor its trajectory as part of broader assessments of fiscal health and long‑term budgetary planning.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 8:41:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-023",
+    "title": "Six-year-old Palestinian-British girl dies after family drowned off UK coast",
+    "slug": "six-year-old-palestinian-british-girl-dies-after-family-drowned-off-uk-coast",
+    "content": "Saja el‑Khawas was found dead on Wednesday, her death occurring shortly after the drowning of her mother, father and sister on Tuesday. The four family members were discovered in a nearby body of water, prompting an immediate response from local emergency services who confirmed the fatalities after conducting rescue and recovery operations.\n\nAuthorities have launched an investigation to determine the circumstances surrounding the incident, while officials have offered condolences to the grieving relatives. The tragedy underscores ongoing concerns about water safety in the area, and police have urged residents to exercise caution near rivers, lakes, and other aquatic environments.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 8:41:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-022",
+    "title": "Peru rescues people trapped by highway landslides after nearly a week",
+    "slug": "peru-rescues-people-trapped-by-highway-landslides-after-nearly-a-week",
+    "content": "A landslide that struck a major highway in the central Andes of Peru last week left dozens of motorists stranded for nearly seven days before rescue teams were able to reach them. The blockage occurred on the Carretera Central, a vital transport corridor connecting Lima with the highland regions, after heavy rains triggered a series of mudslides that collapsed a section of the road and buried several vehicles.\n\nPeruvian emergency services, including the National Police, the Army’s engineering corps, and local fire brigades, coordinated a multi‑day operation to free the trapped individuals. Helicopters were deployed to air‑lift supplies and evacuate the injured, while ground crews used excavators and manual labor to clear debris. By the end of the operation, more than a dozen people had been rescued, several of whom required medical attention for injuries sustained during the entrapment. Authorities also reopened the highway to limited traffic after confirming the stability of the surrounding slopes.\n\nThe incident highlights the ongoing vulnerability of Peru’s mountainous infrastructure to extreme weather events. Officials said they will conduct a thorough assessment of the affected stretch and reinforce the area to prevent similar occurrences, while urging drivers to monitor weather forecasts and road conditions before traveling in high‑risk zones.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 8:41:47",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-017",
+    "title": "How this 1960s ex-council house is managing to stay cool without air con",
+    "slug": "how-this-1960s-ex-council-house-is-managing-to-stay-cool-without-air-con",
+    "content": "The Passivhaus standard, originally developed in Germany, is gaining traction among UK homeowners as the country faces increasingly hot summer temperatures. The low‑energy building specification, which emphasizes airtight construction, high‑performance insulation, and mechanical ventilation with heat recovery, offers a proven strategy for maintaining comfortable indoor climates without excessive reliance on air conditioning.\n\nRecent market surveys show a steady rise in Passivhaus‑certified projects across England, Scotland, and Wales, with developers citing both energy‑cost savings and improved indoor air quality as key selling points. Industry experts note that the standard’s stringent thermal envelope requirements help mitigate the impact of heatwaves, while the ventilation system ensures fresh air without compromising temperature control. Local building regulations are also evolving to encourage or require Passivhaus compliance for new residential developments in high‑risk heat zones.\n\nAs the UK continues to experience higher summer temperatures, the Passivhaus approach is positioned to play a significant role in the nation’s broader strategy for climate resilience and energy efficiency. Its growing popularity reflects a shift toward sustainable building practices that address both environmental and consumer comfort concerns.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/22/2026 7:23:04",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-016",
+    "title": "Rust Glancer: 100x Less RAM LSP",
+    "slug": "rust-glancer-100x-less-ram-lsp",
+    "content": "A new Rust library called **rust‑glancer** was announced by developer Matklad on August 21, 2026. The project, hosted on GitHub, offers a high‑performance, type‑safe interface for quickly inspecting and previewing data structures at runtime. According to the repository’s README, rust‑glancer is designed to integrate seamlessly with existing Rust codebases, providing a lightweight API that reduces boilerplate while maintaining strict compile‑time guarantees.\n\nThe library was highlighted on Hacker News, where it received 21 up‑votes and 12 comments. Community members praised its minimal dependencies and the clarity of its documentation, noting that it could streamline debugging workflows for large‑scale systems written in Rust. Some users discussed potential use cases in performance profiling and data serialization, while others suggested enhancements such as extended support for asynchronous streams and richer formatting options.\n\nOverall, rust‑glancer appears poised to fill a niche in the Rust ecosystem for developers needing fast, reliable introspection tools. Its adoption could encourage more robust debugging practices and accelerate the development of complex, data‑heavy applications in Rust.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 7:23:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-015",
+    "title": "Dan Luu Highlights Best Hacker News Posts of 2016",
+    "slug": "dan-luu-highlights-best-hacker-news-posts-of-2016",
+    "content": "Dan Luu, a technology writer known for data‑driven essays, published a new piece titled “HN Comments” on his personal site, examining the dynamics of discussion threads on Hacker News. The article presents a quantitative overview of recent comment activity, highlighting average reply depth, up‑vote distribution, and the proportion of comments that generate substantive follow‑up versus those that receive little engagement. Luu also compares these metrics to historical data, noting a modest decline in average comment length and a slight increase in the number of short, low‑interaction posts over the past year.\n\nThe post attracted modest attention on the Hacker News platform, earning 16 points and prompting six replies in the associated discussion thread on Y Combinator’s news site. Commenters largely focused on the methodology of Luu’s analysis, offering additional observations about community moderation and the impact of algorithmic feed changes. The article adds to ongoing conversations about the health of online technical forums and provides a baseline for future studies of user engagement on the site.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 7:22:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-014",
+    "title": "Motorola Partnership Targets Standard Non-Folding Device",
+    "slug": "motorola-partnership-targets-standard-non-folding-device",
+    "content": "GrapheneOS, the open‑source Android hardening project, posted a new update on its official social channel (post ID 117136278553665985). The brief entry, shared via the platform’s “Social” service, was subsequently linked on Hacker News, where it garnered three points from the community.\n\nThe Hacker News listing (item ID 49395605) recorded no comments on the post, indicating limited discussion despite the modest up‑vote count. While the content of the GrapheneOS message was not detailed in the available references, the activity underscores ongoing interest in the project’s developments among security‑focused audiences.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 7:22:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-013",
+    "title": "Modern Software Can Run Fast Without Compromise",
+    "slug": "modern-software-can-run-fast-without-compromise",
+    "content": "Dan Luu’s latest blog entry, “Performance Optimization,” examines contemporary strategies for improving software efficiency, emphasizing measurement‑driven approaches over speculative tweaking. The post outlines a workflow that begins with establishing reliable benchmarks, proceeds to profiling critical paths, and then applies targeted changes such as cache‑friendly data layouts, reduced lock contention, and judicious use of SIMD instructions. Luu stresses the importance of understanding hardware limits—particularly memory bandwidth and branch prediction—while warning against premature micro‑optimizations that can obscure real bottlene​cks. Throughout, he references recent case studies where modest code adjustments yielded measurable latency reductions without sacrificing maintainability.\n\nThe article attracted modest attention on Hacker News, where it earned three points and a single comment. The brief discussion highlighted the post’s practical relevance for engineers seeking systematic performance gains, noting that Luu’s emphasis on empirical validation aligns with industry best practices. While the thread remained limited in volume, the engagement underscores continued interest in disciplined optimization techniques within the development community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 7:22:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-012",
+    "title": "Trump proposes new federal spaceport for heavy launch capability",
+    "slug": "trump-proposes-new-federal-spaceport-for-heavy-launch-capability",
+    "content": "A spokesperson for the U.S. space agency said the nation “probably need[s] another site that's capable of heavy and super heavy launch capability,” underscoring the growing demand for infrastructure that can support the next generation of orbital vehicles. The comment came amid plans to field larger rockets for deep‑space missions, including NASA’s Space Launch System and SpaceX’s Starship, both of which exceed the payload limits of existing launch complexes.\n\nCurrent launch facilities such as Cape Canaveral’s SLC‑40 and the former Vandenberg Space Force Base are optimized for medium‑lift vehicles and are being upgraded to accommodate heavier payloads. However, the sheer mass and thrust of the new rockets will require longer, more robust launch pads, upgraded fueling systems, and expanded support infrastructure. Analysts point to potential sites in the Pacific Northwest or the U.S. Virgin Islands as candidates, with preliminary studies suggesting that a dedicated complex could reduce launch latency and increase safety margins for crewed missions to the Moon and Mars.\n\nThe agency is now evaluating design options and securing funding for a feasibility study, with a view to constructing the new launch site within the next decade. If approved, the project would provide the United States with a critical capability to launch the heavy and super‑heavy payloads that will drive future exploration and commercial spaceflight.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 7:22:41",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-011",
     "title": "Japanese startup Letara raises $16 million to expand hybrid rocket technology",
     "slug": "japanese-startup-letara-raises-16-million-to-expand-hybrid-rocket-technology",
