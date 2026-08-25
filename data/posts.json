@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260824-381",
+    "title": "SpaceX to retire Falcon 9 after Starship becomes operational",
+    "slug": "spacex-to-retire-falcon-9-after-starship-becomes-operational",
+    "content": "SpaceX announced that it will retire its Falcon 9 launch vehicle once the next‑generation Starship megarocket becomes operational. The Falcon 9, which has performed more than 300 missions since 2010, has been a workhorse for commercial, governmental, and international payloads, offering a proven mix of reliability and cost‑effectiveness. With the company’s focus shifting to the higher‑capacity Starship, the retirement of the Falcon 9 will reduce the number of available launch options in the market.\n\nThe removal of such a widely used vehicle is likely to tighten supply for customers who rely on the Falcon 9’s moderate payload capacity and established launch cadence. While other providers—such as United Launch Alliance’s Atlas V, Arianespace’s Ariane 5, and emerging players like Rocket Lab and Blue Origin—will continue to offer alternatives, the loss of Falcon 9’s competitive pricing and frequent launch schedule may prompt some operators to seek contracts with those competitors or to delay missions until Starship becomes fully operational. Additionally, the shift could accelerate consolidation in the launch industry, encouraging partnerships or shared launch services to maintain market stability.\n\nIn the long term, the transition to Starship is expected to expand the overall launch capacity and lower per‑kilogram launch costs, but the interim period may see a temporary contraction in available launch slots. Stakeholders will need to adjust their launch plans accordingly, and the industry will monitor how the market adapts to the departure of one of its most‑flown rockets.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/25/2026 6:31:45",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260824-361",
     "title": "Chelsea's attack shines while goalkeeping remains unresolved under Xabi Alonso",
     "slug": "chelsea-s-attack-shines-while-goalkeeping-remains-unresolved-under-xabi-alonso",
@@ -5485,17 +5496,6 @@
     "category": "Health",
     "categorySlug": "health",
     "publishedAt": "8/22/2026 9:22:14",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-030",
-    "title": "EU Scientists Urge Mosquito Control to Fight Rising Mosquito-Borne Diseases in Europe",
-    "slug": "eu-scientists-urge-mosquito-control-to-fight-rising-mosquito-borne-diseases-in-e",
-    "content": "European scientists have underscored the growing need for mosquito control as a key strategy to curb the rise of mosquito‑borne illnesses across the continent. In a recent article published in *Eurosurveillance*, experts from the European Centre for Disease Prevention and Control (ECDC), the European Chemicals Agency (ECHA), the European Environment Agency (EEA), and the European Commission highlighted the increasing incidence of dengue, chikungunya, and West Nile virus infections in Europe.\n\nThe joint statement stresses that effective vector management—encompassing surveillance, habitat reduction, and targeted insecticide use—must be integrated into national public health plans. It notes that the expanding geographic range of Aedes and Culex mosquitoes, driven by climate change and global travel, has amplified the risk of disease transmission, necessitating coordinated action across EU member states. The agencies call for harmonised policies, improved data sharing, and investment in research to develop sustainable control measures.\n\nBy prioritising mosquito control, European health authorities aim to reduce the burden of these emerging diseases and protect public health. The article serves as a call to action for governments, scientists, and communities to adopt evidence‑based strategies that will mitigate the spread of dengue, chikungunya, and West Nile virus across the region.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/22/2026 9:22:09",
     "author": "Medical Xpress",
     "isFeatured": false
   }
