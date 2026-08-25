@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260825-645",
+    "title": "Kurdish-led Syrian Democratic Forces to Dissolve Under Damascus Agreement",
+    "slug": "kurdish-led-syrian-democratic-forces-to-dissolve-under-damascus-agreement",
+    "content": "The Kurdish-led Syrian Democratic Forces (SDF) will cease to operate as an independent military entity following a formal agreement with the Syrian government in Damascus. The arrangement marks a significant shift in the security architecture of northeastern Syria, where the SDF has maintained territorial control since its establishment in 2015. Under the terms of the deal, the group’s autonomous command structure will be dissolved, and its armed units will be integrated into state-controlled defense frameworks.\n\nThe SDF, a multi-ethnic coalition dominated by Kurdish fighters and historically supported by the United States, was instrumental in the military defeat of the Islamic State and has administered a large portion of Syria’s northeast. The agreement with Damascus outlines the phased absorption of SDF personnel and equipment into the Syrian Arab Army or joint oversight mechanisms, effectively ending the group’s independent military status. Analysts note that the development aligns with broader diplomatic initiatives aimed at reasserting central government authority across Syria after more than a decade of civil war.\n\nThe restructuring of the SDF represents a pivotal step in Syria’s postconflict political and military realignment. While the agreement is intended to consolidate state control and streamline security operations, it also underscores ongoing negotiations regarding Kurdish administrative arrangements and foreign military presence in the region. Implementation of the terms will be closely tracked by regional and international actors as Syria moves toward long-term stabilization.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 3:12:06",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-643",
+    "title": "Major Jason Watson Charged for Criticizing Trump",
+    "slug": "major-jason-watson-charged-for-criticizing-trump",
+    "content": "Major Jason Watson, a U.S. Army officer, has been charged under a seldom‑used military statute that bars active‑duty personnel from criticizing the President. The charge, filed by the Army’s Judge Advocate General’s Corps, alleges that Watson posted remarks on social media that the service considers “insubordinate” and “disparaging” toward the sitting president. The statute, rooted in a 2003 regulation, is invoked only in rare circumstances and carries potential administrative penalties or, in extreme cases, court‑martial proceedings.\n\nWatson’s case follows a broader debate about the limits of free speech for service members. The Army has stated that the regulation is intended to preserve unit cohesion and the chain of command, while critics argue that it may infringe upon First Amendment rights. The officer’s legal team has not yet issued a public statement, and no sentencing or trial date has been announced. The incident has drawn attention from both military legal experts and civil‑rights advocates, who are monitoring how the case will be resolved.\n\nIf convicted, Watson could face administrative separation from the Army or a court‑martial, depending on the severity of the alleged conduct. The outcome will likely influence future enforcement of the regulation and could set a precedent for how the armed forces balance discipline with constitutional protections. The Army has pledged to review the case in light of ongoing discussions about free‑speech limits for active‑duty personnel.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 3:11:56",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-642",
+    "title": "Seven killed in Gaza after Israeli strike destroys aid warehouse",
+    "slug": "seven-killed-in-gaza-after-israeli-strike-destroys-aid-warehouse",
+    "content": "The Gaza Health Ministry issued an urgent warning on Friday, stating that the territory is on the brink of a “complete collapse of the basic necessities of life” as Israeli military operations persist. The ministry reported that essential services—including water, electricity, food distribution and medical supplies—are rapidly deteriorating, leaving hospitals overwhelmed and civilian populations increasingly vulnerable. According to the ministry, more than 12,000 people have been killed and over 28,000 injured since the latest round of hostilities began, while thousands of health facilities have been damaged or rendered inoperable.\n\nInternational humanitarian agencies have echoed the ministry’s concerns, calling for immediate access to deliver aid and for a cessation of hostilities to prevent further degradation of living conditions. The United Nations Office for the Coordination of Humanitarian Affairs warned that without a swift resupply of water, fuel and medical equipment, the health system could cease functioning entirely, exacerbating the humanitarian crisis. The health ministry’s alert underscores the escalating strain on Gaza’s infrastructure as the conflict continues, highlighting the urgent need for coordinated relief efforts.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 3:11:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-641",
+    "title": "Country music icon known as “Queen of Country” dies at 80 in Nashville",
+    "slug": "country-music-icon-known-as-queen-of-country-dies-at-80-in-nashville",
+    "content": "The iconic country‑music star affectionately known as the “Queen of Country” died on Tuesday at the age of 80 in Nashville, her family and representatives confirmed in a joint statement. The announcement, made through her publicist and a family spokesperson, said she passed peacefully at her home following a brief illness. Representatives declined to provide further medical details, noting that a private memorial service will be arranged for close relatives and friends.  \n\nThroughout a career spanning more than five decades, the singer amassed a record‑breaking catalog of chart‑topping hits, multiple Grammy Awards and induction into the Country Music Hall of Fame. She was celebrated for pioneering a blend of traditional storytelling and crossover pop sensibilities that broadened country music’s audience worldwide. Her influence extended beyond the stage, with philanthropic work supporting music education and rural development. The music community has begun to pay tribute, with fellow artists and industry leaders posting statements that honor her legacy and lasting impact on the genre.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 3:11:47",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-624",
     "title": "Oral nanomedicine improves effectiveness of cancer immunotherapy",
     "slug": "oral-nanomedicine-improves-effectiveness-of-cancer-immunotherapy",
@@ -5453,50 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/23/2026 7:32:15",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-005",
-    "title": "Software Engineering in the Agentic Era article published Feb 23 2026",
-    "slug": "software-engineering-in-the-agentic-era-article-published-feb-23-2026",
-    "content": "Simon Willison’s latest blog post, “Agentic Engineering Patterns,” was published on February 23, 2026, and has already attracted attention from the tech community. The article explores a new framework for designing software systems that incorporate autonomous agents—software components that can make decisions, learn from data, and interact with users or other systems without constant human oversight. Willison argues that existing engineering practices are ill‑suited for such systems and proposes a set of patterns that address common pitfalls such as state management, safety, and interpretability.\n\nIn the post, Willison outlines several concrete patterns, including “Modular Decision Loops,” which separate perception, planning, and execution into distinct, testable units, and “Safe Exploration,” which limits an agent’s actions to a predefined safe set while still allowing it to learn. He also discusses the importance of clear interfaces between agents and their environment, recommending the use of standardized message protocols and rigorous logging to aid debugging and compliance. The article draws on examples from recent AI applications, such as autonomous customer‑service bots and adaptive recommendation engines, to illustrate how the patterns can be applied in practice and how they improve maintainability and transparency.\n\nWillison concludes that adopting these agentic engineering patterns can help organizations build more reliable, auditable, and scalable autonomous systems. He encourages readers to experiment with the patterns in their own projects and to contribute feedback through the comments section of the blog. The post has already generated modest engagement, with three upvotes and no comments on the Hacker News discussion thread linked in the article.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 7:32:07",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-004",
-    "title": "Iran warns of retaliation against nations joining US economic sanctions",
-    "slug": "iran-warns-of-retaliation-against-nations-joining-us-economic-sanctions",
-    "content": "Tehran has issued a stark warning that any nation aligning with the United States in its economic campaign against Iran will be met with “tit‑for‑tat” measures, the Iranian foreign ministry said on Wednesday. The statement came as the United States intensified sanctions targeting Iran’s oil exports, banking sector and key industries, accusing Tehran of supporting militant groups and pursuing a nuclear program that breaches international obligations.\n\nIran’s officials indicated that retaliatory actions could include reciprocal sanctions, restrictions on trade and the possible targeting of foreign assets linked to participating countries. The warning underscores the heightened diplomatic tension surrounding the U.S. “maximum pressure” strategy, which has already drawn criticism from several European and Asian states wary of the broader impact on global markets. Tehran’s message serves as a reminder that the dispute over Iran’s economic isolation is likely to expand beyond bilateral measures, potentially reshaping regional trade dynamics.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 7:32:02",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-003",
-    "title": "Iran warns neighboring states against joining US economic war",
-    "slug": "iran-warns-neighboring-states-against-joining-us-economic-war",
-    "content": "Tehran’s foreign ministry spokesperson warned on Monday that any nation aligning itself with the United States would be deemed an adversary of Iran, and that the Iranian government would consider targeting that country’s interests in retaliation. The statement was issued in response to recent diplomatic moves by several Middle Eastern states that have sought closer security cooperation with Washington, including discussions about joint military exercises and intelligence sharing.\n\nThe official emphasized that Iran views such alignments as direct threats to its national security and warned that Tehran would take “necessary measures” to protect its strategic assets, citing potential actions against economic projects, diplomatic missions, and regional partners of the implicated state. The remarks come amid heightened tensions in the region, where both Tehran and Washington have been expanding their respective influence, and underscore the risk of further escalation should additional states formalize ties with the United States.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 7:31:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-002",
-    "title": "Swedish sword attack kills 17-year-old girl, injures two boys, suspect detained",
-    "slug": "swedish-sword-attack-kills-17-year-old-girl-injures-two-boys-suspect-detained",
-    "content": "An attack earlier today left two boys, aged 12 and 17, injured, according to officials. Emergency services responded to the scene, providing medical assistance to the victims before transporting them to a nearby hospital for treatment.\n\nLaw enforcement officials confirmed that an 18‑year‑old suspect has been detained in connection with the incident. The authorities are continuing their investigation, and further details will be released as they become available.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 7:31:53",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]

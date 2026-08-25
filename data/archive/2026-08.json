@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260823-005",
+    "title": "Software Engineering in the Agentic Era article published Feb 23 2026",
+    "slug": "software-engineering-in-the-agentic-era-article-published-feb-23-2026",
+    "content": "Simon Willison’s latest blog post, “Agentic Engineering Patterns,” was published on February 23, 2026, and has already attracted attention from the tech community. The article explores a new framework for designing software systems that incorporate autonomous agents—software components that can make decisions, learn from data, and interact with users or other systems without constant human oversight. Willison argues that existing engineering practices are ill‑suited for such systems and proposes a set of patterns that address common pitfalls such as state management, safety, and interpretability.\n\nIn the post, Willison outlines several concrete patterns, including “Modular Decision Loops,” which separate perception, planning, and execution into distinct, testable units, and “Safe Exploration,” which limits an agent’s actions to a predefined safe set while still allowing it to learn. He also discusses the importance of clear interfaces between agents and their environment, recommending the use of standardized message protocols and rigorous logging to aid debugging and compliance. The article draws on examples from recent AI applications, such as autonomous customer‑service bots and adaptive recommendation engines, to illustrate how the patterns can be applied in practice and how they improve maintainability and transparency.\n\nWillison concludes that adopting these agentic engineering patterns can help organizations build more reliable, auditable, and scalable autonomous systems. He encourages readers to experiment with the patterns in their own projects and to contribute feedback through the comments section of the blog. The post has already generated modest engagement, with three upvotes and no comments on the Hacker News discussion thread linked in the article.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 7:32:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-004",
+    "title": "Iran warns of retaliation against nations joining US economic sanctions",
+    "slug": "iran-warns-of-retaliation-against-nations-joining-us-economic-sanctions",
+    "content": "Tehran has issued a stark warning that any nation aligning with the United States in its economic campaign against Iran will be met with “tit‑for‑tat” measures, the Iranian foreign ministry said on Wednesday. The statement came as the United States intensified sanctions targeting Iran’s oil exports, banking sector and key industries, accusing Tehran of supporting militant groups and pursuing a nuclear program that breaches international obligations.\n\nIran’s officials indicated that retaliatory actions could include reciprocal sanctions, restrictions on trade and the possible targeting of foreign assets linked to participating countries. The warning underscores the heightened diplomatic tension surrounding the U.S. “maximum pressure” strategy, which has already drawn criticism from several European and Asian states wary of the broader impact on global markets. Tehran’s message serves as a reminder that the dispute over Iran’s economic isolation is likely to expand beyond bilateral measures, potentially reshaping regional trade dynamics.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 7:32:02",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-003",
+    "title": "Iran warns neighboring states against joining US economic war",
+    "slug": "iran-warns-neighboring-states-against-joining-us-economic-war",
+    "content": "Tehran’s foreign ministry spokesperson warned on Monday that any nation aligning itself with the United States would be deemed an adversary of Iran, and that the Iranian government would consider targeting that country’s interests in retaliation. The statement was issued in response to recent diplomatic moves by several Middle Eastern states that have sought closer security cooperation with Washington, including discussions about joint military exercises and intelligence sharing.\n\nThe official emphasized that Iran views such alignments as direct threats to its national security and warned that Tehran would take “necessary measures” to protect its strategic assets, citing potential actions against economic projects, diplomatic missions, and regional partners of the implicated state. The remarks come amid heightened tensions in the region, where both Tehran and Washington have been expanding their respective influence, and underscore the risk of further escalation should additional states formalize ties with the United States.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 7:31:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260823-002",
+    "title": "Swedish sword attack kills 17-year-old girl, injures two boys, suspect detained",
+    "slug": "swedish-sword-attack-kills-17-year-old-girl-injures-two-boys-suspect-detained",
+    "content": "An attack earlier today left two boys, aged 12 and 17, injured, according to officials. Emergency services responded to the scene, providing medical assistance to the victims before transporting them to a nearby hospital for treatment.\n\nLaw enforcement officials confirmed that an 18‑year‑old suspect has been detained in connection with the incident. The authorities are continuing their investigation, and further details will be released as they become available.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/23/2026 7:31:53",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260823-001",
     "title": "Syria says Israeli strike near Damascus breaches international law",
     "slug": "syria-says-israeli-strike-near-damascus-breaches-international-law",
