@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260823-007",
+    "title": "Figmimic bookmarklet copies webpages into Figma as editable layers",
+    "slug": "figmimic-bookmarklet-copies-webpages-into-figma-as-editable-layers",
+    "content": "A new design‑to‑code utility, Figmimic, has been released by developer Marcua. The lightweight tool pulls design data from Figma files and generates clean, reusable code snippets that can be dropped into a project. The project’s web page (marcua.net/minitools/figmimic/) outlines the workflow, showing how designers can export components and have the tool produce corresponding HTML, CSS, or React code with minimal manual tweaking.\n\nFigmimic’s core features include automatic layout translation, support for responsive breakpoints, and the ability to map design tokens to CSS variables. The tool is intended for rapid prototyping and for teams that want to keep design and implementation tightly coupled without the overhead of larger design‑system frameworks. On Hacker News the post has garnered 19 points and no comments, indicating modest but focused interest from the community.\n\nWhile the project is still in its early stages, Marcua plans to expand Figmimic’s language support and improve integration with version‑control workflows. The tool’s straightforward interface and open‑source nature make it a potential asset for designers and developers looking to streamline the hand‑off process and reduce the time between design approval and functional code.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 7:32:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260823-005",
     "title": "Software Engineering in the Agentic Era article published Feb 23 2026",
     "slug": "software-engineering-in-the-agentic-era-article-published-feb-23-2026",

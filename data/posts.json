@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-661",
+    "title": "MIT develops tiny ingestible sensor for continuous core temperature monitoring",
+    "slug": "mit-develops-tiny-ingestible-sensor-for-continuous-core-temperature-monitoring",
+    "content": "A new ingestible thermometer developed by researchers at MIT promises to overcome the shortcomings of conventional temperature‑measuring devices. Oral and forehead thermometers often fail to reflect a person’s true core body temperature, while the few ingestible sensors currently available are bulky, difficult to swallow, and can obstruct the gastrointestinal tract. The MIT team has engineered a compact sensor that measures only six by four millimetres and can transmit continuous temperature readings in real time.\n\nThe miniature device incorporates a low‑power wireless transmitter and a miniature battery that allows it to remain in the body for extended periods without causing discomfort or blockage. By continuously relaying temperature data to a nearby receiver, the sensor provides clinicians and patients with an accurate, real‑time view of core body temperature that is not subject to the environmental or placement errors that plague oral or forehead thermometers. The small form factor also reduces the risk of gastrointestinal complications that have limited the adoption of larger ingestible sensors.\n\nIf the technology proves reliable in clinical trials, it could transform patient monitoring in hospitals, long‑term care facilities, and even home settings, offering a safe, accurate, and unobtrusive method for tracking core temperature. The development underscores MIT’s ongoing work in biomedical sensing and could pave the way for a new generation of ingestible health monitors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 3:22:04",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-645",
     "title": "Kurdish-led Syrian Democratic Forces to Dissolve Under Damascus Agreement",
     "slug": "kurdish-led-syrian-democratic-forces-to-dissolve-under-damascus-agreement",
@@ -5486,17 +5497,6 @@
     "categorySlug": "environment",
     "publishedAt": "8/23/2026 7:32:20",
     "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-007",
-    "title": "Figmimic bookmarklet copies webpages into Figma as editable layers",
-    "slug": "figmimic-bookmarklet-copies-webpages-into-figma-as-editable-layers",
-    "content": "A new design‑to‑code utility, Figmimic, has been released by developer Marcua. The lightweight tool pulls design data from Figma files and generates clean, reusable code snippets that can be dropped into a project. The project’s web page (marcua.net/minitools/figmimic/) outlines the workflow, showing how designers can export components and have the tool produce corresponding HTML, CSS, or React code with minimal manual tweaking.\n\nFigmimic’s core features include automatic layout translation, support for responsive breakpoints, and the ability to map design tokens to CSS variables. The tool is intended for rapid prototyping and for teams that want to keep design and implementation tightly coupled without the overhead of larger design‑system frameworks. On Hacker News the post has garnered 19 points and no comments, indicating modest but focused interest from the community.\n\nWhile the project is still in its early stages, Marcua plans to expand Figmimic’s language support and improve integration with version‑control workflows. The tool’s straightforward interface and open‑source nature make it a potential asset for designers and developers looking to streamline the hand‑off process and reduce the time between design approval and functional code.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 7:32:15",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
