@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-553",
+    "title": "Study finds women with type 2 diabetes at higher risk of mental health conditions than men",
+    "slug": "study-finds-women-with-type-2-diabetes-at-higher-risk-of-mental-health-condition",
+    "content": "A recent study published in *PLOS Medicine* by Fabiola Eto of Queen Mary University of London and colleagues has identified distinct post‑diagnosis health risks for men and women with type 2 diabetes. The research, which followed patients over several years after their initial diagnosis, found that women were significantly more likely to develop mental health conditions, whereas men were more prone to cardiovascular and renal complications.\n\nThe investigators analyzed a large cohort of adults newly diagnosed with type 2 diabetes, tracking the incidence of various comorbidities over time. Their statistical models controlled for age, baseline health status, and treatment regimens, revealing a clear sex‑specific pattern: mental health disorders such as depression and anxiety emerged at higher rates among women, while men experienced a greater burden of heart disease and kidney dysfunction. The study underscores the importance of monitoring these divergent risks in routine diabetes care.\n\nThese findings suggest that clinicians should tailor follow‑up strategies to address the most likely complications for each sex. For women, integrating mental health screening and support into diabetes management may be critical, while for men, aggressive cardiovascular and renal risk assessment could improve outcomes. Further research is needed to explore the underlying mechanisms driving these sex differences and to develop targeted interventions.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/26/2026 0:41:48",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-538",
     "title": "Could 12 inches of rain hit New York City? AI maps plausible rare storms",
     "slug": "could-12-inches-of-rain-hit-new-york-city-ai-maps-plausible-rare-storms",
@@ -5486,17 +5497,6 @@
     "categorySlug": "entertainment",
     "publishedAt": "8/23/2026 4:01:55",
     "author": "BBC Entertainment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-337",
-    "title": "Real Madrid defeat Espanyol 2-1 in Mourinho's return match",
-    "slug": "real-madrid-defeat-espanyol-2-1-in-mourinho-s-return-match",
-    "content": "Real Madrid secured a 2‑1 victory after a dramatic finish in which substitute Carlos Espi netted the decisive goal in the closing minutes. Jude Bellingham opened the scoring early in the first half, giving the visitors an early lead, while Alex Calatrava restored parity for the home side shortly before halftime. The match, played at the Santiago Bernabéu on Saturday, saw both teams create multiple chances, but it was Espi’s late strike that ultimately tipped the balance in Madrid’s favor.\n\nThe win moves Real Madrid up the league table, extending their unbeaten run and reinforcing their position among the title contenders. Espi’s goal, coming in the 86th minute, underscored the squad’s depth and the impact of tactical substitutions. With three points added, the team will look to build on the performance in their upcoming fixtures, while Calatrava’s contribution highlighted the resilience of the opposition despite the defeat.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 4:01:48",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
