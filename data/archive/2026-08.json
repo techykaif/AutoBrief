@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260822-342",
+    "title": "NanoGPT Speedrun Frontier article published on Primeintellect.ai",
+    "slug": "nanogpt-speedrun-frontier-article-published-on-primeintellect-ai",
+    "content": "Primeintellect.Ai’s research site has published a brief report titled “nanogpt‑speedrun,” documenting a rapid training run of the lightweight NanoGPT language model. The article outlines the configuration used for the experiment, including the hardware specifications and the software settings that enabled the model to be trained in a markedly short period compared with conventional approaches.\n\nThe post provides quantitative results such as total training time, loss progression, and final model performance, emphasizing NanoGPT’s efficiency for small‑scale language modeling tasks. A corresponding discussion thread on Hacker News shows the entry receiving four up‑votes and no comments, reflecting modest engagement from the broader community. The speedrun demonstrates continued interest in optimizing the speed and resource usage of generative‑pre‑trained transformer models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 5:01:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-341",
     "title": "Tottenham Lose 3-0 to Brentford; De Zerbi Criticises Team",
     "slug": "tottenham-lose-3-0-to-brentford-de-zerbi-criticises-team",

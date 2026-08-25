@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-590",
+    "title": "Study finds limited physiological acclimation of trees to drought across 40 experiments",
+    "slug": "study-finds-limited-physiological-acclimation-of-trees-to-drought-across-40-expe",
+    "content": "Forests, which harbor the majority of terrestrial biodiversity and regulate global climate, are increasingly threatened by prolonged droughts. Climate‑driven shifts in precipitation patterns have intensified water stress across many forest ecosystems, raising concerns about the resilience of tree populations and the services they provide.\n\nScientists are now investigating whether trees can acclimate to sustained water scarcity by modifying their physiology. Research shows that some species adjust stomatal conductance, leaf morphology, and root architecture to conserve water, while others exhibit changes in carbon allocation and growth rates. Comparative studies across temperate, boreal, and tropical forests aim to determine the limits of these acclimatory responses and identify which species or communities are most vulnerable.\n\nThe outcomes of this research will inform forest management and conservation strategies, helping to predict how tree communities might shift under future climate scenarios. Understanding the capacity for physiological acclimation is essential for safeguarding the ecological functions and climate‑regulating roles of forests worldwide.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/26/2026 1:21:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-576",
     "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
     "slug": "instagram-s-first-draft-feature-aims-to-make-editing-reels-less-tedious",
@@ -5486,17 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/23/2026 5:01:52",
     "author": "BBC Science",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-342",
-    "title": "NanoGPT Speedrun Frontier article published on Primeintellect.ai",
-    "slug": "nanogpt-speedrun-frontier-article-published-on-primeintellect-ai",
-    "content": "Primeintellect.Ai’s research site has published a brief report titled “nanogpt‑speedrun,” documenting a rapid training run of the lightweight NanoGPT language model. The article outlines the configuration used for the experiment, including the hardware specifications and the software settings that enabled the model to be trained in a markedly short period compared with conventional approaches.\n\nThe post provides quantitative results such as total training time, loss progression, and final model performance, emphasizing NanoGPT’s efficiency for small‑scale language modeling tasks. A corresponding discussion thread on Hacker News shows the entry receiving four up‑votes and no comments, reflecting modest engagement from the broader community. The speedrun demonstrates continued interest in optimizing the speed and resource usage of generative‑pre‑trained transformer models.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 5:01:46",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
