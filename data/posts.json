@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260825-716",
+    "title": "Spouted baby food pouches are more like sugary drinks/smoothies than nutritious food",
+    "slug": "spouted-baby-food-pouches-are-more-like-sugary-drinks-smoothies-than-nutritious",
+    "content": "An analysis of commercial baby foods sold in spouted pouches across the United Kingdom reveals that many products intended for infants from six months of age are nutritionally comparable to sugary drinks and",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/26/2026 4:21:55",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-715",
+    "title": "Volkswagen CEO faces worker protest over restructuring plans",
+    "slug": "volkswagen-ceo-faces-worker-protest-over-restructuring-plans",
+    "content": "Volkswagen CEO Oliver Blume addressed more than 10,000 employees at the company’s German headquarters on Tuesday, warning that a sweeping reorganisation – potentially involving job cuts and plant closures – is essential to keep the automaker competitive amid rising Chinese rivals and U.S. tariffs. Blume urged workers to “pull together” as he outlined the need for drastic restructuring measures to secure the company’s future.\n\nThe speech was met with vocal dissent, as employees held banners and shouted slogans such as “Our jobs are not your balance sheet adjustments.” The protest reflected growing unease among the workforce about the company’s strategic direction and the impact of external pressures on employment and production. Volkswagen’s leadership remains focused on navigating these challenges while maintaining operational stability, though the immediate reaction from staff underscores the tension between corporate strategy and workforce concerns.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "8/26/2026 4:21:49",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-700",
     "title": "Trump is upping the price of Big Tech’s favorite visa",
     "slug": "trump-is-upping-the-price-of-big-tech-s-favorite-visa",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/23/2026 8:42:05",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-015",
-    "title": "Scrap (2006) discussion garners 326 points and 177 comments on Hacker News",
-    "slug": "scrap-2006-discussion-garners-326-points-and-177-comments-on-hacker-news",
-    "content": "A status update for the “Moxie” service was posted on the public status page at xcancel.com/moxie/status/2091218652133732491, drawing significant attention from the tech community. The post, which received 326 up‑votes and 177 comments on Hacker News, details a recent interruption in service and outlines the steps the team is taking to resolve the issue. Users and developers have responded with a mix of concerns about downtime, questions about the root cause, and suggestions for mitigation.\n\nMoxie, a startup that offers a cloud‑based platform for real‑time data analytics, announced that a critical component of its infrastructure experienced a failure, causing a temporary outage for all users. The status page notes that the engineering team has identified the problem, applied a fix, and is conducting additional testing before restoring full functionality. In the Hacker News discussion, participants highlighted the importance of clear communication during outages, shared experiences from similar incidents, and debated the potential impact on Moxie’s customer base and future roadmap.\n\nThe exchange underscores the growing expectation for rapid, transparent incident reporting in the software industry. By publicly documenting the outage and the corrective actions, Moxie aims to maintain trust with its users while working to prevent recurrence. The community’s engagement suggests that stakeholders are closely monitoring the resolution timeline and the company’s plans for strengthening its infrastructure.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 8:42:01",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-014",
-    "title": "Flipkart's quick‑commerce unit handles up to 1.2 million orders daily, closing in on rivals",
-    "slug": "flipkart-s-quick-commerce-unit-handles-up-to-1-2-million-orders-daily-closing-in",
-    "content": "Flipkart’s quick‑commerce division has begun handling between 1.1 million and 1.2 million orders each day, a volume that is almost three times the level recorded in November. The surge reflects the rapid scaling of the platform’s ultra‑fast delivery service, which targets delivery within minutes to a few hours.\n\nThe increase follows a concerted expansion of the venture’s logistics network, including the addition of new fulfillment hubs and a larger fleet of delivery personnel across major Indian cities. By the end of the month, the daily order count rose from roughly 400,000 in November to the current range, indicating a sustained uptick in consumer demand for rapid‑delivery options. The growth aligns with broader trends in the Indian e‑commerce sector, where quick‑commerce models are gaining market share.\n\nAnalysts note that the heightened order flow positions Flipkart’s quick‑commerce arm as a significant player in the fast‑delivery segment, potentially influencing competitive dynamics and future investments in the space. The company is expected to continue expanding its infrastructure to support the higher volume and maintain service speed.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 8:41:55",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
