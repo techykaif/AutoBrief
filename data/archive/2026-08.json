@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260822-315",
+    "title": "Local LLMs Often Seem Less Capable Due to Dataset Size and Context Limits",
+    "slug": "local-llms-often-seem-less-capable-due-to-dataset-size-and-context-limits",
+    "content": "A recent discussion on the Level1techs forum titled “Why Your Local LLM Feels Dumber Than It Is” has attracted attention from the broader tech community, including a brief thread on Hacker News. The post explains that many users experience a noticeable drop in performance when running large language models locally, compared to cloud‑hosted versions. According to the author, the primary factors are limited context windows, reduced inference speed, and the absence of continual fine‑tuning that cloud providers can apply to keep models up‑to‑date. The article also highlights that local deployments often rely on older checkpoint versions or stripped‑down architectures to fit within hardware constraints, which can further degrade output quality.\n\nThe forum thread outlines practical mitigation strategies, such as increasing the token limit, using more powerful GPUs, or integrating external knowledge bases to supplement the model’s internal memory. It also cautions that users should manage expectations: local models, while offering privacy and lower latency, cannot yet match the breadth of data and optimization that large‑scale cloud services provide. The discussion on Hacker News, which garnered 16 points and a single comment, underscores the growing interest in balancing local deployment benefits with the performance gaps that still exist. In conclusion, while local LLMs are becoming more accessible, users must weigh hardware limitations and model updates against the convenience and scale of cloud‑based solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-314",
+    "title": "Browser tool adds HDR gain‑map to logos for brighter display",
+    "slug": "browser-tool-adds-hdr-gain-map-to-logos-for-brighter-display",
+    "content": "A recent investigation revealed that a number of brand logos on LinkedIn are rendered noticeably brighter and whiter than the surrounding content when viewed on high‑dynamic‑range (HDR) displays, such as the latest MacBook Pro models. The effect is achieved by embedding a gain‑map into the JPEG files, a technique that boosts luminance only on HDR-capable screens. Unlike other social networks that strip such metadata, LinkedIn appears to preserve these gain‑maps, allowing the logos to appear more vivid to users with compatible hardware.\n\nThe discoverer collaborated with the open‑source project Claude Code to develop a lightweight, browser‑based tool that extracts and displays the enhanced logos without requiring registration. The utility can be accessed via a public URL and is designed to help designers and marketers verify how their brand imagery will appear on HDR devices. The tool has attracted modest attention on Hacker News, where it received 18 up‑votes and 15 comments, indicating interest from the developer community.\n\nWhile the practice of embedding gain‑maps is not widespread, its use on LinkedIn highlights a niche area of digital asset optimization that may become more relevant as HDR displays become standard. The availability of a free, no‑registration utility offers a practical solution for stakeholders who wish to ensure consistent brand presentation across diverse viewing environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/23/2026 2:12:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-313",
     "title": "English‑Claudish Translator Released Online",
     "slug": "english-claudish-translator-released-online",

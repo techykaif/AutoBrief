@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260825-469",
+    "title": "Majority of Democrats in early 2028 primary states oppose U.S. aid to Israel, cite genocide claims",
+    "slug": "majority-of-democrats-in-early-2028-primary-states-oppose-u-s-aid-to-israel-cite",
+    "content": "A recent poll released on Thursday found that a majority of Democratic voters in the first six states scheduled to hold primaries for the 2028 presidential election believe that Israel is committing genocide. The survey, conducted by the political research firm Insight Analytics in late March, sampled 3,200 registered Democrats across Alabama, Arkansas, Florida, Georgia, Louisiana, and Mississippi. Respondents were asked to rate their agreement with the statement that “Israel is committing genocide against the Palestinian people,” and 58% answered “agree” or “strongly agree,” while only 22% disagreed.\n\nThe poll’s findings come amid growing debate over U.S. foreign policy toward the Middle East and the role of congressional support for Israel. Insight Analytics’ lead researcher, Dr. Maya Patel, noted that the perception of genocide is higher among Democrats who identify as progressive or who have strong ties to immigrant communities. The survey also revealed that 71% of respondents in these states say they would consider supporting a candidate who adopts a more critical stance on Israeli military actions, a shift that could influence campaign messaging in the early primary states.\n\nWhile the poll does not indicate how these views will translate into votes, analysts suggest that the perception of Israel’s conduct may become a key issue for Democratic candidates seeking to mobilize voters in the Southern primaries. The data will likely be cited in campaign strategy discussions as parties aim to address the concerns of a segment of the Democratic electorate that is increasingly vocal about human rights issues in the Middle East.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 23:12:07",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-468",
+    "title": "Spain seeks EU emergency funding to address Ceuta migrant surge",
+    "slug": "spain-seeks-eu-emergency-funding-to-address-ceuta-migrant-surge",
+    "content": "The European Commission announced on Tuesday that it is evaluating Spain’s request for assistance after an estimated 70,000 migrants entered the Spanish‑controlled enclave of Ceuta on the North African coast. The sudden influx, which began on Friday, overwhelmed local authorities and prompted Spain to seek emergency support from the European Union, citing concerns over public order, health and security in the small territory.\n\nEU officials said the Commission will assess the situation in coordination with Spanish and Moroccan authorities to determine the appropriate level of assistance, which could include financial aid, deployment of border‑control personnel and logistical support. The surge follows a pattern of increased migration pressure on the Spanish enclaves of Ceuta and Melilla, which serve as entry points to the European Union from Africa. The Commission’s response will be shaped by existing EU migration and border‑management frameworks, and a decision is expected in the coming days.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 23:12:00",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-462",
     "title": "Pogacar claims solo victory on Vuelta stage four",
     "slug": "pogacar-claims-solo-victory-on-vuelta-stage-four",
@@ -5475,28 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/23/2026 2:12:24",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-315",
-    "title": "Local LLMs Often Seem Less Capable Due to Dataset Size and Context Limits",
-    "slug": "local-llms-often-seem-less-capable-due-to-dataset-size-and-context-limits",
-    "content": "A recent discussion on the Level1techs forum titled “Why Your Local LLM Feels Dumber Than It Is” has attracted attention from the broader tech community, including a brief thread on Hacker News. The post explains that many users experience a noticeable drop in performance when running large language models locally, compared to cloud‑hosted versions. According to the author, the primary factors are limited context windows, reduced inference speed, and the absence of continual fine‑tuning that cloud providers can apply to keep models up‑to‑date. The article also highlights that local deployments often rely on older checkpoint versions or stripped‑down architectures to fit within hardware constraints, which can further degrade output quality.\n\nThe forum thread outlines practical mitigation strategies, such as increasing the token limit, using more powerful GPUs, or integrating external knowledge bases to supplement the model’s internal memory. It also cautions that users should manage expectations: local models, while offering privacy and lower latency, cannot yet match the breadth of data and optimization that large‑scale cloud services provide. The discussion on Hacker News, which garnered 16 points and a single comment, underscores the growing interest in balancing local deployment benefits with the performance gaps that still exist. In conclusion, while local LLMs are becoming more accessible, users must weigh hardware limitations and model updates against the convenience and scale of cloud‑based solutions.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 2:12:18",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-314",
-    "title": "Browser tool adds HDR gain‑map to logos for brighter display",
-    "slug": "browser-tool-adds-hdr-gain-map-to-logos-for-brighter-display",
-    "content": "A recent investigation revealed that a number of brand logos on LinkedIn are rendered noticeably brighter and whiter than the surrounding content when viewed on high‑dynamic‑range (HDR) displays, such as the latest MacBook Pro models. The effect is achieved by embedding a gain‑map into the JPEG files, a technique that boosts luminance only on HDR-capable screens. Unlike other social networks that strip such metadata, LinkedIn appears to preserve these gain‑maps, allowing the logos to appear more vivid to users with compatible hardware.\n\nThe discoverer collaborated with the open‑source project Claude Code to develop a lightweight, browser‑based tool that extracts and displays the enhanced logos without requiring registration. The utility can be accessed via a public URL and is designed to help designers and marketers verify how their brand imagery will appear on HDR devices. The tool has attracted modest attention on Hacker News, where it received 18 up‑votes and 15 comments, indicating interest from the developer community.\n\nWhile the practice of embedding gain‑maps is not widespread, its use on LinkedIn highlights a niche area of digital asset optimization that may become more relevant as HDR displays become standard. The availability of a free, no‑registration utility offers a practical solution for stakeholders who wish to ensure consistent brand presentation across diverse viewing environments.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 2:12:12",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
