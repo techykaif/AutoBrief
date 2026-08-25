@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-442",
+    "title": "Caltech and Yale scientists quantify Kondo effect in real quantum materials",
+    "slug": "caltech-and-yale-scientists-quantify-kondo-effect-in-real-quantum-materials",
+    "content": "Scientists at Caltech and Yale University have, for the first time, quantified the Kondo effect in real metallic materials using their actual atomic and electronic structures. The Kondo effect—an interaction between localized magnetic moments and conduction electrons that leads to a characteristic resistance minimum at low temperatures—has traditionally been described only qualitatively through simplified theoretical models. By incorporating the full complexity of a material’s crystal lattice and electronic band structure, the new approach provides an accurate, quantitative description of the phenomenon.\n\nThe team employed advanced first‑principles calculations to solve the Kondo problem directly for specific metals, bypassing the approximations that have limited previous studies. Their method captures how the local magnetic moments interact with the surrounding conduction electrons in a realistic setting, allowing researchers to predict the temperature dependence of electrical resistance and other observable properties with unprecedented precision. This represents a significant step toward bridging the gap between theoretical predictions and experimental measurements in strongly correlated electron systems.\n\nThe findings open the door to a deeper understanding of quantum many‑body effects in real materials and could inform the design of novel electronic devices that exploit the Kondo effect. By providing a reliable computational framework, the work sets a new standard for studying complex quantum phenomena in solid‑state systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/25/2026 22:31:50",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-424",
     "title": "Students clash with police in India in a new protest over exam leaks",
     "slug": "students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/23/2026 2:12:06",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-312",
-    "title": "DOJ investigates Andreessen Horowitz over startup board seat practices",
-    "slug": "doj-investigates-andreessen-horowitz-over-startup-board-seat-practices",
-    "content": "The U.S. Department of Justice announced a formal investigation into the practice of allocating board seats to venture‑capital‑backed startups, a development highlighted in the most recent episode of the “Equity” podcast. The probe, launched earlier this month, focuses on whether the arrangement of board appointments—often tied to financing rounds—violates antitrust laws by potentially restricting competition, influencing market entry, or creating undue influence over emerging companies.\n\nRegulators are reviewing a sample of recent financing deals in which investors secured board positions as a condition of capital infusion, examining the terms of those agreements and any accompanying non‑compete or exclusivity clauses. Industry observers note that the inquiry could reshape standard venture‑capital practices, prompting firms to reassess governance structures and disclosure requirements. The DOJ has not indicated any immediate enforcement actions, but the investigation underscores heightened scrutiny of corporate governance arrangements within the tech startup ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 2:12:00",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
