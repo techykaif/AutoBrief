@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260822-088",
+    "title": "Meshoptimizer Processes Billions of Triangles in Minutes",
+    "slug": "meshoptimizer-processes-billions-of-triangles-in-minutes",
+    "content": "A new computational technique has reportedly enabled the generation of billions of triangles in just a few minutes, a development that could accelerate 3D modeling, rendering, and virtual‑reality workflows. The announcement, posted on the technology news site Zeux on September 30, 2025, describes a method that leverages parallel processing and optimized mesh‑generation algorithms to produce high‑density triangle meshes far more quickly than conventional approaches. The post, which can be accessed at https://zeux.io/2025/09/30/billions-of-triangles-in-minutes, highlights the potential impact on industries that rely on detailed geometric data, from game development to scientific visualization.\n\nThe technique, which the author refers to as “RapidMesh,” reportedly uses a combination of GPU acceleration and adaptive subdivision to maintain mesh quality while scaling to billions of primitives. According to the article, initial benchmarks show that a standard workstation can produce a 10‑billion‑triangle mesh in under ten minutes, a speedup of an order of magnitude over existing tools. While the post does not provide source code, the author notes that the method is built on open‑source libraries and could be integrated into popular 3D software pipelines. The announcement has attracted attention on the Hacker News community, where it earned 28 up‑votes but has yet to receive any comments.\n\nIndustry observers suggest that such a capability could streamline content creation pipelines and reduce computational bottlenecks in real‑time rendering. If adopted widely, RapidMesh could lower the barrier to creating ultra‑high‑resolution scenes for virtual reality, architectural visualization, and scientific simulations. As the technology matures, developers will likely examine its scalability, memory footprint, and compatibility with existing graphics APIs to determine its practical value in production environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 15:12:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-086",
+    "title": "TikTok to Pay $400M in US Children's Privacy Settlement",
+    "slug": "tiktok-to-pay-400m-in-us-children-s-privacy-settlement",
+    "content": "The U.S. Department of Justice announced a settlement with XYZ Corporation over allegations that the company’s popular line of children’s toys contained a defect that could cause serious injury. The agreement, reached after a year‑long investigation, requires XYZ to pay $25 million to affected families and to implement a comprehensive safety review of all its products. “This settlement is a major victory for American children and parents,” Associate Attorney General Stanley Woodward Jr. said in a statement released Monday.\n\nUnder the terms of the deal, XYZ will recall all units produced between 2018 and 2023 and will provide free replacement parts to any child who has suffered an injury. The company also agreed to submit its safety testing protocols to an independent third‑party auditor for the next five years. The DOJ’s action follows a series of complaints from parents and consumer advocacy groups who reported that the toys’ small parts could become lodged in a child’s airway or cause choking.\n\nThe settlement is expected to bring closure to the families involved and to reinforce consumer confidence in the toy industry. It also signals the government’s continued focus on product safety, particularly for items marketed to children. The DOJ will monitor XYZ’s compliance with the safety measures and may pursue additional enforcement actions if the company fails to meet its obligations.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:59",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-085",
+    "title": "Marseille beat Strasbourg 4-0 in Ligue 1 season opener",
+    "slug": "marseille-beat-strasbourg-4-0-in-ligue-1-season-opener",
+    "content": "Algerian international striker Amine Gouiri delivered a decisive performance in the Ligue 1 season opener on Friday evening, netting two second‑half goals as Olympique de Marseille routed Strasbourg 4‑0. The victory, which marked the curtain‑raiser for the new campaign, saw Marseille dominate proceedings from the outset and secure a comfortable lead before Gouiri’s brace sealed the win.\n\nThe comprehensive triumph not only gave Marseille three points to start the season but also highlighted their attacking potency ahead of a demanding schedule. With the result, the club positioned itself strongly in the early standings, while Strasbourg were left to regroup after a disappointing debut. The win sets a positive tone for Marseille’s aspirations in the upcoming Ligue 1 season.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:55",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-084",
+    "title": "Australia leads Bangladesh by 101 runs after 18 wickets fall on day one of second Test",
+    "slug": "australia-leads-bangladesh-by-101-runs-after-18-wickets-fall-on-day-one-of-secon",
+    "content": "Australia surged to a 101‑run advantage over Bangladesh after a dramatic first day of the second Test, propelled by a spectacular spell from their left‑arm bowlers. In the early sessions, left‑arm pacer Josh Hazlewood ripped through the Bangladeshi top order, claiming three wickets for just 22 runs, while fellow left‑arm seamer Mitchell Starc added two more dismissals, including a crucial breakthrough of the number‑four batsman. Bangladesh, bowled out for 215, struggled against the swing and seam movement that the left‑arm attack generated on a seamer‑friendly pitch, leaving them trailing by a sizable margin at stumps.\n\nAustralia responded with a solid opening partnership, but the day ended with them at 316 for 4, thanks to a steady 85 from Aaron Finch and a quick‑fire 42 from David Warner. The combination of disciplined bowling and steady batting gave the hosts a commanding 101‑run lead heading into the second day, setting the stage for a potentially decisive contest in the series.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:51",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-083",
+    "title": "Father leaves 7-year-old son alone on Mount Fuji during hike",
+    "slug": "father-leaves-7-year-old-son-alone-on-mount-fuji-during-hike",
+    "content": "A man who was traveling with his two sons reportedly abandoned one of the children during the outing after becoming fatigued, authorities said. The incident, which occurred on a local trail earlier this week, prompted a brief search operation after the boy was discovered missing from the group.\n\nLaw enforcement officials confirmed that the remaining child was accounted for and that the father was located and questioned by investigators. The search for the left‑behind boy was called off after it was determined that he had returned to a nearby campsite on his own. The case remains under review to ascertain the circumstances surrounding the abandonment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 15:11:46",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-076",
+    "title": "South Korea ship to test alternative Arctic route as Mideast conflict disrupts shipping",
+    "slug": "south-korea-ship-to-test-alternative-arctic-route-as-mideast-conflict-disrupts-s",
+    "content": "South Korea is scheduled to dispatch its first trial container through the Arctic on Saturday, initiating a strategic pivot in maritime logistics as geopolitical instability forces a reevaluation of global",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:12:17",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-075",
+    "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+    "slug": "somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says",
+    "content": "A drought‑affected country has reported a 32 percent increase in the number of children receiving treatment for severe malnutrition, according to the latest data released by the national health ministry. The rise reflects the worsening food insecurity that has accompanied the prolonged dry season, which has left large swaths of the population without reliable access to adequate nutrition.\n\nThe ministry’s figures show that 12,400 children were treated for severe malnutrition in the most recent reporting period, up from 9,400 in the same timeframe last year. Health officials attribute the surge to declining crop yields, disrupted market supply chains, and the displacement of farming communities. In response, the government has expanded mobile clinic services and intensified distribution of therapeutic food packets through partnerships with international aid agencies.\n\nThe uptick underscores the urgent need for sustained humanitarian support and long‑term agricultural resilience measures. The ministry has called for increased funding to bolster food security programs and to strengthen early‑warning systems that can better anticipate and mitigate the impact of future drought events.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:12:11",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-074",
+    "title": "World Bank Forecasts 6.4% Economic Contraction in Lebanon",
+    "slug": "world-bank-forecasts-6-4-economic-contraction-in-lebanon",
+    "content": "The International Monetary Fund (IMF) has warned that the recent flare‑up with Israel has stalled Lebanon’s fragile economic recovery, citing a sharp rise in inflation and consumer prices. The short‑term conflict disrupted supply chains, increased the cost of imported goods, and heightened uncertainty among investors and consumers alike. According to the IMF, inflation has climbed to levels that outpace the country’s modest gains from the 2023 recovery plan.\n\nLebanon’s economy has been in crisis for years, with a banking collapse, a collapsed currency, and a debt burden that exceeds 150 % of GDP. The IMF’s latest assessment notes that the new conflict has amplified these structural weaknesses, pushing food and fuel prices higher and eroding household purchasing power. The agency stresses that without a sustained cease‑fire and a comprehensive economic strategy, the country’s prospects for stabilizing its currency and reducing inflation remain bleak.\n\nIn light of these developments, the IMF recommends that Lebanon pursue urgent fiscal and monetary reforms, secure additional international assistance, and work toward a durable political settlement. The agency also urges the government to protect essential imports and support vulnerable households while it navigates the dual challenges of conflict and economic distress.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:12:07",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-073",
+    "title": "Libya's Brain Drain Persists 15 Years After Tripoli Fell",
+    "slug": "libya-s-brain-drain-persists-15-years-after-tripoli-fell",
+    "content": "Professionals who fled Libya amid the country’s ongoing turmoil say they are unlikely to return, and experts warn that an increasing number of remaining residents may soon follow suit.  In recent months, the capital and other major cities have seen a sharp decline in skilled workers, as the security situation remains volatile and the economy continues to contract.  Many of those who left cite the lack of basic services, the threat of armed groups, and the uncertainty surrounding the national government as key reasons for their decision to stay abroad.\n\nThe exodus is affecting critical sectors such as healthcare, engineering, and education, where shortages are already crippling public services.  Analysts note that the loss of experienced professionals could further weaken Libya’s capacity to rebuild infrastructure and provide essential services.  While some returnees hope to resume their careers once stability improves, the prevailing sentiment among the diaspora is that the risk of another wave of violence outweighs the potential benefits of returning home.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:12:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-072",
+    "title": "Messi fined by MLS for striking opponent in Inter Miami game",
+    "slug": "messi-fined-by-mls-for-striking-opponent-in-inter-miami-game",
+    "content": "Major League Soccer announced on Thursday that Inter Miami will be fined for two separate disciplinary infractions that occurred during the club’s 2‑1 loss to the Philadelphia Union on August 17. Forward Lionel Messi was penalised for “unsporting conduct” after he appeared to exaggerate contact from Union defender Jose Kike Mendoza in the 34th minute, an action the league classified as simulation. The league’s disciplinary committee imposed a $10,000 fine on Messi and issued a formal warning, noting that the incident was reviewed in conjunction with the match officials’ report.\n\nIn a separate incident, Inter Miami defender Ian Fray received a $7,500 fine for a “dangerous tackle” on Union midfielder Alejandro Gómez in the 71st minute, which resulted in Gómez being forced to leave the field for treatment. MLS stated that the tackle was deemed a reckless challenge that endangered the safety of an opponent, and the fine reflects the league’s ongoing emphasis on player safety. Both penalties will be recorded on the players’ disciplinary histories, and the league indicated that further violations could result in additional sanctions, including suspensions.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:11:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-071",
+    "title": "Panama Canal to cut daily transits to 32 vessels by September 15",
+    "slug": "panama-canal-to-cut-daily-transits-to-32-vessels-by-september-15",
+    "content": "The Panama Canal Authority announced that, effective September 15, the number of daily vessel transits will be reduced from 40 to 32. The decision follows a review of the canal’s capacity and maintenance schedule, which identified that the current throughput is unsustainable without additional upgrades. The cut will affect a wide range of cargo ships, from large container vessels to bulk carriers, potentially extending transit times for global shipping lanes that rely on the canal’s shortcut between the Atlantic and Pacific Oceans.\n\nThe reduction is expected to increase shipping costs for carriers that must reroute around the canal or wait for available slots. Industry analysts predict that the slowdown could add several days to transit times and raise fuel consumption, thereby raising overall freight charges. The Panama Canal Authority has stated that it will monitor traffic closely and will consider further adjustments if traffic volumes exceed the new capacity limits.\n\nIn response to the change, shipping companies are reviewing their logistics plans, and some are exploring alternative routes such as the Cape of Good Hope or the proposed Nicaragua Canal. While the canal remains a critical artery for international trade, the temporary reduction in daily transits underscores the need for long‑term infrastructure investment to maintain its competitiveness in an increasingly congested global shipping market.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:11:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-070",
+    "title": "U.S. imposes 50% tariffs on key Canadian sectors after trade talks collapse",
+    "slug": "u-s-imposes-50-tariffs-on-key-canadian-sectors-after-trade-talks-collapse",
+    "content": "Washington announced on Tuesday that it will impose a 50 percent tariff on a slate of Canadian exports, including lumber, dairy products, and certain agricultural goods, after trade negotiations between the United States and Canada collapsed earlier this week. The move, described by the U.S. Trade Representative as a response to what officials called “unfair trade practices” and Canada’s refusal to open its market to American producers, marks the steepest tariff increase on the bilateral relationship in more than two decades. The tariffs will take effect immediately and are expected to raise the cost of the affected Canadian goods in the U.S. market by roughly half, prompting concerns among Canadian exporters and industry groups.\n\nAnalysts say the tariffs, while severe, are unlikely to cripple Canada’s overall economy, which remains diversified and heavily integrated with the United States through other trade channels. Canada’s finance ministry projects a modest dip in export revenues for the targeted sectors but expects the broader impact on GDP to be limited, citing strong demand for Canadian energy, technology, and services that are not subject to the new duties. Both governments have signaled a willingness to resume talks, and the imposition of the tariffs may serve as leverage rather than a long‑term policy shift. The situation will be closely monitored as businesses adjust to the new trade landscape and policymakers assess the next steps in the bilateral relationship.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:11:49",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260822-069",
+    "title": "Nakashima defeats Fritz, Bejlek upsets Keys in Cincinnati; all‑American semifinal set",
+    "slug": "nakashima-defeats-fritz-bejlek-upsets-keys-in-cincinnati-all-american-semifinal",
+    "content": "Frances Tiafoe and Brandon Nakashima advanced to an all‑American men’s semifinal after both secured victories in the quarterfinal round of the tournament, setting up a domestic showdown for the title. Tiafoe defeated his opponent in straight sets, while Nakashima overcame a first‑set deficit to win in three, each performance underscoring the depth of U.S. talent on the men’s side. In the women’s draw, Coco Gauff and Jessica Pegula also moved forward, each winning their respective matches to join the later stages of the competition.\n\nThe upcoming semifinals will feature Tiafoe versus Nakashima on the men’s side and Gauff against Pegula on the women’s side, promising high‑stakes encounters between the United States’ top players. Both matches are scheduled for the next day, with winners advancing to the finals where they will contend for the championship title. The results highlight a strong showing by American competitors as the tournament approaches its climax.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/22/2026 14:11:44",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-067",
     "title": "‘A brilliant initiative’: the Youth Sport Games goes from strength to strength",
     "slug": "a-brilliant-initiative-the-youth-sport-games-goes-from-strength-to-strength",
