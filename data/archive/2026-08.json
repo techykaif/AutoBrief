@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260822-148",
+    "title": "Mice Retain Memories Despite Synapse Loss During Hibernation",
+    "slug": "mice-retain-memories-despite-synapse-loss-during-hibernation",
+    "content": "Scientists have discovered that the dramatic reduction in synaptic connections that occurs during hibernation does not impair the ability of mice to retain memories. In a recent study, laboratory mice were induced to hibernate for several weeks, during which researchers measured a significant drop in the number of dendritic spines in the hippocampus and cortex—areas essential for memory processing. Despite this synaptic pruning, the animals were later tested on spatial and fear‑conditioning tasks and performed at levels indistinguishable from non‑hibernating controls.\n\nThe research team used high‑resolution imaging and electrophysiological recordings to confirm that synapse density fell by nearly 30 % during the hibernation period, yet the strength of remaining synaptic connections was enhanced. Behavioral assays showed that mice could navigate a maze and recognize previously conditioned stimuli with the same accuracy as before hibernation. These findings suggest that the brain can reorganize its circuitry to preserve critical memory traces even when overall synaptic numbers decline.\n\nThe study offers new insights into how neural networks maintain functional stability under extreme metabolic down‑regulation. By revealing that memory retention can persist despite widespread synaptic loss, the work may inform strategies for protecting cognition in conditions such as neurodegeneration or prolonged hypothermia.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/22/2026 18:32:18",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260822-147",
     "title": "TikTok lab‑grown diamond auctions spark quality concerns",
     "slug": "tiktok-lab-grown-diamond-auctions-spark-quality-concerns",

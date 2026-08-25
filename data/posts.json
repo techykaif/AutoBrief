@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-165",
+    "title": "Trump battles GOP senators over beef tariff pause and Canada tariff hike",
+    "slug": "trump-battles-gop-senators-over-beef-tariff-pause-and-canada-tariff-hike",
+    "content": "President Trump is poised to face a sharp rebuke from Senate Republicans after announcing a dual‑faced trade strategy that pauses tariffs on beef imports while simultaneously raising duties on key Canadian goods. The administration’s move to exempt 300,000 tons of ground‑beef shipments from out‑of‑quota tariffs is aimed at easing American food‑price concerns, but it comes as the White House threatens to impose a 50 % tariff on a range of Canadian products, sparking worry among lawmakers who view the escalation as a potential trade war.\n\nThe pause on beef tariffs follows a long‑running dispute over the United States’ 2018 tariff on Canadian dairy, which had been lifted for beef in a 2022 trade agreement. By granting a temporary exemption for ground beef, the Trump administration seeks to placate domestic pressure for lower grocery prices. Meanwhile, the proposed 50 % tariff on Canadian goods—most notably dairy, lumber, and certain automotive components—has drawn criticism from Senate Republicans who argue that the move risks retaliation, disrupts supply chains, and undermines the broader trade framework negotiated under the US‑Mexico‑Canada Agreement.\n\nThe clash underscores the growing tension between the executive branch and congressional Republicans over trade policy. While the administration frames the beef exemption as a consumer‑friendly measure, its simultaneous tariff threat on Canadian imports could strain U.S.‑Canada relations and invite legal challenges under WTO rules. The outcome of this policy tug‑of‑war will likely influence both domestic political calculations and the trajectory of North American trade dynamics.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/25/2026 16:21:49",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-147",
     "title": "Kremlin Adviser Warns UK Drone Factories May Be Targeted",
     "slug": "kremlin-adviser-warns-uk-drone-factories-may-be-targeted",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/22/2026 18:32:23",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260822-148",
-    "title": "Mice Retain Memories Despite Synapse Loss During Hibernation",
-    "slug": "mice-retain-memories-despite-synapse-loss-during-hibernation",
-    "content": "Scientists have discovered that the dramatic reduction in synaptic connections that occurs during hibernation does not impair the ability of mice to retain memories. In a recent study, laboratory mice were induced to hibernate for several weeks, during which researchers measured a significant drop in the number of dendritic spines in the hippocampus and cortex—areas essential for memory processing. Despite this synaptic pruning, the animals were later tested on spatial and fear‑conditioning tasks and performed at levels indistinguishable from non‑hibernating controls.\n\nThe research team used high‑resolution imaging and electrophysiological recordings to confirm that synapse density fell by nearly 30 % during the hibernation period, yet the strength of remaining synaptic connections was enhanced. Behavioral assays showed that mice could navigate a maze and recognize previously conditioned stimuli with the same accuracy as before hibernation. These findings suggest that the brain can reorganize its circuitry to preserve critical memory traces even when overall synaptic numbers decline.\n\nThe study offers new insights into how neural networks maintain functional stability under extreme metabolic down‑regulation. By revealing that memory retention can persist despite widespread synaptic loss, the work may inform strategies for protecting cognition in conditions such as neurodegeneration or prolonged hypothermia.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/22/2026 18:32:18",
     "author": "Ars Technica",
     "isFeatured": false
   }
