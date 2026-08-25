@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260825-624",
+    "title": "Oral nanomedicine improves effectiveness of cancer immunotherapy",
+    "slug": "oral-nanomedicine-improves-effectiveness-of-cancer-immunotherapy",
+    "content": "A team of researchers at the University of Michigan has reported in *Nature Nanotechnology* the development of an oral medication that enhances the ability of T cells to attack cancer cells. The study describes a drug that, when taken by mouth, releases the natural “brakes” on the immune system, thereby boosting the cytotoxic activity of T cells against tumors.\n\nImmune‑checkpoint blockade therapies have revolutionized cancer treatment by allowing the body’s own immune cells to recognize and destroy malignant cells. However, response rates remain low for many patients, limiting the overall effectiveness of these drugs. The new oral formulation aims to overcome this limitation by amplifying T‑cell function, potentially widening the range of patients who can benefit from checkpoint inhibition.\n\nIf subsequent clinical trials confirm the pre‑clinical findings, the drug could offer a more convenient and broadly effective strategy for improving outcomes in patients receiving immune‑checkpoint therapy, marking a significant step forward in the pursuit of more universally responsive cancer immunotherapies.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/26/2026 2:21:57",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-608",
     "title": "Trump Administration Threatens Kennedy Center Demolition Without Repairs",
     "slug": "trump-administration-threatens-kennedy-center-demolition-without-repairs",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/23/2026 7:31:53",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-001",
-    "title": "Syria says Israeli strike near Damascus breaches international law",
-    "slug": "syria-says-israeli-strike-near-damascus-breaches-international-law",
-    "content": "The latest incident, reported early Monday, involved an unidentified explosion near the Syrian‑Turkish frontier that prompted an immediate security response from both local authorities and neighboring states. Preliminary statements from the Syrian Ministry of Defense indicated that the blast occurred in a contested area close to the Turkish border, though casualty figures and the precise cause remain unconfirmed pending further investigation. Regional monitoring groups have begun compiling satellite imagery and eyewitness accounts to ascertain whether the event was the result of an airstrike, artillery fire, or another form of hostile activity.\n\nThe development follows reports from earlier this week that Israeli forces had struck a military airbase situated near the same border region, a target allegedly used by Iranian‑backed militias. Turkish officials have previously expressed concern over the proximity of such operations to their territory, urging restraint and calling for transparent communication to prevent escalation. As diplomatic channels remain active, the international community is watching closely for any further incidents that could destabilize an already volatile border area.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 7:31:47",
     "author": "BBC World",
     "isFeatured": false
   }
