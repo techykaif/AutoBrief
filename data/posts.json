@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-601",
+    "title": "AI Risks Are Real but Manageable, Says 2023 Gatesnotes Article",
+    "slug": "ai-risks-are-real-but-manageable-says-2023-gatesnotes-article",
+    "content": "Bill Gates recently published a piece on his Gatesnotes blog titled “The risks of AI are real but manageable,” in which he outlines the potential dangers of advanced artificial intelligence while arguing that they can be mitigated through thoughtful regulation and oversight. Gates points out that the rapid deployment of large language models and other AI technologies raises concerns about misuse, bias, privacy erosion, and the acceleration of disinformation campaigns. He stresses that the benefits of AI—improved healthcare, climate modeling, and productivity—must be balanced against these risks.\n\nIn the article, Gates proposes a multi‑layered approach to AI safety. He calls for international cooperation to establish safety standards, transparency requirements for AI systems, and rigorous testing protocols before deployment. He also highlights the importance of investing in AI safety research and creating public‑private partnerships to monitor emerging threats. Gates notes that responsible governance, clear accountability mechanisms, and ongoing public engagement are essential to ensure that AI technologies are developed and used in ways that protect society.\n\nThe piece has already sparked discussion within the tech community. A related thread on the Y Combinator forum, which has attracted 19 points and 7 comments, reflects the broader debate over how best to regulate AI while fostering innovation. Gates’ emphasis on manageable risks underscores the urgency for coordinated policy and industry action to harness AI’s potential while safeguarding against its pitfalls.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/27/2026 2:52:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-578",
     "title": "OpenAI Faces Executive Exodus, Examining Leadership Changes",
     "slug": "openai-faces-executive-exodus-examining-leadership-changes",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/24/2026 10:02:00",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260824-014",
-    "title": "Iran claims new U.S. sanctions repeat previous measures",
-    "slug": "iran-claims-new-u-s-sanctions-repeat-previous-measures",
-    "content": "Abbas Araghchi, Iran’s deputy foreign minister for economic affairs, described the anticipated United States sanctions slated for announcement on Monday as “the same movie on repeat.” The sanctions, expected to target Iran’s missile development and related financing networks, follow a series of measures imposed by the Biden administration since early 2023 in response to Tehran’s alleged breaches of United Nations resolutions.\n\nU.S. officials have indicated that the new restrictions will expand existing lists of individuals and entities, tighten export controls, and increase pressure on sectors deemed critical to Iran’s weapons programs. Iran’s foreign ministry has warned that the measures will further strain bilateral relations and exacerbate economic challenges, while urging the international community to oppose what it calls a pattern of punitive actions. The announcement is set to be made on Monday, with both sides preparing diplomatic statements ahead of the rollout.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 10:01:56",
     "author": "Al Jazeera",
     "isFeatured": false
   }
