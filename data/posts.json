@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-621",
+    "title": "University of Maryland develops risk calculator for short-term diabetes complications",
+    "slug": "university-of-maryland-develops-risk-calculator-for-short-term-diabetes-complica",
+    "content": "Researchers at the University of Maryland School of Medicine (UMSOM) have introduced a novel risk calculator that estimates a patient’s short‑term likelihood of developing a spectrum of diabetes‑related complications. The tool uses data routinely gathered during standard medical encounters—such as laboratory values, vital signs, and demographic information—to generate individualized risk predictions. The study, published in *Nature Communications*, reports that the calculator was both developed and validated in large, diverse cohorts, demonstrating reliable performance across multiple outcomes including cardiovascular events, kidney disease progression, and diabetic neuropathy.\n\nThe risk model integrates clinical variables that are commonly available in electronic health records, allowing clinicians to assess complication risk without additional testing or patient burden. Validation results indicate that the calculator’s predictions closely match observed event rates, suggesting it could serve as a practical decision‑support tool in primary and specialty care settings. By providing early, personalized risk estimates, the tool aims to guide preventive interventions and improve management of patients with diabetes.\n\nIf adopted in routine practice, the calculator could help clinicians identify high‑risk individuals and tailor treatment plans accordingly, potentially reducing the incidence of serious diabetes complications. Further studies will be needed to evaluate its impact on clinical outcomes and health‑system workflows.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/27/2026 3:01:55",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-601",
     "title": "AI Risks Are Real but Manageable, Says 2023 Gatesnotes Article",
     "slug": "ai-risks-are-real-but-manageable-says-2023-gatesnotes-article",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/24/2026 10:02:05",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260824-015",
-    "title": "Syria and Israel hold US‑mediated talks in Jordan to reduce tensions",
-    "slug": "syria-and-israel-hold-us-mediated-talks-in-jordan-to-reduce-tensions",
-    "content": "Syria’s foreign minister, Walid al-Moallem, met with Israeli officials in a discreet diplomatic session in Damascus on Thursday, following an Israeli airstrike that struck a military target near the Turkish border. The meeting, conducted at the Syrian Ministry of Foreign Affairs, aimed to de‑escalate tensions in the region and prevent further escalation after the strike, which Israel said was in response to a rocket launch from the Golan Heights.\n\nAl‑Moallem expressed concern over the potential for a broader conflict, urging both sides to exercise restraint and to engage in dialogue. Israeli representatives, who did not disclose their identities, emphasized that the strike was a defensive measure and that Israel remains committed to maintaining stability in the area. The discussion also touched on the broader security situation along the Syria‑Turkey border, where Turkish forces have been active in supporting Kurdish militias.\n\nWhile the talks did not result in a formal agreement, officials indicated that a framework for continued communication would be established. The meeting is seen as a step toward preventing a spill‑over of violence into neighboring Turkey and the broader Middle East, as both governments seek to manage the fragile security environment in the aftermath of the recent strike.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 10:02:00",
     "author": "Al Jazeera",
     "isFeatured": false
   }
