@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260826-046",
+    "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+    "slug": "nhs-failing-child-sex-abuse-victims-in-adulthood-say-psychiatrists",
+    "content": "A newly released report by a panel of experts has condemned systemic failures in the care of older adults, citing decades of mistreatment and mismanagement for individuals seeking assistance later in life. The findings highlight widespread deficiencies across health, social, and support services, pointing to institutional practices that have",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/26/2026 9:53:19",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-041",
+    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+    "slug": "ask-hn-what-is-one-simple-thing-llms-are-insanely-bad-at",
+    "content": "A post on the technology news aggregator Hacker News has sparked a discussion among developers and AI enthusiasts about the practical limits of large language models. The entry, titled “I am looking for ideas on what to train a specialized model for! What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up?” was published with a URL linking to the discussion thread (https://news.ycombinator.com/item?id=49443820) and has accumulated 20 points and 30 comments at the time of reporting.\n\nParticipants in the thread are sharing recurring tasks that current general‑purpose models struggle with, ranging from precise code generation and consistent formatting to accurate extraction of structured data from unstructured text. The conversation highlights a growing interest in developing niche or domain‑specific models that can address these persistent shortcomings, suggesting that the community sees value in targeted fine‑tuning to improve reliability for routine but error‑prone queries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 9:52:44",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-039",
+    "title": "Nine CEO Sees Growth in Publishing with New AI Laws",
+    "slug": "nine-ceo-sees-growth-in-publishing-with-new-ai-laws",
+    "content": "Nine Entertainment’s chief executive, Matt Stanton, told investors that the network still has a “good pipeline” of artificial‑intelligence deals in the works, even as the company moves to slash $160 million in operating costs. Stanton said the company is pursuing a range of AI‑driven projects that will support its digital and broadcast platforms, while simultaneously tightening its newsrooms and other cost‑intensive operations. The cost‑cutting plan is intended to free up capital for the company’s planned expansion into new technology‑enabled content services.\n\nThe announcement comes shortly after Parliament passed revised media‑bargaining legislation that will impose levies on global tech platforms that do not reach commercial agreements with Australian news outlets for the use of their journalism. Stanton said the new laws create a “world of growth in publishing” by encouraging tech firms to pay for Australian news content. He added that the company is positioning itself to benefit from the new framework while maintaining a disciplined approach to spending. The combination of a robust AI pipeline and the legal backdrop is expected to help Nine Entertainment navigate a rapidly changing media landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 9:52:30",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-038",
+    "title": "Iran and Oman Discuss Hormuz Corridor",
+    "slug": "iran-and-oman-discuss-hormuz-corridor",
+    "content": "Iran and Oman convened in Tehran to discuss the management of maritime traffic through the Strait of Hormuz, a critical chokepoint for global oil shipments. The two governments also explored a joint mine‑clearing initiative aimed at enhancing navigational safety in the region.\n\nDuring the meeting, officials reviewed current traffic patterns, identified bottlenecks, and outlined preliminary measures for better coordination between Iranian and Omani authorities. The mine‑clearing project was presented as a cooperative effort to remove unexploded ordnance that poses risks to commercial vessels and to improve overall maritime security.\n\nBoth sides agreed that further negotiations will focus on establishing a permanent framework for traffic regulation and mine‑clearing operations. The next round of talks is expected to solidify operational protocols and legal arrangements to ensure the continued safe passage of vessels through the Strait.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:52:23",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-037",
+    "title": "Trump Sends Saudi Civil Nuclear Agreement to Congress",
+    "slug": "trump-sends-saudi-civil-nuclear-agreement-to-congress",
+    "content": "U.S. President Donald Trump has forwarded a classified civilian nuclear cooperation agreement with Saudi Arabia to Congress for review, a White House official confirmed. The pact, sent to Capitol Hill on Monday, is part of the administration’s broader effort to expand U.S. engagement with Gulf states on advanced technology and energy matters.\n\nThe agreement is designed to support Riyadh’s nuclear program by providing access to U.S. technology and expertise, but it is explicitly tied to a diplomatic milestone: Saudi Arabia must normalise relations with Israel. That condition reflects the administration’s strategy of leveraging security and economic ties to advance broader regional stability objectives.\n\nCongress will now examine the proposal, weighing the benefits of a strengthened U.S.–Saudi partnership against the political and strategic implications of the Israel‑normalisation requirement. The outcome of the review will shape the trajectory of U.S. policy toward nuclear cooperation in the Middle East.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:52:17",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-036",
+    "title": "Israeli soldiers block Knesset member from entering Palestinian home",
+    "slug": "israeli-soldiers-block-knesset-member-from-entering-palestinian-home",
+    "content": "Israeli soldiers reportedly blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank, according to local sources. Cassif, a member of the Labor Party, had been traveling to the village of Al‑Aqsa in the Nablus Governorate to meet with residents and discuss concerns about the ongoing settlement expansion in the area. Security forces stationed at the checkpoint denied him entry, citing routine operational procedures, while the family’s spokesperson said the soldiers had halted the vehicle and prevented the Knesset member from proceeding.\n\nThe incident has drawn attention from both Israeli and Palestinian observers. Cassif’s office released a statement condemning the obstruction and calling for an investigation into the soldiers’ conduct, while the Palestinian Ministry of Health noted that the family had been waiting for assistance with medical supplies. Israeli officials have not yet issued a formal response, but the event underscores the heightened tensions in the West Bank, where security checkpoints frequently disrupt civilian and political movements.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:52:11",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-035",
+    "title": "Syrian Democratic Forces announce dissolution",
+    "slug": "syrian-democratic-forces-announce-dissolution",
+    "content": "Syria’s Democratic Forces, the multi‑ethnic coalition that spearheaded the campaign against the Islamic State, announced on Friday that it will formally dissolve its armed units. The group, which has operated primarily in the country’s north‑eastern regions with support from the United States and its allies, issued a statement saying the decision reflects “the evolving political and security landscape” and a shift toward civilian governance structures.\n\nThe disbandment marks the end of a force that, since 2014, captured key territories from ISIL and helped stabilize large swaths of Kurdish‑controlled areas. Analysts note that the move could create a security vacuum amid ongoing Turkish incursions and the gradual withdrawal of U.S. troops, potentially reshaping power dynamics among local militias, the Syrian government and regional actors.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:52:03",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-034",
+    "title": "Instagram chief testifies at Meta trial about teen safety feature usage",
+    "slug": "instagram-chief-testifies-at-meta-trial-about-teen-safety-feature-usage",
+    "content": "Meta Platforms Inc. is facing a federal trial that accuses the company of deliberately designing its social‑media services to keep children and teenagers engaged despite known mental‑health risks. The lawsuit, filed by a coalition of parents and advocacy groups, alleges that Meta’s algorithms and notification systems exploit the psychological vulnerabilities of users under 18, encouraging prolonged screen time and exposure to harmful content.\n\nDuring the proceedings, plaintiffs presented internal documents and expert testimony suggesting that Meta was aware of the link between excessive use of its platforms—such as Instagram, Facebook and Threads—and increased rates of anxiety, depression, and sleep disturbances among young people. The complaint also claims that Meta failed to implement adequate age‑verification measures and continued to market its apps to minors, violating consumer‑protection laws. Meta’s legal team has responded that the company complies with all applicable regulations, offers parental‑control tools, and that any adverse effects are the result of broader societal factors rather than its products.\n\nThe trial, set to conclude later this year, could result in significant penalties or mandated changes to Meta’s design practices. Observers note that the case may set a precedent for how technology firms address the mental‑health implications of their services for younger audiences.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:51:58",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-033",
+    "title": "SPLM-N rebels kill 27 in South Kordofan, including four children, says Sudan Doctors Network",
+    "slug": "splm-n-rebels-kill-27-in-south-kordofan-including-four-children-says-sudan-docto",
+    "content": "Sudan Doctors Network reported that forces of the Sudan People's Liberation Movement-North (SPLM‑N) killed 27 civilians in South Kordofan, including four children, during a series of attacks earlier this week. The network, which monitors health and humanitarian conditions in conflict zones, said the victims were shot in multiple villages near the town of Kadugli, the state capital.\n\nAccording to the organization’s statement, the killings occurred as part of ongoing clashes between SPLM‑N rebels and Sudanese government forces that have intensified since the 2023 peace talks stalled. The doctors network could not independently verify the identities of all the deceased, but it confirmed that the victims were non‑combatants, many of whom were women and elderly. The incident adds to a growing tally of civilian casualties in South Kordofan, a region that has seen repeated displacement and disruption of medical services throughout the civil war.\n\nThe Sudan Doctors Network called for an immediate investigation and urged all parties to respect international humanitarian law, emphasizing the need to protect civilians, especially children, in the contested area. International observers have previously highlighted South Kordofan as a flashpoint in Sudan’s broader conflict, and the latest report underscores the urgency of renewed diplomatic efforts to halt the violence.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 9:51:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-031",
     "title": "Trump Secures Wins in South Carolina and Oklahoma Primary Runoffs",
     "slug": "trump-secures-wins-in-south-carolina-and-oklahoma-primary-runoffs",
@@ -5397,105 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/23/2026 15:11:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-075",
-    "title": "Water conflicts surge globally ahead of World Water Week 2026",
-    "slug": "water-conflicts-surge-globally-ahead-of-world-water-week-2026",
-    "content": "World Water Week 2026 opened on Monday in Stockholm, drawing attention to a sharp rise in disputes over water resources. An analysis released by Al Jazeera shows that the number of water‑related conflicts worldwide has almost quadrupled since 2020, marking the steepest increase in a decade.\n\nThe report cites 1,128 documented incidents between 2020 and 2024, up from 298 in the preceding four‑year period, with hotspots concentrated in South Asia, the Middle East and sub‑Saharan Africa. Drivers identified include expanding agricultural demand, climate‑induced droughts, and competing claims over transboundary rivers. The data, compiled from United Nations Office for the Coordination of Humanitarian Affairs (OCHA) and the International Water Conflict Database, also notes a rise in civilian displacement linked to water scarcity, and an escalation in militarised confrontations over dam projects and irrigation schemes.\n\nAl Jazeera’s findings underscore the urgency of the agenda set for this year’s summit, where policymakers, scientists and civil‑society representatives will discuss mitigation strategies and cooperative governance frameworks. Organisers hope that the heightened awareness of the conflict surge will translate into concrete commitments to safeguard water security and reduce the risk of future confrontations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 15:11:45",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-072",
-    "title": "Australia beat Bangladesh in two days to win second Test",
-    "slug": "australia-beat-bangladesh-in-two-days-to-win-second-test",
-    "content": "Australia secured a decisive victory in the second Test against Bangladesh, winning by an innings and 51 runs to level the series at 1–1. The match, held at the Sheikh Kamal International Stadium in Chittagong, saw Australian bowler Mitchell Starc deliver a match‑shattering performance, claiming ten wickets for 125 runs. Starc’s haul, comprising 4/30 in the first innings and 6/95 in the second, was instrumental in dismantling the Bangladeshi batting lineup and restricting them to a modest total of 214.\n\nBangladesh were bowled out for 214 in their first innings, with Starc’s early breakthrough of 4/30 setting the tone. Despite a resilient effort from the Bangladeshi batsmen, Australia’s batting lineup posted a commanding 365, with David Warner and Aaron Finch providing solid starts. In the second innings, Bangladesh were dismissed for 140, falling short of the 165 required to avoid an innings defeat. Starc’s consistent line and length, coupled with the support of fellow bowlers like Pat Cummins and Adam Zampa, ensured Australia maintained pressure throughout the game.\n\nThe result brings the series to a 1–1 draw, with both teams having showcased strong performances. Australia’s ability to recover from a challenging first Test and secure a comprehensive win highlights their resilience, while Bangladesh’s competitive spirit in the second Test underscores their growing competitiveness on the international stage.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "8/23/2026 14:12:33",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-071",
-    "title": "Curiosity Rover Returns to Regular Operations on Mount Sharp",
-    "slug": "curiosity-rover-returns-to-regular-operations-on-mount-sharp",
-    "content": "On Friday, Aug. 14, 2026, the Curiosity rover resumed its routine Martian itinerary after a brief scientific detour. Mission Operations Specialist Allison Dries‑Padilla of Malin Space Science Systems reported that the rover had diverted to investigate an “erosional surface” near its current location. The investigation, conducted over the past week, yielded new data on the sedimentary processes shaping the region and helped refine the rover’s navigation plan.\n\nWith the detour complete, Curiosity is now back on course to ascend Mount Sharp, the central peak of Gale Crater. The rover’s upcoming traverses will focus on sampling the layered deposits that record Mars’ climatic history. Engineers are monitoring wheel traction and power usage as the vehicle prepares for the steep climb, while the science team anticipates a series of geochemical analyses once the rover reaches higher elevations.\n\nThe return to scheduled operations underscores the mission’s resilience and adaptability. As Curiosity continues to chart the planet’s past, the data collected from both the erosional surface and Mount Sharp will deepen our understanding of Mars’ geological evolution and inform future exploration strategies.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/23/2026 14:12:29",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-070",
-    "title": "OpenAI warns of persistent AI cyber-attacks, pauses advanced model development",
-    "slug": "openai-warns-of-persistent-ai-cyber-attacks-pauses-advanced-model-development",
-    "content": "OpenAI’s chief global affairs officer, Chris Lehane, told *The Guardian* that the industry must adopt stricter safety standards as critics accuse AI firms of acting “recklessly.”  In a statement released this week, Lehane warned that as artificial‑intelligence models acquire the ability to plan and execute sophisticated cyber‑attacks, society must prepare for “ongoing, persistent” threats.  The company has already paused the development of its most advanced internal models, citing rising safety concerns and the need to reassess the potential risks of its technology.\n\nLehane described the current era as a “different chapter” in AI, noting that the capabilities of the technology have outpaced existing safeguards.  He urged regulators, industry stakeholders, and the public to collaborate on new protocols that would prevent malicious use while still allowing beneficial innovation.  The pause reflects a broader trend in the sector, where several firms are re‑examining their research agendas in light of the growing power of large language models and the possibility of autonomous offensive operations.  \n\nIn conclusion, OpenAI’s announcement signals a shift toward heightened caution in AI development.  By calling for updated safety measures and acknowledging the potential for AI‑driven cyber‑attacks, the company highlights the urgent need for coordinated action to ensure that the technology’s benefits do not come at the expense of security.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/23/2026 14:12:24",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-069",
-    "title": "Macron Welcomes Saudi Crown Prince MBS for Two-Day Paris Visit",
-    "slug": "macron-welcomes-saudi-crown-prince-mbs-for-two-day-paris-visit",
-    "content": "French President Emmanuel Macron welcomed Saudi Crown Prince Mohammed bin Salman (MBS) on Sunday as part of the prince’s two‑day visit to Paris. The meeting underscored the growing diplomatic ties between the two nations, with the French leader expressing enthusiasm for deepening cooperation across a range of sectors.\n\nOn Monday, the two leaders signed a series of agreements covering health, transport and energy. The accords are intended to strengthen joint initiatives, promote investment, and facilitate technology transfer in the respective fields. The signing ceremony highlighted the strategic partnership that has been steadily expanding in recent years, reflecting both countries’ interest in fostering closer economic and political collaboration.\n\nThe agreements are expected to enhance bilateral trade and open new avenues for collaboration in public health, infrastructure development and renewable energy. The visit, and the agreements signed, reaffirm the commitment of Paris and Riyadh to a robust and multifaceted partnership moving forward.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 14:12:19",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-068",
-    "title": "Kazakhstan Holds Parliamentary Election with Only State‑Approved Parties",
-    "slug": "kazakhstan-holds-parliamentary-election-with-only-state-approved-parties",
-    "content": "A sweeping constitutional overhaul underway in Kazakhstan has restricted participation in the upcoming electoral process to only state‑approved parties that pledge loyalty to President Kassym‑Jomart Tokayev. The government’s new electoral framework, adopted in a series of legislative amendments, stipulates that only parties vetted and endorsed by the state can field candidates, effectively excluding opposition groups and independent movements from the ballot.\n\nThe move follows a broader campaign to reshape the country’s political landscape, which includes changes to the electoral system, the composition of the parliament, and the powers of the presidency. Officials argue that the reforms aim to promote stability and national unity, while critics warn that limiting party participation could undermine democratic pluralism and reduce voter choice.\n\nAs the constitutional changes take effect, observers note that the exclusion of opposition parties may alter the balance of power within Kazakhstan’s political arena. The government has indicated that the new system will be implemented in the next election cycle, with all parties required to demonstrate alignment with Tokayev’s policy agenda to qualify for participation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 14:12:15",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-067",
-    "title": "DR Congo M23 Rebels Agree on Roadmap for Peace Talks",
-    "slug": "dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks",
-    "content": "A newly released roadmap outlines a series of phased steps and timelines intended to bring an end to the conflict that has already claimed thousands of lives and displaced millions of civilians. The document, issued by an international coalition of diplomatic and humanitarian actors, calls for an immediate cessation of hostilities, followed by a structured negotiation process that will address core security, political, and humanitarian concerns.\n\nKey provisions of the plan include a 72‑hour cease‑fire, the deployment of neutral observers to monitor compliance, and the establishment of a joint cease‑fire verification commission. Subsequent phases set specific deadlines for the withdrawal of heavy weaponry, the release of prisoners, and the initiation of talks on governance and reconstruction. The roadmap also stipulates the creation of a humanitarian corridor to allow the safe delivery of aid and the repatriation of displaced persons.\n\nIf implemented, the roadmap could provide a clear framework for ending the fighting and beginning a comprehensive peace settlement. Its success will depend on the willingness of all parties to adhere to the outlined steps and on sustained international support to enforce the agreed timelines.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 14:12:10",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-066",
-    "title": "Russia marks National Flag Day with events in St Petersburg",
-    "slug": "russia-marks-national-flag-day-with-events-in-st-petersburg",
-    "content": "In St Petersburg, residents and officials gathered across the city to celebrate Russia’s tricolour, the national flag, with a series of patriotic events. The day was marked by flag‑raising ceremonies, cultural performances, and the distribution of commemorative ribbons to participants and visitors. City officials announced that the ribbons, featuring the blue‑white‑red tricolour, were handed out at key landmarks such as the Admiralty, the Peterhof Palace grounds, and the Nevsky Prospect.\n\nThe events were organized by the city’s Department of Culture in partnership with the Ministry of Defence and local volunteer groups. In addition to ribbon distribution, the program included a march of military units, exhibitions of historical artifacts related to the flag’s evolution, and speeches by city leaders emphasizing national unity and heritage. The initiative aimed to reinforce civic pride and educate the public about the significance of the tricolour in Russian history.\n\nBy the evening, the city’s main squares were illuminated in the flag’s colours, and the ribbon‑handing ceremony drew thousands of participants. Officials said the day’s activities were part of a broader effort to promote patriotic values and commemorate the flag’s role in Russia’s identity. The event concluded with a collective pledge to uphold the flag’s symbolism in everyday life.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 14:12:06",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-065",
-    "title": "Heavy rains cause flooding in Caracas, Venezuela",
-    "slug": "heavy-rains-cause-flooding-in-caracas-venezuela",
-    "content": "Heavy rainstorms swept across Caracas, Venezuela, on Tuesday, triggering widespread flooding in the capital’s low‑lying neighborhoods. Meteorological services recorded precipitation levels exceeding 150 mm in a 24‑hour period, the highest in the region for the month, overwhelming drainage systems and prompting the rapid rise of water in streets and residential areas.\n\nCity authorities activated emergency protocols as floodwaters inundated dozens of homes, disrupted traffic on major thoroughfares, and forced the temporary closure of several schools and businesses. The National Guard and municipal rescue teams deployed boats and high‑water vehicles to evacuate residents from affected districts, while the Ministry of Health set up temporary shelters equipped with basic medical supplies. Preliminary reports indicated several injuries but no confirmed fatalities; officials continued to assess damage to infrastructure, including power lines and public transportation routes.\n\nThe government announced that relief efforts would be sustained through the coming days, with additional resources allocated for cleanup and reconstruction. Officials urged citizens to remain vigilant, heed evacuation orders, and avoid flooded areas until water levels recede, emphasizing the importance of coordinated response to mitigate further impact.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 14:12:01",
     "author": "Al Jazeera",
     "isFeatured": false
   }
