@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-456",
+    "title": "UBC tool maps urban tree sites with highest cooling potential",
+    "slug": "ubc-tool-maps-urban-tree-sites-with-highest-cooling-potential",
+    "content": "Researchers at the University of British Columbia, in partnership with municipal authorities, have released a new modeling tool that assists cities in addressing the health and environmental impacts of rising temperatures. The software uses climate and urban data to identify neighborhoods where planting additional trees would provide the greatest cooling benefits, allowing planners to prioritize locations that maximize shade, evapotranspiration, and heat‑mitigation effects.\n\nThe model incorporates local temperature projections, building density, and existing vegetation cover to calculate potential temperature reductions for each site. City officials can input budget constraints and maintenance considerations, enabling a cost‑effective allocation of resources. Early trials in several UBC‑partnered municipalities have already highlighted previously overlooked green corridors that could lower street‑level temperatures by several degrees during heatwaves.\n\nBy offering a data‑driven approach to tree‑planting, the tool aims to help cities meet climate adaptation goals while improving air quality and public health. Municipalities that adopt the model can target investments where they will yield the most immediate and measurable cooling, supporting broader efforts to create more resilient urban environments.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/26/2026 22:22:29",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-436",
     "title": "Researchers enable simultaneous use of two genetic codes",
     "slug": "researchers-enable-simultaneous-use-of-two-genetic-codes",
@@ -5486,17 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/24/2026 2:12:11",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-323",
-    "title": "Gaza hospitals face critical oxygen shortages",
-    "slug": "gaza-hospitals-face-critical-oxygen-shortages",
-    "content": "Gaza’s hospitals are confronting a critical oxygen shortage that threatens the lives of premature infants and patients with severe respiratory illnesses. Medical staff report that the limited supply of oxygen cylinders and concentrators has reached dangerously low levels, forcing clinicians to ration treatment and, in some cases, divert patients to facilities outside the territory.\n\nThe crisis has been driven by a combination of supply chain disruptions, damaged infrastructure, and the ongoing conflict that has impeded the delivery of essential medical goods. Over the past week, several major hospitals in Gaza City and Khan Younis have reported running out of oxygen for intensive care units, prompting appeals to international aid agencies for immediate assistance. Health officials warn that without swift replenishment, mortality rates among the most vulnerable patients could rise sharply.\n\nInternational humanitarian groups have called for an urgent, coordinated effort to restore oxygen supplies and protect the region’s fragile healthcare system. Meanwhile, local authorities are working to secure alternative sources and redistribute existing stockpiles, but the situation remains precarious as the conflict continues to strain the already overstretched medical infrastructure.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 2:12:05",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
