@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260826-396",
+    "title": "Mimicking natural connections could improve rotator cuff repair",
+    "slug": "mimicking-natural-connections-could-improve-rotator-cuff-repair",
+    "content": "A research team at the Perelman School of Medicine, University of Pennsylvania, has created a synthetic “scaffold” designed to replicate the structure and function of natural tissue, a development that may improve the durability of rotator cuff repairs. The findings were published in the journal Science Advances and target some of the most challenging cases, including large tears and injuries complicated by bone and tissue degeneration.\n\nThe scaffold is engineered to provide a supportive matrix that encourages the growth of new, healthy tissue while maintaining the mechanical strength required for shoulder movement. By closely mimicking the extracellular environment of native rotator cuff tissue, the material aims to reduce the high failure rates associated with conventional surgical repairs, particularly in patients with extensive damage or compromised bone quality. Preclinical testing demonstrated that the scaffold integrates with surrounding tissue and sustains functional loads over time, suggesting potential for clinical application.\n\nIf further studies confirm its safety and efficacy in humans, the technology could offer surgeons a more reliable option for repairing complex rotator cuff injuries, potentially decreasing the need for revision surgeries and improving long‑term outcomes for patients. The research team plans to advance the scaffold toward clinical trials, where its performance will be evaluated in real‑world surgical settings.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/26/2026 20:42:46",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-383",
+    "title": "Twitter Viewer Enables Viewing Tweets Without an Account",
+    "slug": "twitter-viewer-enables-viewing-tweets-without-an-account",
+    "content": "A new web‑based utility called **TwitterWebViewer** has recently drawn attention from the tech community, garnering 24 points on Hacker News with five comments. The tool offers a lightweight interface that displays tweets directly in a browser, bypassing the need for a Twitter login. By leveraging the official Twitter API v2, it pulls tweet data in real time while maintaining user anonymity and respecting rate limits.\n\nDeveloped as an open‑source project, TwitterWebViewer is designed for developers and content creators who wish to embed or analyze tweet streams without the overhead of OAuth authentication. The project’s repository includes clear documentation on API usage, caching strategies, and privacy safeguards, allowing users to integrate the viewer into websites or data‑analysis pipelines with minimal effort. The discussion on Hacker News highlights both the utility’s practical applications and the broader conversation around API access and user privacy.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 20:42:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-368",
+    "title": "Meta settles in US states lawsuit on teen user addiction",
+    "slug": "meta-settles-in-us-states-lawsuit-on-teen-user-addiction",
+    "content": "Meta has agreed to a settlement that could see the company pay billions of dollars and impose new usage restrictions on its platforms for young users. The deal follows a multistate lawsuit filed by several U.S. states that accused Meta of contributing to addiction and overuse among children, arguing that the company’s design and advertising practices encouraged excessive engagement.\n\nUnder the terms, Meta will implement limits on screen time and other features aimed at reducing compulsive use by minors, while also contributing to a fund that will support research and education on digital well‑being. The settlement represents a significant step toward addressing the states’ concerns about the impact of social media on youth, and it obliges Meta to adopt policies that prioritize safer user experiences for younger audiences.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 20:32:36",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-365",
+    "title": "Trump says he has no timeline for Iran to rejoin talks",
+    "slug": "trump-says-he-has-no-timeline-for-iran-to-rejoin-talks",
+    "content": "Former President Donald J. Trump said he has no set timetable for Iran’s return to the negotiating table, according to a recent interview. When asked by reporters about the next steps in U.S.–Iran talks, Trump replied that he does not have a schedule and that any progress would depend on the willingness of both sides to engage.\n\nTrump’s remarks come amid renewed U.S. interest in reviving the 2015 Joint Comprehensive Plan of Action, which the Biden administration has been exploring while maintaining pressure on Tehran over its nuclear program. While the former president has repeatedly criticized the deal and the current administration’s approach, his comment underscores the uncertainty that still surrounds any potential diplomatic breakthrough.\n\nIn short, Trump’s statement signals that, from his perspective, the timeline for Iran’s re‑engagement remains undetermined and will hinge on future negotiations rather than a predetermined schedule.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 20:32:19",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-364",
+    "title": "Meta settles $16.68 billion youth addiction lawsuit and will modify Facebook, Instagram features",
+    "slug": "meta-settles-16-68-billion-youth-addiction-lawsuit-and-will-modify-facebook-inst",
+    "content": "Meta Inc. has agreed to pay $16.68 billion to settle a lawsuit that accused the company of contributing to child addiction through its social‑media platforms. The legal action, filed by a coalition of parents and advocacy groups, alleged that Facebook and Instagram’s design and algorithmic recommendations fostered excessive use among minors, leading to harmful behavioral outcomes. The settlement resolves claims that the platforms failed to protect vulnerable users and violated state consumer‑protection laws.\n\nUnder the terms of the deal, Meta will implement a range of changes aimed at reducing the risk of addictive use by children. The company will introduce stricter age‑verification procedures, limit the visibility of certain content types, and enhance tools that allow parents to set time limits and monitor activity. Additionally, Meta will commit to transparent reporting on the effectiveness of these measures and to ongoing third‑party audits of its content‑moderation and recommendation systems.\n\nThe settlement marks a significant moment for the tech industry, as it underscores growing scrutiny over how social‑media companies manage user engagement, particularly among minors. Meta’s agreement to both a substantial financial payout and concrete platform reforms signals a shift toward greater accountability and may influence regulatory approaches to digital addiction in the United States.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 20:32:14",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260826-363",
+    "title": "CIA Director Ratcliffe met Russian intelligence officials in Moscow, Kremlin says",
+    "slug": "cia-director-ratcliffe-met-russian-intelligence-officials-in-moscow-kremlin-says",
+    "content": "Washington’s top intelligence official, CIA Director William J. Ratcliffe, traveled to Moscow this week for a series of meetings with senior Russian intelligence officers. The itinerary, confirmed by both U.S. and Russian sources, included discussions on counterterrorism cooperation, the handling of shared intelligence on global criminal networks, and the management of ongoing cyber‑security concerns. Ratcliffe’s visit did not involve a meeting with President Vladimir Putin, a point noted by officials from both capitals, and the agenda remained focused on operational matters rather than broader diplomatic issues.\n\nThe Kremlin described the talks as “positive,” emphasizing that the dialogue contributed to a “constructive atmosphere” for future engagement between the two intelligence communities. While the meetings occurred against a backdrop of heightened U.S.–Russia tensions over Ukraine, sanctions, and allegations of espionage, both sides indicated that the discussions were a step toward maintaining open channels of communication on matters of mutual security interest. No immediate policy changes were announced, but the statements suggest an intent to sustain a functional, if limited, line of cooperation moving forward.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/26/2026 20:32:09",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-360",
     "title": "Amanda Anisimova Returns to US Open After Mental Health Break",
     "slug": "amanda-anisimova-returns-to-us-open-after-mental-health-break",
@@ -5431,72 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/24/2026 1:01:58",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-283",
-    "title": "Palestinian teen killed in Israeli raid buried in West Bank",
-    "slug": "palestinian-teen-killed-in-israeli-raid-buried-in-west-bank",
-    "content": "Hundreds of mourners gathered for the funeral of Islam Ahmad Maher Ajouri, a 14‑year‑old who was killed by Israeli gunfire during a recent raid. The ceremony, held in his hometown, drew a large crowd that included family members, community leaders and residents who came to pay their respects to the teenager.\n\nAuthorities said the youth died when Israeli forces opened fire in the course of the operation, though details of the raid have not been released. The funeral underscored the ongoing tension in the region, as similar incidents have repeatedly sparked public outcry and heightened security concerns. The community’s response highlighted the personal impact of the conflict on families and the broader population.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 1:01:53",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-282",
-    "title": "Senior Colonel Zhou Bo discusses China's multipolar vision with Sreenivasan Jain",
-    "slug": "senior-colonel-zhou-bo-discusses-china-s-multipolar-vision-with-sreenivasan-jain",
-    "content": "Senior Colonel Zhou Bo, a senior officer of the People’s Liberation Army, and veteran journalist Sreenivasan Jain met on the sidelines of an international security forum in Beijing to discuss China’s articulation of a “fairer, multipolar world.” Zhou outlined Beijing’s view that the current international system, dominated by a single superpower, should evolve toward a balance of power in which emerging economies and regional blocs have greater influence in global governance. He emphasized principles of mutual respect, non‑interference and equitable development as the foundation for a new order that would address perceived imbalances in trade, security and technology.\n\nJain probed the practical implications of the Chinese vision, asking how it would translate into concrete policies and cooperation mechanisms. The discussion highlighted China’s ongoing initiatives, such as expanding the Belt and Road infrastructure network, promoting the Asian Infrastructure Investment Bank, and seeking greater representation in United Nations bodies. Both participants agreed that dialogue between policymakers, scholars and media is essential for building mutual understanding as the world adjusts to shifting power dynamics. The exchange underscored the importance of continued diplomatic engagement to shape a stable, inclusive international framework.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 1:01:48",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-274",
-    "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-    "slug": "iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms",
-    "content": "House Speaker Mike Johnson stated that it would be advantageous for the ongoing conflict to conclude prior to the November presidential election. The Republican leader, known for his alignment with former President Donald Trump, made the remark during a recent public address, drawing attention to the intersection of foreign policy developments and domestic political timing.\n\nJohnson’s comments reflect broader concerns among lawmakers regarding how prolonged international tensions could influence voter sentiment and campaign dynamics. With the election cycle advancing",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 0:12:08",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-273",
-    "title": "Nevada Wildfire Forces Thousands Evacuated, Declares State of Emergency",
-    "slug": "nevada-wildfire-forces-thousands-evacuated-declares-state-of-emergency",
-    "content": "A state of emergency has been declared in Nevada after a rapidly expanding wildfire has forced mass evacuations across several communities. The blaze, which has ignited in the foothills of the Sierra Nevada, has already consumed thousands of acres and is threatening residential areas in the Reno–Sparks corridor.\n\nState officials say the fire, driven by high winds and extremely dry vegetation, has outpaced local firefighting resources. The Nevada Department of Conservation and Natural Resources has called in additional crews from neighboring states, and the U.S. Forest Service is coordinating aerial suppression efforts. Residents in the affected zones have been ordered to leave immediately, and shelters have been opened in nearby towns. Authorities are monitoring the fire’s spread closely as temperatures remain above record levels for this time of year.\n\nThe emergency declaration allows the state to mobilize federal aid and streamline evacuation protocols. Firefighters continue to work around the clock to contain the blaze, while emergency services remain on standby for any further incidents. Residents are urged to stay updated through official channels and to heed evacuation orders promptly.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 0:12:02",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-272",
-    "title": "Eight Tunisian Migrants Die in Boat Sinking Off Southeast Coast",
-    "slug": "eight-tunisian-migrants-die-in-boat-sinking-off-southeast-coast",
-    "content": "A small boat carrying 15 Tunisian migrants capsized off the southeastern coast of Tunisia while en route to Italy, resulting in the deaths of eight passengers. Rescue crews reached the wreckage within hours, but the severe sea conditions and overcrowded vessel hampered immediate evacuation efforts. The survivors were taken to a nearby port for medical treatment and further processing.\n\nThe incident underscores the perilous journey many North Africans undertake across the Mediterranean in search of better opportunities. Tunisian authorities have repeatedly warned that unregulated boats often exceed safe capacity, increasing the risk of capsizing. Human‑rights groups have called for stricter regulation of maritime crossings and improved search‑and‑rescue coordination between Tunisia and Italy.\n\nAuthorities are investigating the circumstances that led to the tragedy, including the boat’s condition and the decision to set sail. The Tunisian government has pledged to review safety protocols for migrant vessels and to strengthen cooperation with European partners to reduce future casualties in the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 0:11:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-271",
-    "title": "Stephen Walt says Trump exhausted options in Iran conflict",
-    "slug": "stephen-walt-says-trump-exhausted-options-in-iran-conflict",
-    "content": "Political scientist Stephen Walt, a professor at the Harvard Kennedy School, has publicly critiqued former President Donald J. Trump’s rhetoric that the United States would become stronger under his leadership. In a recent interview, Walt argued that while Trump’s campaign promises focused on revitalizing American power, many of his enacted policies have had the opposite effect, eroding key pillars of U.S. influence abroad and at home.\n\nWalt cited several policy areas to support his assessment. He pointed to the administration’s withdrawal from multilateral agreements such as the Paris Climate Accord and the Trans‑Pacific Partnership, arguing that these moves weakened the U.S.’s standing in global governance. He also highlighted the Trump‑era trade wars, particularly the tariffs imposed on China, which he said disrupted global supply chains and strained alliances. Additionally, Walt noted the administration’s approach to immigration and border security, suggesting that the hard‑line stance damaged the United States’ image as a leader of the free‑world liberal order.\n\nIn concluding his remarks, Walt urged policymakers to reassess the long‑term consequences of Trump’s agenda. He emphasized that sustaining American strength requires engagement with international institutions and a commitment to multilateralism, rather than unilateral actions that undermine the country’s strategic interests.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/24/2026 0:11:53",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
