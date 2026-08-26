@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-508",
+    "title": "Tailscale releases Tailcat tool for rapid secure tunneling",
+    "slug": "tailscale-releases-tailcat-tool-for-rapid-secure-tunneling",
+    "content": "Tailscale, the WireGuard‑based VPN service, has released a new lightweight utility called **tailcat**. The tool, hosted on GitHub, lets users copy files or stream data between machines that are already connected through the Tailscale network, functioning in a manner similar to the Unix `cat` command but over a secure, mesh‑connected overlay. The repository includes a minimal code base, clear documentation, and installation instructions for Linux, macOS, and Windows.\n\nThe project was highlighted on Hacker News, where the post received 20 up‑votes and one comment, indicating a modest but notable interest from the developer community. The discussion centered on tailcat’s simplicity and its potential to streamline file transfer workflows in environments that rely on Tailscale for secure connectivity. Users praised the tool’s ease of use and the fact that it requires no additional configuration beyond the existing Tailscale setup.\n\nWith tailcat now publicly available, developers can quickly add a command‑line file‑copy capability to their Tailscale‑enabled infrastructure. The project’s straightforward design and community feedback suggest it may become a handy addition for teams that need fast, secure file sharing without the overhead of traditional FTP or cloud services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/27/2026 0:01:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-496",
     "title": "Sophie Adenot Completes Successful ISS Antenna Replacement",
     "slug": "sophie-adenot-completes-successful-iss-antenna-replacement",
@@ -5486,17 +5497,6 @@
     "categorySlug": "sports",
     "publishedAt": "8/24/2026 4:02:09",
     "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-350",
-    "title": "Louisiana Girl Dies After Brain-Eating Amoeba Infection",
-    "slug": "louisiana-girl-dies-after-brain-eating-amoeba-infection",
-    "content": "LITTLE RUSTON, La. – An eight‑year‑old girl from Ruston, Lillian Smart, died on Saturday after contracting the rare brain‑eating amoeba *Naegleria fowleri*. Health officials say the infection likely occurred after Smart swam in Lake Claiborne, a freshwater lake in northern Louisiana. The fatal disease, which typically kills within a week of symptoms, is most commonly found in warm, freshwater bodies.\n\nSmart’s family announced the tragic loss on the “Love for Lillian” Facebook page, noting that the child had celebrated her birthday the day before her death. The Louisiana Department of Health has confirmed the diagnosis and is investigating the incident as part of its ongoing monitoring of *Naegleria fowleri* cases in the state. Officials urge residents to exercise caution when swimming in lakes and rivers, especially during warm weather, and to seek immediate medical attention if symptoms such as severe headache, fever, or nausea appear.\n\nThe community mourns the loss of a beloved child, and state health authorities continue to review safety protocols for recreational waters to prevent future cases of this deadly infection.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/24/2026 4:01:57",
-    "author": "Guardian Science",
     "isFeatured": false
   }
 ]
