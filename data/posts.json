@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-183",
+    "title": "Z.ai announces Ox Alpha as new GLM-series model, will release weights",
+    "slug": "z-ai-announces-ox-alpha-as-new-glm-series-model-will-release-weights",
+    "content": "China’s AI startup Z.ai has announced the release of its new large‑language model, Ox Alpha Stealth, positioning it as a direct competitor to the U.S.‑based DeepSeek model. The company claims the model, built on a 200‑billion‑parameter architecture, delivers performance on par with leading commercial systems while offering advanced multilingual support and improved reasoning capabilities. Z.ai’s announcement comes amid a broader push by Chinese firms to reduce reliance on foreign AI technology and to establish a domestic ecosystem capable of supporting high‑end generative models.\n\nIndustry observers note that Ox Alpha Stealth’s architecture incorporates a novel attention‑mechanism that reportedly reduces inference latency by up to 30 percent compared with previous releases. The model has already been benchmarked on several standard NLP tasks, achieving scores that rival those of DeepSeek on the GPT‑4 benchmark and surpassing them on certain reasoning benchmarks. A comment from a Y Combinator forum user highlighted the model’s potential to disrupt the global AI landscape, noting that its open‑source licensing could accelerate adoption among developers worldwide.\n\nIf the performance claims hold under independent evaluation, Ox Alpha Stealth could signal a significant shift in the competitive dynamics of large‑language models, giving Chinese enterprises a more robust tool for domestic and international applications. The release also underscores the intensifying race between Western and Eastern AI developers to secure technological leadership and market share in the rapidly evolving generative AI sector.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 16:31:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-167",
     "title": "Trump claims mines cleared from Strait of Hormuz",
     "slug": "trump-claims-mines-cleared-from-strait-of-hormuz",
@@ -5486,17 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/23/2026 21:01:58",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-204",
-    "title": "Russia Faces Fuel Shortage Amid Attacks on Refineries",
-    "slug": "russia-faces-fuel-shortage-amid-attacks-on-refineries",
-    "content": "Attacks on several Russian oil refineries have sharply reduced domestic fuel supplies, leaving petrol stations with empty pumps and drivers facing prolonged queues. The disruptions, attributed to Ukrainian drone strikes and sabotage, have curtailed output at key processing facilities, prompting the government to impose temporary export bans and to tap strategic reserves in an effort to stabilise the market. Despite these measures, analysts note that the shortfall is expected to persist through the winter months, exacerbating logistical challenges for both civilian commuters and commercial transport across the country.\n\nA group of dissident Russian economists argues that the growing public frustration over fuel scarcity could translate into broader opposition to the war in Ukraine. They contend that widespread inconvenience and rising living costs may erode popular support for the Kremlin’s military strategy, potentially creating pressure for a diplomatic resolution. While the economists caution that the link between economic hardship and political change is not deterministic, they highlight the fuel shortage as a tangible factor that could influence public sentiment and, consequently, the trajectory of the conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 21:01:54",
-    "author": "DW World",
     "isFeatured": false
   }
 ]
