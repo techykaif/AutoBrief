@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-274",
+    "title": "PeopleFinders launches Stud or Dud site for dating background checks",
+    "slug": "peoplefinders-launches-stud-or-dud-site-for-dating-background-checks",
+    "content": "A new online service, Stud or Dud, has entered the market offering dating users a way to research potential partners. The platform claims to pull public records and other publicly available data to provide background information on individuals, positioning itself as a tool for those who want to verify the history of a prospective date. Its service model mirrors that of established public‑record aggregators such as PeopleFinders.com, which have long been used by consumers for personal investigations.\n\nStud or Dud aggregates data from government databases, court filings, property records, and other publicly accessible sources, presenting the information in a format that is intended to be easy to read for non‑lawyers. However, the use of these data sets raises the same privacy and accuracy concerns that have been raised about PeopleFinders and similar sites. Critics point to the potential for misidentification, outdated or incomplete records, and the lack of a formal verification process. In addition, the platform’s terms of service and data handling practices have been scrutinized for compliance with state and federal privacy regulations, including the Fair Credit Reporting Act and the General Data Protection Regulation for users in the European Union.\n\nWhile Stud or Dud offers a convenient way for individuals to gather information about a prospective partner, the service’s reliance on public data and the absence of a rigorous validation framework mean that users should approach the findings with caution. As the platform continues to grow, regulators and privacy advocates are likely to monitor its operations closely to ensure that it does not facilitate the spread of inaccurate or harmful personal information.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 18:51:53",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-261",
     "title": "Dead whale washes ashore on beach in Mexico",
     "slug": "dead-whale-washes-ashore-on-beach-in-mexico",
@@ -5486,17 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/23/2026 23:02:14",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-261",
-    "title": "Probiotics Detect High Blood Sugar and Release GLP-1 on Demand",
-    "slug": "probiotics-detect-high-blood-sugar-and-release-glp-1-on-demand",
-    "content": "Managing blood sugar remains a daily challenge for people with diabetes, who must monitor glucose levels, time meals, and coordinate medication schedules. The constant vigilance can be exhausting, especially when glucose spikes occur outside predictable meal times. In response, researchers have created a biological system that automatically detects rising blood sugar and releases medication to bring levels back into range.\n\nThe new system uses engineered cells that sense glucose concentrations and trigger the release of insulin or other glucose‑lowering agents on demand. By integrating a glucose‑responsive element with a controlled‑release mechanism, the device eliminates the need for manual dosing at specific times. Early laboratory tests have shown that the system can respond within minutes to hyperglycemic events, maintaining glucose within target ranges without user intervention.\n\nIf the technology proves safe and effective in clinical trials, it could transform diabetes care by reducing the burden of constant monitoring and improving glycemic stability. The next steps include large‑scale human studies to assess long‑term efficacy, safety, and integration with existing diabetes management platforms.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/23/2026 23:02:10",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
