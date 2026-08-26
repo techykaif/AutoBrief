@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260826-144",
+    "title": "Oldinsurancemaps.net becomes OpenStreetMap Charter Project",
+    "slug": "oldinsurancemaps-net-becomes-openstreetmap-charter-project",
+    "content": "OpenStreetMap has announced the launch of the OIM Charter Project, a new initiative aimed at expanding the mapping of critical infrastructure such as roads, bridges, and utilities across underserved regions. The project, detailed in a recent blog post on the OpenStreetMap US website, outlines a collaborative framework that will bring together volunteer cartographers, local authorities, and technology partners to create high‑resolution, up‑to‑date datasets for emergency response and urban planning.\n\nKey objectives of the charter include standardizing data collection protocols, integrating real‑time sensor feeds, and providing open‑source tools for community‑driven validation. The initiative will roll out in three phases over the next 18 months, beginning with a pilot in the Pacific Northwest, followed by broader deployment in the Midwest and Southeast. Stakeholders have highlighted the potential to improve disaster preparedness and support infrastructure maintenance, while also fostering greater participation from local mapping communities.\n\nThe announcement was shared on Hacker News (item 49445873) where it received seven up‑votes and no comments, indicating modest but focused interest from the tech community. As OpenStreetMap continues to evolve its data ecosystem, the OIM Charter Project represents a strategic effort to enhance the reliability and accessibility of infrastructure maps for both public and private sector users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/26/2026 15:31:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260826-133",
     "title": "Putin signs decree allowing state seizure of businesses hit by drone strikes",
     "slug": "putin-signs-decree-allowing-state-seizure-of-businesses-hit-by-drone-strikes",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/23/2026 20:01:57",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260823-180",
-    "title": "Nordic countries call for FIFA president Infantino's resignation",
-    "slug": "nordic-countries-call-for-fifa-president-infantino-s-resignation",
-    "content": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands have issued a joint statement supporting calls for FIFA president Gianni Infantino to resign, adding their voices to a growing chorus of criticism surrounding the governing body’s recent turmoil. The six Nordic football associations said the “current crisis” – marked by allegations of governance failures, lack of transparency in decision‑making and mounting legal challenges to FIFA’s recent reforms – has eroded confidence in Infantino’s leadership and threatens the integrity of the sport.\n\nThe statement, released ahead of the upcoming FIFA Congress, urges the organization’s executive board to initiate an independent review and to consider a leadership transition that would restore credibility among member associations. By aligning with other national federations that have expressed similar concerns, the Nordic group aims to amplify pressure on the president and prompt concrete action before the next election cycle. The development underscores the intensifying scrutiny of FIFA’s governance and signals that the call for change is gaining traction across multiple regions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/23/2026 20:01:52",
     "author": "Al Jazeera",
     "isFeatured": false
   }
