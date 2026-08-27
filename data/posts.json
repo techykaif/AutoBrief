@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260827-338",
+    "title": "Trump renames Lake Ontario to Lake America as DOJ disputes Kennedy Center naming",
+    "slug": "trump-renames-lake-ontario-to-lake-america-as-doj-disputes-kennedy-center-naming",
+    "content": "President Donald J. Trump signed an executive order on Thursday afternoon that officially renamed Lake Ontario “Lake America.” The move, announced amid heightened tensions in the U.S.–Canada trade war, follows Trump’s earlier public suggestion that the Great Lakes be renamed to reflect American identity. The order, which takes effect immediately, is part of a broader effort by the administration to assert national sovereignty over geographic nomenclature.\n\nIn a separate legal proceeding, Trump’s attempt to rename the Kennedy Center in Washington, D.C., after himself returned to court. A judge heard arguments Thursday about whether the former president’s name can be affixed to the cultural institution, a dispute that has drawn attention to the limits of executive influence over federal landmarks. The case is pending further rulings, and its outcome will determine whether the Kennedy Center will retain its historic designation.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "8/28/2026 3:41:56",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260827-317",
     "title": "Gap shares rise 12% after naming new Old Navy CEO",
     "slug": "gap-shares-rise-12-after-naming-new-old-navy-ceo",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/25/2026 10:22:14",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-055",
-    "title": "Data Centers Drive Rapid Expansion of Gas Power Projects in the U.S.",
-    "slug": "data-centers-drive-rapid-expansion-of-gas-power-projects-in-the-u-s",
-    "content": "The rapid expansion of data centers across North America and Europe has spurred a surge in natural‑gas projects, with dozens of new plants either proposed or already under construction. Industry analysts point to the growing energy demands of high‑density server farms as the primary driver, noting that many operators are turning to gas‑fired power generation for its reliability and lower carbon intensity compared to coal. In the United States, for example, several mid‑size gas turbines are slated to begin operations by 2025, while European utilities are investing in combined‑cycle facilities to meet the projected 30‑percent increase in data‑center electricity consumption over the next decade.\n\nKey details of the boom include the geographic spread of these projects. In the U.S., new gas plants are clustered around major metropolitan hubs such as the Dallas‑Fort Worth area, the San Francisco Bay region, and the New York‑New Jersey corridor—locations that also host the largest concentrations of cloud‑service providers. European developments are concentrated in the Netherlands, Germany, and the United Kingdom, where data‑center operators are partnering with local utilities to secure dedicated gas supply contracts. These partnerships often involve long‑term agreements that guarantee a steady supply of power while allowing operators to meet regulatory emissions targets.\n\nThe broader context underscores a shift in the data‑center industry’s energy strategy. While renewable sources remain a long‑term goal, the immediacy of meeting current demand has led many operators to rely on natural gas as a bridge technology. This trend is likely to persist until storage and grid‑scale renewable solutions mature enough to support the high‑density, 24‑hour power needs of modern data‑center facilities.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/25/2026 10:22:09",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
