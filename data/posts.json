@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260827-376",
+    "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
+    "slug": "after-failure-of-private-rescue-mission-nasa-s-swift-space-telescope-will-crash",
+    "content": "NASA's Swift space telescope will re-enter Earth's atmosphere and burn up after a private spacecraft failed in its attempt to rescue the aging observatory. The unsuccessful mission confirms that the satellite will conclude its operational life with an uncontrolled descent in the near future, ending hopes of extending the instrument's service through commercial intervention.\n\nThe private rescue effort aimed to capture and repurpose the Swift telescope, but the spacecraft was",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "8/28/2026 3:53:49",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-358",
+    "title": "UEFA to file criminal mismanagement complaint against FIFA president Infantino in Switzerland",
+    "slug": "uefa-to-file-criminal-mismanagement-complaint-against-fifa-president-infantino-i",
+    "content": "UEFA has formally announced that it will file a legal complaint against FIFA president Gianni Infantino in Switzerland, alleging “criminal mismanagement” in connection with the failed World Cup sell‑off plan. The decision was revealed by the Guardian on Wednesday, just as national football federations and club executives were gathering in Monte Carlo for the Champions League draw. The complaint follows UEFA’s earlier move to withdraw a proposed boycott of FIFA competitions, a step that some observers had interpreted as a retreat from efforts to unseat Infantino.\n\nThe complaint will target Infantino’s role in the World Cup sell‑off scheme, which failed to meet its financial targets and was widely criticised for its lack of transparency. UEFA’s statement emphasises that the legal action is part of a broader strategy to hold FIFA leadership accountable, although it acknowledges that removing Infantino will remain an uphill struggle. The complaint is expected to be filed in Switzerland, where FIFA is headquartered, and will likely trigger further investigations into FIFA’s governance and financial practices.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/28/2026 3:51:59",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260827-338",
     "title": "Trump renames Lake Ontario to Lake America as DOJ disputes Kennedy Center naming",
     "slug": "trump-renames-lake-ontario-to-lake-america-as-doj-disputes-kennedy-center-naming",
@@ -5475,28 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/25/2026 11:11:54",
     "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-060",
-    "title": "Australia bans AI‑generated songs from official music charts",
-    "slug": "australia-bans-ai-generated-songs-from-official-music-charts",
-    "content": "A new policy introduced by the Australian Recording Industry Association (ARIA) this week will require any track that incorporates artificial‑intelligence‑generated elements to be clearly labelled as such before it can be eligible for inclusion on the official singles chart. The rule change, announced by ARIA’s board on Tuesday, aims to preserve transparency for listeners and maintain the integrity of chart rankings amid growing concerns that AI‑assisted productions could distort competition.\n\nThe decision follows a high‑profile incident in which a Sydney‑based DJ publicly acknowledged that his recent remix of Madonna’s “Hung Up” had been created using AI software. The AI‑enhanced version surged to the top of the Australian charts last month, prompting debate within the music industry about the role of machine‑learning tools in songwriting and production. ARIA’s new guidelines stipulate that any AI contribution—whether in composition, arrangement, or vocal synthesis—must be disclosed in the track’s metadata, and failure to comply could result in removal from the chart.\n\nIndustry observers say the measure provides a clear framework for artists and record labels while giving consumers insight into how songs are produced. ARIA will monitor compliance throughout the upcoming charting period and review the policy’s impact on future releases.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/25/2026 11:11:49",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-056",
-    "title": "Headlong: Microharness for Persistent Agents",
-    "slug": "headlong-microharness-for-persistent-agents",
-    "content": "Headlong is a lightweight microharness designed to streamline the development and testing of persistent agents—software components that maintain long‑term state and interact continuously with external systems. The project, detailed in an update on Laude.org, offers a minimalistic framework that abstracts common agent concerns such as state persistence, fault tolerance, and lifecycle management, allowing developers to focus on business logic rather than boilerplate infrastructure.\n\nThe release notes highlight several core features: a built‑in persistence layer that supports multiple backends, a modular plugin system for extending agent capabilities, and a simple command‑line interface for deployment and monitoring. The tool has attracted attention on Hacker News, where its announcement received 12 upvotes and three comments, indicating early interest from the startup and open‑source communities. Contributors praised its concise API and the potential to accelerate prototype cycles for autonomous services.\n\nIn summary, Headlong provides a focused, easy‑to‑integrate solution for building resilient persistent agents. By reducing setup complexity and offering flexible persistence options, it aims to lower the barrier for teams seeking to deploy long‑running, stateful applications in production environments.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/25/2026 10:22:14",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]

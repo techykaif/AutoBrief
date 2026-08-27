@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260825-060",
+    "title": "Australia bans AI‑generated songs from official music charts",
+    "slug": "australia-bans-ai-generated-songs-from-official-music-charts",
+    "content": "A new policy introduced by the Australian Recording Industry Association (ARIA) this week will require any track that incorporates artificial‑intelligence‑generated elements to be clearly labelled as such before it can be eligible for inclusion on the official singles chart. The rule change, announced by ARIA’s board on Tuesday, aims to preserve transparency for listeners and maintain the integrity of chart rankings amid growing concerns that AI‑assisted productions could distort competition.\n\nThe decision follows a high‑profile incident in which a Sydney‑based DJ publicly acknowledged that his recent remix of Madonna’s “Hung Up” had been created using AI software. The AI‑enhanced version surged to the top of the Australian charts last month, prompting debate within the music industry about the role of machine‑learning tools in songwriting and production. ARIA’s new guidelines stipulate that any AI contribution—whether in composition, arrangement, or vocal synthesis—must be disclosed in the track’s metadata, and failure to comply could result in removal from the chart.\n\nIndustry observers say the measure provides a clear framework for artists and record labels while giving consumers insight into how songs are produced. ARIA will monitor compliance throughout the upcoming charting period and review the policy’s impact on future releases.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/25/2026 11:11:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260825-056",
+    "title": "Headlong: Microharness for Persistent Agents",
+    "slug": "headlong-microharness-for-persistent-agents",
+    "content": "Headlong is a lightweight microharness designed to streamline the development and testing of persistent agents—software components that maintain long‑term state and interact continuously with external systems. The project, detailed in an update on Laude.org, offers a minimalistic framework that abstracts common agent concerns such as state persistence, fault tolerance, and lifecycle management, allowing developers to focus on business logic rather than boilerplate infrastructure.\n\nThe release notes highlight several core features: a built‑in persistence layer that supports multiple backends, a modular plugin system for extending agent capabilities, and a simple command‑line interface for deployment and monitoring. The tool has attracted attention on Hacker News, where its announcement received 12 upvotes and three comments, indicating early interest from the startup and open‑source communities. Contributors praised its concise API and the potential to accelerate prototype cycles for autonomous services.\n\nIn summary, Headlong provides a focused, easy‑to‑integrate solution for building resilient persistent agents. By reducing setup complexity and offering flexible persistence options, it aims to lower the barrier for teams seeking to deploy long‑running, stateful applications in production environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/25/2026 10:22:14",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260825-055",
     "title": "Data Centers Drive Rapid Expansion of Gas Power Projects in the U.S.",
     "slug": "data-centers-drive-rapid-expansion-of-gas-power-projects-in-the-u-s",
