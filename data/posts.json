@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260827-285",
+    "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+    "slug": "9-things-to-know-about-nasa-s-nancy-grace-roman-space-telescope",
+    "content": "NASA’s Nancy Grace Roman Space Telescope is scheduled to lift off at 7:26 a.m. EDT on Sunday, August 30. The launch will take place from the Cape Canaveral Space Launch Complex 40, marking the first major deployment of the agency’s next‑generation wide‑field infrared observatory. The Roman mission, named after the pioneering astronomer Nancy Grace Roman, is designed to survey the cosmos with unprecedented depth and breadth, aiming to map dark energy, exoplanet populations, and the large‑scale structure of the universe.\n\nThe telescope will carry a 2.4‑meter primary mirror and a 0.28‑square‑degree field of view, roughly 100 times larger than the Hubble Space Telescope’s camera. Its instruments will conduct deep‑field imaging and grism spectroscopy, enabling astronomers to probe the expansion history of the universe and to discover thousands of exoplanets via microlensing. The mission’s data will be made publicly available, fostering a broad scientific community effort to unlock new insights into cosmology and planetary science.\n\nFor additional information about the Roman mission, visit https://www.nasa.gov/roman. Media inquiries may be directed to Claire Andreoli at NASA’s Goddard Space Flight Center, Greenbelt, Md. (claire.andreoli@nasa.gov, 301‑286‑1940).",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/28/2026 3:12:28",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-282",
+    "title": "What caused the flooding in Nepal?",
+    "slug": "what-caused-the-flooding-in-nepal",
+    "content": "Severe flooding has devastated communities across parts of Nepal and the Tibetan Plateau, with hydrologists and climate researchers identifying a sudden glacial collapse as the primary catalyst. The catastrophic event, triggered by the rapid failure of a high-altitude ice formation, released massive volumes of meltwater that surged downstream, overwhelming river systems and inundating villages in both regions. Authorities have confirmed multiple fatalities and widespread infrastructure damage as emergency teams navigate difficult terrain to reach isolated areas.\n\nScientific assessments indicate that rising temperatures and accelerating ice melt have destabilized fragile glacial structures in the Himal",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/28/2026 3:12:15",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-280",
+    "title": "M5Stack Launches PaperMono Compact E‑Ink Development Terminal",
+    "slug": "m5stack-launches-papermono-compact-e-ink-development-terminal",
+    "content": "M5Stack has unveiled Papermono, a new compact e‑ink development terminal designed for connected projects. The device features a 4.2‑inch e‑ink display paired with an ESP32‑based microcontroller, offering both Wi‑Fi and Bluetooth Low Energy connectivity. Built around the company’s modular ecosystem, Papermono supports the same M5Stack firmware libraries and can be powered by a rechargeable Li‑ion battery or USB‑C, making it ideal for low‑power IoT applications such as smart signage, e‑book readers, or status dashboards.\n\nPapermono’s form factor measures just 90 mm × 60 mm, and its 200 × 200 pixel display provides crisp monochrome graphics. The board includes a built‑in I²C OLED for debugging, a 3.5‑mm audio jack, and a micro‑SD slot for data logging. Firmware updates are delivered over the air, and the device can run on the Arduino core or M5Stack’s own framework. M5Stack lists the unit at $129 on its website, with pre‑orders opening immediately and shipping expected in the first quarter of 2026.\n\nBy combining a low‑power e‑ink screen with a versatile connectivity stack, Papermono fills a niche for developers who need persistent, battery‑efficient displays in a small footprint. The release expands M5Stack’s portfolio beyond its popular ESP32‑based stacks, positioning the company as a key player in the growing market for edge‑AI and IoT prototypes that require readable, low‑energy interfaces.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 3:12:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-279",
+    "title": "Division by Zero Bug Found in FFmpeg Using Vibecoded Fuzzer",
+    "slug": "division-by-zero-bug-found-in-ffmpeg-using-vibecoded-fuzzer",
+    "content": "A new issue (24290) has been logged on the official FFmpeg code repository, drawing attention from the broader multimedia development community. FFmpeg, the open‑source project that powers video and audio encoding, decoding, and streaming for countless applications, is regularly updated through a public issue tracker where developers report bugs, propose enhancements, and discuss implementation details.\n\nThe discussion surrounding this particular issue gained traction on Hacker News, where it accumulated 87 points and 63 comments. The thread, accessible via the news link, highlights the community’s interest in the matter and provides a forum for developers and users to share insights, potential workarounds, and suggestions for a resolution. The engagement reflects the collaborative nature of FFmpeg’s development process, where feedback from a wide user base helps prioritize fixes and features.\n\nAs of now, the issue remains open in the FFmpeg tracker, indicating that the project maintainers are still evaluating the reported problem and considering possible solutions. Continued community input on platforms such as Hacker News and the FFmpeg issue tracker will likely influence the project's roadmap and the eventual implementation of a fix or improvement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 3:11:58",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-278",
+    "title": "Voronoi Go Adds Strong Bot and Correspondence Play",
+    "slug": "voronoi-go-adds-strong-bot-and-correspondence-play",
+    "content": "A community forum has announced significant updates that aim to improve player engagement. According to a recent post on the platform’s discussion board, a new, robust bot has been introduced to serve as a challenging opponent for users. The bot, contributed by a community member, is designed to provide a more competitive experience for players who previously struggled to find suitable matches.\n\nIn addition to the bot, the forum now supports correspondence games, allowing participants to play at their own pace over extended periods. These features are intended to broaden the range of available opponents and reduce the difficulty of locating matches. The update has been well received by the community, with the discussion thread receiving 34 points and eight comments, indicating active interest and ongoing conversation about the platform’s evolving gameplay options.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 3:11:54",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-277",
+    "title": "Google announces Gemini 3.5 Transcribe speech-to-text model",
+    "slug": "google-announces-gemini-3-5-transcribe-speech-to-text-model",
+    "content": "Google has unveiled Gemini 3.5 Transcribe, a new speech‑to‑text model that builds on the Gemini 3.5 architecture. The model is designed to deliver faster, more accurate transcription across a wide range of languages and accents, with a particular emphasis on real‑time performance. According to the company’s blog, Gemini 3.5 Transcribe incorporates advanced acoustic modeling and contextual language understanding, enabling it to handle noisy environments and complex dialogue with higher fidelity than previous iterations.\n\nThe announcement comes as Google expands its Gemini family of multimodal models, positioning the new transcriber for integration into Workspace, Meet, and other productivity tools. Early benchmarks released by the company show a significant reduction in error rates compared to earlier Gemini models, especially for low‑resource languages. The update also includes new privacy safeguards, allowing on‑device processing for sensitive audio streams and offering users greater control over data retention.\n\nCommunity reaction on Hacker News, where the announcement received 26 points and 9 comments, reflects a cautious enthusiasm. Users praised the model’s potential for accessibility and real‑time collaboration, while some expressed interest in further performance metrics and broader language coverage. As Google rolls out Gemini 3.5 Transcribe, developers and enterprises will likely evaluate its impact on workflow automation, transcription services, and multilingual communication.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 3:11:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260827-274",
     "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
     "slug": "nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force",
@@ -5431,72 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "8/25/2026 10:21:48",
     "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-048",
-    "title": "Airbound Raises $37M for Drone Delivery",
-    "slug": "airbound-raises-37m-for-drone-delivery",
-    "content": "Airbound, a drone‑delivery startup, has secured new funding after unveiling an ultra‑lightweight design that promises faster, more efficient air couriers. The investment round was led by Greenoaks, the logistics arm of DoorDash, and Silicon Valley investor Lachy Groom. The partnership signals confidence in Airbound’s technology, which reduces payload weight and battery consumption, allowing drones to carry larger loads over longer distances while cutting operating costs.\n\nThe backing comes at a time when the drone‑delivery market is intensifying, with companies vying for regulatory approval and commercial viability. Greenoaks’ involvement brings DoorDash’s extensive last‑mile network and data analytics, positioning Airbound to integrate its drones into existing delivery ecosystems. Lachy Groom’s track record in scaling tech ventures adds strategic guidance, potentially accelerating Airbound’s path to widespread deployment. Together, the investors provide both capital and industry expertise, bolstering Airbound’s prospects of becoming a key player in the emerging aerial logistics sector.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/25/2026 9:31:59",
-    "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-046",
-    "title": "Projectile Strikes Oil Tanker in Strait of Hormuz, No Casualties",
-    "slug": "projectile-strikes-oil-tanker-in-strait-of-hormuz-no-casualties",
-    "content": "A projectile struck an oil tanker in the Strait of Hormuz off Oman’s coast, causing damage but no injuries, the United Kingdom Maritime Trade Operations (UKMTO) announced early Tuesday. The incident, reported at 07:30 local time, involved a vessel carrying crude oil that sustained structural damage to its hull. UKMTO confirmed that the crew was unharmed and that the tanker remained under control, with emergency services on standby.\n\nThe Strait of Hormuz is a critical chokepoint for global oil transport, and incidents in the area are closely monitored by international maritime authorities. UKMTO has urged shipping companies to maintain heightened vigilance and has requested additional information from the vessel’s operators regarding the nature of the projectile and the circumstances of the impact. No further casualties or environmental damage have been reported, and the tanker is expected to resume its voyage once inspections are completed.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/25/2026 9:31:54",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-045",
-    "title": "Amnesty International alleges India used lethal weapons on protesters",
-    "slug": "amnesty-international-alleges-india-used-lethal-weapons-on-protesters",
-    "content": "Amnesty International has accused Indian security forces of employing lethal weapons against demonstrators who were derogatorily referred to as “cockroaches” by officials. In a statement released on Monday, the human‑rights group said that police used live ammunition and tear‑gas canisters during a series of protests in the capital city, resulting in multiple injuries and at least two fatalities. The protests, which began on Saturday, were organized by a coalition of civil‑society groups opposing recent legislative changes, and participants reported being targeted after police officers publicly used the slur in a televised briefing.\n\nThe Indian government has denied the allegations, asserting that the force used was proportionate and that any casualties were the result of unlawful actions by a minority of agitators. A spokesperson for the Ministry of Home Affairs said an internal inquiry is underway and that the authorities are committed to upholding law and order while respecting the right to peaceful assembly. Amnesty International called for an independent investigation and for the immediate cessation of any use of lethal force against peaceful protesters, emphasizing that the allegations warrant urgent scrutiny by international and domestic monitoring bodies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/25/2026 9:31:50",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-044",
-    "title": "Netanyahu alleges Iran attempted to assassinate his son",
-    "slug": "netanyahu-alleges-iran-attempted-to-assassinate-his-son",
-    "content": "Israeli Prime Minister Benjamin Netanyahu asserted that recent developments were a direct result of the joint United States‑Israel operation that targeted Iran’s supreme leader and four of his family members in Tehran. The claim was made in a televised address on Tuesday, where Netanyahu linked the alleged killing to a broader strategy aimed at curbing Tehran’s regional activities and preventing further escalation.\n\nThe operation, described by Israeli officials as a precision strike, was reportedly carried out by special forces from both nations and resulted in the death of the senior cleric, identified as a top figure in Iran’s political hierarchy, along with four relatives. The incident has prompted condemnation from Iranian authorities, who have called for an immediate response, and has drawn heightened scrutiny from the international community, including calls for restraint and verification of the reported casualties.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/25/2026 9:31:44",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-040",
-    "title": "The hidden cost of high performance: New research questions 'win-at-all-costs' sport culture",
-    "slug": "the-hidden-cost-of-high-performance-new-research-questions-win-at-all-costs-spor",
-    "content": "A review commissioned by Sport New Zealand and released this week has raised concerns that the nation’s high‑performance support framework may be contributing to adverse outcomes for some elite athletes. The independent inquiry, prompted by a series of high‑profile mental‑health disclosures and a recent increase in athlete withdrawals from major competitions, examined the structure, funding and oversight of programs that provide coaching, medical, psychological and financial assistance to the country’s top sportspersons.\n\nThe report identified several systemic issues, including inconsistent access to qualified sports psychologists, pressures linked to performance‑based funding that can encourage excessive training loads, and a lack of clear pathways for athletes to raise welfare concerns without fear of repercussions. Interviews with current and former athletes revealed instances of burnout, anxiety and depression that were not adequately addressed by existing support services. Sport New Zealand acknowledged the findings, noting that while the high‑performance system has delivered international success, the identified gaps require immediate remediation to safeguard athlete wellbeing.\n\nIn response, Sport New Zealand has pledged to implement a revised welfare protocol, increase the availability of mental‑health professionals, and establish an independent oversight committee to monitor compliance across all high‑performance programmes. The changes are slated for rollout ahead of the next Olympic cycle, with the aim of aligning performance objectives with robust health and safety safeguards for New Zealand’s elite athletes.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/25/2026 8:42:42",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260825-039",
-    "title": "Family medicine shortage: Why future doctors look elsewhere",
-    "slug": "family-medicine-shortage-why-future-doctors-look-elsewhere",
-    "content": "Dr. Genaro DeLeon, a resident physician at the Cleveland Clinic, is navigating a common crossroads in medical training as he evaluates whether to pursue a career in surgery or family medicine. The decision highlights a frequent consideration among clinical trainees who must align their professional interests with the distinct demands of different specialties before completing their residency requirements.\n\nCleveland Clinic’s residency framework provides structured rotations, clinical electives, and faculty mentorship to help residents assess their aptitudes across multiple disciplines. Surgery training emphasizes procedural proficiency, acute care management, and intensive hospital-based practice, while family medicine focuses on comprehensive, longitudinal patient care across diverse age groups and clinical settings. Residents typically utilize this comparative exposure, along with guidance from program directors and specialty advisors, to make informed career choices.\n\nAs Dr. DeLeon progresses through his training, his deliberation reflects the standard decision-making process embedded in modern medical education. Academic medical centers maintain flexible training pathways to support residents through such pivotal evaluations, ensuring that physicians ultimately enter practice in specialties that",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/25/2026 8:42:37",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
