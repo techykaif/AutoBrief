@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260829-310",
+    "title": "Man City Opens Talks with Liverpool Over Gakpo",
+    "slug": "man-city-opens-talks-with-liverpool-over-gakpo",
+    "content": "Manchester City have reportedly begun discussions with Liverpool over a potential move for Dutch winger Cody Gakpo, according to sources familiar with the negotiations. Gakpo, who has emerged as one of the Premier League’s most promising talents, has attracted interest from several clubs following a season in which he contributed 13 goals and 10 assists across all competitions for Liverpool. The transfer speculation comes as City look to reinforce their attacking options ahead of a congested schedule that includes the Premier League, Champions League and domestic cup competitions.\n\nLiverpool are said to be open to a sale if a suitable offer is made, while City’s management is reportedly evaluating the player’s fit within their tactical system and the financial terms involved. Gakpo’s contract with Liverpool is set to expire in 2025, and the Dutch international has expressed a desire to continue playing at the highest level. If a deal is reached, the transfer would likely be completed in the summer window, with both clubs expected to confirm the agreement once the terms are finalized.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "8/30/2026 2:33:02",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-303",
+    "title": "Household Work Loads Linked to Relationship Health",
+    "slug": "household-work-loads-linked-to-relationship-health",
+    "content": "A recent study from the University of Queensland highlights how the combined physical, cognitive, and emotional demands of household work affect the health of couples’ relationships. Researchers coined the term “tri‑load” to describe the three intertwined dimensions of domestic labor: the physical chores of washing, cleaning and cooking; the cognitive tasks of planning shopping lists and scheduling appointments; and the emotional work of anticipating needs, providing comfort and consoling partners.\n\nThe study surveyed hundreds of couples, finding that higher levels of tri‑load correlate with increased relationship strain and lower overall satisfaction. Participants who reported a more balanced distribution of these tasks—both partners sharing responsibilities across all three domains—were less likely to experience conflict and reported stronger emotional bonds. The researchers suggest that recognizing and addressing the full spectrum of household labor can be a key factor in fostering healthier, more resilient partnerships.\n\nThese findings underscore the importance of equitable domestic arrangements for marital well‑being. By acknowledging the hidden emotional and cognitive labor that often goes uncounted, couples and policymakers alike may better support relationships that thrive amid everyday responsibilities.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/30/2026 2:32:19",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-302",
+    "title": "Airborne TB Bacteria Mutate During Drying, Offering New Target to Fight Drug Resistance",
+    "slug": "airborne-tb-bacteria-mutate-during-drying-offering-new-target-to-fight-drug-resi",
+    "content": "Tuberculosis (TB) bacteria that are expelled into the air from infected patients can survive the drying process and even acquire mutations that confer antibiotic resistance, a new study from Weill Cornell Medicine has shown. The research reveals that the bacteria not only endure the harsh conditions of the environment but also generate genetic changes during the airborne phase, making them highly contagious—second only to measles in transmissibility.\n\nThe investigators identified specific mechanisms that allow the TB bacilli to withstand desiccation and to mutate while airborne. These findings suggest that transmission is not a simple passive transfer of static organisms but may involve an active evolutionary step, with the pathogen adapting in real time as it moves from one host to another. The study highlights the need to consider these airborne evolutionary dynamics when developing strategies to curb the spread of drug‑resistant TB.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/30/2026 2:32:14",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-301",
+    "title": "Bias Toward Action in New Roles: Calibrate Before Accelerating",
+    "slug": "bias-toward-action-in-new-roles-calibrate-before-accelerating",
+    "content": "A recent blog post titled “Bias Towards Action” was published on Tucker’s personal website, where the author examines the cognitive tendency for individuals and teams to favor taking action over engaging in thorough analysis. The article argues that this bias can lead to premature decisions, overlooked alternatives, and suboptimal outcomes, particularly in software development and startup environments. It cites psychological research and real‑world case studies to illustrate how the impulse to act often overrides careful consideration of risks and benefits.\n\nThe post outlines several mechanisms that reinforce the bias, such as the desire for momentum, the influence of social proof, and the pressure to demonstrate progress to stakeholders. Tucker proposes a set of mitigation strategies, including setting explicit decision deadlines, employing structured decision‑making frameworks, and allocating dedicated time for reflection before execution. The article also highlights the importance of fostering a culture where questioning and deliberation are valued alongside rapid iteration.\n\nThe piece attracted attention on Hacker News, where it received 46 up‑votes and 13 comments. Readers on the platform discussed the relevance of the bias in their own projects, noting both the challenges of overcoming it and the potential benefits of adopting the suggested practices. The discussion underscores the broader interest in balancing speed and rigor in modern product development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 2:32:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-300",
+    "title": "vLLM Releases Version 0.28.0",
+    "slug": "vllm-releases-version-0-28-0",
+    "content": "**vLLM 0.28.0 Released: New Features and Performance Enhancements**\n\nOpenAI‑inspired large‑language‑model inference library vLLM has just shipped version 0.28.0, adding a suite of improvements that streamline deployment and boost throughput. The update, released on GitHub on 2026‑08‑29, introduces a new “dynamic batching” scheduler that automatically adjusts batch sizes based on token‑level latency, reducing average inference time by up to 15 % on typical GPU workloads. Additionally, the release adds first‑class support for the latest NVIDIA Hopper GPUs, along with updated CUDA 12.1 bindings, allowing users to tap into the full performance potential of the newest hardware. Minor bug fixes address memory‑leak issues in the KV‑cache manager and correct a rare crash that could occur when loading models with mixed‑precision weights.\n\nThe v0.28.0 changelog also expands the public API, adding a `vllm.InferenceEngine` context manager that simplifies multi‑model orchestration in production environments. Documentation has been updated to include detailed deployment guides for Kubernetes and Docker Swarm, and the test suite now covers 98 % of the codebase, improving reliability for large‑scale inference pipelines. Community feedback on the release was modest but positive, with the announcement receiving 20 up‑votes and one comment on Hacker News, indicating growing interest in the library’s evolving capabilities.\n\nWith these enhancements, vLLM continues to solidify its position as a leading open‑source solution for fast, scalable language‑model inference. Developers can now benefit from tighter integration with modern GPU architectures, more efficient batching, and a clearer deployment path, making it easier to bring state‑of‑the‑art models to production at lower cost and higher speed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 2:32:02",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-299",
+    "title": "Stephendiehl.com article on internet predation receives 292 points on Hacker News",
+    "slug": "stephendiehl-com-article-on-internet-predation-receives-292-points-on-hacker-new",
+    "content": "A blog post by Stephendiehl titled “Internet Predatory Cesspit” was published on her personal site and quickly drew attention on Hacker News, where it earned 292 up‑votes and 176 comments. The post critiques how the design of many online platforms and the lack of robust regulatory frameworks have turned the internet into a breeding ground for predatory behavior.\n\nIn the article, Stephendiehl argues that features such as anonymous accounts, rapid content sharing, and insufficient moderation enable harassment, exploitation, and other forms of abuse. She cites examples from social media, gaming communities, and online marketplaces to illustrate how predators can thrive when platforms prioritize engagement over safety. The post calls for stronger content‑moderation policies, clearer user‑agreement terms, and greater accountability for platform operators to curb the prevalence of such conduct.\n\nThe discussion that followed on Hacker News highlighted the broader debate over digital safety and platform responsibility. While the post itself remains a critique of current internet practices, the conversation it sparked underscores a growing demand for systemic changes to protect users from predatory behavior online.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 2:31:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260829-298",
+    "title": "DHS invokes obscure law to request records from journalists, nonprofits and unions",
+    "slug": "dhs-invokes-obscure-law-to-request-records-from-journalists-nonprofits-and-union",
+    "content": "The Department of Homeland Security on Monday issued a Form 1509 subpoena demanding that several national news outlets and nonprofit watchdog groups turn over internal communications and source records related to their coverage of former President Donald Trump’s post‑presidency activities. The request, filed under the agency’s authority to protect “national security” information, targets material gathered by journalists and advocacy groups during investigations into alleged foreign‑influence operations and potential violations of the Hatch Act. DHS officials said the subpoena is part of a broader effort to assess whether classified or sensitive data were improperly disclosed, but they declined to specify which investigations prompted the demand.\n\nThe summons has drawn criticism from press‑freedom advocates, who argue that the move could set a precedent for government intrusion into editorial processes and source protection. Legal analysts note that while DHS can request records in certain security contexts, the scope of the subpoena may exceed typical parameters, raising questions about the balance between national‑security interests and First‑Amendment rights. The Guardian’s report highlighted that the affected organizations are reviewing the request with counsel and may seek a protective order, while a discussion on the Y Combinator forum reflected broader concern among journalists and civil‑rights groups about the potential chilling effect on investigative reporting. The outcome of the dispute could shape how federal agencies interact with the media in future security‑related inquiries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 2:31:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260829-297",
     "title": "Warp develops self-improving agents on Anthropic's Claude model",
     "slug": "warp-develops-self-improving-agents-on-anthropic-s-claude-model",
@@ -5420,83 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/27/2026 17:22:25",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-166",
-    "title": "Trump Supports Data Centers Amid GOP Skepticism",
-    "slug": "trump-supports-data-centers-amid-gop-skepticism",
-    "content": "Republican leaders in Washington have begun to voice increasing concerns about the rapid expansion of data‑center facilities, a trend that has put President Donald J. Trump in a difficult position as the midterm elections approach. While the administration has repeatedly highlighted the economic benefits of the industry—job creation, tax revenue, and the strengthening of the country’s digital infrastructure—party officials are worried that the perceived environmental impact and the concentration of corporate power could become a liability for GOP candidates in swing districts.\n\nLast week, President Trump signaled that he would continue to champion data‑center development but would also allow Republican candidates the flexibility to criticize the projects if it aligns with their constituents’ priorities. The move reflects a broader strategy to keep the party united on economic growth while acknowledging the growing environmental and local‑community concerns that some GOP lawmakers are raising. As the midterms draw near, the administration’s stance will likely be tested in states where data‑center proposals face public opposition, forcing a delicate balance between industry support and political pragmatism.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:22:20",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-165",
-    "title": "Trump’s Diplomacy Offers Hope for Families of Chinese Prisoners",
-    "slug": "trump-s-diplomacy-offers-hope-for-families-of-chinese-prisoners",
-    "content": "Grace Jin Drexel has spent the past seven months campaigning for the release of her father, who is being held in a Chinese prison. In early May, a friend alerted her that her phone was “blowing up” with messages and calls, suggesting that her advocacy had begun to attract wider attention. The surge in communication comes amid growing international scrutiny of the case.\n\nEarlier in the month, former President Donald Trump responded to a question from *The Hill* about the situation, stating that he would “look into it” and explore any possible diplomatic avenues. His remarks followed a series of diplomatic exchanges between the United States and China over the treatment of foreign detainees. Drexel’s family has maintained that her father was detained on charges that they say are politically motivated, and they have called for a transparent review of his case.\n\nThe heightened media interest and the former president’s statement have renewed focus on the case, prompting additional calls from human‑rights groups for a fair trial and humane treatment. While no formal resolution has yet been announced, the increased visibility may influence the diplomatic dialogue between Washington and Beijing regarding the father’s continued imprisonment.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:22:15",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-164",
-    "title": "Republicans Split on Pre‑Election Stimulus Amid Economic Slowdown",
-    "slug": "republicans-split-on-pre-election-stimulus-amid-economic-slowdown",
-    "content": "Republicans on Capitol Hill are split over whether to launch a last‑ditch effort to pass economic stimulus legislation before Election Day, amid new federal data indicating a slowing economy and persistent inflation. House Majority Leader Steve Scalise (R‑La.) introduced a fourth budget‑reconciliation package last month that would combine tax cuts, infrastructure spending, and a temporary increase in the federal minimum wage. The proposal is framed as a way to boost consumer confidence and support voters in the final weeks of the campaign.\n\nThe package has drawn both support and criticism within the GOP. Proponents argue that the measures would stimulate growth, create jobs, and counteract the inflationary pressures that have weighed on households. Opponents raise concerns about the long‑term fiscal cost, potential crowding out of private investment, and the risk of further inflating the national debt. Because budget reconciliation can bypass the filibuster in the Senate, the plan could advance quickly in the House, but it still faces scrutiny from Senate Republicans and the broader party base.\n\nAs the debate continues, the timing of the legislation remains a key issue. If the bill passes, it could signal a decisive policy shift ahead of the election, potentially influencing voter sentiment. However, the uncertainty surrounding its fiscal implications and the divided stance of Republican lawmakers suggest that a definitive outcome remains elusive as the campaign season approaches.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:22:10",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-163",
-    "title": "White House Economic Tools Face Challenges",
-    "slug": "white-house-economic-tools-face-challenges",
-    "content": "The Trump administration has relied heavily on tariffs and export controls to advance its economic‑security agenda, but recent data suggest that these measures are falling short of their intended goals. Since the 2018 trade war, the United States has imposed billions of dollars in tariffs on imports from China, the European Union, and other partners, while tightening restrictions on the transfer of advanced technologies to countries deemed strategic competitors.\n\nAnalysts point to a combination of factors undermining the effectiveness of these tools. Trade‑flow data show only modest reductions in imports from targeted nations, and many companies have shifted production to other regions or found ways to circumvent restrictions. Moreover, the export‑control regime has struggled to keep pace with rapid technological advances, leading to gaps that allow rival states to acquire critical components. The cumulative impact has been a muted improvement in the U.S. trade balance and limited gains in national‑security objectives.\n\nIn light of these shortcomings, policymakers are reassessing the role of tariffs and export controls within the broader economic‑security strategy. Future initiatives may involve more targeted sanctions, investment in domestic supply chains, and diplomatic engagement to address the root causes of trade imbalances and technology competition.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:22:04",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-162",
-    "title": "Andrew Tate Seeks Bail in Extradition Fight",
-    "slug": "andrew-tate-seeks-bail-in-extradition-fight",
-    "content": "A growing concern among law‑enforcement officials is that individuals who are granted bail while awaiting international extradition may abscond, potentially undermining the judicial process. The risk is heightened when the accused face serious allegations and have strong ties to foreign jurisdictions that could offer them safe haven. Authorities have warned that the possibility of flight could influence the strictness of bail conditions and the decision to proceed with extradition requests.\n\nThe issue has come to the forefront in the high‑profile case of former kickboxing champion Andrew Tate and his brother, Tristan. The two men are currently charged in the United Kingdom with a total of 59 criminal offences, including rape and human trafficking. Their case has attracted significant media attention, and the brothers have reportedly sought bail while the extradition process unfolds. The UK courts and police are closely monitoring the situation to ensure that the extradition proceedings are not compromised by any attempt to flee.\n\nIn light of these developments, the UK legal system is reinforcing its bail protocols for extradition cases, emphasizing stringent travel restrictions and monitoring. The Tate brothers’ situation underscores the broader challenge of balancing individual rights with the imperative to secure justice across borders. The outcome of their bail and extradition proceedings will likely set a precedent for how similar cases are handled in the future.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:21:59",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-161",
-    "title": "Ossoff Gains Lead in Senate Race, Eyes 2028",
-    "slug": "ossoff-gains-lead-in-senate-race-eyes-2028",
-    "content": "Senator Jon Ossoff, who won his 2020 race in a tightly contested Georgia Senate seat, was initially flagged by analysts as one of the most vulnerable incumbents in the 2024 election cycle. Early projections highlighted his relatively narrow margin of victory and the competitive nature of the district, suggesting a high likelihood of a challenging reelection campaign. However, recent polling data has shifted the narrative, showing Ossoff building a steady lead over his Republican challenger and indicating a stronger position than previously anticipated.\n\nThe shift in Ossoff’s polling trajectory has prompted speculation that he may be positioning himself for a higher office in the future, with 2028 often cited as a potential target year. Analysts note that his growing popularity could stem from a combination of increased visibility, legislative achievements, and effective campaign messaging. While the Georgia electorate remains dynamic, the current trend suggests that Ossoff’s prospects for reelection are improving, and his political trajectory may extend beyond the Senate in the coming years.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:21:52",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260827-160",
-    "title": "Tech firms and officials use NDAs to conceal data center negotiations",
-    "slug": "tech-firms-and-officials-use-ndas-to-conceal-data-center-negotiations",
-    "content": "A local data‑center project has come under scrutiny after residents learned that nondisclosure agreements (NDAs) were used to conceal negotiations between a major technology firm and both city and state officials. The agreements, which were signed before any public hearings, prevented the disclosure of the terms of the deal, leaving community members unaware of the scope and potential impact of the proposed facility.\n\nThe NDAs reportedly covered discussions about land use, tax incentives, and infrastructure commitments. Similar arrangements have been documented in other states, where data‑center developers routinely use confidentiality clauses to shield their bargaining positions from public scrutiny. The practice has raised concerns among residents and local governments about transparency and the potential for undisclosed benefits or burdens to be imposed on the community.\n\nWhile the company has not released the specifics of the agreement, the revelation underscores a broader trend of using NDAs to manage public perception in large‑scale technology projects. Officials and residents alike are calling for clearer disclosure requirements to ensure that future negotiations are conducted with greater openness and accountability.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/27/2026 17:21:47",
-    "author": "NPR Politics",
     "isFeatured": false
   }
 ]
