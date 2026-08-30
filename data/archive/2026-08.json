@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260828-031",
+    "title": "Judge rules Pentagon blacklisting of Anthropic unconstitutional",
+    "slug": "judge-rules-pentagon-blacklisting-of-anthropic-unconstitutional",
+    "content": "A federal judge in Northern California has ruled that the Pentagon’s decision to blacklist the AI research company Anthropic was unconstitutional, marking a decisive victory for the lab after months of litigation with the former Trump administration. Judge Rita F. Lin, who presided over the case, found that the administration’s removal of Anthropic from a list of approved contractors violated the company’s rights, noting that the invocation of national‑security concerns could not serve as a blanket justification for punitive action against a critic.\n\nThe lawsuit, filed in March in a California district court, alleged that the Trump administration retaliated against Anthropic for establishing “red lines” – specific military applications it deemed unacceptable for its technology. Lin’s ruling emphasized that the empty use of national‑security language does not provide a free hand to punish government critics, underscoring the limits of executive power in contracting decisions.\n\nThe decision ends a protracted legal battle that began earlier this year when the Pentagon removed Anthropic from its list of approved defense contractors. With the ruling in place, Anthropic can resume its work on AI systems for the U.S. government, while the case serves as a reminder of the checks on executive authority in defense procurement.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:42",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-030",
+    "title": "XAI sued for allegedly training Grok models with child sexual abuse material",
+    "slug": "xai-sued-for-allegedly-training-grok-models-with-child-sexual-abuse-material",
+    "content": "XAI, the artificial‑intelligence research firm behind the language model Grok, has come under scrutiny after a whistleblower alleged that the model was trained on a dataset containing both real and AI‑generated child‑pornographic material. According to the complaint, the dataset was compiled without proper safeguards or verification protocols, raising concerns about the ethical and legal compliance of XAI’s training practices.\n\nThe allegations were first reported by a former XAI employee who claimed that internal data‑curation teams had accessed and incorporated illicit content into Grok’s training corpus. XAI has denied the accusations, stating that all data used for training were sourced from publicly available and licensed datasets and that it employs strict content‑filtering mechanisms. The company has also announced an independent audit to review its data‑handling procedures and to ensure compliance with child‑protection laws.\n\nRegulators and child‑protection advocates are monitoring the situation closely, noting that the use of such material could violate multiple jurisdictions’ statutes on child exploitation and digital content. The outcome of the audit and any subsequent investigations will determine whether XAI faces legal penalties or must overhaul its data‑collection protocols to prevent future breaches.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:37",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-029",
+    "title": "Anthropic unveils hardware standard for AI agents to control devices",
+    "slug": "anthropic-unveils-hardware-standard-for-ai-agents-to-control-devices",
+    "content": "A new standardized driver interface has been unveiled that promises to enable a wide range of consumer and industrial devices to communicate directly with artificial‑intelligence systems and with one another. The interface, developed through a collaboration of major semiconductor manufacturers, cloud‑service providers, and open‑source communities, defines a common set of protocols and APIs that can be embedded into firmware and hardware. By providing a uniform channel for data exchange, the standard is expected to reduce the complexity of integrating AI into smart appliances, automotive systems, and industrial automation platforms.\n\nIndustry analysts say the move addresses a long‑standing fragmentation problem in the Internet of Things (IoT) ecosystem, where proprietary drivers and vendor‑specific protocols have made it difficult for AI models to access sensor data and control signals across devices. The new interface supports real‑time bidirectional communication, allowing AI engines to send commands to actuators while simultaneously receiving feedback from multiple sensors. Early adopters include automotive OEMs testing autonomous driving stacks and home‑automation companies deploying voice‑controlled ecosystems that can interoperate without custom adapters.\n\nIf widely adopted, the standardized driver interface could accelerate the rollout of AI‑driven services by simplifying software development and lowering integration costs. While the technology is still in the early stages of deployment, its potential to create a more connected, intelligent product landscape has generated enthusiasm among developers and investors alike. The industry will be watching closely to see whether the standard can achieve the interoperability it promises.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:32",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-028",
+    "title": "Anthropic and OpenAI to Appear on AI Stage at TechCrunch Disrupt 2026",
+    "slug": "anthropic-and-openai-to-appear-on-ai-stage-at-techcrunch-disrupt-2026",
+    "content": "TechCrunch Disrupt 2026 opened its AI Stage with a return to the topic that has dominated the tech community for the past few years: generative artificial intelligence. The session, presented by Google for Startups, highlighted the rapid evolution of AI models and their expanding impact on product development, marketing, and customer experience across industries.\n\nDuring the presentation, Google for Startups showcased new tools and best‑practice frameworks designed to help early‑stage companies integrate generative AI into their workflows while addressing concerns around data privacy, bias, and content moderation. Speakers included product leaders from Google’s AI division and representatives from several portfolio startups that have already deployed generative AI solutions at scale. The discussion also covered emerging regulatory trends and the role of open‑source initiatives in fostering responsible innovation.\n\nThe AI Stage’s focus on generative AI underscores the event’s commitment to exploring the most pressing issues shaping the startup ecosystem. By bringing together thought leaders, investors, and founders, the session aims to provide actionable insights that will influence how companies build and scale AI‑driven products in the coming years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:26",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-027",
+    "title": "StrictlyVC hosts AI and sports investing event in New York on September 10",
+    "slug": "strictlyvc-hosts-ai-and-sports-investing-event-in-new-york-on-september-10",
+    "content": "A boutique StrictlyVC evening will convene in New York’s West Village on September 10, bringing together a roster of prominent investors and entrepreneurs for a night of discussion, cocktails, and networking. The event features Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh, who will address a range of subjects including artificial intelligence, sports‑related investing, community‑building initiatives, venture economics, and political considerations affecting the startup ecosystem.\n\nOrganizers have scheduled the gathering to include food and beverage service throughout the evening, creating a setting for informal interaction among attendees and speakers. The lineup reflects a blend of expertise across technology, media, and finance, positioning the StrictlyVC gathering as a platform for insight exchange and relationship building within the venture community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:21",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-026",
+    "title": "AI Uses Mammograms to Detect Heart Disease in Women",
+    "slug": "ai-uses-mammograms-to-detect-heart-disease-in-women",
+    "content": "Experts report that routine mammograms could double as a screening tool for cardiovascular disease in women. In a study published this week, researchers used artificial‑intelligence algorithms to analyse standard breast‑cancer scans and successfully identified women at risk of coronary heart disease, hypertension, and previous stroke.\n\nThe AI model was trained on thousands of mammograms and correlated subtle changes in breast tissue and surrounding structures with cardiovascular risk markers. The findings suggest that the same imaging used to detect breast cancer could also flag early signs of heart disease, the leading cause of death among women worldwide and one that is frequently underdiagnosed.\n\nIf validated in larger trials, the approach could allow clinicians to address cardiovascular risk at the same time as cancer screening, potentially improving early detection and treatment of heart disease in women.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:15",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260828-025",
+    "title": "Robotic pizza makers face multiple failures, lowering industry confidence",
+    "slug": "robotic-pizza-makers-face-multiple-failures-lowering-industry-confidence",
+    "content": "Confidence in the automation of pizza production has waned after a series of high‑profile setbacks involving robotic kitchen equipment. Over the past year, several major pizza chains and independent operators that invested in robot‑assisted dough‑stretching, topping distribution, and oven management reported frequent malfunctions, prolonged downtime, and inconsistent product quality. In one notable case, a widely publicized trial at a national franchise was halted when the dough‑handling robot repeatedly misaligned crusts, leading to increased waste and customer complaints. Similar issues have been documented at smaller establishments where custom‑built machines failed to integrate with existing point‑of‑sale systems, forcing staff to revert to manual processes.\n\nIndustry analysts attribute the setbacks to a combination of technical immaturity, insufficient testing in real‑world environments, and the high cost of retrofitting legacy kitchens. While manufacturers continue to refine sensor algorithms and improve mechanical reliability, the recent failures have prompted restaurant owners to adopt a more cautious approach to full automation. The trend suggests that, for now, human workers will remain central to pizza production, with robotics likely to play a supplementary role as the technology matures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 11:02:09",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260828-024",
     "title": "Hundreds Missing After Floods and Landslides Hit Nepal's Nuwakot District",
     "slug": "hundreds-missing-after-floods-and-landslides-hit-nepal-s-nuwakot-district",
