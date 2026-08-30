@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260827-246",
+    "title": "OpenAI, Anthropic, Google and 100 Companies Call for Action to Defend Against Rogue AI",
+    "slug": "openai-anthropic-google-and-100-companies-call-for-action-to-defend-against-rogu",
+    "content": "Major technology firms and AI startups have jointly issued a warning about the growing inadequacies of current cybersecurity defenses, announcing a new collaborative solution they claim will counter the next wave of cyber threats. The coalition, which includes industry leaders such as Google, Microsoft, Amazon and emerging AI innovators like OpenAI and Anthropic, cited the rapid evolution of malware and ransomware that now leverage machine‑learning techniques to bypass traditional security measures.\n\nThe announced platform is an AI‑driven threat detection and response framework that promises real‑time analysis of network traffic, automated patch management, and adaptive defense strategies. The partners argue that the system’s ability to learn from global threat data will enable it to anticipate and neutralize attacks before they can exploit vulnerabilities. They also highlighted the need for shared threat intelligence and tighter regulatory oversight to keep pace with adversaries that increasingly use sophisticated AI tools.\n\nIndustry observers note that the initiative reflects a broader shift toward collaborative security models, as companies recognize that isolated defenses are no longer sufficient against coordinated, AI‑enhanced attacks. If adopted widely, the new solution could set a new standard for proactive cybersecurity, though its effectiveness will depend on the extent of cross‑organization participation and the speed at which it can be integrated into existing infrastructures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:47",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-245",
+    "title": "ATF reports major cybersecurity incident after ransomware gang claims hack",
+    "slug": "atf-reports-major-cybersecurity-incident-after-ransomware-gang-claims-hack",
+    "content": "The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) has become the latest federal agency to formally notify Congress of a “major incident” involving its cybersecurity. In a brief briefing to congressional committees, ATF officials confirmed that a breach of its information systems had been detected and contained, but that the event met the agency’s threshold for a major incident under the Cybersecurity Information Sharing Act.\n\nAccording to the briefing, the breach involved unauthorized access to a segment of the ATF’s internal network that houses sensitive data related to firearms licensing and enforcement. While the agency has not disclosed the full scope of the compromised data, it stated that the incident was isolated and that no evidence of data exfiltration or use by third parties has been found. The ATF’s cybersecurity team, in coordination with the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency, has implemented containment and remediation measures and is conducting a full forensic investigation.\n\nThe notification underscores the growing frequency of cyber incidents across federal agencies and highlights the importance of rapid disclosure to Congress under current cybersecurity reporting mandates. As the investigation continues, the ATF will provide updates on any additional findings and the steps it will take to prevent future incidents.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:41",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-244",
+    "title": "Thinking Machines co‑founder Barret Zoph joins Google after OpenAI stint",
+    "slug": "thinking-machines-co-founder-barret-zoph-joins-google-after-openai-stint",
+    "content": "Zoph, a co‑founder of the artificial‑intelligence startup Thinking Machines Lab, has moved from a short tenure at OpenAI to a new role at Google. While at Thinking Machines, he served as chief technology officer alongside fellow founder Mira Murati, steering the company’s research agenda and product development.\n\nAfter stepping down from Thinking Machines, Zoph joined OpenAI for a brief period before accepting an offer from Google. The transition follows a growing trend of AI talent shifting between leading tech firms, as each organization seeks to bolster its research capabilities and product offerings in the competitive AI landscape.\n\nGoogle’s acquisition of Zoph is expected to strengthen its AI research team, particularly in areas of machine learning architecture and system optimization, building on his experience from both Thinking Machines and OpenAI. The move underscores the continued demand for seasoned AI engineers in the industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:33",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-243",
+    "title": "YouTube Adds Amazon Product Tags for Creator Commissions",
+    "slug": "youtube-adds-amazon-product-tags-for-creator-commissions",
+    "content": "Amazon has introduced an update that enables creators to embed product recommendations directly within their video content, turning those suggestions into a more immediate revenue stream. The change integrates the retailer’s extensive online marketplace with one of the most widely used video platforms, allowing viewers to click through to Amazon listings without leaving the video environment.\n\nUnder the new system, creators receive a commission on purchases generated from their recommendations, similar to an affiliate model but streamlined for real‑time engagement. The partnership expands Amazon’s presence on the platform, leveraging its vast inventory to enhance the shopping experience for the platform’s audience while providing creators with a monetization tool tied directly to product sales. The move is expected to deepen Amazon’s e‑commerce reach and offer creators a scalable way to monetize content through direct product promotion.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:27",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-242",
+    "title": "Meta Settlement Lets Company Keep Some Child Data for Age‑Detection Models",
+    "slug": "meta-settlement-lets-company-keep-some-child-data-for-age-detection-models",
+    "content": "Meta Platforms Inc. has reached a settlement with 29 U.S. states that resolves investigations into the company’s handling of personal information from children under the age of 13. The agreement, announced this week, permits Meta to keep a limited set of data collected from minors for the purpose of developing and testing age‑detection technology used across its family‑oriented services.\n\nUnder the terms of the deal, Meta may retain identifiers, usage patterns, and other non‑content data that enable its algorithms to infer a user’s age with greater accuracy. The retained information is intended to train and validate models that automatically flag accounts belonging to children, thereby helping the company enforce its age‑restriction policies. In exchange, Meta has committed to enhanced privacy safeguards, including stricter data‑access controls, regular audits, and a prohibition on using the retained data for advertising or other commercial purposes. The settlement also includes a financial component, with Meta agreeing to pay the participating states an undisclosed sum to cover past alleged violations of state child‑privacy statutes.\n\nThe agreement highlights a privacy trade‑off: while the retained data supports tools designed to protect minors from inappropriate content, it also means that personal information from children will continue to be stored by the platform. Observers note that the settlement sets a precedent for how large tech firms may balance regulatory compliance with the development of AI‑driven safety features, and it underscores ongoing scrutiny of data practices affecting young users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:21",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-241",
+    "title": "Bluesky introduces algorithmic opt-out feature to limit post reach",
+    "slug": "bluesky-introduces-algorithmic-opt-out-feature-to-limit-post-reach",
+    "content": "Bluesky, the decentralized social‑media platform, announced that it will introduce a “followers‑only” posting option, noting that “sometimes people just want to post to their followers.” The new setting, which will appear as a toggle in the compose window, allows users to restrict the visibility of a post to the accounts that follow them, rather than broadcasting it to the broader network.\n\nAccording to a Bluesky spokesperson, the feature responds to user requests for greater control over audience reach and aligns with the platform’s emphasis on privacy and community‑focused interaction. The rollout is slated to begin next week, initially for verified accounts, with a phased expansion to all users thereafter. Industry observers see the move as part of a wider trend among social networks to offer more granular audience controls, potentially shaping how creators and everyday users engage on the platform.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:15",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-240",
+    "title": "Rivian CFO Claire McDonough to step down on Oct. 30",
+    "slug": "rivian-cfo-claire-mcdonough-to-step-down-on-oct-30",
+    "content": "Claire McDonough announced her resignation, effective October 30, according to a company filing released on Thursday. The filing states that McDonough is leaving the organization to pursue a new professional opportunity, though no further details about the role or the prospective employer were disclosed.\n\nThe company did not indicate any immediate impact on its operations and said it will begin a search for a successor in the coming weeks. Shareholders and employees have been informed that the transition will be managed to ensure continuity of leadership and ongoing projects.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:09",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-239",
+    "title": "Manchester, Stansted and East Midlands airports suffer cyber‑attack affecting 8.7 million customers",
+    "slug": "manchester-stansted-and-east-midlands-airports-suffer-cyber-attack-affecting-8-7",
+    "content": "Manchester Airports Group (MAG), the operator of Manchester, London Stansted and East Midlands airports, said the recent cyber‑attack on its systems has not compromised passenger safety. The group confirmed that the breach, which affected the three hubs, involved unauthorized access to data linked to car‑park, lounge and fast‑track bookings as well as in‑airport Wi‑Fi sign‑ups.\n\nMAG disclosed that the hackers obtained personal details for approximately 8.7 million customers, including email addresses, telephone numbers, vehicle registration numbers and postcodes. The company is working with law enforcement and cybersecurity specialists to investigate the incident and has implemented additional security measures while assuring travellers that airport operations and safety protocols remain fully functional.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:52:04",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-238",
+    "title": "Meta agrees to $18 billion settlement with US states over child‑addiction and safety claims",
+    "slug": "meta-agrees-to-18-billion-settlement-with-us-states-over-child-addiction-and-saf",
+    "content": "Meta Platforms Inc. reached a settlement this week with 52 U.S. state attorneys general, agreeing to pay $18 billion over the next ten years without admitting liability. The agreement addresses allegations that Meta designed its Facebook and Instagram services to be addictive to children and misrepresented the safety of its products. While Meta denies any wrongdoing, the settlement also includes provisions that could trigger additional payments if other major technology firms, not named in the case, are found to have engaged in similar conduct.\n\nThe payout represents a small fraction of Meta’s recent financial performance, which generated roughly $60 billion in profit last year. More consequential, however, may be the requirement for Meta to modify or unwind certain platform mechanics that have been refined over two decades to maximize user engagement. Analysts suggest that these operational changes could have longer‑term effects on the company’s business model, even as the financial settlement itself is absorbed as a modest cost relative to its earnings.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:51:58",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-237",
+    "title": "Meta settlement impacts UK while other platforms remain silent",
+    "slug": "meta-settlement-impacts-uk-while-other-platforms-remain-silent",
+    "content": "Several major social‑media platforms have been approached by regulators and advocacy groups regarding recent concerns over content moderation practices, but a number of firms have not yet issued statements. The initial inquiries, sent earlier this month, sought clarification on how the companies enforce policies related to misinformation, hate speech, and user privacy. While some platforms provided brief responses outlining their existing compliance measures, others remain silent, prompting further scrutiny from oversight bodies.\n\nCampaigners continue to press for more stringent standards, arguing that the current framework does not adequately protect vulnerable users. The debate among these groups remains active, with calls for legislative action and independent audits gaining momentum. As the discussion unfolds, authorities are expected to follow up with the non‑responsive firms, while stakeholders await clearer guidance on the next steps for industry regulation.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:51:52",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-236",
+    "title": "UN urges broad social media reforms and California AG reviews teen safety on TikTok, YouTube",
+    "slug": "un-urges-broad-social-media-reforms-and-california-ag-reviews-teen-safety-on-tik",
+    "content": "California’s Attorney General Rob Bonta has announced that his office is now examining how TikTok and YouTube could be required to add new safety features for minors under the state’s Digital Safety Act. The move follows a series of hearings and public comment periods that highlighted growing concerns about the mental‑health impact of social‑media content on teens. Bonta’s office is reviewing the platforms’ current age‑verification protocols, content‑filtering algorithms, and parental‑control options to determine whether they meet the Act’s standards for protecting children online.\n\nThe proposed measures would mandate that both TikTok and YouTube implement stricter age‑verification checks, limit the visibility of potentially harmful content to users under 18, and provide parents with tools to monitor and restrict their children’s viewing habits. The AG’s office is also coordinating with the California Department of Justice’s Office of the Digital Safety Coordinator, which will oversee compliance and conduct audits of the platforms’ safety practices. Industry representatives have indicated that they are open to collaboration, though they have expressed concerns about the technical and financial burdens of rapid implementation.\n\nIf the AG’s recommendations are adopted, California would become the first state to enforce a comprehensive, platform‑specific digital‑safety framework for minors. The initiative is expected to set a precedent for other states and could spur broader regulatory changes across the social‑media industry. The AG’s office plans to release a detailed report on its findings and proposed enforcement actions later this year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:43:18",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260827-235",
+    "title": "Tech firms warn AI-driven cyber attacks will intensify within months",
+    "slug": "tech-firms-warn-ai-driven-cyber-attacks-will-intensify-within-months",
+    "content": "A recent advisory letter issued by the National Cybersecurity Center has warned that cyber‑attacks employing artificial intelligence (AI) are expected to become significantly more sophisticated within the coming months. The letter, distributed to government agencies, financial institutions, and critical infrastructure operators, cites advances in machine‑learning models that can generate highly convincing phishing emails, craft malware that adapts to security defenses, and automate the exploitation of software vulnerabilities.\n\nThe notice highlights several emerging tactics. Attackers can now use AI to analyze vast amounts of publicly available data, identify weak points in corporate networks, and create customized malware payloads that bypass traditional signature‑based detection. In addition, the letter points to the rapid development of deep‑fake audio and video tools that could be used to manipulate executives or deceive authentication systems. Experts emphasize that the speed at which these tools are improving means that defensive measures must be updated continuously, and that organizations should invest in AI‑driven threat detection and employee training programs.\n\nIn conclusion, the advisory stresses that the window for preparing defenses against AI‑powered cyber threats is narrowing. It urges recipients to conduct immediate risk assessments, update incident‑response plans, and collaborate with industry partners to share threat intelligence. The letter serves as a stark reminder that as AI technologies evolve, so too do the methods of those who seek to exploit them.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/28/2026 2:43:13",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260827-233",
     "title": "Qatar PM meets Iranian deputy foreign minister in Tehran to discuss de‑escalation",
     "slug": "qatar-pm-meets-iranian-deputy-foreign-minister-in-tehran-to-discuss-de-escalatio",
