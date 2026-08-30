@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260830-280",
+    "title": "ESC publishes first cardiac rehabilitation guidelines",
+    "slug": "esc-publishes-first-cardiac-rehabilitation-guidelines",
+    "content": "The European Society of Cardiology (ESC) has released its latest Guidelines on cardiac rehabilitation, now available online in the European Heart Journal. The publication marks a significant update to the society’s evidence‑based recommendations for post‑cardiac‑event care.\n\nThe new guidelines will be formally presented at the ESC Congress 2026, scheduled for August 31. The congress will provide a platform for clinicians and researchers to discuss the updated recommendations and their implications for practice.\n\nThe ESC’s timely release and upcoming presentation underscore the society’s commitment to advancing cardiac rehabilitation standards across Europe.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "8/31/2026 5:11:49",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260830-279",
     "title": "Cut-to-Fuse Strategy Enables Molecular Skeletal Editing",
     "slug": "cut-to-fuse-strategy-enables-molecular-skeletal-editing",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/28/2026 23:33:26",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260828-149",
-    "title": "Meta updates AI glasses to block recording when safety light is covered",
-    "slug": "meta-updates-ai-glasses-to-block-recording-when-safety-light-is-covered",
-    "content": "Meta announced a software update for its AI‑powered smart glasses that automatically disables recording whenever the device’s safety light is obscured. The change addresses concerns that users could unintentionally or deliberately hide the visual indicator that signals when the glasses are capturing video or audio, a feature originally designed to provide by‑standers with a clear cue of ongoing recording.\n\nThe update, slated for rollout to all existing devices over the next two weeks, modifies the firmware to monitor the status of the safety light sensor and suspend all capture functions the moment the light is covered. Meta said the fix follows internal reviews and external feedback highlighting privacy risks, and it aligns the product with emerging regulatory expectations for transparent recording technologies. By ensuring the safety light remains visible during operation, the company aims to reinforce user trust while maintaining the glasses’ core AI capabilities.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/28/2026 23:33:15",
     "author": "Ars Technica",
     "isFeatured": false
   }
