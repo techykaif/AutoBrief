@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260830-039",
+    "title": "California passes unanimous exemption for Linux and open‑source software from age‑verification law",
+    "slug": "california-passes-unanimous-exemption-for-linux-and-open-source-software-from-ag",
+    "content": "California lawmakers have passed a unanimous bill exempting software distributed under the GPL, MIT, BSD, and Apache licenses from the state’s new age‑verification law. The measure, introduced by the California Assembly and Senate, specifically targets open‑source projects that rely on these widely used permissive and copyleft licenses, allowing them to continue distribution without the need to implement age‑based access controls. The exemption was approved in a 20‑to‑0 vote, reflecting bipartisan support for preserving the free‑software ecosystem.\n\nThe age‑verification law, which requires certain online content to confirm a user’s age before access, was originally aimed at protecting minors from adult material. Critics argued that applying it to open‑source software would create unnecessary compliance burdens and could stifle collaboration. By exempting GPL, MIT, BSD, and Apache‑licensed code, the legislature acknowledges the distinct nature of these licenses and the global nature of open‑source development, ensuring that developers can maintain the same distribution practices that have driven innovation in the tech community.\n\nIndustry observers note that the exemption will keep the Linux kernel and many associated projects free from the administrative overhead of age checks, while still upholding the broader intent of the law to safeguard minors. The decision underscores California’s commitment to balancing public policy goals with the practical realities of software development and distribution.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 12:53:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-037",
+    "title": "750 Dead in Nepal-Tibet Floods",
+    "slug": "750-dead-in-nepal-tibet-floods",
+    "content": "At least 750 people have been confirmed dead and more than 3,000 remain missing after severe flooding struck regions of Nepal and Tibet near the Chinese border, local authorities reported on Sunday. The disaster, triggered by intense rainfall, has inundated valleys and swollen rivers, prompting large‑scale evacuations and the activation of emergency response teams across both countries.\n\nRescue operations entered their fifth day on Sunday, hampered by continued heavy overnight rain and rising water levels that have made access to affected areas increasingly difficult. Authorities said hydropower workers are believed to be trapped in underground tunnels, complicating efforts to reach them. Officials continue to coordinate cross‑border assistance and monitor river conditions as they work to locate survivors and recover the missing.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/30/2026 12:53:06",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-036",
+    "title": "NASA to launch Roman Space Telescope on SpaceX Falcon Heavy",
+    "slug": "nasa-to-launch-roman-space-telescope-on-spacex-falcon-heavy",
+    "content": "NASA is set to launch the Nancy Grace Roman Space Telescope on Sunday aboard a SpaceX Falcon Heavy from Kennedy Space Center, initiating a multi‑year observatory mission. The telescope, named after the agency’s first female astronomer, will be positioned at the Sun–Earth L2 point, where it will begin a comprehensive survey of the universe that promises to generate the most expansive cosmic map to date.\n\nEquipped with a field of view roughly 100 times larger than that of the Hubble Space Telescope, Roman will conduct wide‑field imaging and spectroscopy to detect distant exoplanets, track supernova explosions, and investigate the distribution of dark matter and the influence of dark energy on cosmic expansion. The mission, scheduled to operate for at least five years, is expected to provide critical data for understanding the fundamental structure and evolution of the cosmos.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "8/30/2026 12:53:01",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260830-035",
     "title": "Putin and Xi to attend Central Asian summit in Kyrgyzstan with Iran and India",
     "slug": "putin-and-xi-to-attend-central-asian-summit-in-kyrgyzstan-with-iran-and-india",
