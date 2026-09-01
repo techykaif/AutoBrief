@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-296",
+    "title": "Keir Starmer to resign as MP, prompting London by-election",
+    "slug": "keir-starmer-to-resign-as-mp-prompting-london-by-election",
+    "content": "A by‑election has been called to fill the vacancy left by the former prime minister’s departure from his London seat.  The move follows the resignation of the former leader, who stepped down after a period of political turmoil and a loss of confidence within his party.  Under UK electoral law, a sitting Member of Parliament must vacate the seat if they leave office, prompting the election of a new representative for the constituency.\n\nThe by‑election will see candidates from the major parties, as well as independent and minor party contenders, vying for the seat.  Political analysts note that the outcome could signal shifting public sentiment in the capital and may influence the balance of power in Parliament.  Election officials have announced that polling will take place on a date set to be determined by the Electoral Commission, with campaign periods and candidate nominations already underway.\n\nIn the coming weeks, the focus will be on the campaign strategies and the key issues that resonate with voters in the constituency.  The result of the by‑election will not only determine the next MP for the area but could also reflect broader trends in the national political landscape.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/1/2026 21:31:42",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-281",
     "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
     "slug": "livestream-shopping-is-gaining-steam-in-the-u-s-thanks-to-apps-like-tiktok-and-w",
@@ -5486,17 +5497,6 @@
     "categorySlug": "health",
     "publishedAt": "8/30/2026 13:02:03",
     "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-043",
-    "title": "Open Oscar Server released as open-source AIM and ICQ compatible server",
-    "slug": "open-oscar-server-released-as-open-source-aim-and-icq-compatible-server",
-    "content": "A new open‑source project, **open‑oscar‑server**, has been released on GitHub by developer mk6i. The repository, located at https://github.com/mk6i/open-oscar-server, provides the source code and documentation for a server implementation that supports the OSCAR protocol, aiming to facilitate integration and development for applications that rely on this communication standard.\n\nThe launch quickly drew attention on Hacker News, where the submission (https://news.ycombinator.com/item?id=49494571) received 25 points and generated eight comments from the community. The discussion highlighted interest in the project's design and potential use cases, indicating a modest but engaged response from developers and enthusiasts.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 13:01:56",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]
