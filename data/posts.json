@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-431",
+    "title": "Pioneer 11 becomes first spacecraft to fly by Saturn on Sept. 1, 1979",
+    "slug": "pioneer-11-becomes-first-spacecraft-to-fly-by-saturn-on-sept-1-1979",
+    "content": "On September 1, 1979, NASA’s robotic probe Pioneer 11 became the first spacecraft to perform a fly‑by of Saturn, marking a milestone in planetary exploration. Launched in 1973, Pioneer 11 had already visited Jupiter, providing the first close‑up images of the planet’s Great Red Spot and its ring system. The Saturn encounter followed a carefully planned trajectory that used a gravity assist from Jupiter to accelerate the probe to the speed needed for the outer‑planet fly‑by.\n\nDuring the encounter, Pioneer 11 transmitted detailed data on Saturn’s atmosphere, rings, and moons, including the first close images of the planet’s faint rings and the discovery of the planet’s magnetic field. The probe also detected the presence of a faint, dusty ring around the moon Titan and measured the composition of Saturn’s upper atmosphere, confirming the presence of ammonia and water vapor. These observations provided the scientific community with unprecedented insight into the structure and dynamics of the Saturnian system and laid the groundwork for subsequent missions such as Voyager 2 and Cassini.\n\nThe successful fly‑by demonstrated the feasibility of deep‑space navigation and long‑duration communication, validating the technology and mission design that would be used for later probes. Pioneer 11’s data remain a valuable reference for planetary scientists, and its achievement is recognized as a pivotal moment in the history of space exploration, expanding humanity’s understanding of the outer planets and their complex environments.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "9/2/2026 0:51:54",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-421",
     "title": "Brughmans joins Liverpool in deal worth up to £30m",
     "slug": "brughmans-joins-liverpool-in-deal-worth-up-to-30m",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/30/2026 18:53:31",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-071",
-    "title": "Protesters march to alleged Peter Thiel mansion in Argentina",
-    "slug": "protesters-march-to-alleged-peter-thiel-mansion-in-argentina",
-    "content": "Protesters in Argentina assembled near a mansion that has been reported as a recent purchase by American technology billionaire Peter Thiel. The demonstration, organized by a coalition of environmental and labor groups, aimed to draw attention to what they say is Thiel’s intent to capitalize on the country’s natural resources and to exert undue political influence in the region.\n\nActivists allege that Thiel’s investment strategy could undermine local control over key industries, including mining and energy. They point to the mansion’s location in a politically sensitive area and to Thiel’s history of funding political causes abroad as evidence of a broader agenda that may prioritize private profit over national interests. The protestors called for a review of foreign investment regulations and greater transparency in the ownership of strategic assets.\n\nThe demonstration concluded with a statement from the organizers demanding that Argentine authorities investigate the legal status of the property and the terms of Thiel’s investment. They also urged the government to enforce stricter oversight on foreign holdings in sectors deemed vital to national sovereignty. The event highlights growing concerns among Argentine citizens about foreign influence in the country’s economic and political landscape.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/30/2026 18:53:25",
     "author": "France 24",
     "isFeatured": false
   }
