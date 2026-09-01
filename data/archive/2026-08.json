@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260830-042",
+    "title": "Benjamin Franklin used multiple pseudonyms to expand his influence",
+    "slug": "benjamin-franklin-used-multiple-pseudonyms-to-expand-his-influence",
+    "content": "A Smithsonian Magazine feature titled “Among All the Great Things Benjamin Franklin Invented, Discovered, and Alter‑Egos Gave Him the Most Freedom” examines the breadth of Franklin’s contributions to science, technology, and American culture. The piece outlines how the Founding Father’s practical inventions—bifocals, the lightning rod, the Franklin stove, and the glass armonica—were matched by his scientific observations of electricity, the Gulf Stream and atmospheric phenomena, establishing him as a leading Enlightenment thinker of the eighteenth century.\n\nThe article also highlights Franklin’s extensive use of pseudonyms, including Mrs. Silence Dogood, Poor Richard, and the “Pennsylvania Gazette” editor persona, as strategic tools that allowed him to critique social norms, experiment with political satire, and disseminate ideas without personal risk. By publishing under these alter‑egos, Franklin could separate his public official duties from his private intellectual pursuits, thereby expanding the scope of his influence across colonial and early‑national discourse.\n\nThe story has drawn attention on the technology news aggregator Hacker News, where it was posted under item 49494751 and currently holds 42 points with 11 comments, reflecting continued public interest in Franklin’s multifaceted legacy and the ways his inventive spirit and self‑crafted identities shaped the early United States.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 13:01:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-041",
+    "title": "FreeCORE releases updated TrueNAS Core version",
+    "slug": "freecore-releases-updated-truenas-core-version",
+    "content": "The website freecore.org, a newly launched platform that aggregates open‑source core libraries and tools for developers, attracted significant attention after being posted to Hacker News. The submission garnered 78 points and sparked 47 comments from the community, indicating strong interest in the resource’s potential to streamline access to foundational code components.\n\nIndustry observers noted that the discussion on Hacker News highlighted both the utility of a centralized repository for core software assets and the challenges of maintaining such a collection. As the conversation continues, freecore.org’s developers plan to incorporate user feedback to expand the catalog and improve navigation, aiming to become a go‑to reference for programmers seeking reliable, free core libraries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 13:01:46",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-040",
+    "title": "Algorithmic Rent‑Pricing Litigation Expands with New State and Local Laws",
+    "slug": "algorithmic-rent-pricing-litigation-expands-with-new-state-and-local-laws",
+    "content": "**Algorithmic Rent‑Pricing Litigation Expands Under New State and Local Laws**  \nAugust 2026 – A wave of new legislation across several states and municipalities is broadening the scope of legal challenges to algorithmic rent‑pricing practices. The Morgan Lewis & Baker law firm reports that recent statutes in California, New York, and Washington, as well as a growing number of city ordinances, now require landlords to disclose the data and algorithms used to set rents, impose stricter penalties for discriminatory pricing, and grant tenants the right to audit pricing models. These measures aim to curb opaque pricing strategies that have been criticized for perpetuating rent disparities among vulnerable populations.\n\nThe firm’s analysis notes a surge in litigation following the passage of these laws. Courts are being asked to interpret the new disclosure and audit requirements, assess the legality of automated rent calculations, and determine whether algorithmic pricing violates fair‑housing statutes. In several high‑profile cases, plaintiffs have successfully argued that opaque algorithms can mask discriminatory intent, leading to injunctions and significant settlement payouts. The legal landscape is evolving rapidly, with law firms advising landlords on compliance and tenants’ groups seeking greater transparency.\n\nIndustry observers highlight that the expanded regulatory framework is reshaping the rental market. Landlords are investing in audit‑ready systems and third‑party verification to avoid costly litigation, while tenant advocacy groups are pushing for stronger enforcement mechanisms. The article, which garnered 66 points and 33 comments on Hacker News, underscores the growing intersection of technology, housing policy, and civil rights law as algorithmic rent‑pricing practices come under increased scrutiny.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 12:53:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260830-039",
     "title": "California passes unanimous exemption for Linux and open‑source software from age‑verification law",
     "slug": "california-passes-unanimous-exemption-for-linux-and-open-source-software-from-ag",
