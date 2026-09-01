@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-391",
+    "title": "Cardiff researchers unveil AI methods for complex data geometry and multi‑scale pattern recognition at ICML 2026",
+    "slug": "cardiff-researchers-unveil-ai-methods-for-complex-data-geometry-and-multi-scale",
+    "content": "Cardiff University researchers presented two studies at the 2026 International Conference on Machine Learning (ICML 2026), tackling two core challenges in contemporary artificial intelligence. The first paper focuses on deciphering the intricate geometry and inter‑relationships that exist within high‑dimensional data, offering new mathematical tools to map and analyze these structures more effectively. The second study addresses the difficulty of detecting patterns that manifest across vastly different scales, proposing a multiscale framework that integrates fine‑grained and coarse‑grained features into a unified representation.\n\nBoth works build on recent advances in geometric deep learning and multiscale analysis, and they demonstrate improved performance on benchmark datasets ranging from image recognition to graph‑structured data. The authors emphasize that understanding data geometry can enhance model interpretability, while robust multiscale pattern recognition is essential for applications such as medical imaging, remote sensing, and natural language processing where signals span multiple resolutions.\n\nThe research highlights Cardiff University’s growing influence in machine‑learning theory and its potential to inform the design of more adaptable and transparent AI systems. The studies are expected to spur further investigation into scalable, geometry‑aware learning algorithms that can handle the complex, multi‑scale nature of real‑world data.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 0:31:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-387",
     "title": "Are you made of real-world quarks or virtual-world qubits?",
     "slug": "are-you-made-of-real-world-quarks-or-virtual-world-qubits",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/30/2026 18:53:15",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-068",
-    "title": "Ferry capsizes off northern Cyprus, several dead",
-    "slug": "ferry-capsizes-off-northern-cyprus-several-dead",
-    "content": "Authorities report that several people have died following a ferry accident off the coast of northern Cyprus. The catamaran‑style vessel, carrying nearly 270 passengers and crew, capsized after an incident that has not yet been fully explained.\n\nTurkey’s ambassador to Nicosia said that many of those on board were rescued, and that some survivors were taken to hospital for treatment. The incident is being investigated by local authorities, while emergency services continue to search for missing passengers and assess the damage to the vessel.\n\nThe tragedy has prompted a review of maritime safety protocols in the region, and officials are urging calm as the investigation proceeds. Further details are expected as the inquiry unfolds.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/30/2026 18:53:10",
     "author": "France 24",
     "isFeatured": false
   }
