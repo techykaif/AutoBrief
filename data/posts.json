@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-516",
+    "title": "Sunderland loan Kevin Danso from Tottenham",
+    "slug": "sunderland-loan-kevin-danso-from-tottenham",
+    "content": "Sunderland have secured the services of Austrian defender Kevin Danso on a season‑long loan from Premier League side Tottenham Hotspur. The 22‑year‑old, who has previously featured for the German club SC Heidenheim, will join the Championship club until the end of the 2025‑26 campaign, adding depth to Sunderland’s back line as they push for promotion.\n\nDanso, who has earned caps for Austria at various youth levels, brings experience from the Bundesliga and a reputation for strong tackling and aerial ability. The move is intended to give the player more first‑team minutes while providing Sunderland with a versatile centre‑back option as they aim to improve their defensive record in the second tier. The loan agreement was completed in the early transfer window, with both clubs hoping the arrangement will benefit the player’s development and the team’s performance.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/2/2026 3:31:50",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-496",
     "title": "Walking performance and daily activity linked to better quality of life in multiple sclerosis patients",
     "slug": "walking-performance-and-daily-activity-linked-to-better-quality-of-life-in-multi",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/30/2026 19:03:08",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-090",
-    "title": "Claude automatically appends session URLs to commit messages and PR descriptions",
-    "slug": "claude-automatically-appends-session-urls-to-commit-messages-and-pr-descriptions",
-    "content": "A new issue has been opened in Anthropic’s “claude-code” repository on GitHub, identified as issue #66504. The repository, which hosts the open‑source components of Anthropic’s Claude Code AI‑driven programming assistant, serves as a platform for developers to report bugs, request features, and discuss implementation details. The issue’s presence on the project’s issue tracker signals ongoing community engagement with the tool’s development and maintenance.\n\nThe discussion surrounding the issue extended to the technology news aggregator Hacker News, where the linked comment thread received 22 points and generated two comments from users. This level of activity suggests a modest but notable interest among the broader developer community, highlighting the relevance of the topic within open‑source AI tooling circles. Further dialogue is expected as participants continue to examine the issue’s implications for Claude Code’s functionality.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 19:03:03",
     "author": "Hacker News",
     "isFeatured": false
   }

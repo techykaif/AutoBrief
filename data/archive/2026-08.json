@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260830-090",
+    "title": "Claude automatically appends session URLs to commit messages and PR descriptions",
+    "slug": "claude-automatically-appends-session-urls-to-commit-messages-and-pr-descriptions",
+    "content": "A new issue has been opened in Anthropic’s “claude-code” repository on GitHub, identified as issue #66504. The repository, which hosts the open‑source components of Anthropic’s Claude Code AI‑driven programming assistant, serves as a platform for developers to report bugs, request features, and discuss implementation details. The issue’s presence on the project’s issue tracker signals ongoing community engagement with the tool’s development and maintenance.\n\nThe discussion surrounding the issue extended to the technology news aggregator Hacker News, where the linked comment thread received 22 points and generated two comments from users. This level of activity suggests a modest but notable interest among the broader developer community, highlighting the relevance of the topic within open‑source AI tooling circles. Further dialogue is expected as participants continue to examine the issue’s implications for Claude Code’s functionality.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 19:03:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260830-089",
     "title": "Scientists Create Miniature Big Bang to Probe Early Universe",
     "slug": "scientists-create-miniature-big-bang-to-probe-early-universe",
