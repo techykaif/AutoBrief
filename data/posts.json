@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-496",
+    "title": "Walking performance and daily activity linked to better quality of life in multiple sclerosis patients",
+    "slug": "walking-performance-and-daily-activity-linked-to-better-quality-of-life-in-multi",
+    "content": "A recent study from the University of Eastern Finland has shown that the quality of life experienced by people with multiple sclerosis (MS) is closely linked to their walking performance and overall functional capacity. Researchers measured gait speed, endurance, and daily activity levels in a cohort of MS patients and found that those who maintained stronger walking abilities reported significantly higher life satisfaction scores.\n\nThe investigation, which included over 200 participants across a range of disease stages, used standardized mobility tests and validated quality‑of‑life questionnaires. Results indicated that improvements in walking speed and endurance were associated with better scores in physical functioning, social participation, and emotional well‑being. The authors suggest that targeted rehabilitation programs focusing on ambulation could play a pivotal role in enhancing overall life quality for individuals with MS.\n\nThese findings underscore the importance of mobility as a key determinant of well‑being in MS patients and highlight the potential benefits of early, sustained intervention strategies aimed at preserving or improving walking function. The study adds to a growing body of evidence that functional capacity is not merely a clinical marker but a central component of patient-centered care.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 3:21:45",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-486",
     "title": "Tests reveal how thermoplastic composites lose strength at elevated temperatures",
     "slug": "tests-reveal-how-thermoplastic-composites-lose-strength-at-elevated-temperatures",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/30/2026 19:03:03",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-089",
-    "title": "Scientists Create Miniature Big Bang to Probe Early Universe",
-    "slug": "scientists-create-miniature-big-bang-to-probe-early-universe",
-    "content": "Physicists at the European Organization for Nuclear Research (CERN) have announced a breakthrough that reshapes the criteria for creating quark‑gluon plasma, the ultra‑hot, dense state of matter that filled the universe microseconds after the Big Bang. Using the Large Hadron Collider’s upgraded heavy‑ion program, researchers collided nuclei of xenon atoms—significantly lighter than the lead ions traditionally employed—and observed signatures of the plasma that match, and in some measurements surpass, those recorded in earlier lead‑lead experiments. The findings, detailed in a paper published in *Physical Review Letters*, indicate that the threshold for generating the primordial state is lower than previously assumed, expanding the range of atomic masses capable of reproducing early‑universe conditions in the laboratory.\n\nThe result challenges longstanding theoretical models that linked the formation of quark‑gluon plasma to the sheer size of colliding nuclei, prompting a reassessment of the role of collision geometry and energy density in the transition to this exotic phase. By demonstrating that medium‑mass atoms can achieve the necessary temperature and pressure, the discovery opens new avenues for systematic studies of the plasma’s properties, including viscosity and color charge interactions, without the logistical constraints of handling the heaviest elements. Scientists anticipate that the broader experimental toolkit will accelerate efforts to map the quantum chromodynamic phase diagram and refine our understanding of matter under extreme conditions.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 19:02:57",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
