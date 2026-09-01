@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260901-486",
+    "title": "Tests reveal how thermoplastic composites lose strength at elevated temperatures",
+    "slug": "tests-reveal-how-thermoplastic-composites-lose-strength-at-elevated-temperatures",
+    "content": "A collaborative research team comprising scientists from Skoltech, Xi'an Jiaotong University, and the Blagonravov Institute of Mechanical Engineering of the Russian Academy of Sciences has completed a systematic evaluation of pultruded glass fiber composites. The study focuses on the flexural properties of materials manufactured using three distinct thermoplastic matrices: polyphenylene sulfide (PPS), polyamide-6 (PA6), and polypropylene (PP).",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 3:12:42",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260901-476",
+    "title": "ChatGPT/Codex app includes full LibreOffice suite",
+    "slug": "chatgpt-codex-app-includes-full-libreoffice-suite",
+    "content": "On September 1, 2026 Simon Willison published a concise blog post titled “Codex LibreOffice” on his personal site, detailing the first public integration of OpenAI’s Codex model into the open‑source office suite LibreOffice. The post explains how a lightweight plugin can now leverage Codex to offer context‑aware code completion, macro generation, and even natural‑language document editing within the familiar LibreOffice interface. The article quickly drew attention on Hacker News, where it accumulated 85 points and 51 comments, sparking a lively discussion about the implications of AI in open‑source productivity tools.\n\nWillison’s write‑up outlines the technical workflow: the plugin sends selected text or code snippets to Codex via a secure API, receives suggested completions or documentation, and injects the results back into the document or macro editor. He highlights the immediate productivity gains he observed, such as generating boilerplate VBA scripts, auto‑formatting tables, and drafting email responses, while noting that the plugin respects user privacy by keeping all data off‑device and providing clear opt‑in controls. The post also touches on potential concerns—particularly regarding the reliance on a proprietary AI service for a traditionally open‑source project—and calls for community input on how best to balance innovation with transparency.\n\nThe reception on Hacker News underscores the broader debate among developers and office‑suite users about AI’s role in everyday tools. Commenters praised the convenience of AI‑assisted writing but raised questions about data security, vendor lock‑in, and the long‑term sustainability of relying on a commercial model. Willison’s post has therefore served as a catalyst for a broader conversation about how open‑source projects can responsibly integrate advanced AI features while preserving the core values of openness and user control.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 3:11:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-452",
     "title": "US Strikes Iran; Tehran Responds with Retaliatory Attacks",
     "slug": "us-strikes-iran-tehran-responds-with-retaliatory-attacks",
@@ -5474,28 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "8/30/2026 19:02:57",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-088",
-    "title": "How to Manage Multiple Group Chats Effectively",
-    "slug": "how-to-manage-multiple-group-chats-effectively",
-    "content": "Young adults are now participating in an unprecedented number of group messaging threads, with recent surveys indicating that many maintain 20 or more active chats simultaneously across platforms such as WhatsApp, Discord, and Instagram. Researchers attribute the rise to the proliferation of niche online communities, remote work collaborations, and the social expectation of constant connectivity among users aged 18 to 30. The volume of messages has been linked to increased cognitive load, fragmented attention, and reports of digital fatigue, prompting mental‑health professionals to advise more deliberate management of virtual conversations.\n\nIndustry experts recommend several practical steps to reduce the strain of “chat madness.” Users are encouraged to audit their memberships, mute or archive inactive groups, and consolidate related discussions onto single platforms. Setting designated times for checking messages, employing notification filters, and utilizing built‑in features such as “quiet hours” or “do not disturb” can further limit interruptions. By applying these strategies, young adults can maintain the social benefits of group chats while mitigating the adverse effects of constant digital chatter.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 19:02:52",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-087",
-    "title": "Top Label Makers of 2026: Brother, Niimbot, and Dymo Reviewed",
-    "slug": "top-label-makers-of-2026-brother-niimbot-and-dymo-reviewed",
-    "content": "Label makers have become a staple for organizing everything from household storage to office supplies, and the latest models combine classic durability with modern connectivity. New Bluetooth‑enabled devices allow users to design labels on a smartphone or tablet, while traditional thermal printers continue to offer instant, high‑quality output without the need for wireless setup.\n\nThese models cater to a range of budgets and needs. Entry‑level thermal printers typically cost under $50 and provide basic text and barcode printing, making them ideal for small businesses and home use. Mid‑tier devices, priced between $50 and $150, add features such as color printing, larger media rolls, and wireless printing via Wi‑Fi or Bluetooth. Premium units, often above $150, offer advanced functions like touch‑screen interfaces, cloud connectivity, and the ability to print on a variety of media types, including fabric and metal. Retailers and manufacturers have noted a steady increase in demand for Bluetooth‑enabled label makers, driven by the convenience of remote design and the ability to update labels on the fly.\n\nFor consumers seeking to streamline organization, the choice between a traditional or Bluetooth label maker depends on workflow preferences and budget. Both types remain widely available through electronics retailers, online marketplaces, and specialty office supply stores, ensuring that anyone can find a solution that fits their labeling needs.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 19:02:47",
     "author": "Wired",
     "isFeatured": false
   }
