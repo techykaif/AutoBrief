@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260831-039",
+    "title": "US tightens restrictions on foreign drones and robots as China leverages manufacturing scale",
+    "slug": "us-tightens-restrictions-on-foreign-drones-and-robots-as-china-leverages-manufac",
+    "content": "Washington has announced a new round of restrictions that will further limit the import and use of foreign‑made unmanned aerial systems and robotic equipment in U.S. defense and critical‑infrastructure projects. The measures, issued by the Department of Commerce under existing export‑control statutes, expand the list of prohibited items to include a broader range of commercial drones, autonomous ground vehicles and industrial robots that are produced outside the United States. Companies seeking to procure such technology will now be required to obtain special licenses, and any contracts involving the prohibited equipment are subject to review for national‑security implications. The policy follows earlier actions aimed at curbing reliance on non‑U.S. suppliers for components deemed sensitive to military and intelligence operations.\n\nAnalysts note that China’s vast manufacturing capacity and its aggressive push to dominate the global robotics market could shift competitive dynamics away from the United States. While the new rules are intended to protect supply‑chain integrity and prevent potential espionage, they may also encourage Chinese firms to redirect sales to other regions or to develop alternative platforms that fall outside the current regulatory scope. The United States has signaled that further adjustments to the control list are possible as it monitors the evolving landscape of foreign‑produced autonomous systems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/31/2026 13:21:56",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260831-038",
     "title": "NHS watchdog warns AI scribes misrecord drug and diagnosis names",
     "slug": "nhs-watchdog-warns-ai-scribes-misrecord-drug-and-diagnosis-names",
