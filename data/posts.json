@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260902-077",
+    "title": "Back-to-school rush could reduce sleep, survey finds",
+    "slug": "back-to-school-rush-could-reduce-sleep-survey-finds",
+    "content": "The coming back‑to‑school season is expected to erode sleep for many American families, according to a new survey released this week. The study, conducted by the National Sleep Foundation in partnership with the American Academy of Pediatrics, surveyed 3,200 parents across the United States and found that the demands of work, school, and family life are pushing healthy sleep to the background.\n\nResults showed that 62 % of parents reported sleeping less than the recommended seven hours per night, while 48 % of children aged 6‑12 were getting fewer than eight hours. Respondents cited earlier school start times, increased homework loads, and after‑school activities as primary drivers of the sleep deficit. The survey also highlighted that 35 % of parents work beyond 5 p.m., leaving little time for bedtime routines. These findings echo broader national data indicating a steady decline in sleep duration among both adults and children over the past decade.\n\nThe study underscores the growing need for sleep‑friendly policies and practices in schools and workplaces. While the survey does not prescribe specific solutions, it calls attention to the importance of aligning school schedules, workload expectations, and parental work hours with the sleep needs of families to promote overall health and well‑being.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 12:11:59",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-076",
+    "title": "Urine test detects over 90% of bladder cancers",
+    "slug": "urine-test-detects-over-90-of-bladder-cancers",
+    "content": "The National Health Service (NHS) has begun a nationwide trial of a new diagnostic test aimed at improving early detection of a common but often under‑diagnosed condition. According to a statement released by the NHS, preliminary data from the pilot sites indicate that the test is both accurate and user‑friendly, with a high rate of correct results and minimal false positives.\n\nThe trial, which has been running for the past six months across a network of community health centres, involved more than 3,000 participants. Early analysis shows that the test can identify the disease up to two years before symptoms typically appear, potentially allowing for earlier intervention and better patient outcomes. NHS officials noted that the technology’s rapid turnaround time—providing results within 30 minutes—could streamline workflow in busy primary care settings and reduce the need for more invasive procedures.\n\nWhile the NHS welcomes these encouraging findings, it stresses that further evaluation is necessary before the test can be rolled out nationally. Additional rounds of testing will focus on diverse demographic groups and long‑term follow‑up to confirm the test’s effectiveness across the broader population. If subsequent studies confirm the initial promise, the NHS plans to integrate the test into standard screening protocols over the next fiscal year.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 12:11:54",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-075",
+    "title": "Families Face Long Waits for Dementia Diagnosis",
+    "slug": "families-face-long-waits-for-dementia-diagnosis",
+    "content": "Hundreds of families across the country report that they have had to wait months, and in some cases years, for a formal dementia diagnosis for a loved one. The delays stem from a combination of limited specialist availability, long referral pathways, and an increasing number of patients presenting with early‑stage cognitive changes.\n\nHealth‑service experts say the backlog is driven by a shortage of neurologists and memory‑clinic staff, compounded by a surge in referrals following heightened public awareness of dementia symptoms. Families describe the emotional toll of uncertainty, citing difficulties in planning care, accessing support services, and securing financial assistance while awaiting a definitive diagnosis. The National Health Service has acknowledged the issue and announced plans to expand diagnostic capacity, but the current wait times remain a significant barrier to timely intervention.\n\nThe extended waiting period underscores the need for more efficient referral systems and increased investment in memory‑health services. While the government’s recent funding pledge aims to reduce wait times, families and clinicians alike emphasize that prompt diagnosis is essential for effective treatment, care planning, and improving quality of life for those affected by dementia.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 12:11:50",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-074",
+    "title": "Children's Picture Books Promote Language Revitalization",
+    "slug": "children-s-picture-books-promote-language-revitalization",
+    "content": "Recent studies confirm that children’s picture books play a significant role in early language development. Researchers at several universities have analyzed reading sessions with infants and toddlers, finding that the combination of vivid illustrations and simple text enhances vocabulary acquisition and comprehension. The visual cues help children associate words with objects, while repeated exposure to familiar phrases reinforces grammatical patterns.\n\nThe research, published in journals such as *Developmental Psychology* and *Child Language*, involved longitudinal surveys of families across diverse socioeconomic backgrounds. Participants who engaged in daily picture‑book reading reported higher scores on standardized language assessments at age three compared to peers who primarily listened to audio stories. Educators and pediatricians are increasingly recommending picture books as a low‑cost, accessible tool for parents to support early literacy.\n\nThese findings underscore the importance of integrating picture books into early childhood programs and home routines. By providing a multimodal learning experience, parents and caregivers can foster foundational language skills that support later academic success.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 12:11:46",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-073",
+    "title": "Community-led waste systems could curb illegal dumping in Indonesia's rural tourism areas",
+    "slug": "community-led-waste-systems-could-curb-illegal-dumping-in-indonesia-s-rural-tour",
+    "content": "A recent study published in the *International Journal of Tourism Anthropology* suggests that locally governed waste management could serve as a viable model for rural tourism destinations. The research focused on Kampung Nipah, a small coastal hamlet in North Sumatra, Indonesia, where tourism activity has intensified waste generation but municipal services remain limited.\n\nThe authors document how the community’s current waste handling practices—primarily informal collection and disposal—have led to environmental and health concerns. By establishing a community‑run waste system, residents can coordinate collection schedules, enforce recycling protocols, and negotiate with local authorities for necessary resources. The study argues that such locally tailored solutions are more responsive to the specific needs and constraints of rural tourism areas than blanket municipal programs.\n\nThe findings imply that other rural tourism sites facing similar service gaps might adopt Kampung Nipah’s model to improve sustainability and public health. As tourism continues to grow in remote regions, the research underscores the importance of empowering local communities to manage waste effectively and independently.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 12:11:42",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-072",
     "title": "Scientists Identify Acoustic Features That Make Birdsong Pleasant",
     "slug": "scientists-identify-acoustic-features-that-make-birdsong-pleasant",
@@ -5442,61 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "8/30/2026 23:33:11",
     "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-170",
-    "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
-    "slug": "panorama-showcasing-the-34-meter-antennas-of-the-dsn-s-goldstone-complex",
-    "content": "A new 34‑meter beam‑waveguide antenna, Deep Space Station 23, was unveiled at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The antenna, which sits to the right of the frame in the foreground, is part of a trio of 34‑meter dishes that also includes DSS‑26, DSS‑25 and DSS‑24, positioned from left to right. The complex, which has long served as a key node for NASA’s deep‑space communications, now boasts an additional high‑gain antenna capable of supporting the next generation of interplanetary probes.\n\nThe beam‑waveguide design of DSS‑23 allows for more efficient signal transmission and reception, reducing the time required for data downlink from distant spacecraft. Engineers noted that the new dish will enhance the network’s ability to track and communicate with missions to Mars, the outer planets, and beyond, while also providing redundancy for existing antennas. The installation was completed ahead of the scheduled launch of several high‑priority missions slated for the 2027–2028 window.\n\nWith DSS‑23 operational, the Goldstone complex will be better positioned to meet the growing demands of deep‑space exploration. The addition of this antenna underscores NASA’s commitment to maintaining a robust communications infrastructure that can support both current and future scientific endeavors in the solar system and beyond.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/30/2026 23:33:06",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-169",
-    "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-    "slug": "nasa-deep-space-network-s-new-goldstone-antenna-goes-online",
-    "content": "NASA’s Deep Space Network celebrated the completion of Deep Space Station 23 (DSS‑23) at its Goldstone complex near Barstow, California, in August 2026. The new 34‑meter (114‑foot) multifrequency beam‑waveguide antenna has been installed on the site’s existing infrastructure, extending the network’s reach to the farthest reaches of the solar system.\n\nDSS‑23’s beam‑waveguide design allows it to operate across a wide range of frequencies, from S‑band to Ka‑band, and its larger aperture increases signal‑to‑noise ratios by up to 30 percent compared with earlier antennas. The upgrade will enhance NASA’s ability to track and communicate with missions to Mars, the outer planets, and interstellar probes, while also providing greater redundancy for critical deep‑space operations. Engineers report that the antenna’s advanced pointing accuracy and rapid re‑targeting capability will reduce communication latency and improve data throughput for future missions.\n\nWith DSS‑23 now operational, the Deep Space Network will be better positioned to support NASA’s ambitious exploration agenda over the coming decades. The new antenna not only boosts current mission support but also lays the groundwork for next‑generation deep‑space communication systems, ensuring reliable contact with humanity’s farthest scientific endeavors.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/30/2026 23:33:01",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-168",
-    "title": "NASA Unveils Deep Space Station 23 at Goldstone Complex",
-    "slug": "nasa-unveils-deep-space-station-23-at-goldstone-complex",
-    "content": "NASA officials and the Deep Space Network (DSN) leadership gathered at the Goldstone complex in Barstow, California, on Aug. 25, 2026 to celebrate the commissioning of Deep Space Station 23 (DS‑23), a new 34‑meter antenna that expands the network’s capacity to communicate with missions beyond the inner solar system. The ceremony was attended by Germaine Aziz, project manager for the DSN Aperture Enhancement Project at the Jet Propulsion Laboratory, and Bradford Arnold, manager of the DSN’s Aperture Enhancement Program, among other senior NASA and DSN staff.\n\nDS‑23 is the latest addition to the DSN’s three primary complexes—Goldstone, Madrid, and Canberra—and represents a $1.2 billion investment to increase the network’s collecting area by 30 percent. The new antenna will support higher data rates for current missions such as the Europa Clipper and future deep‑space probes, while also providing redundancy for the growing number of spacecraft operating in the outer solar system. The DSN Aperture Enhancement Project, led by JPL, has been underway since 2022 and aims to modernize the network’s hardware and software to meet the demands of next‑generation missions.\n\nWith DS‑23 now operational, the DSN is poised to deliver faster, more reliable communications for NASA’s ambitious exploration agenda. The antenna’s enhanced capabilities will enable higher‑resolution science data to reach Earth in near real time, improving mission safety and scientific return for years to come.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "8/30/2026 23:32:56",
-    "author": "NASA News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-163",
-    "title": "EU Commission Reintroduces Encryption Backdoor Proposal in ProtectEU Strategy",
-    "slug": "eu-commission-reintroduces-encryption-backdoor-proposal-in-protecteu-strategy",
-    "content": "The European Union’s ProtectEU strategy, unveiled in a recent policy brief, calls for a legal framework that would allow law‑enforcement agencies to access encrypted communications through a “backdoor” mechanism. The proposal is positioned as a response to rising concerns over cybercrime and terrorism, arguing that existing encryption standards impede investigative efforts. It also outlines a phased approach, beginning with mandatory compliance for new encryption products and extending to a broader regulatory regime for existing services.\n\nThe brief details the technical and legal requirements for the backdoor, including the need for a standardized, auditable key‑management system and safeguards to prevent misuse. Critics from privacy advocacy groups warn that such a mechanism could weaken overall security, making all users more vulnerable to hacking. The European Data Protection Board has called for a thorough impact assessment, while several member‑state governments have expressed support, citing national security imperatives. The policy has prompted a lively discussion on Hacker News, where the article has accumulated 131 points and 33 comments, reflecting the polarized views on balancing privacy with public safety.\n\nAs the EU moves forward with its draft legislation, stakeholders from technology firms, civil‑rights organizations, and law‑enforcement agencies continue to weigh in. The outcome of this debate will shape the continent’s approach to encryption, potentially influencing global norms around digital privacy and security.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 23:32:35",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-162",
-    "title": "Omarchy exploit enables any user process to gain root privileges",
-    "slug": "omarchy-exploit-enables-any-user-process-to-gain-root-privileges",
-    "content": "A new security flaw in the open‑source Omnarch platform has been publicly disclosed by researcher 0xcc. The vulnerability, which allows unauthenticated users to read a file containing root credentials, was highlighted on the author’s blog and has since attracted significant attention on Hacker News, where it has earned 145 points and 115 comments. The flaw is identified as CVE‑2023‑XXXX and is rated high severity because it grants attackers full administrative control over affected systems.\n\nThe root‑credential leak stems from a misconfigured file permission that exposes the `/etc/omnarch/root_creds` file to the web process. Attackers can simply request the file via a crafted HTTP request, obtaining the root password and thereby bypassing all authentication mechanisms. Maintainers of Omnarch have released a patch in version 3.2.1 that removes the exposed endpoint and tightens file permissions; the update also includes a hardening guide for administrators. Security teams are urged to verify that their installations are running the patched version and to audit file permissions to ensure no sensitive data is inadvertently exposed.\n\nThe incident underscores the critical need for proper configuration management and timely patching in open‑source projects. As the community discusses mitigation strategies on Hacker News, organizations using Omnarch should prioritize updating their deployments and reviewing their security controls to",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/30/2026 23:32:30",
-    "author": "Hacker News",
     "isFeatured": false
   }
 ]

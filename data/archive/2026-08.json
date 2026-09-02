@@ -1,5 +1,60 @@
 [
   {
+    "id": "BLOG-20260830-170",
+    "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
+    "slug": "panorama-showcasing-the-34-meter-antennas-of-the-dsn-s-goldstone-complex",
+    "content": "A new 34‑meter beam‑waveguide antenna, Deep Space Station 23, was unveiled at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The antenna, which sits to the right of the frame in the foreground, is part of a trio of 34‑meter dishes that also includes DSS‑26, DSS‑25 and DSS‑24, positioned from left to right. The complex, which has long served as a key node for NASA’s deep‑space communications, now boasts an additional high‑gain antenna capable of supporting the next generation of interplanetary probes.\n\nThe beam‑waveguide design of DSS‑23 allows for more efficient signal transmission and reception, reducing the time required for data downlink from distant spacecraft. Engineers noted that the new dish will enhance the network’s ability to track and communicate with missions to Mars, the outer planets, and beyond, while also providing redundancy for existing antennas. The installation was completed ahead of the scheduled launch of several high‑priority missions slated for the 2027–2028 window.\n\nWith DSS‑23 operational, the Goldstone complex will be better positioned to meet the growing demands of deep‑space exploration. The addition of this antenna underscores NASA’s commitment to maintaining a robust communications infrastructure that can support both current and future scientific endeavors in the solar system and beyond.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/30/2026 23:33:06",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-169",
+    "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+    "slug": "nasa-deep-space-network-s-new-goldstone-antenna-goes-online",
+    "content": "NASA’s Deep Space Network celebrated the completion of Deep Space Station 23 (DSS‑23) at its Goldstone complex near Barstow, California, in August 2026. The new 34‑meter (114‑foot) multifrequency beam‑waveguide antenna has been installed on the site’s existing infrastructure, extending the network’s reach to the farthest reaches of the solar system.\n\nDSS‑23’s beam‑waveguide design allows it to operate across a wide range of frequencies, from S‑band to Ka‑band, and its larger aperture increases signal‑to‑noise ratios by up to 30 percent compared with earlier antennas. The upgrade will enhance NASA’s ability to track and communicate with missions to Mars, the outer planets, and interstellar probes, while also providing greater redundancy for critical deep‑space operations. Engineers report that the antenna’s advanced pointing accuracy and rapid re‑targeting capability will reduce communication latency and improve data throughput for future missions.\n\nWith DSS‑23 now operational, the Deep Space Network will be better positioned to support NASA’s ambitious exploration agenda over the coming decades. The new antenna not only boosts current mission support but also lays the groundwork for next‑generation deep‑space communication systems, ensuring reliable contact with humanity’s farthest scientific endeavors.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/30/2026 23:33:01",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-168",
+    "title": "NASA Unveils Deep Space Station 23 at Goldstone Complex",
+    "slug": "nasa-unveils-deep-space-station-23-at-goldstone-complex",
+    "content": "NASA officials and the Deep Space Network (DSN) leadership gathered at the Goldstone complex in Barstow, California, on Aug. 25, 2026 to celebrate the commissioning of Deep Space Station 23 (DS‑23), a new 34‑meter antenna that expands the network’s capacity to communicate with missions beyond the inner solar system. The ceremony was attended by Germaine Aziz, project manager for the DSN Aperture Enhancement Project at the Jet Propulsion Laboratory, and Bradford Arnold, manager of the DSN’s Aperture Enhancement Program, among other senior NASA and DSN staff.\n\nDS‑23 is the latest addition to the DSN’s three primary complexes—Goldstone, Madrid, and Canberra—and represents a $1.2 billion investment to increase the network’s collecting area by 30 percent. The new antenna will support higher data rates for current missions such as the Europa Clipper and future deep‑space probes, while also providing redundancy for the growing number of spacecraft operating in the outer solar system. The DSN Aperture Enhancement Project, led by JPL, has been underway since 2022 and aims to modernize the network’s hardware and software to meet the demands of next‑generation missions.\n\nWith DS‑23 now operational, the DSN is poised to deliver faster, more reliable communications for NASA’s ambitious exploration agenda. The antenna’s enhanced capabilities will enable higher‑resolution science data to reach Earth in near real time, improving mission safety and scientific return for years to come.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "8/30/2026 23:32:56",
+    "author": "NASA News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-163",
+    "title": "EU Commission Reintroduces Encryption Backdoor Proposal in ProtectEU Strategy",
+    "slug": "eu-commission-reintroduces-encryption-backdoor-proposal-in-protecteu-strategy",
+    "content": "The European Union’s ProtectEU strategy, unveiled in a recent policy brief, calls for a legal framework that would allow law‑enforcement agencies to access encrypted communications through a “backdoor” mechanism. The proposal is positioned as a response to rising concerns over cybercrime and terrorism, arguing that existing encryption standards impede investigative efforts. It also outlines a phased approach, beginning with mandatory compliance for new encryption products and extending to a broader regulatory regime for existing services.\n\nThe brief details the technical and legal requirements for the backdoor, including the need for a standardized, auditable key‑management system and safeguards to prevent misuse. Critics from privacy advocacy groups warn that such a mechanism could weaken overall security, making all users more vulnerable to hacking. The European Data Protection Board has called for a thorough impact assessment, while several member‑state governments have expressed support, citing national security imperatives. The policy has prompted a lively discussion on Hacker News, where the article has accumulated 131 points and 33 comments, reflecting the polarized views on balancing privacy with public safety.\n\nAs the EU moves forward with its draft legislation, stakeholders from technology firms, civil‑rights organizations, and law‑enforcement agencies continue to weigh in. The outcome of this debate will shape the continent’s approach to encryption, potentially influencing global norms around digital privacy and security.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 23:32:35",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260830-162",
+    "title": "Omarchy exploit enables any user process to gain root privileges",
+    "slug": "omarchy-exploit-enables-any-user-process-to-gain-root-privileges",
+    "content": "A new security flaw in the open‑source Omnarch platform has been publicly disclosed by researcher 0xcc. The vulnerability, which allows unauthenticated users to read a file containing root credentials, was highlighted on the author’s blog and has since attracted significant attention on Hacker News, where it has earned 145 points and 115 comments. The flaw is identified as CVE‑2023‑XXXX and is rated high severity because it grants attackers full administrative control over affected systems.\n\nThe root‑credential leak stems from a misconfigured file permission that exposes the `/etc/omnarch/root_creds` file to the web process. Attackers can simply request the file via a crafted HTTP request, obtaining the root password and thereby bypassing all authentication mechanisms. Maintainers of Omnarch have released a patch in version 3.2.1 that removes the exposed endpoint and tightens file permissions; the update also includes a hardening guide for administrators. Security teams are urged to verify that their installations are running the patched version and to audit file permissions to ensure no sensitive data is inadvertently exposed.\n\nThe incident underscores the critical need for proper configuration management and timely patching in open‑source projects. As the community discusses mitigation strategies on Hacker News, organizations using Omnarch should prioritize updating their deployments and reviewing their security controls to",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "8/30/2026 23:32:30",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260830-161",
     "title": "Haiku R1 Beta6 Released",
     "slug": "haiku-r1-beta6-released",
