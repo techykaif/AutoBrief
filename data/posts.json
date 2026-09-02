@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260902-235",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "slug": "the-download-ai-puzzles-and-a-path-to-our-nearest-star-system",
+    "content": "The latest edition of *The Download*, a weekday technology briefing, reports that recent evaluations have shown a number of advanced artificial‑intelligence models struggling to perform on standard intelligence tests. The assessments, which incorporate a range of puzzles and problem‑solving tasks traditionally used to gauge human cognition, revealed notable gaps in the models’ ability to reason, adapt to novel scenarios, and handle ambiguous information. Researchers highlighted that while AI systems excel in narrowly defined domains, their performance on these broader, more flexible tests remains inconsistent, prompting calls for improved benchmark designs that better reflect real‑world reasoning demands.\n\nThe newsletter also revisits the historical roots of the field, noting that the phrase “machine learning” entered popular usage following a 1959 article that described early attempts to automate pattern recognition. Puzzles and games have long served as both inspiration and testing grounds for AI development, from early chess programs to contemporary reinforcement‑learning agents. By juxtaposing past milestones with current challenges, the report underscores the ongoing need for research that bridges the gap between specialized competence and general intelligence in artificial systems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 22:23:36",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-217",
     "title": "Adobe Acquires Indian Market Intelligence Startup Rilo",
     "slug": "adobe-acquires-indian-market-intelligence-startup-rilo",
@@ -5485,17 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "8/31/2026 13:13:15",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-032",
-    "title": "Portugal's First Bottle Deposit Scheme Lets Kids Earn Money from Plastic Waste",
-    "slug": "portugal-s-first-bottle-deposit-scheme-lets-kids-earn-money-from-plastic-waste",
-    "content": "Portugal has launched the region’s first bottle‑deposit return scheme, a move that is already showing environmental benefits and providing new opportunities for young people. The program requires a €0.10 deposit on all single‑use beverage bottles and cans, which can be reclaimed at designated collection points across the country. The funds collected are earmarked for recycling operations and to support a national initiative that finances “bucket‑list” trips for children, giving them experiences such as wildlife safaris, cultural tours and adventure sports that would otherwise be unaffordable.\n\nSince its rollout, the scheme has attracted more than 1.2 million bottles and cans, generating an estimated 50,000 euros in deposit revenue each month. Recycling rates have risen by 12 % in participating regions, while the waste diverted from landfills is estimated to reduce greenhouse‑gas emissions by roughly 1.5 t CO₂e annually. The child‑travel fund, managed by a partnership of the Ministry of Education and a non‑profit organization, has already awarded 350 trips to students from low‑income families, covering destinations from the Algarve’s coastal heritage sites to the historic cities of Andalusia.\n\nThe dual focus of the program—reducing single‑use plastic waste and investing in youth enrichment—illustrates how environmental policy can be aligned with social development. As the scheme expands to include more municipalities and additional beverage categories, it is expected to further boost recycling participation and broaden the reach of the bucket‑list initiative, reinforcing Portugal’s commitment to sustainability and inclusive growth.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/31/2026 13:13:10",
     "author": "Euronews",
     "isFeatured": false
   }
