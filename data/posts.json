@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260901-564",
+    "title": "Smartwatches may provide inaccurate calorie‑burn estimates",
+    "slug": "smartwatches-may-provide-inaccurate-calorie-burn-estimates",
+    "content": "Smartwatches and fitness trackers have become ubiquitous tools for monitoring exercise, but recent studies suggest they may significantly overestimate the number of calories burned during workouts. Researchers from the University of Washington tested 50 participants across a range of activities—including running, cycling, and high‑intensity interval training—using both consumer-grade smartwatches and a gold‑standard metabolic cart. The devices consistently reported calorie counts that were 15 % to 30 % higher than the measured values, with larger discrepancies observed during high‑intensity sessions.\n\nThe discrepancy stems from the algorithms that smartwatches use, which rely on heart‑rate data, movement sensors, and user‑entered inputs such as age, weight, and gender. These inputs are often generic or self‑reported, and the devices assume a fixed relationship between heart rate and energy expenditure that does not account for individual metabolic differences, fitness level, or the specific biomechanics of each exercise. Manufacturers have acknowledged the limitations but argue that the estimates are still useful for tracking relative changes over time rather than precise calorie counts.\n\nWhile the inaccuracies mean that users should be cautious about using smartwatch data for calorie‑controlled diets or precise training metrics, the technology remains valuable for general activity monitoring and motivation. Experts recommend pairing device data with periodic laboratory testing or using it in conjunction with other health metrics to get a more complete picture of fitness progress.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 5:31:48",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-544",
     "title": "Fluorescent lamps lack ears, blog post clarifies",
     "slug": "fluorescent-lamps-lack-ears-blog-post-clarifies",
@@ -5485,17 +5496,6 @@
     "category": "Health",
     "categorySlug": "health",
     "publishedAt": "8/30/2026 19:12:38",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-105",
-    "title": "Breast Cancer Survivors Can Stop Heart Medication After Recovery",
-    "slug": "breast-cancer-survivors-can-stop-heart-medication-after-recovery",
-    "content": "A study presented at the European Society of Cardiology Congress in Munich found that many breast cancer survivors who develop heart‑function problems as a side effect of their treatment can safely discontinue cardiac medication once their heart function recovers. The research, which evaluated the outcomes of patients who experienced treatment‑related cardiotoxicity, showed that the majority of these individuals did not require long‑term cardiac therapy after the initial recovery phase.\n\nThe investigators tracked the recovery of heart function in survivors receiving standard breast‑cancer regimens known to affect the cardiovascular system. Patients who demonstrated normalized cardiac performance were tapered off medications such as beta‑blockers and ACE inhibitors without a rise in adverse cardiac events. The findings suggest that routine, prolonged cardiac drug use may be unnecessary for most patients once cardiac function returns to baseline, potentially reducing medication burden and associated costs.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/30/2026 19:12:34",
     "author": "Medical Xpress",
     "isFeatured": false
   }
