@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260902-278",
+    "title": "Reform UK leader claims establishment blocks newcomers",
+    "slug": "reform-uk-leader-claims-establishment-blocks-newcomers",
+    "content": "Andrew Bridgen, the leader of Reform UK, told reporters in London on Thursday that the “whole ecosystem” surrounding British politics has been reluctant to allow “new kids on the block” to succeed.  In a brief interview with the *Financial Times*, Bridgen said the party’s prospects are hampered by an entrenched establishment that he described as “unwilling to give a chance to fresh entrants.”  He added that the party’s limited success in the last local‑government elections and its struggle to secure a foothold in the upcoming general election illustrate the structural barriers facing new political movements.\n\nReform",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/2/2026 22:51:51",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-263",
     "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
     "slug": "ford-s-production-of-highly-profitable-super-duty-trucks-hits-20-year-high-as-it",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/31/2026 13:21:56",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-038",
-    "title": "NHS watchdog warns AI scribes misrecord drug and diagnosis names",
-    "slug": "nhs-watchdog-warns-ai-scribes-misrecord-drug-and-diagnosis-names",
-    "content": "Healthwatch England has warned that artificial‑intelligence systems used to record and transcribe patient‑doctor consultations can introduce serious errors that are not always caught by general practitioners. The watchdog’s report, based on patient feedback, shows that AI‑driven scribes sometimes misidentify medication names and medical conditions, creating inaccurate consultation summaries that may affect clinical decisions.\n\nOne highlighted case involved a woman whose AI‑generated transcript incorrectly recorded that she had “demyelination,” a condition associated with nerve damage and multiple sclerosis. The erroneous entry left her “badly shaken,” illustrating the potential emotional and clinical harm caused by such inaccuracies. Healthwatch England urges tighter oversight of AI transcription tools and recommends that clinicians verify AI‑produced records against the original conversation to safeguard patient safety.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "8/31/2026 13:13:36",
-    "author": "Guardian Technology",
     "isFeatured": false
   }
 ]
