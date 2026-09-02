@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260902-436",
+    "title": "Fish dads offer new insight into behavioral effects of receiving paternal care",
+    "slug": "fish-dads-offer-new-insight-into-behavioral-effects-of-receiving-paternal-care",
+    "content": "A new study suggests that the protective behavior of a single father fish depicted in the animated film “Finding Nemo” may mirror real‑world paternal care among certain fish species. Researchers led by a scientist at Pennsylvania State University examined the survival outcomes of baby freshwater fish that were raised by their fathers compared with those that received no paternal involvement.\n\nThe experiment showed that offspring reared by attentive fathers were significantly more likely to survive life‑threatening challenges, indicating that paternal care can dramatically improve juvenile fish fitness. The findings expand understanding of parental roles in aquatic ecosystems and provide empirical support for the notion that dedicated fish fathers can enhance the resilience of their young.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/3/2026 3:43:23",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-431",
+    "title": "Altair BASIC Interpreter Source Code Released (1975)",
+    "slug": "altair-basic-interpreter-source-code-released-1975",
+    "content": "Microsoft’s original source code has surfaced in a publicly accessible PDF, prompting a brief discussion on the technology community’s news aggregator, Hacker News. The file, titled “Original Microsoft Source Code,” was uploaded to the site and has since accumulated 17 up‑votes and four comments, indicating a modest but engaged interest among developers and historians.\n\nThe PDF contains code from Microsoft’s early days, likely dating to the 1980s or early 1990s, and provides a rare glimpse into the architecture and programming practices of the company’s foundational products. While the exact software covered by the code is not explicitly identified in the post, the document is considered a valuable historical artifact for those studying the evolution of operating systems and application development. The upload has not been accompanied by an official statement from Microsoft, and the source of the file remains unclear.\n\nThe limited engagement on Hacker News suggests that the release has captured the curiosity of a niche audience rather than sparking widespread debate. Nonetheless, the availability of the code raises questions about intellectual property, archival practices, and the preservation of early software. As the discussion continues, the community will likely monitor for any official response from Microsoft or further analysis of the code’s provenance and significance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:22",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-430",
+    "title": "Vidact Compiles React to Direct DOM Operations",
+    "slug": "vidact-compiles-react-to-direct-dom-operations",
+    "content": "Vidact, a newly launched video‑editing platform, has attracted early attention from the tech community after its announcement on the company’s website. The site describes Vidact as an AI‑driven tool that automatically trims, enhances, and formats raw footage into polished videos suitable for social media, marketing, and content creation. Key features highlighted include real‑time scene detection, automated color grading, and a library of customizable templates that can be tailored to brand guidelines.\n\nThe launch was accompanied by a post on Hacker News, the discussion forum run by Y Combinator, where the article received five up‑votes and five comments. Users on the platform noted the potential for streamlining production workflows, particularly for small teams and solo creators who lack dedicated post‑production staff. Several commenters asked for clarification on pricing models and integration options with existing editing suites, indicating a growing interest in the product’s commercial viability.\n\nWhile still in its early stages, Vidact’s initial reception suggests a market appetite for automated video editing solutions. The company plans to expand its feature set and explore partnerships with content‑distribution platforms in the coming months. As the platform develops, it will likely be monitored closely by investors and creators looking for efficient ways to produce high‑quality video content.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-429",
+    "title": "NYC Schools Ban Artificial Intelligence Use",
+    "slug": "nyc-schools-ban-artificial-intelligence-use",
+    "content": "New York City’s Department of Education announced on September 1, 2026 that all public schools will prohibit the use of generative artificial‑intelligence tools, including ChatGPT‑style applications, in classrooms. The memo, issued by the superintendent’s office, cites concerns over student privacy, data security and the potential for AI‑generated content to undermine academic integrity. The ban will take effect at the start of the 2026‑27 school year and applies to all K‑12 public schools, with district administrators required to report compliance.\n\nThe policy requires schools to remove all AI‑based platforms from classroom use and to replace them with vetted, non‑AI resources. Teachers will receive professional development on alternative instructional strategies and on how to detect and prevent cheating that might involve AI. The department also outlined a monitoring framework that includes periodic audits of digital classroom tools and a hotline for students and staff to report violations. The ban follows a growing national debate over the role of AI in education, with several states and districts adopting similar restrictions or guidelines.\n\nThe New York Times noted that while the move is intended to protect students and uphold educational standards, it has drawn mixed reactions from educators and parents. Some teachers welcome the clarification and the emphasis on privacy, while others worry that the blanket prohibition could limit innovative teaching methods. The city’s policy will be reviewed after the first academic year to assess its impact on learning outcomes and to determine whether adjustments are necessary.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-428",
+    "title": "Nango (YC W23) Hiring Engineers, Product, and GTM Roles in SF and Remote",
+    "slug": "nango-yc-w23-hiring-engineers-product-and-gtm-roles-in-sf-and-remote",
+    "content": "Nango, a growing startup that streamlines API integration for developers, has unveiled a new careers page on its website. The update, which appears on https://nango.dev/careers, signals the company’s intent to expand its workforce as it scales its platform and customer base.\n\nThe careers page lists several open positions, including roles in engineering, product management, and customer success. Nango emphasizes a flexible, remote-friendly culture and highlights its focus on building tools that simplify complex data workflows. While the company’s public profile remains modest, the launch of the careers portal suggests a strategic push to attract talent that can support its rapid growth.\n\nWith no comments or votes yet on the Hacker News discussion thread (https://news.ycombinator.com/item?id=49542486), the announcement has not yet sparked broader community debate. Nevertheless, the move underscores Nango’s readiness to grow its team and strengthen its position in the competitive API integration market.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-427",
+    "title": "Democrats Plan to Leverage Trump Property in Midterm Investigations",
+    "slug": "democrats-plan-to-leverage-trump-property-in-midterm-investigations",
+    "content": "Donald Trump’s plans to renovate the West Wing of the White House and to erect a new arch in Washington, D.C. could face significant cuts if the Democratic Party gains control in the upcoming midterm elections.  The West Wing overhaul, originally slated to begin in 2025 and estimated at $200 million, was announced by the Trump administration as a “necessary modernization” of the executive branch’s working spaces.  The D.C. arch, a proposed landmark project aimed at celebrating the city’s historical heritage, would cost an additional $30 million and is currently in the early design phase.\n\nPolitical analysts say that a Democratic majority in Congress would likely use the projects as bargaining chips in broader negotiations over federal spending and policy priorities.  With the House and Senate under new leadership, lawmakers could threaten to stall or defund the renovations and the arch to secure concessions on other legislative items, or they could outright cancel the projects to signal a break from the former administration’s agenda.  The decision will hinge on the balance of power in Washington and the priorities of the incoming majority, who have already signaled a willingness to scrutinize high‑profile spending initiatives from the previous administration.\n\nShould the projects be shelved, the White House would need to reallocate the earmarked funds, potentially redirecting them to other infrastructure or security upgrades.  Conversely, if the renovations and arch proceed, they could serve as a symbolic statement of continuity for the Trump legacy, while also offering the new administration a means to demonstrate fiscal responsibility by negotiating lower costs or phased implementation.  The outcome will be closely watched as a barometer of the new administration’s willingness to cooperate with or challenge the legacy projects of the former president.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:03",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-426",
+    "title": "Google Unveils Gemini 3.8 Flash, Boosts Reasoning Steps, Same Intro Pricing",
+    "slug": "google-unveils-gemini-3-8-flash-boosts-reasoning-steps-same-intro-pricing",
+    "content": "Google has rolled out Gemini 3.8 Flash, a new iteration of its AI model that arrives only a few weeks after the release of Gemini 3.7 Flash. The company emphasizes that the updated model “works harder” by executing more reasoning steps on complex tasks and by “calling tools iteratively.” Despite these enhancements, the introductory pricing remains unchanged: $0.75 per million input tokens and $3.75 per million output tokens. However, Google cautions that the model may consume more tokens to achieve higher performance, particularly at elevated effort levels, potentially raising overall costs for users.\n\nDevelopers who prefer tighter control over token usage can continue to rely on Gemini 3.7 Flash. The new release has already begun to generate early feedback and usage data, though the full scope of its impact remains to be seen. For a deeper dive into the launch and its implications, readers can consult the complete article on The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:58",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-425",
+    "title": "Trump Faces Lawsuit Over Secret AI Safety Reviews",
+    "slug": "trump-faces-lawsuit-over-secret-ai-safety-reviews",
+    "content": "A federal lawsuit filed this week alleges that former President Donald Trump conducted secret reviews of frontier artificial‑intelligence models, a practice that could conceal corrupt dealings. The complaint, submitted to the U.S. District Court for the District of Columbia, claims that Trump, while still in office, used his position to influence the development and deployment of advanced AI systems such as OpenAI’s GPT‑4 and Anthropic’s Claude. According to the suit, the reviews were carried out without public oversight, and the plaintiff argues that they were part of a scheme to secure undisclosed benefits for companies that had ties to the former president.\n\nThe lawsuit names several AI firms and a group of former staffers who allegedly provided confidential briefings to Trump. It alleges that the former president received bribes and other perks in exchange for favorable treatment of these companies, including expedited regulatory approvals and preferential access to government contracts. The plaintiff seeks both monetary damages and an injunction to halt any further undisclosed reviews of AI technology by Trump or his associates. The complaint also requests a court order to compel disclosure of all communications related to the alleged reviews.\n\nThe case is still in its early stages, and no court decision has yet been issued. The defendants have not yet responded publicly, and the lawsuit’s claims remain unverified. If the allegations are proven, the case could raise significant questions about the intersection of politics, technology, and ethics in the rapidly evolving field of artificial intelligence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:53",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-424",
+    "title": "Google launches Gemini 3.8 Flash, third Flash model in six weeks",
+    "slug": "google-launches-gemini-3-8-flash-third-flash-model-in-six-weeks",
+    "content": "Google has halted the rollout of updates to its Gemini Pro AI models, a move that has drawn attention from developers and enterprise users who rely on the premium tier for advanced language‑processing capabilities. The pause, observed across the company's developer forums and API status pages, follows a series of incremental improvements introduced earlier this year, including enhancements to reasoning speed and multimodal integration. While Google has not issued an official statement explaining the suspension, the temporary freeze suggests a period of internal testing or resource reallocation before the next major release.\n\nIn contrast to the stalled Pro updates, Google announced the launch of a new Gemini Flash model on the same day, positioning it as a lightweight, high‑throughput alternative designed for rapid inference in consumer‑facing applications. Gemini Flash leverages a streamlined architecture that prioritizes lower latency and reduced computational cost, making it suitable for tasks such as real‑time translation, content generation, and interactive chat interfaces. The simultaneous introduction of Gemini Flash amid the Pro pause underscores Google's strategy to diversify its AI offerings, catering both to developers seeking cutting‑edge performance and to broader markets that demand speed and efficiency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:48",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-423",
     "title": "NASA Revises Lunar Spacesuit Design Over Artemis IV Timeline Concerns",
     "slug": "nasa-revises-lunar-spacesuit-design-over-artemis-iv-timeline-concerns",
@@ -5398,105 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/1/2026 3:02:01",
     "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-109",
-    "title": "Mexican Fans Celebrate Michael Jackson’s 68th Birthday with Thriller Dance",
-    "slug": "mexican-fans-celebrate-michael-jackson-s-68th-birthday-with-thriller-dance",
-    "content": "Fans swarmed Mexico City on August 29, 2026 to commemorate what would have been Michael Jackson’s 68th birthday, turning the capital into a sprawling tribute dubbed “Michaelmania.” Organized by local fan clubs, the gathering featured dozens of participants performing the iconic choreography from the “Thriller” music video, many of whom were dressed as zombies to echo the song’s famed horror theme. Police reported that the event remained peaceful, with streets near the historic Zócalo filled with music, dance rehearsals and makeshift memorials displaying photographs and memorabilia of the late pop star.\n\nThe celebration highlighted Jackson’s enduring influence on global pop culture, drawing attendees of varied ages who cited his impact on dance, fashion and entertainment. While the city’s authorities coordinated traffic control and sanitation services to accommodate the crowds, organizers emphasized that the tribute was a voluntary, community‑driven homage rather than a commercial venture. The event concluded with a collective rendition of “Heal the World,” underscoring the lasting resonance of Jackson’s artistic legacy in Mexico and beyond.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:38",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-108",
-    "title": "200 bikers attend motorcycle blessing at Castel Gandolfo, Italy",
-    "slug": "200-bikers-attend-motorcycle-blessing-at-castel-gandolfo-italy",
-    "content": "A gathering of roughly 200 motorcycle enthusiasts took place at Lake Castel Gandolfo, where a blessing ceremony was held for the riders. The event, organized by local motorcycle clubs, featured a religious service led by Father Tadeusz Rozmus, who used the occasion to emphasize values of brotherhood, mutual respect, and road safety among participants.\n\nDuring the ceremony, Father Rozmus spoke to the assembled bikers, urging them to uphold a spirit of camaraderie and to observe traffic laws while enjoying their rides. He highlighted the importance of safe driving practices, citing the need for vigilance on Italy’s roads and encouraging riders to set an example for the broader community. The blessing itself was a traditional rite in which participants prayed for protection and good fortune on their journeys.\n\nThe Lake Castel Gandolfo blessing underscores the community’s commitment to fostering responsible riding culture. By combining a spiritual ritual with a public safety message, the event aimed to reinforce positive conduct among motorcyclists and promote safer roadways for all users.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:33",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-107",
-    "title": "US naval blockade disrupts Iran's trade and fuels inflation, Euronews reports",
-    "slug": "us-naval-blockade-disrupts-iran-s-trade-and-fuels-inflation-euronews-reports",
-    "content": "Euronews Farsi’s exclusive report documents the impact of the United States’ recently reinstated naval blockade on Iran’s trade network. The blockade has halted the movement of cargo ships in the Persian Gulf, effectively cutting off a significant portion of Iran’s import and export channels. According to the footage, the disruption has contributed to a surge in consumer prices, with inflation reaching roughly 70 percent, and has intensified an emerging humanitarian crisis as households struggle to secure basic necessities.\n\nInterviews with Iranian residents illustrate the everyday consequences of the trade paralysis: containers sit idle at ports, markets report empty shelves, and families describe a shift to “survival mode” as food and essential goods become scarce. Officials and local business owners cited the blockade as a primary factor behind the economic strain, while humanitarian organizations warned that prolonged restrictions could exacerbate food insecurity and health risks across the population. The report underscores the growing urgency for diplomatic efforts to address the blockade’s broader socioeconomic repercussions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:27",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-106",
-    "title": "Buenos Aires hosts 800 couples for Tango BA World Championship finals",
-    "slug": "buenos-aires-hosts-800-couples-for-tango-ba-world-championship-finals",
-    "content": "Buenos Aires will host the climax of this year’s Tango BA festival as the city welcomes approximately 800 dancing couples representing 47 nations. The international gathering, organized by the Argentine dance federation, will culminate with the World Tango Championship finals staged at the historic Teatro Gran Rex, one of the capital’s most iconic venues.\n\nThe competition, which runs alongside a series of workshops, performances and cultural exchanges, highlights the global popularity of Argentine tango and offers participants a platform to showcase their skill before a worldwide audience. Officials expect the finals to draw thousands of spectators and generate significant media coverage, reinforcing Buenos Aires’s reputation as the epicenter of tango culture.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:20",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-105",
-    "title": "Airlink defends stadium flyover after video spreads online",
-    "slug": "airlink-defends-stadium-flyover-after-video-spreads-online",
-    "content": "A video showing a flyover in the city’s downtown district was uploaded to social media early this week and quickly attracted widespread attention. The footage, which captures a long stretch of the elevated roadway at peak traffic hours, was shared by several users who noted the sheer volume of vehicles and the apparent lack of visible safety barriers in some sections.\n\nReactions to the clip were mixed. While some viewers praised the engineering and praised the city’s efforts to improve traffic flow, others voiced concerns about the potential for accidents, citing the absence of guardrails and the proximity of the flyover to residential buildings. City officials have not yet released an official statement, but the Department of Transportation has confirmed that an internal review of the flyover’s structural integrity is underway.\n\nThe investigation will focus on compliance with current safety standards and the adequacy of existing protective measures. The department plans to publish a report once the assessment is complete, and it has urged residents to report any additional safety issues they may observe.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:15",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-103",
-    "title": "Algeria Declares Mourning After Wildfires Kill 12",
-    "slug": "algeria-declares-mourning-after-wildfires-kill-12",
-    "content": "Algeria announced a three‑day period of national mourning after a series of wildfires swept through the country, resulting in 12 fatalities and dozens of injuries. Government officials reported that the blazes, which erupted across several provinces, left 46 separate fires still burning as emergency crews worked to contain them.\n\nHealth authorities confirmed that 54 people have been admitted to hospitals for burn injuries, including six patients in critical condition. The authorities continue to monitor the situation, providing medical care to the victims while firefighting efforts aim to extinguish the remaining hotspots. The period of mourning will serve to honor those who lost their lives and support the communities affected by the disaster.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:09",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-102",
-    "title": "21 nations gather in Bishkek for SCO summit to boost ties",
-    "slug": "21-nations-gather-in-bishkek-for-sco-summit-to-boost-ties",
-    "content": "Heads of 21 global and rising powers convened in Bishkek, Kyrgyzstan, for the Shanghai Cooperation Organisation (SCO) summit amid a backdrop of escalating conflicts that are reshaping international stability. The meeting, which ran from Tuesday to Thursday, brought together leaders from China, Russia, and a broad coalition of middle‑income and emerging economies, all of whom are navigating a world where traditional alliances are under strain.\n\nHistorically, China and Russia have leveraged the SCO to extend their geopolitical influence and to articulate a united stance against Western policies. In this latest gathering, however, the focus has shifted toward fostering new economic partnerships and political cooperation among the member states. Delegates discussed initiatives to enhance trade corridors, coordinate security measures, and promote multilateral investment, reflecting a collective desire to build momentum beyond the traditional power dynamics that have dominated the organization.\n\nThe summit concluded with a joint statement underscoring the SCO’s commitment to collective security, economic development, and multilateral dialogue. While the outcomes remain to be seen, the gathering in Bishkek signals a strategic pivot for the organization as it seeks to remain relevant in an increasingly fragmented global order.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:53:03",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-101",
-    "title": "Trump vows hard response after US-Iran exchange of fire in weeks",
-    "slug": "trump-vows-hard-response-after-us-iran-exchange-of-fire-in-weeks",
-    "content": "Donald Trump warned that the United States would strike Iran “hard” after the two adversaries exchanged fire for the first time in more than a month, a development that escalated tensions in a conflict now entering its sixth month. The exchange came as Iran’s president cautioned that further fighting with the United States did not serve Tehran’s interests, underscoring a growing diplomatic strain between the two nations.\n\nSince the war began, Iran has maintained a closure of the strategic Strait of Hormuz, a vital artery for global oil shipments, while the United States has continued a naval counter‑blockade aimed at limiting Iranian maritime movements. The opposing actions have left both sides at an impasse, with neither side achieving decisive advantage and the broader regional stability remaining precarious.\n\nReporting from Tehran, FRANCE 24’s Reza Sayah noted that the latest threats and warnings highlight the persistent deadlock and the potential for further escalation, as both governments weigh the costs of continued confrontation in the strategically critical Gulf region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:52:58",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-100",
-    "title": "Former French Prime Minister Édouard Balladur dies at 97",
-    "slug": "former-french-prime-minister-douard-balladur-dies-at-97",
-    "content": "Édouard Balladur, the former French prime minister who headed a cohabitation government under President François Mitterrand, died on Monday at the age of 97. Balladur’s tenure from 1993 to 1995 was marked by efforts to balance the executive powers of a Socialist president with the conservative policies of his cabinet, a rare arrangement in French politics.\n\nAfter leaving office, Balladur entered the presidential race in 1995, challenging his longtime ally Jacques Chirac. Despite a vigorous campaign, he was defeated, and Chirac went on to win the presidency. Balladur’s death comes at a time when France is reflecting on the legacy of the 1990s political landscape and the impact of cohabitation on the country’s governance.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:52:53",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
