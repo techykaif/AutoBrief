@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260902-375",
+    "title": "QIMR Berghofer Tool Identifies Thousands of Cancer Targets in Junk DNA",
+    "slug": "qimr-berghofer-tool-identifies-thousands-of-cancer-targets-in-junk-dna",
+    "content": "A team led by QIMR Berghofer Institute of Medical Research has unveiled a new computational platform that maps the vast stretches of the human genome previously classified as “junk DNA.” The tool integrates high‑resolution sequencing data with machine‑learning algorithms to identify functional elements within non‑coding regions, revealing thousands of previously uncharacterised molecules. These include long non‑coding RNAs, enhancer‑associated transcripts, and regulatory motifs that appear to influence gene expression patterns linked to tumour development.\n\nThe discovery challenges the long‑standing view that non‑coding DNA is largely inert, offering a more nuanced understanding of genomic regulation. By cataloguing these molecules, the researchers have identified several candidates that modulate pathways critical to cancer cell proliferation and metastasis. Early validation experiments suggest that targeting these regulatory elements could enhance the specificity of existing therapies or enable the design of novel precision‑medicine approaches tailored to individual tumour profiles.\n\nIf the findings can be translated into clinical applications, they may broaden the arsenal of biomarkers and therapeutic targets for oncology. The QIMR Berghofer team plans to collaborate with pharmaceutical partners to screen for drugs that modulate the activity of the identified molecules, potentially accelerating the development of next‑generation cancer treatments.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/3/2026 1:31:53",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-374",
+    "title": "Micro-LED mask shown to boost skin elasticity more than injections",
+    "slug": "micro-led-mask-shown-to-boost-skin-elasticity-more-than-injections",
+    "content": "Home beauty devices that enable users to perform skin‑care routines at home have seen a surge in popularity, with LED facial masks emerging as a prominent product category. These masks promise to deliver therapeutic light therapy without the need for salon visits, appealing to consumers seeking convenient, non‑invasive treatments for issues such as acne, inflammation and signs of aging.\n\nHowever, conventional LED masks are constrained by their rigid designs and the use of point‑emitting LEDs that must be spaced away from the skin to disperse light over a larger area. This separation limits direct skin contact and results in significant optical loss, reducing the efficacy of the light treatment and prompting manufacturers to explore alternative configurations that can provide closer proximity and more efficient illumination.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/3/2026 1:31:48",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-361",
     "title": "What is the optimal way to ice a cocktail? Part 2",
     "slug": "what-is-the-optimal-way-to-ice-a-cocktail-part-2",
@@ -5474,28 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "9/1/2026 2:42:27",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-074",
-    "title": "Dolly Parton Buried with Husband in Nashville",
-    "slug": "dolly-parton-buried-with-husband-in-nashville",
-    "content": "A private family funeral was held on Sunday for a singer who passed away on Tuesday at the age of 80. The ceremony took place at a local venue and was attended only by close relatives and a handful of friends. The family requested that no further details be released to the public.\n\nThe singer, whose identity has not been disclosed, enjoyed a long career in the music industry, performing at numerous venues and recording several albums over the years. While the exact nature of the singer’s work was not specified, the event was described as a modest, intimate gathering that reflected the family’s desire for privacy during their time of mourning.\n\nThe family has asked for respect for their privacy as they grieve. The singer’s legacy will be remembered by those who knew them, and the community will likely reflect on the impact of their artistic contributions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:42:22",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-073",
-    "title": "Supreme Court Allows Trump to Continue White House Ballroom Construction",
-    "slug": "supreme-court-allows-trump-to-continue-white-house-ballroom-construction",
-    "content": "The National Trust for Historic Preservation has filed a lawsuit challenging the president’s authority to move forward with a new construction project that would impact a protected historic area. The organization argues that the president lacks the legal power to proceed without first completing a Section 106 review under the National Historic Preservation Act, a requirement that ensures federal actions consider effects on historic properties. The lawsuit, filed in the U.S. District Court for the District of Columbia, contends that the president’s directive bypasses the Secretary of Homeland Security’s responsibility to coordinate such reviews and violates established preservation protocols.\n\nKey details of the case include the specific location of the proposed construction—a segment of a new border wall that would cut through a federally recognized historic district—and the statutory framework that governs federal projects on historic lands. The National Trust cites the Act’s mandate that any federal undertaking affecting historic resources must be evaluated and, if necessary, mitigated to preserve the area’s integrity. The court has scheduled hearings to examine whether the president’s actions comply with these legal obligations and to determine whether the project can proceed without further review.\n\nThe outcome of the litigation remains pending, but the National Trust’s filing underscores ongoing tensions between federal development initiatives and historic preservation mandates. If the court rules in favor of the organization, it could halt or delay the construction until a proper Section 106 process is completed, reinforcing the requirement that federal projects respect and protect the nation’s historic heritage.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/1/2026 2:42:17",
     "author": "BBC World",
     "isFeatured": false
   }
