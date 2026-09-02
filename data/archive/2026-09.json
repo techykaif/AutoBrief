@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260831-114",
+    "title": "Pentagon adds ChatGPT, Grok and Gemini to central AI portal",
+    "slug": "pentagon-adds-chatgpt-grok-and-gemini-to-central-ai-portal",
+    "content": "The Pentagon’s central portal for artificial‑intelligence tools is expanding its catalog to include new offerings from OpenAI and SpaceXAI. In addition to Google’s Gemini, the portal will now host versions of OpenAI’s ChatGPT and SpaceXAI’s Grok, allowing U.S. defense agencies to access a broader range of conversational AI capabilities.\n\nThe addition follows a review process in which each vendor’s technology was evaluated for security, reliability, and compliance with federal standards. The portal, used by the Department of Defense and affiliated agencies, provides a single, secure interface for deploying AI solutions across a variety of mission‑critical applications. By incorporating ChatGPT and Grok, the Pentagon aims to enhance analytical support, information synthesis, and decision‑making tools available to its personnel.\n\nThis move reflects the growing emphasis on AI integration within U.S. defense operations. With the expanded suite of tools, the Pentagon can leverage diverse AI models to improve operational efficiency and maintain technological parity in an increasingly digital battlefield environment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/1/2026 3:02:28",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260831-113",
+    "title": "FTC and states sue Amazon over alleged secret advertising surcharge",
+    "slug": "ftc-and-states-sue-amazon-over-alleged-secret-advertising-surcharge",
+    "content": "The Federal Trade Commission and attorneys general from 22 states have filed a lawsuit against Amazon, accusing the e‑commerce giant of covertly imposing higher fees on businesses that use its advertising services. The complaint alleges that Amazon’s advertising platform required sellers to pay undisclosed surcharges, effectively charging them more than the rates advertised and violating consumer‑protection statutes. Plaintiffs contend that the hidden costs distorted market competition and harmed merchants who rely on Amazon’s marketplace to reach customers.\n\nAmazon has denied the allegations, stating that its advertising pricing is transparent and consistent with industry standards. The companies named in the suit include a range of small and medium‑sized sellers who claim they were misled about the true cost of promoting products on the platform. The case, filed in federal court, seeks injunctive relief, restitution for affected businesses, and civil penalties. The outcome could have significant implications for Amazon’s advertising revenue model and its broader relationship with third‑party merchants.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/1/2026 3:02:21",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260831-112",
+    "title": "Trump warns communities opposing datacenters could face economic decline",
+    "slug": "trump-warns-communities-opposing-datacenters-could-face-economic-decline",
+    "content": "A recent poll found that roughly 75 percent of Americans oppose the construction of data centers in close proximity to their homes, reflecting growing local resistance to such projects across the country. The sentiment has surfaced amid heightened scrutiny of technology infrastructure as communities weigh potential benefits against concerns over noise, visual impact, and property values. Lawmakers and industry groups have noted the opposition as a factor influencing the rollout of new facilities that support expanding digital services and cloud computing demand.\n\nPresident Donald Trump responded to the backlash by criticizing communities that reject data‑center proposals, warning that such resistance could leave them “backwards and poor.” He asserted that if projects are halted, residents will “only have yourselves to blame,” a statement that has intensified the debate as the nation approaches the November midterm elections. The controversy underscores the tension between local opposition and broader economic arguments for expanding data‑center capacity, a dynamic that is likely to shape policy discussions in the coming months.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/1/2026 3:02:14",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260831-111",
+    "title": "YouTube Chicken Shop Date secures A‑list guests after early celebrity resistance",
+    "slug": "youtube-chicken-shop-date-secures-a-list-guests-after-early-celebrity-resistance",
+    "content": "London – Amelia Dimoldenberg, the creator and presenter of the YouTube series “Chicken Shop Date,” has revealed that publicists long dismissed her mock‑date interview format, leaving her unable to secure mainstream celebrities for years. The show, which features Dimoldenberg awkwardly chatting with guests over chicken and chips, initially relied on local talent; even a connection through her London youth club required persistent urging before an actor agreed to appear. At the time, managers of high‑profile artists with new film releases or album launches were reluctant to allocate a slot on the unconventional set, preferring more traditional primetime platforms.\n\nIn recent months, Dimoldenberg reports a dramatic shift, with A‑list names now regularly accepting invitations and allowing her to be selective about guests. The change reflects growing recognition of the programme’s cultural impact and its ability to generate viral moments that extend beyond the original YouTube audience. As the series continues to attract top‑tier talent, Dimoldenberg’s experience underscores the evolving relationship between digital content creators and the entertainment industry’s publicity apparatus.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/1/2026 3:02:08",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260831-110",
     "title": "Bank of England governor warns AI could trigger global economic downturn",
     "slug": "bank-of-england-governor-warns-ai-could-trigger-global-economic-downturn",
