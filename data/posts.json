@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260902-011",
+    "title": "Border toy screening finds 12% exceed toxic-metal limits",
+    "slug": "border-toy-screening-finds-12-exceed-toxic-metal-limits",
+    "content": "Nearly 80 % of children’s toys sold in the El Paso–Ciudad Juárez corridor contain at least one toxic element, a finding reported in the journal *Environmental Pollution* by researchers from the University of Texas at El Paso. The study, the first binational screening of hazardous metals in toys sold on both sides of the U.S.–Mexico border, analyzed a representative sample of products purchased in the region and identified lead, cadmium, and other metals in the majority of the items tested.\n\nThe research highlights the growing concern over consumer safety in a cross‑border market that relies heavily on informal trade and limited regulatory oversight. While the study does not specify the concentrations of each metal, the presence of any toxic element raises questions about compliance with U.S. Consumer Product Safety Commission and Mexican NOM standards. Authorities in both countries may use the data to strengthen inspection protocols and enforce stricter import‑export controls, ensuring that children’s products meet safety thresholds before reaching consumers.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 6:52:32",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-010",
+    "title": "Space Missions Search for Microbial Life; Are We Ready for Fallout?",
+    "slug": "space-missions-search-for-microbial-life-are-we-ready-for-fallout",
+    "content": "Scientists and policymakers are already preparing for the possibility that future space missions may return evidence of extraterrestrial microbes. As the number of missions to the Moon, Mars, asteroids, and icy moons such as Europa and Enceladus increases, the likelihood of detecting life in microbial form rises. If such life is confirmed, the immediate response would involve rigorous containment protocols, sample‑handling procedures, and a rapid assessment by international bodies such as the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) and the International Space Exploration Coordination Group (ISECG). These agencies would coordinate with national space agencies, biosafety experts, and the World Health Organization to evaluate the biological risk and to develop a unified protocol for quarantine, de‑contamination, and data sharing.\n\nIn parallel, the international security community is reviewing existing frameworks to determine whether extraterrestrial microbes could pose a dual‑use threat. The Biological Weapons Convention (BWC) and the Convention on Biological Diversity (CBD) would likely be invoked to ensure that any research or handling of alien organisms complies with non‑proliferation and environmental protection standards. National security agencies, such as the U.S. Department of Defense and the European Defence Agency, are assessing potential scenarios in which extraterrestrial organisms could be weaponized or could inadvertently compromise terrestrial ecosystems. While no formal policy yet exists to address this specific scenario, the rapid development of protocols by scientific and diplomatic institutions suggests that the global community is beginning to anticipate the complex legal, ethical, and security challenges that would accompany the discovery of extraterrestrial microbes.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 6:52:27",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-009",
+    "title": "AI Speeds Search for Plants to Mine Critical Minerals",
+    "slug": "ai-speeds-search-for-plants-to-mine-critical-minerals",
+    "content": "The United States has long depended on foreign sources for the critical minerals that power its technology industry, from the cobalt and lithium in smartphones to the rare earth elements used in semiconductors. A growing scientific effort now seeks to reduce that dependence by turning to a process called phytomining, in which engineered plants and their symbiotic microbes are used to extract essential metals directly from the soil.\n\nResearchers are developing crop varieties that can accumulate high concentrations of metals such as lithium, cobalt, and rare earths, while microbial partners enhance nutrient uptake and metal solubilization. Field trials in the American Southwest have shown that these plants can concentrate several times more of the target elements than conventional mining yields, and the harvested biomass can be processed to recover the minerals with lower energy inputs than traditional extraction. The approach also offers a potentially more environmentally friendly alternative, as it avoids the large-scale land disturbance and toxic waste associated with conventional mining.\n\nIf the technology proves scalable, phytomining could provide a domestic, resource‑efficient supply of critical minerals, reducing the United States’ reliance on overseas sources and bolstering the resilience of its technology supply chain. The next steps for scientists will involve optimizing plant genetics, refining microbial consortia, and developing industrial processing methods to turn the harvested biomass into market‑ready materials.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 6:52:22",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-008",
+    "title": "Anthropic Enhances Alignment and Security Measures",
+    "slug": "anthropic-enhances-alignment-and-security-measures",
+    "content": "Anthropic has announced a new set of initiatives aimed at strengthening the alignment and security of its large‑language‑model systems. In a recent blog post, the company outlined a multi‑layered approach that combines technical safeguards, policy updates, and external collaboration to reduce the risk of harmful or unintended outputs. The update follows a growing industry focus on responsible AI deployment and reflects Anthropic’s commitment to maintaining robust safety protocols as its models scale.\n\nKey elements of the strategy include the deployment of a real‑time monitoring framework that flags content violating safety guidelines, the integration of a “human‑in‑the‑loop” review process for high‑impact applications, and the expansion of its partnership network with academic researchers and independent auditors. Anthropic also announced the release of a new open‑source toolkit designed to help developers assess alignment risks in downstream products, and it has begun formalizing agreements with regulatory bodies to ensure compliance with emerging AI governance standards.\n\nBy broadening its safety ecosystem and enhancing transparency, Anthropic positions itself to address both technical and societal concerns surrounding advanced language models. The company’s updated alignment and security roadmap signals a proactive stance that could influence industry best practices and shape the regulatory landscape for AI systems in the coming years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 6:52:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-007",
+    "title": "Balancing Cost and Latency in LLM Inference",
+    "slug": "balancing-cost-and-latency-in-llm-inference",
+    "content": "Baseten’s latest blog post, “The Efficient Frontier of LLM Inference,” outlines recent advances in reducing the computational cost and latency of large‑language‑model (LLM) deployments. The article explains how a combination of model quantization, sparsity techniques, and dynamic batching can shift the trade‑off curve between performance and expense, allowing developers to serve high‑quality responses at lower hardware budgets. Baseten’s engineering team presents benchmark data comparing standard FP16 inference on GPUs with mixed‑precision and weight‑pruned models, showing up to a 40 % reduction in GPU memory usage and a 30 % improvement in request‑per‑second throughput without measurable loss in output quality.\n\nThe post has sparked discussion on Hacker News, where the entry received 26 points and five comments. Participants in the thread highlighted practical considerations such as the impact of these optimizations on latency‑sensitive applications, the ease of integrating Baseten’s inference API into existing pipelines, and the relevance of the techniques for both cloud‑based and on‑premises deployments. The conversation also touched on future directions, including the potential for hardware‑aware model training and the role of emerging accelerator chips in further extending the efficient frontier.\n\nOverall, Baseten’s analysis provides a concrete roadmap for organizations seeking to balance cost, speed, and accuracy in LLM inference, and the accompanying community dialogue underscores the broader industry interest in scalable, economical AI services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 6:52:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-006",
+    "title": "Pivotal, Larry Page's flying car startup, announces CEO departure",
+    "slug": "pivotal-larry-page-s-flying-car-startup-announces-ceo-departure",
+    "content": "A spokesperson for the firm confirmed to TechCrunch that the executive’s departure is amicable, stating that “he is pursuing new endeavors.” The announcement, made earlier this week, marks the end of the individual’s tenure with the company, though no specific timeline for his exit or details about his successor were provided.\n\nThe company emphasized that the transition will be managed smoothly to maintain operational continuity and that the departing leader’s contributions will be recognized internally. No further comments were offered regarding future plans or the nature of the new opportunities the executive will explore.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 6:52:07",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-004",
+    "title": "EU textile federation proposes €10 import fee on fashion, cites consumer fatigue risk for fast‑fashion retailers",
+    "slug": "eu-textile-federation-proposes-10-import-fee-on-fashion-cites-consumer-fatigue-r",
+    "content": "European textile associations have urged the European Union to impose a €10 import fee on fashion items, a move aimed at curbing the influx of ultra‑cheap clothing largely sourced from China. The proposal, announced by the federation, seeks to level the playing field for local manufacturers and reduce the environmental impact of fast‑fashion imports. The fee would apply to a broad range of apparel, with the intent of discouraging the rapid turnover that characterises the current market.\n\nIndustry experts weigh in on the potential effects of the measure. Dr Sheng Lu, Professor of Fashion and Apparel Studies at the University of Delaware, told FRANCE 24 that it remains uncertain whether a €10 surcharge would compel major players such as Shein to alter their business model. He noted that fast‑fashion retailers may also need to address growing consumer fatigue, as shoppers increasingly demand transparency and sustainability in their purchases. The debate highlights the tension between protecting domestic producers and adapting to shifting consumer expectations.\n\nIf adopted, the fee could reshape the competitive dynamics of the European apparel market, prompting both importers and local firms to reassess supply chains and pricing strategies. The European Commission will review the proposal in the coming months, weighing economic, environmental, and consumer‑rights considerations before any policy is finalized.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/2/2026 6:52:02",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-003",
+    "title": "G20 finance leaders approve statement despite Russia, China disputes",
+    "slug": "g20-finance-leaders-approve-statement-despite-russia-china-disputes",
+    "content": "G20 finance ministers concluded two days of deliberations in Asheville, North Carolina, on Tuesday, securing broad consensus for a final communique despite lingering disputes over Russia’s participation and divergent positions with China. The summit, which brought together senior fiscal officials from the world’s largest economies, sought to balance geopolitical sensitivities with the agenda of reinforcing global financial stability.\n\nU.S. Treasury Secretary Scott Bessent affirmed that Moscow’s presence did not derail the talks, as participants also addressed the war in the Middle East, tariff policies, persistent global trade imbalances and the ongoing financial support for Ukraine. The ministers’ ability to endorse a unified statement underscores a collective commitment to coordinated economic action, even as they navigate complex diplomatic challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/2/2026 6:51:57",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-002",
+    "title": "Iran vows retaliation after US airstrikes",
+    "slug": "iran-vows-retaliation-after-us-airstrikes",
+    "content": "Tehran announced that it will impose “severe punishment” and launch retaliation against Washington in response to a recent wave of U.S. strikes targeting Iranian interests in the Middle East. The statement, issued by the Iranian foreign ministry, came after a series of air attacks that hit facilities linked to Iran’s Revolutionary Guard Corps and its allied militia groups in Iraq and Syria, marking the most intensive U.S. offensive against Iranian proxies in months. Iranian officials condemned the operations as violations of international law and warned that any further aggression would be met with decisive measures to protect the nation’s sovereignty.\n\nThe pledge of retaliation underscores the heightened tension between the two countries, which have been locked in a proxy conflict since the U.S. withdrawal from the 2015 nuclear agreement. While Washington has justified the strikes as necessary to counter threats to its personnel and regional stability, Tehran’s warning signals a possible escalation that could affect broader security dynamics across the region. Diplomatic channels remain open, but both sides appear poised for a continued cycle of action and response, raising concerns among neighboring states and international observers about the risk of a wider confrontation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/2/2026 6:51:52",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-001",
+    "title": "US strikes near Iran's Sirik port kill at least four",
+    "slug": "us-strikes-near-iran-s-sirik-port-kill-at-least-four",
+    "content": "Iran’s foreign ministry announced that a series of United States air strikes conducted near the southern port city of Sirik have resulted in the deaths of at least four individuals. The strikes, described by Tehran as “unprovoked,” targeted areas close to the strategic Persian Gulf coastline, prompting the Iranian government to condemn the action as a violation of its sovereignty.\n\nThe incident adds to a pattern of heightened military activity in the region, where both sides have previously exchanged fire over maritime security and proxy engagements. While Iranian officials have detailed the casualty figures, U.S. authorities have not issued an immediate response. The development underscores ongoing tensions between Tehran and Washington, with both nations monitoring the situation closely for potential escalation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/2/2026 6:51:47",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-564",
     "title": "Smartwatches may provide inaccurate calorie‑burn estimates",
     "slug": "smartwatches-may-provide-inaccurate-calorie-burn-estimates",
@@ -5387,116 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "8/30/2026 19:21:49",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-115",
-    "title": "Minnesota high court rejects Lindell’s gubernatorial primary recount bid",
-    "slug": "minnesota-high-court-rejects-lindell-s-gubernatorial-primary-recount-bid",
-    "content": "The Minnesota Supreme Court on Saturday denied MyPillow founder Mike Lindell’s request for a recount of the state’s Republican gubernatorial primary, cementing his 11‑point defeat to former state Rep. Scott Jensen. In a six‑page opinion authored by Chief Justice Natalie E. Hudson, the court concluded that Lindell’s “claim fails on the merits,” finding no legal basis to overturn the certified results that showed Jensen winning with a decisive margin.\n\nThe ruling ends Lindell’s legal challenge, which he had framed as a response to alleged irregularities in the voting process. By upholding the original count, the court affirms the finality of the primary outcome and clears the way for the Republican nominee to focus on the upcoming general election.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:13:23",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-114",
-    "title": "Wounded Bear Caucus Senators Rarely Vote No on Trump Nominations",
-    "slug": "wounded-bear-caucus-senators-rarely-vote-no-on-trump-nominations",
-    "content": "The group of Republican legislators informally known as the “Wounded Bear” or “YOLO” (you only live once) Caucus has emerged as a vocal dissenting voice within the party. Formed in early 2023 by a handful of members who describe themselves as having “nothing to lose,” the caucus has positioned itself to challenge President Trump’s nominees and policy proposals more openly than many of their colleagues. Its members, who represent a mix of swing districts and traditionally conservative constituencies, have used floor speeches, press releases and committee hearings to articulate objections to the administration’s agenda.\n\nDespite the heightened rhetoric, the caucus’s voting record shows a markedly low incidence of “no” votes on final measures. Analyses of roll‑call data from the 118th Congress indicate that while the members frequently co‑sponsor or publicly criticize Trump‑appointed officials, they align with the party line on the decisive votes that determine legislative outcomes. Political observers note that the caucus’s strategy appears aimed at signaling independence to constituents while preserving legislative influence, a balance that may shape its role in upcoming primary contests and future congressional negotiations.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:13:18",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-113",
-    "title": "Trump announces US deal for 65 million barrels of Venezuelan oil as politicians clash; Doug Ford to appear Sunday",
-    "slug": "trump-announces-us-deal-for-65-million-barrels-of-venezuelan-oil-as-politicians",
-    "content": "President Trump announced over the weekend that the United States will acquire majority control of more than 65 million barrels of Venezuelan oil, a move that has sparked a sharp partisan divide. The deal, reportedly negotiated with the state‑owned oil company PDVSA, would give U.S. firms a controlling stake in a significant portion of Venezuela’s crude output, potentially boosting domestic refining capacity and energy security.\n\nSenate Democrats immediately condemned the agreement, arguing that it prioritizes private profit over the safety of American soldiers and the integrity of U.S. foreign policy. In contrast, GOP Senator Bernie Moreno of Ohio defended the pact, citing expected job creation, lower fuel prices, and a step toward energy independence. The debate highlights broader concerns about sanctions, human rights, and the strategic implications of deepening ties with the Venezuelan regime.\n\nThe deal remains under intense scrutiny as lawmakers weigh its economic benefits against geopolitical risks. While supporters emphasize the potential for domestic economic gains, critics warn of the ethical and security implications of partnering with a government under international sanctions. The outcome will likely shape U.S. energy policy and diplomatic relations in the coming months.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:13:13",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-112",
-    "title": "Venezuelan interim president details 25-year US oil partnership",
-    "slug": "venezuelan-interim-president-details-25-year-us-oil-partnership",
-    "content": "Venezuelan interim President Delcy Rodríguez announced on Saturday that her government has finalized a new oil agreement with the United States, following remarks by former President Donald Trump that “much of Venezuela’s oil reserves will be under majority U.S. control.” The deal, which Rodríguez described as a 25‑year bilateral project, focuses on the development of 17 strategically important oilfields located in the Orinoco Belt and other key regions.\n\nAccording to Rodríguez, the agreement sets a production target of more than 1.5 million barrels per day, with U.S. firms expected to provide the technical expertise, equipment, and financing necessary to bring the fields online. The contract also includes provisions for technology transfer, joint ventures with Venezuelan state‑owned enterprises, and a phased approach to ownership that would gradually increase U.S. participation while maintaining Venezuelan oversight of the national oil industry.\n\nThe partnership is seen as a potential turning point for Venezuela’s struggling economy, which has been hampered by decades of sanctions and declining production. While the deal promises to boost output and attract foreign investment, analysts note that its success will depend on the political stability of the country and the ability of both sides to navigate regulatory and logistical challenges over the next quarter‑century.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:13:08",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-111",
-    "title": "Trump administration deported Afghan relative who aided U.S. military to Central African Republic",
-    "slug": "trump-administration-deported-afghan-relative-who-aided-u-s-military-to-central",
-    "content": "A family in Afghanistan has reported receiving threats from the Taliban, citing the work of two brothers who provide support services to the U.S. military. The family, residing in a rural area of the country, said the threats were issued after the brothers were identified as contractors assisting with logistics and engineering tasks for U.S. forces operating in the region.\n\nThe brothers’ roles involve coordinating supply deliveries and maintaining critical infrastructure for U.S. military operations. According to local security officials, the Taliban has repeatedly warned families of U.S. contractors that they could face retaliation if their relatives continue to support foreign troops. The U.S. Embassy in Kabul has confirmed that it is monitoring the situation and has advised families in similar circumstances to take precautionary measures.\n\nThe family has sought protection from local authorities and is awaiting a response from U.S. security agencies. The incident underscores the ongoing risks faced by civilians connected to foreign military activities in Afghanistan, as the Taliban continues to target those perceived as collaborators with U.S. forces.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:13:03",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-110",
-    "title": "AI deepfakes of late‑night hosts Jimmy Kimmel and Jon Stewart spread online",
-    "slug": "ai-deepfakes-of-late-night-hosts-jimmy-kimmel-and-jon-stewart-spread-online",
-    "content": "Social media platforms are increasingly flooded with AI‑generated celebrity deepfakes, but experts warn that videos of late‑night television hosts such as Jimmy Kimmel and Jon Stewart are among the easiest to produce and could have a disproportionate impact.  The combination of high‑quality, publicly available footage and the hosts’ distinctive voices and mannerisms allows automated tools to create convincing impersonations with relatively little data, a process that is faster and less resource‑intensive than deepfakes of other public figures.\n\nThe ease of creation raises concerns about misinformation and reputational harm.  In a recent study, researchers found that deepfakes of Kimmel and Stewart were recognized as authentic by a majority of viewers even when the videos were clearly fabricated.  The potential for these videos to be shared widely, coupled with the hosts’ influence on public discourse, means that such deepfakes could be used to spread false statements or satirical content that is mistaken for genuine commentary.\n\nIndustry watchdogs and platform moderators are calling for tighter verification protocols and clearer labeling of AI‑generated content.  While the technology behind these deepfakes is advancing rapidly, the current trend underscores the need for both media literacy and robust safeguards to prevent the spread of deceptive videos that could mislead audiences and undermine trust in broadcast journalism.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:12:58",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-109",
-    "title": "US sanctions on Canada and Iran trade threats could impact midterm elections",
-    "slug": "us-sanctions-on-canada-and-iran-trade-threats-could-impact-midterm-elections",
-    "content": "U.S. officials have announced a new round of economic sanctions targeting Canada, citing concerns over the country’s trade ties with Iran. The measures, which include restrictions on Canadian firms that facilitate Iranian commerce, are part of a broader strategy to pressure nations that maintain business relationships with Tehran. The sanctions are expected to tighten the economic environment for Canadian exporters and could ripple into the broader North American supply chain.\n\nPolitical analysts warn that the timing of the sanctions could influence the upcoming midterm elections. Republicans, who have traditionally campaigned on a platform of free trade and strong foreign policy, may face backlash if Canadian businesses suffer losses or if American companies encounter difficulties accessing Canadian markets. Additionally, the threat of similar sanctions on other trading partners could create uncertainty for U.S. firms operating abroad, potentially shifting voter sentiment toward candidates who promise to protect American economic interests. The impact of these measures on the electoral landscape remains to be seen, but they are likely to add a new dimension to the campaign debate.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "8/30/2026 19:12:53",
-    "author": "NPR Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-108",
-    "title": "Indiana Floods Devastate Homes, Seven Lives Lost, Federal Aid Delayed",
-    "slug": "indiana-floods-devastate-homes-seven-lives-lost-federal-aid-delayed",
-    "content": "Record inundations swept through Cambridge City, leaving seven people dead and destroying numerous homes. Despite the scale of the disaster, federal emergency assistance has not been approved by President Trump, and the state has simultaneously reduced funding for environmental agencies that typically support flood mitigation and recovery. The lack of immediate governmental support has heightened concerns among local officials about the city’s capacity to address the extensive damage and to implement long‑term resilience measures.\n\nTen days after floodwaters receded from the main street, the city’s streets and parks remain littered with abandoned cars, toilets, bathtubs and other debris, while garages have been torn from their foundations and displaced by the surge. Dumpsters line the avenues, overflowing with residents’ possessions, and red paint markings on houses indicate structures that have been cleared by water‑rescue teams. Authorities continue to coordinate cleanup and restoration efforts, emphasizing the need for additional resources to fully recover from the unprecedented flooding.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "8/30/2026 19:12:48",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-107",
-    "title": "Google datacenter proposal faces opposition in Indiana town",
-    "slug": "google-datacenter-proposal-faces-opposition-in-indiana-town",
-    "content": "A grassroots push against large‑scale data centers has drawn a surprising wave of solidarity across the United States, according to activists and local residents. In the rural town of Monrovia, Indiana, citizens gathered at a community festival to discuss a proposed 550‑acre Google data‑center project that would occupy a significant portion of the 1,600‑person town. The initiative has sparked concern over environmental impact, local infrastructure strain, and the concentration of corporate power, prompting a coalition of residents to rally against the development.\n\nBryce Gustafson, the lead organizer for the Citizens Action Coalition (CAC), has spent more than a decade canvassing door‑to‑door in Indiana to raise awareness about consumer and environmental issues. At the Monrovia festival, Gustafson spoke with roughly 50 residents, finding unanimous opposition to the data‑center proposal. He noted that even some voters who had supported former President Trump approached him, questioning the administration’s support for such projects. The unified stance, he said, highlights how a few powerful actors can shape decisions that affect everyday life, while ordinary citizens can collectively challenge that influence.\n\nThe Monrovia case illustrates a broader trend in which local communities are increasingly mobilizing to contest large corporate developments. By uniting around shared concerns—environmental stewardship, community autonomy, and equitable decision‑making—residents across the country are demonstrating that collective action can counterbalance concentrated corporate interests. As the debate over data‑center expansion continues, the voices of ordinary citizens remain a decisive factor in shaping the future of their neighborhoods.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "8/30/2026 19:12:44",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260830-106",
-    "title": "Cardiologist Referrals Lower Cholesterol in Prostate Cancer Patients, No Heart Benefit",
-    "slug": "cardiologist-referrals-lower-cholesterol-in-prostate-cancer-patients-no-heart-be",
-    "content": "Men diagnosed with prostate cancer face an elevated risk of cardiovascular disease, a risk that intensifies when they receive hormone therapy as part of their treatment. A large, international study—the first of its kind—conducted by researchers at McMaster University examined whether routine referrals to an internist or cardiologist could mitigate this risk. The trial enrolled a diverse cohort of men across multiple countries and systematically directed participants to specialist care for cardiovascular assessment and management while they underwent standard prostate cancer treatment.\n\nThe findings showed that specialist referrals led to measurable improvements in cholesterol levels, indicating better control of a key cardiovascular risk factor. However, the enhanced lipid management did not translate into a reduction in major adverse cardiac events; rates of heart attacks, strokes, heart failure, and cardiovascular mortality remained comparable to those who received usual care without routine specialist involvement. The study underscores the complexity of addressing heart disease in prostate cancer patients and suggests that while lipid optimization is achievable, additional strategies may be required to lower the incidence of serious cardiovascular outcomes.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "8/30/2026 19:12:38",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
