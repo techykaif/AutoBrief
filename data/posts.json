@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260902-263",
+    "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
+    "slug": "ford-s-production-of-highly-profitable-super-duty-trucks-hits-20-year-high-as-it",
+    "content": "Ford Motor Company announced that its U.S. new vehicle sales declined in August, marking the eighth consecutive month of year-over-year decreases. This extended downward trend highlights ongoing challenges within the domestic automotive market as the manufacturer navigates shifting consumer demand and",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/2/2026 22:42:14",
+    "author": "CNBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-258",
+    "title": "Study of 1 million Australian cattle links pre‑feedlot factors to respiratory death risk",
+    "slug": "study-of-1-million-australian-cattle-links-pre-feedlot-factors-to-respiratory-de",
+    "content": "A recent study of more than one million Australian feedlot cattle has revealed that the most significant risk factors for death from bovine respiratory disease (BRD) are determined before the animals arrive at the feedlot. Researchers analyzed data from a nationwide feedlot network and found that variables such as herd health status, vaccination history, and management practices on source farms were strongly correlated with mortality outcomes once the cattle entered the feedlot environment.\n\nThe analysis showed that cattle originating from farms with higher incidences of respiratory illness, lower vaccination coverage, or suboptimal biosecurity measures were disproportionately represented among those that succumbed to BRD in the feedlot. Conversely, animals sourced from farms with robust preventive protocols exhibited markedly lower mortality rates, underscoring the critical role of early intervention and disease control at the point of origin.\n\nThese findings suggest that feedlot operators and industry stakeholders should prioritize preventive strategies on source properties, including comprehensive vaccination programs and stringent biosecurity, to reduce BRD-related losses. By addressing risk factors before cattle reach the feedlot, producers can improve animal welfare and enhance overall productivity.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/2/2026 22:41:50",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-248",
     "title": "CW-Net Decodes Self-Driving Car AI to Predict Mistakes",
     "slug": "cw-net-decodes-self-driving-car-ai-to-predict-mistakes",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "8/31/2026 13:13:36",
     "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-037",
-    "title": "Trump Announces US Access to Venezuelan Oil Deal",
-    "slug": "trump-announces-us-access-to-venezuelan-oil-deal",
-    "content": "President Donald Trump posted on social media that a new agreement in Venezuela represents “the biggest oil deal in world history,” but the White House has offered no further comment. The brief statement, which appeared on Trump’s personal account, is the only official acknowledgment of the purported transaction, leaving policymakers and analysts without clarification on the deal’s scope, participants or implications.\n\nU.S. officials have not elaborated on the claim, and no details have been released regarding the parties involved, the volume of oil, or how the arrangement aligns with existing sanctions on Venezuelan energy exports. The silence follows a period of heightened tension over Venezuela’s oil sector, where Washington has maintained restrictions aimed at curbing the Maduro government’s revenue. As the story develops, observers will watch for any official response that could shed light on the deal’s legality and its impact on U.S. foreign‑energy policy.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/31/2026 13:13:31",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-036",
-    "title": "Oil prices rise on Middle East tensions and US rate hike speculation",
-    "slug": "oil-prices-rise-on-middle-east-tensions-and-us-rate-hike-speculation",
-    "content": "Oil prices rose on Monday morning, with Brent crude gaining roughly 1.2% to $84.30 a barrel and U.S. West Texas Intermediate up about 1.1% to $80.10. The uptick was driven by renewed tensions in the Middle East, where recent exchanges of fire between regional actors heightened concerns over potential disruptions to oil supplies, and by market speculation that the Federal Reserve could implement an additional interest‑rate hike in its upcoming policy meeting. Traders noted that the combination of geopolitical risk and the prospect of a stronger dollar—typically a headwind for oil—prompted a shift toward buying the commodity as a hedge.\n\nAnalysts said the price movement reflects a broader pattern of volatility, with investors balancing the immediate threat of supply interruptions against longer‑term monetary policy expectations. While the Middle East flare‑up adds a short‑term premium to oil, the anticipated U.S. rate increase could curb demand by raising borrowing costs and strengthening the dollar, which may temper further gains. Market participants will watch both developments closely, as any escalation in the region or a decisive Fed action could shape oil price trajectories in the weeks ahead.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "8/31/2026 13:13:26",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
