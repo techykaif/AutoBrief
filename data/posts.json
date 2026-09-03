@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260903-457",
+    "title": "Psilocybin may prevent chemotherapy‑induced peripheral neuropathy",
+    "slug": "psilocybin-may-prevent-chemotherapy-induced-peripheral-neuropathy",
+    "content": "Chemotherapy‑induced peripheral neuropathy—characterised by numbness, tingling and pain in the hands and feet—affects a significant proportion of cancer patients and can lead to dose reductions or treatment discontinuation. Recent preclinical and early‑phase clinical studies have indicated that psilocybin, the psychoactive compound found in certain species of mushrooms, may mitigate these neurotoxic effects. In laboratory models, psilocybin administration reduced markers of nerve damage and improved sensory function in mice treated with neurotoxic chemotherapeutic agents.\n\nThe research, conducted by a multidisciplinary team of neuroscientists and oncologists, involved a randomized, double‑blind trial in which patients receiving standard chemotherapy received either a low‑dose psilocybin infusion or placebo. Preliminary results showed a statistically significant lower incidence of neuropathic symptoms in the psilocybin group, with patients reporting less pain and improved hand‑foot coordination. While the exact mechanism remains under investigation, hypotheses centre on psilocybin’s interaction with serotonin 5‑HT2A receptors and its potential to promote neuroplasticity and anti‑inflammatory pathways.\n\nIf these findings are confirmed in larger, multi‑centre trials, psilocybin could become a novel adjunct therapy to preserve quality of life and treatment adherence for cancer patients. Regulatory and safety considerations will need to be addressed, but the prospect of repurposing a naturally occurring psychedelic for a common chemotherapy side effect represents a promising avenue for improving supportive cancer care.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/4/2026 2:51:59",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-456",
+    "title": "Severe hailstorm and heavy rain flood Toronto streets",
+    "slug": "severe-hailstorm-and-heavy-rain-flood-toronto-streets",
+    "content": "Heavy rain and hail swept through the region on Thursday, turning streets into temporary waterways within minutes. Meteorological agencies reported that a rapidly intensifying convective system moved eastward across the area, producing precipitation rates that exceeded 30 mm per hour and hailstones up to 15 mm in diameter. Video footage shared on social media captured the sudden deluge, showing vehicles stalled in ankle‑deep water and hail accumulating on rooftops and road surfaces in a matter of seconds.\n\nEmergency responders were dispatched to several municipalities as the storm progressed, focusing on clearing blocked drainage channels and assisting motorists stranded in flooded zones. Local authorities issued immediate safety advisories, urging residents to avoid nonessential travel and to seek shelter until the precipitation subsided. Weather officials continued to monitor the system, noting that conditions were expected to improve later in the evening, and they advised the public to remain vigilant for any residual flooding or damage.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/4/2026 2:51:53",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-447",
     "title": "OpenAI Launches GPT-6 Astra, Claims AGI Milestone",
     "slug": "openai-launches-gpt-6-astra-claims-agi-milestone",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/2/2026 12:02:34",
     "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-061",
-    "title": "University of Sydney staff walk out over AI use and job security concerns",
-    "slug": "university-of-sydney-staff-walk-out-over-ai-use-and-job-security-concerns",
-    "content": "Hundreds of university staff gathered at picket lines across the campus, demanding stronger safeguards around the use of artificial intelligence in teaching and research. The protest followed a decision by union members at the University of Sydney to stage a 24‑hour strike earlier that week, a move that underscored growing concerns among academics about AI’s impact on academic integrity and employment security.\n\nAn internal survey released to staff this week revealed stark discontent, particularly within the Faculty of Arts and Social Sciences. Notably, 0 % of respondents agreed with the statement, “I trust the University of Sydney to act in the best interests of staff, students and the broader community.” The survey, which assessed confidence in institutional governance and policy direction, highlights a profound erosion of trust among faculty members amid rapid technological change.\n\nThe strike and survey findings have prompted university administrators to review their AI policies and engagement strategies. While the campus remains on high alert, the university has pledged to consult with staff and student representatives to address the concerns raised and to clarify the role of AI in academic life.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/2/2026 12:02:29",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-060",
-    "title": "Consumer group labels Booking.com unfit after fake Downing Street listing exposed",
-    "slug": "consumer-group-labels-booking-com-unfit-after-fake-downing-street-listing-expose",
-    "content": "Booking.com has announced that a recent limited test of its new review‑analysis feature will not be considered a definitive representation of the platform’s overall experience. In a statement to the press, the company explained that the trial, which involved a small subset of listings and user reviews, was designed to gauge the feasibility of the technology before wider deployment.\n\nThe test, which focused on a handful of properties across a few markets, was intended to evaluate how the new system would handle large volumes of data and whether it could accurately summarize guest feedback. Booking.com emphasized that the sample size was too limited to capture the diversity and scale of its global inventory, which includes millions of listings and reviews from users worldwide.\n\nWhile the company remains optimistic about the potential benefits of the feature, it has cautioned that the results of the limited test should not be extrapolated to the broader platform. Booking.com plans to conduct further trials and refine the system before making any permanent changes to its review presentation.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/2/2026 12:02:24",
-    "author": "BBC Technology",
     "isFeatured": false
   }
 ]
