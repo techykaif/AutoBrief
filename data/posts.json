@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260903-363",
+    "title": "Metabolic networks shed light on early enzyme evolution and LUCA",
+    "slug": "metabolic-networks-shed-light-on-early-enzyme-evolution-and-luca",
+    "content": "Scientists have traced the evolutionary lineage of enzymes—complex proteins with multiple folded domains and specialized catalytic sites—across all living organisms. By comparing the genes that encode these proteins, researchers have identified patterns that converge on a single, ancient ancestor. This common lineage points to the last universal common ancestor (LUCA), a hypothetical organism that existed roughly 4 billion years ago and is believed to have given rise to all modern life forms.\n\nThe study highlights that enzymes, which are the workhorses of cellular metabolism, are encoded by genes that have been conserved and diversified throughout evolutionary history. Gene‑based comparisons reveal that even the most divergent species share core enzymatic motifs, underscoring a shared biochemical foundation. These findings reinforce the idea that the genetic blueprint of LUCA included a sophisticated set of metabolic tools, enabling the emergence of complex life.\n\nUnderstanding the enzymatic heritage of LUCA provides a clearer picture of how life originated and diversified on Earth. The discovery underscores the power of comparative genomics in reconstructing deep evolutionary events and offers a framework for exploring the molecular underpinnings of the earliest organisms.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/3/2026 23:52:12",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-362",
+    "title": "Deep-sea methane filter forms in years, not decades",
+    "slug": "deep-sea-methane-filter-forms-in-years-not-decades",
+    "content": "A biological methane filter that develops on the seafloor has been shown to form much more rapidly than previously thought, according to a new study published in *National Science Review*. An international research team, which included a scientist from the University of Bremen, monitored a newly established methane seep in the deep ocean for six years and documented the swift establishment of microbial communities that oxidize methane before it escapes into the water column.\n\nThe findings challenge earlier models that projected decades for such filter systems to mature, suggesting that natural mitigation of methane emissions can occur on a much shorter timescale. The accelerated development observed in the deep‑sea seep provides fresh insight into the dynamics of methane cycling and may refine predictions of greenhouse‑gas fluxes from oceanic sources.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/3/2026 23:52:06",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-350",
     "title": "Sony Claims Users Own Games Purchased on PlayStation",
     "slug": "sony-claims-users-own-games-purchased-on-playstation",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/2/2026 5:12:52",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-534",
-    "title": "Autonomous crop-spraying aircraft demonstrate pilot‑free flight",
-    "slug": "autonomous-crop-spraying-aircraft-demonstrate-pilot-free-flight",
-    "content": "Autonomous crop‑spraying aircraft are emerging as the vanguard of pilot‑free aviation, offering farmers a precise, efficient alternative to traditional manual spraying. These unmanned systems use advanced sensors, GPS navigation, and real‑time data analytics to map fields, identify pest‑infested zones, and apply chemicals with minimal human intervention.\n\nThe technology integrates high‑resolution cameras, LIDAR, and infrared imaging to detect crop health indicators and automatically adjust spray rates. Operators can monitor missions via ground‑based dashboards, receiving alerts on flight status and environmental conditions. Early adopters report reduced labor costs, lower chemical usage, and improved coverage consistency, while regulatory bodies are working to streamline certification processes for commercial deployment.\n\nAs the industry moves toward broader adoption, autonomous crop‑sprayers are poised to set new standards for precision agriculture, potentially transforming farm management practices and contributing to more sustainable farming operations.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/2/2026 5:12:45",
-    "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-533",
-    "title": "Manchester City to Sign Enzo Fernandez for £125m",
-    "slug": "manchester-city-to-sign-enzo-fernandez-for-125m",
-    "content": "The football transfer window is entering its final hours, and clubs are finalising deals that underscore the market’s intensity. Manchester City have reportedly secured an agreement with Chelsea to acquire Argentine midfielder Enzo Fernandez for a reported £125 million, marking the highest individual fee within a €3.3 billion spending spree that has characterised this window’s activity among Europe’s elite teams. The deal, if completed before the deadline, would represent City’s most expensive signing to date and reflects the Premier League side’s continued investment in midfield talent.\n\nIn a parallel move, Aston Villa have completed the signing of 18‑year‑old winger Ibrahim Mbaye from Paris Saint‑Germain for €55 million, adding youthful depth to their attacking options. Both transactions illustrate the broader trend of high‑value acquisitions as clubs seek to reinforce squads before the window closes, and they set the stage for the upcoming season’s competitive dynamics.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:40",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
