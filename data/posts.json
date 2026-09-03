@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260903-350",
+    "title": "Sony Claims Users Own Games Purchased on PlayStation",
+    "slug": "sony-claims-users-own-games-purchased-on-playstation",
+    "content": "Sony has announced that it retains ownership of games sold through its PlayStation ecosystem, a stance that diverges from the common perception that consumers own the titles they purchase. The company’s updated policy clarifies that users acquire a license to use a game rather than ownership of the underlying software. This move follows a series of legal disputes over digital rights and has prompted a broader discussion about the nature of ownership in the era of digital distribution.\n\nUnder the new terms, Sony retains the right to remove or modify games on its platform, citing licensing agreements with third‑party",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:42:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-349",
+    "title": "Cancer Capital: VC Shifts Focus to Cancer Research",
+    "slug": "cancer-capital-vc-shifts-focus-to-cancer-research",
+    "content": "**Cancer Capital Launches Dedicated Oncology Fund**\n\nAnil Dash’s recent article on his blog announces the launch of Cancer Capital, a new venture fund that will raise $200 million to invest in early‑stage biotechnology companies developing novel cancer therapies. The fund, led by former executives from several large pharmaceutical firms, aims to bridge the funding gap that often leaves promising oncology startups unable to scale their research and clinical trials. According to the post, Cancer Capital will focus on both small‑molecule drugs and advanced immunotherapies, with a particular emphasis on precision medicine approaches that target specific genetic mutations in tumors.\n\nThe article outlines the fund’s investment strategy, noting that it will prioritize companies with strong preclinical data and clear pathways to regulatory approval. It also highlights the broader trend of specialized venture capital vehicles emerging in the life‑science sector, a shift that has attracted attention from the broader startup community. The accompanying discussion on Hacker News, where the post has received 63 up‑votes and 11 comments, reflects a mix of curiosity and cautious optimism among investors and entrepreneurs about the potential impact of a dedicated oncology fund on the pace of medical innovation.\n\nIn closing, the launch of Cancer Capital represents a significant development for the oncology investment landscape, offering a new source of capital that could accelerate the translation of laboratory discoveries into clinically available treatments. The fund’s success will likely depend on its ability to combine deep scientific expertise with rigorous financial oversight, a combination that the article suggests is essential for sustaining long‑term progress in cancer research.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:42:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-348",
+    "title": "Texas Data Center Map Shows Current and Planned Facilities",
+    "slug": "texas-data-center-map-shows-current-and-planned-facilities",
+    "content": "A new interactive map has been launched to track more than 600 data‑center projects across Texas, providing a comprehensive view of facilities that are currently operating or slated for construction. The Texas Data Center Tracker aggregates information from state filings, industry reports, and local government records, displaying each project’s location, projected power usage, and operational status. Users can filter the map by city, county, or energy provider, and view detailed metrics such as power usage effectiveness and estimated energy consumption.\n\nTexas has become a leading hub for data‑center development, thanks to its mild climate, abundant renewable energy resources, and business‑friendly regulatory environment. The tracker offers stakeholders—policy makers, investors, and community groups—a transparent resource for assessing the sector’s growth and its impact on local infrastructure and energy supply. By making data publicly available, the tool supports informed decision‑making and helps identify areas where additional capacity or regulatory oversight may be needed.\n\nThe interactive platform is expected to be updated regularly as new projects receive approvals and existing facilities expand. Its availability aims to enhance coordination among government agencies, utilities, and the private sector, ultimately contributing to more efficient planning and sustainable development of Texas’s data‑center industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:42:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-347",
+    "title": "Mireye Launches API for Physical-World AI Agent Data",
+    "slug": "mireye-launches-api-for-physical-world-ai-agent-data",
+    "content": "Mireye, founded by Ansh, offers a unified API that supplies AI agents with the data, enrichment, tools, and change‑signals needed to make decisions about any U.S. location. The service aggregates over 360 distinct fields from county‑level sources, normalizes them into a single schema, and continuously refreshes the data. A demo video demonstrates how a user can paste a Mireye skill URL into an agent and receive instant, cited facts about a place, such as owner, acreage, nearby utilities, and zoning changes. Documentation and a free key (5,000 credits per month) are available at mireye.ai, and the platform includes deterministic geometry, parcel resolution, a job‑pricing endpoint, and pre‑packaged workflows for site screening and underwriting.\n\nMireye was born from the limitations of frontier models that often hallucinate when asked specific questions about real‑world locations. After building a niche site‑screening app that failed to attract users, the company pivoted to the underlying infrastructure that powers agents. The platform handles the complexity of sourcing data from disparate county portals, contracts each field with metadata on origin, meaning, and refresh frequency, and treats missing values as explicit absences to avoid model‑filled gaps. An on‑demand indexing feature lets agents request a new field, trigger a data‑collection pipeline, and have the result indexed within a day. Customers span insurance teams assessing flood and wildfire risk, proptech firms cleaning address lists, robotics companies locating warehouses, and city planners mapping bus routes.\n\nPricing is tiered: a free plan with 5,000 credits per month, $19 for 25,000 credits, $99 for 120,000 credits, and custom enterprise options. Users report that the system’s refusal to return uncertain data builds trust, and the breadth of use cases—from data‑center site selection to human‑trafficking signals—illustrates the platform’s versatility. Mireye’s mission is to index every inch of the U.S. and make that information as queryable as the web.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:42:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-346",
+    "title": "Gooseworks (YC W23) Hiring Founding Creative Engineer",
+    "slug": "gooseworks-yc-w23-hiring-founding-creative-engineer",
+    "content": "GooseWorks, a startup that has recently joined the Y Combinator ecosystem, has posted a position for a founding creative engineer on the accelerator’s job board. The listing, available at the company’s Y Combinator profile, invites candidates to join the founding team and help shape the product from its earliest stages. The role is listed as a full‑time, early‑stage position, reflecting the company’s need for a versatile engineer who can contribute to both the technical architecture and the creative direction of the product.\n\nThe job posting is currently active on the Y Combinator job platform, but it has not yet attracted any votes or comments from the community. This lack of engagement is typical for new openings in nascent startups, where visibility builds as the company grows and its network expands. GooseWorks’ inclusion in Y Combinator’s network suggests that the role will involve close collaboration with the founders and other early hires, providing a unique opportunity to influence the company’s trajectory and culture.\n\nIn summary, GooseWorks’ call for a founding creative engineer highlights the startup’s focus on building a product that blends robust engineering with strong creative elements. Candidates interested in taking a hands‑on role in a high‑growth environment can view the full details and apply through the Y Combinator job portal.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:42:02",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-345",
+    "title": "USB‑SID Pico Brings Commodore 64 Sound to USB Devices",
+    "slug": "usb-sid-pico-brings-commodore-64-sound-to-usb-devices",
+    "content": "A new open‑source project, **usbsid**, has been announced that brings the classic Commodore 64 SID sound chip to modern computers via a Raspberry Pi Pico. The project uses the Pico’s microcontroller to emulate the MOS 6581/8580 SID chip, generating audio through the board’s PWM outputs and packaging the signal as a standard USB audio device. The result is a compact, low‑cost hardware synthesizer that can play authentic SID music on Windows, macOS, or Linux systems without the need for a full C64 emulator.\n\nThe usbsid design includes a small PCB that mounts the Pico and a simple enclosure, with firmware written in C and released under an open‑source license. Detailed build instructions, schematic files, and a list of required components are provided on the project’s blog page, allowing hobbyists to assemble the unit themselves. The project was highlighted on Hacker News, where it received six upvotes and sparked interest among retro‑computing enthusiasts and audio developers alike.\n\nBy re‑creating the SID chip’s distinctive sound in hardware, usbsid offers a portable way to experience classic Commodore 64 music on contemporary machines. Its open‑source nature invites further enhancements, such as improved audio quality or additional control interfaces, and underscores the ongoing community effort to preserve and extend the legacy of vintage computer audio.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:41:57",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-344",
+    "title": "Lenovo Unveils Project AeroBlade Fanless Laptop",
+    "slug": "lenovo-unveils-project-aeroblade-fanless-laptop",
+    "content": "Lenovo has unveiled its Project AeroBlade Concept, a new ultralightweight laptop that incorporates Frore’s advanced air‑cooling technology. The partnership brings a high‑performance cooling solution to a device that weighs less than 1 kg, allowing the machine to maintain stable temperatures while delivering powerful computing capabilities.\n\nThe AeroBlade Concept features a slim chassis and a fan‑based cooling system that uses Frore’s proprietary airflow design to dissipate heat efficiently. Early demonstrations show the laptop can sustain demanding workloads without throttling, a significant improvement over conventional passive‑cooling ultrabooks. Lenovo plans to refine the design for a commercial release, targeting professionals who require both portability and robust performance.\n\nWith this development, Lenovo expands its portfolio of lightweight, high‑performance devices, positioning the AeroBlade Concept as a potential competitor in the premium ultrabook market. The integration of Frore’s technology underscores a growing trend toward active cooling solutions in ultraportable laptops, promising better thermal management without compromising on weight or design.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:41:51",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-343",
+    "title": "OpenAI Drops $1B Cursor Partnership After SpaceX Acquisition",
+    "slug": "openai-drops-1b-cursor-partnership-after-spacex-acquisition",
+    "content": "OpenAI has revealed that its partnership with the AI‑coding startup Cursor was projected to generate more than $1 billion in annual revenue, according to a report by WIRED. The collaboration, which aimed to embed Cursor’s code‑generation tools into OpenAI’s ChatGPT platform, was positioned to become a significant revenue stream for the company.\n\nThe partnership was abandoned after SpaceX, led by Elon Musk, acquired Cursor. With the acquisition, OpenAI opted to walk away from the deal, citing the new ownership structure and strategic priorities. The move underscores the shifting landscape of AI tool integration and the impact of high‑profile acquisitions on existing partnerships.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:41:47",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-342",
+    "title": "Nvidia to launch RTX Spark laptops with N1X chip in October",
+    "slug": "nvidia-to-launch-rtx-spark-laptops-with-n1x-chip-in-october",
+    "content": "Nvidia confirmed that its long‑awaited Arm‑based RTX Spark chips will debut in October, with the N1X model slated for inclusion in two distinct laptop configurations. Earlier speculation had highlighted both an N1 and an N1X chip, but the company clarified that the N1 will not be released this year. The forthcoming N1X will power RTX Spark laptops, offering a “mini PC” variant and a top‑tier version that features a 6144‑core Blackwell RTX GPU, a 20‑core Grace CPU, and between 24 GB and 128 GB of unified memory.\n\nThe high‑end N1X configuration is expected to appear in premium laptops as well as compact devices such as Microsoft’s Surface RTX series, expanding Nvidia’s portfolio of Arm‑based computing solutions. By delivering both a compact and a performance‑focused option, Nvidia aims to address a range of professional and consumer workloads ahead of the broader rollout of its RTX Spark platform.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 23:41:43",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-341",
     "title": "Lenovo Unveils Ultra-Thin 14‑inch AeroBlade Concept with Solid‑State Cooling",
     "slug": "lenovo-unveils-ultra-thin-14-inch-aeroblade-concept-with-solid-state-cooling",
@@ -5398,105 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/2/2026 5:12:40",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-532",
-    "title": "US Attacks on Iran Trigger Global Bond Selloff",
-    "slug": "us-attacks-on-iran-trigger-global-bond-selloff",
-    "content": "Oil prices climbed while equity markets slipped and bond yields surged after the United States carried out a new series of airstrikes on Iranian military targets. The escalation triggered a sharp sell‑off across global markets, with investors citing heightened geopolitical risk and a potential uptick in inflationary pressures. In Japan, the 10‑year government bond yield briefly breached the 3 % threshold, the first time the level has been reached since 1996, underscoring the widening concerns about fiscal sustainability.\n\nThe broader backdrop of the downturn includes a steep rise in U.S. government debt, now exceeding $40 trillion, and persistent inflation worries. In the Eurozone, consumer price inflation in August reached its highest point in three years, largely driven by surging energy costs. These developments have prompted central banks to tighten policy stances, further tightening market sentiment and contributing to the recent bond‑yield spike.\n\nMarket participants now face a dual challenge: navigating the immediate fallout from renewed U.S.–Iran tensions and managing the longer‑term implications of high debt levels and persistent inflation. As bond yields climb and equities retreat, investors are closely monitoring central‑bank responses and geopolitical developments that could shape the trajectory of the global financial landscape.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:35",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-531",
-    "title": "Germany accuses Russia of airport drone attack and orders consulate closure",
-    "slug": "germany-accuses-russia-of-airport-drone-attack-and-orders-consulate-closure",
-    "content": "Germany announced on Tuesday that it had identified Russia as the perpetrator of an attempted “hybrid attack” last month, in which an explosive‑laden drone was directed at a strategic German airport. The German government said the incident was a clear violation of international law and a threat to national security, and it has outlined a series of diplomatic counter‑measures in response.\n\nThe European Union immediately expressed “full solidarity” with Germany, while NATO confirmed its commitment to defend all member states, including Britain, Estonia and Poland, which have all offered strong backing. These statements underscore the broader alliance’s stance against the alleged Russian aggression and signal coordinated support for Germany’s security concerns.\n\nIn addition to the diplomatic warnings, Germany will close the Russian consulate in Bonn later this month and is set to cancel the contract for the Russian House cultural centre in Berlin, according to Foreign Minister Johann Wadephul. These actions are part of a broader strategy to limit Russia’s diplomatic footprint in Germany following the drone incident.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:29",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-530",
-    "title": "UN nuclear watchdog warns of urgent need for access to Iranian sites",
-    "slug": "un-nuclear-watchdog-warns-of-urgent-need-for-access-to-iranian-sites",
-    "content": "The International Atomic Energy Agency (IAEA) has warned that the limited information and restricted access to Iranian nuclear facilities hinder its ability to verify the country’s nuclear material, raising a proliferation concern. In a recent statement, the agency highlighted that without comprehensive data and on‑site inspections, it cannot confirm that Iran’s nuclear activities are exclusively peaceful.\n\nThe IAEA’s assessment underscores the importance of full transparency and cooperation from Tehran to meet the agency’s verification standards under the Non‑Proliferation Treaty. The agency noted that continued gaps in monitoring could impede international efforts to ensure nuclear material is not diverted for weapons development, urging Iran to provide the necessary documentation and unrestricted entry to relevant sites.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:23",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-529",
-    "title": "US Energy Secretary to Visit Venezuela for Oil Deal",
-    "slug": "us-energy-secretary-to-visit-venezuela-for-oil-deal",
-    "content": "Caracas – Venezuela’s unicameral National Assembly approved a legislative resolution endorsing a proposed oil production agreement estimated at 65 billion barrels, even though the specifics of the deal have not been disclosed to the public. The vote, taken during a session convened by the ruling United Socialist Party of Venezuela (PSUV), signaled formal legislative support for the initiative, which officials say is intended to boost the country’s output and generate foreign exchange amid ongoing economic challenges.\n\nThe lack of publicly released details has prompted inquiries from opposition lawmakers and international observers about the partnership’s partners, financing structure and expected timelines. Government spokespeople reiterated that the agreement aligns with President Nicolás Maduro’s strategy to revitalize the state oil sector and attract investment, while emphasizing that further information will be provided once contractual negotiations are finalized. The Assembly’s endorsement marks a key step toward implementing the large‑scale plan, which could reshape Venezuela’s role in global oil markets if the deal proceeds as outlined.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:18",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-528",
-    "title": "US Treasury Secretary urges G20 to address trade imbalances with China",
-    "slug": "us-treasury-secretary-urges-g20-to-address-trade-imbalances-with-china",
-    "content": "U.S. Treasury Secretary Janet Bessent called on the other members of the Group of Twenty to intensify safeguards against a surge of Chinese imports that she said threatens the competitiveness of their domestic industries. Speaking at a G20 finance ministers’ gathering in New York, Bessent warned that the current pace of Chinese export growth, bolstered by state subsidies and alleged dumping practices, is creating trade distortions that could undermine the economic stability of participating economies.\n\nBessent urged the G20 to adopt coordinated policy tools, including tighter anti‑dumping investigations, enhanced customs enforcement and, where appropriate, targeted tariff measures. She highlighted recent data showing a sharp rise in Chinese shipments of steel, electronics and apparel to the United States and other major markets, which has contributed to a widening trade deficit and heightened pressure on local manufacturers. The Treasury Secretary also stressed the need for transparent dialogue with Beijing to address unfair trade practices while preserving the broader framework of global commerce.\n\nThe Treasury Department will work with its G20 counterparts to develop a shared strategy that balances open markets with protective measures, aiming to mitigate the impact of subsidized Chinese goods while avoiding broader escalation of trade tensions. The outcome of these discussions is expected to shape forthcoming policy proposals in the participating countries’ legislative bodies.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:12",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-527",
-    "title": "US House passes funding bill to avoid shutdown, extends funding to December",
-    "slug": "us-house-passes-funding-bill-to-avoid-shutdown-extends-funding-to-december",
-    "content": "Washington — A short‑term funding measure enacted by Congress provides a temporary extension that allows lawmakers to continue operating the federal government while they negotiate a full budget for fiscal year 2027. The legislation, a stopgap appropriations bill, was passed with bipartisan support and is set to take effect immediately, averting an imminent shutdown.\n\nUnder the terms of the measure, Congress has until the end of December to pass a comprehensive appropriations package that fully funds all federal agencies for the 2027 fiscal year, which begins on October 1, 2026. Failure to meet the deadline could result in a lapse of funding and a potential partial shutdown of government services. The extension gives policymakers additional time to resolve budgetary disputes and align spending with the administration’s fiscal priorities before the final funding bill is enacted.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:07",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-526",
-    "title": "Cisco faces allegations of hostile workplace targeting Muslim and Arab employees",
-    "slug": "cisco-faces-allegations-of-hostile-workplace-targeting-muslim-and-arab-employees",
-    "content": "Cisco employees have filed complaints alleging that they faced harassment after organizing an internal campaign to oppose the company’s sale of networking and surveillance technology to the Israeli military. The employees, who are part of a loosely coordinated group of engineers and analysts, circulated petitions and held virtual meetings in late 2023 and early 2024 urging Cisco to halt contracts that could be used in operations in the Gaza Strip. According to the complaints filed with the U.S. Equal Employment Opportunity Commission, several participants reported being subjected to intimidation, exclusion from projects, and negative performance reviews after management learned of their activism.\n\nCisco has responded that it does not tolerate retaliation and that all employees are free to express views on public policy, while also emphasizing that its products are sold to a wide range of customers under strict compliance guidelines. The company’s legal team indicated that an internal review is underway to assess the allegations and that any confirmed misconduct will be addressed in accordance with corporate policy. The case highlights ongoing tensions within multinational tech firms over the ethical implications of supplying equipment that may be used in conflict zones, and it adds to broader scrutiny of corporate involvement in the Israel‑Gaza war.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:12:01",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-525",
-    "title": "Enzo Fernandez signs for Manchester City from Chelsea for £125 million",
-    "slug": "enzo-fernandez-signs-for-manchester-city-from-chelsea-for-125-million",
-    "content": "Argentina midfielder Enzo Fernández, a key figure in the South American nation’s recent World Cup campaign, has completed a transfer to Manchester City from Chelsea in a deal reported to be worth £125 million (approximately $169 million). The move, confirmed by both clubs on Wednesday, marks one of the most expensive signings in Premier League history and brings the 23‑year‑old to a side that secured the league title last season under manager Pep Guardiola.\n\nCity’s acquisition of Fernández adds a versatile central midfielder to a squad already boasting depth across all positions, while Chelsea secures a substantial fee as it restructures its roster. The Argentine international, who earned 15 caps and scored three goals for his country, is expected to join City’s pre‑season preparations ahead of the upcoming campaign, completing a high‑profile transfer that underscores the continued financial clout of the English club.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:11:56",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260901-524",
-    "title": "Ariana Grande ends tour and steps back from public life",
-    "slug": "ariana-grande-ends-tour-and-steps-back-from-public-life",
-    "content": "The performer concluded her latest tour on Saturday with an emotional farewell, describing the series of shows as her “last hurrah.” The final concert, held at a sold‑out venue, featured a setlist that spanned the artist’s career, and she addressed the audience directly, thanking fans for their support and acknowledging the significance of the moment.\n\nIndustry observers noted that the tour marked the end of a multi‑year promotional cycle for the star’s most recent album, and the artist’s remarks suggest a potential shift in her professional focus. While no official retirement has been announced, the farewell underscores a definitive closing chapter for this phase of her public performances.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 5:11:50",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
