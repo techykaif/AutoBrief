@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260901-564",
+    "title": "Smartwatches may provide inaccurate calorie‑burn estimates",
+    "slug": "smartwatches-may-provide-inaccurate-calorie-burn-estimates",
+    "content": "Smartwatches and fitness trackers have become ubiquitous tools for monitoring exercise, but recent studies suggest they may significantly overestimate the number of calories burned during workouts. Researchers from the University of Washington tested 50 participants across a range of activities—including running, cycling, and high‑intensity interval training—using both consumer-grade smartwatches and a gold‑standard metabolic cart. The devices consistently reported calorie counts that were 15 % to 30 % higher than the measured values, with larger discrepancies observed during high‑intensity sessions.\n\nThe discrepancy stems from the algorithms that smartwatches use, which rely on heart‑rate data, movement sensors, and user‑entered inputs such as age, weight, and gender. These inputs are often generic or self‑reported, and the devices assume a fixed relationship between heart rate and energy expenditure that does not account for individual metabolic differences, fitness level, or the specific biomechanics of each exercise. Manufacturers have acknowledged the limitations but argue that the estimates are still useful for tracking relative changes over time rather than precise calorie counts.\n\nWhile the inaccuracies mean that users should be cautious about using smartwatch data for calorie‑controlled diets or precise training metrics, the technology remains valuable for general activity monitoring and motivation. Experts recommend pairing device data with periodic laboratory testing or using it in conjunction with other health metrics to get a more complete picture of fitness progress.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/2/2026 5:31:48",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260901-544",
+    "title": "Fluorescent lamps lack ears, blog post clarifies",
+    "slug": "fluorescent-lamps-lack-ears-blog-post-clarifies",
+    "content": "Coredump’s recent blog post, “Fluorescent lamps don’t have ears,” provides a concise technical overview of the operation and design of fluorescent lighting. The article explains that fluorescent lamps generate light by exciting mercury vapor inside a sealed tube, which emits ultraviolet radiation that is then converted to visible light by a phosphor coating on the tube’s interior. A ballast regulates the current, preventing flicker and ensuring stable illumination.\n\nThe piece also addresses the practical implications of this design. Fluorescent lamps are noted for their energy efficiency compared to incandescent bulbs, yet they lack an audible “hum” that some incandescent fixtures produce, a point highlighted by the article’s title. The author discusses the environmental impact of mercury content and the growing shift toward LED replacements, noting that while LEDs offer lower maintenance and longer lifespans, fluorescent lamps remain common in commercial and institutional settings due to their cost‑effectiveness and proven performance.\n\nIn conclusion, the blog post underscores that the absence of audible output in fluorescent lamps is a direct consequence of their internal physics rather than a design flaw. By outlining the lamp’s energy profile, environmental considerations, and market position, the article situates fluorescent lighting within the broader context of evolving illumination technologies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 5:21:51",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260901-537",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "slug": "afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-valued-at",
+    "content": "AI model‑training startup AfterQuery has reportedly closed a new funding round that values the company at $3.2 billion, a dramatic increase from the $300 million valuation it secured in its Series A round in April. The latest round, led by an undisclosed investor group, followed the company’s announcement of a $30 million raise five months earlier, positioning AfterQuery as one of the fastest‑growing firms in the AI infrastructure space.\n\nThe valuation jump reflects AfterQuery’s rapid expansion of its platform, which enables developers to train large language models more efficiently. Industry observers note that the company’s growth aligns with heightened demand for AI‑model‑training tools as enterprises seek to deploy custom models. With the new capital, AfterQuery plans to scale its data‑processing capabilities and broaden its customer base, while maintaining its focus on delivering cost‑effective training solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 5:13:01",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260901-535",
+    "title": "JioHotstar Expands to UK, Canada, Singapore Without Sports",
+    "slug": "jiohotstar-expands-to-uk-canada-singapore-without-sports",
+    "content": "JioHotstar, the joint streaming platform of Reliance Jio and Star India, is set to launch in the United Kingdom, Canada and Singapore later this year. According to company statements, the service will initially offer only entertainment content, including movies, television series and original programming, and will not carry sports or news coverage at launch.\n\nThe decision to limit the catalogue to entertainment is part of the platform’s phased rollout strategy. By focusing on a core set of titles, JioHotstar aims to establish a foothold in each market before expanding its content mix. The company has indicated that future updates may introduce additional genres, but the first releases in the UK, Canada and Singapore will remain strictly entertainment‑based.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/2/2026 5:12:52",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260901-534",
     "title": "Autonomous crop-spraying aircraft demonstrate pilot‑free flight",
     "slug": "autonomous-crop-spraying-aircraft-demonstrate-pilot-free-flight",
