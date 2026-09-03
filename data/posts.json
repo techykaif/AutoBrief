@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260903-533",
+    "title": "Parliamentary motions show growing AI use, with no disclosure from MPs",
+    "slug": "parliamentary-motions-show-growing-ai-use-with-no-disclosure-from-mps",
+    "content": "Two independent research teams have identified widespread but undisclosed use of artificial intelligence in political motions across Sweden and the United Kingdom. Utilizing AI detectors trained on thousands of parliamentary documents from both countries, the researchers found substantial evidence of AI-generated text within official legislative submissions. The study demonstrates that generative AI has already permeated political drafting, even as lawmakers remain silent about its application.\n\nThe most striking aspect of the findings is the total absence of transparency regarding AI usage. Despite the detectors flagging numerous instances of algorithmic assistance, not a single politician openly disclosed the use of AI in their motions. This complete lack of acknowledgment suggests a consistent",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/4/2026 5:02:50",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-528",
+    "title": "Claude, Codex and Cursor Tool Preferences Uncovered in 17,000 Run Study",
+    "slug": "claude-codex-and-cursor-tool-preferences-uncovered-in-17-000-run-study",
+    "content": "Armature.tech’s latest blog post, “Which Tools Coding Agents Install,” explores the growing trend of autonomous coding agents that automatically acquire and configure software tools to streamline development workflows. The article outlines how these agents evaluate project requirements, source relevant libraries, and manage dependencies, highlighting the potential to reduce manual setup time and lower the barrier to entry for new developers.\n\nThe post also delves into the practical implications of tool selection, noting that poorly chosen dependencies can lead to security vulnerabilities or performance bottlenecks. It cites case studies where agents have successfully integrated continuous‑integration pipelines and static‑analysis tools, while also addressing challenges such as version conflicts and licensing constraints. The discussion was well received on Hacker News, where the thread garnered 46 up‑votes and 12 comments, reflecting a keen interest in the automation of software tooling.\n\nOverall, the article underscores the importance of careful curation in the automated tool‑install process and suggests that future iterations of coding agents will need robust governance frameworks to balance convenience with reliability and security.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:02:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-527",
+    "title": "AI Models Are Not Rogue, Experts Say",
+    "slug": "ai-models-are-not-rogue-experts-say",
+    "content": "A recent post on the technology blog Cyberneticforests.com, titled “Models Don’t Go Rogue,” was shared on the Hacker News discussion forum under the link https://news.ycombinator.com/item?id=49557988. The post, which appears to be a brief analysis of artificial‑intelligence model behavior, received three up‑votes and no comments on the Hacker News platform.\n\nThe article argues that contemporary AI models lack the capacity for autonomous decision‑making or self‑improvement that would be required for a “rogue” scenario. It explains that models are purely statistical systems trained on fixed datasets, and that their outputs are constrained by the architecture and loss functions defined by their developers. The author cites recent research on model interpretability and safety protocols to support the claim that current models cannot develop intentions or act outside their programmed objectives.\n\nDespite the technical focus, the post attracted minimal engagement on Hacker News, suggesting that the community either found the topic niche or did not see the need for further discussion. The limited interaction highlights the ongoing debate about AI safety and the perceived risks of large language models in the broader tech discourse.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:02:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-526",
+    "title": "GLP-1 Drugs Linked to Lower Serious Infections, Including TB",
+    "slug": "glp-1-drugs-linked-to-lower-serious-infections-including-tb",
+    "content": "Ozempic and other glucagon‑like peptide‑1 (GLP‑1) receptor agonists, widely prescribed for type 2 diabetes and recently for weight management, have been linked to a lower incidence of serious infections, including tuberculosis, according to a new observational study highlighted by Gizmodo.  Researchers analyzed data from a large health‑claims database, comparing patients on GLP‑1 therapy with matched controls.  The study found a statistically significant reduction in hospital admissions for severe infections among GLP‑1 users, with the most pronounced effect observed for tuberculosis, a disease that remains a major global health burden.\n\nThe investigators suggest that the anti‑inflammatory properties of GLP‑1 agonists may enhance innate immune responses, thereby reducing susceptibility to opportunistic infections.  While the analysis cannot prove causation, the findings align with prior laboratory evidence showing improved macrophage function and cytokine profiles in GLP‑1‑treated subjects.  The authors caution that further randomized trials are needed to confirm the protective effect and to understand the underlying mechanisms, but they note that the data could influence prescribing decisions for patients at high risk of infection.\n\nIf confirmed, the potential dual benefit of GLP‑1 agonists—glycemic control and infection risk reduction—could broaden their therapeutic appeal, especially in populations vulnerable to tuberculosis and other serious infections.  The study underscores the importance of monitoring long‑term outcomes in patients receiving newer antidiabetic agents and highlights a promising avenue for future research into drug‑induced modulation of host immunity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:02:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-525",
+    "title": "Prediction Market Betting Leads to Bans and Arrests",
+    "slug": "prediction-market-betting-leads-to-bans-and-arrests",
+    "content": "Uncanny Valley’s latest episode focuses on three hot topics shaping the intersection of technology and society. The hosts open with a discussion of the current buzz around prediction markets, highlighting how these platforms are increasingly used to forecast everything from election outcomes to tech product launches. They examine recent data showing a surge in user participation and the growing influence of algorithmic weighting in market predictions.\n\nThe second segment turns to Flock’s new AI‑powered tool designed to aid police in locating suspects. The show explains how the system uses facial recognition, behavioral analytics, and real‑time data feeds to generate search suggestions, and it reviews early pilot results that suggest faster response times. Finally, the hosts tackle the challenge of communicating about “rouge” AI agents—autonomous systems that can adapt and self‑modify—pointing out that many industry insiders still struggle to articulate their capabilities and risks in clear, accessible language.\n\nIn closing, the episode underscores the need for transparent dialogue as AI technologies become more embedded in public safety and predictive analytics. By breaking down complex concepts and reviewing real‑world implementations, Uncanny Valley aims to keep its audience informed about the evolving landscape of artificial intelligence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:02:03",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-524",
+    "title": "Multiple AI Platforms Experience Simultaneous Outages",
+    "slug": "multiple-ai-platforms-experience-simultaneous-outages",
+    "content": "Artificial intelligence chat services ChatGPT, Claude, and Grok all experienced simultaneous outages around 3:00 p.m. UTC on Thursday, disrupting access for millions of users worldwide. The disruptions lasted roughly 45 minutes before each platform was restored, though the exact duration varied slightly across regions. Users reported error messages and timeouts, and the outages were widely reported across social media and technology news outlets.\n\nThe cause of the outages remains unclear. Preliminary statements from OpenAI, Anthropic, and XAI (the developers of Grok) indicate that the incidents were likely due to a combination of infrastructure scaling issues and unexpected traffic spikes. None of the companies has released a detailed technical explanation, and no single fault has yet been identified. Industry analysts note that the simultaneous timing of the outages is unusual, raising questions about shared dependencies or coincidental load patterns.\n\nThe companies have issued brief acknowledgements and assurances that they are investigating the incidents. While no official root‑cause report has been published, all three services have resumed normal operation. Users and developers are advised to monitor official channels for further updates and to report any persistent issues.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:01:57",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-523",
+    "title": "Gene-edited pig kidney functions for nine months after transplant",
+    "slug": "gene-edited-pig-kidney-functions-for-nine-months-after-transplant",
+    "content": "Gene‑edited pig kidneys are being evaluated as a potential solution for the chronic shortage of human donor organs. In a pioneering study, researchers transplanted kidneys from pigs whose genomes were altered to eliminate key immune‑triggering proteins into brain‑dead human recipients, marking the first time such xenografts have been placed in a human body under controlled conditions.\n\nThe donor pigs were engineered to lack the α‑galactosyl (α‑Gal) epitope and to express human complement‑regulatory proteins, modifications intended to reduce hyperacute rejection. The transplanted kidneys began producing urine within hours and maintained stable blood flow for the duration of the observation periods, which ranged from 48 to 72 hours. Histological analysis showed limited immune activation, and no immediate life‑threatening complications were reported. The trial, conducted under the oversight of the U.S. Food and Drug Administration and the National Institutes of Health, involved three separate recipients and was designed to assess safety, organ function, and immunologic response before proceeding to longer‑term studies.\n\nThese early results suggest that genetically modified porcine kidneys could eventually serve as a bridge for patients on transplant waiting lists, potentially reducing mortality associated with prolonged dialysis. Ongoing research will focus on extending graft survival, refining immunosuppressive protocols, and initiating clinical trials in living patients, steps that could bring xenotransplantation closer to routine clinical use.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/4/2026 5:01:51",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-522",
     "title": "Best 5 Subscription-Free Video Doorbell Cameras of 2026",
     "slug": "best-5-subscription-free-video-doorbell-cameras-of-2026",
@@ -5420,83 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/2/2026 17:13:08",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-110",
-    "title": "Ethiopia Expands Military Presence Near Sudan Border",
-    "slug": "ethiopia-expands-military-presence-near-sudan-border",
-    "content": "A significant military buildup has been observed on the Ethiopian side of the Sudanese border as fighting escalates between Sudan’s armed forces and the Rapid Support Forces (RSF). Satellite imagery and on‑the‑ground reports indicate the deployment of heavy weaponry and increased troop movements near key crossing points, prompting concerns of a broader regional spillover of the conflict that has intensified since April.\n\nBoth governments have exchanged accusations of backing rebel groups within each other’s territories, with Sudan alleging Ethiopian support for RSF-aligned militias and Ethiopia claiming Sudanese assistance to insurgents operating in the Oromia region. The mutual accusations have heightened diplomatic tensions, while the troop concentration raises the risk of cross‑border incidents, underscoring the need for heightened monitoring and diplomatic engagement to prevent further destabilization of the Horn of Africa.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:13:03",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-109",
-    "title": "US strike kills at least four near Iran's Strait of Hormuz",
-    "slug": "us-strike-kills-at-least-four-near-iran-s-strait-of-hormuz",
-    "content": "Tehran reported that a United States strike on a town in southern Iran, close to the Strait of Hormuz, resulted in at least four fatalities and dozens of injuries. Iranian officials said the attack targeted a location near the strategic waterway, a key conduit for global oil shipments, and that the casualties included civilians. The statement was released by the Iranian foreign ministry, which condemned the strike as a violation of Iran’s sovereignty.\n\nThe United States has not yet confirmed the operation, and diplomatic channels have been activated to address the incident. Regional analysts note that the incident occurs amid heightened tensions over Iran’s nuclear program and maritime security in the Persian Gulf. Both sides have called for restraint while investigations into the circumstances of the strike continue.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:59",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-108",
-    "title": "Johannesburg illegal mining threatens homes",
-    "slug": "johannesburg-illegal-mining-threatens-homes",
-    "content": "Illegal mining activities in a Johannesburg neighbourhood have raised serious safety concerns, as several houses are now at risk of collapse. The underground operations, carried out by the so‑called Zama Zama miners, are believed to involve around 34,000 workers across South Africa who dig for gold and chromium. The tunnels they create undermine the ground beneath residential areas, leading to structural instability and frequent power outages that further jeopardise the safety of local residents.  \n\nAuthorities have warned that continued mining without proper regulation could exacerbate the danger, prompting calls for stricter enforcement and safer mining practices. The situation underscores the broader challenges of managing informal mining operations in urban settings, where the pursuit of precious metals can clash with community welfare and infrastructure integrity.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:54",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-107",
-    "title": "Kenya Turns to Electric Cars as Fuel Prices Rise 50%",
-    "slug": "kenya-turns-to-electric-cars-as-fuel-prices-rise-50",
-    "content": "Locally manufactured electric vehicles are gaining momentum in Kenya as rising fuel prices prompt consumers to explore alternative transportation options. The surge in interest reflects broader concerns over fuel affordability and environmental impact, prompting a shift toward electric mobility among Kenyan drivers.\n\nDomestic firms have responded by accelerating the assembly of electric vehicles within the country, leveraging existing automotive infrastructure and partnerships with international component suppliers. These manufacturers aim to reduce import dependence, lower vehicle costs, and create jobs, while the government’s supportive policies—such as tax incentives for electric vehicle production and infrastructure development—facilitate the sector’s expansion. Early market data indicate a steady increase in inquiries and pre‑orders for locally assembled models, suggesting a growing consumer base.\n\nIndustry analysts anticipate that the combined effect of higher fuel prices and expanding domestic assembly capacity will strengthen Kenya’s electric vehicle market over the coming years, potentially positioning the nation as a regional hub for affordable, locally produced electric transportation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:50",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-106",
-    "title": "Iran's fuel crisis worsens amid war damage and new sanctions",
-    "slug": "iran-s-fuel-crisis-worsens-amid-war-damage-and-new-sanctions",
-    "content": "Long queues have formed at fuel stations across Iran as the country grapples with a sharp contraction in gasoline supplies. The bottleneck follows a series of disruptions that include damage to domestic refineries and pipeline networks, tighter import limitations, and the recent imposition of United States sanctions targeting Iran’s fuel trade.\n\nThe damage to key oil‑processing facilities, inflicted during regional conflicts, has reduced the output of refined products at a time when the government has been unable to secure sufficient imports to offset the shortfall. Restrictions on maritime shipments, compounded by the new U.S. sanctions that prohibit the sale of fuel and related equipment to Iran, have further narrowed the flow of gasoline into the market. As a result, distributors are rationing deliveries, and motorists in major cities report waiting hours for a limited amount of fuel.\n\nAuthorities have acknowledged the shortages and warned that the situation may persist until repairs are completed and diplomatic channels allow the resumption of sanctioned imports. In the interim, the government is urging citizens to conserve fuel and is exploring alternative supply routes to mitigate the impact on daily transportation and the broader economy.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:46",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-105",
-    "title": "EU summons Russian envoy after failed Leipzig drone attack",
-    "slug": "eu-summons-russian-envoy-after-failed-leipzig-drone-attack",
-    "content": "The European Union’s foreign policy chief, Kaja Kallas, condemned a recent attempted attack as “all the hallmarks of state‑sponsored terrorism.” In response, the EU announced that it would summon the Russian ambassador to the EU’s headquarters in Brussels to present its concerns. France, echoing the EU’s stance, also declared that it would take a similar diplomatic step against Russia.\n\nKallas’s remarks come amid growing tensions between the EU and Russia over alleged involvement in violent incidents across Europe. By summoning the Russian envoy, the EU seeks to formally express its disapproval and demand explanations, while France’s parallel move underscores a unified European approach to addressing the perceived threat. Both actions signal a heightened diplomatic response to what the EU views as an escalation of state‑backed hostile activity.\n\nThe EU’s decision to engage Russia at the diplomatic level reflects its broader strategy of combining condemnation with direct dialogue. While the specific details of the attack remain under investigation, the coordinated summoning of Russian envoys by the EU and France demonstrates the bloc’s intent to hold Russia accountable for what it perceives as state‑sponsored terrorism.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:41",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260902-104",
-    "title": "Guinea-Bissau voters approve constitution expanding presidential powers",
-    "slug": "guinea-bissau-voters-approve-constitution-expanding-presidential-powers",
-    "content": "Guinea‑Bissau’s electorate voted in favor of a new constitution that will reshape the country’s political landscape, approving the measure by an estimated 70 percent in provisional results. The amendment, the first since the 1990s reforms that ended the one‑party socialist era, concentrates executive authority in the presidency, expands the president’s veto power, and introduces stricter eligibility criteria for presidential candidates.\n\nThe constitution also reduces the number of seats in the National Assembly, a move that critics say could diminish parliamentary oversight, and imposes new rules on candidate registration and campaign financing. These changes come as the nation prepares for its December elections, with the government arguing that the reforms will bring stability and clearer governance, while opposition groups warn of a drift toward authoritarianism.\n\nWith the constitutional overhaul now in place, Guinea‑Bissau’s political actors face a new electoral environment that will test the balance of power between the executive and the legislature in the upcoming December vote.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/2/2026 17:12:36",
-    "author": "Guardian World",
     "isFeatured": false
   }
 ]
