@@ -5,6 +5,7 @@ import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "luc
 import { Badge } from "@/components/ui/badge"
 
 const SITE_URL = "https://autobrief-ai.vercel.app"
+const AUTHOR_URL = "https://techykaif.site"
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -22,6 +23,7 @@ const organizationSchema = {
   founder: {
     "@type": "Person",
     name: "Mohd Kaif Ansari",
+    url: AUTHOR_URL,
     jobTitle: "Founder & Developer",
   },
 }
@@ -193,7 +195,7 @@ export default function AboutPage() {
                     GitHub
                   </a>
                   <a
-                    href={SITE_URL}
+                    href={AUTHOR_URL}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
