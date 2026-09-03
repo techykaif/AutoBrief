@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260903-041",
+    "title": "Alcohol-Related Cancer Deaths in U.S. Double Since 1990, Impacting Younger Adults",
+    "slug": "alcohol-related-cancer-deaths-in-u-s-double-since-1990-impacting-younger-adults",
+    "content": "A new study has found that alcohol‑attributable cancer deaths in the United States have doubled between 1990 and 2023. The increase is not confined to older adults or to liver cancer, traditionally viewed as the primary alcohol‑related malignancy, indicating a broader and growing public‑health challenge.\n\nAmong adults aged 20 to 54, the leading alcohol‑related cancer death differs by sex: colorectal cancer tops the list for men, while breast cancer is the foremost cause for women. The analysis also documents rising mortality from colorectal, esophageal, pancreatic and several other cancers linked to alcohol consumption, underscoring an expanding burden across multiple cancer types.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/3/2026 5:51:45",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-028",
     "title": "Five-metal 2D catalysts could convert CO₂ to CO without needing an extra electrical boost",
     "slug": "five-metal-2d-catalysts-could-convert-co-to-co-without-needing-an-extra-electric",
@@ -5485,17 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "9/1/2026 3:12:45",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-141",
-    "title": "98% of Insurance Claims Adjusters Dislike AI",
-    "slug": "98-of-insurance-claims-adjusters-dislike-ai",
-    "content": "A recent analysis of Glassdoor reviews submitted by claims adjusters shows that 98 percent of the comments that mention artificial intelligence (AI) are negative. The data, compiled from thousands of employee evaluations, highlights a pervasive skepticism among frontline insurance workers about the integration of AI into their daily responsibilities.\n\nAdjusters cited concerns that AI, while technically a “tool,” should not be entrusted with autonomous decision‑making. One reviewer told WIRED, “AI is just a tool. It should never be given the keys.” The overwhelming negative sentiment underscores ongoing debate within the insurance sector about the appropriate role of AI in claims processing and risk assessment.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/1/2026 3:12:40",
     "author": "Wired",
     "isFeatured": false
   }
