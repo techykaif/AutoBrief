@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260903-028",
+    "title": "Five-metal 2D catalysts could convert CO₂ to CO without needing an extra electrical boost",
+    "slug": "five-metal-2d-catalysts-could-convert-co-to-co-without-needing-an-extra-electric",
+    "content": "Carbon dioxide (CO₂) has long been framed as a pollutant to be eliminated, with emissions from fossil‑fuel combustion for electricity, transportation and industry contributing the bulk of the gas that accumulates in the atmosphere. The prevailing narrative links rising CO₂ levels to the climate crisis, prompting governments and companies to set targets for reduction and removal.  \n\nA growing body of research now examines whether the same CO₂ can be captured and repurposed, turning a climate‑change driver into a feedstock for industrial processes. Scientists are developing technologies that convert captured CO₂ into chemicals, fuels, building materials and other products, thereby creating a circular carbon loop that could lower net emissions while supplying raw materials. Early pilot projects and laboratory studies suggest that, with sufficient scale and economic viability, such carbon‑utilisation pathways could complement traditional mitigation strategies and re‑integrate CO₂ into the manufacturing cycle.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/3/2026 5:42:37",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-023",
+    "title": "Martin Fowler on Selective Code Review Practices",
+    "slug": "martin-fowler-on-selective-code-review-practices",
+    "content": "Martin Fowler’s blog recently published an article titled “Code Review,” written by Rachel, that examines the practice of peer review in software development. The piece outlines how code review can improve code quality, reduce defects, and foster a culture of collaboration among developers. It also discusses the challenges that teams face when implementing review processes and offers practical guidance on how to overcome them.\n\nKey details in the article include the importance of setting clear objectives for each review, establishing a structured workflow, and leveraging automated tools to streamline the process. Rachel highlights common pitfalls such as overly critical feedback, lack of context, and time pressure, and recommends strategies like pairing reviewers, encouraging constructive dialogue, and tracking metrics to measure the impact of reviews. The article cites empirical studies and industry examples to illustrate how disciplined code review can lead to faster delivery and better maintainability.\n\nThe article has generated discussion on Hacker News, where it has received 26 points and 27 comments, reflecting its relevance to developers and engineering leaders. It serves as a concise resource for teams looking to refine their code review practices and underscores the enduring value of peer review in modern software engineering.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 5:42:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-022",
+    "title": "METR Releases Report on OpenAI and Hugging Face Hacking Incident",
+    "slug": "metr-releases-report-on-openai-and-hugging-face-hacking-incident",
+    "content": "On August 26, 2026, Metr.org published a detailed investigation into an incident involving OpenAI and Hugging Face that raised questions about data governance and model deployment practices. The blog post, titled “Core Takeaways About This Incident,” outlines how a misconfigured deployment exposed sensitive user data and highlighted overlapping responsibilities between the two companies for ensuring privacy and security.\n\nThe investigation found that the breach was triggered by a combination of insufficient API access controls and a lack of comprehensive audit logging. Both OpenAI and Hugging Face admitted that their incident‑response protocols were not fully aligned, allowing the exposure to persist longer than necessary. The report recommends stricter access‑control policies, enhanced monitoring of model usage, and clearer contractual obligations for third‑party collaborations to prevent similar events.\n\nThe findings have prompted both firms to review and tighten their security frameworks, and the discussion on Hacker News—where the post received 35 points and 14 comments—underscores the broader community’s concern over AI safety and cross‑company accountability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 5:42:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260903-021",
+    "title": "Amazon raises prices on Kindle, Echo, Eero, and Fire TV devices before holiday season",
+    "slug": "amazon-raises-prices-on-kindle-echo-eero-and-fire-tv-devices-before-holiday-seas",
+    "content": "Amazon has raised the list prices of several of its flagship consumer electronics, including Kindle e‑readers, Echo smart speakers, Eero mesh routers and Fire TV streaming devices, as the company prepares for the upcoming holiday shopping period. The adjustments, announced on the retailer’s website early this week, affect multiple models across each product line, with price increases ranging from a few dollars to double‑digit percentages depending on the item.\n\nIndustry analysts note that the timing aligns with a broader trend of retailers tightening margins ahead of the high‑spending season, while also reflecting higher component and logistics costs reported across the technology sector. Amazon has not provided a detailed explanation for the hikes, but the changes are expected to influence consumer budgeting and could prompt shoppers to seek alternative brands or wait for promotional discounts later in the year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 5:41:53",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260903-020",
     "title": "Uber beats Waymo to launch first robotaxi service in London",
     "slug": "uber-beats-waymo-to-launch-first-robotaxi-service-in-london",
@@ -5453,50 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/1/2026 3:12:40",
     "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-140",
-    "title": "Why Food Keeps Making Everybody Sick This Summer",
-    "slug": "why-food-keeps-making-everybody-sick-this-summer",
-    "content": "The United States has seen a sharp increase in reported foodborne illnesses this summer, with health officials documenting a rise in cases linked to bacterial and parasitic pathogens. Federal reports attribute part of the surge to reductions in food‑safety funding and staffing that were implemented during the Trump administration, which trimmed budgets for the USDA’s Food Safety Inspection Service and the FDA’s Food Safety Modernization Act programs.\n\nBeyond the budgetary cuts, experts point to structural weaknesses in the national food supply chain that heighten the risk of contamination. The system’s reliance on large, centralized processing facilities, extensive interstate distribution networks, and a growing share of imported produce creates multiple points where pathogens such as Salmonella, E. coli, Cyclospora and Giardia can enter and spread. Additional factors—including labor shortages in inspection crews, limited real‑time traceability technology, and seasonal temperature spikes that favor bacterial growth—compound the vulnerability, making rapid detection and response more challenging.\n\nOfficials emphasize that addressing the current outbreak will require both restored funding for inspection and regulatory programs and longer‑term reforms to improve supply‑chain transparency, bolster sanitation standards, and enhance monitoring of high‑risk foods. Without such measures, the United States remains exposed to recurring episodes of foodborne disease.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/1/2026 3:12:36",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-139",
-    "title": "Former Rep. George Santos receives lifetime ban from Kalshi and $71,000 fine",
-    "slug": "former-rep-george-santos-receives-lifetime-ban-from-kalshi-and-71-000-fine",
-    "content": "A former U.S. Representative has been fined more than $71,000 after an investigation found that the individual had attempted to manipulate a prediction market. The fine was imposed by the relevant U.S. regulatory authority following a review of the Representative’s trading activity and communications that suggested an effort to influence market outcomes for personal gain.\n\nThe investigation revealed that the former lawmaker used insider information and coordinated trades to shift the odds on a popular prediction platform that tracks political events. The regulatory body cited violations of market‑fairness rules and concluded that the actions undermined the integrity of the market. The fine represents the maximum penalty under the applicable statutes for such conduct, and the Representative has been barred from participating in any regulated trading activity for a period of time.\n\nThe enforcement action underscores the broader effort to maintain transparency and fairness in prediction markets. It serves as a reminder that former public officials are subject to the same regulatory standards as other market participants, and it signals that attempts to manipulate market outcomes will be met with significant penalties.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/1/2026 3:12:30",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-137",
-    "title": "Asus ProArt 27 QD‑OLED (PA279cdv) Review: Affordable HDR Display",
-    "slug": "asus-proart-27-qd-oled-pa279cdv-review-affordable-hdr-display",
-    "content": "Asus has unveiled a new monitor aimed at video‑editing professionals that supports full high‑dynamic‑range (HDR) playback, offering an alternative to the higher‑cost OLED panels that have traditionally dominated the market. The display features a 4K resolution panel with HDR10 certification, a peak brightness of 600 nits, and a wide color gamut covering 99 percent of the DCI‑P3 spectrum, enabling creators to work with accurate, vibrant images without the premium price tag associated with OLED technology. Priced in the mid‑range segment, the monitor positions itself as a more accessible option for freelancers, small studios, and other users who require HDR‑capable editing tools but have been constrained by budget.\n\nIndustry analysts note that the introduction of an HDR‑ready, non‑OLED monitor expands the toolkit available to content creators, potentially lowering the barrier to high‑quality video production. By combining a high refresh rate, low input lag, and factory‑calibrated color accuracy, the Asus model seeks to meet the demands of professional workflows while remaining within reach of a broader audience. The launch reflects a growing trend toward more affordable, high‑performance displays that cater to the evolving needs of the digital media industry.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/1/2026 3:12:20",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260831-136",
-    "title": "New York governor vows action against Cody Wilson's 3D‑printed gun circumvention tool",
-    "slug": "new-york-governor-vows-action-against-cody-wilson-s-3d-printed-gun-circumvention",
-    "content": "Cody Wilson, the inventor of the first 3‑D printed handgun, unveiled a new software tool last week that is designed to bypass a New York law banning the production of firearms with 3‑D printers. The announcement, which included a taunt directed at Governor Kathy Hochul, sparked immediate backlash from state officials. Hochul responded in an episode of the podcast *Decoder*, stating that she would not allow the tool to undermine New York’s gun‑control legislation. She emphasized that the law explicitly prohibits the creation of 3‑D printed guns within the state and that she would take steps to enforce it.\n\nThe governor’s remarks came as part of a broader effort to tighten enforcement of the 2023 New York law, which was enacted in response to the proliferation of homemade firearms. Hochul noted that she could not always be at the forefront of every attempt to circumvent the law, but she assured residents that the state would pursue legal and regulatory measures to prevent the use of the new tool. She also warned Wilson that the state would “get ahead of him” and that any attempt to facilitate illegal gun manufacturing would be met with swift action.\n\nThe incident highlights the ongoing tension between technology developers and lawmakers over the regulation of 3‑D printed weapons. While Wilson’s tool represents a new frontier in illicit firearms production, the state’s response underscores a commitment to enforcing existing gun‑control statutes. As the debate continues, New York remains poised to take further steps to close loopholes and protect public safety.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/1/2026 3:12:15",
-    "author": "The Verge",
     "isFeatured": false
   }
 ]
