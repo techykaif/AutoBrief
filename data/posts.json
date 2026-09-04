@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260904-460",
+    "title": "Gene Expression Differences Drive Rescue Behavior in Ants",
+    "slug": "gene-expression-differences-drive-rescue-behavior-in-ants",
+    "content": "Scientists at Johannes Gutenberg University Mainz and Tel Aviv University have uncovered a genetic basis for the differing rescue behaviors observed in the desert ant *Cataglyphis niger*. In a study published in the *Journal of Experimental Biology*, the team compared worker ants that had previously helped nestmates in distress with those that had not. By analyzing gene expression in the ants’ nervous systems, they found that variations in neural gene activity, rather than physical traits such as body size, morphology, or energy reserves, were associated with the propensity to perform rescue acts.\n\nThe researchers collected workers from several colonies and recorded their responses to simulated emergencies, then extracted neural tissue for transcriptomic analysis. The data revealed distinct patterns of gene expression linked to neural signaling pathways, suggesting that certain individuals possess a heightened neural readiness to respond to colony crises. These findings indicate that altruistic behavior in ants may be regulated at the molecular level, offering new insights into the evolution of social cooperation in insects.\n\nThis study highlights the importance of neurogenetic factors in shaping complex social behaviors. By demonstrating that rescue tendencies are rooted in nervous system gene activity, the research opens avenues for further investigation into how environmental and developmental cues influence gene expression and, ultimately, colony dynamics.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/5/2026 5:01:58",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260904-459",
+    "title": "New nanowire LED offers higher efficiency and lower cost",
+    "slug": "new-nanowire-led-offers-higher-efficiency-and-lower-cost",
+    "content": "Researchers at Lund University have engineered a new class of light‑emitting diodes (LEDs) that use thin, branched nanowires to enhance efficiency and reduce manufacturing costs. The team’s findings, published in the journal *Nano Research*, demonstrate that precise control over the location of light generation within the nanowire structure can significantly lower energy losses that typically limit LED performance.\n\nThe nanowire design allows light to be emitted from specific regions of the device, minimizing internal absorption and scattering that would otherwise waste photons. By tailoring the branching geometry and material composition, the researchers achieved a higher proportion of usable light output while maintaining a simple fabrication process. This approach could translate into LEDs that consume less power and are cheaper to produce compared to conventional planar devices.\n\nIf scalable, the technology offers a promising pathway toward more efficient lighting and display systems. The study provides a foundation for future work on integrating branched nanowire LEDs into commercial products, potentially advancing the broader adoption of sustainable illumination solutions.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/5/2026 5:01:54",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260904-458",
+    "title": "MIT Lincoln Lab studies Arctic under‑ice sounds with upgraded geophone sensors",
+    "slug": "mit-lincoln-lab-studies-arctic-under-ice-sounds-with-upgraded-geophone-sensors",
+    "content": "Researchers from MIT Lincoln Laboratory have documented an unprecedented “under‑ice orchestra” of natural and anthropogenic sounds in the Arctic Ocean, using commercial off‑the‑shelf sensors deployed during the U.S. Navy’s Operation Ice Camp (OIC). The initial deployment in 2024 integrated a suite of low‑cost vibration detectors that captured the crackle of sea‑ice fracturing, the whistles of beluga whales, and the low‑frequency hum of nearby shipping‑vessel engines. Analysis of the collected data revealed a complex acoustic landscape, highlighting how both environmental processes and human activity contribute to the region’s soundscape.\n\nIn March 2026, the MIT team returned to the Arctic for OIC 2026 with an upgraded, higher‑fidelity geophone designed to more precisely detect vibrations within the sea ice. The new sensor confirmed earlier findings and provided finer resolution of ice‑crack events and marine mammal vocalizations, while also isolating the acoustic signatures of increased vessel traffic. The research offers a baseline for monitoring changes in Arctic acoustic environments and may inform future studies on ecosystem health and the impact of expanding maritime operations in polar waters.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/5/2026 5:01:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260904-457",
     "title": "Ancient cave art reveals first humans in Ireland came from Wales",
     "slug": "ancient-cave-art-reveals-first-humans-in-ireland-came-from-wales",
@@ -5464,39 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/3/2026 19:43:20",
     "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260903-228",
-    "title": "Parents Adopt Content-Monitoring Apps to Combat Digital Harms",
-    "slug": "parents-adopt-content-monitoring-apps-to-combat-digital-harms",
-    "content": "The Download’s latest edition highlights a growing trend among American parents: a shift toward sophisticated content‑monitoring apps that scan texts, photos, emails and other digital communications for potential harm. As concerns over online bullying, sexting, and extremist content rise, parents are seeking tools that promise real‑time oversight and actionable alerts.\n\nThese new monitoring solutions differ from earlier child‑tracking devices by focusing on the content rather than location. They employ machine‑learning algorithms to flag language or imagery that may indicate risk, and many now offer parental dashboards that provide summaries and suggested interventions. The market for such apps has expanded rapidly, with several startups reporting double‑digit growth in user acquisition. However, privacy advocates warn that the same data‑collection practices that enable safety features can also expose sensitive family information, prompting calls for clearer regulatory standards and transparent data‑handling policies.\n\nWhile the technology offers a potential safety net, its effectiveness hinges on balanced implementation. Parents must weigh the benefits of proactive monitoring against the risks of over‑surveillance and data misuse. As the debate continues, industry players and lawmakers alike are grappling with how to protect children without eroding trust or violating privacy rights.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/3/2026 19:43:12",
-    "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260903-227",
-    "title": "Student Seeks HUD Work Credit for University Degree",
-    "slug": "student-seeks-hud-work-credit-for-university-degree",
-    "content": "A Freedom of Information Act request has uncovered documents in which an undergraduate student at the University of Chicago asked that the work he performed for the U.S. Department of Housing and Urban Development (HUD) be credited toward his degree. The student, who was collaborating with the university’s DOGE (Department of Government and Economics) research program, submitted a formal request to the university’s academic affairs office to have his HUD‑related project count as a required course or research component for his major.\n\nThe released documents detail the student’s rationale, citing the project’s alignment with the curriculum and the substantial hours of research and analysis he completed under HUD’s auspices. They also include correspondence between the student, the DOGE faculty advisor, and the university’s registrar, outlining the procedural steps for petitioning credit for external work. The university’s response, as recorded in the FOIA files, notes that such requests are evaluated on a case‑by‑case basis and that the final decision rests with the department’s academic committee.\n\nThese documents illustrate how the University of Chicago evaluates requests for external work to be recognized as degree credit. The case underscores the university’s formal process for integrating real‑world research experience into academic requirements and highlights the role of FOIA in providing transparency about institutional decision‑making.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/3/2026 19:43:04",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260903-226",
-    "title": "Best Indoor and Outdoor Air Quality Monitors 2026",
-    "slug": "best-indoor-and-outdoor-air-quality-monitors-2026",
-    "content": "WIRED recently evaluated a range of indoor and outdoor air quality monitors, assessing their ability to track pollutants and provide actionable data for homeowners. The devices tested measure key metrics such as particulate matter (PM2.5 and PM10), volatile organic compounds (VOCs), carbon dioxide, and temperature and humidity, offering a comprehensive view of the air within and around a residence.\n\nEach monitor delivers real‑time alerts when pollutant concentrations exceed health‑recommended thresholds, allowing users to take immediate corrective action. The tools also log historical data, enabling users to identify trends, pinpoint sources of contamination, and verify the effectiveness of mitigation measures such as air purifiers or ventilation adjustments.\n\nBy combining continuous monitoring with automated notifications, these WIRED‑tested devices give homeowners a clearer understanding of their environmental conditions and help maintain safer indoor air quality.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/3/2026 19:42:57",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
