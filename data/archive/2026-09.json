@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260902-427",
+    "title": "Democrats Plan to Leverage Trump Property in Midterm Investigations",
+    "slug": "democrats-plan-to-leverage-trump-property-in-midterm-investigations",
+    "content": "Donald Trump’s plans to renovate the West Wing of the White House and to erect a new arch in Washington, D.C. could face significant cuts if the Democratic Party gains control in the upcoming midterm elections.  The West Wing overhaul, originally slated to begin in 2025 and estimated at $200 million, was announced by the Trump administration as a “necessary modernization” of the executive branch’s working spaces.  The D.C. arch, a proposed landmark project aimed at celebrating the city’s historical heritage, would cost an additional $30 million and is currently in the early design phase.\n\nPolitical analysts say that a Democratic majority in Congress would likely use the projects as bargaining chips in broader negotiations over federal spending and policy priorities.  With the House and Senate under new leadership, lawmakers could threaten to stall or defund the renovations and the arch to secure concessions on other legislative items, or they could outright cancel the projects to signal a break from the former administration’s agenda.  The decision will hinge on the balance of power in Washington and the priorities of the incoming majority, who have already signaled a willingness to scrutinize high‑profile spending initiatives from the previous administration.\n\nShould the projects be shelved, the White House would need to reallocate the earmarked funds, potentially redirecting them to other infrastructure or security upgrades.  Conversely, if the renovations and arch proceed, they could serve as a symbolic statement of continuity for the Trump legacy, while also offering the new administration a means to demonstrate fiscal responsibility by negotiating lower costs or phased implementation.  The outcome will be closely watched as a barometer of the new administration’s willingness to cooperate with or challenge the legacy projects of the former president.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:42:03",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-426",
+    "title": "Google Unveils Gemini 3.8 Flash, Boosts Reasoning Steps, Same Intro Pricing",
+    "slug": "google-unveils-gemini-3-8-flash-boosts-reasoning-steps-same-intro-pricing",
+    "content": "Google has rolled out Gemini 3.8 Flash, a new iteration of its AI model that arrives only a few weeks after the release of Gemini 3.7 Flash. The company emphasizes that the updated model “works harder” by executing more reasoning steps on complex tasks and by “calling tools iteratively.” Despite these enhancements, the introductory pricing remains unchanged: $0.75 per million input tokens and $3.75 per million output tokens. However, Google cautions that the model may consume more tokens to achieve higher performance, particularly at elevated effort levels, potentially raising overall costs for users.\n\nDevelopers who prefer tighter control over token usage can continue to rely on Gemini 3.7 Flash. The new release has already begun to generate early feedback and usage data, though the full scope of its impact remains to be seen. For a deeper dive into the launch and its implications, readers can consult the complete article on The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:58",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-425",
+    "title": "Trump Faces Lawsuit Over Secret AI Safety Reviews",
+    "slug": "trump-faces-lawsuit-over-secret-ai-safety-reviews",
+    "content": "A federal lawsuit filed this week alleges that former President Donald Trump conducted secret reviews of frontier artificial‑intelligence models, a practice that could conceal corrupt dealings. The complaint, submitted to the U.S. District Court for the District of Columbia, claims that Trump, while still in office, used his position to influence the development and deployment of advanced AI systems such as OpenAI’s GPT‑4 and Anthropic’s Claude. According to the suit, the reviews were carried out without public oversight, and the plaintiff argues that they were part of a scheme to secure undisclosed benefits for companies that had ties to the former president.\n\nThe lawsuit names several AI firms and a group of former staffers who allegedly provided confidential briefings to Trump. It alleges that the former president received bribes and other perks in exchange for favorable treatment of these companies, including expedited regulatory approvals and preferential access to government contracts. The plaintiff seeks both monetary damages and an injunction to halt any further undisclosed reviews of AI technology by Trump or his associates. The complaint also requests a court order to compel disclosure of all communications related to the alleged reviews.\n\nThe case is still in its early stages, and no court decision has yet been issued. The defendants have not yet responded publicly, and the lawsuit’s claims remain unverified. If the allegations are proven, the case could raise significant questions about the intersection of politics, technology, and ethics in the rapidly evolving field of artificial intelligence.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:53",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-424",
+    "title": "Google launches Gemini 3.8 Flash, third Flash model in six weeks",
+    "slug": "google-launches-gemini-3-8-flash-third-flash-model-in-six-weeks",
+    "content": "Google has halted the rollout of updates to its Gemini Pro AI models, a move that has drawn attention from developers and enterprise users who rely on the premium tier for advanced language‑processing capabilities. The pause, observed across the company's developer forums and API status pages, follows a series of incremental improvements introduced earlier this year, including enhancements to reasoning speed and multimodal integration. While Google has not issued an official statement explaining the suspension, the temporary freeze suggests a period of internal testing or resource reallocation before the next major release.\n\nIn contrast to the stalled Pro updates, Google announced the launch of a new Gemini Flash model on the same day, positioning it as a lightweight, high‑throughput alternative designed for rapid inference in consumer‑facing applications. Gemini Flash leverages a streamlined architecture that prioritizes lower latency and reduced computational cost, making it suitable for tasks such as real‑time translation, content generation, and interactive chat interfaces. The simultaneous introduction of Gemini Flash amid the Pro pause underscores Google's strategy to diversify its AI offerings, catering both to developers seeking cutting‑edge performance and to broader markets that demand speed and efficiency.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:41:48",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-423",
+    "title": "NASA Revises Lunar Spacesuit Design Over Artemis IV Timeline Concerns",
+    "slug": "nasa-revises-lunar-spacesuit-design-over-artemis-iv-timeline-concerns",
+    "content": "The Department of Defense announced that the specifications for the upcoming Joint Strike Fighter procurement program are being revised to better align with current operational demands. Officials said the changes will streamline the aircraft’s sensor suite and upgrade its electronic warfare capabilities, allowing the fleet to respond more effectively to evolving threats in the Indo‑Pacific region.\n\nAccording to the briefing, the updated requirements will shorten the development timeline by eliminating certain legacy systems that are no longer deemed essential for near‑term missions. The adjustments also include enhanced integration with unmanned aerial vehicles and improved data‑link interoperability, which are expected to increase sortie reliability in contested airspace. The Defense Logistics Agency will oversee the revised procurement schedule and ensure that contractors comply with the new technical standards.\n\nThe decision is part of a broader effort to accelerate the deployment of advanced platforms that can address immediate security challenges. By tailoring the aircraft’s capabilities to present operational needs, the Pentagon aims to maintain a technological edge while keeping the program within budgetary constraints.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:33:19",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-422",
+    "title": "150 Million Driver's License Photos Stolen in ID Verification Breach",
+    "slug": "150-million-driver-s-license-photos-stolen-in-id-verification-breach",
+    "content": "A website that marketed itself as an identity‑theft search platform has been taken offline after it was revealed to have stored more than 150 million stolen driver’s license images. The site, which claimed to offer a database of compromised personal information, was linked to a data‑breach of an ID‑verification service that had previously exposed a large volume of user credentials. Cybersecurity investigators traced the images to the verification provider and confirmed that the site had harvested the data without authorization.\n\nThe discovery prompted a swift response from the affected verification service, which notified law‑enforcement agencies and began a forensic review of its systems. The identity‑theft site was shut down within days of the public disclosure, and its domain was seized by authorities. While the full extent of the breach remains under investigation, the incident underscores the ongoing risk of large‑scale data leaks and the importance of robust safeguards for personally identifiable information.\n\nThe closure of the site marks a temporary halt to the exploitation of the stolen driver’s license photos, but experts warn that the data may already have circulated in underground markets. The verification provider has pledged to enhance its security protocols and to cooperate with regulators to mitigate further exposure. The case serves as a reminder that even well‑intentioned identity‑verification services can become targets for cybercriminals, necessitating continuous vigilance and improved data protection measures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:33:15",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-421",
+    "title": "MapQuest Ranks #1 in U.S. App Store After Declining Trump Renaming",
+    "slug": "mapquest-ranks-1-in-u-s-app-store-after-declining-trump-renaming",
+    "content": "The once‑dominant mapping app has surged to the top of Apple’s U.S. App Store after it declined to adopt President Donald Trump’s proposed “Lake America” moniker. In a matter of six days, the app captured more than half of its 2,026 U.S",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:33:10",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-420",
+    "title": "OpenAI Introduces Astra Model with Recurrent Depth Technique",
+    "slug": "openai-introduces-astra-model-with-recurrent-depth-technique",
+    "content": "OpenAI has announced its latest language model, Astra, which introduces a novel architectural feature called “recurrent depth.” Unlike conventional transformer models that rely on strictly sequential token processing, Astra’s design allows it to revisit and refine internal representations multiple times, effectively operating outside the linear flow that characterizes most reasoning systems.\n\nRecurrent depth works by looping the model’s hidden states through a set of depth‑wise transformations, enabling deeper contextual integration without increasing the token‑wise sequence length. Early benchmarks suggest that Astra can maintain coherence over longer passages and handle multi‑step reasoning tasks with fewer layers than its predecessors. The change reflects OpenAI’s ongoing efforts to improve efficiency and flexibility in large‑scale language models.\n\nWhile OpenAI has not yet released detailed performance metrics, the company indicates that Astra will be available to partners in the coming months. If the recurrent depth approach proves robust, it could set a new standard for building reasoning‑capable models that balance depth and speed, potentially influencing the next generation of AI applications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:33:03",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-419",
+    "title": "Google Avoids Ad-Business Breakup, Judge Orders Operational Changes",
+    "slug": "google-avoids-ad-business-breakup-judge-orders-operational-changes",
+    "content": "Google escaped a court‑ordered breakup of its advertising operation, but on Wednesday U.S. District Judge James Donato warned that the company must modify its practices to give rivals a fair chance in the market. The ruling concluded the Department of Justice’s antitrust lawsuit, which had sought to dismantle Google’s dominant position in online ad auctions and data‑driven targeting services.\n\nWhile dismissing the request for a structural remedy, the judge ordered Google to revise its contractual terms, data‑sharing policies and pricing structures to eliminate barriers that disadvantage competing ad platforms. The decision leaves the government with the option to appeal the order and signals that future regulatory scrutiny will focus on the company’s conduct rather than its size. Google is expected to submit a compliance plan within 90 days, setting the stage for ongoing oversight of its ad‑tech ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/3/2026 3:32:59",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-417",
+    "title": "Zelensky warns airlines Russian airspace unsafe due to Ukraine drones",
+    "slug": "zelensky-warns-airlines-russian-airspace-unsafe-due-to-ukraine-drones",
+    "content": "Ukrainian President Volodymyr Zelensky issued a warning on Tuesday that the country’s drone operations would render Russian airspace “completely unsafe” for the duration of the war. In a statement to FRANCE 24, Zelensky said the message was directed at international airlines—particularly those from the Middle East, Southeast Asia and China—that continue to fly into Moscow. The warning follows a broader campaign of information warfare aimed at shaping perceptions among the Russian populace.\n\nRussian leader Vladimir Putin responded by accusing Ukraine of “state terrorism,” a charge that underscores the escalating rhetoric between the two sides. Former British military intelligence officer Philip Ingram, speaking on the same FRANCE 24 program, explained that Zelensky’s caution is part of a strategic effort to highlight the conflict’s reach and to influence the behavior of foreign carriers operating within Russian airspace. The statement reflects the heightened security concerns that have accompanied the ongoing hostilities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/3/2026 3:32:53",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-416",
+    "title": "Chevron and Eni pledge expansion of Venezuelan oil projects",
+    "slug": "chevron-and-eni-pledge-expansion-of-venezuelan-oil-projects",
+    "content": "U.S. Chevron, Italy’s Eni and several other foreign energy firms signed agreements on Wednesday to expand oil‑production projects in Venezuela, a move aimed at increasing the country’s output amid a prolonged economic downturn. The ceremony took place in Caracas and was overseen by interim President Delcy Rodríguez and U.S. Energy Secretary Chris Wright, with reporting by France 24’s Maya Yataghene. The commitments include new drilling initiatives, upgrades to existing facilities and the development of infrastructure to transport crude, signaling renewed foreign investment despite ongoing sanctions and political uncertainty.\n\nThe announced expansions are expected to add several hundred thousand barrels per day to Venezuela’s oil production, bolstering state revenues and potentially stabilizing the national energy sector. Officials highlighted that the partnerships will adhere to international regulations while fostering technology transfer and job creation. The agreements mark a significant step toward revitalizing the country’s once‑dominant oil industry and are being monitored by both regional stakeholders and global markets.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/3/2026 3:32:49",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-415",
+    "title": "Kenyan journalist found safe after overnight abduction",
+    "slug": "kenyan-journalist-found-safe-after-overnight-abduction",
+    "content": "Rights groups in Kenya have demanded an immediate investigation after a prominent journalist was abducted overnight by heavily armed men, a development that has heightened concerns over press freedom and security in the country. The journalist, known for investigative reporting on corruption, was taken from his home in Nairobi and has not been seen since, prompting calls from local and international watchdogs for swift action by Kenyan authorities.\n\nIn a separate health update, clinical trials for three candidate vaccines targeting the Bunjeebuyyoo strain of Ebola are slated to commence within the next two months. The trials, coordinated by a coalition of African health ministries and international research institutions, aim to assess safety and efficacy as the region continues to monitor sporadic outbreaks of the newly identified strain.\n\nMeanwhile, in Senegal, consumer groups have launched a new campaign to protest the rising cost of living, citing soaring prices for food, fuel and basic services. The movement, organized by a coalition of trade unions and consumer rights NGOs, seeks government intervention to curb inflation and implement measures that protect low‑income households, reflecting growing public discontent across the nation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/3/2026 3:32:44",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260902-414",
+    "title": "US Energy Secretary oversees multibillion‑dollar oil deals with Venezuela",
+    "slug": "us-energy-secretary-oversees-multibillion-dollar-oil-deals-with-venezuela",
+    "content": "U.S. Energy Secretary Chris Wright announced on Wednesday that Chevron, Italy’s ENI and GE Vernova have signed agreements with Venezuela valued at “tens of billions of dollars.” The deals were finalized during Wright’s visit to Caracas, where he met with interim President Delcy Rodríguez to complete the negotiations.\n\nThe contracts, which focus on oil and gas development and renewable‑energy projects, signal a significant expansion of foreign investment in Venezuela’s energy sector amid ongoing efforts to revive its economy. Both parties described the agreements as a step toward deeper commercial cooperation, while U.S. officials emphasized that the partnerships comply with existing sanctions frameworks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/3/2026 3:32:39",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260902-413",
     "title": "U.S. releases coin featuring former President Trump’s portrait",
     "slug": "u-s-releases-coin-featuring-former-president-trump-s-portrait",
