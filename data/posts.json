@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260905-209",
+    "title": "Isar Aerospace attempts launch of Spectrum rocket after delays",
+    "slug": "isar-aerospace-attempts-launch-of-spectrum-rocket-after-delays",
+    "content": "Isar Aerospace, the European private launch provider based in Ottobrunn, Germany, announced that it will attempt the first flight of its Spectrum small‑lift launch vehicle after a series of postponements that have stretched over several months. The company, which has been developing the two‑stage, liquid‑propellant rocket to serve the growing market for dedicated small‑satellite missions, has scheduled the launch attempt for the coming week from its designated launch site, pending final clearance from the relevant spaceflight authorities.\n\nThe delay in the Spectrum’s debut has been attributed to a combination of technical refinements, supply‑chain constraints, and the completion of required regulatory certifications. Successful completion of the test flight is expected to validate the vehicle’s performance parameters and pave the way for commercial missions slated for later this year. Isar Aerospace indicated that a successful launch would mark a significant step toward establishing a reliable European alternative for rapid, on‑demand access to orbit.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "9/5/2026 22:51:52",
+    "author": "NASASpaceFlight",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260905-208",
     "title": "Isar Aerospace Spectrum Rocket to Aim for First European Orbital Launch",
     "slug": "isar-aerospace-spectrum-rocket-to-aim-for-first-european-orbital-launch",
@@ -5485,17 +5496,6 @@
     "category": "Health",
     "categorySlug": "health",
     "publishedAt": "9/4/2026 7:02:36",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260904-027",
-    "title": "Dutch Millennials Favor Nutritious Snacks Over Junk Food",
-    "slug": "dutch-millennials-favor-nutritious-snacks-over-junk-food",
-    "content": "Dutch millennials are redefining the snack, according to new doctoral research by Mariëlle de Vaal. The study, which surveyed a broad sample of young adults across the Netherlands, found that between main meals many of this cohort choose nutritious options such as fruit, bread, and yogurt rather than the traditional chips, cookies or chocolate. This shift reflects a broader trend toward health‑conscious eating habits among younger generations.\n\nDe Vaal’s research also highlights that snacking is driven not only by the type of food or drink but also by underlying motives and the context in which consumption occurs. Participants reported snacking to manage hunger, to satisfy cravings, or to support social interactions, and the setting—whether at home, at work, or on the go—significantly influenced their choices. The findings suggest that marketers and public health officials should consider both the nutritional content and the situational factors that shape snack decisions.\n\nThe study underscores a growing preference for wholesome, convenient foods among Dutch millennials and points to the importance of understanding the complex motivations behind snacking. As the market adapts to these preferences, healthier snack options are likely to become even more prominent in everyday life.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/4/2026 7:02:31",
     "author": "Medical Xpress",
     "isFeatured": false
   }
