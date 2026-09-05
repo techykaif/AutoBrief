@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260905-021",
+    "title": "Study finds nearly one‑third of AI chatbot answers on voting are inaccurate or outdated",
+    "slug": "study-finds-nearly-one-third-of-ai-chatbot-answers-on-voting-are-inaccurate-or-o",
+    "content": "Artificial intelligence chatbots are increasingly being consulted by voters seeking information about upcoming elections, but a recent study indicates that a significant portion of the responses they generate may be unreliable. The analysis found that nearly one‑third of the chatbot replies to voting‑related questions were either inaccurate or based on outdated information, raising concerns about the suitability of these tools as sources of civic guidance.\n\nThe study examined a sample of AI‑generated answers to common electoral queries and measured their factual correctness against current official data. Results showed that while many responses were accurate, the error rate approached 30 percent, highlighting the potential for misinformation to spread among the electorate. Researchers emphasized the importance of cross‑checking chatbot output with verified sources, especially as voters turn to automated platforms for timely election information.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/5/2026 7:01:47",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260905-020",
     "title": "Judge Declines to Halt Pentagon Firings of Stars and Stripes Staffers",
     "slug": "judge-declines-to-halt-pentagon-firings-of-stars-and-stripes-staffers",
@@ -5486,17 +5497,6 @@
     "categorySlug": "business",
     "publishedAt": "9/3/2026 19:53:01",
     "author": "Guardian Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260903-251",
-    "title": "North Sea Workers Must Weigh Under 19.5 Stone for New Helicopter Safety Rules",
-    "slug": "north-sea-workers-must-weigh-under-19-5-stone-for-new-helicopter-safety-rules",
-    "content": "A new safety guideline has been issued for workers operating in environments where winching to a rescue point is required. The regulation stipulates that personnel must not weigh more than 19.5 stone (approximately 123 kg) while fully clothed. The limit is designed to ensure that winch systems can safely lift and transport workers to safety in the event of an emergency.\n\nThe rule applies to a range of high‑risk settings, including offshore platforms, tall‑building construction sites, and other locations where rapid evacuation is critical. By capping the maximum weight, the guideline helps maintain the integrity of winch equipment, reduces the risk of mechanical failure, and protects workers from injury during rescue operations. Employers are expected to verify compliance through pre‑deployment weight checks and to adjust protective gear or work assignments accordingly.\n\nIn summary, the 19.5‑stone weight cap is a preventive measure aimed at enhancing emergency response effectiveness. Adhering to this standard will help ensure that winch‑based rescue systems remain reliable and that workers can be safely evacuated when needed.",
-    "category": "Business",
-    "categorySlug": "business",
-    "publishedAt": "9/3/2026 19:52:55",
-    "author": "BBC Business",
     "isFeatured": false
   }
 ]
