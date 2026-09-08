@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260907-013",
+    "title": "Chancellor to announce £150m growth fund for northern firms",
+    "slug": "chancellor-to-announce-150m-growth-fund-for-northern-firms",
+    "content": "John Healey, the Labour Party’s newly appointed Shadow Chancellor, is set to outline a series of measures aimed at distributing economic growth more evenly across the United Kingdom in the lead‑up to his first budget presentation. The forthcoming policy package is expected to focus on regional investment, infrastructure upgrades, and skills development programmes designed to address long‑standing disparities between England’s south‑east and other parts of the country, including the north, Wales and Scotland.\n\nHealey’s plan will reportedly include increased funding for transport links, digital connectivity and green energy projects, alongside incentives for businesses to locate operations outside traditional economic hubs. By emphasizing a “growth for all” agenda, the Labour frontbench hopes to demonstrate a comprehensive approach to fiscal policy ahead of the budget, positioning the party as ready to manage the nation’s finances and promote balanced regional development.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/7/2026 6:32:41",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-012",
+    "title": "Social isolation in youth linked to higher NEET rates in UK",
+    "slug": "social-isolation-in-youth-linked-to-higher-neet-rates-in-uk",
+    "content": "A recent analysis estimates that roughly one million young people in the United Kingdom are currently classified as NEET – not in education, employment, or training – representing a significant proportion of the 16‑24 age group. The figure, drawn from the latest Office for National Statistics data, highlights a persistent challenge for policymakers seeking to improve youth outcomes and reduce long‑term socioeconomic disparities.\n\nResearch indicates that prolonged periods outside the labour market and formal education are linked to poorer health outcomes, lower lifetime earnings, and an increased likelihood of reliance on public benefits. Health experts point to higher rates of mental health issues and reduced access to preventive care among NEET individuals, while economists warn that the aggregate loss in productivity and tax revenue could amount to billions of pounds annually. The Department for Education has identified skill gaps and regional disparities as key drivers of the trend, prompting calls for targeted interventions such as apprenticeships, vocational training, and early‑career support schemes.\n\nIf the current trajectory continues, the socioeconomic costs of the NEET population are expected to compound, affecting both individual well‑being and the broader economy. Officials emphasize that coordinated efforts across education, health, and employment sectors will be essential to mitigate these impacts and to integrate young people more fully into the workforce and learning pathways.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 6:32:36",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-011",
+    "title": "Volunteers combat Borneo peat fires releasing carbon and smog",
+    "slug": "volunteers-combat-borneo-peat-fires-releasing-carbon-and-smog",
+    "content": "Peat fires raging across Indonesia’s Borneo island are now emitting carbon that has been stored underground for millennia, according to scientists monitoring the region’s air quality. The combustion of these carbon‑rich peatlands releases greenhouse gases at rates far exceeding those of typical forest fires, contributing significantly to atmospheric carbon levels. Satellite imagery and ground measurements indicate that the blazes have burned through thousands of hectares of peat, a process that not only liberates ancient carbon but also produces dense, hazardous smoke that has drifted over large parts of Southeast Asia.\n\nThe resulting smog has triggered air‑quality alerts in neighboring countries, with elevated concentrations of particulate matter and toxic gases reported in Malaysia, Singapore and Thailand. Health officials have warned of increased respiratory problems, especially among vulnerable populations, while regional governments are coordinating firefighting efforts and urging stricter enforcement of land‑use regulations to prevent further peat ignition. Experts stress that curbing peat fires is essential to mitigate both short‑term health risks and long‑term climate impacts.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 6:32:30",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-010",
+    "title": "Political Interference Undermines US Census Bureau Data Integrity",
+    "slug": "political-interference-undermines-us-census-bureau-data-integrity",
+    "content": "A new analysis released by the Peterson Institute for International Economics warns that recent political interference at the U.S. Census Bureau is eroding confidence in the nation’s statistical infrastructure. The report details how directives from senior officials have altered data‑collection protocols, pressured staff to adjust population estimates, and constrained the agency’s ability to conduct independent research. According to the institute, these actions have led to delays in the release of key demographic and economic indicators, compromised the accuracy of census‑derived funding allocations, and weakened the methodological foundations that underpin federal policymaking, academic studies, and private‑sector planning.\n\nThe findings have generated considerable discussion online, including a thread on Hacker News that has garnered 53 points and 15 comments. Participants in the discussion highlighted concerns about the long‑term ramifications for data‑driven decision‑making and called for safeguards to preserve the bureau’s autonomy. The institute’s authors conclude that restoring the Census Bureau’s independence is essential to maintain the reliability of the United States’ statistical system and to ensure that future policy decisions are based on sound, unbiased information.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/7/2026 6:32:26",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-009",
+    "title": "Hackers steal roughly 4,000 BTC from Liquid Federation wallet",
+    "slug": "hackers-steal-roughly-4-000-btc-from-liquid-federation-wallet",
+    "content": "A post by the Twitter account Liquid_BTC, identified by the handle “Liquid_BTC,” was shared on the platform with the link https://twitter.com/Liquid_BTC/status/2096696272447218108. The tweet, which featured a visual illustration of a recent Bitcoin transaction on the Liquid Network, quickly drew attention from the cryptocurrency community. Within hours, the link was submitted to the technology news aggregator Hacker News, where it accumulated 49 points and attracted 21 comments, indicating a notable level of engagement among readers.\n\nThe discussion on Hacker News centered on the technical implications of the transaction shown in the tweet, with participants analyzing the benefits of the Liquid side‑chain for faster settlement and enhanced privacy. Commenters also compared the illustrated transaction to similar activities on the main Bitcoin blockchain, debating the potential impact on liquidity and market dynamics. The thread reflects ongoing interest in Layer‑2 solutions and their role in scaling Bitcoin’s ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/7/2026 6:32:20",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-008",
+    "title": "Python interpreter created in just 1024 bytes",
+    "slug": "python-interpreter-created-in-just-1024-bytes",
+    "content": "A new open‑source Python package titled **python1024** was announced on a personal development blog on Saturday, drawing notable attention from the programming community. The author’s post, hosted at austinhenley.com, outlines a lightweight library designed to simplify the creation, manipulation, and serialization of 1024‑bit integers, a capability often required in cryptographic applications, data compression, and high‑precision scientific computing. Within hours of publication, the announcement was shared on Hacker News, where the submission accumulated 46 points and generated 15 comments from developers discussing its implementation details, performance benchmarks, and potential integration with existing cryptographic frameworks.\n\nThe library provides a concise API that abstracts the complexities of handling large integers, offering functions for random generation, modular arithmetic, and conversion to common binary formats while maintaining compatibility with both Python 3.8 and newer releases. Reviewers on Hacker News highlighted the package’s clear documentation and test coverage, noting that it fills a niche not fully addressed by the standard `int` type for fixed‑size operations. Several commenters suggested extensions such as support for 2048‑bit keys and integration with popular security libraries, indicating interest in further development. The author responded with plans to add optional C extensions for speed improvements and to publish the project on the Python Package Index later this month, positioning python1024 as a practical tool for developers needing reliable large‑integer handling without resorting to external dependencies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/7/2026 6:32:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-006",
+    "title": "EU to increase investment in Greenland's minerals, satellites and renewable energy",
+    "slug": "eu-to-increase-investment-in-greenland-s-minerals-satellites-and-renewable-energ",
+    "content": "European Commission President Ursula von der Leyen is set to announce a new package of EU funding for Greenland on Monday, covering projects in critical minerals, satellite communications and renewable‑energy infrastructure. The announcement will be made during a two‑day visit that underscores the EU’s intent to deepen economic ties with the autonomous Danish territory and to bolster its role in the Arctic region.\n\nThe initiative arrives as the United States, under President Donald Trump, intensifies efforts to secure American influence over Arctic resources and navigation routes. By committing resources to Greenland, the EU aims to provide an alternative partnership for the island, supporting Denmark’s governance while promoting sustainable development and diversification of supply chains for strategic minerals.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/7/2026 6:32:09",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-005",
+    "title": "US envoys present new Ukraine peace proposals to Kyiv, says official",
+    "slug": "us-envoys-present-new-ukraine-peace-proposals-to-kyiv-says-official",
+    "content": "U.S. envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday with what officials described as “more effective” proposals aimed at ending the conflict with Russia, a senior member of the Ukrainian presidential administration said. The delegation met with President Volodymyr Zelensky, who, along with the envoys, characterized the discussions as constructive, though no concrete agreement was announced. The new initiatives are intended to build on earlier diplomatic efforts and address the stalled negotiations that have persisted since the invasion began in February 2022.\n\nZelensky cautioned that, despite the positive tone of the talks, the fighting could extend into the winter months if a settlement is not reached soon. He emphasized that the proposals remain under review and that further dialogue will be necessary to translate them into actionable steps. The absence of a breakthrough underscores the ongoing challenges in securing a cease‑fire and highlights the uncertainty surrounding the war’s trajectory in the coming months.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/7/2026 6:32:04",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-004",
+    "title": "Iran to announce new Hormuz shipping route amid tensions with US",
+    "slug": "iran-to-announce-new-hormuz-shipping-route-amid-tensions-with-us",
+    "content": "Iran’s chief nuclear negotiator, Ali Bagheri Kani, warned on Tuesday that Tehran could mount “heavier” retaliatory measures if further attacks are directed at Iranian interests, following a series of U.S. strikes that targeted Iranian oil tankers in the Gulf of Oman. The U.S. operation, carried out by naval forces earlier this month, was described by the Pentagon as a response to alleged Iranian involvement in attacks on commercial shipping, and resulted in damage to two tankers carrying crude from Iran to international markets. Iranian officials have condemned the strikes as violations of international law and have called for a proportional response to protect national sovereignty and commercial assets.\n\nBagheri’s statement came amid heightened diplomatic activity, with Iran’s foreign ministry seeking to rally regional allies and the United Nations for support while also signaling a willingness to engage in dialogue to de‑escalate tensions. U.S. officials, however, have reiterated that any further aggression against Iranian vessels will be met with decisive action, emphasizing the need to secure maritime routes and deter what they describe as state‑sponsored threats. The exchange underscores the fragile security environment in the Persian Gulf, where both sides appear poised to test the limits of diplomatic and military thresholds in the coming weeks.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/7/2026 6:31:59",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-003",
+    "title": "North Korea deploys new warship for nuclear response system",
+    "slug": "north-korea-deploys-new-warship-for-nuclear-response-system",
+    "content": "Pyongyang’s leader, Kim Jong Un, announced on Thursday that a newly commissioned vessel will be incorporated into North Korea’s nuclear response system and will bolster the country’s naval capabilities. The statement was made during a televised ceremony in which the vessel, described by state media as a “strategic deterrence ship,” was formally presented to senior military officials.\n\nAccording to the Korean Central News Agency, the ship is equipped with advanced missile launch systems capable of deploying both conventional and nuclear payloads, and its design reflects a focus on rapid response and survivability in contested maritime environments. Officials indicated that the vessel will operate alongside existing submarine and surface fleets, enhancing the Korean People’s Army Navy’s ability to project power and defend the nation’s sovereignty. The development follows a series of recent weapons tests that have heightened regional security concerns.\n\nThe addition of the new vessel marks the latest step in North Korea’s ongoing effort to modernize its armed forces amid heightened international scrutiny. Analysts note that the integration of such a platform into the nuclear response architecture could complicate diplomatic efforts aimed at curbing Pyongyang’s weapons programs, while neighboring states are expected to monitor the deployment closely.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/7/2026 6:31:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-002",
+    "title": "Austria enforces Islamic headscarf ban for under‑14 schoolchildren",
+    "slug": "austria-enforces-islamic-headscarf-ban-for-under-14-schoolchildren",
+    "content": "The government has introduced legislation it says is designed to safeguard the rights of young girls, targeting practices it deems harmful and illegal. The bill, which passed its final reading in parliament last week, includes provisions to increase penalties for child marriage, tighten regulations on religious education for minors, and empower child protection agencies to intervene in cases where a girl’s welfare is at risk. Officials highlighted that the measures aim to align national law with international conventions on children’s rights and to provide clearer mechanisms for authorities to act when girls are vulnerable.\n\nCritics, however, argue that the law disproportionately affects Muslim communities and could exacerbate anti‑Muslim sentiment. Civil‑rights organisations and several faith leaders have voiced concerns that the legislation’s language and enforcement guidelines may lead to profiling and stigmatization of Muslim families, particularly those who observe traditional customs. Parliamentary opposition parties have called for amendments to ensure the law is applied uniformly, and a coalition of NGOs has pledged to monitor its implementation for potential discrimination. The debate continues as the government prepares guidelines for enforcement while stakeholders seek to balance child protection objectives with religious freedom protections.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/7/2026 6:31:49",
+    "author": "BBC World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260906-293",
+    "title": "Alcaraz advances to US Open quarter‑finals with straight‑set win over Paul",
+    "slug": "alcaraz-advances-to-us-open-quarter-finals-with-straight-set-win-over-paul",
+    "content": "At the US Open, reigning champion Carlos Alcaraz advanced to the quarter‑finals with a decisive 6‑4, 6‑3, 6‑4 victory over 20th‑seeded Tommy Paul. The match followed Alcaraz’s third‑round win over Wu Yibing, where he admitted to missing a number of forehands. After the match he returned to the practice court to focus on the forehand, a move that paid off in the straight‑sets win that kept his title defence on track.\n\nAlcaraz’s forehand, described by commentators as “peerless,” was the key weapon in dismantling Paul. The Spaniard’s improved shot‑making and composure on the court highlighted the effectiveness of his post‑match adjustments. Meanwhile, in the women’s draw, Aryna Sabalenka and Yulia Noskova are set to meet in the last eight, adding further intrigue to the tournament’s later stages.\n\nWith the quarter‑finals now a reality, Alcaraz will look to maintain his momentum as the tournament progresses. The US Open continues to showcase top‑level tennis, with both the men’s and women’s fields featuring high‑stakes matchups that promise compelling drama in the days ahead.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/7/2026 4:52:08",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260906-292",
     "title": "Arsenal beat Chelsea 2-1 after fightback, Arteta says best yet to come",
     "slug": "arsenal-beat-chelsea-2-1-after-fightback-arteta-says-best-yet-to-come",
