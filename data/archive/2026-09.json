@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260907-122",
+    "title": "Dog Trained to Detect Cancer Breath Using AI in India",
+    "slug": "dog-trained-to-detect-cancer-breath-using-ai-in-india",
+    "content": "A rescue dog named Chloe, now living on a farm just outside Bengaluru, is being trained to detect cancer by sniffing human breath with the aid of artificial intelligence. The project, run by a local veterinary clinic in partnership with a tech startup, uses a portable breath‑analysis device that feeds data into an AI algorithm. The algorithm has been trained on thousands of breath samples from cancer patients and healthy volunteers, enabling it to identify volatile organic compounds that signal the presence of malignant cells.\n\nChloe’s training began three months ago, during which she was exposed to a variety of scent samples and rewarded for correctly identifying those flagged by the AI. Early trials have shown that the dog’s detection accuracy matches that of the algorithm, suggesting that the combination of canine olfactory skill and machine learning can provide a rapid, non‑invasive screening tool. The team plans to conduct larger field studies in hospitals across Karnataka to assess the method’s effectiveness in real‑world settings.\n\nIf the partnership proves successful, it could offer a low‑cost, portable screening option for early cancer detection in underserved regions. The initiative also highlights the growing role of AI in enhancing animal‑based diagnostic techniques, potentially opening new avenues for community‑level health screening.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 18:22:23",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-121",
+    "title": "Firefighters Struggle to Contain Wildfires in Indonesian Borneo",
+    "slug": "firefighters-struggle-to-contain-wildfires-in-indonesian-borneo",
+    "content": "Indonesian firefighters on Borneo’s eastern coast have been working around the clock to combat a series of increasingly intense wildfires that have scorched vast swaths of forest and displaced thousands of residents.  The blaze, which began in late March, has spread across the province of East Kalimantan, turning the landscape into a sea of ash and black smoke that blankets nearby villages and towns.  Local authorities report that the fire has already destroyed more than 1,200 hectares of forest and forced the evacuation of over 4,000 people.\n\nThe fires are part of a larger pattern of seasonal burn‑outs that have plagued Indonesia’s tropical islands for years.  Drought conditions, combined with the use of slash‑and‑burn techniques by some agricultural communities, have created a tinder‑dry environment that fuels rapid fire spread.  Firefighters, many of whom are exhausted and under-resourced, are battling not only the flames but also the harsh haze that reduces visibility and hampers air quality.  The Indonesian government has deployed additional personnel from neighboring provinces and requested assistance from international firefighting agencies to bolster containment efforts.\n\nDespite the mounting pressure, authorities say the situation is stabilizing, with several containment lines established along key river valleys.  The government has urged communities to adhere to fire‑control regulations and to avoid open burning during the dry season.  As the region continues to recover, officials remain focused on restoring damaged ecosystems and ensuring the safety of displaced residents.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 18:22:18",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-120",
+    "title": "Ukraine Researchers Call for Treating Education as Infrastructure",
+    "slug": "ukraine-researchers-call-for-treating-education-as-infrastructure",
+    "content": "The ongoing conflict in the region has led to widespread destruction of scientific infrastructure, with laboratories and research instruments being damaged or destroyed in recent months. According to local authorities, dozens of facilities have been rendered inoperable, leaving researchers without the essential tools needed to conduct experiments and produce data. The loss of equipment has also disrupted the production of critical materials and the development of new technologies that rely on precise instrumentation.\n\nBeyond the physical damage, the war has fractured the human networks that underpin scientific progress. Mentorship programs, collaborative projects, and informal exchanges that traditionally guide students toward research careers have been severely disrupted. Many young scientists report difficulty accessing guidance, sharing resources, and maintaining partnerships with peers and senior researchers, all of which are essential for training and innovation. The breakdown of these connections threatens to stall the pipeline of future scientists and diminish the region’s capacity for scientific advancement.\n\nExperts warn that the combined impact of destroyed facilities and broken networks could have long‑term repercussions for the local scientific community. Rebuilding laboratories is only part of the solution; restoring the social fabric that supports mentorship and collaboration will be equally critical to reviving research output and ensuring that emerging scientists can transition into productive careers.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 18:22:13",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-119",
+    "title": "Chromium-Based Material Shows Three Quantum Phases, Suggesting Spin-Triplet Superconductivity",
+    "slug": "chromium-based-material-shows-three-quantum-phases-suggesting-spin-triplet-super",
+    "content": "Superconductors—materials that conduct electricity without resistance when cooled below a critical temperature—continue to attract attention from scientists and industry alike. Their unique ability to carry electric current without energy loss has long been recognized as a cornerstone for advanced technological applications.\n\nRecent research highlights the expanding role of superconductors in high‑precision fields. In medical imaging, superconducting magnets power MRI scanners that deliver clearer, faster images. Particle accelerators rely on superconducting coils to generate the intense magnetic fields needed to steer and accelerate subatomic particles. Ultrasensitive detectors, such as those used in astrophysics and dark‑matter searches, exploit superconducting junctions to achieve unprecedented signal‑to‑noise ratios. Meanwhile, quantum processors are increasingly built around superconducting qubits, offering a scalable path toward practical quantum computing.\n\nThese developments underscore the growing commercial and scientific momentum behind superconducting technologies. As fabrication techniques improve and operating temperatures rise, the range of practical applications is expected to broaden, promising significant advances across medicine, research, and information technology.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/7/2026 18:22:09",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260907-118",
     "title": "SDSS Releases 20th Data Release, Expanding Cosmic Survey",
     "slug": "sdss-releases-20th-data-release-expanding-cosmic-survey",
