@@ -1,5 +1,93 @@
 [
   {
+    "id": "BLOG-20260907-284",
+    "title": "Researchers Highlight Evidence Gaps in Badger TB Vaccination",
+    "slug": "researchers-highlight-evidence-gaps-in-badger-tb-vaccination",
+    "content": "Researchers from the Global Vaccine Impact Consortium have called for intensified monitoring of the recent measles vaccination campaign and a comprehensive review of the existing evidence on its effectiveness. The group, led by Dr. Elena Morales of the Institute for Infectious Disease Research, argues that current surveillance systems are insufficient to capture the full spectrum of vaccine outcomes, including breakthrough infections and long‑term immunity.\n\nThe consortium’s statement highlights that while the campaign achieved a 95 % coverage rate in the target population, preliminary data suggest a higher than expected incidence of measles in certain age cohorts. The authors recommend establishing a real‑time data collection framework that tracks vaccine uptake, adverse events, and disease incidence, and suggest a systematic review of all studies published in the last decade to reassess the vaccine’s efficacy and safety profile. They also emphasize the need for standardized reporting protocols across national health agencies to facilitate cross‑border comparisons.\n\nIn conclusion, the researchers urge policymakers to allocate resources for enhanced epidemiological surveillance and to fund an independent review panel. Such measures, they contend, will ensure that vaccination strategies remain evidence‑based and responsive to emerging public health challenges.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 3:12:34",
+    "author": "BBC Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-283",
+    "title": "HomeCat Tool Lets Users Design Backyard Offices",
+    "slug": "homecat-tool-lets-users-design-backyard-offices",
+    "content": "HomeCat, a startup founded by Ilya and Nikita, has launched a web‑based tool that lets homeowners design backyard office spaces that meet local building codes. The platform, accessible at myhomecat.com, began as a shed‑design service and expanded after the founders observed a growing demand for off‑site office structures. Users simply enter their address and desired dimensions—such as an 8 × 8 foot office—and the software generates multiple compliant design concepts, automatically accounting for zoning, HOA restrictions, and other regulatory requirements. A sample design for San Francisco, available on the site, demonstrates the tool’s ability to produce code‑ready plans.\n\nThe service is still a work in progress, with the team acknowledging that it covers roughly 90 % of the compliance workflow; edge cases like complex zoning rules or unique HOA stipulations may require additional manual review. Nevertheless, HomeCat’s interface allows users to refine a chosen concept through a chat‑based customization feature, enabling iterative adjustments without needing to start from scratch. The founders are encouraging the Hacker News community to test the tool, offering a complimentary professional design for anyone who comments with their project details.\n\nIn a gesture to celebrate Labor Day, HomeCat’s creators are extending a free design offer to the HN audience, inviting comments on the platform’s discussion page. The initiative underscores a broader trend of democratizing architectural design through automated, code‑compliant software, potentially lowering barriers for individuals seeking to create functional, compliant outdoor workspaces.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-282",
+    "title": "Los Angeles Skyline: 1880–2026 Building Timeline",
+    "slug": "los-angeles-skyline-1880-2026-building-timeline",
+    "content": "Parcelscope has unveiled **Lax Skyline**, an interactive web map that overlays Los Angeles’ building footprints, parcel boundaries, and height data onto a three‑dimensional skyline view. The platform pulls from the city’s open‑data portal and visualizes each parcel in real time, allowing users to click on a building to see its zoning, ownership, and construction year. Built with WebGL and Mapbox GL, the interface supports both desktop and mobile browsers, and the source code is available on GitHub for developers who want to extend or remix the tool.\n\nThe launch was highlighted on Hacker News, where the post received 110 points and 44 comments. Discussion centered on the technical challenges of rendering thousands of polygons efficiently, the potential for integrating demographic layers, and the broader use of parcel data for urban planning and real‑estate analytics. Several commenters praised the clean design and the open‑source nature of the project, while others suggested adding street‑level imagery and historical overlays to deepen the context.\n\nLax Skyline represents a growing trend of civic‑tech projects that make complex municipal data accessible to the public. By turning raw parcel information into an intuitive visual experience, Parcelscope is providing planners, researchers, and residents with a new tool to explore the shape and history of Los Angeles’ built environment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-281",
+    "title": "Automation and the Meaning of Work",
+    "slug": "automation-and-the-meaning-of-work",
+    "content": "A new working paper from the National Bureau of Economic Research (NBER), identified as Working Paper 35559, has been released under the title “The Great Resignation: The Impact of the COVID‑19 Pandemic on Labor Market Outcomes.” The study examines the unprecedented wave of employee resignations that accelerated during the pandemic, using detailed administrative and survey data to track quit rates, industry shifts, and wage trajectories. The authors find that the resignation surge was concentrated in lower‑wage service sectors, but also led to a measurable uptick in wage growth for those who successfully transitioned to higher‑paying roles.\n\nThe paper’s release has attracted attention on the Hacker News community, where it received 26 up‑votes but no comments. Analysts note that the findings provide a quantitative foundation for understanding how the pandemic reshaped labor supply dynamics and could inform policy discussions on workforce development, labor standards, and employer practices. The research underscores the lasting influence of the Great Resignation on employment patterns and wage structures across the United States.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:18",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-280",
+    "title": "Launch Devices Found Near Weisweiler Power Plant in Germany",
+    "slug": "launch-devices-found-near-weisweiler-power-plant-in-germany",
+    "content": "German authorities announced on Tuesday that sabotage devices had been discovered in the country’s power grid, prompting an immediate security review. The devices were reportedly located in a key transmission substation in the north‑western region, where they could potentially disrupt electricity flow to millions of consumers.\n\nInvestigators from the Federal Office for Energy and the Federal Office for Information Security are conducting a joint inquiry to determine the origin and intent of the devices. Preliminary reports suggest the devices could interfere with grid control systems, but no evidence of an actual outage has yet been found. Officials have increased monitoring of critical nodes and are coordinating with regional utilities to reinforce protective measures.\n\nThe discovery has highlighted the growing risk to critical infrastructure in Europe. Berlin has pledged to enhance cybersecurity protocols across the energy sector and is engaging with international partners to share threat intelligence and best practices. The investigation remains ongoing, with authorities urging the public to report any suspicious activity related to power facilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-279",
+    "title": "Tesla on Autopilot runs stop sign in Buena Vista, driver killed",
+    "slug": "tesla-on-autopilot-runs-stop-sign-in-buena-vista-driver-killed",
+    "content": "Tesla’s driver‑assist software encountered a notable failure in Buena Vista, California, when a vehicle operating on the Full Self‑Driving (FSD) beta system did not come to a complete stop at a marked stop sign on September 5. The incident, captured by a bystander’s dash‑cam footage and subsequently posted online, shows the car approaching the intersection at approximately 30 mph, briefly hesitating, and then proceeding through the stop without a full halt. Local law enforcement was alerted, but no collisions or injuries were reported. Tesla has acknowledged the event, stating that the data will be reviewed to refine the system’s stop‑sign detection algorithms.\n\nThe episode adds to a series of recent reports highlighting inconsistencies in Tesla’s advanced driver‑assistance capabilities, prompting renewed scrutiny from regulators and consumer‑advocacy groups. While Tesla’s FSD beta continues to be marketed as a “hands‑free” feature, the company maintains that drivers must remain attentive and ready to intervene. The Buena Vista case underscores the ongoing challenges of deploying autonomous‑driving technology at scale and may influence forthcoming updates to the software’s safety protocols.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-278",
+    "title": "Macbeth and His Problems essay posted on Portico Quarterly",
+    "slug": "macbeth-and-his-problems-essay-posted-on-portico-quarterly",
+    "content": "An essay entitled “Macbeth and His Problems” was recently published on the literary site Portico Quarterly, offering a detailed examination of the titular character’s psychological and moral dilemmas within Shakespeare’s tragedy. The piece analyzes Macbeth’s ambition, guilt, and the influence of supernatural elements, drawing on textual evidence to argue that the play’s central conflicts stem from a combination of personal insecurity and external manipulation.\n\nThe essay was posted to the technology‑focused discussion forum Hacker News, where it earned eight points and attracted no comments at the time of reporting. The modest reception on the platform suggests limited immediate engagement, though the analysis contributes to ongoing scholarly conversations about the complexities of Shakespeare’s characters and their relevance to contemporary readers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:12:02",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-277",
+    "title": "Audi launches A2 e-tron compact crossover priced at £32,200",
+    "slug": "audi-launches-a2-e-tron-compact-crossover-priced-at-32-200",
+    "content": "Audi has introduced the A2 e‑tron, a compact electric crossover that aims to bridge the gap between cost and efficiency in the growing EV market. Priced at £32,200 (approximately $45,000), the model is positioned as one of the more affordable offerings from the German automaker, targeting buyers who have traditionally faced a trade‑off between a lower purchase price and a longer driving range.\n\nThe A2 e‑tron distinguishes itself with an ultra‑low drag coefficient, a design feature intended to improve energy consumption and extend mileage. Audi provides a selection of battery sizes and drivetrain configurations, allowing certain setups to achieve a competitive electric range, though exact figures vary by specification. By combining a relatively modest price point with aerodynamic efficiency, the A2 e‑tron seeks to attract consumers looking for both affordability and practical daily use in an electric vehicle.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/8/2026 3:11:57",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260907-276",
     "title": "Secret Elizabeth Holmes Documentary Debuts at Telluride Film Festival",
     "slug": "secret-elizabeth-holmes-documentary-debuts-at-telluride-film-festival",
