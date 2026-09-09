@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260908-283",
+    "title": "Tetrachloroethylene exposure triples risk of liver scarring",
+    "slug": "tetrachloroethylene-exposure-triples-risk-of-liver-scarring",
+    "content": "A recent study has identified tetrachloroethylene (PCE), a solvent widely used in dry‑cleaning and present in some household products, as a significant but previously underappreciated risk factor for liver disease. Researchers found that individuals with measurable levels of PCE in their bloodstream were three times more likely to exhibit clinically significant liver fibrosis, a condition marked by excessive scar tissue that can progress to liver failure or cancer.\n\nThe investigation, which controlled for age, sex, race, education, alcohol consumption, and metabolic health, demonstrated a clear dose‑response relationship: higher PCE concentrations correlated with increasingly severe fibrosis. The analysis suggests that the harmful effect of PCE on the liver is independent of other common risk factors, underscoring the solvent’s potential to contribute to chronic liver damage in the general population.\n\nThese findings highlight the need for heightened awareness of PCE exposure and may prompt regulatory bodies to reexamine safety standards for this chemical. Further research will be essential to confirm the causal link and to develop guidelines for monitoring and reducing PCE exposure in both occupational and residential settings.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 23:32:53",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-282",
+    "title": "Scientists Observe Quantum Gravitational Effect for First Time",
+    "slug": "scientists-observe-quantum-gravitational-effect-for-first-time",
+    "content": "Physicists have, for the first time, directly observed a quantum effect of gravity that has long been predicted but never measured. In a matter‑wave interferometry experiment, researchers used ultracold atoms to split a single atom’s wavefunction into two paths: one part was held stationary while the other was allowed to fall freely under Earth’s gravitational field. After a controlled interval, the two paths were recombined, and the resulting interference pattern revealed a minute phase shift caused by the difference in gravitational potential experienced by the two halves of the wave.\n\nThe experiment, carried out in a laboratory environment with precise vibration isolation and magnetic shielding, demonstrates that gravity can influence quantum superposition in a measurable way. By comparing the observed phase shift with theoretical predictions derived from general relativity and quantum mechanics, the team confirmed that the gravitational field induces a measurable time‑dilation effect on the quantum state, in line with Einstein’s equivalence principle. The results also rule out several alternative models that predict deviations at this scale, thereby tightening constraints on potential quantum‑gravity theories.\n\nThis milestone provides a new, high‑precision test of the interplay between gravity and quantum mechanics, a regime that has remained largely uncharted. The ability to control and measure quantum states in varying gravitational potentials opens avenues for future experiments that could probe the limits of both theories and guide the development of a unified framework for fundamental physics.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 23:32:48",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260908-281",
     "title": "1,200+ Genetic Variants Link Personality to Health, Income, and Habits",
     "slug": "1-200-genetic-variants-link-personality-to-health-income-and-habits",

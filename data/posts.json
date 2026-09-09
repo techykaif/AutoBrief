@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260909-533",
+    "title": "Megan Eckert Sets New US 6‑Day Running Records, 636 Miles",
+    "slug": "megan-eckert-sets-new-us-6-day-running-records-636-miles",
+    "content": "Megan Eckert, a middle‑school math teacher from New Mexico, shattered both the six‑day women’s world record and the American men’s record for ultrarunning when she covered 636.482 miles in Balatonfüred, Hungary, on Wednesday morning. The run, which spanned 144 hours, surpassed the previous women’s record she had set the year before and exceeded the men’s American record by more than 30 miles.\n\nEckert’s achievement came as many educators were easing into the new school year, yet she pushed the limits of endurance sport. The six‑day event required her to maintain a relentless pace, navigate varying terrain, and manage sleep deprivation while staying within the strict parameters of the record‑setting rules. Her performance not only redefined the boundaries of female ultrarunning but also demonstrated that the American men’s benchmark could be surpassed by a woman.\n\nThe record will be added to the annals of ultrarunning history, inspiring athletes and teachers alike to pursue excellence beyond conventional expectations. Eckert’s accomplishment underscores the growing prominence of women in endurance sports and highlights the potential for individuals to break barriers regardless of their day‑to‑day professions.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 4:12:07",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-532",
+    "title": "Josh Tongue uses new wobble seam to claim four wickets as England bowl out Pakistan for 133",
+    "slug": "josh-tongue-uses-new-wobble-seam-to-claim-four-wickets-as-england-bowl-out-pakis",
+    "content": "England’s four‑man seam attack continued its collective dominance at Edgbaston, dismissing Pakistan for 133 in the second Test. The low total was underpinned by a balanced wicket haul: Josh Tongue claimed four wickets, while Ollie Robinson and Jofra Archer each contributed three. Pakistan’s middle‑order, including Saud Shakeel, struggled to read the debutant bowlers, leading to a swift collapse that left the visitors well short of a competitive score.\n\nTongue credited a new “wobble seam” delivery for his breakthrough, a variation he refined with guidance from Robinson. Speaking after the match, Tongue said the technique, first employed in the game, yielded an immediate wicket and will feature in his future repertoire. The successful experimentation highlights the quartet’s collaborative preparation beyond match days and underscores England’s depth in pace options as the series progresses.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 4:11:58",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-512",
     "title": "Victorian koala population found to be half of previous estimates and in poor health",
     "slug": "victorian-koala-population-found-to-be-half-of-previous-estimates-and-in-poor-he",
@@ -5474,28 +5496,6 @@
     "category": "Science",
     "categorySlug": "science",
     "publishedAt": "9/8/2026 23:32:58",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-283",
-    "title": "Tetrachloroethylene exposure triples risk of liver scarring",
-    "slug": "tetrachloroethylene-exposure-triples-risk-of-liver-scarring",
-    "content": "A recent study has identified tetrachloroethylene (PCE), a solvent widely used in dry‑cleaning and present in some household products, as a significant but previously underappreciated risk factor for liver disease. Researchers found that individuals with measurable levels of PCE in their bloodstream were three times more likely to exhibit clinically significant liver fibrosis, a condition marked by excessive scar tissue that can progress to liver failure or cancer.\n\nThe investigation, which controlled for age, sex, race, education, alcohol consumption, and metabolic health, demonstrated a clear dose‑response relationship: higher PCE concentrations correlated with increasingly severe fibrosis. The analysis suggests that the harmful effect of PCE on the liver is independent of other common risk factors, underscoring the solvent’s potential to contribute to chronic liver damage in the general population.\n\nThese findings highlight the need for heightened awareness of PCE exposure and may prompt regulatory bodies to reexamine safety standards for this chemical. Further research will be essential to confirm the causal link and to develop guidelines for monitoring and reducing PCE exposure in both occupational and residential settings.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/8/2026 23:32:53",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-282",
-    "title": "Scientists Observe Quantum Gravitational Effect for First Time",
-    "slug": "scientists-observe-quantum-gravitational-effect-for-first-time",
-    "content": "Physicists have, for the first time, directly observed a quantum effect of gravity that has long been predicted but never measured. In a matter‑wave interferometry experiment, researchers used ultracold atoms to split a single atom’s wavefunction into two paths: one part was held stationary while the other was allowed to fall freely under Earth’s gravitational field. After a controlled interval, the two paths were recombined, and the resulting interference pattern revealed a minute phase shift caused by the difference in gravitational potential experienced by the two halves of the wave.\n\nThe experiment, carried out in a laboratory environment with precise vibration isolation and magnetic shielding, demonstrates that gravity can influence quantum superposition in a measurable way. By comparing the observed phase shift with theoretical predictions derived from general relativity and quantum mechanics, the team confirmed that the gravitational field induces a measurable time‑dilation effect on the quantum state, in line with Einstein’s equivalence principle. The results also rule out several alternative models that predict deviations at this scale, thereby tightening constraints on potential quantum‑gravity theories.\n\nThis milestone provides a new, high‑precision test of the interplay between gravity and quantum mechanics, a regime that has remained largely uncharted. The ability to control and measure quantum states in varying gravitational potentials opens avenues for future experiments that could probe the limits of both theories and guide the development of a unified framework for fundamental physics.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/8/2026 23:32:48",
     "author": "Science Daily",
     "isFeatured": false
   }
