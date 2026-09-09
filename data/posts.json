@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260909-377",
+    "title": "Apple Watch Series 12 and Ultra 4 Set to Launch September 18",
+    "slug": "apple-watch-series-12-and-ultra-4-set-to-launch-september-18",
+    "content": "Apple concluded its “Surprise and Shine” event today with the unveiling of the Apple Watch Series 12 and the Ultra 4, both slated for release on September 18. Pre‑orders began immediately, allowing customers to secure the new models ahead of the launch window. The Series 12 is available in an aluminum case starting at $399 in space gray, black, light gold, and dark bronze, while a titanium version priced at $699 and a ceramic edition at $899 bring premium options to the lineup.\n\nApple highlighted several key upgrades for the Series 12, including up to 24 hours of “everyday” battery life and a 10‑hour endurance during outdoor workouts. The new watch also supports faster charging, enabling users to reach a substantial battery level in a shorter time. While the Ultra 4’s specifications were not detailed in the announcement, it shares the same release date and preorder availability as its Series counterpart, positioning both models as the latest additions to Apple’s smartwatch portfolio.\n\nWith the release date set for September 18 and pre‑orders already open, consumers can now choose between the various finishes and materials of the Series 12 or opt for the Ultra 4, depending on their preferences for performance and style. The new watches promise extended battery life and improved charging speeds, continuing Apple’s focus on enhancing the everyday usability of its wearable devices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:13:03",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-376",
+    "title": "Apple Unveils First Foldable iPhone Duo",
+    "slug": "apple-unveils-first-foldable-iphone-duo",
+    "content": "Apple unveiled its first foldable smartphone, the iPhone Duo, during the company’s “Surprise and Shine” iPhone event held in Cupertino on Tuesday. The new device, announced under the leadership of newly appointed CEO John Ternus, marks Apple’s entry into the foldable market with a design that departs from the vertical‑slab form of earlier models. The iPhone Duo features a wider, horizontal fold that allows the screen to open into a tablet‑sized display while still functioning as a compact smartphone when closed.\n\nThe Duo’s dual‑screen configuration—an outer display for notifications and quick actions and an inner, larger panel for media and multitasking—promises a more versatile user experience. Apple highlighted the device’s advanced hinge mechanism, which supports up to 180 degrees of rotation and is engineered to withstand millions of folds. In addition to the hardware, the company announced a new software layer that optimizes app layout across the two screens, aiming to reduce the learning curve for consumers accustomed to single‑display phones.\n\nWith the iPhone Duo, Apple signals its intent to compete in a segment that has seen rapid growth but limited mainstream adoption. The company plans to begin shipping the device in the fall, with a starting price that positions it above Apple’s current flagship models. Industry analysts will watch closely to gauge consumer response and how the foldable format may influence future iPhone iterations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:57",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-375",
+    "title": "Apple unveils AirPods 5 with improved active noise cancellation",
+    "slug": "apple-unveils-airpods-5-with-improved-active-noise-cancellation",
+    "content": "Apple’s latest AirPods 5 introduce several refinements to the popular wireless earbud line. The new model enhances active noise cancellation, offering deeper attenuation of ambient sounds compared to its predecessor. It also integrates a more advanced Siri AI, enabling users to interact with the assistant more naturally through voice commands and contextual responses.\n\nIn addition to these audio improvements, the AirPods 5 feature physical volume controls on the stem, allowing quick adjustments without the need to access a device’s settings. The earbuds maintain the same sleek design and battery life as earlier versions, while the updated firmware supports the new features. Overall, the changes aim to provide a more seamless and responsive listening experience for users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:50",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-374",
+    "title": "Apple Introduces Reference Image Feature to Detect AI Photo Edits",
+    "slug": "apple-introduces-reference-image-feature-to-detect-ai-photo-edits",
+    "content": "Apple announced the launch of Apple Reference Image, a new tool designed to help users verify the authenticity of photos and detect edits, including those made by artificial intelligence. The feature will be integrated into the Photos app on iOS and macOS, providing a side‑by‑side comparison between the original image and any altered version. By analyzing metadata, pixel patterns, and other forensic indicators, Reference Image aims to give users a clear, objective assessment of whether a picture has been modified.\n\nDevelopers and privacy advocates have highlighted the potential of the tool to address growing concerns over deepfakes and manipulated media. Apple’s spokesperson noted that the technology will be available to all users without requiring additional software or subscriptions, and that it will respect user privacy by processing images locally on the device. The company also emphasized that the feature is part of its broader commitment to digital safety and transparency.\n\nWhile the exact rollout schedule has not yet been disclosed, Apple plans to roll out Apple Reference Image in an upcoming iOS and macOS update. The company expects the feature to be particularly useful for journalists, educators, and consumers who rely on visual content for accurate information. As the prevalence of AI‑generated imagery continues to rise, Apple’s initiative represents a significant step toward empowering users to discern genuine photos from manipulated ones.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:42",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-373",
+    "title": "Apple Launches Watch Series 12 and Ultra 4 with AI Audio Intelligence",
+    "slug": "apple-launches-watch-series-12-and-ultra-4-with-ai-audio-intelligence",
+    "content": "Apple has unveiled a suite of “Audio Intelligence” capabilities aimed at its expanding line of AI‑powered wearables. The new features, announced at the company’s recent developer event, allow users to rewind and replay moments from their day and to retrieve specific details from everyday conversations. By leveraging on‑device machine learning, the watch can capture and index spoken content, enabling quick recall of names, dates, or facts without needing to manually record notes.\n\nThe update builds on Apple’s existing focus on privacy and user control, with all audio processing performed locally on the device rather than in the cloud. Developers will be able to integrate the Audio Intelligence APIs into third‑party apps, opening possibilities for smarter reminders, context‑aware messaging, and enhanced accessibility tools. Apple’s move signals a broader push into conversational AI for wearables, positioning its ecosystem to compete with emerging smart‑watch and hearing‑aid technologies that rely on real‑time audio analysis.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:35",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-372",
+    "title": "Apple Health App Adds Health Age and Readiness Score Features",
+    "slug": "apple-health-app-adds-health-age-and-readiness-score-features",
+    "content": "Apple has rolled out a new software update that incorporates its Apple Intelligence framework to enhance the analysis of users’ health data. The update, available for iOS, iPadOS, and macOS devices, enables the Health app to automatically identify patterns, trends, and potential health insights from data collected by the device and connected wearables. By applying machine‑learning algorithms, Apple Intelligence can surface personalized summaries and alerts that help users better understand their fitness, sleep, and medical metrics.\n\nThe update also expands the data types that Apple Intelligence can process, including new biometric readings from the Apple Watch and third‑party health apps that have granted permission. Apple emphasizes that all processing remains on the device whenever possible, and that any data sent to Apple’s servers is encrypted and anonymized. Developers are encouraged to adopt the framework to provide richer health experiences while maintaining strict privacy controls.\n\nWith this release, Apple aims to make health tracking more actionable and intuitive for consumers. The company’s focus on on‑device processing and privacy‑preserving AI underscores its commitment to delivering sophisticated health insights without compromising user data security.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:27",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-371",
+    "title": "Harvey Valuation Climbs to $15.5B After Doubling from $11B",
+    "slug": "harvey-valuation-climbs-to-15-5b-after-doubling-from-11b",
+    "content": "Legal AI startup Luminance, a recent darling of venture capital, has seen its valuation climb from $350 million to $680 million in just nine months. The company, which uses machine learning to automate contract review and due‑diligence workflows, announced the latest valuation after securing a $120 million Series C round led by Sequoia Capital and Andreessen Horowitz. The round brought the company’s total funding to $300 million and positioned it among the top legal‑tech firms in terms of capital raised.\n\nThe surge reflects a broader shift in the legal sector toward AI‑driven efficiency tools. Luminance’s platform, which can ingest and analyze tens of thousands of documents in minutes, has been adopted by several Fortune 500 firms and law‑practice groups. The company’s co‑founders, former attorneys and data scientists, cited growing demand for rapid, accurate contract analysis as a key driver of the valuation jump. Analysts note that the firm’s customer base now includes more than 200 law‑practice groups and 50 corporate legal departments, a growth that has helped justify the steep increase in market value.\n\nLooking ahead, Luminance plans to expand its product line to cover litigation analytics and regulatory compliance, while exploring international markets in Europe and Asia. The firm’s leadership has indicated that the new capital will fund both product development and geographic expansion, aiming to solidify its position as a leading provider of AI‑powered legal technology.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:19",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-370",
+    "title": "Apple Watch Adds Siri Recap to Summarize Conversations",
+    "slug": "apple-watch-adds-siri-recap-to-summarize-conversations",
+    "content": "Apple’s latest update to Siri introduces a “Recap” feature that automatically compiles a summary of the user’s recent conversations and interactions. The new tool is designed to provide quick, searchable notes that can be accessed from the Home screen or the Siri app, allowing users to review key points without having to scroll through entire chat logs. Apple claims the Recap is built on the same machine‑learning models that power its voice‑recognition and contextual understanding, enabling it to capture dates, names, and actionable items with high accuracy.\n\nThe Recap functionality has drawn comparisons to third‑party note‑taking applications such as Granola, which similarly aggregates spoken or typed content into organized, searchable entries. While Granola offers a dedicated app experience with customizable tags and cross‑platform syncing, Siri Recap is integrated directly into iOS, eliminating the need for a separate download. Both platforms aim to streamline information capture, but Apple’s approach leverages its ecosystem to provide a seamless, privacy‑focused experience that is automatically available on all supported devices.\n\nIn summary, Siri Recap expands Apple’s productivity suite by offering a built‑in, AI‑driven note‑taking tool that rivals specialized apps like Granola. By embedding the feature into the operating system, Apple provides users with a convenient way to revisit important details from their voice interactions, potentially reducing reliance on third‑party solutions for everyday note management.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:13",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-369",
+    "title": "Apple Builds Foldable Phone Hinge with AI and 3D Printing",
+    "slug": "apple-builds-foldable-phone-hinge-with-ai-and-3d-printing",
+    "content": "Apple announced that artificial intelligence and 3‑D printing played a central role in the manufacturing of its long‑anticipated foldable smartphone. The company said the new device, which has been the subject of speculation for years, was built using AI‑driven design tools that optimized the hinge mechanism and screen durability, while 3‑D‑printed components were used to accelerate prototyping and reduce material waste.\n\nAccording to Apple’s statements, the AI models analyzed millions of design permutations to identify the most robust folding architecture, enabling the phone to endure repeated flexing without compromising structural integrity. The 3‑D‑printed parts, produced in the company’s own fabrication labs, allowed engineers to iterate quickly on hinge assemblies and internal brackets, cutting development time and enabling finer tolerances than traditional manufacturing methods. The combination of these technologies is expected to streamline production and improve the device’s reliability.\n\nWith the foldable phone now slated for a late‑2025 release, Apple’s adoption of AI and additive manufacturing could set a new standard for future high‑mobility devices. The company’s approach may also influence the broader smartphone industry, prompting competitors to explore similar technologies to achieve faster time‑to‑market and higher quality in complex form factors.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:06",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-368",
+    "title": "Anthropic Researchers Warn AI Could Cause Human Extinction by 2030",
+    "slug": "anthropic-researchers-warn-ai-could-cause-human-extinction-by-2030",
+    "content": "A researcher who recently left Anthropic has warned that artificial intelligence could pose an existential threat to humanity within the next decade. The former employee, who cited the company’s inadequate response to the danger as the reason for his resignation, posted his concerns on social media on Tuesday. He joined two other Anthropic scientists who have publicly expressed similar fears, arguing that the rapid pace of AI development outstrips current safety protocols.\n\nThe resignation highlights a growing unease within the AI community about regulatory oversight. The researcher claimed that both Anthropic and his previous employer, OpenAI, have either ignored or mishandled the risks associated with advanced AI systems. Industry experts point to the lack of comprehensive governance frameworks as a key factor that could allow unchecked AI deployment to accelerate toward potentially catastrophic outcomes.\n\nWhile the claims remain unverified by independent studies, the incident has reignited calls for stronger regulatory measures and transparent safety testing. Stakeholders in the tech sector and policy makers are now under increased pressure to establish clear guidelines that balance innovation with precaution, ensuring that AI development proceeds without compromising long‑term human welfare.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:12:01",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-367",
+    "title": "Apple unveils first folding iPhone, its first major design change in two decades",
+    "slug": "apple-unveils-first-folding-iphone-its-first-major-design-change-in-two-decades",
+    "content": "Apple unveiled a significant redesign of its flagship smartphone at a live‑streamed event on Tuesday, marking the first major alteration to the iPhone’s exterior in nearly two decades. The company introduced a new model that departs from the rounded‑edge silhouette that has defined the device since its 2007 debut, featuring a flat‑sided chassis, an edge‑to‑edge display and the elimination of the physical home button.\n\nThe updated iPhone incorporates a stainless‑steel frame, a ceramic‑shield front cover and a larger, bezel‑free screen that supports a higher refresh rate. Internally, the device retains Apple’s latest processor and camera system while adding a suite of sensors to enable advanced facial recognition and improved augmented‑reality capabilities. The redesign also includes a revised port layout, moving the charging connector to a more central position and supporting faster data transfer speeds.\n\nAnalysts view the redesign as a strategic move to rejuvenate the iPhone’s market appeal and align its aesthetics with competing flagship phones that have adopted similar flat‑edge designs. Apple plans to begin shipping the new model later this quarter, with pre‑orders opening next week, signaling a fresh chapter for the long‑standing product line.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 1:11:57",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-366",
     "title": "Munitions depot blast injures 11 near Sarmada, Idlib",
     "slug": "munitions-depot-blast-injures-11-near-sarmada-idlib",
@@ -5376,127 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/8/2026 23:11:52",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-229",
-    "title": "Brendan Fraser talks Oscar win and new roles at Deauville Festival",
-    "slug": "brendan-fraser-talks-oscar-win-and-new-roles-at-deauville-festival",
-    "content": "Brendan Fraser, whose career has spanned from the adventure‑fantasy of “The Mummy” to an Oscar‑winning turn in “The Whale,” was the focus of a candid conversation with Eve Jackson at the Deauville American Film Festival. The actor reflected on what he dubbed his “Brenaissance,” a period of renewed creative vigor that has seen him tackle a range of diverse roles and re‑engage with his early‑career franchise.\n\nDuring the interview Fraser discussed his upcoming portrayal of General Dwight D. Eisenhower in the World War II drama “Pressure,” noting how the film uses the D‑Day invasion to highlight the perils of disregarding scientific expertise. He also confirmed his return as Rick O’Connell in “The Mummy 4,” signaling a continuation of the character that launched his mainstream fame. Fraser’s remarks underscored a blend of historical gravitas and genre entertainment, illustrating the breadth of his current projects as he navigates both critical acclaim and blockbuster appeal.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:50",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-228",
-    "title": "US and Iran locked in unresolved Persian Gulf conflict, analyst says",
-    "slug": "us-and-iran-locked-in-unresolved-persian-gulf-conflict-analyst-says",
-    "content": "Mark Owen announced the appointment of Barbara Slavin as a Distinguished Fellow at the Simpson Center, noting her expertise on the protracted conflict in the Persian Gulf. Slavin characterizes the war as a mutually damaging stalemate in which neither Washington nor Tehran can secure a politically viable exit, emphasizing that “there are no winners in this war.” She argues that the dispute has evolved into a problem of face‑saving as much as military strategy, forcing both sides to confront mounting domestic pressures.\n\nAccording to Slavin, the United States is contending with rising economic costs and electoral liabilities, while Iran faces severe shortages, inflation, growing domestic dissent, and intensified repression. In her assessment, neither side can plausibly claim success, underscoring the entrenched nature of the conflict and the challenges any future resolution must address. The Simpson Center will incorporate her analysis into its broader research on Middle‑East security and diplomatic pathways.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:43",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-227",
-    "title": "New Hampshire primary viewed as gauge of Trump’s midterm outlook",
-    "slug": "new-hampshire-primary-viewed-as-gauge-of-trump-s-midterm-outlook",
-    "content": "Annette Young announced the arrival of Michelle Swers, a professor of government at Georgetown University, to discuss the upcoming New Hampshire primary. Swers described the contest as a pivotal Senate race that also serves as a strong barometer of the national political climate ahead of the November elections. She noted that Democrats, confronting a challenging Senate map, cannot afford to lose the open seat they currently hold, while the broader midterm environment is likely to function as a referendum on President Donald Trump’s performance.\n\nAccording to Swers, New Hampshire’s closely divided electorate makes it especially revealing of national trends. She highlighted Trump’s low approval ratings and the economic impact of tariffs on Canada as significant obstacles for Republican candidates in a state whose political identity emphasizes opposition to taxation. The analysis suggests that these factors could shape the outcome of the primary and influence the wider midterm race.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:37",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-226",
-    "title": "Ratko Mladic funeral in Belgrade raises tensions ahead of Bosnia election",
-    "slug": "ratko-mladic-funeral-in-belgrade-raises-tensions-ahead-of-bosnia-election",
-    "content": "Belgrade hosted the funeral of former Bosnian Serb military commander Ratko Mladic on Saturday, drawing a procession of Serbian officials and Bosnian Serb politicians, including the presidents of Serbia and Republika Srpska, as well as senior members of the Serbian Progressive Party. The ceremony, marked by military honors and the presence of nationalist symbols, came despite Mladic’s 2017 conviction by the International Criminal Tribunal for the former Yugoslavia for genocide, war crimes and crimes against humanity committed during the 1995 Srebrenica massacre. Government representatives in Serbia described the event as a “tribute to a soldier,” while Bosnian Serb leaders framed it as a moment of “historical remembrance,” prompting condemnation from Bosniak and Croat politicians who warned that the glorification of a war criminal threatens regional stability.\n\nThe funeral has intensified diplomatic strains between Belgrade and Sarajevo, with Bosnian authorities warning that the display could influence the upcoming general election scheduled for October 2026, in which nationalist parties are expected to vie for power in the country’s tripartite presidency. Analysts note that the overt support for Mladic may embolden hard‑line factions within the Bosnian Serb electorate, potentially reshaping coalition dynamics and complicating efforts to implement the Dayton peace accords. International observers have called for restraint and urged all parties to respect the rule of law ahead of the vote, emphasizing that the political climate remains fragile amid lingering wartime grievances.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:30",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-225",
-    "title": "Mao Zedong's legacy continues to shape China 50 years after his death",
-    "slug": "mao-zedong-s-legacy-continues-to-shape-china-50-years-after-his-death",
-    "content": "Beijing – On the 50th anniversary of Mao Zedong’s death, scholars, officials and cultural institutions gathered this week to assess the enduring impact of the former leader on contemporary China. The event, hosted by the Chinese Academy of Social Sciences, featured a series of lectures and panel discussions that examined Mao’s role in shaping the nation’s political structure, economic policies and social narratives. Organizers highlighted that Mao remains “perhaps the most influential, and certainly one of the most controversial, figures in 20th‑century China,” noting that his ideological legacy continues to inform party doctrine and public memory.\n\nParticipants presented new archival research and comparative analyses, indicating that Mao’s policies still affect modern governance, education curricula and media representation. The conference concluded with a consensus that while the historical assessment of Mao’s era evolves, its influence persists across multiple facets of Chinese society, underscoring the need for ongoing scholarly scrutiny.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:24",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-224",
-    "title": "WHO says smoking raises women's infertility risk by 40%",
-    "slug": "who-says-smoking-raises-women-s-infertility-risk-by-40",
-    "content": "The World Health Organization (WHO) issued a new publication on Tuesday warning that smoking significantly reduces a woman's chances of conceiving. According to the report, women who smoke face a 40 percent higher risk of infertility compared with non‑smokers, underscoring the reproductive hazards associated with tobacco use.\n\nThe WHO highlighted that nicotine and other chemicals in cigarette smoke can impair ovarian function, alter hormone levels, and damage the fallopian tubes, all of which contribute to reduced fertility. The agency recommends that women of reproductive age avoid smoking and seek cessation support to improve their prospects of a healthy pregnancy.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:18",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-223",
-    "title": "UN says Gaza women-headed households face daily impossible choices amid airstrikes",
-    "slug": "un-says-gaza-women-headed-households-face-daily-impossible-choices-amid-airstrik",
-    "content": "UN humanitarian officials warned on Tuesday that an increasing number of women‑headed households in Gaza are confronting daily “impossible decisions” as the enclave endures relentless Israeli airstrikes and persistent shortages of food, water, medicine and shelter. The assessment, issued by United Nations agencies operating in the territory, highlights that women who have become primary providers for their families are forced to choose between securing basic necessities and protecting their loved ones from further harm.\n\nThe report places the crisis within the broader context of the conflict that began in early October, noting that more than half of Gaza’s displaced population now lives in makeshift accommodations while essential services remain severely disrupted. Humanitarian actors say that limited access routes, damaged infrastructure and the ongoing bombardment have constrained aid deliveries, leaving many families without reliable sources of nutrition or healthcare. The UN agencies have appealed for an immediate scaling up of assistance and the establishment of safe corridors to ensure that vulnerable women and their children receive the support needed to survive the protracted emergency.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:12",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-222",
-    "title": "UN investigators say accountability essential for Syria's transition",
-    "slug": "un-investigators-say-accountability-essential-for-syria-s-transition",
-    "content": "UN independent investigators addressed the UN Human Rights Council in Geneva on Tuesday, emphasizing that any durable political transition in Syria must be underpinned by comprehensive accountability, broad-based inclusion and firm assurances that past violations will not be repeated. The panel, which monitors alleged war crimes and human‑rights abuses in the eight‑year conflict, warned that without these safeguards, prospects for lasting peace remain uncertain.\n\nIn their briefing, the investigators called for mechanisms to investigate and prosecute perpetrators, the participation of all Syrian constituencies in future governance structures, and legally binding guarantees to prevent recurrence of abuses. They urged the Council and member states to translate these principles into concrete actions, noting that accountability and inclusivity are essential to rebuilding trust and securing a sustainable settlement in the war‑torn country.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:03:05",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-221",
-    "title": "Hungary expels ten Russian diplomats, Russia vows response",
-    "slug": "hungary-expels-ten-russian-diplomats-russia-vows-response",
-    "content": "Moscow said it will mount a “harsh and painful” response after Hungary announced the expulsion of several Russian diplomats earlier this week. The Hungarian foreign ministry ordered the removal of three embassy staff members, citing alleged involvement in activities that threatened national security and contravened Hungary’s commitments to the European Union’s sanctions regime against Russia. The decision follows a series of diplomatic frictions between the two countries, including Hungary’s recent criticism of Moscow’s actions in Ukraine and its refusal to support new Russian initiatives at the United Nations.\n\nIn a statement delivered to state media, the Russian Foreign Ministry warned that the expulsions would trigger “reciprocal measures” that could affect Hungarian diplomatic personnel and interests in Russia, though it did not specify the exact nature of the retaliation. Analysts note that the escalation adds strain to an already tenuous relationship, with potential implications for bilateral trade, energy cooperation, and broader EU‑Russia relations. Both governments have called for calm, but the exchange underscores the deepening diplomatic rift as the conflict in Eastern Europe continues to shape foreign policies across the continent.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:02:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-220",
-    "title": "Maldives urges UK to resume Chagos Islands sovereignty talks",
-    "slug": "maldives-urges-uk-to-resume-chagos-islands-sovereignty-talks",
-    "content": "Maldives President Ibrahim Mohamed Solih has written to British Prime Minister Rishi Sunak urging that the United Kingdom refrain from transferring sovereignty of the Chagos Archipelago to Mauritius. In the letter, Solih argued that the handover could destabilise regional security and set a precedent for altering colonial-era boundaries without the consent of all affected parties, emphasizing the Maldives’ interest in maintaining the status quo in the Indian Ocean.\n\nThe request comes amid a long‑running dispute in which Mauritius claims the Chagos Islands—home to the U.S. military base on Diego Garcia—were unlawfully detached from its territory when the UK created the British Indian Ocean Territory in 1965. An International Court of Justice advisory opinion in 2019 declared the separation illegal, and the United Nations General Assembly subsequently called for the islands’ return to Mauritius. The Maldives’ intervention adds another voice to the diplomatic debate as the UK prepares to finalize the handover, a move that has drawn criticism from several Indian Ocean nations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:02:52",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-219",
-    "title": "Real Madrid vs Inter Milan UEFA Champions League live coverage",
-    "slug": "real-madrid-vs-inter-milan-uefa-champions-league-live-coverage",
-    "content": "Real Madrid’s clash against their rivals was streamed live with a text‑commentary feed that highlighted the contributions of recent signings Kylian Mbappé and Jude Bellingham. The build‑up to the match, detailed in the coverage, noted the tactical adjustments made by manager Carlo Ancelotti to integrate the two forwards into a 4‑3‑3 formation, emphasizing their roles in both attack and midfield transitions.\n\nIn the game, Mbappé opened the scoring with a swift counter‑attack finish in the 23rd minute, while Bellingham added a second‑half equaliser after a well‑timed run into the box. Their combined effort helped Real secure a 2‑1 victory, maintaining their lead in the league standings and reinforcing the impact of the high‑profile acquisitions. The live commentary concluded with a summary of key statistics, confirming the pair’s immediate influence on the team’s performance.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:02:46",
-    "author": "Al Jazeera",
     "isFeatured": false
   }
 ]
