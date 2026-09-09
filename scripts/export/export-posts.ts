@@ -266,6 +266,8 @@ async function exportPosts() {
     "utf-8"
   )
 
+  // Generate a tiny sitemap index plus small URL sets so /sitemap.xml is a
+  // static, fast asset instead of a server-rendered 22k+ URL response.
   generateStaticSitemap(posts, publicDir)
 
   console.log(`🕒 Timestamp: ${new Date().toISOString()}`)
