@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260909-451",
+    "title": "Roman Space Telescope to Directly Image Exoplanets",
+    "slug": "roman-space-telescope-to-directly-image-exoplanets",
+    "content": "Astronomers now estimate that the majority of stars in the Milky Way host planetary systems, a conclusion drawn from data gathered by space telescopes such as Kepler and TESS. By analyzing the minute dimming of starlight caused by transiting planets, researchers have identified thousands of exoplanets and inferred that even low‑mass stars—often overlooked in earlier surveys—tend to harbor rocky worlds. Statistical models suggest that roughly 50‑70 % of Sun‑like stars possess at least one planet, while M‑dwarfs may host several small planets each.\n\nThe discovery has reshaped our understanding of planetary formation and the potential for life beyond Earth. It implies that habitable zones around red dwarfs could be more common than previously thought, offering numerous targets for future missions such as the James Webb Space Telescope and the upcoming PLATO mission. Scientists are now refining their estimates by combining transit data with radial‑velocity measurements and direct imaging, aiming to map the distribution of planet sizes, orbits, and compositions across the galaxy.\n\nThese findings underscore the ubiquity of planetary systems and highlight the importance of continued exoplanet surveys. As detection techniques improve, astronomers anticipate uncovering a more complete census of worlds, ultimately informing the search for biosignatures and the broader quest to understand our place in the cosmos.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "9/10/2026 1:51:55",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-450",
+    "title": "Astronomers Observe Formation of Massive Binary Star System Over Past 60 Years",
+    "slug": "astronomers-observe-formation-of-massive-binary-star-system-over-past-60-years",
+    "content": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) have captured the merger of two protostars that are coalescing into a massive binary system. The high‑resolution observations, conducted in a star‑forming region of the Milky Way, reveal a turbulent environment marked by irregular gas flows, shock fronts and varying temperatures. Spectroscopic data indicate that the two objects possess distinct chemical signatures and angular momenta, suggesting they originated from separate molecular cloud fragments before converging under mutual gravity.\n\nThe chaotic dynamics observed during the merger challenge conventional models that assume binary stars form from a single, uniformly rotating disk. Instead, the findings imply that massive binaries can arise from the amalgamation of disparate stellar embryos, a process that may be more common in dense stellar nurseries than previously thought. Continued monitoring with ALMA and complementary facilities aims to determine how such interactions influence the final masses, orbital characteristics and eventual evolution of massive binary systems.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "9/10/2026 1:51:50",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-430",
     "title": "Trump to deliver keynote at first GOP midterm convention in Dallas",
     "slug": "trump-to-deliver-keynote-at-first-gop-midterm-convention-in-dallas",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/8/2026 23:12:45",
     "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-240",
-    "title": "Qatar, UAE urge Gulf to strengthen security beyond US reliance",
-    "slug": "qatar-uae-urge-gulf-to-strengthen-security-beyond-us-reliance",
-    "content": "Qatar and the United Arab Emirates have jointly urged the Gulf region to bolster its own defence capabilities, arguing that reliance on United States security guarantees is no longer sufficient. In a joint statement issued by officials from both states, the two governments highlighted growing regional tensions and the need for a more self‑reliant security posture to address potential threats from Iran.\n\nThe statement also underscored the difficulty of building trust with Iran, describing the relationship as a “mountain to climb.” It warned that the economic interdependence between the Gulf states and Tehran could leave their economies vulnerable, asserting that they cannot afford to be held hostage by Iranian policy. The call for enhanced regional cooperation is intended to strengthen collective deterrence and safeguard the economic stability of the Gulf.\n\nBoth Qatar and the UAE are urging Gulf allies to accelerate the development of integrated defence systems and to pursue greater strategic autonomy. The move reflects a broader shift in the region toward reducing dependence on external military support while addressing the evolving security landscape shaped by Iran’s regional ambitions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:12:39",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-239",
-    "title": "Saudi Arabia Strikes Back After Houthi Missile Attack on Oil Sites",
-    "slug": "saudi-arabia-strikes-back-after-houthi-missile-attack-on-oil-sites",
-    "content": "Houthi rebels fired a series of missiles that struck Abha International Airport, King Khalid Air Base and several Aramco facilities in Saudi Arabia, causing 73 injuries and temporarily shutting down key oil sites. The attacks, which occurred amid rising tensions in the region, prompted immediate emergency response and medical treatment for the wounded.\n\nIn retaliation, Saudi forces launched airstrikes on Houthi‑held areas in Taiz and Marib provinces. Analysts have warned that the escalation could trigger a “spiral of escalation,” potentially widening the conflict and affecting broader security dynamics in the Gulf.\n\nThe incident underscores the fragile security situation in the region, as both sides continue to engage in military operations. Saudi authorities are monitoring the situation closely while coordinating with international partners to mitigate further disruptions to civilian infrastructure and the oil sector.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/8/2026 23:12:34",
-    "author": "Euronews",
     "isFeatured": false
   }
 ]
