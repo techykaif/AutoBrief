@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260909-493",
+    "title": "Apple launches iPhone 18 Pro and iPhone 18 Pro Max",
+    "slug": "apple-launches-iphone-18-pro-and-iphone-18-pro-max",
+    "content": "Apple unveiled its latest flagship smartphones, the iPhone 18 Pro and iPhone 18 Pro Max, during a virtual launch event on September 9, 2026. The new models build on the company’s Pro‑series tradition, offering upgraded performance, camera systems, and design refinements. Apple highlighted the devices’ new A18 Chip, which delivers a 20 % boost in CPU and GPU performance over the previous generation, and introduced a 120 Hz ProMotion display with an adaptive refresh rate that extends battery life.\n\nBoth phones feature a redesigned titanium frame and a slimmer notch, while the camera array now includes a 200‑megapixel primary sensor and a periscope telephoto lens capable of 10× optical zoom. Battery capacity has increased to 4,500 mAh for the Pro and 5,200 mAh for the Pro Max, with faster 30 W wired and 20 W wireless charging support. Pricing starts at $1,099 for the iPhone 18 Pro and $1,399 for the iPhone 18 Pro Max, with storage options ranging from 256 GB to 2 TB. Apple also announced a new iOS 18 release that introduces advanced machine‑learning features and expanded privacy controls.\n\nThe launch was met with strong anticipation, reflected in the online discussion where the announcement quickly garnered over 190 points and 170 comments on a technology forum. Analysts note that the iPhone 18 series positions Apple to maintain its premium market share amid growing competition from rival manufacturers. The devices will be available for preorder starting September 15, with retail availability scheduled for September 22.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 3:52:02",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-492",
+    "title": "Automattic CEO Matt Mullenweg placed on leave of absence",
+    "slug": "automattic-ceo-matt-mullenweg-placed-on-leave-of-absence",
+    "content": "Automattic, the parent company of WordPress.com, announced that its chief executive officer, Matt Mullenweg, has been placed on a leave of absence. The notice, reported by 404media, did not specify the duration of the leave or the reasons behind the decision. Mullenweg, who co‑founded the open‑source WordPress platform and has led Automattic since its inception, remains a prominent figure in the web publishing industry.\n\nThe announcement quickly attracted attention on the technology news aggregator Hacker News, where the story earned 18 points and generated a single comment. No further details have been released by Automattic, and the company has indicated that its operations will continue uninterrupted while the leadership transition is addressed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 3:51:56",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-489",
     "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
     "slug": "san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads",
@@ -5474,28 +5496,6 @@
     "category": "Science",
     "categorySlug": "science",
     "publishedAt": "9/8/2026 23:32:43",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-280",
-    "title": "American cheetah was actually a puma relative",
-    "slug": "american-cheetah-was-actually-a-puma-relative",
-    "content": "Scientists have re‑identified the extinct “American cheetah” as a puma‑relative rather than a true cheetah, revealing a surprisingly adaptable hunting strategy. New fossil evidence from the Yukon indicates that northern populations of this large feline survived by incorporating fish into their diet, possibly including salmon, while their southern counterparts continued to hunt primarily on land.  \n\nThe discovery, based on skeletal remains and isotopic analyses, shows that the species was capable of exploiting diverse ecological niches. In the cooler, riverine environments of the Yukon, the cats likely preyed on fish and other aquatic organisms, whereas in the warmer southern regions they relied on terrestrial prey. This dual feeding strategy suggests a level of dietary flexibility that challenges previous assumptions about the species’ ecological role.  \n\nThe findings underscore the importance of regional adaptation in the survival of large predators and provide new insights into the life history of a long‑gone North American cat.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/8/2026 23:32:38",
-    "author": "Science Daily",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-279",
-    "title": "Semaglutide linked to lower psychiatric hospitalization risk in bipolar patients",
-    "slug": "semaglutide-linked-to-lower-psychiatric-hospitalization-risk-in-bipolar-patients",
-    "content": "Semaglutide, the active ingredient in the weight‑loss and diabetes drugs Ozempic and Wegovy, has shown a potential benefit for people with bipolar disorder, according to a large Swedish study. Researchers followed almost 15,000 individuals with the condition and found that those who used semaglutide experienced a 21 % reduction in the risk of psychiatric hospitalization compared with non‑users.\n\nThe investigators suggest that semaglutide’s influence on inflammation and brain‑related biological pathways may help stabilize mood. Interestingly, other glucagon‑like peptide‑1 (GLP‑1) receptor agonists did not demonstrate a similar association, indicating a possible unique effect of semaglutide. The study adds to a growing body of evidence that medications originally developed for metabolic disorders can have broader therapeutic applications.\n\nWhile the findings are promising, the researchers caution that further studies are needed to confirm the mechanism and to evaluate long‑term safety in bipolar patients. If confirmed, semaglutide could represent a novel adjunctive treatment option for reducing severe mood episodes in this population.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/8/2026 23:32:31",
     "author": "Science Daily",
     "isFeatured": false
   }
