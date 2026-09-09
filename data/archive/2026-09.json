@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260907-287",
+    "title": "Young Scientists Shift Away from Academic Careers, Survey Finds",
+    "slug": "young-scientists-shift-away-from-academic-careers-survey-finds",
+    "content": "A recent survey released in late spring 2025 found that one‑third of early‑career scientists who had been preparing for academic research careers have shifted their plans. The study, which sampled over 1,200 post‑doctoral researchers and doctoral candidates across the United States, revealed that a growing number of respondents now anticipate leaving academia or choosing non‑U.S. research positions. In addition, fewer participants reported that pursuing a Ph.D. was the right decision for them.\n\nThe survey’s findings echo broader concerns about the sustainability of the academic pipeline, citing factors such as limited funding, high competition for tenure‑track roles, and the increasing appeal of industry and policy positions. Respondents also highlighted the growing pressure to secure long‑term employment and the perceived lack of support for early‑stage researchers. While the study did not quantify the precise motivations behind each career shift, the trend suggests a significant re‑evaluation of traditional academic trajectories among the next generation of scientists.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 3:12:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-286",
+    "title": "James Stagg's Forecast Decided D-Day",
+    "slug": "james-stagg-s-forecast-decided-d-day",
+    "content": "In June 1944, meteorologist James Stagg delivered a forecast that many historians consider the most critical weather prediction of the Second World War. Stagg and his team at the Royal Air Force meteorological office analyzed atmospheric conditions to determine a suitable window for the Allied invasion of Normandy. The accuracy of the forecast was vital: over 150,000 Allied troops were poised to land on the French coast, and any miscalculation could have jeopardized the operation and extended the war in Europe.\n\nThe briefing took place in a room at Southwick House near Portsmouth, where General Dwight D. Eisenhower, commander of the Allied Expeditionary Force, awaited the meteorological assessment. Stagg’s analysis identified a brief period of relatively calm seas and low winds, conditions deemed necessary for the amphibious assault and the subsequent air operations that would support the landing. The forecast’s precision allowed the Allies to schedule the invasion for the night of June 5th, with the main landings commencing at dawn on June 6th, now known as D‑Day.\n\nThe successful execution of Operation Overlord hinged on Stagg’s weather prediction, underscoring the critical role of meteorology in military strategy. The forecast not only facilitated the immediate invasion but also set the stage for the Allied push into occupied Europe, ultimately contributing to the eventual defeat of Nazi Germany.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 3:12:44",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260907-285",
+    "title": "Uneven Battery Surfaces Mimic Ion Pathways, KAIST Finds",
+    "slug": "uneven-battery-surfaces-mimic-ion-pathways-kaist-finds",
+    "content": "A recent study from the Korea Advanced Institute of Science and Technology (KAIST) has revealed that a visual signal often interpreted as ions moving within a battery is actually an artifact produced by surface irregularities. The research team identified that uneven topography on the electrode surface can generate misleading contrast in imaging techniques, causing scientists to misread the internal ionic dynamics of the cell.\n\nBy systematically characterizing the relationship between surface roughness and the resulting imaging distortion, the investigators developed a correction protocol that normalizes the signal across varying electrode morphologies. The method, which can be applied to a range of imaging modalities, reduces the likelihood of false positives and improves the reliability of data used to evaluate battery performance and degradation mechanisms.\n\nThe findings underscore the importance of accounting for surface-induced artifacts in battery diagnostics. With the new correction technique, researchers can obtain more accurate insights into ion transport and material behavior, potentially accelerating the development of more efficient and durable energy storage systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/8/2026 3:12:39",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260907-284",
     "title": "Researchers Highlight Evidence Gaps in Badger TB Vaccination",
     "slug": "researchers-highlight-evidence-gaps-in-badger-tb-vaccination",
