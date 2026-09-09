@@ -267,6 +267,8 @@ async function exportPosts() {
   )
 
   generateStaticSitemap(posts, publicDir)
+
+  console.log(`🕒 Timestamp: ${new Date().toISOString()}`)
 }
 
 exportPosts().catch((err) => {
