@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Mohd Kaif Ansari" }],
   creator: "Mohd Kaif Ansari",
   robots: { index: true, follow: true },
+  verification: {
+    google: "JaS2NIRQlSYOw0XEaYrSQP3RYE3kwbgxy5tV-6w4-x8",
+  },
   icons: {
     icon: [
       { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
