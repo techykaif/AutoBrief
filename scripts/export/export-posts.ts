@@ -149,6 +149,10 @@ function generateStaticSitemap(posts: ReturnType<typeof rowToPost>[], publicDir:
   if (fs.existsSync(sitemapDir)) fs.rmSync(sitemapDir, { recursive: true, force: true })
   fs.mkdirSync(sitemapDir, { recursive: true })
 
+  const categoryUrls = Array.from(
+    new Set(posts.map((post) => post.categorySlug).filter(Boolean))
+  ).map((slug) => `${SITE_URL}/category/${slug}`)
+
   const urls = [
     SITE_URL,
     `${SITE_URL}/categories`,
@@ -156,6 +160,7 @@ function generateStaticSitemap(posts: ReturnType<typeof rowToPost>[], publicDir:
     `${SITE_URL}/privacy`,
     `${SITE_URL}/disclaimer`,
     `${SITE_URL}/dmca`,
+    ...categoryUrls,
     ...posts.map((post) => `${SITE_URL}/news/${post.slug}`),
   ]
 
