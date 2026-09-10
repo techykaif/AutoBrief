@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260908-362",
+    "title": "Google AI Weather Model Update Boosts Forecast Accuracy",
+    "slug": "google-ai-weather-model-update-boosts-forecast-accuracy",
+    "content": "A research consortium announced today the launch of a new climate‑prediction system that, like traditional weather models, benefits from an expanded set of inputs. The system, developed by scientists at the Global Atmospheric Research Center, integrates satellite observations, ground‑based sensor data, oceanic measurements, and high‑resolution topographic information to generate forecasts that span seasonal to decadal timescales.\n\nThe expanded input framework allows the model to capture a broader range of physical processes, from cloud microphysics to ocean heat transport. Early validation tests show a measurable improvement in the accuracy of temperature and precipitation projections for mid‑latitude regions, with error reductions of up to 15 % compared to the previous generation of models. Researchers noted that the inclusion of real‑time aerosol and greenhouse gas concentration data further refines the model’s ability to simulate atmospheric composition changes.\n\nBy enhancing the fidelity of long‑term climate projections, the new system is expected to support policymakers in evaluating adaptation strategies and in meeting international climate reporting obligations. The consortium plans to release the model outputs to the scientific community later this year, aiming to foster broader collaboration and to refine global climate risk assessments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 1:52:42",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260908-361",
     "title": "Meta Ads Promote Nudifying Apps Targeting Teens",
     "slug": "meta-ads-promote-nudifying-apps-targeting-teens",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260910-097",
+    "title": "SpaceX to launch classified USSF-153 mission for US Space Force on Sept. 10",
+    "slug": "spacex-to-launch-classified-ussf-153-mission-for-us-space-force-on-sept-10",
+    "content": "SpaceX is scheduled to lift off today, September 10, carrying the classified USSF‑153 mission on behalf of the United States Space Force. The launch will take place from Space Launch Complex 40 at Cape Canaveral Space Force Station, using a Falcon 9 booster that has previously flown on multiple government and commercial missions. The payload, identified only as USSF‑153, is part of the Space Force’s ongoing effort to expand its on‑orbit capabilities, though specific objectives and payload details remain undisclosed due to the mission’s classified status.\n\nThe flight will be streamed live on SpaceX’s official website and the company’s social media channels, allowing the public to observe the launch sequence in real time. Officials from both SpaceX and the Space Force have confirmed that the mission follows a standard launch profile, with the first stage expected to return to a designated landing zone after separation. Completion of the USSF‑153 mission will add to the growing inventory of classified assets supporting national security operations in space.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "9/10/2026 10:21:46",
+    "author": "Space.com",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-096",
     "title": "Rhode Island Governor Dan McKee Defeated in Democratic Primary by Helena Foulkes",
     "slug": "rhode-island-governor-dan-mckee-defeated-in-democratic-primary-by-helena-foulkes",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/9/2026 1:52:48",
     "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260908-362",
-    "title": "Google AI Weather Model Update Boosts Forecast Accuracy",
-    "slug": "google-ai-weather-model-update-boosts-forecast-accuracy",
-    "content": "A research consortium announced today the launch of a new climate‑prediction system that, like traditional weather models, benefits from an expanded set of inputs. The system, developed by scientists at the Global Atmospheric Research Center, integrates satellite observations, ground‑based sensor data, oceanic measurements, and high‑resolution topographic information to generate forecasts that span seasonal to decadal timescales.\n\nThe expanded input framework allows the model to capture a broader range of physical processes, from cloud microphysics to ocean heat transport. Early validation tests show a measurable improvement in the accuracy of temperature and precipitation projections for mid‑latitude regions, with error reductions of up to 15 % compared to the previous generation of models. Researchers noted that the inclusion of real‑time aerosol and greenhouse gas concentration data further refines the model’s ability to simulate atmospheric composition changes.\n\nBy enhancing the fidelity of long‑term climate projections, the new system is expected to support policymakers in evaluating adaptation strategies and in meeting international climate reporting obligations. The consortium plans to release the model outputs to the scientific community later this year, aiming to foster broader collaboration and to refine global climate risk assessments.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 1:52:42",
-    "author": "Ars Technica",
     "isFeatured": false
   }
 ]
