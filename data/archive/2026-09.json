@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260909-158",
+    "title": "Lotus Notes: Risks of Building From Scratch",
+    "slug": "lotus-notes-risks-of-building-from-scratch",
+    "content": "A new post on the Buttondown blog titled “Lotus Notes Email” has drawn attention from the tech community, garnering 29 points and 16 comments on Hacker News. The article revisits IBM’s long‑standing Lotus Notes platform, outlining its historical role as an integrated email, calendar, and collaboration suite, and examining how the service is still employed in certain enterprise environments despite the rise of cloud‑based alternatives. The author details the technical architecture of Lotus Notes, the challenges of maintaining legacy installations, and offers guidance on migration strategies for organizations seeking to transition to modern email solutions.\n\nThe discussion on Hacker News reflects a broader interest in legacy system upkeep and the practical considerations of moving away from dated infrastructure. Commenters exchanged experiences about the complexities of data export, compatibility with contemporary security standards, and the cost implications of either sustaining Lotus Notes or adopting newer platforms. The thread underscores the ongoing relevance of legacy email systems in niche sectors and highlights the community’s focus on pragmatic migration pathways.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 17:44:37",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-157",
+    "title": "AI Math Breakthrough Sparks Debate",
+    "slug": "ai-math-breakthrough-sparks-debate",
+    "content": "A recent article in *Science* reports that a large‑language‑model AI has produced a proof of a long‑standing mathematical conjecture, a development that has drawn sharp debate within the mathematical community. The model, trained on vast amounts of mathematical literature, generated a sequence of logical steps that purportedly establishes the conjecture’s truth. While the proof is formally coherent and passes initial automated checks, many experts point out that the reasoning is not yet subjected to the rigorous peer‑review process that has",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 17:44:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-156",
     "title": "Anthropic researcher estimates AI has >10% chance of human extinction",
     "slug": "anthropic-researcher-estimates-ai-has-10-chance-of-human-extinction",

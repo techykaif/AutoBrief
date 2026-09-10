@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260910-438",
+    "title": "OpenAI Launches ChatGPT for Financial Services to Assist Junior Bankers",
+    "slug": "openai-launches-chatgpt-for-financial-services-to-assist-junior-bankers",
+    "content": "OpenAI has unveiled a new version of its ChatGPT platform specifically tailored for the financial services industry. The update, branded as “ChatGPT for Financial Services,” is designed to automate the labor‑intensive tasks that junior bankers typically perform, including data‑driven research, financial modeling, and the creation of pitchbooks. By integrating advanced natural‑language processing with industry‑specific knowledge bases, the tool aims to streamline the preparation of investment proposals and market analyses.\n\nThe platform offers a range of features that mirror the workflow of a junior analyst: automated extraction of key metrics from earnings reports, generation of financial projections based on historical data, and drafting of narrative sections for pitchbooks. Users can input raw data or brief prompts and receive polished, ready‑to‑use content that aligns with regulatory and compliance standards. OpenAI has emphasized that the solution is intended to augment, not replace, human expertise, allowing analysts to focus on higher‑level strategic decisions while routine tasks are handled by the AI.\n\nIndustry observers note that the launch could reshape the early‑career pipeline in investment banking, potentially reducing the volume of repetitive work and accelerating deal‑cycle timelines. While the technology promises greater efficiency, firms will need to evaluate how best to integrate the tool into existing processes and manage the transition for staff accustomed to traditional methods. The introduction of ChatGPT for Financial Services marks a significant step toward broader adoption of AI in the sector’s back‑office operations.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/11/2026 1:31:57",
+    "author": "CNBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-437",
+    "title": "Global bond sell‑off intensifies as oil prices rise above $107 per barrel",
+    "slug": "global-bond-sell-off-intensifies-as-oil-prices-rise-above-107-per-barrel",
+    "content": "Crude oil prices surged 6% on Thursday, breaking the $107‑a‑barrel threshold as investors grew increasingly uneasy about developments in the Middle East. Traders cited advances by Houthi rebels along Yemen’s Red Sea coast, which threaten to disrupt Saudi crude exports, as the primary catalyst for the rally. The spike in oil prices coincided with a broad sell‑off of government bonds across major economies, pushing yields higher and raising the cost of borrowing for sovereign issuers.\n\nThe combination of rising energy costs and tighter credit conditions has amplified concerns about inflationary pressures worldwide. Analysts warned that sustained higher oil prices could feed into consumer prices, while the heightened borrowing costs may constrain fiscal flexibility for governments already grappling with elevated debt levels. Market participants will be watching both the geopolitical situation in the Red Sea and the response of central banks to gauge the trajectory of inflation and financial stability in the coming weeks.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/11/2026 1:31:51",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-421",
     "title": "Genuine Creativity Is Your New Moat",
     "slug": "genuine-creativity-is-your-new-moat",
@@ -5474,28 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "9/9/2026 17:44:44",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-158",
-    "title": "Lotus Notes: Risks of Building From Scratch",
-    "slug": "lotus-notes-risks-of-building-from-scratch",
-    "content": "A new post on the Buttondown blog titled “Lotus Notes Email” has drawn attention from the tech community, garnering 29 points and 16 comments on Hacker News. The article revisits IBM’s long‑standing Lotus Notes platform, outlining its historical role as an integrated email, calendar, and collaboration suite, and examining how the service is still employed in certain enterprise environments despite the rise of cloud‑based alternatives. The author details the technical architecture of Lotus Notes, the challenges of maintaining legacy installations, and offers guidance on migration strategies for organizations seeking to transition to modern email solutions.\n\nThe discussion on Hacker News reflects a broader interest in legacy system upkeep and the practical considerations of moving away from dated infrastructure. Commenters exchanged experiences about the complexities of data export, compatibility with contemporary security standards, and the cost implications of either sustaining Lotus Notes or adopting newer platforms. The thread underscores the ongoing relevance of legacy email systems in niche sectors and highlights the community’s focus on pragmatic migration pathways.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 17:44:37",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-157",
-    "title": "AI Math Breakthrough Sparks Debate",
-    "slug": "ai-math-breakthrough-sparks-debate",
-    "content": "A recent article in *Science* reports that a large‑language‑model AI has produced a proof of a long‑standing mathematical conjecture, a development that has drawn sharp debate within the mathematical community. The model, trained on vast amounts of mathematical literature, generated a sequence of logical steps that purportedly establishes the conjecture’s truth. While the proof is formally coherent and passes initial automated checks, many experts point out that the reasoning is not yet subjected to the rigorous peer‑review process that has",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 17:44:29",
     "author": "Hacker News",
     "isFeatured": false
   }
