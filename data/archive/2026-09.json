@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260908-443",
+    "title": "LLMs Show New Social Biases Through Adaptive Exploration",
+    "slug": "llms-show-new-social-biases-through-adaptive-exploration",
+    "content": "A new research challenge has been announced on the OpenReview platform, with the submission page redirecting to a forum thread identified by the ID `pc7fqaOcAH`. The call for papers, which appears to focus on advances in machine‑learning methodology, was highlighted on Hacker News where the discussion thread currently holds 29 points and five comments, indicating modest but focused interest from the community.\n\nThe challenge invites researchers to submit manuscripts that present novel algorithms, theoretical insights, or empirical studies in the field of artificial intelligence. Submissions are expected to follow OpenReview’s open‑review format, allowing for transparent peer feedback. The associated forum thread serves as a hub for participants to discuss the scope of the challenge, clarify submission guidelines, and share preliminary findings. The engagement on Hacker News suggests that the community is actively monitoring the event, though the discussion remains relatively concise.\n\nIf accepted, the papers will be published on OpenReview and may be considered for inclusion in a forthcoming special issue of a leading AI journal. The organizers encourage early participation and emphasize the importance of rigorous methodology and reproducibility. Researchers interested in contributing should review the detailed instructions on the OpenReview page and join the forum conversation to stay updated on deadlines and review procedures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-442",
+    "title": "Meta Launches Muse AI Agent to Compete with OpenClaw and Instinct",
+    "slug": "meta-launches-muse-ai-agent-to-compete-with-openclaw-and-instinct",
+    "content": "A new AI‑powered platform called Muse has been unveiled by an unnamed tech firm, positioning itself as a direct competitor to established services OpenClaw and Instinct. According to the company’s announcement, Muse is designed to streamline a wide range of consumer transactions, from selling a vehicle to booking a flight, by integrating multiple service APIs into a single conversational interface.\n\nThe platform leverages advanced natural‑language processing and automated workflow orchestration to handle complex tasks that typically require multiple steps and third‑party applications. Early demonstrations show Muse can negotiate the sale of a used car, secure financing options, and simultaneously schedule a travel itinerary, all within a single chat session. By consolidating these functions, the company argues Muse offers a more efficient and user‑friendly alternative to the fragmented tools currently available in the market.\n\nIndustry analysts note that Muse’s entry could accelerate the shift toward unified digital assistants in e‑commerce and travel. While the service is still in beta testing, its broad scope suggests it could redefine how consumers manage routine transactions, potentially reshaping the competitive landscape dominated by OpenClaw and Instinct.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:45",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-441",
+    "title": "Ig Nobels 2026 Spotlight: Cockroach Milk, Nose-Blowing, Mosquito Printers",
+    "slug": "ig-nobels-2026-spotlight-cockroach-milk-nose-blowing-mosquito-printers",
+    "content": "Each year a distinctive set of awards highlights scientific studies that are unconventional, humorous, or seemingly absurd, yet often illuminate deeper questions within the scientific community. Known for celebrating the “weirdest research,” these prizes draw attention to investigations that, while odd on the surface, can prompt serious inquiry into underlying mechanisms and methodological rigor.\n\nAdministered by the Harvard–Smithsonian Center for the History of Science and presented at a ceremony on the MIT campus, the awards have recognized a wide range of topics since their inception in 1991, from the physics of why toast lands butter‑side down to the biology of why humans blush. Organizers emphasize that the purpose of the honors is to encourage curiosity, broaden public interest in science, and underscore that even the most eccentric experiments can raise important scientific questions. The next ceremony is scheduled for early October, where new laureates will be announced and their research presented to an audience of scholars and the general public.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:39",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-440",
+    "title": "ChatGPT Adds Sketch Tool to Convert Doodles into AI Images",
+    "slug": "chatgpt-adds-sketch-tool-to-convert-doodles-into-ai-images",
+    "content": "OpenAI unveiled a new “Sketch” feature in ChatGPT Images 2.5 that lets users generate realistic images from simple doodles. By typing @Sketch into the chat, a drawing window appears, allowing users to sketch an idea and then describe how they want it rendered. In a brief test, a user drew a rough cat with a computer mouse and instructed ChatGPT to produce a realistic photo; the system successfully produced a detailed image that matched the description.\n\nThe update also adds the ability to comment directly on parts of generated images, giving users finer control over revisions and feedback. The feature is part of OpenAI’s broader push to make image creation more intuitive and interactive, building on the capabilities introduced in the earlier ChatGPT Images release. The Verge reports that the Sketch tool is now live for all ChatGPT Plus and Enterprise subscribers, expanding the platform’s creative toolkit.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:32",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-439",
+    "title": "Razer BlackShark V3 Pro Gaming Headset Now $165 on Woot",
+    "slug": "razer-blackshark-v3-pro-gaming-headset-now-165-on-woot",
+    "content": "Razer’s latest gaming headset, the BlackShark V3 Pro, is now available on Woot for $164.99, a discount of up to $100 from its regular price of $249.99. The deal highlights the headset’s high‑end features—including active noise cancellation (ANC) and dual‑mode audio that supports both a low‑latency 2.4 GHz transmitter and Bluetooth 5.3—at a price point rarely seen for gear under $200. The Xbox‑specific model is the most versatile, offering compatibility with PlayStation, PC, Nintendo Switch, and mobile devices.\n\nCompared with the older BlackShark V2 Pro, the V3 Pro adds ANC and simultaneous audio across the 2.4 GHz and Bluetooth connections, though the sale includes only a 90‑day Woot warranty. The headset’s bulk is offset by its removable boom mic and portable headphone mode, making it suitable for both stationary gaming and on‑the‑go listening. A special edition version, priced at $149.99, is also available for fans of Riot’s upcoming fighting game 2XKO.\n\nOverall, the discounted price makes the BlackShark V3 Pro an attractive option for gamers seeking premium audio features without a premium price tag, while the limited warranty and bulkier form factor remain considerations for potential buyers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:27",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-438",
+    "title": "Rivian's Also Delays TM-B E-Bike Delivery",
+    "slug": "rivian-s-also-delays-tm-b-e-bike-delivery",
+    "content": "Rivian’s micromobility spinoff, Also, has pushed a new electric bike, the TM‑B, into the spotlight, but the launch is now delayed and early adopters are voicing frustration. The company originally promised that deliveries would begin in the first half of 2024, yet production has stalled, leaving customers who pre‑ordered the bike without a clear timeline.\n\nThe TM‑B stands out with a handful of high‑tech features that are proving difficult to mass‑produce. Its USB‑C‑chargeable battery, removable seat post, and a software‑controlled pedal‑by‑wire system set it apart from conventional e‑bikes, but each component introduces a new supply‑chain and engineering hurdle. The complexity of integrating a fully digital pedal system, in particular, has created bottlenecks that the product team has struggled to resolve, pushing back the production schedule.\n\nWith the delay, customer sentiment has turned increasingly negative, as people who were excited by the bike’s unique design now face uncertainty about when they will receive their orders. Rivian’s leadership has acknowledged the challenges and is working to streamline the manufacturing process, but the company has yet to provide a definitive new delivery window.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:22",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-437",
+    "title": "OpenAI Claims Solution to Navier-Stokes Problem",
+    "slug": "openai-claims-solution-to-navier-stokes-problem",
+    "content": "OpenAI announced on Tuesday that its internal research team has found a solution to the Navier‑Stokes problem, a mathematical challenge that has resisted resolution for roughly 90 years. The claim follows earlier coverage by *The New York Times* and *Wired*, which highlighted the significance of the breakthrough as one of the seven Millennium Prize Problems that carry a $1 million reward for a correct solution.\n\nAccording to a blog post released by the company, the breakthrough was achieved using an AI model that surpasses the newly released GPT‑6 Astra and operates with 10,000 concurrent agents. Training of the model began on August 28, and the system reportedly exhibited unprecedented performance in simulating fluid dynamics, a key component of the Navier‑Stokes equations that describe the behavior of liquids and gases.\n\nWhile OpenAI has not yet provided a formal proof or peer‑reviewed documentation, the announcement marks a potentially transformative moment for both computational mathematics and the broader AI community. Verification by independent experts will be essential to confirm the validity of the claimed solution and to assess its impact on the long‑standing quest for a definitive resolution to the Navier‑Stokes problem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:16",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-436",
+    "title": "Sony to cut disc production by 10% in 2028, not 90%",
+    "slug": "sony-to-cut-disc-production-by-10-in-2028-not-90",
+    "content": "Sony has reaffirmed its plan to discontinue the production of video‑game discs in January 2028, but the company is not shutting down its remaining disc‑manufacturing facilities as rapidly as previously reported. Two months after industry chatter suggested that Sony’s last dedicated disc‑making plant was already being repurposed, the company’s disc‑making division clarified a widely circulated claim. An unnamed Sony DADC spokesperson told Game journalist Brian Crecente that the Thalgau plant, which has been the backbone of Sony’s physical media output, will actually reduce its disc output by only 10 percent in 2028, not the 90 percent that had been reported.\n\nThe correction comes after the division’s president appeared to misstate the scale of the cutback. While the company remains committed to phasing out discs, the revised figure indicates a more gradual transition. Sony’s decision to end disc production aligns with a broader industry shift toward digital distribution, yet the company is maintaining a modest production level for the remaining months to support existing inventory and transition plans. The updated numbers suggest that Sony will continue to supply physical discs for a limited period, allowing retailers and consumers to adjust to the upcoming change.\n\nIn summary, Sony is sticking to its 2028 deadline for disc discontinuation but is easing the pace of its plant shutdown. The Thalgau facility will reduce output by a tenth rather than nine-tenths, reflecting a more measured approach to winding down physical media. This adjustment underscores Sony’s intent to manage the transition smoothly while still meeting demand for the final months of disc availability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:10",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260908-435",
+    "title": "Exploration Company secures $450 million Series C funding for reusable spacecraft",
+    "slug": "exploration-company-secures-450-million-series-c-funding-for-reusable-spacecraft",
+    "content": "The Exploration Company (TEC) announced a $450 million Series C financing round, which it describes as the largest ever raised by a European space firm at this stage. The capital injection comes from a consortium of institutional investors and venture capital firms, though the company did not disclose the full list of participants. The funding will be directed toward the development of TEC’s reusable spacecraft platform, a project aimed at reducing launch costs and expanding access to orbital services for commercial and scientific customers.\n\nIndustry analysts note that the sizeable round underscores growing confidence in Europe’s private‑space sector, which has traditionally lagged behind its U.S. counterparts in raising late‑stage capital. TEC plans to begin flight testing of its reusable vehicle within the next two years, with the long‑term goal of establishing a regular cadence of missions for satellite deployment, in‑orbit servicing, and potential lunar activities. The successful close of the round positions the company to compete more directly with established players in the emerging market for reusable launch systems.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 4:42:03",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260908-434",
     "title": "Cognition Valued at $48 Billion, Exceeds Cursor's Pre‑SpaceX Multiple",
     "slug": "cognition-valued-at-48-billion-exceeds-cursor-s-pre-spacex-multiple",
