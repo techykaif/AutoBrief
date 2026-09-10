@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260910-342",
+    "title": "Injectable nanodevices could provide effective treatment for drug-resistant glioblastoma",
+    "slug": "injectable-nanodevices-could-provide-effective-treatment-for-drug-resistant-glio",
+    "content": "Glioblastoma, the most aggressive form of brain cancer, remains a formidable challenge for oncologists worldwide. Despite advances in surgical techniques, radiation, and chemotherapy, the disease carries a grim prognosis, with median survival ranging only from 12 to 15 months after diagnosis.\n\nThe tumor’s rapid growth and diffuse infiltration into surrounding brain tissue make complete resection nearly impossible, while its genetic heterogeneity fuels resistance to standard therapies. Current treatment protocols typically combine maximal safe resection, temozolomide chemotherapy, and concurrent radiotherapy, yet recurrence is almost inevitable. Researchers are exploring novel approaches—including immunotherapy, targeted agents, and precision medicine—to overcome these obstacles, but progress has been slow.\n\nAs the medical community continues to investigate new strategies, the outlook for glioblastoma patients remains bleak. Ongoing clinical trials and basic science studies are essential to improve survival and quality of life for those affected by this devastating disease.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 23:12:02",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-339",
+    "title": "Study shows tiny optical component flaws affect light polarization and beam shape",
+    "slug": "study-shows-tiny-optical-component-flaws-affect-light-polarization-and-beam-shap",
+    "content": "A collaborative study led by researchers at the Technical University of Darmstadt has demonstrated that minute manufacturing defects in optical components can produce measurable changes in both the polarization and the spatial profile of a light beam. The team examined a series of lenses and waveplates fabricated with tolerances typical of mass‑produced optics, using high‑resolution polarimetric imaging and beam‑shape analysis to quantify the effects of surface irregularities and internal stress patterns that are usually considered negligible. Their measurements revealed that even sub‑micrometer deviations from ideal geometry introduce anisotropic scattering, which modifies the orientation of the electric field vector and reshapes the intensity distribution across the beam cross‑section.\n\nThe findings highlight a previously underappreciated source of error for precision photonic applications, including laser communication, microscopy, and quantum‑optics experiments, where beam quality and polarization stability are critical. By establishing a direct link between manufacturing imperfections and beam deformation, the research provides a basis for improved quality‑control standards and the development of corrective algorithms that can compensate for such defects in real time. The study underscores the need for tighter fabrication tolerances and more comprehensive testing protocols to ensure the reliability of advanced optical systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 23:11:51",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-325",
     "title": "ArcadeDB Releases Native Python and TypeScript Drivers Built from OpenAPI and Protobuf",
     "slug": "arcadedb-releases-native-python-and-typescript-drivers-built-from-openapi-and-pr",
@@ -5474,28 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "9/9/2026 17:32:00",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-127",
-    "title": "Iran Revolutionary Guards claim attack on US base in Jordan",
-    "slug": "iran-revolutionary-guards-claim-attack-on-us-base-in-jordan",
-    "content": "Iran’s Islamic Revolutionary Guard Corps (IRGC) announced on Wednesday that it had carried out a bombing of a U.S. military installation in Jordan, describing the strike as retaliation for recent American attacks on Iranian oil tankers. The IRGC said the operation was a direct response to U.S. forces destroying five Iranian oil tankers on Tuesday, an action taken after Iran allegedly targeted an American warship—a second such incident reported within a week.\n\nU.S. officials have not confirmed the details of the alleged Jordanian base attack, but the escalation follows a series of confrontations in the region that have heightened tensions between Tehran and Washington. The U.S. destruction of the tankers was justified by the Pentagon as a defensive measure against Iranian aggression toward its naval assets. France 24’s Reza Sayah reported from Tehran on the developments, noting that both sides appear poised for further military responses amid the deepening dispute.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 17:23:54",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-126",
-    "title": "Saudi retaliates with strikes after Houthi attacks on oil facilities",
-    "slug": "saudi-retaliates-with-strikes-after-houthi-attacks-on-oil-facilities",
-    "content": "Saudi Arabia launched air strikes on Tuesday in retaliation after the Houthi movement attacked oil facilities, wounding dozens of workers, the coalition said. The strikes marked a rapid escalation in hostilities that resumed this week when Houthi forces advanced toward the strategic Bab al‑Mandab chokepoint at the southern entrance to the Red Sea, a critical artery for global shipping. Saudi officials described the response as a necessary measure to protect vital energy infrastructure and to deter further Houthi aggression in the region.\n\nThe renewed fighting follows the collapse of a four‑year cease‑fire between the Houthis and the Saudi‑backed Yemeni government, which unraveled in July. Since then, intermittent clashes have flared, but the latest offensive and counter‑offensive have intensified the conflict, raising concerns about broader disruption to maritime traffic and regional stability. Both sides have warned that further attacks could continue as the stalemate deepens.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 17:23:48",
     "author": "France 24",
     "isFeatured": false
   }
