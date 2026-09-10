@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260910-271",
+    "title": "Garcia Says Benn Deserves No WBC Title Shot",
+    "slug": "garcia-says-benn-deserves-no-wbc-title-shot",
+    "content": "Ryan Garcia, the former WBC welterweight champion, has publicly dismissed Conor Benn as an “average fighter” who does not merit a shot at the WBC title. In a recent interview, Garcia criticized Benn’s record and skill set, arguing that the British prospect lacks the experience and power required to compete at the highest level. Garcia’s remarks come as Benn is slated to face the reigning champion in a title bout that many analysts view as a pivotal moment for the division.\n\nBenn, who has compiled a respectable 17‑win record with 11 knockouts, has steadily climbed the rankings through a series of victories over mid‑tier opponents. His recent win over a former world title challenger earned him a mandatory challenge for the WBC belt, a decision that Garcia and other commentators have questioned. Garcia’s statement reflects a broader debate in boxing circles about the merit of Benn’s ascent and whether his style and achievements justify a championship opportunity.\n\nThe comments add another layer of intrigue to the upcoming title fight, potentially influencing public perception and betting markets. While Benn’s camp maintains that the boxer has earned his place in the spotlight, Garcia’s critique underscores the ongoing scrutiny that fighters face as they vie for world titles. The bout will likely serve as a decisive test of Benn’s legitimacy as a contender and may shape the trajectory of both fighters’ careers.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 19:52:21",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-270",
+    "title": "Holly Aitchison to start as England fly‑half in WXV opener",
+    "slug": "holly-aitchison-to-start-as-england-fly-half-in-wxv-opener",
+    "content": "Holly Aitchison will earn her 50th England cap when she starts at fly‑half in the Red Roses’ WXV opener against Australia on Saturday in Manchester. The match, part of the inaugural WXV tournament, will see England take on the Australian side in a high‑profile fixture that marks a milestone for the veteran backline player.\n\nAitchison, who has been a mainstay of the national team since her debut, will be joined by a squad that includes a mix of experienced internationals and emerging talents. The game is scheduled for Saturday afternoon and will be played at a venue that has hosted several major women's rugby events, providing a fitting stage for the milestone appearance.\n\nEngland’s preparation has focused on strengthening their kicking game and defensive structure, with Aitchison expected to play a pivotal role in directing play from the half‑back position. The Red Roses aim to secure a strong start to their WXV campaign, while Aitchison’s 50th cap underscores her enduring contribution to English women's rugby.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 19:52:13",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-269",
+    "title": "Smith's 50 makes him England's fourth half-century in innings SUMMARY: Jamie Smith scored a half-century in the innings against Pakistan. His 50 helped England secure a strong lead on day two of the third Test at Edgbaston.",
+    "slug": "smith-s-50-makes-him-england-s-fourth-half-century-in-innings-summary-jamie-smit",
+    "content": "Jamie Smith reached his half‑century in the England innings against Pakistan, becoming the fourth English batter to score 50 runs in the third Test at Edgbaston. His steady 50 helped England establish a solid platform on day two, setting the tone for a strong lead over the visitors.  \n\nThe milestone came as part of a broader effort to secure a comfortable advantage, with England’s batting lineup delivering consistent performances. Smith’s contribution added depth to the scorecard, reinforcing the team’s position as they prepared to defend the lead in the remaining sessions.  \n\nWith the innings now in hand, England looks to maintain momentum and capitalize on the advantage, while Pakistan will seek to regroup and mount a comeback in the later stages of the match.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 19:52:05",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-268",
+    "title": "French football federation calls for FIFA reform after ending Infantino support",
+    "slug": "french-football-federation-calls-for-fifa-reform-after-ending-infantino-support",
+    "content": "Paris – Leaders of the French football establishment announced on Tuesday that they will explore reforms to the governance of FIFA following the French Football Federation’s (FFF) decision to withdraw its backing of President Gianni Infantino. The move marks the latest high‑profile withdrawal of support for Infantino, who has faced growing criticism from several national associations over issues ranging from transparency to the handling of World Cup allocations.\n\nThe French delegation, headed by FFF president Philippe Diallo, said the federation will convene a working group to examine the structure, decision‑making processes and accountability mechanisms within FIFA. In a joint statement, the group’s mandate includes reviewing the election procedures for the FIFA presidency, the distribution of voting rights among member associations, and the oversight of major tournament hosting bids. The proposal comes amid broader calls from UEFA, CONMEBOL and other confederations for a more inclusive and transparent governance model, reflecting mounting pressure on Infantino’s administration ahead of the 2026 World Cup.\n\nIf adopted, the French‑led initiative could influence ongoing debates at the upcoming FIFA Congress, where member associations are expected to vote on a series of governance reforms. While the FFF has not specified a timeline, officials indicated that any recommendations will be presented before the next scheduled meeting of the FIFA Council, signaling a concerted effort to reshape the sport’s global governing body.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/10/2026 19:51:56",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-262",
     "title": "Vance, Trump to Close Out RNC Midterm Convention",
     "slug": "vance-trump-to-close-out-rnc-midterm-convention",
@@ -5452,50 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "9/9/2026 12:22:45",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-079",
-    "title": "27.5KB language-agnostic WebGPU syntax highlighter released",
-    "slug": "27-5kb-language-agnostic-webgpu-syntax-highlighter-released",
-    "content": "A new web application hosted on Vercel, identified by the URL “gpu‑lexer.vercel.app,” attracted attention on Hacker News after being submitted to the platform’s discussion board. The submission garnered 54 points and generated 16 comments, indicating a moderate level of community engagement.\n\nDiscussion among commenters centered on the tool’s functionality and potential use cases. Participants noted the application’s focus on leveraging GPU resources for lexical analysis, queried its performance benchmarks, and raised questions about integration with existing development workflows. The thread highlighted both interest in GPU‑accelerated processing within web environments and the broader relevance of such tools for developers seeking to optimize parsing tasks.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 12:22:40",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-078",
-    "title": "Substack article claims nonfiction book market is collapsing",
-    "slug": "substack-article-claims-nonfiction-book-market-is-collapsing",
-    "content": "A Substack essay titled “The Nonfiction Book Market Is Collapsing” has drawn attention for its analysis of recent downturns in the sector. The piece, published on the “Dear Head of Mine” newsletter, outlines a measurable decline in print nonfiction sales, citing industry reports that show a year‑over‑year contraction of double‑digit percentages in several major categories. The author attributes the shift to a combination of factors, including the growing dominance of digital platforms, increased competition from subscription‑based content services, and tighter inventory strategies adopted by large retailers.\n\nThe article’s findings have sparked discussion among industry observers, as evidenced by its reception on Hacker News, where it received 20 points and generated 14 comments. Commenters highlighted concerns about the sustainability of traditional publishing models and debated the potential long‑term effects on authors, distributors, and ancillary markets such as libraries and educational institutions. The conversation underscores a broader reevaluation of how nonfiction content is produced, marketed, and consumed in an increasingly digital landscape.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 12:22:34",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-077",
-    "title": "Lee Holloway – Biography of Cloudflare Technology Architect (Part 1)",
-    "slug": "lee-holloway-biography-of-cloudflare-technology-architect-part-1",
-    "content": "A post authored by Masakazu Urabe on the Japanese publishing platform note.com has drawn attention from the broader tech community after being shared on the social news site Hacker News. The article, accessible via the URL https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en, was linked in a Hacker News discussion identified by the item ID 49621102. Within that thread, the submission accumulated 17 points and generated three comments from users.\n\nThe modest level of engagement on Hacker News indicates that the note.com entry resonated with a niche audience interested in the subject matter presented by Urabe. While the specific content of the original note remains undisclosed in the available references, the cross‑platform visibility underscores the growing interaction between Japanese content creators and international online forums. The discussion remains open for further comments and potential upvotes as users continue to evaluate the post’s relevance.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 12:22:29",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-076",
-    "title": "Article on AI's Discovery Problem Receives 5 Points and 3 Comments",
-    "slug": "article-on-ai-s-discovery-problem-receives-5-points-and-3-comments",
-    "content": "A new blog entry titled “The Discovery Problem” was published on mhacevedo.com, drawing attention from the tech community after being shared on Hacker News. The post, which explores challenges related to identifying novel patterns and insights within large data sets, quickly accumulated five points from readers and sparked a brief discussion thread that currently includes three comments. The author frames the discovery problem as a fundamental obstacle in fields ranging from machine learning to scientific research, emphasizing the need for more robust methodologies to differentiate genuine findings from noise.\n\nThe Hacker News conversation highlights both interest and skepticism, with commenters questioning the feasibility of proposed solutions and suggesting alternative approaches. While the discussion remains limited in volume, the engagement indicates a niche but active interest in refining discovery techniques. The article’s concise presentation and the ensuing dialogue underscore ongoing efforts within the broader technology community to address the complexities of extracting meaningful information from ever‑growing data repositories.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/9/2026 12:22:24",
     "author": "Hacker News",
     "isFeatured": false
   }

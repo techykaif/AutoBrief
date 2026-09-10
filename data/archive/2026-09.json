@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260909-079",
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter released",
+    "slug": "27-5kb-language-agnostic-webgpu-syntax-highlighter-released",
+    "content": "A new web application hosted on Vercel, identified by the URL “gpu‑lexer.vercel.app,” attracted attention on Hacker News after being submitted to the platform’s discussion board. The submission garnered 54 points and generated 16 comments, indicating a moderate level of community engagement.\n\nDiscussion among commenters centered on the tool’s functionality and potential use cases. Participants noted the application’s focus on leveraging GPU resources for lexical analysis, queried its performance benchmarks, and raised questions about integration with existing development workflows. The thread highlighted both interest in GPU‑accelerated processing within web environments and the broader relevance of such tools for developers seeking to optimize parsing tasks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 12:22:40",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-078",
+    "title": "Substack article claims nonfiction book market is collapsing",
+    "slug": "substack-article-claims-nonfiction-book-market-is-collapsing",
+    "content": "A Substack essay titled “The Nonfiction Book Market Is Collapsing” has drawn attention for its analysis of recent downturns in the sector. The piece, published on the “Dear Head of Mine” newsletter, outlines a measurable decline in print nonfiction sales, citing industry reports that show a year‑over‑year contraction of double‑digit percentages in several major categories. The author attributes the shift to a combination of factors, including the growing dominance of digital platforms, increased competition from subscription‑based content services, and tighter inventory strategies adopted by large retailers.\n\nThe article’s findings have sparked discussion among industry observers, as evidenced by its reception on Hacker News, where it received 20 points and generated 14 comments. Commenters highlighted concerns about the sustainability of traditional publishing models and debated the potential long‑term effects on authors, distributors, and ancillary markets such as libraries and educational institutions. The conversation underscores a broader reevaluation of how nonfiction content is produced, marketed, and consumed in an increasingly digital landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 12:22:34",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-077",
+    "title": "Lee Holloway – Biography of Cloudflare Technology Architect (Part 1)",
+    "slug": "lee-holloway-biography-of-cloudflare-technology-architect-part-1",
+    "content": "A post authored by Masakazu Urabe on the Japanese publishing platform note.com has drawn attention from the broader tech community after being shared on the social news site Hacker News. The article, accessible via the URL https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en, was linked in a Hacker News discussion identified by the item ID 49621102. Within that thread, the submission accumulated 17 points and generated three comments from users.\n\nThe modest level of engagement on Hacker News indicates that the note.com entry resonated with a niche audience interested in the subject matter presented by Urabe. While the specific content of the original note remains undisclosed in the available references, the cross‑platform visibility underscores the growing interaction between Japanese content creators and international online forums. The discussion remains open for further comments and potential upvotes as users continue to evaluate the post’s relevance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 12:22:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-076",
+    "title": "Article on AI's Discovery Problem Receives 5 Points and 3 Comments",
+    "slug": "article-on-ai-s-discovery-problem-receives-5-points-and-3-comments",
+    "content": "A new blog entry titled “The Discovery Problem” was published on mhacevedo.com, drawing attention from the tech community after being shared on Hacker News. The post, which explores challenges related to identifying novel patterns and insights within large data sets, quickly accumulated five points from readers and sparked a brief discussion thread that currently includes three comments. The author frames the discovery problem as a fundamental obstacle in fields ranging from machine learning to scientific research, emphasizing the need for more robust methodologies to differentiate genuine findings from noise.\n\nThe Hacker News conversation highlights both interest and skepticism, with commenters questioning the feasibility of proposed solutions and suggesting alternative approaches. While the discussion remains limited in volume, the engagement indicates a niche but active interest in refining discovery techniques. The article’s concise presentation and the ensuing dialogue underscore ongoing efforts within the broader technology community to address the complexities of extracting meaningful information from ever‑growing data repositories.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 12:22:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-075",
     "title": "Navier–Stokes Millennium Prize Problem Explored in New 2026 Article",
     "slug": "navier-stokes-millennium-prize-problem-explored-in-new-2026-article",
