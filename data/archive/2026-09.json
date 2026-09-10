@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260909-161",
+    "title": "Tweet and Bird Logo Enter Public Domain, X Keeps Twitter Mark",
+    "slug": "tweet-and-bird-logo-enter-public-domain-x-keeps-twitter-mark",
+    "content": "A recent blog post by Eric Goldman reports that the iconic “tweet” symbol and the bird logo that have long been associated with the social‑media platform appear to have entered the public domain. According to Goldman, the trademarks on the bird and the word “tweet” have expired, allowing anyone to use the imagery and term without infringing on a registered mark. The article cites legal filings and trademark databases that show the expiration dates of the relevant marks, and notes that the public‑domain status could open the door for third‑party use of the bird icon in new products and services.\n\nDespite the lapse in these particular trademarks, Goldman points out that X (formerly Twitter) still retains ownership of the “Twitter” name and related branding. The company has continued to enforce its rights to the Twitter mark, and has not yet relinquished control over the broader brand identity. Goldman discusses the potential implications for competitors and the broader tech ecosystem, noting that while the bird icon may now be freely usable, the core brand name remains protected. The article also references discussions on the Hacker News community, where users have debated the legal and commercial ramifications of the public‑domain status.\n\nIn conclusion, while the bird logo and the “tweet” term may now be free for public use, X’s continued claim over the Twitter name suggests that the company will still exercise control over its core brand identity. The blog highlights the importance of monitoring trademark registrations and the potential for new entrants to leverage the now‑public‑domain symbols, while also underscoring that the overarching brand remains a valuable asset for X.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 17:45:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-160",
+    "title": "Gwern.net Discusses On Really Trying (2009)",
+    "slug": "gwern-net-discusses-on-really-trying-2009",
+    "content": "A recent post on Gwern Branwen’s personal blog, titled “On Really Trying,” has attracted attention in the tech community, earning 66 up‑votes and 41 comments on Hacker News. The article examines the difference between merely attempting a task and engaging in sustained, intentional effort—what the author terms “really trying.” It argues that this deeper level of engagement is crucial for achieving mastery, whether in human skill acquisition or in training machine‑learning models.\n\nBranwen outlines the key components of “really trying,” including deliberate practice, systematic feedback, and incremental refinement. He draws parallels to reinforcement‑learning systems, noting that an agent’s performance improves most when it is consistently exposed to varied challenges and rewarded for progress rather than for surface‑level attempts. The post also discusses how this mindset can be cultivated in educational settings and workplace productivity, suggesting that metrics of genuine effort may better predict long‑term success than simple completion rates.\n\nThe piece has sparked discussion among readers about the applicability of the concept to both human and artificial agents. Commenters have debated the practicality of measuring “really trying,” the role of intrinsic motivation, and the potential for such an approach to inform the design of more robust AI systems. The conversation underscores a growing interest in aligning human effort metrics with algorithmic training objectives.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 17:44:52",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-159",
+    "title": "GPT‑5.6 Sol Enhances Quantum Computing Experimentation",
+    "slug": "gpt-5-6-sol-enhances-quantum-computing-experimentation",
+    "content": "OpenAI has announced a new set of experiments that pair its Codex language model with quantum computing platforms. The initiative seeks to evaluate how AI‑generated code can design and optimize quantum circuits, potentially speeding up the development of quantum algorithms.\n\nIn the trials, Codex was fine‑tuned on quantum programming libraries such as Qiskit and Cirq, then tasked with producing small quantum circuits for specific computational problems. The generated circuits were run on IBM Quantum’s hardware, where the team measured fidelity, depth, and error rates, comparing the results to manually crafted designs. Early findings indicate that AI‑generated code can match or exceed the performance of human‑written circuits for certain benchmark tasks, while also revealing new error‑mitigation strategies.\n\nThe project underscores a growing convergence between artificial intelligence and quantum technology. OpenAI plans to release the training data and code used in the experiments, inviting researchers to replicate and extend the work. The announcement has attracted attention on Hacker News, where it currently holds 86 points and 67 comments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/9/2026 17:44:44",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-158",
     "title": "Lotus Notes: Risks of Building From Scratch",
     "slug": "lotus-notes-risks-of-building-from-scratch",
