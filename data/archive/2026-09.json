@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260909-188",
+    "title": "Institutions still using outdated threat models 25 years after 9/11",
+    "slug": "institutions-still-using-outdated-threat-models-25-years-after-9-11",
+    "content": "A major financial institution has been identified as having ceased regular updates to its cyber‑threat model, a practice that security analysts say leaves the organization vulnerable to emerging attack vectors. The institution’s last comprehensive threat‑model revision occurred in 2020, and internal audits reveal that subsequent assessments have been limited to routine maintenance rather than strategic reevaluation. Regulatory guidelines from the Financial Conduct Authority and the National Institute of Standards and Technology recommend periodic review of threat models to account for evolving tactics such as AI‑driven phishing, supply‑chain compromises, and ransomware-as-a-service, yet the institution’s current framework does not reflect these developments.\n\nIndustry experts warn that the lack of a refreshed threat model increases the likelihood that the institution will be caught off guard by the next significant cyber incident. Without incorporating recent threat intelligence, the organization’s defenses may not adequately detect or mitigate novel exploits, potentially leading to data breaches, financial loss, or operational disruption. Stakeholders are expected to press the institution to resume comprehensive threat‑model updates and align its security posture with contemporary risk assessments to mitigate the heightened exposure.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 18:02:09",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-187",
+    "title": "Republicans Launch Trump-Focused Midterm Convention in Dallas",
+    "slug": "republicans-launch-trump-focused-midterm-convention-in-dallas",
+    "content": "Republicans are launching an unprecedented “mid‑term convention” in Dallas this week, a first in the party’s history. The event, billed as “Trumpapalooza,” is scheduled to begin on Wednesday and will showcase the party’s alignment with former President Donald Trump’s brand of politics. The convention is intended to energize the GOP base ahead of the November mid‑term elections, offering a platform for party leaders, donors, and supporters to rally around a shared vision.\n\nThe Dallas gathering will feature speeches, panel discussions, and a showcase of policy priorities that echo Trump’s legislative agenda. Attendees will include prominent GOP figures, campaign strategists, and high‑profile donors. The event’s name and format underscore the party’s strategic emphasis on Trump‑style messaging and the continued influence of his political brand within Republican circles. By centering the convention around Trump’s legacy, the party aims to consolidate its core supporters and project a unified front for the upcoming electoral cycle.\n\nAs the convention kicks off on Wednesday, observers note the significance of the GOP’s decision to hold a mid‑term convention for the first time. The move reflects a broader strategy to capitalize on Trump’s enduring popularity and to galvanize voters in key battleground states. The event will set the tone for the party’s campaign efforts over the next months, as Republicans prepare to compete in a highly contested electoral environment.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 17:53:37",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-186",
+    "title": "Judges Trained for Ballot Seizure in Upcoming Election",
+    "slug": "judges-trained-for-ballot-seizure-in-upcoming-election",
+    "content": "Law enforcement officials are now preparing for the unlikely event that they must take control of ballots during an ongoing election. Once considered an impossibility, the scenario has gained traction after recent court rulings and high‑profile disputes over ballot security. Training programs, developed in partnership with state election boards, outline protocols for secure transport, storage, and handover to certified election officials, ensuring that any such intervention would be swift, transparent, and compliant with federal and state statutes.\n\nThe shift follows a series of incidents in which local authorities faced allegations of tampering or fraud, prompting judges to order temporary seizure of ballots to preserve the integrity of the vote. In response, the Department of Justice issued guidance clarifying the circumstances under which law enforcement may intervene, while state legislatures are drafting legislation to codify the procedures. Election officials emphasize that the training is precautionary; the likelihood of a mid‑election seizure remains low, but the preparedness aims to prevent confusion and maintain public confidence in the electoral process.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 17:53:32",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-185",
+    "title": "Mail‑in Voters Weigh In‑Person Options Amid Postal Service Legal Battle",
+    "slug": "mail-in-voters-weigh-in-person-options-amid-postal-service-legal-battle",
+    "content": "Voters and election officials across the country are grappling with uncertainty over mail‑in voting as a lawsuit over the United States Postal Service’s proposed restrictions on President Donald Trump’s campaign continues to play out in federal court. The suit, filed by the Republican National Committee and several state election boards, challenges the USPS’s plan to limit the number of ballots that can be mailed to Trump’s supporters, arguing that the measure would disproportionately affect Republican voters and violate the Voting Rights Act.\n\nThe legal battle has left many midterm‑election voters unsure whether they can rely on the same mail‑in procedures that were in place in 2022. Election officials in states such as Texas, Florida, and Ohio have issued guidance that the restrictions will not take effect until a court decision is issued, while some local boards have begun to prepare contingency plans. The outcome of the case will determine whether the USPS can enforce its proposed limits, potentially reshaping how voters cast ballots in the November election.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 17:53:26",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-184",
+    "title": "Georgia Guard Member Arrested in DC for Alleged Gun Threat",
+    "slug": "georgia-guard-member-arrested-in-dc-for-alleged-gun-threat",
+    "content": "A Georgia National Guard member who was deployed to Washington, D.C., as part of a crime‑fighting task force has been arrested after allegedly pulling a firearm on a fellow Guard member during a dispute over regulation haircuts. Police say the incident occurred on a base in the capital, where the two soldiers were preparing for a joint training exercise. The arrested soldier is being held on charges that could include assault with a deadly weapon and unlawful possession of a firearm.\n\nThe Georgia National Guard has not yet released a statement on the case, but the arrest has prompted a review of the task force’s conduct protocols. The accused is scheduled to appear before a court‑martial, and the Guard is reportedly cooperating with the investigation. The incident highlights the challenges of maintaining discipline and safety standards among troops deployed in high‑profile security operations.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 17:53:22",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-183",
+    "title": "Thousands of teens missing education under official stats radar",
+    "slug": "thousands-of-teens-missing-education-under-official-stats-radar",
+    "content": "The Children’s Commissioner for England has warned that a significant number of children who have been enrolled in college are not attending their classes. In a statement released this week, the commissioner cited data from the Department for Education showing that, across the country, attendance rates for students aged 16 to 18 have fallen below the national average, with some schools reporting that up to 20 % of enrolled pupils are absent on a regular basis.\n\nThe commissioner’s findings point to a range of factors that may be contributing to the drop in attendance, including mental‑health challenges, socioeconomic pressures, and the lingering effects of the pandemic on learning continuity. She called on local authorities, colleges and parents to work together to identify barriers to participation and to develop targeted support programmes that encourage regular attendance and help students complete their qualifications.\n\nThe Commissioner’s remarks come amid growing concerns about the long‑term impact of low attendance on students’ future prospects. While she acknowledged that some absences are unavoidable, she urged all stakeholders to prioritise strategies that improve engagement and to monitor attendance trends closely to ensure that enrolled pupils receive the full benefit of their education.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/9/2026 17:53:16",
+    "author": "BBC Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260909-182",
+    "title": "UN Talks Spark Rift in Climate NGOs Over IPCC Messaging",
+    "slug": "un-talks-spark-rift-in-climate-ngos-over-ipcc-messaging",
+    "content": "A growing divide within the world’s largest coalition of climate‑focused non‑governmental organisations has emerged over the process by which the Intergovernmental Panel on Climate Change (IPCC) translates scientific findings into policy recommendations. The dispute, which has intensified after the IPCC’s latest assessment was criticised during recent United Nations climate negotiations, has sparked tensions between groups that favour a more science‑driven approach and those that argue for a broader, more politically engaged strategy.\n\nThe rift centers on how IPCC reports are produced, peer‑reviewed and subsequently used to shape international climate policy. Some coalition members contend that the IPCC’s methodology is already sufficiently rigorous and that further politicisation could undermine its credibility. Others, however, argue that the scientific community must be more proactive in framing its findings for policymakers, insisting that a stronger, more direct engagement is necessary to translate evidence into effective action. The disagreement has led to heated debates within the coalition, with calls for clearer guidelines on how scientific outputs should be communicated and applied in policy arenas.\n\nWhile the coalition remains united in its overarching goal of limiting global warming, the split over IPCC messaging underscores the broader challenge of aligning scientific integrity with political urgency. As the UN climate talks continue, the coalition’s internal divisions may influence its collective bargaining power and the coherence of its advocacy strategy moving forward.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "9/9/2026 17:53:12",
+    "author": "Climate Home News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260909-181",
     "title": "Stroke risk rises in first three months after cancer diagnosis",
     "slug": "stroke-risk-rises-in-first-three-months-after-cancer-diagnosis",
