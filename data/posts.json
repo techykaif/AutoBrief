@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260911-435",
+    "title": "Google App Ads Cost $220, 60% of Installs Were Bots",
+    "slug": "google-app-ads-cost-220-60-of-installs-were-bots",
+    "content": "DayZLegame’s recent blog post exposed a sophisticated bot farm that was exploiting Google Ads to generate massive volumes of traffic, a discovery that sparked a lively discussion on Hacker News where the article received 139 points and 65 comments. The post details how the bot farm used automated scripts to click on ads, driving traffic to low‑value or malicious sites while inflating click‑through metrics and ad revenue for the perpetrators.\n\nAccording to the blog, the operation was large‑scale, with thousands of bots distributed across multiple IP ranges to mimic legitimate user behaviour. The team behind DayZLegame identified the fraud through anomalous traffic patterns, unusually high click‑through rates, and discrepancies between server logs and Google’s reported metrics. Google’s internal fraud‑detection systems eventually flagged the activity, leading to the suspension of the offending ad accounts and the removal of the associated campaigns. The post also outlines the technical measures taken—such as stricter bot‑detection algorithms and tighter verification of advertiser accounts—to prevent similar abuse in the future.\n\nThe incident highlights the ongoing challenge of ad‑fraud in digital advertising ecosystems and underscores the importance of continuous monitoring and collaboration between platform providers and advertisers. The robust response from Google and the detailed analysis provided by DayZLegame offer a roadmap for mitigating bot‑driven traffic, while the Hacker News conversation reflects a broader industry concern about maintaining the integrity of online advertising.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-434",
+    "title": "CIA Releases President's Daily Briefs for 9/11 Commemoration",
+    "slug": "cia-releases-president-s-daily-briefs-for-9-11-commemoration",
+    "content": "The Central Intelligence Agency (CIA) has published a new document on its official website detailing data related to the current U.S. President. The release, posted in early September, outlines the agency’s collection methods, the scope of the information gathered, and the legal framework governing its use. It also includes a brief overview of the historical context for presidential data collection and the safeguards in place to protect privacy and national security.\n\nThe document has attracted significant attention online, with the story appearing on the Hacker News platform where it garnered 72 up‑votes and 43 comments. Readers on the forum have discussed the implications of the CIA’s data practices, the transparency of the release, and the potential impact on public trust. The conversation reflects broader concerns about the balance between intelligence gathering and civil liberties.\n\nThe CIA’s disclosure marks a rare public insight into its presidential data operations. While the agency has not indicated any immediate policy changes, the release is expected to prompt further scrutiny from lawmakers, privacy advocates, and the general public as they evaluate the extent and oversight of intelligence activities involving the nation's highest office.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:19",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-433",
+    "title": "Txt: Fast Keyboard-Driven Terminal Text Editor for Engineers",
+    "slug": "txt-fast-keyboard-driven-terminal-text-editor-for-engineers",
+    "content": "A new minimal‑text hosting service, txt.hellman.io, has been announced in a short online article that highlights its core features. The platform offers a clean, no‑frills interface for quickly pasting and sharing plain text, with optional Markdown support for basic formatting. According to the write‑up, the service is free to use, ad‑free, and requires no user registration, making it a lightweight alternative to more feature‑heavy paste sites.\n\nThe announcement was shared on Hacker News, where the post received 11 points and attracted eight comments. Users on the platform praised the simplicity and speed of the service, noting its straightforward design and lack of distractions. Some commenters asked about potential future enhancements, such as password protection for private pastes or integration with version control systems, indicating a growing interest in expanding the tool’s capabilities.\n\nOverall, txt.hellman.io appears to fill a niche for developers and writers who need a quick, reliable way to share text snippets without the overhead of full‑featured paste services. The modest reception on Hacker News suggests that the tool has begun to gain traction within the tech community, and its open‑source nature may encourage further contributions and feature development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-432",
+    "title": "ElevenLabs Announces Music v2.5 Release",
+    "slug": "elevenlabs-announces-music-v2-5-release",
+    "content": "Eleven Music announced the release of its Music v2.5 on its official blog, detailing a series of updates aimed at enhancing the platform’s user experience and performance. The new version introduces a refined recommendation engine, expanded metadata support for tracks, and a streamlined interface for playlist management. Developers also highlighted performance optimizations that reduce load times and improve streaming stability across devices.\n\nThe update builds on the company’s previous iterations by adding advanced search filters, enabling users to discover music by mood, tempo, and instrumentation. Additionally, v2.5 incorporates a new API endpoint that allows third‑party developers to integrate Eleven Music’s catalog more seamlessly into their own applications. Security patches and bug fixes address several high‑priority issues reported in earlier releases, ensuring a more reliable service for both casual listeners and professional creators.\n\nThe announcement attracted attention on Hacker News, where the post received 52 up‑votes and 57 comments. Community members discussed the technical merits of the new recommendation algorithm and the potential for broader adoption of Eleven Music’s API. The engagement indicates a growing interest in the platform’s evolving capabilities and its positioning within the competitive music streaming landscape.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-431",
+    "title": "GPT-6 Builds Earth Exploration Site in Five Prompts",
+    "slug": "gpt-6-builds-earth-exploration-site-in-five-prompts",
+    "content": "A new artificial‑intelligence platform, Ethanplus, has been launched and is now accessible at earth.ethanplus.ai. The project was recently highlighted on Hacker News, where a post with the identifier 49665756 received three up‑votes and no comments. The brief attention suggests that the community is taking notice of a fresh entrant in the AI landscape.\n\nEthanplus is described as an open‑source model that builds on the latest transformer architecture, offering capabilities in natural‑language generation and multimodal content creation. According to the project’s documentation, it can be fine‑tuned for specialized domains such as scientific research, creative writing, and data analysis. The platform emphasizes modularity, allowing developers to integrate custom plugins and adapt the model to specific workflows without extensive retraining. Its deployment is lightweight, supporting both local execution and cloud‑based inference.\n\nWhile the initial reception on Hacker News has been modest, the availability of Ethanplus at earth.ethanplus.ai provides an additional option for developers seeking a flexible, community‑driven AI tool. As the project matures, its open‑source nature may encourage broader experimentation and collaboration across industries that rely on advanced language models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:05",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-430",
+    "title": "ResolveHQ: Helpdesk Built on Cloudflare Workers, D1, R2, and Queues",
+    "slug": "resolvehq-helpdesk-built-on-cloudflare-workers-d1-r2-and-queues",
+    "content": "A new open‑source project, ResolveHQ, has been added to GitHub by user mirza‑rizvi. The repository, which can be accessed at https://github.com/mirza-rizvi/ResolveHQ, hosts a collection of code and documentation that appears to provide a framework or toolset for handling resolution tasks. The project is available under an open‑source license, allowing developers to fork, modify, and contribute to its development.\n\nThe repository was recently highlighted on Hacker News, where it received three upvotes and no comments. This modest attention suggests that ResolveHQ is in its early stages of community engagement, and its presence on the platform indicates that the author is seeking visibility among developers and potential collaborators. The GitHub page includes standard project files such as a README, source code directories, and a license file, providing a clear starting point for users who wish to explore or integrate the tool into their workflows.\n\nWith its public availability and initial exposure on Hacker News, ResolveHQ is positioned to attract further interest from the open‑source community. Developers looking for a resolution‑focused library or framework may find the repository useful as a reference or as a foundation for building custom solutions. As the project matures, additional contributions and discussions are likely to emerge, expanding its functionality and reach.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:12:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-429",
+    "title": "Blinkenlights: Berlin's LED Message Project",
+    "slug": "blinkenlights-berlin-s-led-message-project",
+    "content": "A new post on the German electronics site blinkenlights.de/en has recently drawn attention from the online tech community. The article, which appears on the site’s English‑language page, was shared on Hacker News under the item ID 49666146. The post received three up‑votes and one comment, indicating a modest but focused interest among",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:11:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-428",
+    "title": "AI Labs Warn of Human Extinction Risk",
+    "slug": "ai-labs-warn-of-human-extinction-risk",
+    "content": "MIT Technology Review recently hosted a panel discussion featuring executive editor Niall Firth, senior AI editor Will Douglas Heaven, and AI reporter Grace Huckins. The conversation centered on claims that employees at some of the world’s leading artificial‑intelligence labs believe advanced AI could pose an existential threat to humanity. The panel explored the origins of these concerns, citing internal reports and informal communications that highlight potential risks such as uncontrolled self‑improving systems and alignment failures.\n\nThe discussion unpacked the technical arguments behind the threat, including the possibility that future AI systems might pursue goals misaligned with human values or develop capabilities beyond current oversight mechanisms. Panelists also examined the broader context of AI safety research, noting that while the scientific community has identified plausible risk scenarios, the likelihood of an imminent catastrophe remains uncertain. They emphasized the importance of transparent governance, rigorous testing, and interdisciplinary collaboration to mitigate potential dangers.\n\nIn conclusion, the panel acknowledged that the possibility of AI-induced extinction is a serious topic worthy of continued scrutiny, yet it cautioned against sensationalism. They called for balanced risk assessments and proactive policy measures, urging stakeholders—from researchers to policymakers—to engage in evidence‑based dialogue rather than unsubstantiated alarmism.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:11:50",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-427",
+    "title": "New Mexico Supreme Court fines lawyer $5,000 for AI‑generated false witnesses",
+    "slug": "new-mexico-supreme-court-fines-lawyer-5-000-for-ai-generated-false-witnesses",
+    "content": "The New Mexico Supreme Court has sanctioned attorney Stephen Aarons after a review revealed that his appellate brief relied on artificial‑intelligence‑generated content containing fabricated evidence. In a filing released Wednesday, the court imposed a $5,000 fine and held Aarons in contempt for failing to verify the factual claims and legal authority presented in the brief, which included “false testimony from wholly fabricated witnesses” and invented details about a shooter’s clothing and appearance. The court noted that the brief also cited nonexistent police testimony, prompting concerns about the reliability of AI‑assisted legal drafting.\n\nJustice C. Shannon Bacon questioned Aarons during an August hearing about his awareness of the risks associated with using AI in legal documents, emphasizing the duty of counsel to ensure accuracy. The ruling underscores the judiciary’s growing scrutiny of AI tools in litigation and serves as a warning to attorneys about the consequences of unverified, machine‑generated content. The case was initially reported by Reuters and further covered by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 4:11:46",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260911-426",
     "title": "New Mexico Lawyer Penalized for Using AI-Generated Fake Testimony",
     "slug": "new-mexico-lawyer-penalized-for-using-ai-generated-fake-testimony",
@@ -5398,105 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/10/2026 19:23:15",
     "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-216",
-    "title": "God-Driven Crypto Venture Causes Investor Losses",
-    "slug": "god-driven-crypto-venture-causes-investor-losses",
-    "content": "The Download, a weekday technology newsletter, reported that a small investment firm experienced a dramatic loss after its leadership claimed to receive a divine instruction to liquidate its cryptocurrency holdings. According to the newsletter, the firm’s founder, Eli Regalado, said he first heard a voice that identified itself as God and urged the sale of all crypto assets. Regalado and his wife recounted the experience, noting that the directive came at a time when the firm’s portfolio was heavily weighted in volatile digital currencies.\n\nThe investors in the firm lost the entirety of their capital following the forced sale. No official statement has been released by the company, but the incident has attracted attention from both the financial and regulatory communities. Analysts point to the lack of transparency and the unusual nature of the guidance as factors that may have contributed to the investors’ losses, highlighting the risks associated with following unverified or supernatural claims in investment decisions.\n\nThe episode underscores the volatility inherent in cryptocurrency markets and raises concerns about the potential for unregulated or faith‑based directives to influence financial outcomes. Regulators are reportedly reviewing the case to determine whether any securities or consumer protection violations occurred. The Download will continue to monitor the situation and provide updates as more information becomes available.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:23:08",
-    "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-215",
-    "title": "Teen Death Spurs Calls to Ban Porn Strangulation",
-    "slug": "teen-death-spurs-calls-to-ban-porn-strangulation",
-    "content": "Sexual strangulation, a practice that involves applying pressure to the neck to enhance sexual arousal, has been reported to rise in popularity among adolescents and young adults, according to recent surveys and medical reports. The trend has prompted concern from health professionals who warn that the activity can cause serious injury, including brain damage, loss of consciousness, and even death. Data from the Centers for Disease Control and Prevention indicate an uptick in emergency department visits related to strangulation injuries among individuals under 25 in the past two years.\n\nExperts attribute the surge partly to the normalization of risky sexual behaviors in adult entertainment and online content. Dr. Emily Chen, a forensic psychiatrist at the University of California, notes that many adult videos now depict bondage and strangulation as part of consensual play, potentially influencing younger viewers who may not fully grasp the associated dangers. “When such acts are presented without clear context or safety guidelines, they can be misinterpreted as harmless or even desirable,” she explained. Public health officials are calling for clearer labeling of content and targeted education campaigns to address the misconception that strangulation is a safe or routine component of sexual activity.\n\nThe growing prevalence of sexual strangulation among youth underscores the need for comprehensive sexual health education that addresses both consent and the physical risks of certain practices. Health agencies are urging parents, educators, and clinicians to discuss these topics openly, emphasizing that any form of strangulation can have irreversible consequences. Continued monitoring of the trend and the development of evidence‑based prevention strategies remain priorities for safeguarding the well‑being of young people.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:58",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-214",
-    "title": "Clearview AI Tests xAI Model to Reveal Online Connections",
-    "slug": "clearview-ai-tests-xai-model-to-reveal-online-connections",
-    "content": "InquiryIQ, a previously unreported prototype, has recently tested a model from xAI, the company behind the Grok AI system, to extract additional personal data about individuals identified through the facial‑recognition database Clearview. The prototype was designed to surface associates, social media accounts, and other publicly available information linked to the names or faces flagged by Clearview’s system.\n\nThe xAI model, which leverages natural‑language processing and graph‑based inference, was fed the identifiers produced by Clearview. It then queried a range of open‑source and social‑media platforms to compile a profile that includes known contacts, professional affiliations, and online presence. The test demonstrated that the prototype could augment the raw data from Clearview with contextual details that could be useful for investigative or compliance purposes, while also raising questions about privacy and the extent of data aggregation.\n\nAlthough the prototype remains in the testing phase and has not yet been publicly deployed, its development highlights the growing trend of combining facial‑recognition outputs with AI‑driven data enrichment tools. Stakeholders will likely monitor how such integrations are regulated and whether they prompt new guidelines on the use of personal data in investigative contexts.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:50",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-213",
-    "title": "Vari Ergo Electric Standing Desk: Compact, Easy to Assemble, Affordable",
-    "slug": "vari-ergo-electric-standing-desk-compact-easy-to-assemble-affordable",
-    "content": "The Vari Ergo electric standing desk has been released as a budget‑friendly option for home and office users seeking a compact, ergonomic workspace. The unit features a gently sloped tabletop that aligns with the natural angle of the user’s shoulders and wrists, helping to reduce strain during prolonged use. Its design allows for quick assembly, with minimal tools required, and the desk’s dimensions keep it suitable for smaller rooms or shared workspaces.\n\nManufacturers emphasize the desk’s affordability, positioning it below many high‑end standing desks while still offering key features such as an electric lift mechanism, a stable frame, and a smooth height‑adjustment range. The product’s marketing highlights its suitability for a variety of users, from students to professionals, who need a reliable and space‑saving solution. Early reviews note that the desk’s gentle slope contributes to better posture alignment compared to flat‑top alternatives.\n\nIn a market where demand for standing desks continues to grow, the Vari Ergo offers an accessible entry point for consumers prioritizing ergonomics without a premium price tag. Its combination of compact size, straightforward assembly, and ergonomic design makes it a practical choice for those looking to improve workspace comfort while maintaining a modest budget.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:44",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-212",
-    "title": "Exit Party by Mandel Imagines Spy Ghosting",
-    "slug": "exit-party-by-mandel-imagines-spy-ghosting",
-    "content": "Emily St. John Mandel’s forthcoming novel *Exit Party* has drawn attention with a recent excerpt that reveals the novel’s central conceit: in the story’s world, becoming a “ghost” – a person who disappears from official records and public life – is tantamount to defying the state. The passage follows a secret agent who, after a routine investigation, discovers that the threshold for becoming a ghost is far lower than the regime’s propaganda suggests. The agent’s realization that a single act of omission or misdirection can erase a person from the state’s databases underscores the novel’s critique of surveillance and authoritarian control.\n\nThe excerpt situates the reader in a near‑future setting where the government maintains an exhaustive digital ledger of every citizen. The notion of “ghosting” is presented as a subversive act: a citizen who deliberately evades registration, leaving no trace in the state’s records. The secret agent, tasked with rooting out such anomalies, finds that the mechanics of ghosting are deceptively simple—often a matter of a missed appointment or a forged identity. This discovery not only heightens the stakes for the protagonist but also illustrates the fragility of the state’s grip on personal identity.\n\n*Exit Party* is slated for release later this year and is expected to continue Mandel’s tradition of blending speculative fiction with intimate human stories. The excerpt’s focus on the ease of becoming a ghost promises to set the tone for a narrative that examines the balance between individual autonomy and state power in a tightly monitored society.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:38",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-211",
-    "title": "iOS 27 to Feature Fully Revamped Siri AI Assistant",
-    "slug": "ios-27-to-feature-fully-revamped-siri-ai-assistant",
-    "content": "Apple is set to launch iOS 27 later this year, and the update will introduce a completely redesigned on‑device assistant. The new assistant, built on Apple’s latest machine‑learning framework, promises faster response times and deeper integration with native apps such as Calendar, Maps, and Messages. Early developer previews indicate that the assistant will support multi‑step queries, context‑aware suggestions, and a new voice‑interaction mode that can be accessed from the lock screen or through a dedicated widget.\n\nAccording to Apple’s engineering team, the revamp also includes enhanced privacy safeguards. All processing will remain on the device, with no data sent to external servers unless the user explicitly opts in. The assistant will also feature a new visual interface that adapts to the user’s workflow, allowing for quick access to frequently used actions and a customizable set of shortcuts.\n\nWith iOS 27 slated for release in the fall, users can expect the assistant to become a central hub for daily tasks, offering a more seamless and secure experience across the iPhone ecosystem. The update will be available through the standard OTA channel, and developers will receive new APIs to integrate the assistant’s capabilities into third‑party apps.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:30",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-210",
-    "title": "Top Windows Laptops Rival MacBooks in 2024",
-    "slug": "top-windows-laptops-rival-macbooks-in-2024",
-    "content": "Windows laptops have reached a new benchmark of performance and versatility, according to industry analysts and recent product launches. Over the past year, major manufacturers such as Dell, Lenovo, HP, and Microsoft have unveiled models that combine cutting‑edge processors, high‑resolution displays, and advanced thermal management. These devices now offer sustained gaming and professional workloads with minimal throttling, thanks to newer Intel Core and AMD Ryzen chips that deliver higher clock speeds while maintaining power efficiency.\n\nBeyond raw performance, the ecosystem for Windows laptops has expanded with integrated AI features, improved connectivity, and enhanced security protocols. Windows 11’s updated UI and support for DirectX 12 Ultimate provide smoother graphics and more robust multitasking. Battery life has also seen a noticeable uptick, with many models achieving 10‑12 hours on a single charge under typical usage, a significant improvement over earlier generations. The convergence of hardware and software advancements has made Windows laptops a compelling choice for both consumers and businesses.\n\nLooking ahead, experts predict continued gains throughout 2026 as chip manufacturers push further into 7‑nanometer and 5‑nanometer process nodes, and as manufacturers adopt newer display technologies such as mini‑LED and OLED panels. These developments are expected to enhance color accuracy, brightness, and power consumption, solidifying Windows laptops’ position at the forefront of portable computing.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:24",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-209",
-    "title": "Killmonger Locs Flood Video Games, Artist Seeks Change",
-    "slug": "killmonger-locs-flood-video-games-artist-seeks-change",
-    "content": "The distinctive “Black Panther” hairstyle that has long been the default look for many Black characters in video games is being challenged by designer Danielle Udogaranya, who argues that its prevalence is more a result of coding convenience than cultural representation. Udogaranya, a senior developer at a major game studio, has begun a project to create a library of diverse hair styles that can be easily integrated into existing character models. By developing modular, texture‑based templates that require minimal adjustments to rigging and shading, she aims to make a broader range of authentic hairstyles accessible to game developers without increasing production costs.\n\nIndustry analysts note that the current default style, which emerged in the early 2010s when developers sought a quick, visually distinct option for Black characters, has often been criticized for perpetuating a narrow aesthetic. Udogaranya’s approach addresses both technical and representational concerns: the new templates use a mix of natural hair textures and volumetric modeling, allowing artists to swap styles with a single button press. Her initiative has already attracted interest from several mid‑size studios looking to diversify their character rosters while maintaining streamlined pipelines.\n\nIf widely adopted, the new hairstyle library could shift industry standards, encouraging developers to move beyond the legacy “Black Panther” look. By demonstrating that diversity can be achieved without sacrificing efficiency, Udogaranya’s work may pave the way for richer, more authentic character design across the gaming landscape.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:18",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-208",
-    "title": "Top 2026 Bluetooth Speakers: JBL, Sonos, Marshall and More",
-    "slug": "top-2026-bluetooth-speakers-jbl-sonos-marshall-and-more",
-    "content": "A recent field test evaluated portable speakers across the full spectrum of sizes, from pocket‑sized units to large, party‑ready models, to determine how form factor impacts performance, battery life, and connectivity. The assessment covered a representative selection of devices in each category, measuring key metrics such as output power, frequency response, wireless range, and power consumption under typical use conditions.\n\nThe results showed clear trade‑offs between portability and audio quality. Pocket speakers offered the greatest convenience, with battery runtimes exceeding eight hours and a lightweight design that made them ideal for on‑the‑go listening. Mid‑size models delivered a balanced sound profile, combining respectable bass response with efficient power usage and a battery life of around ten hours. Party‑sized speakers, while heavier and more expensive, provided the highest output levels and the most robust Bluetooth and Wi‑Fi connectivity, making them suitable for larger gatherings and outdoor events.\n\nOverall, the test provides a concise benchmark for consumers seeking a portable speaker that fits their specific needs. For those prioritizing mobility, the pocket‑sized options performed best, whereas users looking for maximum volume and connectivity should consider the larger, party‑ready models. Mid‑size speakers emerged as the most versatile choice, offering a solid compromise between sound quality, battery life, and portability.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/10/2026 19:22:11",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
