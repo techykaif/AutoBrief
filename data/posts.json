@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260911-363",
+    "title": "Bite, buzz, release: How bees make flowers give up their pollen",
+    "slug": "bite-buzz-release-how-bees-make-flowers-give-up-their-pollen",
+    "content": "Buzz pollination is a specialized technique used by certain bee species to extract pollen from flowers that do not readily release it. In these plants, the pollen is trapped within tube‑shaped stamens that require vibration to be liberated. The bees achieve this by biting the flower and using the rapid contractions of their flight muscles to shake the stamen, causing the pollen to disperse into the air.\n\nThis behavior is observed in a variety of bees, including bumblebees and some solitary species, and is essential for the reproduction of many crops and wild plants that rely on this method of pollen transfer. By generating the necessary vibrations, the bees ensure effective pollination while also collecting the pollen for their own nutrition.\n\nThe phenomenon underscores the intricate relationships between pollinators and plant species, highlighting how evolutionary adaptations in bees can directly influence plant reproductive success and ecosystem health.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/12/2026 1:42:35",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-360",
+    "title": "Mind-Altering Drugs Key to Rise of Andean Civilization",
+    "slug": "mind-altering-drugs-key-to-rise-of-andean-civilization",
+    "content": "Scientists have uncovered new evidence that psychoactive plants were central to the emergence of one of the world’s earliest complex societies.  A study published in *Science* examined residues from pre‑Columbian Andean pottery and temple walls, revealing the systematic use of coca leaves, *Lobelia* species, and other hallucinogenic botanicals in ritual contexts.  The researchers argue that these substances were not merely recreational but served as key instruments for social cohesion, religious authority, and political legitimacy among the nascent Andean peoples.\n\nThe team used advanced mass‑spectrometry techniques to identify trace amounts of alkaloids in ceramic fragments recovered from sites such as Machu Picchu, Chavín, and Tiwanaku.  Their findings suggest that coca, in particular, was cultivated and processed for ceremonial consumption, reinforcing communal bonds and legitimizing elite leadership through shared visionary experiences.  The study also points to a sophisticated knowledge of plant pharmacology, implying that Andean societies had developed complex agricultural and processing techniques long before European contact.\n\nThese insights reshape our understanding of how early Andean civilizations organized themselves and maintained power structures.  By highlighting the strategic use of mind‑altering substances, the research underscores the importance of psychoactive plants in the cultural and political fabric of pre‑modern societies.  The work invites further interdisciplinary inquiry into the role of entheogens in the development of human civilization.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:26",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-359",
+    "title": "Snap Programming Language Appeals to Kids and Adults",
+    "slug": "snap-programming-language-appeals-to-kids-and-adults",
+    "content": "**Berkeley Launches Updated Version of Snap! Visual Programming Language**\n\nThe University of California, Berkeley has released a new version of Snap!, the open‑source, block‑based programming environment that extends the popular Scratch language. The update introduces several enhancements, including improved performance, expanded library of built‑in blocks, and a redesigned user interface that makes it easier for beginners to create interactive projects. The developers also added support for additional data types and refined the debugging tools, allowing students and educators to troubleshoot code more efficiently.\n\nSnap! has long been used in K‑12 and introductory computer‑science courses to teach programming concepts through a visual interface. The latest release builds on this foundation by adding features that support more complex projects, such as advanced animation controls and better integration with external APIs. Community feedback, reflected in a Hacker News discussion thread with 52 points and 29 comments, highlights enthusiasm for the new capabilities while noting the continued importance of an intuitive learning curve for newcomers.\n\nThis update reinforces Snap!’s position as a valuable educational resource, providing educators with a more robust platform for teaching computational thinking. By expanding its functionality while maintaining accessibility, Berkeley aims to broaden the reach of visual programming and inspire the next generation of developers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-358",
+    "title": "AI Misalignment Threatens Mathematical Research",
+    "slug": "ai-misalignment-threatens-mathematical-research",
+    "content": "A recent blog post by mathematician Terry Tao, published on his WordPress site on 11 September 2026, draws attention to a “severe misalignment” that has emerged in a class of large‑scale machine‑learning models. Tao explains that the misalignment arises from a subtle mathematical inconsistency in the loss‑function formulation used by several leading AI frameworks, causing the models to diverge from their intended objective functions during training. The Economist’s science‑and‑technology section covered the same issue, noting that the flaw could lead to unpredictable behavior in deployed systems and raise concerns about safety and reliability in commercial applications.\n\nIndustry reaction has been swift. The article linked to a discussion thread on the Y Combinator forum, where 158 points were awarded and 245 comments were posted. Participants cited the need for rigorous verification of training pipelines and called for a coordinated effort among vendors, researchers, and regulators to audit and correct the underlying algorithms. Several AI‑startup founders acknowledged the problem and announced plans to release patches and open‑source diagnostic tools. Meanwhile, academic groups are already drafting formal proofs to quantify the impact of the misalignment on model performance and to propose robust mitigation strategies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-357",
+    "title": "EPA to Eliminate Public Review Rules for Data Center Pollution Permits",
+    "slug": "epa-to-eliminate-public-review-rules-for-data-center-pollution-permits",
+    "content": "The U.S. Environmental Protection Agency (EPA) has issued a set of new permit regulations targeting the data‑center sector, citing concerns over the industry’s growing water consumption and energy use. The rules, which go into effect next year, require operators to submit detailed reports on water sourcing, cooling methods, and overall energy efficiency, and to obtain permits before expanding or upgrading facilities. The EPA’s guidance also introduces stricter limits on the discharge of cooling water and mandates the use of more sustainable cooling technologies where feasible.\n\nIndustry analysts note that the regulations will increase compliance costs for many data‑center operators, especially those in arid regions where water scarcity is already a critical issue. Several major cloud‑service providers have expressed willingness to cooperate, arguing that the new standards could spur innovation in water‑efficient cooling and renewable‑energy integration. Conversely, some smaller operators worry that the permitting process could delay expansion plans and reduce competitiveness. The EPA has indicated that it will work with stakeholders to streamline the application process and provide technical assistance for meeting the new requirements.\n\nThe introduction of these permit rules marks a significant shift in federal oversight of the data‑center industry, which has seen rapid growth in recent years. While the regulations aim to mitigate environmental impacts, they also underscore the sector’s need to balance scalability with sustainability. The industry will likely adjust its operational strategies in response, potentially accelerating the adoption of advanced cooling and energy‑management technologies to meet the EPA’s new benchmarks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:12",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-356",
+    "title": "LiteLM: Lightweight LiteLLM Implementation",
+    "slug": "litelm-lightweight-litellm-implementation",
+    "content": "A new open‑source project called **litelm** has attracted attention on the internet after being posted by Kenneth Wolters on GitHub. The repository, which offers a lightweight implementation of a language model, was subsequently discussed on Hacker News where it garnered 34 up‑votes and 12 comments. The discussion highlights the community’s interest in compact, CPU‑friendly models that can run on modest hardware.\n\nlitelm is designed to be minimalistic, requiring only a handful of dependencies and a small amount of memory. The codebase includes a straightforward training pipeline, inference utilities, and example scripts that demonstrate how the model can be fine‑tuned on custom datasets. By focusing on simplicity, the project aims to make language‑model technology more accessible to developers who need a quick, deployable solution without the overhead of large frameworks or GPU requirements.\n\nThe project’s reception on Hacker News suggests that developers are eager for smaller, more efficient language‑model options. As the community engages with the repository, further contributions and refinements are expected, potentially expanding litelm’s applicability to edge devices, embedded systems, and other resource‑constrained environments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-355",
+    "title": "GrapheneOS Releases New Messages App Version 13",
+    "slug": "grapheneos-releases-new-messages-app-version-13",
+    "content": "GrapheneOS, the privacy‑focused Android operating system, has released version 13 of its native messaging application on GitHub. The update, published under the “Messaging” repository, brings a suite of security and performance enhancements, including updated cryptographic libraries, refined end‑to‑end encryption handling, and a streamlined user interface. The developers note that the new release is fully compatible with GrapheneOS 13, the latest OS iteration, and addresses several long‑standing bugs reported by users.\n\nThe release notes detail a number of specific improvements: tighter integration with the OS’s secure storage, faster message rendering, and additional diagnostic logging for developers. Minor UI tweaks—such as clearer status indicators for message delivery and read receipts—have also been added. The update is accompanied by a comprehensive changelog that enumerates all fixes and feature additions, underscoring the project’s commitment to transparency and open‑source collaboration.\n\nThe announcement attracted modest attention on Hacker News, where the discussion thread garnered 18 points and two comments. While the engagement was limited, it reflects a focused interest from the privacy‑conscious community. GrapheneOS’s continued release cadence and the active dialogue on platforms like Hacker News reinforce the project’s role as a leading provider of secure, open‑source messaging solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:42:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-354",
+    "title": "Meta Faces Class Action Over AI Training Data Use",
+    "slug": "meta-faces-class-action-over-ai-training-data-use",
+    "content": "A proposed class‑action lawsuit has been filed against Meta Platforms, alleging that the company illegally harvested photographs from Facebook and Instagram users to train its AI image‑generation models and to develop an unreleased facial‑recognition feature known as “NameTag.”  The complaint claims that Meta used these images without the consent of the individuals depicted, violating privacy laws and the platform’s own data‑use policies.\n\nAccording to the suit, the harvested photos were fed into machine‑learning algorithms to improve the quality and realism of the company’s generative‑AI tools, while also providing the data set needed to build the NameTag system.  The plaintiffs argue that the company’s actions constitute a breach of user privacy and a violation of the Digital Millennium Copyright Act, as the images were used without proper licensing or authorization.\n\nMeta has not yet responded to the allegations.  If the lawsuit proceeds, it could prompt a broader examination of how tech firms source training data for AI systems and the legal safeguards required to protect user privacy.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:41:59",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-353",
+    "title": "US Agency Opens Three Investigations into Polymarket Trades",
+    "slug": "us-agency-opens-three-investigations-into-polymarket-trades",
+    "content": "The Commodity Futures Trading Commission (CFTC) has opened investigations into a series of trades on the prediction‑market platform Polymarket, according to documents released by WIRED. The trades in question involve bets on high‑profile political events, including a U.S. presidential pardon for former President Joe Biden and the possibility of a new conflict in Iran. The CFTC’s inquiry follows a broader push to scrutinize how prediction markets can be used to profit from sensitive political developments.\n\nIn addition to the Polymarket activity, the agency is examining evidence of potential insider trading at Google. The documents reveal that certain individuals may have leveraged non‑public information to place trades that could have yielded significant gains. The CFTC’s focus on both political and corporate markets underscores its mandate to ensure that derivatives and related products are traded fairly and transparently, preventing the exploitation of privileged information.\n\nThe investigations are ongoing, and the CFTC has not yet released formal charges or detailed findings. Industry observers note that the agency’s actions signal a tightening of regulatory oversight over prediction markets and corporate trading practices, reflecting growing concerns about market integrity in an era of rapid digital trading platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:41:55",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-352",
+    "title": "Top TV Shows to Stream in September 2026",
+    "slug": "top-tv-shows-to-stream-in-september-2026",
+    "content": "The entertainment landscape this week is highlighted by a mix of established franchises and fresh series that have captured audience attention across streaming platforms. Among the most discussed titles are the long‑running animated satire *South Park*, the British espionage drama *Slow Horses*, the iconic anime *Neon Genesis Evangelion*, and the newly released Lego‑themed *Mandalorian* episode. These releases span a range of genres, offering viewers diverse options for binge‑watching.\n\n*South Park* continues to air new episodes on Comedy Central’s streaming service, with the latest season debuting in early September. *Slow Horses*, a BBC production, premiered on BBC One and is available on the BBC iPlayer, following the success of its first season. The anime *Neon Genesis Evangelion* remains a staple on platforms such as Netflix, where its original 1995 series and subsequent films are accessible. The Lego‑fied *Mandalorian* episode, part of the Disney+ *Star Wars* franchise, was released in late August and features a unique stop‑motion style that has attracted both fans of the original series and Lego enthusiasts.\n\nThese titles illustrate the breadth of content currently available for viewers seeking both nostalgia and new storytelling experiences. Whether one prefers animated satire, spy thriller, classic anime, or a playful reimagining of a beloved space saga, the current slate offers compelling options across major streaming services.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:41:51",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-351",
+    "title": "Matt Mullenweg reinstated as Automattic CEO after brief paid leave",
+    "slug": "matt-mullenweg-reinstated-as-automattic-ceo-after-brief-paid-leave",
+    "content": "Matt Mullenweg has been reinstated as chief executive officer of Automattic, the company behind WordPress.com, two days after he was placed on a paid leave of absence. The announcement came via a Slack message that was reported by TechCrunch and corroborated by 404 Media, which also noted that Mullenweg had previously warned staff that CFO Mark Davies had “conspired” with the board to remove him from the role. According to the same Slack exchange, the board had voted to appoint Davies as interim CEO while Mullenweg remained on the board.\n\nIn a separate message, Davies confirmed that Mullenweg would continue to serve as a board member. Automattic’s spokesperson told The Verge that Mullenweg was “currently …” in the position of CEO, though the full statement was truncated in the brief. The sequence of events—Mullenweg’s public accusations, the board’s vote, and his swift reinstatement—highlights a rapid turnaround in the company’s leadership dynamics.\n\nThe development underscores a contentious period for Automattic, with internal disputes over executive authority and board decisions coming to light. While the company has not issued a detailed public statement, the reinstatement of Mullenweg signals a shift back to his leadership, pending further updates from Automattic or its board. For a complete account, see the full story at The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:41:47",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-350",
+    "title": "NASA seeks state funding for new U.S. Space Academy",
+    "slug": "nasa-seeks-state-funding-for-new-u-s-space-academy",
+    "content": "NASA has formally requested that all 50 states submit proposals outlining financial contributions to support the agency’s upcoming Artemis lunar‑landing initiatives and related infrastructure projects. In a series of letters dispatched to governors this week, the space agency highlighted a shortfall in its congressional appropriations and emphasized the strategic advantage of state‑level investment in launch sites, research facilities, and workforce development programs that will underpin the next phase of human space exploration.\n\nThe agency’s outreach comes as several states, including Florida, Texas and Colorado, have already signaled interest in partnering on projects ranging from the development of a new commercial launch complex to the expansion of satellite‑tracking networks. NASA officials indicated that matching funds from state governments could accelerate timelines, reduce federal spending pressures, and foster regional economic growth tied to aerospace activities. States are expected to submit detailed financial plans within the next 60 days, after which NASA will evaluate the proposals and allocate resources accordingly.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 1:41:43",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260911-349",
     "title": "Oracle's Renewables Pledge Won't Reduce Gas Use at Stargate Data Center",
     "slug": "oracle-s-renewables-pledge-won-t-reduce-gas-use-at-stargate-data-center",
@@ -5365,138 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/10/2026 19:03:13",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-180",
-    "title": "French filmmaker discusses Afghan women's health documentary on France 24",
-    "slug": "french-filmmaker-discusses-afghan-women-s-health-documentary-on-france-24",
-    "content": "French filmmaker and journalist Mélanie Nunes discussed her latest investigative report, “Afghanistan : les soignantes de l’ombre” (the unsung female carers), in an interview with FRANCE 24. The short‑form documentary, which premiered on the Arté television channel, examines the challenges faced by Afghan women seeking medical care and the obstacles encountered by the health‑care providers who strive to deliver services under the country’s restrictive conditions.\n\nThe film follows a group of women who, according to Nunes, agreed to participate because “nobody cares about what they think” in their own country, highlighting the marginalisation of female voices in Afghanistan’s health sector. By documenting both patients and caregivers, the report sheds light on the systemic barriers to treatment and the resilience of those working in the shadows to provide essential care. The broadcast aims to raise international awareness of the ongoing health‑care crisis affecting Afghan women.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:06",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-179",
-    "title": "Cargo ship fire at Qingdao port kills at least 25, five missing",
-    "slug": "cargo-ship-fire-at-qingdao-port-kills-at-least-25-five-missing",
-    "content": "At least five crew members remain missing after a cargo vessel caught fire while docked at the port of Qingdao, China, on Tuesday. Emergency responders extinguished the blaze within several hours, but the incident left the ship severely damaged and the whereabouts of the missing personnel unknown.\n\nAuthorities have launched an investigation into the cause of the fire, which has not yet been determined. Port officials are coordinating with maritime safety agencies to assess the damage and ensure that operations resume safely, while search teams continue to locate the missing crew members.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:00",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-178",
-    "title": "Myanmar's coup leader pushes for new diplomatic ties",
-    "slug": "myanmar-s-coup-leader-pushes-for-new-diplomatic-ties",
-    "content": "Myanmar’s military chief Min Aung Hlaing, who seized power in the February 2021 coup, assumed the presidency in April and has since embarked on a diplomatic offensive aimed at breaking the country’s international isolation. The junta’s new president has dispatched envoys, hosted foreign delegations and sought to present a narrative of stability and reform to the global community.\n\nIn the months following his appointment, Hlaing has pursued contacts with Russia and China, secured a high‑level visit from a Chinese senior official, and participated in ASEAN meetings to claim compliance with the bloc’s five‑point consensus on a political settlement. Parallel overtures to the United Nations and attempts to engage European and North American diplomats have met with limited success; the United States, European Union, United Kingdom and Canada have maintained sanctions and repeatedly condemned human‑rights violations, while many ASEAN members remain cautious about endorsing the junta. The outreach has therefore yielded few concrete allies, leaving Myanmar largely diplomatically marginalized.\n\nThe diplomatic push underscores the junta’s need for external legitimacy, yet the persistence of sanctions and widespread condemnation suggests that foreign support will remain scarce. Myanmar’s international standing is likely to stay constrained unless substantive political reforms address the concerns of the broader global community.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:55",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-177",
-    "title": "Israel bars British MPs, drawing criticism over Palestinian policy scrutiny",
-    "slug": "israel-bars-british-mps-drawing-criticism-over-palestinian-policy-scrutiny",
-    "content": "Israel’s foreign ministry announced on Tuesday that a group of British Members of Parliament will be denied entry to Israel, citing “security concerns” related to their planned visit to the Gaza Strip. The delegation, which includes senior figures from the Labour and Conservative parties, had intended to meet with humanitarian organisations and local officials to assess the impact of Israel’s ongoing military operations. Israeli officials said the decision was made after a security assessment concluded that the visit could pose risks to both the visitors and the broader security environment.\n\nThe British government expressed disappointment, urging Israel to “facilitate legitimate humanitarian and parliamentary scrutiny” and indicating that the denial could affect diplomatic relations. The move comes amid heightened international attention on Israel’s conduct in Gaza, where civilian casualties and restrictions on aid have drawn criticism from multiple governments and human‑rights groups. Analysts note that the bar on the MPs underscores the challenges faced by foreign legislators seeking on‑the‑ground insight into the conflict, and it adds a new dimension to the diplomatic tensions surrounding the war.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:49",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-176",
-    "title": "Egyptian striker Hamza Abdelkarim tops Barcelona preseason scoring",
-    "slug": "egyptian-striker-hamza-abdelkarim-tops-barcelona-preseason-scoring",
-    "content": "Barcelona’s 18‑year‑old striker, [Name], emerged as the club’s leading scorer in the 2024 preseason, netting four goals across five appearances. The young forward opened his tally in a 3‑1 victory over Girona, added a brace against Real Sociedad, and concluded the run with a decisive strike in a 2‑0 win over Valencia. His contributions helped Barcelona secure an unbeaten preseason record, with the striker featuring in every match and averaging 0.8 goals per game.\n\nThe prolific output has positioned the teenager as a potential candidate for increased involvement in the senior squad ahead of the upcoming La Liga campaign. Coach Xavi Hernández praised the player’s composure and finishing ability, noting that his performances reflect the club’s emphasis on integrating academy talent. As Barcelona prepares for the regular season, the youngster’s preseason form will be a key factor in determining his role within the first‑team roster.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:42",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-175",
-    "title": "Algeria announces severance of diplomatic ties with UAE",
-    "slug": "algeria-announces-severance-of-diplomatic-ties-with-uae",
-    "content": "Relations between the two neighboring states have remained strained for years, as each country has taken opposing positions on a series of regional issues. The divergent stances have affected diplomatic exchanges, trade negotiations, and collaborative security initiatives, leading to a noticeable decline in bilateral engagement across multiple sectors.\n\nAnalysts note that the persistent disagreement stems from differing national priorities on matters such as border management, resource allocation, and regional alliance participation. While occasional low‑level contacts continue, the overall climate remains cautious, with both governments signaling a willingness to explore dialogue but emphasizing the need for alignment on core interests before any substantive rapprochement can occur.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:36",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-174",
-    "title": "Fire on cargo ship in Qingdao kills at least 25",
-    "slug": "fire-on-cargo-ship-in-qingdao-kills-at-least-25",
-    "content": "A fire erupted on a vessel undergoing repairs at a shipyard in Qingdao, a major port city on China’s eastern coast, early on Thursday. The incident was reported by local authorities at approximately 03:30 a.m. and prompted an immediate response from the port’s fire brigade and emergency services, who deployed multiple firefighting units to the scene.\n\nFirefighters contained and extinguished the blaze within two hours, preventing it from spreading to adjacent ships and facilities. Preliminary statements from the Qingdao Maritime Safety Administration indicated no injuries among the crew or workers and limited structural damage to the vessel’s superstructure. An investigation into the cause of the fire has been launched, and the port has announced a temporary suspension of repair activities in the affected area pending safety checks.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:30",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-173",
-    "title": "Hundreds of thousands in Sudan's Tawila camp lack adequate shelter",
-    "slug": "hundreds-of-thousands-in-sudan-s-tawila-camp-lack-adequate-shelter",
-    "content": "Humanitarian agencies report that displaced families in Tawila are facing worsening conditions as inadequate food assistance and insufficient shelter exacerbate the spread of malnutrition and disease. The town, which has become a refuge for thousands fleeing conflict in the surrounding region, now hosts an estimated 45,000 people living in makeshift camps and overcrowded shelters. Aid deliveries have been delayed by logistical challenges and funding shortfalls, leaving many without reliable access to clean water, nutritious meals, or adequate protection from the elements.\n\nHealth workers observing the camps note a rapid increase in cases of acute malnutrition, particularly among children under five, and a surge in water‑borne illnesses such as cholera and dysentery. The World Health Organization and the United Nations Office for the Coordination of Humanitarian Affairs have appealed for additional resources, urging donor nations to accelerate funding and for the government to facilitate unhindered humanitarian access. Without a swift scale‑up of nutrition programs, medical supplies, and shelter construction, officials warn that the humanitarian crisis in Tawila could deepen further.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:25",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-172",
-    "title": "Trump supporters' willingness to disagree examined",
-    "slug": "trump-supporters-willingness-to-disagree-examined",
-    "content": "Washington — In recent months, political analysts have highlighted a growing pattern among former President Donald Trump’s inner circle and broader base: an expectation of unwavering loyalty that leaves little room for dissent. Interviews with former campaign staff, members of the Republican National Committee, and former administration officials reveal that Trump frequently frames disagreement as disloyalty, pressuring allies to align publicly with his statements on issues ranging from election integrity to foreign policy. The phenomenon has been documented in congressional testimonies and internal memos, where aides report being warned that any public criticism could result in removal from key positions or loss of campaign support.\n\nResearchers at several universities note that this loyalty test may influence the party’s strategic decisions ahead of upcoming elections, as candidates weigh the benefits of aligning with Trump against the risk of alienating moderate voters. Survey data released by the Pew Research Center shows that a majority of self‑identified Trump supporters consider him “the most trustworthy” political figure, yet a notable minority express reservations about specific policy positions, indicating a potential, albeit limited, space for disagreement. As the Republican Party navigates its post‑Trump trajectory, the balance between loyalty and independent judgment remains a pivotal factor shaping its internal dynamics and electoral outlook.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:19",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-171",
-    "title": "Manchester United scouted teenage Mbappe but did not sign him, says Ryan Giggs",
-    "slug": "manchester-united-scouted-teenage-mbappe-but-did-not-sign-him-says-ryan-giggs",
-    "content": "A former Manchester United assistant coach has disclosed that the club once pursued a teenage Kylian Mbappé after receiving a tip‑off from a French scout. The coach, identified as former assistant manager Mike Phelan, said the information reached United’s recruitment team in early 2015 when Mbappé was still a 16‑year‑old prospect at AS Monaco. According to Phelan, the scout highlighted the French forward’s pace, technical ability and goal‑scoring record at youth level, prompting United to dispatch a scouting delegation to evaluate him during the 2015‑16 season.\n\nUnited’s scouting report, Phelan explained, noted Mbappé’s physical attributes and his performances in the UEFA Youth League, but the club ultimately decided against making an offer, citing concerns about the player’s age, work‑permit requirements and the financial terms demanded by Monaco. Mbappé remained at Monaco, breaking into the first team the following season and later securing a high‑profile transfer to Paris Saint‑Germain. The revelation underscores a missed opportunity for United, as Mbappé has since become one of the world’s most prominent footballers, while the club continues to seek emerging talent through its global scouting network.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:13",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-170",
-    "title": "Houthi rebels advance along Yemen's southern Red Sea coast",
-    "slug": "houthi-rebels-advance-along-yemen-s-southern-red-sea-coast",
-    "content": "Yemen’s Houthi rebels have intensified their offensive along the Red Sea coastline, pushing northward in a bid to increase their strategic influence over the Bab el‑Mandeb Strait. The advance, reported by regional observers on Monday, follows a series of missile and drone strikes that have targeted commercial shipping and naval vessels operating near the narrow waterway, which connects the Red Sea to the Gulf of Aden and serves as a critical conduit for global oil and cargo traffic.\n\nAnalysts say the Houthi maneuver aims to pressure international maritime routes and leverage negotiations over the ongoing civil war in Yemen, as well as to compel external actors to reconsider their support for the Saudi‑backed government. The United Nations and several naval coalitions have warned that heightened hostilities could disrupt shipping lanes, raise insurance costs, and trigger broader security concerns in the region. Monitoring agencies will continue to track the rebels’ movements as diplomatic efforts to de‑escalate the conflict remain underway.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:07",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-169",
-    "title": "Fire on cargo ship in eastern China kills 25, 17 evacuated",
-    "slug": "fire-on-cargo-ship-in-eastern-china-kills-25-17-evacuated",
-    "content": "A safety incident involving a vehicle carrying 42 occupants prompted an emergency response early Tuesday, according to surveillance footage released by local authorities. CCTV recordings show that responders were able to evacuate 17 individuals from the craft, while the remaining passengers remained on board as the situation was assessed.\n\nOfficials have confirmed that the evacuation was conducted in accordance with standard emergency protocols and that no injuries have been reported so far. An investigation into the cause of the incident is underway, with authorities monitoring the remaining passengers and coordinating with relevant agencies to ensure a safe resolution.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:02:01",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
