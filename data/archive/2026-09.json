@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260910-140",
+    "title": "Thai Wildlife Rescuer Saves Trafficked Animals",
+    "slug": "thai-wildlife-rescuer-saves-trafficked-animals",
+    "content": "Nawee Changpirom has spent more than a decade dedicated to rescuing trafficked wildlife across Thailand, working with local authorities and international NGOs to intercept illegal trade routes and rehabilitate animals. His team routinely receives alerts about smuggled species, ranging from high‑profile predators to more obscure mammals, and they coordinate rapid response operations to recover the animals before they are sold or killed.\n\nThe cases that have most surprised Changpirom involve some of the country’s most iconic and endangered species. Among the rescued animals are leopards, whose powerful bodies and elusive nature make them prime targets for traffickers. Hornbills, known for their striking plumage and cultural significance, have also been recovered from clandestine markets. In a rare instance, the team rescued an anteater, a species rarely seen in Thai wildlife trade, highlighting the breadth of the illegal market and the unpredictable nature of the animals that slip through the cracks.\n\nChangpirom’s work underscores the ongoing threat of wildlife trafficking in Southeast Asia and the importance of vigilant, coordinated conservation efforts. By bringing these animals back to safety, his organization not only saves individual lives but also provides critical data on trafficking patterns, helping to strengthen enforcement and protect Thailand’s biodiversity for future generations.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 15:02:02",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-139",
+    "title": "Florida Scientists Plant Young Coral to Study Heat Resilience",
+    "slug": "florida-scientists-plant-young-coral-to-study-heat-resilience",
+    "content": "Off Florida’s coast, a coordinated team of marine scientists and trained volunteers descended in scuba gear to the ocean floor to carry out a coral restoration project. The crew planted young coral fragments onto a damaged reef site, securing them with biodegradable anchors to give the new colonies a chance to grow in a habitat that has suffered repeated bleaching events. While the divers worked, they also collected data on the health of existing corals, noting changes in color, tissue integrity, and symbiotic algae density that signal stress from rising sea temperatures.\n\nThe effort is part of a broader initiative led by the Florida Department of Environmental Protection and several university research groups to mitigate the impacts of climate change on the state’s coral ecosystems. By transplanting resilient coral genotypes and monitoring their survival, scientists hope to build a more robust reef community that can better withstand future temperature spikes. The data gathered during the dive will feed into predictive models that guide future restoration sites and inform conservation policy.\n\nAs the project concludes, the team plans to release the collected samples back into the water to continue monitoring their growth and health. The initiative underscores the growing role of citizen scientists in marine conservation and highlights the urgent need for continued research and adaptive management strategies to preserve Florida’s fragile coral reefs in an era of warming oceans.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 15:01:57",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-138",
+    "title": "Study finds warming‑induced emissions could boost century‑scale warming by up to 30%",
+    "slug": "study-finds-warming-induced-emissions-could-boost-century-scale-warming-by-up-to",
+    "content": "New research published this week indicates that emissions released from natural sources as a direct response to rising temperatures—often termed warming‑induced emissions—could increase the overall pace of global warming by roughly 20 % to 30 %. The study estimates that these feedbacks may add an additional 0.2 °C to 0.4 °C of warming over the course of the current century, on top of the warming already projected from human‑driven greenhouse‑gas emissions.\n\nThe analysis quantifies the contribution of temperature‑driven releases of carbon dioxide, methane and other greenhouse gases from ecosystems such as soils, wetlands and permafrost. Across a range of emissions‑scenario pathways, the researchers find that the extra warming from these natural feedbacks is largely absent from most existing climate models and from the assumptions underlying many national and international climate policies. By not accounting for this source of emissions, current projections may underestimate the total temperature rise that could be realized by 2100.\n\nThe findings suggest that climate assessments and mitigation strategies will need to incorporate warming‑induced emissions to improve the accuracy of future temperature forecasts. Policymakers may be required to consider the additional risk posed by these feedback mechanisms when setting emission reduction targets and designing adaptation measures.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 15:01:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-137",
+    "title": "AI system detects fish loss of equilibrium from temperature stress",
+    "slug": "ai-system-detects-fish-loss-of-equilibrium-from-temperature-stress",
+    "content": "Researchers have unveiled an AI‑driven system that automatically and objectively identifies the precise moment fish lose equilibrium in response to temperature stress. By integrating DeepLabCut, a deep‑learning tool that tracks animal posture from video, with ResNet34, an image‑classification network, the new platform can pinpoint loss‑of‑equilibrium events in real time without human intervention.\n\nThe system was tested on several species of freshwater and marine fish exposed to controlled temperature ramps. DeepLabCut extracted fine‑grained postural data, while ResNet34 classified the resulting frames to detect the critical threshold where equilibrium is lost. The combined approach yields high accuracy and reproducibility, enabling large‑scale monitoring of fish behavior under varying thermal conditions.\n\nExperts say the technology will be valuable for assessing how rising ocean and river temperatures affect fish populations. By providing objective, high‑throughput data on temperature‑induced behavioral changes, the tool can inform climate‑impact models and help fisheries managers develop adaptive strategies for vulnerable species.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 14:53:29",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-136",
+    "title": "Financial Health Meets Longevity",
+    "slug": "financial-health-meets-longevity",
+    "content": "Financial planners and gerontologists are increasingly recognizing the link between sound financial health and human longevity. Recent research from the Journal of Aging & Society shows that individuals who maintain stable savings, diversified investments, and low debt levels tend to experience fewer chronic illnesses and enjoy longer, healthier lives. The study followed over 15,000 adults aged 45 to 65 for a decade, finding a 12% higher life expectancy among those who met recommended financial benchmarks compared with peers who struggled with financial instability.\n\nKey factors driving this relationship include the ability to afford preventive healthcare, nutritious diets, and stress‑reducing activities that are often tied to economic security. Moreover, financial resilience reduces the likelihood of late‑life poverty, which is associated with higher rates of depression, cognitive decline, and reduced access to medical care. Policymakers are now exploring programs that integrate financial education into public health initiatives, aiming to create a dual strategy that promotes both fiscal and physical well‑being.\n\nIn conclusion, the emerging consensus underscores that financial well‑being is not merely a matter of wealth but a critical component of healthy aging. By addressing economic stability alongside traditional health interventions, communities can foster environments where individuals are better equipped to live longer, more vibrant lives.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 14:53:24",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-135",
+    "title": "Scientists may have detected dark matter, a potential breakthrough",
+    "slug": "scientists-may-have-detected-dark-matter-a-potential-breakthrough",
+    "content": "For decades, physicists have wrestled with the mystery of dark matter, a substance that is thought to account for roughly 85 % of the universe’s total matter yet remains invisible and undetectable except through its gravitational influence on visible objects. Recent research now suggests scientists may be closer than ever to identifying this elusive component. The Guardian’s Science editor Ian Sample discussed the implications of the new findings with Madeleine Finlay, noting that confirmation could fundamentally reshape our understanding of cosmology and the fundamental forces that govern the cosmos.\n\nThe breakthrough, detailed in a paper led by Dr Samuel Erikson, a senior research associate at the University of Bristol, involves a novel detection method that could isolate the faint signals produced by dark matter particles. Sample explained that if the method proves reliable, it would open a new window into the particle physics of the early universe and potentially identify the specific particle species that make up dark matter. Erikson added that the physics community has responded with cautious enthusiasm, recognizing the significance of the approach while calling for independent verification and further experimental refinement.\n\nIf the findings are confirmed, they would provide the first direct evidence of dark matter’s particle nature, offering a critical test for theories that extend beyond the Standard Model. The research team plans to collaborate with international observatories to apply the technique on a larger scale, while theoretical physicists will reassess models of galaxy formation and cosmic evolution in light of the new data. The prospect of finally observing dark matter directly marks a pivotal moment in astrophysics, promising to deepen our grasp of the universe’s composition and the forces that shape it.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/10/2026 14:53:20",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-134",
     "title": "Indonesian Foragers 25,000 Years Ago May Have Used Psychoactive Nuts",
     "slug": "indonesian-foragers-25-000-years-ago-may-have-used-psychoactive-nuts",

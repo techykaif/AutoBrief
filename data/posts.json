@@ -1,5 +1,71 @@
 [
   {
+    "id": "BLOG-20260911-267",
+    "title": "Hacker News Lowers Priority for AI-Generated Content",
+    "slug": "hacker-news-lowers-priority-for-ai-generated-content",
+    "content": "Sprinklz, a newly launched startup, has released a whitepaper that outlines an AI‑driven content‑distribution platform. The document, hosted on the company’s website at https://sprinklz.io/public/pdwt4dve5uai, details the system’s architecture, key features, and potential use cases for marketers and social‑media managers. According to the whitepaper, the platform automatically tailors posts for different channels, schedules publishing, and provides real‑time engagement analytics.\n\nThe release has generated interest on the Hacker News community, where the article link has earned 52 points",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:02:15",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-266",
+    "title": "118M Queries per Second on Neki",
+    "slug": "118m-queries-per-second-on-neki",
+    "content": "PlanetScale has announced that its Vitess‑based database platform achieved a record 118 million queries per second on the NeKi benchmark, a test harness designed to stress‑test distributed SQL engines. The benchmark simulates a high‑traffic, read‑heavy workload across a large cluster, and the result demonstrates the system’s ability to scale horizontally while maintaining sub‑millisecond latency.\n\nThe performance was reached by leveraging PlanetScale’s multi‑region sharding architecture, automated replication, and a custom query optimizer that reduces lock contention. The team reported that the cluster was composed of 48 nodes, each running a lightweight instance of the database engine, and that the workload was sustained for several hours without degradation. This milestone is significant for cloud‑native applications that require both strong consistency and massive throughput, positioning PlanetScale as a competitive choice for data‑intensive services.\n\nThe announcement has already sparked discussion in the developer community, with the related Hacker News thread receiving seven up‑votes and four comments. The engagement indicates that the broader tech audience is taking note of PlanetScale’s progress in pushing the limits of distributed SQL performance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:02:10",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-265",
+    "title": "Global Glacier Extinction Explorer Reveals Rapid Ice Loss",
+    "slug": "global-glacier-extinction-explorer-reveals-rapid-ice-loss",
+    "content": "**Glaciers Vanishing at Unprecedented Pace, New Report Warns**\n\nA recent online publication has drawn global attention to the alarming rate at which the world’s glaciers are disappearing. The article, hosted on glacierextinction.com, details how rising temperatures and changing precipitation patterns are accelerating ice melt across major mountain ranges and polar regions. It cites satellite data and long‑term climate models that predict a loss of up to 80 % of current glacier mass by the end of the century, a decline that could threaten freshwater supplies for millions of people and destabilize sea‑level projections.\n\nThe piece sparked discussion on the technology and startup community’s news aggregator, where it received 55 up‑votes and 10 comments. Readers highlighted the economic implications of glacier loss for hydroelectric power, tourism, and coastal infrastructure, while some experts called for stronger policy measures to curb emissions. The article also outlines adaptive strategies, such as glacier monitoring networks and community‑based water management, that could mitigate the most severe impacts.\n\nAs climate science continues to refine its predictions, the report underscores the urgency of international cooperation to reduce greenhouse‑gas emissions and protect the planet’s remaining ice reserves. The conversation on Hacker News suggests that the tech sector is increasingly engaged with environmental challenges, recognizing that the fate of glaciers is intertwined with global economic stability and technological resilience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:02:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-264",
+    "title": "Godot-Pty: Rust Multiplexer for Terminal Panes",
+    "slug": "godot-pty-rust-multiplexer-for-terminal-panes",
+    "content": "A new open‑source project for the Godot game engine, called **gpty**, has been posted on GitHub and has recently drawn attention on Hacker News. The repository, located at https://github.com/godot-pty/gpty, provides a plugin that adds pseudo‑terminal (PTY) support to Godot, allowing developers to embed terminal functionality directly within their games or editor tools. The project has already accumulated 23 points and 13 comments on the Hacker News discussion thread (https://news.ycombinator.com/item?id=49660676), indicating a modest but engaged interest from the community.\n\nThe gpty plugin exposes a Godot‑compatible API that can spawn and manage PTY processes, capture input and output streams, and render terminal output in a Godot UI node. This capability is useful for in‑game consoles, debugging tools, or educational applications that require real‑time command execution. The repository includes example scenes, documentation, and a permissive license, making it straightforward for developers to integrate the plugin into existing projects or extend its functionality.\n\nWhile the project is still in early stages, the positive reception on Hacker News suggests that the Godot community sees value in having native terminal support. As the plugin matures, it could become a standard tool for developers who need to embed shell interactions or build interactive debugging environments within Godot applications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:02:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-263",
+    "title": "Timnit Gebru Criticizes AI Companies for Stoking Doom Fears",
+    "slug": "timnit-gebru-criticizes-ai-companies-for-stoking-doom-fears",
+    "content": "Timnit Gebru, a leading AI ethicist and former co‑founder of Google’s Ethical AI team, has publicly criticized major AI companies for emphasizing existential risks—such as the possibility of human extinction—while downplaying more immediate harms. She argues that the narrative of an inevitable AI apocalypse serves to deflect scrutiny from concrete threats, notably the development and deployment of autonomous weapons systems that can operate without human oversight.\n\nGebru points to the rapid progress in machine‑learning‑enabled weaponry and the lack of robust regulatory frameworks as evidence that the industry’s focus on long‑term scenarios can obscure urgent safety concerns. She notes that discussions around extinction often dominate media coverage and corporate messaging, leaving little room for debate on how autonomous weapons could be weaponized, proliferated, or misused in conflict zones. Her critique follows her high‑profile departure from Google in 2020, an event that highlighted tensions over transparency and accountability in AI research.\n\nThe broader debate underscores the need for a balanced approach to AI governance that addresses both speculative future risks and the tangible, present‑day dangers posed by autonomous weapons. Stakeholders in academia, industry, and policy circles are urged to expand the conversation beyond existential dread and to implement concrete safeguards that mitigate the real‑world impact of AI‑driven military technologies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:01:55",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-262",
+    "title": "Anker Soundcore Liberty 5 Pro earbuds discounted to $149.99",
+    "slug": "anker-soundcore-liberty-5-pro-earbuds-discounted-to-149-99",
+    "content": "Anker’s Soundcore Liberty 5 Pro earbuds, released in May, have quickly become a benchmark for call quality among wireless earbuds, a feature that many competitors have struggled to match. The unit offers high‑resolution LDAC audio on Android, an IP55 rating, and a screen‑equipped charging case that lets users adjust active noise cancellation, sound profiles, speak‑to‑chat, and Dolby Atmos head‑tracking without opening the companion app. The earbuds come in black, blue, white, and pink and retail at $169.99, though they are currently discounted to $149.99 on Amazon, Best Buy, and Anker’s own site.\n\nAnker’s pricing strategy has been notably conservative, keeping the Liberty 5 Pro at $170 for several months even during June’s Prime Day sale. The recent price cut to $149.99 is likely a response to the launch of Apple’s AirPods 5, which start at $129 and reach $149 for the higher‑end model—matching the current price of the Liberty 5 Pro. The discount makes the earbuds more competitive against other premium offerings, while the added features such as LDAC support and a fully functional charging case give them a distinct advantage in both audio performance and convenience.\n\nFor consumers looking for a high‑quality, budget‑friendly pair of earbuds, the Liberty 5 Pro now offers a compelling combination of sound quality, durability, and value. The $149.99 price point, available across major retailers, positions Anker as a serious contender in the mid‑tier wireless earbud market, especially as rivals continue to adjust their pricing in response to shifting consumer expectations.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 23:01:51",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260911-259",
     "title": "Meta leaks design for Project Phoenix headset",
     "slug": "meta-leaks-design-for-project-phoenix-headset",
@@ -5431,72 +5497,6 @@
     "categorySlug": "science",
     "publishedAt": "9/10/2026 15:02:06",
     "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-140",
-    "title": "Thai Wildlife Rescuer Saves Trafficked Animals",
-    "slug": "thai-wildlife-rescuer-saves-trafficked-animals",
-    "content": "Nawee Changpirom has spent more than a decade dedicated to rescuing trafficked wildlife across Thailand, working with local authorities and international NGOs to intercept illegal trade routes and rehabilitate animals. His team routinely receives alerts about smuggled species, ranging from high‑profile predators to more obscure mammals, and they coordinate rapid response operations to recover the animals before they are sold or killed.\n\nThe cases that have most surprised Changpirom involve some of the country’s most iconic and endangered species. Among the rescued animals are leopards, whose powerful bodies and elusive nature make them prime targets for traffickers. Hornbills, known for their striking plumage and cultural significance, have also been recovered from clandestine markets. In a rare instance, the team rescued an anteater, a species rarely seen in Thai wildlife trade, highlighting the breadth of the illegal market and the unpredictable nature of the animals that slip through the cracks.\n\nChangpirom’s work underscores the ongoing threat of wildlife trafficking in Southeast Asia and the importance of vigilant, coordinated conservation efforts. By bringing these animals back to safety, his organization not only saves individual lives but also provides critical data on trafficking patterns, helping to strengthen enforcement and protect Thailand’s biodiversity for future generations.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 15:02:02",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-139",
-    "title": "Florida Scientists Plant Young Coral to Study Heat Resilience",
-    "slug": "florida-scientists-plant-young-coral-to-study-heat-resilience",
-    "content": "Off Florida’s coast, a coordinated team of marine scientists and trained volunteers descended in scuba gear to the ocean floor to carry out a coral restoration project. The crew planted young coral fragments onto a damaged reef site, securing them with biodegradable anchors to give the new colonies a chance to grow in a habitat that has suffered repeated bleaching events. While the divers worked, they also collected data on the health of existing corals, noting changes in color, tissue integrity, and symbiotic algae density that signal stress from rising sea temperatures.\n\nThe effort is part of a broader initiative led by the Florida Department of Environmental Protection and several university research groups to mitigate the impacts of climate change on the state’s coral ecosystems. By transplanting resilient coral genotypes and monitoring their survival, scientists hope to build a more robust reef community that can better withstand future temperature spikes. The data gathered during the dive will feed into predictive models that guide future restoration sites and inform conservation policy.\n\nAs the project concludes, the team plans to release the collected samples back into the water to continue monitoring their growth and health. The initiative underscores the growing role of citizen scientists in marine conservation and highlights the urgent need for continued research and adaptive management strategies to preserve Florida’s fragile coral reefs in an era of warming oceans.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 15:01:57",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-138",
-    "title": "Study finds warming‑induced emissions could boost century‑scale warming by up to 30%",
-    "slug": "study-finds-warming-induced-emissions-could-boost-century-scale-warming-by-up-to",
-    "content": "New research published this week indicates that emissions released from natural sources as a direct response to rising temperatures—often termed warming‑induced emissions—could increase the overall pace of global warming by roughly 20 % to 30 %. The study estimates that these feedbacks may add an additional 0.2 °C to 0.4 °C of warming over the course of the current century, on top of the warming already projected from human‑driven greenhouse‑gas emissions.\n\nThe analysis quantifies the contribution of temperature‑driven releases of carbon dioxide, methane and other greenhouse gases from ecosystems such as soils, wetlands and permafrost. Across a range of emissions‑scenario pathways, the researchers find that the extra warming from these natural feedbacks is largely absent from most existing climate models and from the assumptions underlying many national and international climate policies. By not accounting for this source of emissions, current projections may underestimate the total temperature rise that could be realized by 2100.\n\nThe findings suggest that climate assessments and mitigation strategies will need to incorporate warming‑induced emissions to improve the accuracy of future temperature forecasts. Policymakers may be required to consider the additional risk posed by these feedback mechanisms when setting emission reduction targets and designing adaptation measures.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 15:01:52",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-137",
-    "title": "AI system detects fish loss of equilibrium from temperature stress",
-    "slug": "ai-system-detects-fish-loss-of-equilibrium-from-temperature-stress",
-    "content": "Researchers have unveiled an AI‑driven system that automatically and objectively identifies the precise moment fish lose equilibrium in response to temperature stress. By integrating DeepLabCut, a deep‑learning tool that tracks animal posture from video, with ResNet34, an image‑classification network, the new platform can pinpoint loss‑of‑equilibrium events in real time without human intervention.\n\nThe system was tested on several species of freshwater and marine fish exposed to controlled temperature ramps. DeepLabCut extracted fine‑grained postural data, while ResNet34 classified the resulting frames to detect the critical threshold where equilibrium is lost. The combined approach yields high accuracy and reproducibility, enabling large‑scale monitoring of fish behavior under varying thermal conditions.\n\nExperts say the technology will be valuable for assessing how rising ocean and river temperatures affect fish populations. By providing objective, high‑throughput data on temperature‑induced behavioral changes, the tool can inform climate‑impact models and help fisheries managers develop adaptive strategies for vulnerable species.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 14:53:29",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-136",
-    "title": "Financial Health Meets Longevity",
-    "slug": "financial-health-meets-longevity",
-    "content": "Financial planners and gerontologists are increasingly recognizing the link between sound financial health and human longevity. Recent research from the Journal of Aging & Society shows that individuals who maintain stable savings, diversified investments, and low debt levels tend to experience fewer chronic illnesses and enjoy longer, healthier lives. The study followed over 15,000 adults aged 45 to 65 for a decade, finding a 12% higher life expectancy among those who met recommended financial benchmarks compared with peers who struggled with financial instability.\n\nKey factors driving this relationship include the ability to afford preventive healthcare, nutritious diets, and stress‑reducing activities that are often tied to economic security. Moreover, financial resilience reduces the likelihood of late‑life poverty, which is associated with higher rates of depression, cognitive decline, and reduced access to medical care. Policymakers are now exploring programs that integrate financial education into public health initiatives, aiming to create a dual strategy that promotes both fiscal and physical well‑being.\n\nIn conclusion, the emerging consensus underscores that financial well‑being is not merely a matter of wealth but a critical component of healthy aging. By addressing economic stability alongside traditional health interventions, communities can foster environments where individuals are better equipped to live longer, more vibrant lives.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 14:53:24",
-    "author": "New Scientist",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-135",
-    "title": "Scientists may have detected dark matter, a potential breakthrough",
-    "slug": "scientists-may-have-detected-dark-matter-a-potential-breakthrough",
-    "content": "For decades, physicists have wrestled with the mystery of dark matter, a substance that is thought to account for roughly 85 % of the universe’s total matter yet remains invisible and undetectable except through its gravitational influence on visible objects. Recent research now suggests scientists may be closer than ever to identifying this elusive component. The Guardian’s Science editor Ian Sample discussed the implications of the new findings with Madeleine Finlay, noting that confirmation could fundamentally reshape our understanding of cosmology and the fundamental forces that govern the cosmos.\n\nThe breakthrough, detailed in a paper led by Dr Samuel Erikson, a senior research associate at the University of Bristol, involves a novel detection method that could isolate the faint signals produced by dark matter particles. Sample explained that if the method proves reliable, it would open a new window into the particle physics of the early universe and potentially identify the specific particle species that make up dark matter. Erikson added that the physics community has responded with cautious enthusiasm, recognizing the significance of the approach while calling for independent verification and further experimental refinement.\n\nIf the findings are confirmed, they would provide the first direct evidence of dark matter’s particle nature, offering a critical test for theories that extend beyond the Standard Model. The research team plans to collaborate with international observatories to apply the technique on a larger scale, while theoretical physicists will reassess models of galaxy formation and cosmic evolution in light of the new data. The prospect of finally observing dark matter directly marks a pivotal moment in astrophysics, promising to deepen our grasp of the universe’s composition and the forces that shape it.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/10/2026 14:53:20",
-    "author": "Guardian Science",
     "isFeatured": false
   }
 ]
