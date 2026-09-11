@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260911-378",
+    "title": "New 'smart' nanoparticles help the immune system better attack tumors",
+    "slug": "new-smart-nanoparticles-help-the-immune-system-better-attack-tumors",
+    "content": "Researchers at the University of Adelaide have developed a novel application of mRNA technology designed to reprogram immune cells that typically support tumor growth. The approach targets specific immune populations within the tumor microenvironment, converting them from cancer-promoting agents into active participants in the body’s natural defense system. By delivering customized mRNA sequences directly to these cells, the method aims to enhance the immune system’s ability to recognize and eliminate malignant tissue.\n\nThe research adapts established mRNA platforms to address a persistent challenge in oncology: the presence of immune cells that suppress anticancer activity. According to the study, the engineered mRNA molecules instruct tumor-associated cells to express proteins that shift their functional role, thereby amplifying targeted immune responses and improving tumor clearance in experimental models. The",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/12/2026 1:52:20",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-373",
+    "title": "AI tools could make postoperative opioid prescribing more individualized",
+    "slug": "ai-tools-could-make-postoperative-opioid-prescribing-more-individualized",
+    "content": "Patients recovering from wisdom tooth extraction frequently face a critical post-operative consideration: determining the appropriate amount of pain medication required for a comfortable recovery. As oral surgeons and dentists continue to refine post-surgical care protocols, clinical focus has shifted toward aligning prescription practices with actual patient needs. This adjustment addresses both individual recovery outcomes and broader public health efforts to manage medication distribution following routine dental procedures.\n\nClinical guidelines and dental",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/12/2026 1:52:06",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-371",
+    "title": "UK vaccine damage scheme administration costs exceed £83m",
+    "slug": "uk-vaccine-damage-scheme-administration-costs-exceed-83m",
+    "content": "New figures released by the Department of Health and Social Care show that the combined cost of administration and medical checks for the national health screening programme has now exceeded £83 million. The data, drawn from the NHS Financial Management Office, represent the cumulative spending for the first 18 months of the programme’s rollout.\n\nThe cost includes £45 million for administrative support—such as staffing, data management and logistics—and £38 million for the clinical components, including diagnostic tests, specialist consultations and follow‑up appointments. The figures were presented at a briefing to Parliament on Tuesday, with the programme’s chief executive noting that the expenditure is in line with the projected budget for the current fiscal year.\n\nThe Department will review the programme’s cost‑effectiveness in the coming quarter, citing the need to balance early detection benefits against rising operational expenses. The updated figures will inform future resource allocation decisions within the NHS’s broader strategy for preventive care.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/12/2026 1:51:55",
+    "author": "BBC Health",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-370",
+    "title": "New study details wildfire smoke chemicals affecting Reno's air quality",
+    "slug": "new-study-details-wildfire-smoke-chemicals-affecting-reno-s-air-quality",
+    "content": "Western wildfires have grown larger, longer and more intense, exposing millions of Americans to smoke each year. In California, the 2020 and 2021 fire seasons saw a ten‑fold increase in the number of fires compared with any previous period in the state’s history, sending plumes of smoke across the region. Northern Nevada, situated downwind of California’s fire belts, experienced prolonged periods of smoke‑filled skies, with residents of Reno reporting months of reduced air quality during those two years.\n\nA recent scientific study examined the composition of the smoke that drifted into Nevada and identified a suite of potentially hazardous chemicals, including fine particulate matter, volatile organic compounds and polycyclic aromatic hydrocarbons known to pose health risks. The analysis, conducted on air samples collected throughout the 2020‑2021 fire seasons, quantifies concentrations of these pollutants at levels that exceed typical background measurements, underscoring the broader public‑health implications of distant wildfire events for communities far from the fire source.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/12/2026 1:51:50",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260911-363",
     "title": "Bite, buzz, release: How bees make flowers give up their pollen",
     "slug": "bite-buzz-release-how-bees-make-flowers-give-up-their-pollen",
@@ -5452,50 +5496,6 @@
     "category": "World",
     "categorySlug": "world",
     "publishedAt": "9/10/2026 19:03:35",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-184",
-    "title": "2022 Nord Stream sabotage still affecting gas supply and environment",
-    "slug": "2022-nord-stream-sabotage-still-affecting-gas-supply-and-environment",
-    "content": "On the night of September 26, 2022, three of the four gas pipelines that constitute the Nord Stream 1 and Nord Stream 2 routes suffered explosions on the Baltic Sea seabed, resulting in the release of an estimated 465,000 metric tons of methane into the atmosphere. The blasts, described by analysts as the most significant sabotage incident in Europe since World War II, effectively severed the long‑standing energy conduit linking Russia and Germany.\n\nThe damage to the pipelines has halted the transit of Russian natural gas to Central Europe, prompting immediate investigations by multiple national and international authorities to determine the perpetrators and assess the environmental impact of the methane discharge. The incident underscores the vulnerability of critical energy infrastructure and is expected to influence future energy security strategies across the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:30",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-183",
-    "title": "France withdraws support for Infantino in FIFA presidential race",
-    "slug": "france-withdraws-support-for-infantino-in-fifa-presidential-race",
-    "content": "The French Football Federation (FFF) announced on Thursday that it will not back Gianni Infantino’s bid for a new term as FIFA president in the March 2027 election. The decision aligns France with a growing bloc of European associations—including Belgium, Italy, Scotland, Sweden and Wales—that have publicly withdrawn their support for the incumbent candidate.\n\nBy joining the dissenting federations, the FFF signals broader continental unease over Infantino’s leadership ahead of the upcoming vote. The coordinated stance may influence the dynamics of the election, as the collective opposition could sway undecided members and shape the future governance of world football.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:25",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-182",
-    "title": "U.S. commemorates 25th anniversary of 9/11, aims to preserve memory",
-    "slug": "u-s-commemorates-25th-anniversary-of-9-11-aims-to-preserve-memory",
-    "content": "Washington — As the United States marks the 25th anniversary of the September 11, 2001 terrorist attacks, officials emphasize the need to preserve the memory of the tragedy even as the proportion of Americans who witnessed the events firsthand continues to decline. The attacks, carried out by hijacked passenger planes, resulted in 2,977 confirmed deaths, with the World Trade Center towers in New York accounting for the largest share of the fatalities.\n\nPresident Donald Trump is scheduled to honor the victims at the Pentagon, the site of one of the four coordinated strikes, rather than in New York City where the World Trade Center attacks occurred. The presidential visit underscores the broader national commemoration, which includes ceremonies at multiple locations across the country to reflect on the impact of the attacks and to reinforce public remembrance of the 2001 trauma.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:19",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260910-181",
-    "title": "Houthis capture Yemen's Mocha port, heightening Red Sea shipping concerns",
-    "slug": "houthis-capture-yemen-s-mocha-port-heightening-red-sea-shipping-concerns",
-    "content": "Iran‑aligned Houthi militants seized control of Yemen’s port city of Mocha on Thursday, according to four Yemeni government military sources, heightening concerns over the security of global energy supplies. The takeover gives the insurgents additional leverage over the Bab el‑Mandeb Strait, the southern outlet of the Red Sea that serves as a critical conduit for oil and container traffic worldwide. In parallel, the Houthis have launched attacks on the strategic Hanish Islands, further expanding their operational reach in the Red Sea region.\n\nThe developments underscore the growing threat to one of the world’s most important shipping lanes, as the Bab el‑Mandeb handles a significant share of maritime trade, including petroleum shipments from the Gulf. By controlling Mocha and exerting pressure on nearby islands, the Houthis are positioned to disrupt vessel movements and potentially increase insurance and freight costs. Regional authorities and international maritime stakeholders are monitoring the situation closely, emphasizing the need for heightened security measures to safeguard the flow of energy and commerce through the strait.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/10/2026 19:03:13",
     "author": "France 24",
     "isFeatured": false
   }
