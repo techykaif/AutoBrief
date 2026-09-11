@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260910-218",
+    "title": "San Francisco nonprofit releases roadmap for solar geoengineering decisions",
+    "slug": "san-francisco-nonprofit-releases-roadmap-for-solar-geoengineering-decisions",
+    "content": "A San Francisco‑based nonprofit has released a comprehensive roadmap outlining the experiments, studies, and infrastructure it believes are required to guide policy decisions on solar geoengineering, according to MIT Technology Review. The plan details a phased approach that begins with small‑scale field tests, moves to larger pilot projects, and culminates in a global monitoring network to assess environmental and socio‑economic impacts. The organization argues that such a structured pathway is essential for balancing potential climate benefits against risks such as ozone depletion, changes in precipitation patterns, and geopolitical tensions.\n\nThe roadmap builds on five decades of research into the feasibility of reflecting sunlight back into space to offset warming. It calls for coordinated international collaboration, transparent data sharing, and the establishment of an independent oversight body to evaluate results and update risk assessments. The nonprofit also stresses the need for public engagement and ethical review processes to ensure that any deployment of solar geoengineering aligns with global climate goals and societal values.\n\nIn conclusion, the nonprofit’s proposal represents a call to move beyond theoretical discussions toward actionable, evidence‑based policy. By laying out a clear experimental and governance framework, it aims to provide decision makers with the tools necessary to evaluate whether solar geoengineering could play a role in a broader climate strategy, while safeguarding against unintended consequences.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 19:23:25",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-217",
+    "title": "Ashburn Transmission Fault Cuts 3 GW of Power",
+    "slug": "ashburn-transmission-fault-cuts-3-gw-of-power",
+    "content": "On July 22, 2026, a fault on a high‑voltage transmission line in Ashburn, Virginia—home to the world’s largest data‑center cluster—caused an instantaneous loss of more than 3 GW of power. The outage shut down thousands of servers and disrupted services for businesses and consumers across the eastern United States within seconds.\n\nThe incident is part of a growing pattern of reliability challenges in the region’s power grid. Two years earlier, a single failed surge arrester had taken 60 Virginia facilities offline and cut 1,500 MW of capacity, highlighting vulnerabilities in the infrastructure that supports the state’s critical digital economy. Grid operators are reviewing protection schemes and redundancy plans to mitigate similar events in the future.\n\nUtility regulators and data‑center operators are working together to strengthen system resilience. While the July outage was quickly restored, the incident underscores the need for coordinated upgrades and real‑time monitoring to protect the high‑density energy demand of Ashburn’s data‑center ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/10/2026 19:23:15",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-216",
     "title": "God-Driven Crypto Venture Causes Investor Losses",
     "slug": "god-driven-crypto-venture-causes-investor-losses",
