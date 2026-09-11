@@ -1,5 +1,82 @@
 [
   {
+    "id": "BLOG-20260910-567",
+    "title": "Religious Bias Evolves 25 Years After 9/11",
+    "slug": "religious-bias-evolves-25-years-after-9-11",
+    "content": "A quarter‑century after the September 11, 2001 terrorist attacks, religious bias remains a persistent issue in the United States, although the forces that shape it have evolved. In the immediate aftermath of 9/11, anti‑Muslim sentiment surged, fueled by heightened security concerns and a surge in hate crimes targeting Muslim communities. Over the past twenty‑five years, the focus of religious bias has broadened to include a wider range of faiths, as well as a growing intersection with political ideology and social media amplification.\n\nRecent surveys and hate‑crime reports indicate that while overall incidents of religiously motivated violence have declined, incidents of harassment and discrimination have risen in certain regions. The rise of partisan politics has contributed to a climate where religious identity is increasingly politicized, with some political leaders and media outlets framing religious minorities as security threats or moral outsiders. Additionally, the proliferation of online platforms has accelerated the spread of misinformation and extremist rhetoric, allowing fringe narratives to reach larger audiences and embolden individuals who act on bias.\n\nThe persistence of religious bias underscores the need for continued monitoring and education. While policy changes such as the 2019 Executive Order on Hate Crimes and the 2023 federal report on religious discrimination have provided new tools for addressing bias, the shifting landscape—characterized by digital echo chambers and polarized political discourse—demands adaptive strategies. Addressing religious bias will require a coordinated effort from lawmakers, community leaders, and technology firms to promote accurate information, protect vulnerable groups, and foster interfaith dialogue.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:42:33",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-566",
+    "title": "Deep-Sea Proteins Adapt to Extreme Pressure",
+    "slug": "deep-sea-proteins-adapt-to-extreme-pressure",
+    "content": "Scientists have long been fascinated by the resilience of deep‑sea organisms, which thrive under pressures that can exceed 1,000 atmospheres. Recent studies now shed light on how these creatures keep their proteins—essential molecules that perform nearly every cellular function—from unfolding or aggregating in such hostile environments. Researchers at the Oceanic Institute of Marine Biology have identified a suite of molecular chaperones and stabilizing amino‑acid substitutions that reinforce protein structures, allowing enzymes to maintain catalytic activity even under crushing pressure.\n\nThe team used high‑pressure cryo‑electron microscopy and comparative genomics to analyze proteins from several abyssal species, including the barophilic amphipod *Alvinia pacifica* and the hydrothermal vent shrimp *Rimicaris exoculata*. Their findings reveal that these proteins possess increased hydrophobic core packing and a higher proportion of pressure‑tolerant residues, such as proline and glycine, which reduce conformational flexibility. Additionally, the organisms produce specialized osmolytes—small organic molecules—that help stabilize protein folding and counteract pressure‑induced denaturation. These adaptations collectively ensure that vital metabolic pathways remain operational in the deep ocean’s extreme conditions.\n\nUnderstanding these mechanisms has implications beyond marine biology. The principles of pressure‑stabilized proteins could inform the design of robust enzymes for industrial processes that operate under high‑pressure conditions, such as deep‑water oil extraction or pharmaceutical manufacturing. As researchers continue to explore the molecular strategies employed by deep‑sea life, they not only unravel the mysteries of life under extreme pressure but also open avenues for biotechnological innovation.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:42:27",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-565",
+    "title": "Community Heat Resilience Networks",
+    "slug": "community-heat-resilience-networks",
+    "content": "Extreme heat events are increasingly common across many regions, prompting residents to adopt informal adaptation measures to cope with rising temperatures. In several neighborhoods, citizens have begun installing plastic sheeting overhead to create makeshift shade structures on rooftops and patios, while others have organized shared water distribution points at community taps to ensure adequate hydration during heatwaves.\n\nThese grassroots initiatives also include the development of neighborhood cooling areas, where local groups set up shaded benches, misting fans, and temporary shade cloths to provide relief for vulnerable populations such as the elderly and outdoor workers. The collaborative nature of these efforts—often coordinated through local community associations or informal networks—has helped fill gaps left by limited municipal resources and infrastructure.\n\nWhile these informal strategies offer immediate, low‑cost relief, experts emphasize the need for long‑term, systemic solutions such as expanded green spaces, improved building codes, and enhanced public cooling facilities. Nonetheless, the community‑driven adaptations demonstrate how residents are actively responding to the escalating threat of extreme heat.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:42:21",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-564",
+    "title": "Ultra-Cold Quantum Sensors Reduce X-ray Noise in Nuclear Material Monitoring",
+    "slug": "ultra-cold-quantum-sensors-reduce-x-ray-noise-in-nuclear-material-monitoring",
+    "content": "Scientists tasked with monitoring nuclear material at power plants and weapons facilities rely on detecting the unique pattern of gamma‑ray emissions from specific radioactive isotopes. These gamma rays serve as a “fingerprint” that can reveal both the quantity and type of fissile material present. However, recent studies have shown that certain isotopes also emit X‑rays in the same energy range as the gamma rays, effectively masking the signature signal. This overlap complicates remote sensing efforts and can obscure the true composition of nuclear stockpiles.\n\nThe masking effect arises because X‑rays produced by electron transitions within the atom have energies that overlap with the gamma‑ray lines used for identification. When both types of radiation are present, the detectors record a composite spectrum, making it difficult to disentangle the contributions from each source. Researchers are now developing advanced spectral‑analysis algorithms and higher‑resolution detectors to separate the overlapping signals, as well as exploring alternative isotopic markers that emit gamma rays in cleaner energy bands.\n\nIf successful, these improvements could enhance the accuracy of international safeguards and non‑proliferation monitoring. By refining detection techniques, the scientific community aims to provide more reliable data on nuclear material inventories, thereby strengthening global security frameworks.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:42:11",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-563",
+    "title": "Gentle parenting: what it is and why it’s controversial",
+    "slug": "gentle-parenting-what-it-is-and-why-it-s-controversial",
+    "content": "Gentle parenting, a style that emphasizes empathy, respect, and positive discipline, has surged in popularity over the past decade. Parents and educators tout its focus on fostering emotional intelligence and secure attachment, while critics argue that it can blur boundaries and undermine authoritative guidance. The debate has intensified as social media amplifies both testimonials and cautionary tales, prompting a closer look at what the approach truly entails and where it diverges from conventional parenting models.\n\nAt its core, gentle parenting seeks to replace punitive measures with constructive communication, encouraging children to understand the consequences of their actions through discussion rather than punishment. Proponents cite research linking the method to reduced aggression and improved self‑regulation. However, detractors point out that the absence of clear limits can lead to inconsistent expectations, and some studies suggest that overly permissive practices may delay the development of self‑discipline. Additionally, the movement’s emphasis on emotional validation has been criticized for potentially fostering a sense of entitlement if not balanced with accountability.\n\nThe controversy underscores a broader conversation about parenting philosophy in contemporary society. While gentle parenting offers a compassionate framework, it is not a one‑size‑fits‑all solution; its effectiveness depends on individual family dynamics and the ability to maintain consistent boundaries. As the dialogue continues, parents and professionals alike are urged to weigh empirical evidence alongside personal values when choosing the approach that best supports their children’s growth.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:42:05",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-562",
+    "title": "New Eagle Species Discovered in 11.6-Million-Year-Old Bavarian Fossils",
+    "slug": "new-eagle-species-discovered-in-11-6-million-year-old-bavarian-fossils",
+    "content": "The Hammerschmiede clay pit near Pforzen in the eastern Allgäu has long been a focal point for paleontologists, yielding a remarkable array of fossils from the late Miocene. The site’s river sediments, dated to about 11.6 million years ago, have produced remains of numerous vertebrate species, including two early anthropoid apes that provide key insights into primate evolution. Despite this wealth of finds, the record of avian species has remained sparse, with only a handful of bird fossils recovered to date.\n\nRecent excavations have intensified efforts to uncover more avian remains, as scientists aim to fill gaps in the ecological picture of the region during the Miocene. The clay pit’s fine-grained deposits preserve delicate bone structures, offering the potential for new discoveries that could illuminate the diversity and distribution of birds in a time of significant climatic and environmental change. Researchers are employing advanced imaging and stratigraphic analysis to better understand the context of each find and to compare them with contemporaneous sites across Europe.\n\nThe continued study of Hammerschmiede underscores its importance as a natural archive of late Miocene life. By expanding the known avian component of the site’s fauna, scientists hope to refine models of Miocene ecosystems and to trace the evolutionary pathways of both mammals and birds. The clay pit remains a critical resource for reconstructing the biological and environmental dynamics of this pivotal period in Earth’s history.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:41:59",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260910-561",
+    "title": "Leiden database shows city food emissions differ, calling for tailored sustainability strategies",
+    "slug": "leiden-database-shows-city-food-emissions-differ-calling-for-tailored-sustainabi",
+    "content": "A new database compiled by researchers at Leiden University indicates that urban strategies for reducing food‑related greenhouse‑gas emissions must be tailored to local conditions. The analysis shows that in high‑income, low‑density cities such as Amsterdam, shifting consumer diets toward more plant‑based options could cut food‑sector emissions by roughly 50 percent, whereas in rapidly growing megacities like Dhaka and Delhi, the priority lies in greening food production and expanding access to affordable, sustainable foods.\n\nThe study emphasizes that a one‑size‑fits‑all policy is insufficient for achieving climate‑friendly food systems worldwide. In wealthier European cities, the impact of dietary change is amplified by existing infrastructure and consumer purchasing power, while in South Asian urban centers, improvements in agricultural practices, supply‑chain efficiency, and equitable distribution are essential to lower emissions and address food security. The Leiden database provides city‑specific guidance for policymakers aiming to balance emission reductions with the need to broaden food access in diverse urban contexts.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/11/2026 5:41:54",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260910-560",
     "title": "Species Threatened in Eryri National Park",
     "slug": "species-threatened-in-eryri-national-park",
@@ -5420,83 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/9/2026 22:03:16",
     "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-220",
-    "title": "UN General Assembly opens 81st session, pledges to restore public trust",
-    "slug": "un-general-assembly-opens-81st-session-pledges-to-restore-public-trust",
-    "content": "The United Nations General Assembly opened its 81st session on Tuesday at the UN headquarters in New York, marking the start of a year‑long agenda that confronts a series of global challenges. In his opening remarks, the incoming president of the General Assembly pledged to restore public confidence in the institution, emphasizing the need for transparent and effective action amid ongoing wars, widespread humanitarian emergencies and the accelerating impacts of climate change.  \n\nThe president’s commitment comes as member states prepare to debate and adopt resolutions on conflict resolution, aid delivery, and climate mitigation, topics that have dominated recent international discourse. By foregrounding trust‑building measures and coordinated responses, the Assembly aims to reinforce the UN’s role as a central forum for collective problem‑solving throughout the coming year.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:03:11",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-219",
-    "title": "WFP calls for food assistance in eastern DRC Ebola response",
-    "slug": "wfp-calls-for-food-assistance-in-eastern-drc-ebola-response",
-    "content": "Ebola cases have risen sharply in the eastern provinces of the Democratic Republic of the Congo, prompting health authorities and humanitarian agencies to intensify efforts to meet the basic food needs of affected households. The World Health Organization, the United Nations Office for the Coordination of Humanitarian Affairs, and several non‑governmental organizations have coordinated the distribution of emergency rations to families in the most impacted health zones, aiming to reduce malnutrition that can exacerbate the virus’s transmission and severity. Food assistance is being delivered alongside vaccination campaigns, contact‑tracing teams, and community education programs to ensure that residents can comply with isolation and treatment protocols without facing immediate hunger.\n\nOfficials say that securing reliable nutrition supplies is a critical component of the broader outbreak response, as food insecurity can drive movement of people and undermine public‑health measures. Logistics teams are navigating insecure road networks and occasional armed conflict to reach remote villages, while monitoring mechanisms track the adequacy of food parcels and identify gaps in coverage. The integrated approach seeks to stabilize vulnerable populations, limit further spread of Ebola, and lay the groundwork for a coordinated recovery once the outbreak is contained.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:03:06",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-218",
-    "title": "AI data centres strain global electricity systems",
-    "slug": "ai-data-centres-strain-global-electricity-systems",
-    "content": "The United Nations Economic Commission for Europe (UNECE) has issued a warning that the rapid expansion of data‑intensive technologies, especially artificial‑intelligence (AI) data centres, is outpacing the capacity of existing electricity infrastructure. In a recent assessment, the commission highlighted that the surge in power demand from AI‑driven computing facilities is creating a mismatch with the pace of upgrades to generation, transmission and distribution networks, raising questions about the future reliability and resilience of global energy systems.\n\nUNECE officials noted that the imbalance could lead to heightened stress on power grids, increased risk of outages, and the need for substantial investment in renewable generation and grid modernization to accommodate the growing load. The commission called for coordinated policy measures, accelerated development of sustainable energy sources, and strategic planning to ensure that electricity supply can keep pace with the expanding digital economy, thereby safeguarding energy security worldwide.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:03:01",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-217",
-    "title": "UN chief urges Israel to withdraw from Lebanon as fighting intensifies in Nabatieh",
-    "slug": "un-chief-urges-israel-to-withdraw-from-lebanon-as-fighting-intensifies-in-nabati",
-    "content": "The United Nations Secretary‑General has condemned the rising number of civilian casualties in southern Lebanon and urged Israel to withdraw its forces from Lebanese territory as hostilities intensify around the city of Nabatieh. In a statement issued today, he highlighted the humanitarian impact of the fighting and called for immediate steps to protect civilians in accordance with international humanitarian law.\n\nThe Secretary‑General’s appeal follows a recent surge in cross‑border exchanges between Israeli and Lebanese armed groups, which has led to heightened military activity in the Nabatieh region and surrounding villages. He reiterated the UN’s longstanding position that any use of force must be proportionate and directed solely at combatants, and urged both parties to pursue de‑escalation measures to prevent further loss of life. The call for withdrawal and restraint comes amid growing international concern over the conflict’s spill‑over effects and the need for a durable cease‑fire.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:02:57",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-216",
-    "title": "Global shipping faces rising risks as vessels and crews become leverage in unrelated conflicts",
-    "slug": "global-shipping-faces-rising-risks-as-vessels-and-crews-become-leverage-in-unrel",
-    "content": "The global shipping sector is confronting what industry analysts describe as a “genuinely unprecedented” convergence of maritime crises. Recent weeks have seen a sharp rise in incidents where commercial vessels and their crews are being employed as strategic leverage in geopolitical disputes unrelated to maritime trade, intensifying risks across major shipping lanes.\n\nIncidents ranging from the targeting of container ships in the Red Sea to the seizure of vessels near the Black Sea illustrate the expanding scope of the threat. Nations and non‑state actors have increasingly used the disruption of cargo flows to exert political pressure, prompting insurers to raise premiums and operators to adopt longer, costlier routes. The resulting operational strain is affecting global supply chains, with delays reported in the delivery of essential commodities and heightened concerns for the safety and welfare of seafarers who now face heightened exposure to conflict‑related hazards.\n\nIndustry bodies and governments are responding with coordinated security advisories, expanded naval escorts, and calls for diplomatic resolutions to de‑escalate the use of shipping as a bargaining chip. Continued escalation could further destabilize international trade, underscoring the need for swift multilateral action to safeguard maritime commerce and protect the personnel who navigate it.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:02:52",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-215",
-    "title": "Record attacks on schools leave 93 million children out of class, UN warns",
-    "slug": "record-attacks-on-schools-leave-93-million-children-out-of-class-un-warns",
-    "content": "September usually heralds the beginning of the school year for millions of students in the northern hemisphere, yet education experts warned on Wednesday that an estimated 93 million children remain out of the classroom. The figure reflects a surge in attacks on learning environments, including bombings, raids, and other forms of violence that have disrupted schooling across conflict‑affected regions. Data compiled by international monitoring bodies show that the number of children denied access to education has risen sharply in recent months, surpassing previous records for school‑related attacks.\n\nThe unprecedented scale of the crisis has prompted calls from governments, NGOs, and intergovernmental agencies for stronger protective measures and rapid restoration of educational services. Stakeholders emphasize that safeguarding schools and ensuring continuity of learning are essential to prevent long‑term socioeconomic repercussions for the affected youth. The situation underscores the urgent need for coordinated international action to secure safe learning spaces for all children.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:02:47",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260909-214",
-    "title": "UN Secretary-General calls on leaders to invest in peace amid rising conflicts",
-    "slug": "un-secretary-general-calls-on-leaders-to-invest-in-peace-amid-rising-conflicts",
-    "content": "The United Nations Secretary‑General issued an appeal on Wednesday urging governments and other decision‑makers to increase investment in peacebuilding as escalating violence, societal division and armed conflict intensify human suffering across the globe. Speaking at a high‑level gathering in New York, he highlighted that the cumulative impact of wars in Ukraine, the humanitarian crisis in Gaza, the turmoil in Sudan and other flashpoints is eroding development gains and deepening poverty, displacement and loss of life.\n\nIn his remarks, the Secretary‑General called for a coordinated approach that channels greater resources into preventive diplomacy, mediation, and the strengthening of UN peacekeeping and peace‑building operations. He emphasized that sustained financial support and political commitment are essential to address the root causes of conflict and to integrate peace objectives into broader development and climate agendas. The appeal concluded with a request that world leaders prioritize peace as a strategic investment to mitigate further hardship and promote long‑term stability.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/9/2026 22:02:41",
-    "author": "UN News",
     "isFeatured": false
   }
 ]
