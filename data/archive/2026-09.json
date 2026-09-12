@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260911-076",
+    "title": "Higher Exercise Intensity Linked to Better Cardiometabolic Health",
+    "slug": "higher-exercise-intensity-linked-to-better-cardiometabolic-health",
+    "content": "I’m unable to retrieve the contents of the article and the discussion thread from the URLs you provided, so I can’t compose a news report based on that material. If you can share the main points, findings, or a brief summary of the source, I’ll be happy to write a concise, well‑structured news article for you.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 14:53:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-075",
+    "title": "Gemini app launches on Windows platform",
+    "slug": "gemini-app-launches-on-windows-platform",
+    "content": "Google has launched its Gemini AI app for Windows, extending the company’s generative‑AI suite beyond Android and iOS platforms. Announced on the official Google blog, the Windows version offers the same conversational and multimodal capabilities as its mobile counterpart, allowing users to generate text, images, and code directly from a desktop environment. The app is distributed through the Microsoft Store and integrates with native Windows features such as clipboard access and file browsing, enabling seamless interaction with local documents and web content. Google highlighted that the Windows release is part of a broader strategy to make its AI tools widely accessible across major operating systems.\n\nThe announcement generated notable discussion on the technology news aggregator Hacker News, where the post received 42 points and attracted 31 comments. Participants in the thread examined the potential implications for productivity workflows, compared Gemini’s performance to competing AI assistants, and raised questions about privacy and data handling on the Windows platform. The community’s engagement underscores the interest in Google’s effort to broaden AI accessibility and suggests that the Gemini app’s reception will be closely monitored as it gains traction among Windows users.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 14:52:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-074",
+    "title": "Rust query engine slows after replacing mmap with io_uring",
+    "slug": "rust-query-engine-slows-after-replacing-mmap-with-io-uring",
+    "content": "A development team at Conviva announced that they swapped the traditional memory‑mapped file interface (mmap) for Linux’s newer asynchronous I/O framework, io_uring, in the core of their Rust‑based query engine. The change was intended to reduce latency and improve throughput for data‑intensive workloads, but benchmark results published on the company’s blog showed a consistent slowdown across a range of query patterns. The post details the engineering effort required to integrate io_uring, including modifications to the engine’s storage layer and adjustments to its concurrency model, and presents comparative metrics that reveal higher CPU usage and longer query execution times after the migration.\n\nThe findings sparked discussion on Hacker News, where the article received 36 points and 17 comments, with readers noting both the promise of io_uring and the practical difficulties of achieving performance gains in real‑world systems. Contributors highlighted factors such as kernel version dependencies, the overhead of setting up submission queues, and the maturity of Rust bindings as possible contributors to the observed regression. The conversation underscored that while io_uring offers compelling capabilities, its adoption may require further tuning and deeper integration to realize the expected benefits, prompting the Conviva team to continue investigating optimization strategies and to share future updates with the community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 14:52:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260911-073",
+    "title": "OpenAI adds GPT‑Live‑1 to its API",
+    "slug": "openai-adds-gpt-live-1-to-its-api",
+    "content": "OpenAI announced the addition of a new model, GPT‑Live‑1, to its API suite, positioning it as a real‑time, low‑latency alternative to existing offerings. The company highlighted the model’s ability to generate responses within milliseconds, making it suitable for interactive applications such as live chat, gaming, and collaborative tools. GPT‑Live‑1 is available to developers on a pay‑as‑you‑go basis, with pricing aligned to its faster inference speed, and the rollout begins immediately for all existing API users. Documentation includes usage guidelines, rate limits, and example code to facilitate rapid integration.\n\nThe announcement sparked discussion on Hacker News, where the post received five up‑votes and three comments. Participants noted the potential impact on latency‑sensitive services and queried details about model size, token limits, and comparative cost. OpenAI has indicated that further performance metrics and use‑case examples will be released in upcoming updates.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/11/2026 14:52:45",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260911-072",
     "title": "Anthropic restricts AI use to block development of biological weapons",
     "slug": "anthropic-restricts-ai-use-to-block-development-of-biological-weapons",
