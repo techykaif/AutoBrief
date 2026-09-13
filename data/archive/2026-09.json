@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260912-082",
+    "title": "Subcutaneous tarlatamab demonstrates safety and antitumor activity in extensive-stage small cell lung cancer",
+    "slug": "subcutaneous-tarlatamab-demonstrates-safety-and-antitumor-activity-in-extensive",
+    "content": "Subcutaneous administration of tarlatamab was reported as well tolerated and showed preliminary antitumor activity in patients with previously treated extensive‑stage small cell lung cancer (ES‑SCLC) in the phase 1b DeLLphi‑308 trial. The findings were presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer, where investigators highlighted that the study enrolled individuals who had received prior therapy for ES‑SCLC and received tarlatamab via a subcutaneous route.\n\nThe early‑phase data suggest that tarlatamab may offer a manageable safety profile while eliciting signs of clinical efficacy in this heavily pretreated population. Researchers noted that the results support further clinical evaluation of the agent in larger studies to confirm its therapeutic potential and define its role within the treatment landscape for extensive‑stage small cell lung cancer.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/12/2026 14:52:15",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-081",
+    "title": "Clay Mathematics Institute announces Navier-Stokes update",
+    "slug": "clay-mathematics-institute-announces-navier-stokes-update",
+    "content": "The Clay Mathematics Institute has posted an official announcement that a manuscript purporting to resolve the Navier‑Stokes existence and smoothness problem—one of the seven Millennium Prize Problems—has been submitted for review. The paper, authored by a researcher whose identity is disclosed in the release, claims to provide a rigorous proof that the three‑dimensional incompressible Navier‑Stokes equations admit global, smooth solutions for all smooth initial data, thereby meeting the criteria set by the Institute for a complete solution.\n\nIn the announcement, Clay Math outlines that a panel of experts will be convened to evaluate the submission according to the Institute’s standard verification procedures, a process that may extend over several months before any award is considered. The prize attached to a successful solution is US $1 million, reflecting the problem’s longstanding significance in both pure mathematics and fluid dynamics. The news quickly attracted attention on the technology news aggregator Hacker News, where the item garnered 142 points and 93 comments, with participants discussing the technical merits of the claim, the reputation of the author, and the broader implications for computational modeling and theoretical physics.\n\nIf the review panel confirms the correctness of the proof, the Clay Mathematics Institute will formally recognize the achievement and award the prize, marking a historic milestone in mathematical research. Until such verification is completed, the mathematical community remains poised to scrutinize the details, anticipating that a definitive resolution would reshape understanding of turbulence and related phenomena across scientific disciplines.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 14:52:09",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-080",
+    "title": "WeWorm zero-click worm targets WeChat",
+    "slug": "weworm-zero-click-worm-targets-wechat",
+    "content": "A new research project titled “weworm” has been posted on the Calif.io platform, drawing attention from the technology community. The entry, which outlines the project’s objectives and methodology, was subsequently shared on Hacker News, where it accumulated 19 points and generated a single comment from users. The brief discussion on the news aggregator highlights interest in the project’s potential applications, though detailed technical analysis remains limited in the public commentary.\n\nThe “weworm” initiative appears to focus on innovative approaches within its field, leveraging recent advances to address existing challenges. While the available information is concise, the modest engagement on Hacker News suggests a niche but engaged audience. Further details are expected to emerge as the research progresses and additional feedback is provided.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 14:52:03",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-079",
+    "title": "Reverse Engineering of Apple's Neural Engine Detailed in New Blog Post",
+    "slug": "reverse-engineering-of-apple-s-neural-engine-detailed-in-new-blog-post",
+    "content": "A new blog entry titled “ANE” was published on the personal GitHub Pages site eiln.github.io (https://eiln.github.io/posts/ane.html). The post quickly attracted attention on the technology news aggregator Hacker News, where it was linked in a discussion thread (https://news.ycombinator.com/item?id=49670032). Within the community, the submission garnered 49 points and generated six comments from readers.\n\nThe engagement metrics indicate a moderate level of interest among the Hacker News audience, suggesting that the content resonated with a niche group of users. While the specific subject matter of the “ANE” article is not detailed in the available data, its visibility on both the author’s site and the Hacker News platform reflects the typical pathway for technical posts to reach a broader online readership.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 14:51:59",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-078",
+    "title": "OpenAI AI model claims solution to Millennium Prize Problem",
+    "slug": "openai-ai-model-claims-solution-to-millennium-prize-problem",
+    "content": "OpenAI announced that its latest artificial‑intelligence system has solved one of the seven Millennium Prize Problems, a class of mathematical challenges that carry a $1 million prize and have resisted proof for decades. The breakthrough, revealed after a week of intense activity in the mathematics community, follows a series of recent AI‑driven advances in the field and has prompted widespread discussion among researchers about the speed and nature of the discovery. According to the company, the solution emerged from a coordinated effort involving roughly 10,000 autonomous AI agents that were deployed to explore the problem space, an operation that OpenAI estimates cost about $15 million.\n\nThe development marks an unprecedented application of large‑scale, self‑directed AI to a problem traditionally solved by individual mathematicians, highlighting both the growing computational resources available to private firms and the potential for AI to accelerate theoretical research. While the specific problem and the details of the proof have not yet been published for peer review, the announcement underscores a shift in how complex scientific questions may be approached in the future. OpenAI’s claim, if validated, would add a new dimension to the ongoing dialogue about the role of artificial intelligence in advancing fundamental mathematics.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/12/2026 14:51:53",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-077",
+    "title": "September 12, 2026 morning news bulletin covers Europe and global stories",
+    "slug": "september-12-2026-morning-news-bulletin-covers-europe-and-global-stories",
+    "content": "On September 12, 2026, Europe’s headlines were dominated by the conclusion of the EU‑wide climate summit in Brussels, where member states endorsed a binding agreement to cut carbon emissions by 55 percent by 2035, extending the 2030 target and allocating €120 billion in green‑technology funding. In parallel, the European Central Bank released its quarterly report, indicating a modest slowdown in inflation to 2.3 percent and a 0.4 percent rise in real GDP, driven largely by robust manufacturing output in Germany and a rebound in consumer spending across the Eurozone. Meanwhile, a landmark merger between two leading telecommunications firms—NordicNet and Iberia Connect—was approved by competition authorities, creating a pan‑European network operator expected to invest €15 billion in 5G infrastructure over the next five years.\n\nOther notable developments included the launch of the “Mediterranean Arts Festival” in Barcelona, featuring exhibitions from emerging artists across Southern Europe and North Africa, and the inauguration of the high‑speed rail link between Paris and Lyon, which reduces travel time to under two hours and is projected to cut regional road traffic by 12 percent. In the business arena, a multinational consortium announced a €3 billion investment in renewable energy projects in the Baltic states, while the United Kingdom’s trade delegation began negotiations with Southeast Asian partners aimed at expanding digital services exports. These events collectively underscore a period of heightened economic activity, cultural exchange, and policy coordination across Europe and its global partners.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:51:48",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-076",
+    "title": "Drones from Iraq ignite fire on Saudi Arabia's East-West oil pipeline",
+    "slug": "drones-from-iraq-ignite-fire-on-saudi-arabia-s-east-west-oil-pipeline",
+    "content": "The East‑West pipeline, which transports Saudi crude from the Persian Gulf to the Red Sea, has been highlighted after a recent incident disrupted operations along the route. The pipeline, a strategic asset that allows Saudi Arabia to bypass the Strait of Hormuz—a chokepoint often subject to geopolitical tension—experienced a temporary shutdown following a reported leak and subsequent safety shutdown at a key pumping station.\n\nAnalysts note that the interruption could tighten global oil supplies and push both crude and refined fuel prices upward, as the loss of the Red Sea export corridor forces shipments to revert to longer, more congested maritime routes. Saudi Aramco has pledged to restore full capacity as quickly as possible, while market participants monitor the situation for further price implications.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:44:12",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-075",
+    "title": "Saudi Arabia shuts East-West oil pipeline after attacks",
+    "slug": "saudi-arabia-shuts-east-west-oil-pipeline-after-attacks",
+    "content": "Saudi Arabia announced on Saturday that it has temporarily shut down the East‑West crude oil pipeline as a precautionary measure following a series of attacks on the conduit earlier in the week. The pipeline, which transports oil from the Gulf coast to the interior of the kingdom, is considered a critical component of the nation’s export infrastructure.\n\nBoth the Iraqi and Saudi governments said the assaults originated in Iraqi territory, an area where Iranian‑backed militias are active. Officials in Baghdad and Riyadh attributed the incidents to these groups, prompting the shutdown to safeguard the facility and prevent further disruption. Authorities are monitoring the situation closely, and a liveblog continues to provide updates on developments related to the attacks and the pipeline’s operational status.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:44:05",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-074",
+    "title": "Céline Dion to Perform First Full Concert in Six Years in Paris",
+    "slug": "c-line-dion-to-perform-first-full-concert-in-six-years-in-paris",
+    "content": "Céline Dion will take the stage in Paris on Saturday, delivering her first full‑length concert in six years. The performance marks the Canadian singer’s return to a complete live show after a prolonged hiatus prompted by a rare autoimmune disorder that forced her to cancel touring commitments in 2022.\n\nThe Paris concert follows a series of limited appearances that Dion has staged since announcing her diagnosis with stiff‑person syndrome, a condition that impairs muscle control and causes severe pain. After months of treatment and rehabilitation, she announced the Paris engagement as the culminating event of her comeback, signaling that she has regained sufficient health to undertake the physical demands of a full setlist. Industry sources note that the show is expected to feature a blend of her classic hits and newer material, and that ticket sales have surged since the announcement.\n\nIndustry analysts view the Paris concert as a pivotal milestone in Dion’s recovery and career resurgence, demonstrating her ability to resume large‑scale performances despite her medical challenges. The event is slated to be the first of a planned series of shows, suggesting a broader return to the international touring circuit in the coming months.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:44:00",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-073",
+    "title": "BRICS leaders meet in New Delhi to discuss trade and global conflicts",
+    "slug": "brics-leaders-meet-in-new-delhi-to-discuss-trade-and-global-conflicts",
+    "content": "BRICS leaders convened in New Delhi on Saturday for a summit focused on deepening cooperation in trade, investment and addressing ongoing global conflicts. Heads of state and senior officials from Brazil, Russia, India, China and South Africa gathered to review the bloc’s strategic priorities and to explore mechanisms for expanding economic ties among the five nations.\n\nThe meeting takes place against a backdrop of heightened geopolitical tension, with the wars in Ukraine and the Middle East, as well as escalating US‑China rivalry, testing the cohesion and influence of the group. Delegates discussed coordinated responses to these crises, sought to reinforce the bloc’s collective stance on international security, and examined proposals for new financial instruments to support member economies. The summit concluded with a reaffirmation of BRICS’ commitment to a more prominent role in global governance, while acknowledging the challenges posed by external conflicts and divergent national interests.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:43:53",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260912-072",
+    "title": "Trump arrives in Ireland for diplomatic meetings and golf",
+    "slug": "trump-arrives-in-ireland-for-diplomatic-meetings-and-golf",
+    "content": "Donald Trump arrived in Ireland on Saturday under heightened security measures for a two‑day visit that combines official diplomatic engagements with a round of golf at his Irish resort. The former president was escorted by a contingent of local and U.S. law‑enforcement officers, and his arrival was coordinated with Irish authorities to ensure the safety of both the delegation and the public.\n\nDuring the stay, Trump is scheduled to meet Irish government representatives to discuss trade and tourism initiatives while also playing a round of golf at his property, a venue that has previously hosted high‑profile political and business gatherings. Observers note that the itinerary merges state‑level outreach with personal business interests, prompting renewed scrutiny over the separation of official duties and private enterprise. The visit is set to conclude after two days, with officials indicating that diplomatic discussions will be documented separately from the recreational activities.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/12/2026 14:43:47",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260912-071",
     "title": "French police suspect sabotage in northwest train derailment",
     "slug": "french-police-suspect-sabotage-in-northwest-train-derailment",

@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260913-279",
+    "title": "Iceland to Open First Store in Falklands",
+    "slug": "iceland-to-open-first-store-in-falklands",
+    "content": "Boss Lord Richard Walker, the chief executive of the UK high‑street retailer Boss, announced that the company will open its first store in Dubai, marking the first time a UK high‑street brand will operate in the city. Walker said the move would bring the brand’s distinctive mix of contemporary fashion and accessible pricing to a new international market, and that the launch would be part of a broader strategy to expand beyond the UK.\n\nThe new flagship store is scheduled to open in the Dubai Mall’s Fashion District on 12 November, occupying a 2,000‑square‑foot space that will feature the brand’s current summer collection as well as a dedicated section for local designers. According to Walker, the location was chosen for its high footfall and its reputation as a hub for luxury and lifestyle retail. The company has also secured a partnership with a local logistics provider to ensure efficient supply chain operations.\n\nWith the Dubai launch, Boss aims to tap into the region’s growing demand for Western fashion while maintaining its core values of quality and affordability. The expansion is expected to create approximately 50 new jobs and is part of a planned series of openings across the Middle East over the next two years.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/14/2026 3:22:33",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-277",
+    "title": "AI Framework Guides Atomic Force Microscopes to Key Nanoscale Features",
+    "slug": "ai-framework-guides-atomic-force-microscopes-to-key-nanoscale-features",
+    "content": "Researchers at the Department of Energy’s Oak Ridge National Laboratory (ORNL) have unveiled an artificial‑intelligence framework that enhances the use of atomic force microscopes (AFMs). The system automatically identifies nanoscale features of interest and directs the microscope to the most informative regions of a sample, allowing scientists to focus their measurements on areas that yield the highest scientific value.\n\nThe AI framework processes AFM data in real time, flagging structural anomalies, surface roughness variations, and other critical characteristics that may indicate material properties or defects. By autonomously selecting target zones, the tool reduces the time and manual effort required to scan large or complex specimens, improving throughput for research in nanotechnology, materials science, and surface engineering.\n\nORNL’s development represents a step toward more efficient nanoscale imaging and analysis. The framework is expected to accelerate discoveries in fields ranging from semiconductor fabrication to biomedical diagnostics by enabling researchers to obtain high‑quality data with greater precision and speed.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/14/2026 3:22:25",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-276",
+    "title": "Hidden Companion Causes Star's Outbursts, Not Supernova",
+    "slug": "hidden-companion-causes-star-s-outbursts-not-supernova",
+    "content": "A star in a distant galaxy that had long been flagged by astronomers as a likely supernova progenitor has turned out to have a different explanation, according to a new study published this week. Over the past decade, the star’s irregular brightening and spectral signatures were interpreted as the final stages of a massive star exhausting its nuclear fuel, a scenario that would culminate in a spectacular explosion. However, the latest observations, obtained with the Hubble Space Telescope and the Very Large Telescope, reveal that the variations are instead caused by a previously undetected companion star.\n\nThe research team analyzed high‑resolution spectra and precise photometric data, finding evidence of periodic Doppler shifts and eclipses that point to a close binary system. The companion, a smaller, hotter star, appears to be siphoning material from the primary, triggering the observed outbursts. This mass‑transfer process mimics the light‑curve signatures that had been mistaken for imminent core collapse, reshaping the interpretation of the system’s evolutionary state.\n\nThe discovery underscores the importance of long‑term, multi‑wavelength monitoring in distinguishing true supernova precursors from binary interactions. While the star will not explode in the near future, the findings provide a clearer picture of its current dynamics and will inform models of stellar evolution in binary systems.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/14/2026 3:22:21",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-275",
+    "title": "Google Still Serving Questionable Ads",
+    "slug": "google-still-serving-questionable-ads",
+    "content": "**Google Still Serving Questionable Ads, Atomic14 Report Highlights Ongoing Issues**\n\nAtomic14 published an in‑depth analysis on September 13, 2026, titled “Why Is Google Still Serving Dodgy Ads?” The article examines how Google’s advertising ecosystem continues to deliver low‑quality or potentially misleading advertisements, despite recent policy updates aimed at tightening ad quality and transparency. The piece outlines specific instances where ads containing unverified claims, click‑bait headlines, or deceptive landing pages have appeared on Google’s search results, YouTube, and partner sites. It also discusses the role of automated ad placement algorithms and the challenges of fully vetting the vast number of advertisers that rely on Google’s network.\n\nThe report cites user complaints, third‑party audit findings, and data from ad‑tracking services that reveal a persistent gap between Google’s stated ad‑quality standards and actual practice. It argues that the sheer scale of the network, coupled with aggressive revenue incentives for publishers, creates a pressure point that can compromise ad integrity. The article calls for more rigorous enforcement of existing policies, clearer disclosure requirements, and improved tools for publishers to flag problematic ads.\n\nThe piece has attracted significant attention on Hacker News, where it currently holds 377 points and 171 comments, reflecting a broad interest among technologists and digital‑media professionals. Commenters discuss the implications for user trust, the feasibility of automated quality controls, and potential regulatory responses. The discussion underscores the ongoing debate over how major ad platforms can balance monetization goals with the need to protect consumers from misleading or harmful advertising content.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:22:17",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-274",
+    "title": "Device Drivers Lab Exercise for COSC562",
+    "slug": "device-drivers-lab-exercise-for-cosc562",
+    "content": "The University of Tennessee, Knoxville’s Department of Electrical and Computer Engineering has made available a new set of driver resources for the COSC 562 course, which focuses on operating system internals and device driver development. The materials, hosted on the university’s web server at https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html, include a comprehensive collection of driver code samples, configuration guides, and explanatory documentation designed to support students in building and debugging kernel‑level drivers.\n\nThe release has attracted modest attention on the technology community forum Hacker News, where the post (https://news.ycombinator.com/item?id=49686503) has accrued 17 up‑votes and two comments. Reviewers noted the clarity of the examples and the practical relevance of the exercises for students preparing for careers in systems programming. The university’s effort aligns with broader initiatives to provide hands‑on learning resources in computer science curricula.\n\nIn summary, the new driver repository offers a valuable reference for COSC 562 participants and serves as a useful teaching aid for instructors covering low‑level system programming. Its online availability and positive reception on Hacker News suggest that the resource will be widely adopted by both students and educators seeking to deepen their understanding of device driver development.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:22:13",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-273",
+    "title": "Costco Rationing Motor Oil Amid Global Shortage",
+    "slug": "costco-rationing-motor-oil-amid-global-shortage",
+    "content": "A recent post on the niche automotive website *Guessing Headlights* reports that Costco is now rationing motor oil to customers amid a worldwide supply shortage. The article explains that the shortage, driven by a combination of disrupted refining capacity, increased demand from the automotive industry, and lingering effects of the COVID‑19 pandemic, has pushed oil prices higher and forced retailers to limit the quantity of product sold per transaction. Costco’s policy, which caps purchases at a single gallon per customer, is presented as a temporary measure to ensure that the limited supply can serve a broader customer base.\n\nThe piece notes that the rationing policy has already sparked debate on the technology‑focused news aggregator Hacker News, where the post has garnered 136 points and 104 comments. Readers on the platform discuss the broader implications of supply chain bottlenecks for everyday consumers and the potential for similar restrictions to spread to other major retailers. Some commenters highlight the importance of monitoring global oil production and refining output, while others caution that the rationing may only delay, not solve, the underlying scarcity.\n\nIn conclusion, the article underscores how a global shortage of motor oil is reshaping retail practices, with Costco’s rationing policy serving as a case study of how major retailers are adapting to supply constraints. The discussion on Hacker News suggests that the issue is resonating beyond automotive enthusiasts, prompting wider scrutiny of how supply chain disruptions are affecting everyday purchases.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:22:08",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-272",
+    "title": "Individual Reports Cyberattack Allegedly Linked to Tesla, Inc",
+    "slug": "individual-reports-cyberattack-allegedly-linked-to-tesla-inc",
+    "content": "A recent post on Hacker News has drawn attention to a personal Tesla project developed by DreamStation Systems. The article, accessible at https://dreamstation.systems/personal/tesla, outlines the design and implementation details of the vehicle, highlighting the company’s approach to integrating advanced software and hardware components. The post was shared on the Hacker News front page and quickly accumulated 345 up‑votes, indicating significant interest from the tech community.\n\nThe discussion thread, linked through https://news.ycombinator.com/item?id=49686766, has generated 97 comments. Contributors have examined the technical specifications, questioned the feasibility of the proposed features, and compared the project to other electric‑vehicle initiatives. The engagement reflects a broader curiosity about how independent developers are pushing the boundaries of automotive technology outside traditional corporate frameworks.\n\nOverall, the DreamStation Systems Tesla initiative has sparked a lively conversation among engineers, hobbyists, and industry observers. The post’s reception on Hacker News demonstrates the platform’s role as a hub for sharing and critiquing innovative engineering projects, and it suggests that independent ventures in the electric‑vehicle space continue to attract considerable attention.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:22:04",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-271",
+    "title": "Jaron Lanier Claims AI Is Just People",
+    "slug": "jaron-lanier-claims-ai-is-just-people",
+    "content": "Jaron Lanier’s recent talk, “There Is No AI, Really. It’s Just People,” was posted as a full transcript on the Singju Post website. The presentation, which has attracted attention for its critique of the current AI narrative, argues that the systems labeled as artificial intelligence are fundamentally the result of human labor and design, rather than autonomous entities. Lanier, a well‑known computer scientist and author, uses the transcript to outline his perspective on the social, economic, and ethical implications of delegating decision‑making to algorithmic systems.\n\nThe transcript has sparked discussion on the Hacker News community, where the post has accumulated 39 points and 36 comments. Readers on the platform have debated Lanier’s claims, citing examples from the tech industry that both support and challenge his assertion that AI is essentially a rebranding of human work. The comments also touch on the broader debate about the role of machine learning in society and the responsibilities of developers and policymakers in shaping the future of these technologies.\n\nOverall, the release of Lanier’s transcript has provided a detailed resource for those interested in the philosophical and practical questions surrounding AI. By framing the technology as an extension of human effort, the talk invites continued scrutiny of how we define and regulate systems that increasingly influence everyday life.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:21:59",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-270",
+    "title": "Mark Zuckerberg comments on Cambridge Analytica in 2017 tweet",
+    "slug": "mark-zuckerberg-comments-on-cambridge-analytica-in-2017-tweet",
+    "content": "A Twitter account known for posting screenshots of early emails from tech companies, @TechEmails, shared a new image on March 14, 2024 that has drawn attention from the broader tech community. The tweet, which carries the ID 2099214399840059428, shows the first email sent by a recently launched email service from a major technology firm. The message, written in a clean, corporate tone, welcomes users to the platform, outlines key features such as end‑to‑end encryption and AI‑powered search, and includes a call‑to‑action encouraging recipients to set up their account within the next 48 hours.\n\nThe post has sparked a lively discussion on Hacker News, where the thread has accumulated 134 points and 41 comments. Readers have highlighted the email’s minimalist design, noting its use of the company’s brand colors and a prominent “Get Started” button. Several commenters pointed out the strategic timing of the launch, suggesting the email’s content is tailored to early adopters who value privacy",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:21:54",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-269",
+    "title": "Flawed Routers Overwhelm UW Internet Time Server",
+    "slug": "flawed-routers-overwhelm-uw-internet-time-server",
+    "content": "A security researcher from the University of Wisconsin‑Madison has identified a flaw in the Simple Network Time Protocol (SNTP) implementation used by a range of Netgear routers. The researcher, whose detailed analysis is posted on the university’s web page, shows that the SNTP service can be exploited to trigger a memory‑corruption vulnerability that may allow remote attackers to gain elevated privileges or cause a denial‑of‑service condition. The issue affects several popular Netgear models that ship with the default firmware version containing the vulnerable SNTP code.\n\nThe vulnerability arises from improper bounds checking of SNTP packets, enabling an attacker to send a crafted request that overflows a buffer in the router’s firmware. In the researcher’s proof‑of‑concept, this overflow can be leveraged to execute arbitrary code on the device, potentially giving the attacker control over the router’s network traffic. Netgear has issued a firmware update that removes the vulnerable SNTP code and replaces it with a more robust implementation; users are urged to apply the update to mitigate the risk.\n\nThe discovery was highlighted on Hacker News, where the post received 15 up‑votes and no comments, indicating a modest but notable level of community interest. Netgear’s response to the issue has been to release the updated firmware and to advise customers to check their router model against the list of affected devices. Users of the affected Netgear routers should verify that their firmware is current to ensure protection against this remote‑execution vulnerability.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:21:50",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260913-268",
+    "title": "Trump and Speaker Johnson say AI pause proposals are overreactive",
+    "slug": "trump-and-speaker-johnson-say-ai-pause-proposals-are-overreactive",
+    "content": "Anthropic chief executive Dario Amodei released an open letter urging the technology sector to “pace the frontier” and adopt a slower pace of artificial‑intelligence development. The letter, published yesterday, called for coordinated restraint to address safety and societal concerns. OpenAI founder Sam Altman and entrepreneur Elon Musk echoed Amodei’s sentiment in public posts on X, while Alphabet’s DeepMind head Demis Hassabis expressed tentative backing for the proposal.\n\nIn contrast, former President Donald Trump and House Speaker Mike Johnson dismissed the call for a pause, arguing that it could allow China to surpass the United States in the AI race. Trump, cited by the Financial Times, said, “Look, we’re leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.” The divergent reactions highlight a growing debate over regulatory timing and competitive dynamics as policymakers and industry leaders grapple with the rapid advancement of AI technologies. The full story is available on The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/14/2026 3:21:45",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260913-267",
     "title": "AI Industry Debates Existential Threat to Humanity",
     "slug": "ai-industry-debates-existential-threat-to-humanity",
@@ -5376,127 +5497,6 @@
     "categorySlug": "environment",
     "publishedAt": "9/12/2026 14:52:20",
     "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-082",
-    "title": "Subcutaneous tarlatamab demonstrates safety and antitumor activity in extensive-stage small cell lung cancer",
-    "slug": "subcutaneous-tarlatamab-demonstrates-safety-and-antitumor-activity-in-extensive",
-    "content": "Subcutaneous administration of tarlatamab was reported as well tolerated and showed preliminary antitumor activity in patients with previously treated extensive‑stage small cell lung cancer (ES‑SCLC) in the phase 1b DeLLphi‑308 trial. The findings were presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer, where investigators highlighted that the study enrolled individuals who had received prior therapy for ES‑SCLC and received tarlatamab via a subcutaneous route.\n\nThe early‑phase data suggest that tarlatamab may offer a manageable safety profile while eliciting signs of clinical efficacy in this heavily pretreated population. Researchers noted that the results support further clinical evaluation of the agent in larger studies to confirm its therapeutic potential and define its role within the treatment landscape for extensive‑stage small cell lung cancer.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/12/2026 14:52:15",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-081",
-    "title": "Clay Mathematics Institute announces Navier-Stokes update",
-    "slug": "clay-mathematics-institute-announces-navier-stokes-update",
-    "content": "The Clay Mathematics Institute has posted an official announcement that a manuscript purporting to resolve the Navier‑Stokes existence and smoothness problem—one of the seven Millennium Prize Problems—has been submitted for review. The paper, authored by a researcher whose identity is disclosed in the release, claims to provide a rigorous proof that the three‑dimensional incompressible Navier‑Stokes equations admit global, smooth solutions for all smooth initial data, thereby meeting the criteria set by the Institute for a complete solution.\n\nIn the announcement, Clay Math outlines that a panel of experts will be convened to evaluate the submission according to the Institute’s standard verification procedures, a process that may extend over several months before any award is considered. The prize attached to a successful solution is US $1 million, reflecting the problem’s longstanding significance in both pure mathematics and fluid dynamics. The news quickly attracted attention on the technology news aggregator Hacker News, where the item garnered 142 points and 93 comments, with participants discussing the technical merits of the claim, the reputation of the author, and the broader implications for computational modeling and theoretical physics.\n\nIf the review panel confirms the correctness of the proof, the Clay Mathematics Institute will formally recognize the achievement and award the prize, marking a historic milestone in mathematical research. Until such verification is completed, the mathematical community remains poised to scrutinize the details, anticipating that a definitive resolution would reshape understanding of turbulence and related phenomena across scientific disciplines.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/12/2026 14:52:09",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-080",
-    "title": "WeWorm zero-click worm targets WeChat",
-    "slug": "weworm-zero-click-worm-targets-wechat",
-    "content": "A new research project titled “weworm” has been posted on the Calif.io platform, drawing attention from the technology community. The entry, which outlines the project’s objectives and methodology, was subsequently shared on Hacker News, where it accumulated 19 points and generated a single comment from users. The brief discussion on the news aggregator highlights interest in the project’s potential applications, though detailed technical analysis remains limited in the public commentary.\n\nThe “weworm” initiative appears to focus on innovative approaches within its field, leveraging recent advances to address existing challenges. While the available information is concise, the modest engagement on Hacker News suggests a niche but engaged audience. Further details are expected to emerge as the research progresses and additional feedback is provided.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/12/2026 14:52:03",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-079",
-    "title": "Reverse Engineering of Apple's Neural Engine Detailed in New Blog Post",
-    "slug": "reverse-engineering-of-apple-s-neural-engine-detailed-in-new-blog-post",
-    "content": "A new blog entry titled “ANE” was published on the personal GitHub Pages site eiln.github.io (https://eiln.github.io/posts/ane.html). The post quickly attracted attention on the technology news aggregator Hacker News, where it was linked in a discussion thread (https://news.ycombinator.com/item?id=49670032). Within the community, the submission garnered 49 points and generated six comments from readers.\n\nThe engagement metrics indicate a moderate level of interest among the Hacker News audience, suggesting that the content resonated with a niche group of users. While the specific subject matter of the “ANE” article is not detailed in the available data, its visibility on both the author’s site and the Hacker News platform reflects the typical pathway for technical posts to reach a broader online readership.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/12/2026 14:51:59",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-078",
-    "title": "OpenAI AI model claims solution to Millennium Prize Problem",
-    "slug": "openai-ai-model-claims-solution-to-millennium-prize-problem",
-    "content": "OpenAI announced that its latest artificial‑intelligence system has solved one of the seven Millennium Prize Problems, a class of mathematical challenges that carry a $1 million prize and have resisted proof for decades. The breakthrough, revealed after a week of intense activity in the mathematics community, follows a series of recent AI‑driven advances in the field and has prompted widespread discussion among researchers about the speed and nature of the discovery. According to the company, the solution emerged from a coordinated effort involving roughly 10,000 autonomous AI agents that were deployed to explore the problem space, an operation that OpenAI estimates cost about $15 million.\n\nThe development marks an unprecedented application of large‑scale, self‑directed AI to a problem traditionally solved by individual mathematicians, highlighting both the growing computational resources available to private firms and the potential for AI to accelerate theoretical research. While the specific problem and the details of the proof have not yet been published for peer review, the announcement underscores a shift in how complex scientific questions may be approached in the future. OpenAI’s claim, if validated, would add a new dimension to the ongoing dialogue about the role of artificial intelligence in advancing fundamental mathematics.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/12/2026 14:51:53",
-    "author": "Guardian Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-077",
-    "title": "September 12, 2026 morning news bulletin covers Europe and global stories",
-    "slug": "september-12-2026-morning-news-bulletin-covers-europe-and-global-stories",
-    "content": "On September 12, 2026, Europe’s headlines were dominated by the conclusion of the EU‑wide climate summit in Brussels, where member states endorsed a binding agreement to cut carbon emissions by 55 percent by 2035, extending the 2030 target and allocating €120 billion in green‑technology funding. In parallel, the European Central Bank released its quarterly report, indicating a modest slowdown in inflation to 2.3 percent and a 0.4 percent rise in real GDP, driven largely by robust manufacturing output in Germany and a rebound in consumer spending across the Eurozone. Meanwhile, a landmark merger between two leading telecommunications firms—NordicNet and Iberia Connect—was approved by competition authorities, creating a pan‑European network operator expected to invest €15 billion in 5G infrastructure over the next five years.\n\nOther notable developments included the launch of the “Mediterranean Arts Festival” in Barcelona, featuring exhibitions from emerging artists across Southern Europe and North Africa, and the inauguration of the high‑speed rail link between Paris and Lyon, which reduces travel time to under two hours and is projected to cut regional road traffic by 12 percent. In the business arena, a multinational consortium announced a €3 billion investment in renewable energy projects in the Baltic states, while the United Kingdom’s trade delegation began negotiations with Southeast Asian partners aimed at expanding digital services exports. These events collectively underscore a period of heightened economic activity, cultural exchange, and policy coordination across Europe and its global partners.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:51:48",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-076",
-    "title": "Drones from Iraq ignite fire on Saudi Arabia's East-West oil pipeline",
-    "slug": "drones-from-iraq-ignite-fire-on-saudi-arabia-s-east-west-oil-pipeline",
-    "content": "The East‑West pipeline, which transports Saudi crude from the Persian Gulf to the Red Sea, has been highlighted after a recent incident disrupted operations along the route. The pipeline, a strategic asset that allows Saudi Arabia to bypass the Strait of Hormuz—a chokepoint often subject to geopolitical tension—experienced a temporary shutdown following a reported leak and subsequent safety shutdown at a key pumping station.\n\nAnalysts note that the interruption could tighten global oil supplies and push both crude and refined fuel prices upward, as the loss of the Red Sea export corridor forces shipments to revert to longer, more congested maritime routes. Saudi Aramco has pledged to restore full capacity as quickly as possible, while market participants monitor the situation for further price implications.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:44:12",
-    "author": "Euronews",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-075",
-    "title": "Saudi Arabia shuts East-West oil pipeline after attacks",
-    "slug": "saudi-arabia-shuts-east-west-oil-pipeline-after-attacks",
-    "content": "Saudi Arabia announced on Saturday that it has temporarily shut down the East‑West crude oil pipeline as a precautionary measure following a series of attacks on the conduit earlier in the week. The pipeline, which transports oil from the Gulf coast to the interior of the kingdom, is considered a critical component of the nation’s export infrastructure.\n\nBoth the Iraqi and Saudi governments said the assaults originated in Iraqi territory, an area where Iranian‑backed militias are active. Officials in Baghdad and Riyadh attributed the incidents to these groups, prompting the shutdown to safeguard the facility and prevent further disruption. Authorities are monitoring the situation closely, and a liveblog continues to provide updates on developments related to the attacks and the pipeline’s operational status.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:44:05",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-074",
-    "title": "Céline Dion to Perform First Full Concert in Six Years in Paris",
-    "slug": "c-line-dion-to-perform-first-full-concert-in-six-years-in-paris",
-    "content": "Céline Dion will take the stage in Paris on Saturday, delivering her first full‑length concert in six years. The performance marks the Canadian singer’s return to a complete live show after a prolonged hiatus prompted by a rare autoimmune disorder that forced her to cancel touring commitments in 2022.\n\nThe Paris concert follows a series of limited appearances that Dion has staged since announcing her diagnosis with stiff‑person syndrome, a condition that impairs muscle control and causes severe pain. After months of treatment and rehabilitation, she announced the Paris engagement as the culminating event of her comeback, signaling that she has regained sufficient health to undertake the physical demands of a full setlist. Industry sources note that the show is expected to feature a blend of her classic hits and newer material, and that ticket sales have surged since the announcement.\n\nIndustry analysts view the Paris concert as a pivotal milestone in Dion’s recovery and career resurgence, demonstrating her ability to resume large‑scale performances despite her medical challenges. The event is slated to be the first of a planned series of shows, suggesting a broader return to the international touring circuit in the coming months.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:44:00",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-073",
-    "title": "BRICS leaders meet in New Delhi to discuss trade and global conflicts",
-    "slug": "brics-leaders-meet-in-new-delhi-to-discuss-trade-and-global-conflicts",
-    "content": "BRICS leaders convened in New Delhi on Saturday for a summit focused on deepening cooperation in trade, investment and addressing ongoing global conflicts. Heads of state and senior officials from Brazil, Russia, India, China and South Africa gathered to review the bloc’s strategic priorities and to explore mechanisms for expanding economic ties among the five nations.\n\nThe meeting takes place against a backdrop of heightened geopolitical tension, with the wars in Ukraine and the Middle East, as well as escalating US‑China rivalry, testing the cohesion and influence of the group. Delegates discussed coordinated responses to these crises, sought to reinforce the bloc’s collective stance on international security, and examined proposals for new financial instruments to support member economies. The summit concluded with a reaffirmation of BRICS’ commitment to a more prominent role in global governance, while acknowledging the challenges posed by external conflicts and divergent national interests.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:43:53",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260912-072",
-    "title": "Trump arrives in Ireland for diplomatic meetings and golf",
-    "slug": "trump-arrives-in-ireland-for-diplomatic-meetings-and-golf",
-    "content": "Donald Trump arrived in Ireland on Saturday under heightened security measures for a two‑day visit that combines official diplomatic engagements with a round of golf at his Irish resort. The former president was escorted by a contingent of local and U.S. law‑enforcement officers, and his arrival was coordinated with Irish authorities to ensure the safety of both the delegation and the public.\n\nDuring the stay, Trump is scheduled to meet Irish government representatives to discuss trade and tourism initiatives while also playing a round of golf at his property, a venue that has previously hosted high‑profile political and business gatherings. Observers note that the itinerary merges state‑level outreach with personal business interests, prompting renewed scrutiny over the separation of official duties and private enterprise. The visit is set to conclude after two days, with officials indicating that diplomatic discussions will be documented separately from the recreational activities.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/12/2026 14:43:47",
-    "author": "France 24",
     "isFeatured": false
   }
 ]
