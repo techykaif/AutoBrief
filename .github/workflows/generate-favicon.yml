@@ -18,8 +18,21 @@ jobs:
 
       - name: Generate square favicon
         run: |
-          mkdir -p public
-          convert public/logo.png -background none -gravity center -extent 1024x1024 public/favicon.png
+          python -m pip install --quiet pillow
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+
+          source = Path("public/logo.png")
+          output = Path("public/favicon.png")
+          image = Image.open(source).convert("RGBA")
+          size = max(image.size)
+          canvas = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+          offset = ((size - image.width) // 2, (size - image.height) // 2)
+          canvas.alpha_composite(image, offset)
+          canvas.save(output, format="PNG", optimize=True)
+          print(f"Generated {output} at {canvas.size[0]}x{canvas.size[1]}")
+          PY
 
       - name: Commit generated favicon
         run: |
