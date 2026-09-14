@@ -26,6 +26,10 @@ export const metadata: Metadata = {
   verification: {
     google: "JaS2NIRQlSYOw0XEaYrSQP3RYE3kwbgxy5tV-6w4-x8",
   },
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     type: "website",
     siteName: "AutoBrief",
