@@ -23,7 +23,7 @@ jobs:
 
       - name: Commit generated favicon
         run: |
-          if git diff --quiet -- public/favicon.png; then
+          if ! git status --short -- public/favicon.png | grep -q .; then
             echo "Favicon is already up to date."
             exit 0
           fi
