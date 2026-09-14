@@ -1,0 +1,34 @@
+name: Generate Search Favicon
+
+on:
+  push:
+    branches:
+      - fix/google-search-favicon
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  favicon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate square favicon
+        run: |
+          mkdir -p public
+          convert public/logo.png -background none -gravity center -extent 1024x1024 public/favicon.png
+
+      - name: Commit generated favicon
+        run: |
+          if git diff --quiet -- public/favicon.png; then
+            echo "Favicon is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/favicon.png
+          git commit -m "chore(seo): add square favicon"
+          git push
