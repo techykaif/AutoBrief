@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260914-254",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "slug": "the-ai-industry-has-taken-a-doomer-turn-what-now",
+    "content": "The Algorithm, the weekly AI newsletter, reported that on Saturday Dario Amodei, chief executive officer of Anthropic, published an essay urging a slowdown in the development of large language models (LLMs). Amodei, who has long been a vocal advocate for AI safety, argues that the rapid pace at which LLMs are being deployed poses significant risks that the industry has not yet fully addressed.\n\nIn the essay, Amodei cites several looming dangers associated with advanced language models. He highlights concerns about alignment—ensuring that models act in ways that are consistent with human values—as well as the potential for misuse in disinformation campaigns, privacy violations, and other malicious applications. Amodei also points to the broader societal impacts of LLMs, such as job displacement and the concentration of power among a few large technology firms, arguing that these risks warrant a more measured approach to scaling and releasing new models.\n\nAmodei concludes by calling for a coordinated pause in the rapid rollout of increasingly powerful LLMs, suggesting that the AI community, regulators, and policymakers collaborate to develop robust safety protocols and governance frameworks. The essay has sparked discussion among AI researchers and industry leaders about the balance between innovation and risk mitigation in the field of large language models.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/15/2026 1:13:07",
+    "author": "MIT Tech Review",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260914-252",
+    "title": "Apple iOS 27 & iPadOS 27 Emphasize Siri Upgrades",
+    "slug": "apple-ios-27-ipados-27-emphasize-siri-upgrades",
+    "content": "Apple has begun rolling out its latest iOS update for iPhone models, a version that introduces a suite of enhancements aimed at boosting overall device performance and user experience. The update, which is being distributed to compatible iPhones worldwide, includes refinements to battery management, security patches, and visual tweaks to the operating system’s interface, alongside a notable expansion of the built‑in virtual assistant’s capabilities.\n\nCentral to the release is a significant upgrade to Siri, Apple’s voice‑activated assistant. The new iteration offers faster response times, more natural language processing, and expanded contextual awareness, allowing the assistant to handle multi‑step commands and provide richer, more personalized information. Additionally, Siri now integrates more deeply with third‑party apps, supports offline queries for common tasks, and benefits from an updated privacy framework that limits data sharing while maintaining functionality. The rollout is expected to complete over the next several days, with users prompted to install the update via the Settings menu.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/15/2026 1:13:01",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260914-249",
     "title": "Valve Ports Half‑Life: Alyx to ARM, Included Free with Steam Frame",
     "slug": "valve-ports-half-life-alyx-to-arm-included-free-with-steam-frame",

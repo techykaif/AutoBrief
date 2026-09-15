@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260915-487",
+    "title": "Utah Study Outlines Options and Costs to Control Great Salt Lake Dust",
+    "slug": "utah-study-outlines-options-and-costs-to-control-great-salt-lake-dust",
+    "content": "A new collaborative report released by researchers from the University of Utah, coordinated by the Wilkes Center for Climate Science & Policy, offers the Utah Department of Natural Resources, the Department of Environmental Quality, and state policymakers a detailed assessment of the escalating risks associated with dust from the exposed lakebed of the Great Salt Lake. The study outlines how rising water levels are exposing more of the lake’s salt flats, increasing airborne particulate matter that can affect air quality, public health, and regional ecosystems.\n\nThe report quantifies the potential costs of controlling dust—including air‑quality mitigation, public health interventions, and infrastructure impacts—and contrasts them with the long‑term benefits of stabilizing lake levels. By maintaining higher water volumes, the lake’s natural sedimentation processes would be enhanced, reducing dust emissions and providing ecological and economic advantages such as improved water quality for downstream users and reduced health care burdens. The analysis also highlights the broader climate‑related drivers of lake level decline, offering a policy framework that balances immediate control measures with sustainable, long‑term lake management strategies.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 4:51:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-486",
+    "title": "Scientists debate solar geoengineering amid misinformation claims",
+    "slug": "scientists-debate-solar-geoengineering-amid-misinformation-claims",
+    "content": "Recent social‑media posts have revived a series of unfounded claims that the United States government is manipulating weather events, alleging that President Joe Biden engineered a storm dubbed “Hurricane Milton,” that high‑altitude aircraft are dispersing “chemtrails” to control the climate, and that state‑run cloud‑seeding operations caused the record floods in Dubai. These assertions have been circulating alongside unrelated political commentary, prompting fact‑checking organizations and meteorological agencies to issue clarifications.\n\nThe National Hurricane Center confirmed that no tropical system named Milton existed in the 2024 Atlantic season and that the storm patterns cited in the posts are consistent with naturally occurring cyclonic activity driven by sea‑surface temperatures and atmospheric dynamics. The Federal Aviation Administration and the Environmental Protection Agency explained that the visible trails behind commercial jets are contrails—condensation of water vapor at high altitudes—not chemical agents, and that no federal program distributes substances for weather control. Moreover, the United Arab Emirates’ National Emergency Crisis and Disaster Management Authority reported that the Dubai flooding resulted from unprecedented rainfall linked to a regional monsoon surge, with no evidence of cloud‑seeding interventions. Authorities continue to monitor misinformation, emphasizing reliance on peer‑reviewed science and official data for accurate weather reporting.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 4:51:47",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260915-476",
     "title": "Rheinmetall Open‑Sources Battlesuite Weapon System Protocol",
     "slug": "rheinmetall-open-sources-battlesuite-weapon-system-protocol",
@@ -5475,28 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/15/2026 1:21:55",
     "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-254",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "slug": "the-ai-industry-has-taken-a-doomer-turn-what-now",
-    "content": "The Algorithm, the weekly AI newsletter, reported that on Saturday Dario Amodei, chief executive officer of Anthropic, published an essay urging a slowdown in the development of large language models (LLMs). Amodei, who has long been a vocal advocate for AI safety, argues that the rapid pace at which LLMs are being deployed poses significant risks that the industry has not yet fully addressed.\n\nIn the essay, Amodei cites several looming dangers associated with advanced language models. He highlights concerns about alignment—ensuring that models act in ways that are consistent with human values—as well as the potential for misuse in disinformation campaigns, privacy violations, and other malicious applications. Amodei also points to the broader societal impacts of LLMs, such as job displacement and the concentration of power among a few large technology firms, arguing that these risks warrant a more measured approach to scaling and releasing new models.\n\nAmodei concludes by calling for a coordinated pause in the rapid rollout of increasingly powerful LLMs, suggesting that the AI community, regulators, and policymakers collaborate to develop robust safety protocols and governance frameworks. The essay has sparked discussion among AI researchers and industry leaders about the balance between innovation and risk mitigation in the field of large language models.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:13:07",
-    "author": "MIT Tech Review",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-252",
-    "title": "Apple iOS 27 & iPadOS 27 Emphasize Siri Upgrades",
-    "slug": "apple-ios-27-ipados-27-emphasize-siri-upgrades",
-    "content": "Apple has begun rolling out its latest iOS update for iPhone models, a version that introduces a suite of enhancements aimed at boosting overall device performance and user experience. The update, which is being distributed to compatible iPhones worldwide, includes refinements to battery management, security patches, and visual tweaks to the operating system’s interface, alongside a notable expansion of the built‑in virtual assistant’s capabilities.\n\nCentral to the release is a significant upgrade to Siri, Apple’s voice‑activated assistant. The new iteration offers faster response times, more natural language processing, and expanded contextual awareness, allowing the assistant to handle multi‑step commands and provide richer, more personalized information. Additionally, Siri now integrates more deeply with third‑party apps, supports offline queries for common tasks, and benefits from an updated privacy framework that limits data sharing while maintaining functionality. The rollout is expected to complete over the next several days, with users prompted to install the update via the Settings menu.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:13:01",
-    "author": "Wired",
     "isFeatured": false
   }
 ]
