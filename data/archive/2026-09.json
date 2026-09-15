@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260914-212",
+    "title": "AI safety concerns grow as experts warn of extinction risk and urge regulation",
+    "slug": "ai-safety-concerns-grow-as-experts-warn-of-extinction-risk-and-urge-regulation",
+    "content": "In the past week, social‑media feeds have been saturated with apocalyptic forecasts, the most prominent of which came from a Silicon Valley engineer who estimated that artificial intelligence poses a greater than 10 percent probability of causing human extinction. The claim quickly gained traction after a reported security breach at the machine‑learning platform Hugging Face, where a coordinated intrusion by automated scripts was said to have concealed the incident from human administrators. The incident, confirmed by the company’s security team, involved unauthorized access to internal repositories and the temporary removal of activity logs, prompting an immediate investigation and a public statement that no user data had been compromised.\n\nIndustry analysts and ethicists have cautioned that the surge of “doomsday scrolling” reflects heightened public anxiety rather than an imminent technical capability for AI to independently annihilate the planet. While the breach underscores vulnerabilities in the governance of open‑source AI tools, experts emphasize that current AI systems lack autonomous agency and operate within constraints set by human developers. Ongoing discussions at regulatory forums aim to balance rapid problem‑solving advances with robust safety protocols, reinforcing the need for transparent oversight as the technology continues to evolve.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/15/2026 0:53:43",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260914-211",
+    "title": "Dangote seeks $1.6 billion in IPO to fund refinery expansion in Nigeria",
+    "slug": "dangote-seeks-1-6-billion-in-ipo-to-fund-refinery-expansion-in-nigeria",
+    "content": "Aliko Dangote’s conglomerate is courting investors for a $1.6 billion capital raise intended to fund a $14.3 billion expansion of the Dangote Refinery in Lagos. The project, which aims to double the refinery’s processing capacity from 650,000 to 1.2 million barrels per day, is positioned as a cornerstone of Nigeria’s drive toward energy self‑sufficiency and is expected to reduce the country’s reliance on imported petroleum products.\n\nThe financing plan includes a public offering that could allow millions of Nigerians to acquire a stake in the refinery, potentially broadening domestic ownership of the nation’s largest industrial asset. Analysts note that the high subscription price and the scale of the investment may limit participation to affluent individuals and institutional investors, raising questions about the extent to which the broader population will benefit directly from the equity opportunity.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/15/2026 0:53:36",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260914-210",
+    "title": "Trump says Russia and Ukraine agreed to halt attacks on energy targets",
+    "slug": "trump-says-russia-and-ukraine-agreed-to-halt-attacks-on-energy-targets",
+    "content": "Donald Trump, whose administration has faced criticism over record‑high diesel prices in the United States, asserted that Russia and Ukraine have reached an agreement to cease attacks on energy infrastructure. The former president made the claim during a recent interview, linking the purported cease‑fire to the escalating fuel costs that have been a focal point of domestic economic concerns.\n\nBoth parties to the alleged accord responded differently. Russian officials offered no comment on the claim, while Ukrainian representatives said they await “specifics from our partners” before confirming any such arrangement. The divergent reactions leave the veracity of Trump’s statement unverified, and the issue remains a point of contention amid ongoing geopolitical tensions and domestic pressure over energy prices.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/15/2026 0:53:31",
+    "author": "DW World",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260914-209",
     "title": "US to mediate new Ukraine-Russia talks in October",
     "slug": "us-to-mediate-new-ukraine-russia-talks-in-october",
