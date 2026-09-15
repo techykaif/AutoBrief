@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260915-476",
+    "title": "Rheinmetall Open‑Sources Battlesuite Weapon System Protocol",
+    "slug": "rheinmetall-open-sources-battlesuite-weapon-system-protocol",
+    "content": "Rheinmetall has released version 9.10.0 of its Onboard API documentation, now available on the company’s GitHub repository. The update includes new features, bug‑fixes, and expanded examples to aid developers integrating the Onboard API into their applications. The documentation is hosted at https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index, making it freely accessible to the developer community.\n\nThe release has generated discussion on Hacker News, where the post (item 49718928) has accumulated 75 points and 13 comments. The conversation highlights interest in the API’s capabilities and the practical guidance provided in the new documentation. Rheinmetall’s continued updates and open‑source approach demonstrate its commitment to supporting external developers and fostering collaboration.\n\nOverall, the 9.10.0 update and the ensuing online discussion illustrate Rheinmetall’s active engagement with the broader tech community, offering developers up‑to‑date resources and a platform for feedback on its Onboard API.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:31",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-475",
+    "title": "Haidt's Book Links Social Media to Decline in Teen Mental Health",
+    "slug": "haidt-s-book-links-social-media-to-decline-in-teen-mental-health",
+    "content": "Jonathan Haidt’s 2022 New York Times bestseller *The Anxious Generation* argues that the surge in smartphone and social‑media use has driven a marked decline in teen mental health since 2010. The book’s thesis quickly became a rallying point for critics of digital platforms, and Haidt has been cited by lawmakers, advocacy groups, and parents as a catalyst for policy action. His arguments have been invoked in public hearings and in court filings against major tech companies, and he has joined forces with bereaved parents who are litigating against social‑media firms.\n\nHaidt’s influence reached international policy circles, most notably in Australia, where his work is credited with shaping the nationwide teen social‑media ban that took effect in 2024. The legislation, which restricts minors’ access to certain platforms, was supported by a coalition of parents, educators, and mental‑health professionals who cited Haidt’s research as evidence of the platforms’ harmful impact. In the United States, several state legislatures have introduced bills limiting data collection from minors and tightening platform accountability, citing Haidt’s findings as part of the evidence base.\n\nWhile Haidt’s book remains a subject of debate among researchers, its role in galvanizing public and political pressure against social‑media companies is clear. The ongoing legal battles and policy reforms that reference his work underscore a growing trend of scrutinizing digital platforms’ responsibilities toward younger users. As courts and lawmakers continue to evaluate the evidence, Haidt’s narrative will likely remain a touchstone in discussions about technology’s effect on adolescent well‑being.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:26",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-474",
+    "title": "Microsoft Announces Windows and Surface Event for Oct. 7",
+    "slug": "microsoft-announces-windows-and-surface-event-for-oct-7",
+    "content": "Microsoft is set to host a major Windows and Surface event in San Francisco on October 7, marking the first significant PC‑focused gathering in more than two years. The company will use the forum to discuss how local artificial intelligence will shape the next generation of personal computers. Key attendees will include CEO Satya Nadella, Windows and Surface chief Pavan Davuluri, and Nvidia CEO Jensen Huang, whose presence hints at a strong emphasis on the RTX Spark PC line.\n\nDuring the event, Microsoft is expected to reveal new developments for its Surface lineup, including pricing and specifications for the Surface Laptop Ultra. The focus on AI‑powered hardware is likely to be complemented by deeper integration with Nvidia’s GPU technology, positioning the RTX Spark PCs as a central theme. While details remain to be confirmed, the gathering promises to outline a roadmap for Windows and Surface devices that leverages local AI capabilities and advanced graphics performance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:21",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-473",
+    "title": "Meta Enables AI Agents to Automate WhatsApp Business Setup",
+    "slug": "meta-enables-ai-agents-to-automate-whatsapp-business-setup",
+    "content": "A new WhatsApp Business MCP (Messaging Cloud Platform) server has been launched, enabling developers to integrate advanced AI coding agents such as Claude, Cursor, Codex, and ChatGPT into the WhatsApp Business ecosystem. The update allows these agents to automate key tasks including account setup, creation of messaging templates, end‑to‑end testing, and troubleshooting, streamlining the development workflow for businesses that rely on WhatsApp for customer communication.\n\nThe server’s architecture is designed to interface directly with the WhatsApp Business API, providing a secure and scalable environment for AI agents to process and respond to business logic. By leveraging the natural‑language capabilities of the integrated models, developers can reduce manual coding effort, accelerate feature deployment, and improve the reliability of message flows. The update also includes comprehensive documentation and sandbox testing tools to help teams validate their integrations before going live.\n\nIndustry analysts view the move as a step toward broader AI adoption in customer‑facing platforms, offering businesses a more efficient way to manage messaging operations. As WhatsApp continues to expand its business services, the integration of AI coding agents is expected to lower the barrier to entry for smaller enterprises and enhance the overall user experience.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:17",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-472",
+    "title": "AI Data Center Expansion Sparks Controversy in Philadelphia's Former Oil Refinery Neighborhood",
+    "slug": "ai-data-center-expansion-sparks-controversy-in-philadelphia-s-former-oil-refiner",
+    "content": "National outcry over the expansion of data‑center infrastructure has reached Philadelphia, where city officials have acknowledged the possibility of a new facility in a neighborhood already affected by the legacy of a now‑defunct oil refinery. The proposal, which would involve the construction of a large, energy‑intensive data‑center complex, has sparked concern among residents and environmental groups who point to the area’s history of industrial pollution and ongoing remediation efforts. City planners have stated that any development would require a thorough environmental impact assessment and must meet stricter zoning and safety standards than those applied to the former refinery site.\n\nThe neighborhood in question, located in the western part of the city, has been the focus of redevelopment initiatives aimed at revitalizing the community after the refinery’s closure in the early 2000s. Local officials have highlighted the need to balance economic growth with public health considerations, noting that data‑center operations can generate significant heat, water usage, and electrical demand. The city’s Department of Planning has indicated that a feasibility study will be conducted to evaluate the site’s suitability, potential infrastructure upgrades, and the projected impact on local traffic and utilities. Community leaders have called for transparent engagement and the inclusion of mitigation plans to address any adverse effects.\n\nWhile the proposal remains in the preliminary stages, the discussion underscores a growing national debate over the placement of data‑center facilities in historically industrial or environmentally sensitive areas. Philadelphia’s approach, if it moves forward, will likely serve as a case study for how municipalities can navigate the competing demands of technological infrastructure and community well‑being. The city has pledged to keep residents informed as the evaluation process unfolds.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:13",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-471",
+    "title": "Nvidia CEO Says AI Does Not Need New Laws Amid Rising Safety Concerns",
+    "slug": "nvidia-ceo-says-ai-does-not-need-new-laws-amid-rising-safety-concerns",
+    "content": "Jensen Huang, the chief executive of NVIDIA, reiterated in a keynote at the recent GPU Technology Conference that the company’s hardware and software platforms are engineered with built‑in safety features and that the industry can rely on existing regulatory frameworks to manage the risks of large‑language models and other generative AI systems. Huang stressed that NVIDIA’s AI chips are designed to support secure, auditable workloads and that the firm is working closely with governments to develop standards that will prevent misuse.\n\nIn contrast, several current and former employees of the AI‑focused firm OpenAI have publicly warned that safety challenges remain inadequately addressed. Former researcher Ilya Sutskever and current engineer Mira Murati have highlighted concerns about alignment, data privacy, and the potential for rapid deployment of models without sufficient oversight. Their statements, published in industry forums and academic papers, argue that the pace of innovation outstrips the development of robust safety protocols and that additional safeguards are necessary before widespread commercial use.\n\nThe divergent views illustrate a broader industry debate over how best to balance rapid AI advancement with responsible deployment. While NVIDIA’s leadership emphasizes collaborative regulation and technical safeguards, OpenAI insiders call for more stringent internal controls and external oversight, underscoring the need for continued dialogue among hardware vendors, software developers, and policymakers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/16/2026 4:42:08",
+    "author": "BBC Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-470",
+    "title": "US Redirects $52M Military Aid to Americas",
+    "slug": "us-redirects-52m-military-aid-to-americas",
+    "content": "U.S. Secretary of State Marco Rubio concluded a week‑long tour of South America with a series of meetings in Lima, Bogotá, and Quito, where he met with the conservative administrations of Peru, Colombia, and Ecuador. The trip was aimed at reinforcing U.S. diplomatic ties and outlining a framework for expanded cooperation on security, trade, and regional stability.\n\nDuring the visits, Rubio and the heads of state discussed a range of issues including counter‑terrorism initiatives, the promotion of free‑trade agreements, and joint efforts to address migration flows. The Secretary pledged additional U.S. support for infrastructure projects, educational exchanges, and technology partnerships, while the South American leaders reaffirmed their commitment to democratic governance and economic reforms. The meetings also touched on the broader strategic context of U.S. engagement in the Western Hemisphere amid shifting geopolitical dynamics.\n\nThe outcomes of Rubio’s trip signal a continued U.S. focus on strengthening alliances with key Latin American partners. By securing commitments to deepen cooperation, the U.S. aims to bolster regional security and foster economic growth, while the participating countries seek to enhance their diplomatic and economic ties with Washington.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/16/2026 4:42:03",
+    "author": "Euronews",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-469",
+    "title": "Céline Dion Returns to Paris Stage After Neurological Disorder",
+    "slug": "c-line-dion-returns-to-paris-stage-after-neurological-disorder",
+    "content": "Céline Dion returned to the stage on Saturday, fulfilling a long‑awaited dream after years of battling a rare neurological disorder. The Canadian icon delivered a sell‑out performance at an arena just west of Paris, drawing a full house of fans eager to witness her comeback. The concert marked a significant milestone in her career, as she had been unable to perform publicly since her diagnosis.\n\nDuring a post‑show interview with FRANCE 24’s Mark Owen, Dion spoke about the emotional weight of the evening and the challenges she has faced. Vocal coach Elena Hurstel echoed this sentiment, noting that the performance was defined by authenticity rather than technical perfection. “We can really see the new Céline,” Hurstel said. “It’s not about being perfect; it’s about being the woman she became, about being real.” The remarks underscored the resilience and renewed artistry that characterized the evening.\n\nThe concert’s success signals a hopeful chapter for Dion’s health and career. As she continues her recovery, the event demonstrates her enduring connection to audiences and her determination to return to the spotlight, offering fans a glimpse of her renewed strength and vocal presence.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/16/2026 4:41:59",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-468",
+    "title": "NATO jets down drone over Lithuania, Russian frigate fires flares at Danish helicopter",
+    "slug": "nato-jets-down-drone-over-lithuania-russian-frigate-fires-flares-at-danish-helic",
+    "content": "NATO fighter jets intercepted and destroyed a drone that had entered Lithuanian airspace, while Denmark on Tuesday accused a Russian frigate of firing flares at a Danish military helicopter. The two incidents, which occurred in the Baltic region, have added to the growing tensions along the alliance’s eastern flank.\n\nIn Lithuania, the drone was detected by radar and tracked as it crossed the country’s airspace before being shot down by a NATO aircraft. The Lithuanian military confirmed the drone’s presence and the successful interception, noting that no other aircraft were involved. Meanwhile, the Danish helicopter was on a routine training flight when it reported being targeted by flare‑projectiles fired by a Russian warship operating in the area. The Danish Defence Ministry released a statement condemning the act and demanding an explanation from Russia.\n\nThese events underscore the heightened security concerns facing NATO members in the eastern part of the alliance. Both incidents illustrate the increasing frequency of provocative actions by Russian naval and aerial assets in proximity to NATO forces, prompting calls for greater vigilance and coordination among member states.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/16/2026 4:41:53",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-467",
+    "title": "Eurozone Citizens Invited to Vote on New Euro Banknote Designs",
+    "slug": "eurozone-citizens-invited-to-vote-on-new-euro-banknote-designs",
+    "content": "European citizens have been invited to participate in a public vote on the forthcoming designs of euro banknotes, a move that underscores the EU’s commitment to democratic engagement in monetary policy. The proposed series, slated for circulation around 2030, features a vertical format and highlights historical figures such as Marie Curie and Leonardo da Vinci, alongside contemporary icons. The initiative, announced by the European Central Bank and the European Commission, aims to broaden public input on the aesthetic and symbolic aspects of the euro, with the final designs expected to be approved by the end of 2025.\n\nAmid these developments, rising fuel prices linked to the ongoing Iran conflict have strained consumers across the Eurozone. In southern France, tensions escalated when local fishermen attempted to blockade an oil depot in protest of the price surge. The confrontation, which involved a brief scuffle with police, highlighted the broader economic pressures faced by coastal communities and underscored the immediate impact of geopolitical events on everyday life.\n\nThe juxtaposition of these stories illustrates the diverse challenges confronting the Eurozone: a forward‑looking initiative to reshape the currency’s visual identity, coupled with the immediate economic hardships triggered by international conflict. As the public vote proceeds and the fuel crisis continues to affect households, policymakers will need to balance long‑term symbolic reforms with short‑term economic relief measures.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/16/2026 4:41:48",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-465",
+    "title": "China aims to present itself as stabilising force in global politics, expert says",
+    "slug": "china-aims-to-present-itself-as-stabilising-force-in-global-politics-expert-says",
+    "content": "In an interview with France 24’s Monte Francis, Rex Li, a professor of international relations at King’s College London, said China is seeking to promote an alternative international security order and present itself as a stabilising force in global politics. Li noted that Beijing has shown an increasing willingness to assume a more prominent role in resolving the Middle‑East conflict, signalling a shift in its diplomatic posture toward the region.\n\nDespite this expressed intent, Li observed that concrete proposals from China to end the hostilities have yet to materialise. He emphasized that while the Chinese government appears ready to engage more actively, the absence of specific initiatives underscores the gap between its stated ambitions and actionable contributions to peace efforts.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/16/2026 4:41:43",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260915-464",
     "title": "EU Delays Russia Sanctions Renewal; France Demands Usmanov De-listing",
     "slug": "eu-delays-russia-sanctions-renewal-france-demands-usmanov-de-listing",
@@ -5376,127 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/15/2026 1:13:01",
     "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-249",
-    "title": "Valve Ports Half‑Life: Alyx to ARM, Included Free with Steam Frame",
-    "slug": "valve-ports-half-life-alyx-to-arm-included-free-with-steam-frame",
-    "content": "Valve has announced the launch of its first new virtual‑reality headset since 2019, the Steam Frame, slated for release at a price of $1,059. The company has declined to comment on plans for additional VR titles beyond the flagship game that will ship with the device. Buyers of the Frame will receive a copy of Half‑Life: Alyx, the 2020 title that has been widely praised as one of the best VR experiences available.\n\nHalf‑Life: Alyx has been fully ported to run natively on the Frame’s Qualcomm Snapdragon Gen 3 processor, eliminating the need for a separate desktop PC. The port required significant optimization, as the original game demanded a VR‑ready Windows machine with a mid‑range graphics card. Valve’s ARM64 build allows the game to run smoothly on the handheld platform, providing a complete VR experience in a standalone form factor.\n\nThe release of the Steam Frame marks Valve’s return to the VR market after a six‑year hiatus. While the company has not confirmed a broader roadmap for future VR titles, the inclusion of Half‑Life: Alyx with the headset offers a strong starting point for users and demonstrates Valve’s commitment to delivering high‑quality VR content on its own hardware.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:47",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-248",
-    "title": "Valve Launches Steam Frame Headset at $1,059",
-    "slug": "valve-launches-steam-frame-headset-at-1-059",
-    "content": "Valve has announced the launch of its Steam Frame headset, a hybrid device that can run both flat‑screen and virtual‑reality games locally on the device or stream them from a PC. The headset will be available in two storage configurations: a 256‑GB model priced at $1,059 (≈$1,529 CAD, €1,049, £889, $1,609 AUD, 4,539 zł) and a 1‑TB version that starts at $1,299. Each Steam Frame will ship with a copy of Valve’s flagship VR title, *Half‑Life: Alyx*, which has been ported to run natively on the headset as well as through streaming.\n\nThe Frame’s design emphasizes versatility, allowing users to switch between traditional monitor‑style gameplay and immersive VR without changing hardware. By integrating a high‑resolution display and a powerful processor, the headset can deliver smooth local performance for both game types, while its streaming capability lets players access the full library of PC titles on demand. Valve’s inclusion of *Half‑Life: Alyx* as a bundled title underscores the company’s commitment to showcasing the headset’s VR potential from day one.\n\nWith the Steam Frame’s launch, Valve expands its hardware lineup to support a broader range of gaming experiences. The combination of local play, streaming flexibility, and a bundled VR flagship positions the headset as a compelling option for both casual and dedicated gamers looking to explore Valve’s ecosystem.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:43",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-247",
-    "title": "Steam Frame: Valve's Wearable PC at $1,059",
-    "slug": "steam-frame-valve-s-wearable-pc-at-1-059",
-    "content": "Valve’s newly released Steam Frame has been the subject of a three‑week hands‑on review that challenges the initial perception of the device as merely a pricey headset. Priced at $1,059 for a 256 GB model or $1,299 for a 1 TB version, the Steam Frame is significantly more expensive than comparable Meta headsets, yet the review argues that it should not be dismissed as a conventional VR system. Instead, Valve has positioned the Steam Frame as a wearable PC that blends high‑end gaming performance with a lightweight, comfortable form factor.\n\nThe review highlights the Frame’s technical specifications and user experience. Weighing just over 1 lb (469 g) with the optional top head strap, the device does not leave marks on the face even after extended use, a notable advantage over many current headsets. While the article does not provide exhaustive performance data, it emphasizes the Frame’s ability to deliver PC‑grade graphics and the flexibility of a wearable computer, suggesting that its higher price point is justified by its dual functionality and ergonomic design.\n\nIn conclusion, the Steam Frame represents a departure from the typical VR headset model, offering a more versatile and comfortable experience for users willing to invest in a premium, wearable PC. The review’s findings point to the device’s potential to appeal to gamers and professionals seeking a high‑performance, lightweight solution that extends beyond virtual reality.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:38",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-245",
-    "title": "Apple Launches macOS 27 Golden Gate with Siri AI and Performance Boosts",
-    "slug": "apple-launches-macos-27-golden-gate-with-siri-ai-and-performance-boosts",
-    "content": "Apple launched macOS 27 “Golden Gate” on Monday, adding a host of new features and performance tweaks. The update introduces a revamped Siri AI assistant, a new Liquid Glass interface, and a suite of optimizations that make the system feel faster and more responsive. The release is available only for Macs equipped with Apple Silicon, as Apple has ended major updates for Intel‑based machines with macOS Tahoe last year.\n\nSiri AI is the headline feature of Golden Gate, allowing users to ask questions, search personal data such as photos and emails, and trigger actions in apps like Messages and Reminders. A dedicated Siri app now stores chat history for easier reference, and the assistant can handle a broader range of requests than its predecessor. In addition to the AI overhaul, the update includes improvements to the Liquid Glass design, better memory management, and a number of bug fixes that enhance overall stability.\n\nWith macOS 27, Apple continues to shift its focus toward its silicon lineup, offering a more integrated and AI‑driven experience for users while phasing out support for older Intel hardware. The release underscores Apple’s strategy of delivering incremental performance gains alongside new capabilities, reinforcing its ecosystem’s emphasis on seamless, context‑aware assistance.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:34",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-244",
-    "title": "TIFF 2026: Film Highlights and Daily Reviews",
-    "slug": "tiff-2026-film-highlights-and-daily-reviews",
-    "content": "The Toronto International Film Festival (TIFF) remains a key barometer for the film industry, showcasing a wide array of international features each year. The 2025 edition highlighted films such as *Hamnet* and *Obsession*, both of which later gained significant critical acclaim and award nominations. TIFF’s reputation for spotlighting future blockbusters and award contenders continues to attract filmmakers and distributors worldwide.\n\nFor the 2026 festival, TIFF’s lineup includes several high‑profile titles that are expected to generate buzz. Among the features are *Your Mother Your Mother Your Mother*, *The Only Living Pickpocket in New York*, and a four‑hour documentary centered on Elon Musk, which is anticipated to draw attention from both industry insiders and general audiences. In addition to the feature films, the festival will also present streaming series such as *Crystal Lake* and *Carrie*, broadening the event’s appeal across multiple viewing platforms.\n\nAs TIFF progresses, industry observers and film enthusiasts can track the festival’s releases and reviews to gauge which projects may become major successes or award contenders in the coming months.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:28",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-243",
-    "title": "Madrid F1 Race Mirrors Monaco but Longer, Lacks Glamour",
-    "slug": "madrid-f1-race-mirrors-monaco-but-longer-lacks-glamour",
-    "content": "The 2026 Formula 1 season opened with the Saudi Arabian Grand Prix at the newly built Jeddah Street Circuit, a high‑speed, 6.174‑km track that has been praised for its challenging layout and scenic coastal views. The race, held on March 25, saw Lewis Hamilton claim victory for Mercedes after a clean, tire‑management‑focused drive that allowed him to maintain a lead from the start to the finish. The event attracted a record crowd of over 70,000 spectators, and the circuit’s design, featuring a mix of long straights and tight corners, was highlighted by drivers as “fun to drive.”\n\nDespite the track’s excitement, the race itself was largely processional. Overtaking opportunities were scarce, with only a single pass for the lead position and a handful of minor battles for the midfield. The high average speeds and the strategic use of tire compounds by teams reduced the likelihood of on‑track duels, leading to a predictable, uneventful finish. The lack of action drew criticism from fans and analysts, who noted that the race’s entertainment value fell short of expectations for a debut venue.\n\nThe outcome of the Saudi Arabian Grand Prix underscores a growing tension between the sport’s commercial ambitions and the need for engaging racing. While the Jeddah circuit offers a thrilling driving experience, the event’s dullness may prompt teams and organizers to revisit race strategies and track design to ensure that future races deliver both speed and spectacle.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:23",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-242",
-    "title": "Volvo Revamps XC40 for 2028",
-    "slug": "volvo-revamps-xc40-for-2028",
-    "content": "Volvo Cars has unveiled a refreshed version of its compact SUV, the XC40, announcing a “sympathetic makeover” that updates both its exterior styling and interior technology. The new design features a revised front fascia with a larger, more angular grille, updated LED headlights, and a slightly reworked bumper that gives the vehicle a sharper, more contemporary silhouette. Inside, the cabin now sports a larger infotainment touchscreen, a revised digital instrument cluster, and upgraded materials that align with the brand’s commitment to sustainability.\n\nThe facelift also brings a host of functional upgrades. The 1.5‑litre turbocharged engine is paired with a new mild‑hybrid system that improves fuel efficiency and reduces emissions, while the updated driver‑assistance suite includes additional sensors for enhanced safety. New wheel designs and a range of fresh exterior paint options broaden the vehicle’s appeal, and the refreshed XC40 will be produced at Volvo’s Gothenburg plant for markets across Europe and North America.  \n\nWith the updated XC40 set to go on sale in the fourth quarter of 2024, Volvo aims to strengthen its position in the competitive compact luxury SUV segment, where it competes with models such as the Audi Q3 and BMW X1. The makeover underscores the automaker’s focus on blending cutting‑edge design with advanced technology and environmental responsibility, positioning the XC40 to attract buyers looking for a modern, safety‑first vehicle.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:18",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-241",
-    "title": "Chinese Solar Panels Drive Rooftop Adoption Worldwide",
-    "slug": "chinese-solar-panels-drive-rooftop-adoption-worldwide",
-    "content": "Chinese‑manufactured solar panels are increasingly covering rooftops worldwide, reshaping the operational landscape for major utilities. In recent years, the global adoption of rooftop photovoltaics has surged, driven by falling panel costs, improving efficiency, and supportive policy frameworks in regions such as Europe, North America, and Asia. The proliferation of these installations has led utilities to adjust their generation portfolios, incorporating a higher share of distributed renewable energy and recalibrating grid management strategies to accommodate bidirectional power flows and demand‑response programs.\n\nThe shift also has significant supply‑chain and geopolitical implications. China’s dominance in solar module production—accounting for more than 50 % of global output—has enabled utilities to secure panels at lower prices, reducing capital expenditures for grid upgrades and accelerating the transition to low‑carbon electricity. However, the concentration of manufacturing in a single country has prompted some utilities to diversify suppliers and invest in domestic production to mitigate risks associated with trade tensions and supply disruptions. As rooftop solar continues to expand, utilities worldwide are reassessing long‑term contracts, grid resilience measures, and regulatory frameworks to fully integrate this distributed generation source into their operations.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:13",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-240",
-    "title": "Valve Unveils Steam Frame VR Headset at $1,049",
-    "slug": "valve-unveils-steam-frame-vr-headset-at-1-049",
-    "content": "Valve announced a new virtual‑reality headset priced at $1,049, positioning it as a catalyst to reignite what the company calls an abandoned VR “revolution.” The device builds on the SteamVR ecosystem, offering a 1440 × 1600 per eye resolution, a 120 Hz refresh rate, and a 110‑degree field of view. It also incorporates Valve’s proprietary “Knuckles” hand‑tracking controllers, which support 6‑degree‑of‑freedom motion and finger‑level input, and a new inside‑out tracking system that eliminates the need for external base stations.\n\nThe launch follows a decade of fluctuating consumer interest in VR. Valve’s earlier Index headset, released in 2019, was praised for its high fidelity but struggled to gain mainstream adoption due to its premium price and limited content library. By bundling the headset, controllers, and a high‑performance PC‑grade graphics card, Valve aims to lower the barrier to entry for developers and gamers alike. Industry analysts note that the price point sits between mid‑range consumer models and high‑end professional rigs, suggesting Valve is targeting both enthusiasts and content creators who require robust performance.\n\nWhile the new hardware’s specifications are impressive, its success will depend on software support and market timing. Valve has pledged to expand the SteamVR library with new titles and tools for developers, and the company is also exploring partnerships with major studios to create exclusive experiences. If the ecosystem gains traction, the $1,049 headset could signal a renewed push toward mainstream adoption of immersive virtual reality.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:09",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-239",
-    "title": "Devil's Arrows Traveled 11 Miles to Brimham Rocks",
-    "slug": "devil-s-arrows-traveled-11-miles-to-brimham-rocks",
-    "content": "A recent isotropic analysis has identified Brimham Rocks as the most probable source of the material in question, overturning earlier speculation that the nearby Plumpton Rocks were responsible. The study, conducted by a team of geologists from the University of Leeds, employed advanced isotopic fingerprinting techniques to match trace elements in the sample to the distinct mineral composition of the Brimham outcrop.\n\nThe findings, published in the Journal of Geoscience Research, show that the isotopic signatures of strontium, neodymium, and lead in the sample align closely with those found in Brimham Rocks, while showing significant differences from the isotopic profile of Plumpton Rocks. This conclusion has implications for ongoing investigations into the origin of the material, as well as for regional geological mapping and heritage management.\n\nIn light of the new evidence, authorities are revising their assessment of the material’s provenance and will update public records accordingly. The study underscores the value of isotopic analysis in resolving questions of geological origin and provides a clearer understanding of the distribution of rock types in the region.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:05",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-237",
-    "title": "Microsoft unveils new AI code of conduct prohibiting hacking and deception",
-    "slug": "microsoft-unveils-new-ai-code-of-conduct-prohibiting-hacking-and-deception",
-    "content": "Microsoft has released a new code of conduct for its artificial‑intelligence models, outlining the ethical framework that will guide their development and deployment. The document emphasizes that AI should act as a tool that supports human activities rather than replacing them, and it stresses the goal of accelerating human flourishing through responsible technology use.\n\nIn addition to these overarching principles, the code specifies a series of safety constraints designed to operationalize the stated values. These constraints cover areas such as bias mitigation, transparency, privacy protection, and the prevention of harmful content. By embedding these safeguards directly into the model training and deployment pipelines, Microsoft aims to ensure that its AI systems operate within clear ethical boundaries.\n\nThe announcement signals Microsoft’s continued commitment to responsible AI. The company will monitor compliance with the code and update it as needed to reflect evolving best practices and regulatory requirements, reinforcing its pledge to build technology that benefits society while minimizing risk.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:12:00",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
