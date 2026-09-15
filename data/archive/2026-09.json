@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260914-258",
+    "title": "Apple Releases iOS 27, iPadOS 27, and macOS 27 Updates",
+    "slug": "apple-releases-ios-27-ipados-27-and-macos-27-updates",
+    "content": "Apple announced on September 2026 that it has rolled out major updates across its core software platforms, including iOS, macOS, iPadOS, watchOS, and tvOS. The new releases are now available for download through the App Store and System Settings, offering users a refreshed experience with enhanced performance, security, and new capabilities. The company highlighted that the updates bring a suite of improvements designed to streamline workflows, bolster privacy controls, and integrate advanced machine‑learning features across all devices.\n\nKey additions to the updates include a redesigned user interface that consolidates frequently used settings, a new privacy dashboard that provides granular control over data sharing, and expanded support for Apple’s new AI framework, which enables developers to embed smarter, context‑aware features into apps. Security patches address several high‑severity vulnerabilities discovered in the previous version, and the updates introduce a faster boot process for Macs and iPhones. Apple also announced that developers can now use a unified API to build cross‑platform experiences, simplifying app development across its ecosystem.\n\nThe release has attracted significant attention from the tech community, with discussions on the Y Combinator news feed garnering 159 points and 143 comments. Analysts note that the breadth of the updates underscores Apple’s ongoing commitment to maintaining a secure, cohesive platform while pushing the envelope on user experience and developer flexibility. As users begin to adopt the new features, the impact on productivity and app innovation is expected to be substantial.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/15/2026 1:22:05",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260914-257",
+    "title": "OFAC sanctions trigger revocation of SSL certificates for Iranian banks",
+    "slug": "ofac-sanctions-trigger-revocation-of-ssl-certificates-for-iranian-banks",
+    "content": "Iranian financial institutions have begun migrating their online banking services to new domain names and updating associated SSL certificates, a move reported by Digiato. The shift affects several major banks, including Bank Melli, Bank Keshavarzi, and Bank Tejarat, which have replaced former “.ir” addresses with alternative top‑level domains such as “.com” and “.net”. The changes were implemented over the past month and are reflected in the latest TLS certificates issued by recognized Certificate Authorities, indicating compliance with standard encryption protocols despite the geopolitical constraints.\n\nThe domain transition is attributed to ongoing international sanctions that have limited the ability of Iranian banks to obtain or renew SSL certificates tied to Iranian country‑code domains. By adopting globally recognized domains, the banks aim to preserve secure online access for domestic and overseas customers while mitigating the risk of service interruptions. Regulators and the Central Bank of Iran have affirmed that the rebranding does not alter the underlying banking operations, and users are advised to verify the updated URLs and certificate details before logging in.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/15/2026 1:21:55",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260914-254",
     "title": "The AI industry has taken a doomer turn. What now?",
     "slug": "the-ai-industry-has-taken-a-doomer-turn-what-now",

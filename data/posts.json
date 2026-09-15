@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260915-507",
+    "title": "Attorney General Todd Blanche Acts as White House Press Secretary in Rose Garden",
+    "slug": "attorney-general-todd-blanche-acts-as-white-house-press-secretary-in-rose-garden",
+    "content": "On Tuesday afternoon, Attorney General Todd Blanche stepped into the role of de‑facto White House press secretary, addressing reporters in the Rose Garden. The move followed a pattern of the administration’s willingness to break conventional protocols, with the AG taking on a public‑facing role typically reserved for the White House spokesperson.\n\nBlanche’s remarks blended legal commentary with praise for Defense Secretary Pete Hegseth’s prosecution of a high‑profile case, while also touching on broader legal matters. The statement was notable for its mixture of policy discussion and commendation of a senior defense official, a departure from the usual separation of legal and media duties.\n\nThe event highlights the administration’s tendency to blur traditional role boundaries, prompting observers to watch how future communications will be handled and whether the Attorney General’s public appearances will become a regular feature of the administration’s outreach strategy.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/16/2026 5:02:06",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-506",
+    "title": "Senators Wicker and Shaheen to introduce resolution urging US support for Russian pro‑democracy movement",
+    "slug": "senators-wicker-and-shaheen-to-introduce-resolution-urging-us-support-for-russia",
+    "content": "Senators Roger Wicker, Republican of Mississippi, and Jeanne Shaheen, Democrat of New Hampshire, are set to introduce a bipartisan, non‑binding resolution on Wednesday that urges the State Department to expand cooperation with Russia’s pro‑democracy movement both within the country and abroad, according to a draft obtained by The Hill. The measure, timed to coincide with a major diplomatic gathering, calls for increased assistance to Russian civil‑society groups, the provision of secure communication tools, and the facilitation of information sharing aimed at countering Kremlin repression.\n\nThe resolution reflects a broader U.S. effort to support democratic actors in Russia amid heightened crackdowns on dissent and the ongoing conflict in Ukraine. While the proposal does not carry legislative force, its sponsors hope it will shape State Department policy and signal congressional commitment to backing Russian opposition voices. The senators plan to seek co‑sponsors from both parties before the resolution is debated in the Senate.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/16/2026 5:01:49",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260915-487",
     "title": "Utah Study Outlines Options and Costs to Control Great Salt Lake Dust",
     "slug": "utah-study-outlines-options-and-costs-to-control-great-salt-lake-dust",
@@ -5474,28 +5496,6 @@
     "category": "Technology",
     "categorySlug": "technology",
     "publishedAt": "9/15/2026 1:22:13",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-258",
-    "title": "Apple Releases iOS 27, iPadOS 27, and macOS 27 Updates",
-    "slug": "apple-releases-ios-27-ipados-27-and-macos-27-updates",
-    "content": "Apple announced on September 2026 that it has rolled out major updates across its core software platforms, including iOS, macOS, iPadOS, watchOS, and tvOS. The new releases are now available for download through the App Store and System Settings, offering users a refreshed experience with enhanced performance, security, and new capabilities. The company highlighted that the updates bring a suite of improvements designed to streamline workflows, bolster privacy controls, and integrate advanced machine‑learning features across all devices.\n\nKey additions to the updates include a redesigned user interface that consolidates frequently used settings, a new privacy dashboard that provides granular control over data sharing, and expanded support for Apple’s new AI framework, which enables developers to embed smarter, context‑aware features into apps. Security patches address several high‑severity vulnerabilities discovered in the previous version, and the updates introduce a faster boot process for Macs and iPhones. Apple also announced that developers can now use a unified API to build cross‑platform experiences, simplifying app development across its ecosystem.\n\nThe release has attracted significant attention from the tech community, with discussions on the Y Combinator news feed garnering 159 points and 143 comments. Analysts note that the breadth of the updates underscores Apple’s ongoing commitment to maintaining a secure, cohesive platform while pushing the envelope on user experience and developer flexibility. As users begin to adopt the new features, the impact on productivity and app innovation is expected to be substantial.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:22:05",
-    "author": "Hacker News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-257",
-    "title": "OFAC sanctions trigger revocation of SSL certificates for Iranian banks",
-    "slug": "ofac-sanctions-trigger-revocation-of-ssl-certificates-for-iranian-banks",
-    "content": "Iranian financial institutions have begun migrating their online banking services to new domain names and updating associated SSL certificates, a move reported by Digiato. The shift affects several major banks, including Bank Melli, Bank Keshavarzi, and Bank Tejarat, which have replaced former “.ir” addresses with alternative top‑level domains such as “.com” and “.net”. The changes were implemented over the past month and are reflected in the latest TLS certificates issued by recognized Certificate Authorities, indicating compliance with standard encryption protocols despite the geopolitical constraints.\n\nThe domain transition is attributed to ongoing international sanctions that have limited the ability of Iranian banks to obtain or renew SSL certificates tied to Iranian country‑code domains. By adopting globally recognized domains, the banks aim to preserve secure online access for domestic and overseas customers while mitigating the risk of service interruptions. Regulators and the Central Bank of Iran have affirmed that the rebranding does not alter the underlying banking operations, and users are advised to verify the updated URLs and certificate details before logging in.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/15/2026 1:21:55",
     "author": "Hacker News",
     "isFeatured": false
   }
