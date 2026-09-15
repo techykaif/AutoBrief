@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260915-294",
+    "title": "New organ-on-a-chip and organoid testing reduces need for animal drug trials",
+    "slug": "new-organ-on-a-chip-and-organoid-testing-reduces-need-for-animal-drug-trials",
+    "content": "Scientists have announced that drug safety testing can now be conducted with greater precision using organ‑on‑a‑chip devices and organoid cultures, reducing the reliance on animal models. These micro‑engineered systems replicate the structure and function of human tissues, allowing researchers to observe drug interactions in a controlled, physiologically relevant environment.\n\nThe technology employs tiny chambers lined with human cells that mimic organs such as the liver, heart, or kidney. By monitoring cellular responses to pharmaceuticals, scientists can identify toxic effects, metabolic pathways, and therapeutic potentials with higher fidelity than traditional cell cultures or animal studies. Regulatory agencies are increasingly accepting data from these platforms, and several pharmaceutical companies have already integrated them into pre‑clinical pipelines.\n\nWith more accurate human‑based data, the pharmaceutical industry can streamline drug development, cut costs, and accelerate the approval of safer medications. The shift toward organ‑on‑a‑chip and organoid testing also aligns with ethical imperatives to reduce animal experimentation, marking a significant step forward in both scientific innovation and animal welfare.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/15/2026 23:01:56",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260915-293",
+    "title": "Roman roads were less straight than previously thought, study finds",
+    "slug": "roman-roads-were-less-straight-than-previously-thought-study-finds",
+    "content": "A collaborative research project involving archaeologists, historians and geospatial analysts has released the most comprehensive digital map of the Roman Empire’s road network to date. By integrating satellite imagery, ancient itineraries and recent archaeological findings, the team has charted over 400,000 kilometres of paved routes that once linked the empire’s far‑flung provinces. The dataset, now accessible through an open‑source platform, details the construction techniques, material composition and alignment choices that underpinned the roads’ durability and efficiency.\n\nThe analysis reveals that Roman engineers prioritized direct connections between military forts, commercial hubs and river crossings, often cutting through challenging terrain to maintain straight alignments. Statistical modeling shows a strong correlation between the ancient routes and modern European highways, rail lines and even contemporary logistic corridors, suggesting that the empire’s infrastructure laid a foundational grid that shaped subsequent settlement patterns and economic development. The study also highlights regional variations, such as the extensive use of basalt in the Iberian Peninsula and the adaptation of local stone in the Balkans, reflecting a pragmatic approach to resource availability.\n\nResearchers anticipate that the new map will aid future investigations into trade networks, cultural exchange and environmental impact across centuries. By providing a precise baseline of Roman engineering, the dataset offers scholars and planners a tool to assess how historical infrastructure continues to influence present‑day geography and to inform preservation strategies for surviving road segments.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/15/2026 23:01:51",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260915-283",
     "title": "AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon",
     "slug": "ai-models-chatting-in-surreal-dialect-mixing-poetic-language-and-tech-bro-jargon",
@@ -5474,28 +5496,6 @@
     "category": "Politics",
     "categorySlug": "politics",
     "publishedAt": "9/14/2026 20:13:34",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-161",
-    "title": "Second Judge Blocks Trump Mail Ballot Plan Ahead of Supreme Court Decision",
-    "slug": "second-judge-blocks-trump-mail-ballot-plan-ahead-of-supreme-court-decision",
-    "content": "A federal judge in Washington has issued a second injunction preventing the United States Postal Service from carrying out President Donald Trump’s executive order aimed at restricting mail‑in voting. The order, which was signed in late 2023, sought to impose additional restrictions on the delivery of absentee ballots, citing concerns over election integrity. The new ruling adds another hurdle to the president’s campaign strategy as he waits for a decision from the Supreme Court on whether to lift a prior block.\n\nThe Supreme Court is currently reviewing an emergency petition to lift a separate injunction that barred the postal service from enforcing the same executive order in other jurisdictions. The justices could issue a ruling at any time, and the outcome will determine whether the USPS can resume the restrictions. Meanwhile, the second judge’s decision underscores the judiciary’s role in balancing executive authority with the logistical realities of conducting elections.\n\nIf the Supreme Court upholds the injunctions, the executive order will remain unenforced, preserving the current mail‑in voting framework. A reversal could allow the administration to impose stricter controls, potentially affecting voter access in upcoming elections. The legal battle highlights the ongoing tension between federal election regulations and the operational independence of the postal service.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/14/2026 20:13:28",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260914-160",
-    "title": "Congress Returns to Washington Amid Focus on AI",
-    "slug": "congress-returns-to-washington-amid-focus-on-ai",
-    "content": "Lawmakers return to Washington on Monday, and the House faces a tight one‑week schedule before the midterm election recess. In the brief period of active session, legislators are already grappling with urgent policy issues, most notably the rapid development of artificial intelligence (AI) technologies. Last week, a series of alarming reports on AI safety and governance prompted lawmakers to demand clearer regulatory guidance.\n\nSenate Minority Leader Chuck Schumer has called on the Trump administration to brief the Senate on its AI framework, specifically addressing the testing protocols for the latest large‑language models. Schumer urged the administration to provide a comprehensive overview of how it plans to evaluate AI systems for safety, bias, and potential misuse. The request reflects growing bipartisan concern that existing oversight mechanisms may not keep pace with the speed of AI innovation.\n\nAs the House prepares to vote on pending legislation, the AI debate underscores a broader push for federal oversight of emerging technologies. Lawmakers emphasize that robust testing and transparent frameworks are essential to protect public interests while fostering innovation. The outcome of this brief but intense session could shape the trajectory of AI regulation ahead of the upcoming midterm elections.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/14/2026 20:13:24",
     "author": "The Hill",
     "isFeatured": false
   }
