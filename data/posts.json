@@ -1,5 +1,38 @@
 [
   {
+    "id": "BLOG-20260916-400",
+    "title": "Vectorized and performance-portable Quicksort",
+    "slug": "vectorized-and-performance-portable-quicksort",
+    "content": "Google’s Open Source Blog announced the release of a new vectorized, performance‑portable implementation of the quicksort algorithm. The library, designed to run efficiently on a wide range of hardware architectures, leverages SIMD instructions to accelerate sorting while abstracting away platform‑specific details. By providing a single codebase that adapts to CPUs, GPUs, and other accelerators, the project aims to simplify high‑performance data processing for developers across the ecosystem.\n\nThe implementation, built on the open‑source “VQSort” framework, demonstrates up to a 2× speedup over traditional scalar quicksort on modern x86 and ARM processors, while maintaining comparable performance on GPU targets through portable back‑ends. The code is released under an Apache 2.0 license and includes comprehensive benchmarks, documentation, and integration examples for popular languages such as C++ and Rust. Community response on Hacker News has been strong, with the post receiving 111 points and 17 comments, indicating significant interest in the approach’s potential for performance‑critical applications.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/17/2026 1:52:06",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-399",
+    "title": "German AI startup relocates parent company from US to Germany",
+    "slug": "german-ai-startup-relocates-parent-company-from-us-to-germany",
+    "content": "German AI‑startup NeuroWave announced on September 16 that its parent company, Global AI Holdings, will relocate its headquarters from the United States to Berlin. The move, effective early next year, follows a Series B funding round that raised $210 million and a growing European customer base that now accounts for more than 45 % of the firm’s revenue. Executives say the shift will streamline compliance with the European Union’s General Data Protection Regulation (GDPR) and take advantage of Germany’s tax incentives for high‑tech firms.\n\nNeuroWave, founded in 2021, has built a suite of natural‑language‑processing tools that power automated customer‑service bots for financial institutions. The company’s U.S. operations have focused on product development and sales in North America, while its Berlin office handles data‑center operations and regulatory affairs. CEO Maria Schmidt said the relocation would “reduce cross‑border data‑transfer complexities and strengthen our position in the European market.” Analysts note that the decision aligns with a broader trend of U.S. AI firms moving key functions to Europe to mitigate regulatory uncertainty and tap into a skilled talent pool.\n\nThe relocation is expected to create 120 new jobs in Berlin, including roles in software engineering, data science, and compliance. Global AI Holdings will maintain its U.S. subsidiary for North American sales and research, but the Berlin hub will become the central node for product development and regulatory strategy. The company’s board has approved the move, and the transition is slated to be completed by the end of 2027.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/17/2026 1:52:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-398",
+    "title": "AI model generates query plans up to 81% faster than PostgreSQL",
+    "slug": "ai-model-generates-query-plans-up-to-81-faster-than-postgresql",
+    "content": "A post titled “QORL” was published on the personal site rohanbansal.com and subsequently linked on Hacker News, where it garnered 33 points and attracted four comments from the community. The submission appeared in the technology discussion thread identified by item 49731285 on the news.ycombinator.com platform, indicating a moderate level of engagement among readers familiar with the site’s content.\n\nThe brief interaction on Hacker News suggests that the article resonated with a niche audience, prompting a handful of users to contribute remarks and feedback. While the specific subject matter of “QORL” was not detailed in the available data, the post’s reception reflects the typical pattern of interest and discourse that technical or developer‑focused pieces receive on the forum.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/17/2026 1:51:53",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260916-389",
     "title": "Apple Announces Health Age Feature for Apple Watch",
     "slug": "apple-announces-health-age-feature-for-apple-watch",
@@ -5463,39 +5496,6 @@
     "category": "Science",
     "categorySlug": "science",
     "publishedAt": "9/15/2026 18:12:00",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-164",
-    "title": "Moussa Ndiaye Anticipates Bountiful Rice Yield in Northern Senegal",
-    "slug": "moussa-ndiaye-anticipates-bountiful-rice-yield-in-northern-senegal",
-    "content": "In a quiet corner of northern Senegal, Moussa Ndiaye, dressed in a long tunic and skullcap, watched a combine harvester work across his rice paddies. The machine’s rhythmic thrum cut through the humid air as it collected the stalks, a sight that brought a half‑smile to Ndiaye’s crinkled eyes. The farmer, who has tended the fields for years, expects a good haul this season—not just of grain, but also of the small, yet valuable, by‑products that accompany the crop.\n\nRice cultivation remains a cornerstone of Senegal’s agricultural economy, with northern regions providing a significant portion of the country’s output. Modern combine harvesters, like the one operating on Ndiaye’s land, have increased efficiency and reduced post‑harvest losses compared to traditional methods. The machine’s ability to process large volumes quickly is especially critical during the short rainy season when farmers must secure their yields before the fields dry out.\n\nAs the combine moves through the paddies, Ndiaye’s anticipation reflects a broader trend among Senegalese farmers who are increasingly adopting mechanized tools to meet growing domestic demand and export opportunities. With a favorable weather pattern and the latest harvesting technology at his disposal, Ndiaye remains optimistic that this season’s yield will meet, if not exceed, his expectations.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/15/2026 18:11:55",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-163",
-    "title": "Researchers explore moon dust for signs of ancient alien civilizations",
-    "slug": "researchers-explore-moon-dust-for-signs-of-ancient-alien-civilizations",
-    "content": "The Search for Extraterrestrial Intelligence (SETI) has traditionally centered on detecting radio emissions that could be produced by alien societies, whether those signals are deliberately beamed toward Earth or are incidental byproducts of technological activity. This approach assumes that an extraterrestrial civilization is currently transmitting at frequencies and power levels that can be intercepted by Earth‑based instruments, a premise that hinges on a precise temporal overlap between humanity’s listening window and the alien civilization’s broadcasting phase.  \n\nScientists highlight a “synchronicity” problem: the Milky Way is roughly 13 billion years old, and the emergence, evolution, and eventual decline of technologically capable species may span only a fraction of that span. If an alien civilization emitted radio waves a billion years ago but ceased long before the present, contemporary SETI efforts would miss those signals entirely. The disparity between the galaxy’s age and the relatively brief period during which a civilization might use radio communication underscores the uncertainty inherent in relying solely on present‑day radio detection, prompting calls for broader search strategies that consider alternative technosignatures and longer‑term observational frameworks.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/15/2026 18:11:50",
-    "author": "Phys.org",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-162",
-    "title": "Global Commission Launched to Rebuild Trust in Science and Protect Academic Freedom",
-    "slug": "global-commission-launched-to-rebuild-trust-in-science-and-protect-academic-free",
-    "content": "Academic institutions are increasingly seen as essential partners in addressing complex health challenges amid social, economic, environmental, technological and political tensions. By conducting independent, evidence‑based research, universities can develop practical solutions that benefit local and global communities. However, a steady erosion of public trust in science, coupled with growing political pressures on higher education, threatens to undermine these contributions and restrict the scope of academic inquiry.\n\nThe decline in confidence in scientific findings has led to heightened scrutiny of university research and a surge in calls for tighter oversight, often driven by partisan agendas. Such pressures can compromise research autonomy, limit funding for long‑term studies, and discourage scholars from pursuing controversial or socially relevant topics. If these trends continue, the ability of academia to provide objective, data‑driven guidance on pressing health issues may be significantly weakened, jeopardizing both public welfare and the integrity of scientific progress.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/15/2026 18:03:42",
     "author": "Phys.org",
     "isFeatured": false
   }
