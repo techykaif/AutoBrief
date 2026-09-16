@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260916-502",
+    "title": "Brazilian beak‑sedge reproduces sexually without genetic recombination, producing clones",
+    "slug": "brazilian-beak-sedge-reproduces-sexually-without-genetic-recombination-producing",
+    "content": "A study published in *Nature* reveals that the Brazilian beak‑sedge (*Rhynchospora tenuis*) reproduces sexually yet forgoes the genetic reshuffling typical of meiosis. The research, conducted by an international team led by André Marques at the Max Planck Institute for Plant Breeding Research in Cologne, shows that while the plant produces pollen, fertilizes egg cells and forms seeds, it completely lacks crossover events between homologous chromosomes during gamete formation.\n\nGenomic analyses of parent plants and their progeny demonstrated that the offspring inherit an exact copy of the maternal genome, with no contribution from the paternal DNA beyond the trigger for seed development. This absence of recombination results in progeny that are genetically identical to their mothers, effectively replicating the outcome of clonal propagation despite occurring through a sexual life cycle.\n\nThe findings challenge the conventional view that sexual reproduction inherently generates genetic diversity and suggest that some species may evolve mechanisms to retain the advantages of seed formation while bypassing the risks associated with recombination. The study expands understanding of plant reproductive strategies and may have implications for evolutionary biology and crop breeding research.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/17/2026 4:41:52",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260916-494",
     "title": "OpenAI Announces New Framework for AI Misbehavior Disclosure",
     "slug": "openai-announces-new-framework-for-ai-misbehavior-disclosure",
@@ -5485,17 +5496,6 @@
     "category": "Sports",
     "categorySlug": "sports",
     "publishedAt": "9/15/2026 18:33:40",
-    "author": "Guardian Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-206",
-    "title": "Enoka Praises McCullum for Healing England Cricket Culture",
-    "slug": "enoka-praises-mccullum-for-healing-england-cricket-culture",
-    "content": "Gilbert Enoka, the former consultant to the England cricket setup and architect of the sport’s “no‑dickheads” policy, has publicly praised Brendon McCullum for his role in transforming the team’s culture. In a recent statement, Enoka highlighted McCullum’s “incredible work in healing the culture of his team,” noting that the policy’s implementation had eliminated the presence of “dickheads” from the squad. “There wasn’t one dickhead in there,” Enoka said, a claim that aligns with the organization’s stated goal of fostering respect and professionalism among players.\n\nThe policy, which has become a hallmark of modern sports management, seeks to identify and remove individuals whose behavior undermines team cohesion. Enoka’s endorsement of McCullum’s efforts underscores the broader trend of teams adopting strict behavioral codes to maintain a positive environment. While critics have questioned the effectiveness of such measures, the England team’s reported zero incidents of the targeted behavior suggest that the policy has had a measurable impact.\n\nMeanwhile, commentators have noted that the mentorship of KP—whose full name and role remain unspecified—may represent a return to earlier, more stable coaching practices. Although there is a statistically significant risk that the team’s progress could falter, KP’s guidance is seen by some as a potential safeguard against regression. The cricket community will continue to monitor the team’s adherence to its cultural standards as it prepares for upcoming international fixtures.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "9/15/2026 18:33:27",
     "author": "Guardian Sport",
     "isFeatured": false
   }
