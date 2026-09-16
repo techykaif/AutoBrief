@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260916-289",
+    "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+    "slug": "scientists-find-an-immune-false-alarm-that-may-drive-rapid-aging",
+    "content": "Scientists have identified a new mechanism that may underlie a range of severe genetic disorders associated with premature aging. The study shows that the body’s immune response to damaged DNA—not the damage itself—can drive disease progression. When fragments of broken DNA escape into the cytoplasm, they are mistakenly recognized as viral material, triggering a chronic inflammatory cascade that also hampers the cell’s ability to repair its own genome.\n\nThe key player in this process is the cytosolic DNA sensor cGAS, which normally detects foreign DNA to initiate an antiviral response. In cells from patients with rapid‑aging syndromes, cGAS is inappropriately activated by endogenous DNA fragments. This misrecognition leads to sustained production of inflammatory cytokines and interferes with the DNA repair machinery, creating a vicious cycle of damage and inflammation. The findings, reported in a peer‑reviewed journal, suggest that the immune system’s overreaction is a major contributor to the accelerated cellular aging observed in these disorders.\n\nThese insights open new avenues for therapeutic intervention. By targeting the cGAS‑STING pathway or stabilizing DNA integrity, researchers hope to reduce inflammation and restore repair capacity in affected patients. The work underscores the importance of immune‑genomic crosstalk in age‑related diseases and may inform strategies for treating other conditions where chronic inflammation and DNA damage coexist.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 23:02:09",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-288",
+    "title": "Scientists Find Earth Likely Formed Mainly from Inner Solar System",
+    "slug": "scientists-find-earth-likely-formed-mainly-from-inner-solar-system",
+    "content": "A recent study published in *Nature Astronomy* argues that the bulk of Earth’s material was drawn from the inner Solar System, rather than from water‑rich bodies that migrated from beyond Jupiter. By re‑examining isotopic signatures and dynamical models of planet formation, the researchers suggest that the planet’s building blocks were largely confined to the region inside the orbit of Mars. This challenges the long‑standing view that icy planetesimals from the outer Solar System delivered most of Earth’s water.\n\nThe team’s analysis indicates that the isotopic ratios of hydrogen and oxygen in Earth’s oceans and mantle match those expected from material that formed close to the Sun, rather than the distinct signatures found in comets and outer‑solar‑system asteroids. If the findings hold, they imply that liquid water was present on the early Earth much earlier than previously thought, possibly influencing the timing of the first oceans and the emergence of life. The study also revises models of planetary accretion, suggesting that the gravitational influence of Jupiter may have been less effective at scattering water‑rich bodies into the inner Solar System than assumed.\n\nWhile the new evidence does not entirely rule out a contribution from outer‑solar‑system material, it reduces the amount that would be required to explain Earth’s water inventory. Further research, including more detailed isotopic measurements and refined dynamical simulations, will be needed to confirm the extent of this inner‑Solar‑System origin. If confirmed, the findings could reshape our understanding of how terrestrial planets acquire volatiles and the conditions that foster habitable environments.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 23:02:04",
+    "author": "Science Daily",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-287",
+    "title": "Microplastics in Soil Pose Global Threat as Trojan Horse of Toxins",
+    "slug": "microplastics-in-soil-pose-global-threat-as-trojan-horse-of-toxins",
+    "content": "A five‑year multinational study funded by the European Union has revealed that microplastic particles in agricultural soils act as “Trojan horses,” transporting pollutants, pesticides and bacteria deep into the earth. The research, which has already produced 22 peer‑reviewed papers, examined 227 fields across 11 European countries and detected microplastics in every sample, indicating that the contamination is widespread throughout the continent’s farmlands.\n\nThe investigators found that the surfaces of these plastic fragments become hotspots for antibiotic‑resistant genes, with concentrations markedly higher than in surrounding soil. Laboratory analyses showed that the plastics facilitate the survival and spread of resistant bacteria, while also adsorbing chemical contaminants that can be released over time. The study’s authors warn that this dual delivery mechanism could undermine soil health, reduce crop productivity and accelerate the dissemination of resistance traits beyond agricultural settings.\n\nGiven the central role of healthy soils in supporting ecosystems and food production, the findings underscore a growing global threat. Policymakers and agricultural stakeholders are urged to consider mitigation strategies to limit microplastic inputs and to monitor soil microbial dynamics, aiming to protect the integrity of terrestrial environments essential for life on Earth.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 23:01:59",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-286",
+    "title": "Researchers develop mice with half-human brain tissue for disease research",
+    "slug": "researchers-develop-mice-with-half-human-brain-tissue-for-disease-research",
+    "content": "Researchers have engineered mice whose brains contain a substantial proportion of human neural tissue in an effort to advance the study of neurological and psychiatric disorders. By transplanting lab‑grown human brain cells into rodents genetically modified to develop without a cerebral cortex or hippocampus, scientists created a vacant niche within the skull that allowed the human cells to integrate and mature alongside the animal’s native structures.\n\nThe hybrid models are intended to provide a more accurate platform for investigating the cellular mechanisms underlying conditions such as schizophrenia, epilepsy, cerebral palsy, intellectual disability and rare forms of dementia, and for testing potential therapeutic interventions. Ongoing experiments will assess how closely the human‑mouse brain circuitry replicates disease phenotypes, with the aim of informing future drug development and treatment strategies.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/16/2026 23:01:53",
+    "author": "Guardian Science",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260916-285",
     "title": "Astronomers Discover Youngest Known Planet, Elias 2‑24 b",
     "slug": "astronomers-discover-youngest-known-planet-elias-2-24-b",
@@ -5453,50 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/15/2026 17:44:52",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-118",
-    "title": "Andrew Weissmann claims corruption was endemic in Trump administration",
-    "slug": "andrew-weissmann-claims-corruption-was-endemic-in-trump-administration",
-    "content": "François Picard recently introduced Andrew Weissmann, a professor at NYU School of Law, former general counsel of the FBI and author of the forthcoming book *Liar’s Kingdom*, at a forum focused on governmental accountability. Weissmann highlighted a growing trend in which political deception and deliberate falsehoods are increasingly normalized and employed for strategic advantage, arguing that this dynamic undermines public confidence in both government and its institutions.\n\nDrawing on the arguments presented in *Liar’s Kingdom*, Weissmann questioned the disparity between the legal treatment of political leaders and ordinary citizens, noting that while elected officials often evade accountability for false statements, private individuals can face serious legal repercussions for the same conduct. He called for a reassessment of legal standards to ensure consistent application of the law regardless of political status, emphasizing the need to restore trust in democratic processes.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/15/2026 17:44:41",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-117",
-    "title": "Historian links French political fragmentation to strong National Rally poll numbers",
-    "slug": "historian-links-french-political-fragmentation-to-strong-national-rally-poll-num",
-    "content": "Carys Garland welcomed Dr. Andrew Smith, a historian of modern France and lecturer in liberal arts at Queen Mary University of London, to discuss the latest French presidential polling. Dr. Smith cautioned that the National Rally’s strong showing under Marine Le Pen should not be interpreted as a foregone far‑right victory. He noted that the party’s success is bolstered by voter familiarity, a unified front and a tightly focused message, rather than an inevitable shift in political allegiance.\n\nAccording to Smith, the poll results reflect a broader mood among French voters marked by anger, anxiety, economic insecurity and political fatigue. He argued that describing the current environment as “polarization” oversimplifies the situation; instead, he proposes the term “fragmentation” to capture the electorate’s divided and unsettled state. The analysis suggests that the National Rally’s appeal is symptomatic of deeper societal stresses rather than a singular ideological surge.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/15/2026 17:44:28",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-116",
-    "title": "Dangote seeks $1.6 billion IPO to fund $14.3 billion refinery expansion",
-    "slug": "dangote-seeks-1-6-billion-ipo-to-fund-14-3-billion-refinery-expansion",
-    "content": "Aliko Dangote’s conglomerate is seeking $1.6 billion in capital from investors to fund a $14.3 billion expansion that would double the capacity of its Lagos‑based oil refinery, the largest single‑site facility in sub‑Saharan Africa. The project, slated to raise the plant’s output from roughly 650,000 to 1.2 million barrels per day, is being financed through a mix of private placement and a potential public offering that could allow individual Nigerians to purchase shares. The company has outlined a timeline that targets completion of the first phase by 2028, with the additional capacity intended to reduce the nation’s reliance on imported refined products and to boost export potential.\n\nRegulatory filings indicate that the offering will be open to qualified institutional investors and, subject to approval by the Nigerian Securities and Exchange Commission, to retail investors meeting specific financial criteria. Analysts note that the minimum subscription amount, set at several hundred thousand naira, may limit participation to higher‑income individuals and corporate entities, raising questions about the extent to which “millions of Nigerians” can realistically acquire a stake. The success of the capital raise will hinge on investor confidence in the refinery’s projected cash flows, the broader economic environment, and the company’s ability to meet the stipulated eligibility thresholds.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/15/2026 17:44:20",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-115",
-    "title": "EU drafts Arctic strategy amid rising geopolitical competition",
-    "slug": "eu-drafts-arctic-strategy-amid-rising-geopolitical-competition",
-    "content": "European policymakers are elevating the Arctic to a priority on the continent’s strategic agenda, driven by a convergence of geopolitical and economic pressures. Heightened Russian military activity in the region, combined with former U.S. President Donald Trump’s public statements threatening U.S. interests in Greenland, have intensified security concerns among European capitals. At the same time, the growing demand for critical raw materials—such as rare earth elements, lithium, and cobalt—has turned the Arctic’s untapped mineral deposits into a focal point for competition among global powers.\n\nIn response, the European Union is coordinating a series of initiatives aimed at strengthening its presence and influence in the High North. These include bolstering NATO’s northern flank, investing in sustainable extraction technologies, and negotiating joint research programs with Arctic states to secure supply chains while adhering to environmental standards. By aligning defense, energy, and trade policies, Europe seeks to mitigate external threats, ensure access to essential resources, and maintain a balanced role in the rapidly evolving Arctic landscape.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/15/2026 17:44:13",
-    "author": "DW World",
     "isFeatured": false
   }
 ]
