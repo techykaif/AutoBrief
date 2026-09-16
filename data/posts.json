@@ -1,5 +1,27 @@
 [
   {
+    "id": "BLOG-20260916-419",
+    "title": "Fed Raises Rates to 3.75%-4%",
+    "slug": "fed-raises-rates-to-3-75-4",
+    "content": "The U.S. Federal Reserve’s Federal Open Market Committee (FOMC) voted unanimously on Wednesday to raise its benchmark interest rate by a quarter‑percentage point, moving the federal funds target range to 3.75%–4.00%. This marks the first rate increase since July 2023, reflecting the central bank’s ongoing effort to curb inflationary pressures that have persisted through the year.\n\nThe decision follows a series of data releases indicating that inflation remains above the Fed’s 2% goal, despite a slowdown in some price categories. By tightening monetary policy, the Fed aims to moderate demand and bring price growth back toward its target. The move is part of a broader strategy that has seen the Fed raise rates multiple times in 2024, signaling its commitment to maintaining price stability while monitoring the impact on economic growth.\n\nThe rate hike is expected to influence borrowing costs across the economy, affecting mortgages, auto loans, and business financing. Market participants will watch how the higher rates impact consumer spending and corporate investment as the Fed continues to navigate the balance between inflation control and sustaining economic momentum.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/17/2026 2:01:52",
+    "author": "Guardian Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260916-418",
+    "title": "Chimpanzee mothers observed carrying dead infants for months in infant corpse carrying studies",
+    "slug": "chimpanzee-mothers-observed-carrying-dead-infants-for-months-in-infant-corpse-ca",
+    "content": "Chimpanzee and bonobo mothers have been observed continuing to carry their infants after the offspring’s death, a phenomenon known as infant corpse carrying (ICC). The behavior has been recorded across multiple field sites and is recognized as a regular, though not universal, aspect of great‑ape maternal care. Researchers have documented the duration of carrying, the contexts in which it occurs, and variations between species, establishing ICC as a well‑described pattern in primatology.\n\nAlthough numerous explanations—including grief‑like emotional responses, attachment maintenance, practice for future caregiving, and social signaling—have been proposed to account for ICC, only a limited number of studies have subjected these hypotheses to quantitative analysis. Current data highlight a gap between descriptive observations and rigorous testing, prompting calls for systematic measurement of variables such as carrying duration, infant age at death, and maternal hormonal changes to evaluate competing theories. Further empirical work is needed to determine the underlying mechanisms driving this distinctive behavior in our closest living relatives.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/17/2026 2:01:48",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260916-400",
     "title": "Vectorized and performance-portable Quicksort",
     "slug": "vectorized-and-performance-portable-quicksort",
@@ -5475,28 +5497,6 @@
     "categorySlug": "business",
     "publishedAt": "9/15/2026 18:12:10",
     "author": "CNBC Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-166",
-    "title": "Digital Realty CEO: AI slowdown not end of data center real estate",
-    "slug": "digital-realty-ceo-ai-slowdown-not-end-of-data-center-real-estate",
-    "content": "Digital Realty (DLR) and Equinix (EQIX), two of the largest data‑center real‑estate investment trusts, saw their shares drop sharply after a wave of analyst warnings about the rapid rise of artificial‑intelligence workloads. In the wake of reports that AI‑driven demand could outpace supply, investors questioned whether the current data‑center capacity is sufficient to meet the projected growth, prompting a sell‑off that erased roughly 6 % of each company’s market value in a single trading day.\n\nThe concerns stem from the fact that AI applications require high‑performance computing, low‑latency connectivity, and significant power and cooling resources. Analysts have cautioned that the pace of AI adoption may force data‑center operators to accelerate expansion plans, potentially leading to an oversupply of space and higher operating costs. Both Digital Realty and Equinix have already announced new projects aimed at meeting AI demand, but the market is wary that the timing and scale of these initiatives could dilute returns for shareholders.\n\nAs the data‑center sector continues to grapple with the implications of AI, the recent slide in DLR and EQIX shares underscores the volatility that can accompany rapid technological shifts. Investors will likely monitor how these REITs balance growth opportunities against the risk of overbuilding, while the broader market watches for signals that AI demand will translate into sustained, profitable expansion.",
-    "category": "Business",
-    "categorySlug": "business",
-    "publishedAt": "9/15/2026 18:12:06",
-    "author": "CNBC Business",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260915-165",
-    "title": "Close Relationships Explain East-West Cultural Differences",
-    "slug": "close-relationships-explain-east-west-cultural-differences",
-    "content": "Social psychologists have spent the past three decades grappling with a central question: how best to capture and compare cultural differences in everyday behavior. The debate often turns to seemingly simple actions—such as a person who rearranges their life so that aging parents can live at home, or a commuter who pushes a stranger off a crowded subway, or someone who greets strangers with a smile. These behaviors are used as case studies to probe the underlying values, norms, and social expectations that vary across societies.\n\nThe challenge lies in developing reliable, cross‑culturally valid measures that can distinguish between individual variation and genuine cultural patterns. Researchers have employed a mix of survey instruments, behavioral experiments, and ethnographic observation, yet no single framework has achieved universal acceptance. Recent work has begun to integrate neurocognitive and linguistic data, aiming to create a more nuanced model of how cultural context shapes everyday decision‑making.\n\nWhile consensus remains elusive, the ongoing dialogue underscores the importance of precise, context‑sensitive research methods. As scholars refine their tools and expand their datasets, the field moves closer to a comprehensive understanding of how cultural frameworks influence routine actions and interpersonal interactions.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/15/2026 18:12:00",
-    "author": "Phys.org",
     "isFeatured": false
   }
 ]
