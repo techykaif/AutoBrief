@@ -6,7 +6,7 @@ import * as path from "path"
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
 const SITEMAP_URL_LIMIT = 5000
-const SITE_URL = "https://autobrief-ai.vercel.app"
+const SITE_URL = "https://autobrief.blog"
 
 // How many of the most recent posts stay in data/posts.json and get
 // statically prerendered (generateStaticParams) at build time. Everything
