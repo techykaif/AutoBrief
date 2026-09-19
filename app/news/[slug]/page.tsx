@@ -75,7 +75,12 @@ export default async function NewsPostPage({ params }: PageProps) {
     headline: post.title,
     datePublished: post.publishedAt,
     author: { "@type": "Person", name: post.author || "AutoBrief" },
-    publisher: { "@type": "Organization", name: "AutoBrief" },
+    publisher: {
+      "@type": "Organization",
+      name: "AutoBrief",
+      url: SITE_URL,
+      logo: { "@type": "ImageObject", url: `${SITE_URL}/favicon.png` },
+    },
     description: post.content.substring(0, 160),
     mainEntityOfPage: {
       "@type": "WebPage",
