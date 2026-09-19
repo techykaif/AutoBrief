@@ -33,7 +33,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    siteName: "AutoBrief",\n    url: "https://autobrief.blog",
+    siteName: "AutoBrief",
+    url: "https://autobrief.blog",
     title: "AutoBrief — Automated News Aggregation",
     description: "Free, ad-free automated news from 50+ sources.",
   },
