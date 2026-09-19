@@ -4,7 +4,7 @@ import type { Metadata } from "next"
 import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 
-const SITE_URL = "https://autobrief-ai.vercel.app"
+const SITE_URL = "https://autobrief.blog"
 const AUTHOR_URL = "https://techykaif.site"
 
 export const metadata: Metadata = {
