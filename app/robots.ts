@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next"
 
-const SITE_URL = "https://autobrief-ai.vercel.app"
+const SITE_URL = "https://autobrief.blog"
 
 export default function robots(): MetadataRoute.Robots {
   return {
