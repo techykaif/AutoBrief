@@ -20,6 +20,7 @@ const organizationSchema = {
   "@type": "Organization",
   name: "AutoBrief",
   url: SITE_URL,
+  logo: `${SITE_URL}/favicon.png`,
   founder: {
     "@type": "Person",
     name: "Mohd Kaif Ansari",

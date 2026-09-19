@@ -45,6 +45,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `${name} News | AutoBrief`,
     description: `Latest ${name} news and articles on AutoBrief.`,
+    alternates: { canonical: `/category/${slug}` },
   }
 }
 

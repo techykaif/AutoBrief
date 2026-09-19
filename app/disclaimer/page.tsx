@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "Disclaimer | AutoBrief",
   description: "Content disclaimer for AutoBrief — AI-generated news summaries for informational purposes only.",
+  alternates: { canonical: "/disclaimer" },
 }
 
 export default function DisclaimerPage() {

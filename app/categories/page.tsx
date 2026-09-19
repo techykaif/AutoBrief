@@ -12,6 +12,7 @@ export const revalidate = false
 export const metadata: Metadata = {
   title: "Categories | AutoBrief",
   description: "Browse all news categories on AutoBrief — World, Technology, Science, Business, Health, Environment, Politics, Sports, Entertainment, Space.",
+  alternates: { canonical: "/categories" },
 }
 
 const CATEGORY_META: Record<string, { icon: any; color: string; bg: string }> = {

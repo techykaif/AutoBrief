@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "Privacy Policy | AutoBrief",
   description: "Privacy policy for AutoBrief — what data we collect and how we use it.",
+  alternates: { canonical: "/privacy" },
 }
 
 export default function PrivacyPage() {
