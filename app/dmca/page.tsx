@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "DMCA & Copyright Policy | AutoBrief",
   description: "DMCA takedown and copyright policy for AutoBrief.",
+  alternates: { canonical: "/dmca" },
 }
 
 export default function DmcaPage() {
