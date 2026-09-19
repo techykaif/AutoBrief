@@ -9,7 +9,7 @@ import { Badge } from "@/components/ui/badge"
 import { ArrowLeft, User, Calendar, Clock, BookOpen } from "lucide-react"
 import { getPostBySlug, getPostsByCategory, getAllPosts } from "@/lib/data-source"
 
-const SITE_URL = "https://autobrief-ai.vercel.app"
+const SITE_URL = "https://autobrief.blog"
 
 export const revalidate = false
 
