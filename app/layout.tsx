@@ -12,7 +12,7 @@ const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" })
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://autobrief-ai.vercel.app"),
+  metadataBase: new URL("https://autobrief.blog"),
   title: {
     default: "AutoBrief — Automated News Aggregation",
     template: "%s | AutoBrief",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    siteName: "AutoBrief",
+    siteName: "AutoBrief",\n    url: "https://autobrief.blog",
     title: "AutoBrief — Automated News Aggregation",
     description: "Free, ad-free automated news from 50+ sources.",
   },
