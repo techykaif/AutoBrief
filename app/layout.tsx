@@ -27,8 +27,9 @@ export const metadata: Metadata = {
     google: "JaS2NIRQlSYOw0XEaYrSQP3RYE3kwbgxy5tV-6w4-x8",
   },
   icons: {
-    icon: "/favicon.png",
-    apple: "/favicon.png",
+    icon: [{ url: "/favicon.png", type: "image/png", sizes: "1024x1024" }],
+    shortcut: [{ url: "/favicon.png", type: "image/png", sizes: "1024x1024" }],
+    apple: [{ url: "/favicon.png", type: "image/png", sizes: "1024x1024" }],
   },
   openGraph: {
     type: "website",
