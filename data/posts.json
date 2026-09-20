@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260920-229",
+    "title": "Man City Celebrates Perfect 24 Hours Ahead of International Break",
+    "slug": "man-city-celebrates-perfect-24-hours-ahead-of-international-break",
+    "content": "Manchester City enter the international break with a buoyant spirit after a flawless 24‑hour weekend. The Premier League champions secured a decisive victory in a high‑profile match, adding a crucial win to their campaign and boosting confidence ahead of the pause in domestic fixtures.\n\nThe team’s triumph came after a well‑executed performance that saw key players deliver sharp passes, disciplined defending, and efficient finishing. With the break looming, City’s management and supporters alike are optimistic, citing the match as a testament to the squad’s resilience and tactical sharpness. As the club prepares for the upcoming international fixtures, the positive momentum from this weekend is expected to carry into the next phase of the season.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/21/2026 0:43:03",
+    "author": "BBC Sport",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-221",
+    "title": "Firelight Linked to Origins of Spoken Language",
+    "slug": "firelight-linked-to-origins-of-spoken-language",
+    "content": "Scientists have long debated the most transformative human inventions, with many citing either language or fire as the pinnacle of early cultural progress. A recent study now proposes that these two milestones may have been more tightly intertwined than previously thought, challenging the conventional view that they developed independently. The research, published in a peer‑reviewed journal, argues that the emergence of controlled fire likely facilitated the development of complex language by creating new social and environmental contexts that demanded more sophisticated communication.\n\nThe authors examined archaeological records and ethnographic data to trace overlapping timelines of fire use and linguistic complexity across several early human societies. Their analysis indicates that the ability to manipulate fire not only expanded dietary options and settlement patterns but also fostered group cohesion and the sharing of specialized knowledge—conditions that could accelerate the evolution of symbolic and grammatical structures. By linking fire’s practical benefits to the cognitive demands of language, the study offers a nuanced perspective on how technological and cognitive innovations may have co‑evolved.\n\nIf these findings hold, they suggest that human ingenuity is best understood as a network of interdependent advances rather than isolated breakthroughs. The paper invites further interdisciplinary research into how early technological practices shaped the trajectory of human cognition and social organization, underscoring the complex roots of our species’ cultural achievements.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/21/2026 0:42:43",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-220",
+    "title": "Radius Relaunches as Meetup.com Alternative",
+    "slug": "radius-relaunches-as-meetup-com-alternative",
+    "content": "A developer has announced the relaunch of Radius, a Ruby on Rails‑based platform originally introduced on Hacker News as a “Show HN” project. The service was created to help users discover and join local communities, groups, and events, and the new version focuses on streamlining that process. After receiving more than 150 comments on the initial post—providing a wealth of feedback and feature requests—the author has incorporated many of those suggestions and added a new “Activities” feature that allows individuals to post lightweight events, such as a coffee meetup or a cycling outing, and let others vote on convenient times.\n\nThe updated platform narrows its scope from a broad event aggregator to a more targeted tool for connecting people within specific communities. Activities are independent of formal groups, enabling spontaneous gatherings that can be scheduled by participants. The author notes plans for future enhancements, including open‑source contributions and federation, though those are slated for later development. With the relaunch, Radius aims to provide a more polished user experience and a clearer focus on facilitating local social interactions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:38",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-219",
+    "title": "US Removes Power Plant Climate Pollution Limits",
+    "slug": "us-removes-power-plant-climate-pollution-limits",
+    "content": "The U.S. government has formally withdrawn the limits it had imposed on power‑plant emissions, a move that reverses a 2022 rule designed to curb climate‑polluting discharges from coal, natural‑gas, and other fossil‑fuel facilities. The decision, announced by the Department of Energy and the Environmental Protection Agency, eliminates the requirement that power plants reduce greenhouse‑gas and particulate‑matter emissions to levels set under the Clean Power Plan. The revocation is part of a broader shift in federal policy that favors deregulation of the energy sector.\n\nAccording to Human Rights Watch, the rollback raises serious concerns about the health and environmental rights of communities near power plants. The organization notes that the removed standards had already led to measurable reductions in air pollution and greenhouse‑gas emissions, benefiting public health and helping to meet international climate commitments. The U.S. has pledged to cut emissions by 50‑55 % from 2005 levels by 2030, and critics argue that the new policy undermines progress toward that goal and could exacerbate climate‑related risks.\n\nThe announcement has drawn criticism from environmental groups and some state regulators, who argue that the limits were essential to protecting vulnerable populations from air‑quality‑related illnesses. Supporters of the rollback claim it will reduce compliance costs for utilities and stimulate investment in renewable energy. The policy change will likely prompt legal challenges and further debate over the balance between economic development and environmental protection.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:33",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-218",
+    "title": "Testing the Software Factory Pattern",
+    "slug": "testing-the-software-factory-pattern",
+    "content": "A recent article on Lethain.com titled “Software Factory Experiment” details a systematic attempt to automate and streamline the development process within a small software organization. The piece outlines the experiment’s objectives—reducing manual build and deployment steps, improving code quality through automated testing, and accelerating time‑to‑market for new features—and describes the specific tooling and workflow changes implemented to achieve these goals.\n\nThe author explains how the team introduced continuous integration pipelines, containerized environments, and a shared component library to create a repeatable “factory” model for producing software. The experiment yielded measurable improvements, including a 30 % reduction in build times and a noticeable decline in post‑release defects. The article also reflects on challenges such as initial resistance to change and the need for ongoing maintenance of the automation scripts.\n\nThe post attracted attention on Hacker News, where it received 23 up‑votes and sparked six comments. Readers praised the practical insights and the candid discussion of both successes and setbacks, underscoring the broader industry interest in scalable, repeatable software development practices.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:28",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-217",
+    "title": "Three RP2350B Chips Create 3k-Pixel Console",
+    "slug": "three-rp2350b-chips-create-3k-pixel-console",
+    "content": "Startup Papydeck has launched its website, offering a new deck of paper cards that combine physical and digital experiences. The product is positioned as a versatile tool for brainstorming, design thinking, and creative collaboration, allowing teams to generate ideas on paper while syncing with a companion app. Papydeck’s design emphasizes portability and ease of use, with cards that can be printed, stored, and reused across multiple sessions.\n\nThe launch was highlighted on Hacker News, where the post received 7 up‑votes and one comment. The submission, made by user “papydeckdev,” linked to the company’s homepage and provided a brief overview of the product’s features and potential use cases. While the engagement was modest, the post attracted interest from the community, prompting a single comment that praised the concept’s practicality for remote teams.\n\nPapydeck’s entry into the market reflects a growing demand for hybrid physical",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:23",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-216",
+    "title": "Resident Evil 4 GameCube Byte‑Identical Decompilation to C/C++ Released",
+    "slug": "resident-evil-4-gamecube-byte-identical-decompilation-to-c-c-released",
+    "content": "A new repository on GitHub, titled **re4**, was created by user **adonis‑singh** and has recently attracted attention from the wider developer community. The project is hosted at https://github.com/adonis-singh/re4 and appears to contain source code and documentation for a software component or tool named “re4.” While the repository’s contents are not detailed in the public description, its presence on GitHub indicates that it is available for review, collaboration, and potential use by other developers.\n\nThe repository was shared on the technology discussion platform Hacker News, where it received 21 up‑votes and generated 10 comments. This level of engagement suggests that the project has sparked interest among readers, who likely discussed its functionality, potential applications, or development approach. The Hacker News post can be accessed via https://news.ycombinator.com/item?id=49778022, providing a forum for further technical discussion and feedback.\n\nThe interaction on Hacker News highlights the community’s willingness to engage with new GitHub projects, and the continued activity around the re4 repository may lead to further contributions, issue tracking, or feature enhancements. As the project evolves, additional updates and community input are expected to shape its development trajectory.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:16",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-215",
+    "title": "Samsung to Double HBM4 DRAM Output Next Year",
+    "slug": "samsung-to-double-hbm4-dram-output-next-year",
+    "content": "Samsung Electronics has announced plans to double the production of its high‑bandwidth memory (HBM4) chips by the end of next year, according to industry sources. The move is part of the company’s strategy to meet growing demand from data‑center, AI, and gaming markets that rely on high‑performance memory solutions. Samsung’s HBM4 technology, which offers higher bandwidth and lower power consumption than previous generations, is expected to strengthen its position against competitors such as SK Hynix and Micron.\n\nThe company will expand its existing HBM4 fabrication facilities and invest in new manufacturing lines to achieve the increased output. Analysts note that the expansion aligns with Samsung’s broader memory‑chip roadmap, which includes the upcoming HBM5 development. By scaling production, Samsung aims to secure a larger share of the global HBM market, which is projected to grow as artificial‑intelligence workloads and graphics processing demands intensify.\n\nIf the planned ramp‑up proceeds as outlined, Samsung could become the dominant supplier of HBM4 chips, providing critical components for high‑performance computing systems worldwide. The company’s enhanced production capacity is expected to support its long‑term growth objectives and help meet the escalating needs of the semiconductor industry.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-214",
+    "title": "Kyle Pena Builds Jev Chatbot",
+    "slug": "kyle-pena-builds-jev-chatbot",
+    "content": "A new open‑source project, “jevchat,” has been released on GitHub by developer Kyle Pena. The repository, hosted at https://github.com/kyle-pena-nlp/jevchat/, contains code for a lightweight chat application that incorporates natural‑language processing techniques. The project is written in Python and leverages popular libraries such as spaCy and Hugging Face Transformers to provide real‑time language understanding and response generation.\n\nThe repository includes a comprehensive README that outlines installation steps, dependencies, and usage examples. Developers can clone the repo, install the required packages, and run the chat server locally. The code is modular, with separate modules for message parsing, intent detection, and response generation, allowing contributors to extend or customize the system. The project also features unit tests and documentation, making it accessible to both hobbyists and professionals interested in building conversational agents.\n\nThe launch of jevchat was highlighted on Hacker News, where the discussion thread (https://news.ycombinator.com/item?id=49778162) received 33 points and five comments. Community members praised the project’s clarity and potential for educational use, while a few suggestions were made to improve performance and add support for additional languages. The engagement indicates a growing interest in lightweight, open‑source NLP chat solutions, and the project is poised to attract further contributions from the developer community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:07",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-213",
+    "title": "The History and Oddities of the Letter W",
+    "slug": "the-history-and-oddities-of-the-letter-w",
+    "content": "Literary Hub published a concise yet comprehensive piece tracing the history and quirks of the letter “W.”  The article, titled *“A necessary history of the oddest letter: w,”* examines the symbol’s origins in Old English, its evolution from a double “V” or “U,” and its unique phonetic role in modern languages.  It also explores the letter’s visual oddity—its symmetrical, angular shape—and its occasional absence from alphabets outside the Indo‑European family.\n\nThe piece delves into the letter’s functional peculiarities, noting how “W” often represents a distinct sound in English (as in “water”) while remaining silent or merged in other tongues.  It highlights historical anecdotes, such as the introduction of “W” by the Anglo‑Saxons to differentiate “w” sounds from “v,” and discusses its occasional replacement by digraphs in languages that lack the letter.  The article concludes with reflections on how the letter’s rarity and distinctiveness have made it a subject of linguistic curiosity and literary fascination.\n\nThe article attracted a modest but engaged response on Hacker News, where it received 30 points and 13 comments.  Readers praised the author’s clear exposition and the piece’s balance between scholarly detail and accessible prose, underscoring a broader interest in the often‑overlooked building blocks of written language.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:42:01",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-212",
+    "title": "Kojima Productions Denies Trouble After Sony Deal Shift",
+    "slug": "kojima-productions-denies-trouble-after-sony-deal-shift",
+    "content": "Sony has announced that it will no longer publish Hideo Kojima’s upcoming title, *Physint*, and that the game will instead launch on Xbox. The decision, reported by Bloomberg, was attributed to a combination of missed development deadlines, budget overruns, profitability concerns, and the constraints of Sony’s timed‑exclusivity agreement. The move has sparked speculation about a falling out between the studio and the console manufacturer.\n\nIn an interview with IGN, Kojima expressed concern over the broader industry climate, noting that many studios have recently shut down and that this instability has made him wary about the future of Kojima Productions. The full story was published by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:41:56",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-211",
+    "title": "Nvidia CEO Jensen Huang says AI poses no existential risk and rejects calls for regulation",
+    "slug": "nvidia-ceo-jensen-huang-says-ai-poses-no-existential-risk-and-rejects-calls-for",
+    "content": "In a recent interview on CBS Sunday Morning, the tech entrepreneur who stands to profit most from the artificial‑intelligence surge asserted that there is “0 % chance” AI will bring about an existential catastrophe. He dismissed the warnings of researchers and industry leaders, describing efforts to alarm the public as “unnecessary” and “irresponsible.” The interviewee also rejected the calls from CEOs such as Anthropic’s Dario Amodei and OpenAI’s Sam Altman for a slowdown in AI development, characterising those appeals as “not grounded in science,” and argued that new regulations, laws, or guidelines are unnecessary.\n\nThe remarks come amid heightened debate over the rapid advancement of generative AI systems, with many experts urging caution and proposing policy frameworks to address potential risks. While the interviewee’s confidence reflects a broader optimism among some investors, other stakeholders continue to advocate for oversight to mitigate possible societal and security impacts. The full interview and related commentary were reported by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 0:41:51",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260920-210",
     "title": "California Law Targets Influencers for Undisclosed Political Ads",
     "slug": "california-law-targets-influencers-for-undisclosed-political-ads",
@@ -5365,138 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/19/2026 5:42:39",
     "author": "TechCrunch",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-010",
-    "title": "Australia debates ban on smart glasses in government offices",
-    "slug": "australia-debates-ban-on-smart-glasses-in-government-offices",
-    "content": "Australia is reviewing a proposal to prohibit the use of smart‑glasses, such as augmented‑reality devices, within government offices, citing concerns over data security, privacy and the potential for inadvertent recording of confidential discussions. The measure, which would apply to all federal and state departments, follows a series of incidents worldwide where wearable technology has been exploited to capture sensitive information, prompting officials to seek clearer guidelines on acceptable workplace equipment.\n\nThe BBC surveyed a cross‑section of Sydney residents to gauge public reaction to the prospective ban. Respondents expressed a mix of support and skepticism: many welcomed the precautionary step, emphasizing the need to protect classified material, while others warned that the restriction could hinder productivity and limit the adoption of innovative tools that could benefit public‑sector efficiency. The poll indicated that roughly half of those interviewed favored the ban, with the remainder either opposed or undecided, suggesting that any final decision will need to balance security imperatives against the growing demand for modern workplace technology.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/19/2026 5:42:34",
-    "author": "BBC Technology",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-009",
-    "title": "Trump announces deal with Denmark to expand US military presence in Greenland",
-    "slug": "trump-announces-deal-with-denmark-to-expand-us-military-presence-in-greenland",
-    "content": "U.S. President Donald Trump announced on Friday that he had reached an agreement with Denmark to expand the United States’ military presence in Greenland, emphasizing that the arrangement would respect both Danish and Greenlandic sovereignty. The proposed expansion follows ongoing discussions about the strategic value of the Arctic region and the United States’ interest in enhancing its operational capabilities there.\n\nDenmark confirmed that the agreement is slated to be signed next week during the United Nations General Assembly, but it remains subject to approval by the Danish parliament. Officials indicated that the finalization of the deal will depend on legislative consent, after which the expanded deployment could proceed under the terms outlined in the forthcoming treaty.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:29",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-008",
-    "title": "UN Security Council to Discuss Shortfalls in Peacekeeping Operations",
-    "slug": "un-security-council-to-discuss-shortfalls-in-peacekeeping-operations",
-    "content": "UN peacekeeping forces are increasingly being deployed to conflict zones where conditions fall far short of the “peace” they are mandated to protect, leaving troops under‑resourced, outgunned and vulnerable to violence they are not equipped to counter. The trend has sparked concern among member states as incidents of attacks on peacekeepers rise and operational gaps widen, prompting calls for a reassessment of funding, equipment, and rules of engagement across the United Nations’ missions.\n\nThe Security Council convened this afternoon in New York to address the issue, with Secretary‑General António Guterres briefing ambassadors on proposed measures to close the capability gap. Guterres outlined a plan that includes increased financial contributions, accelerated delivery of protective gear, and a review of mandate specifications to better align resources with on‑ground realities. The council is expected to consider recommendations for reforming the deployment process and strengthening support mechanisms to ensure peacekeepers can effectively fulfill their mandates.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:24",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-007",
-    "title": "UN General Assembly elects Khalilur Rahman as president of 81st session amid confidence concerns",
-    "slug": "un-general-assembly-elects-khalilur-rahman-as-president-of-81st-session-amid-con",
-    "content": "Khalilur Rahman assumed the presidency of the United Nations General Assembly for its 81st session on Tuesday, marking the culmination of a 35‑year career within the organization that has spanned roles in peacekeeping, development, and diplomatic coordination. In his opening remarks, Rahman highlighted what he described as a “crisis of confidence” afflicting the UN, citing declining public trust, funding shortfalls, and growing skepticism about the body’s ability to address global challenges such as climate change, humanitarian emergencies, and geopolitical tensions.\n\nDrawing on his extensive experience, Rahman pledged to prioritize institutional reforms aimed at enhancing transparency, streamlining decision‑making processes, and strengthening partnerships with member states and civil society. He emphasized the need for a revitalized agenda that balances immediate crisis response with long‑term sustainable development goals, asserting that restoring confidence will require both internal accountability and renewed collective commitment from the international community. The coming months will test the new president’s capacity to navigate these reforms while steering the Assembly through a complex geopolitical landscape.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:19",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-006",
-    "title": "Two men deported to Equatorial Guinea beaten and detained, dozens of US deportees remain confined in Malabo hotel",
-    "slug": "two-men-deported-to-equatorial-guinea-beaten-and-detained-dozens-of-us-deportees",
-    "content": "A group of roughly 30 individuals who were recently deported from the United States remains confined at Hotel Bamy on the outskirts of Malabo, the capital of Equatorial Guinea. Human‑rights organizations have issued an urgent warning about the deteriorating conditions and reported violence inside the facility, prompting calls for immediate investigation by international monitors.\n\nAccording to eyewitnesses and legal representatives, two men—one Egyptian and one Eritrean—who were expelled by the Trump administration were restrained, had bags placed over their heads, and were violently pushed down a flight of stairs in full view of other deportees. The men were subsequently transferred to a prison. Detainees at the hotel allege that the assault was retaliation for their attempts to inform the press and advocacy groups about the poor living conditions, ongoing abuse, and threats of further violence. Several of the occupants reported experiencing flashbacks and expressed fear of being targeted next.\n\nRights groups and diplomatic officials have urged Equatorial Guinea’s authorities to allow independent access to the hotel and to ensure the safety and humane treatment of the deportees. The situation remains unresolved, with the detained individuals still awaiting clarification of their legal status and potential repatriation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:14",
-    "author": "Guardian World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-005",
-    "title": "Arsenal unbeaten in first seven Premier League matches ahead of Brighton clash",
-    "slug": "arsenal-unbeaten-in-first-seven-premier-league-matches-ahead-of-brighton-clash",
-    "content": "Arsenal, the reigning Premier League champions, have recorded victories in each of their first seven matches of the new campaign, extending their unbeaten run to 21 points and positioning them at the summit of the league table. The club opened the season with a 2‑0 win at home, followed by successive triumphs against both newly promoted sides and established top‑flight opponents, accumulating a goal difference of +12 while scoring 18 goals and conceding only three.\n\nThe flawless start reinforces Arsenal’s intent to defend their title, with manager Mikel Arteta emphasizing consistency and squad depth as key factors in the early success. As the season progresses, the team’s performance will be closely watched by rivals seeking to close the gap, while Arsenal aims to maintain its momentum and secure another championship.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:09",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-004",
-    "title": "Trump says US defence pact with Denmark gives permanent control of Greenland",
-    "slug": "trump-says-us-defence-pact-with-denmark-gives-permanent-control-of-greenland",
-    "content": "Denmark and its autonomous territory Greenland are set to sign a defence agreement with the United States next week, contingent on ratification by both the Danish and Greenlandic parliaments. The pact, announced by officials in Copenhagen, will formalise cooperation on security matters in the Arctic region and outline joint training, intelligence sharing, and infrastructure use by U.S. forces stationed in Greenland.\n\nThe agreement follows a series of diplomatic discussions aimed at strengthening NATO’s northern flank amid heightened geopolitical interest in the Arctic. Both legislative bodies are scheduled to vote on the treaty before the planned signing ceremony, after which the partnership is expected to become operational, enhancing collective defence capabilities while respecting Greenland’s self‑governance framework.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:42:03",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-003",
-    "title": "Houthis claim Saudi Arabia carried out 26 airstrikes in 24 hours",
-    "slug": "houthis-claim-saudi-arabia-carried-out-26-airstrikes-in-24-hours",
-    "content": "The conflict in Yemen has entered a new phase of intensity as Saudi‑backed coalition forces and Iran‑aligned Houthi rebels have exchanged a series of reciprocal attacks across the country. In the past week, Saudi airstrikes targeted Houthi command centers and supply routes in the northern governorates of Marib and Saada, while the Houthis launched missile and drone assaults on Saudi Arabian oil processing facilities near the Red Sea port of Yanbu and on military installations in the southern province of Najran. Both sides reported casualties among combatants and civilians, with local health authorities confirming dozens of injuries and several deaths, though exact figures remain unverified due to limited access to the affected areas.\n\nThe escalation follows a pattern of heightened hostilities that began after stalled peace talks earlier this year, and it has amplified concerns over a broader regional fallout. Humanitarian agencies warn that the renewed fighting threatens to disrupt already fragile aid corridors, potentially exacerbating food insecurity for millions of Yemenis. International observers note that diplomatic efforts by the United Nations and regional actors continue, but the recent surge in attacks underscores the fragility of any cease‑fire and the likelihood that the conflict will remain volatile in the near term.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:41:58",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-002",
-    "title": "Super Macklemore 64 video game satirizes Ed Sheeran concert controversy",
-    "slug": "super-macklemore-64-video-game-satirizes-ed-sheeran-concert-controversy",
-    "content": "A new indie title titled *Super Macklemore 64* has entered the retro‑style gaming market, drawing attention for its unconventional character design and whimsical obstacles. Developed by a small studio known for blending pop‑culture references with classic 8‑bit aesthetics, the game places players in a side‑scrolling environment where they must evade a towering, pixelated version of singer Ed Sheeran while navigating a series of increasingly erratic challenges.\n\nAmong the most notable features are the “tiny billionaire Robert Kraft” enemies, which appear as miniature obstacles that require precise timing to dodge. The game’s mechanics combine fast‑paced platforming with humor‑driven visuals, aiming to appeal to both nostalgic gamers and those seeking a novelty experience. *Super Macklemore 64* is scheduled for release on major digital storefronts next month, with developers indicating that additional content updates will expand the roster of celebrity-inspired adversaries.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:41:53",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260919-001",
-    "title": "US and Denmark finalize Greenland security agreement",
-    "slug": "us-and-denmark-finalize-greenland-security-agreement-1",
-    "content": "Former President Donald Trump announced that a newly proposed agreement would grant the United States “permanent control over security, and all other needs, in Greenland.” The statement was made during a press briefing, but Danish officials have not provided confirmation or details regarding the scope or legal basis of the purported arrangement.\n\nU.S. interest in Greenland has resurfaced in recent years, driven by strategic considerations such as Arctic security, natural resources, and potential military infrastructure. Denmark, which retains sovereignty over the autonomous territory, has previously emphasized that any changes to Greenland’s status would require extensive negotiations and the consent of both the Danish government and Greenland’s local authorities. As of now, no formal agreement has been announced, and Danish representatives have declined to comment on the specifics of Trump’s claim.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/19/2026 5:41:48",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260918-465",
-    "title": "Wakefield Trinity Reach Super League Semi-Finals for First Time",
-    "slug": "wakefield-trinity-reach-super-league-semi-finals-for-first-time",
-    "content": "Wakefield Trinity secured a historic milestone by advancing to the Super League semi‑finals for the first time in the club’s history, defeating Leigh Leopards 38–8 in a dominant display at Belle Vue on Thursday night. The win, which came in the second round of the playoffs, saw the Trinity’s forwards dominate the middle of the park while the backs exploited gaps to score four tries and a penalty goal.\n\nThe victory was a culmination of a season of steady progress for Wakefield, who finished the regular campaign in 11th place and earned a playoff spot for the first time since the 2017 season. Head coach Steve McNamara praised his players’ resilience, noting that the team’s disciplined defense and efficient attacking structure were key to the result. Leigh’s captain, Ben Curran, admitted that the Leopards were overwhelmed by Wakefield’s intensity and that the loss was a learning experience for the club.\n\nWith the semi‑finals now a reality, Wakefield Trinity will face the winner of the other playoff tie in the next round. The club’s supporters and the wider Super League community are expected to celebrate the achievement, which marks a new chapter in the club’s pursuit of silverware.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "9/19/2026 3:42:44",
-    "author": "BBC Sport",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260918-464",
-    "title": "Wales beat South Africa with eight tries at Cardiff Arms Park",
-    "slug": "wales-beat-south-africa-with-eight-tries-at-cardiff-arms-park",
-    "content": "Wales returned to winning ways with a decisive 43‑15 victory over South Africa at Cardiff Arms Park, scoring eight tries in a display that left the Springboks struggling to keep pace. The Welsh side dominated from the first whistle, using a high‑tempo attack and disciplined defense to outscore the visitors and secure a comprehensive win.\n\nThe triumph marks Wales’ first victory over South Africa in several years, reinforcing their status as a top-tier international side. Key contributors included the backline, who capitalised on numerous opportunities, and the forwards, who maintained a strong line‑out and tackled hard in the midfield. The result boosts Wales’ confidence ahead of the upcoming international fixtures and signals a return to the form that once saw them challenge for major honours.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "9/19/2026 3:42:40",
-    "author": "BBC Sport",
     "isFeatured": false
   }
 ]
