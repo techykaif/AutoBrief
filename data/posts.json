@@ -1,5 +1,16 @@
 [
   {
+    "id": "BLOG-20260920-189",
+    "title": "Rangers beat Celtic in Old Firm derby as Ryan Naderi scores winner",
+    "slug": "rangers-beat-celtic-in-old-firm-derby-as-ryan-naderi-scores-winner",
+    "content": "The Rangers v Celtic match at Ibrox ended with a late winner from Ryan Naderi, but the triumph was muted by the absence of visiting supporters. For the first time this season, all Glasgow derbies were played behind closed doors, with no Celtic fans permitted in the stadium. The atmosphere inside the ground was largely silent, punctuated only by the occasional clatter of the Rangers bench and the commentary from the broadcast team.\n\nThe decision to restrict fan attendance was part of a broader set of measures aimed at reducing on‑field tensions, but it left the match feeling stark and detached. Rangers’ victory widened the gap in the title race, while the lack of a full fan presence underscored the growing strain on the historic fixture. The muted celebration highlighted how the derby has become increasingly fraught, with both sides and their supporters grappling with the implications of playing without the usual electric crowd.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/20/2026 22:31:48",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260920-183",
     "title": "Brobbey Scores Hat-Trick as Sunderland Lose to Manchester City",
     "slug": "brobbey-scores-hat-trick-as-sunderland-lose-to-manchester-city",
@@ -5486,17 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/19/2026 3:32:17",
     "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260918-435",
-    "title": "OpenAI, Microsoft Warned of 'Doom Loop' in Court Documents",
-    "slug": "openai-microsoft-warned-of-doom-loop-in-court-documents",
-    "content": "The New York Times has unsealed court documents that detail the lawsuit it has filed against OpenAI and Microsoft, alleging that the companies’ data‑scraping practices for training artificial‑intelligence models constitute a “doom loop” that could harm the web. The documents include internal communications that label the scraping as the “largest theft of labor in human history” and claim it amounts to a “complete mockery of the idea of fair use.” Key statements in the filings are attributed to Microsoft’s Director of Applied Science, Brent Hecht, whose remarks have drawn particular attention.\n\nMicrosoft has publicly distanced itself from Hecht’s assertions. In a statement to The Verge, spokesperson Alex Haurek said the comments were not representative of the company’s position and that Microsoft remains committed to responsible AI development. The company’s response comes as the lawsuit seeks to hold both firms accountable for the alleged misuse of copyrighted material in the training of large language models. The case is still pending, and the outcome could set significant precedents for data usage and intellectual‑property rights in the tech industry.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/19/2026 3:32:13",
-    "author": "The Verge",
     "isFeatured": false
   }
 ]
