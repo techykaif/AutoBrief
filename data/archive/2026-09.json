@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260919-282",
+    "title": "Meta's Muse AI assistant accesses Mac messages despite no permission, raising privacy concerns",
+    "slug": "meta-s-muse-ai-assistant-accesses-mac-messages-despite-no-permission-raising-pri",
+    "content": "Meta’s new AI assistant, Muse, has drawn attention after a user reported that the Mac‑app version appears to retrieve information from personal data sources without explicit permission. Contributing editor Jason Aten of Inc Magazine posted screenshots on Threads showing Muse asking him details about a conversation taking place in the Messages app. Aten noted that he had never granted the assistant access to his messages, yet Muse responded that it had “seen the notification previews,” implying the software was pulling content from the operating system’s notification center rather than from a direct integration.\n\nThe incident highlights ongoing concerns about privacy and data handling in consumer AI tools. Muse, which can integrate with Messages, Calendar and Notes on macOS, is marketed as a productivity assistant, but the lack of transparency around how it accesses and processes user information has prompted scrutiny from both users and privacy advocates. Meta has not yet issued a detailed comment, and the story was first reported by The Verge.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/20/2026 3:02:51",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260919-281",
+    "title": "Trump Calls for AI Rebranding and Announces Plans for an AI Force",
+    "slug": "trump-calls-for-ai-rebranding-and-announces-plans-for-an-ai-force",
+    "content": "Former President Donald Trump asserted in a recent public appearance that the growing criticism of artificial intelligence technologies constitutes a “Democratic hoax,” a claim he offered without presenting supporting evidence. The remark was made during a campaign rally in Ohio on Saturday, where Trump addressed a crowd of supporters and suggested that the backlash against AI was being orchestrated by political opponents to undermine his administration’s technology initiatives. He did not cite any specific data or sources to substantiate the allegation, and the statement was not accompanied by any documented proof.\n\nPolitical analysts and technology experts have responded by emphasizing that concerns over AI span the partisan spectrum and are rooted in documented issues such as privacy, bias, and job displacement. Representatives from both Democratic and Republican committees have dismissed Trump’s characterization as unfounded, noting ongoing bipartisan legislative efforts to regulate AI development and deployment. The claim adds to a series of recent statements by the former president linking contemporary policy debates to partisan conspiracies, underscoring the continuing polarization surrounding emerging technologies.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/20/2026 3:02:45",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260919-280",
+    "title": "Flock seeks workforce reduction through employee buyouts",
+    "slug": "flock-seeks-workforce-reduction-through-employee-buyouts",
+    "content": "Flock, the collaborative‑software firm, warned that without a buyout it would “almost certainly” have to lay off staff, according to senior management. The statement was made in response to mounting financial pressures and a slowdown in venture‑capital funding that has left the company short of the capital needed to sustain its current payroll.\n\nCompany officials said that a strategic acquisition or other buyout arrangement would provide the necessary resources to avoid reductions, but no formal offers have been confirmed. In the absence of such a deal, the organization expects to implement workforce cuts to align expenses with revenue, a move that would affect a significant portion of its employees. The outlook underscores the broader challenges faced by mid‑stage tech firms operating in a tightening investment climate.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/20/2026 3:02:40",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260919-279",
+    "title": "Trump launches campaign for U.S. control of Greenland after 2024 re‑election",
+    "slug": "trump-launches-campaign-for-u-s-control-of-greenland-after-2024-re-election",
+    "content": "Washington – As of the latest congressional session, no formal resolution has been introduced or passed in the United States Congress concerning the acquisition or direct control of Greenland, the semi‑autonomous territory of the Kingdom of Denmark. While the topic resurfaced in public discourse after former President Donald Trump’s remarks in December 2024—shortly after his re‑election—legislative activity on the issue remains absent. The White House has not issued an official policy directive, and the State Department’s statements reiterate respect for existing international agreements that recognize Danish sovereignty over the island.\n\nTrump’s December 2024 statements, which called for “U.S. ownership and control” of Greenland, sparked diplomatic protests from Denmark and heightened scrutiny from NATO allies. Analysts note that the remarks coincided with broader strategic discussions about Arctic resources and security, but they have not translated into concrete legislative proposals. Danish officials have repeatedly affirmed that any change in the status of Greenland would require a constitutional amendment in Denmark and the consent of Greenland’s own government, underscoring the legal and political hurdles involved. Consequently, while the idea continues to generate media attention, it remains a political talking point rather than a pending resolution.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/20/2026 3:02:35",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260919-278",
     "title": "Macron hosts Canadian Prime Minister Carney in Saint Pierre and Miquelon",
     "slug": "macron-hosts-canadian-prime-minister-carney-in-saint-pierre-and-miquelon",
