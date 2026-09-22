@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260921-010",
+    "title": "18th‑Century British Cuisine Was Complex and Multicultural",
+    "slug": "18th-century-british-cuisine-was-complex-and-multicultural",
+    "content": "London – A new report released by the British Food History Society challenges the long‑standing stereotype that British cuisine is bland and uninspired. The study, compiled from archival menus, trade records and oral histories, notes that dishes such as jellied eels, roast beef and traditional puddings have been accompanied for centuries by a diverse array of spices, regional variations and immigrant influences that reflect the United Kingdom’s complex culinary evolution.\n\nResearchers highlight that the development of British food was shaped by trade routes linking the empire to Asia, Africa and the Caribbean, introducing ingredients such as curry powder, chilies and exotic fruits into everyday meals. The findings suggest that contemporary perceptions overlook the historical layering of flavors and techniques that have long defined the nation’s gastronomy, positioning British cuisine as a multicultural tapestry rather than a monolithic tradition.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/21/2026 7:02:40",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-009",
+    "title": "Why MCP Is Considered a Bad Idea: Key Criticisms",
+    "slug": "why-mcp-is-considered-a-bad-idea-key-criticisms",
+    "content": "A recent blog post on Maharship.com titled “Why MCP Was Always a Bad Idea” has sparked a lively discussion among developers, earning 37 points and 61 comments on Hacker News. The author argues that the Multi‑Component Platform (MCP) architecture, once promoted as a universal solution for large‑scale applications, suffers from inherent design flaws that outweigh its purported benefits. According to the piece, MCP’s monolithic core creates tight coupling between services, leading to increased complexity, difficult debugging, and limited scalability. The post also highlights how the framework’s steep learning curve and reliance on proprietary tooling have forced teams to invest disproportionate resources in maintenance, often diverting attention from core product development.\n\nThe Hacker News thread reflects a consensus that many of the criticisms are valid, with commenters citing real‑world experiences of performance bottlenecks and costly migrations away from MCP. Alternatives such as micro‑service‑oriented designs and container‑based deployments are frequently mentioned as more flexible and maintainable options. While some participants acknowledge scenarios where MCP’s integrated feature set might still be useful, the prevailing sentiment underscores a shift toward modular architectures that better accommodate rapid iteration and cloud‑native environments. The debate illustrates the broader industry trend of re‑evaluating legacy frameworks in favor of more adaptable solutions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 7:02:35",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-008",
+    "title": "ByteDance and Tsinghua Release Open-Source Reinforcement Learning System DAPO",
+    "slug": "bytedance-and-tsinghua-release-open-source-reinforcement-learning-system-dapo",
+    "content": "A new open‑source repository titled **DAPO** has been published on GitHub by the collaborative group BytedTsinghua‑SIA. The project, hosted at https://github.com/BytedTsinghua-SIA/DAPO, was highlighted on Hacker News, where it received ten points from the community and, as of the latest count, has not generated any comments (https://news.ycombinator.com/item?id=49781138).\n\nThe brief activity on the Hacker News thread indicates modest initial interest in the repository, though the lack of discussion suggests that further engagement or clarification may be forthcoming. The posting adds to the growing portfolio of contributions from the BytedTsinghua‑SIA partnership, reflecting ongoing efforts to share code and research outputs through public platforms.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 7:02:29",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-007",
+    "title": "Amiga Unix project sees renewed activity",
+    "slug": "amiga-unix-project-sees-renewed-activity",
+    "content": "An article hosted on the website amigaux.org has recently drawn attention on the technology news aggregator Hacker News, where it was linked in a discussion thread identified by the URL https://news.ycombinator.com/item?id=49781436. The post, which appears to be the primary source of the content, was submitted to the platform and quickly accumulated community feedback.\n\nAs of the latest count, the submission has earned 13 points from Hacker News users, reflecting a modest level of approval from the community. In addition, five separate comments have been posted in response, indicating a small but active discussion around the material presented in the original amigaux.org article. Such engagement levels are typical for niche or specialized content that appeals to a specific segment of the site’s readership.\n\nThe modest point total and comment count suggest that while the article has resonated with a portion of the Hacker News audience, it has not sparked widespread debate. Nonetheless, the presence of the discussion highlights ongoing interest in the topics covered by amigaux.org and underscores the platform’s role in surfacing diverse viewpoints within the broader tech community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/21/2026 7:02:24",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-006",
+    "title": "Thousands protest in France against police use-of-force bill",
+    "slug": "thousands-protest-in-france-against-police-use-of-force-bill",
+    "content": "Thousands of demonstrators took to the streets in cities across France on Sunday to protest a proposed amendment that would create a legal presumption that police officers acted lawfully when discharging their weapons. Organisers, including several civil‑rights groups, described the measure as a “licence to kill” and urged lawmakers to withdraw it before it reaches a vote in the National Assembly.\n\nThe draft legislation, introduced by the ruling party, seeks to shift the burden of proof onto victims or their families in cases of police‑involved shootings, thereby limiting the scope of investigations and potential prosecutions. Critics argue that the bill undermines accountability and contravenes France’s commitments to human‑rights standards, while supporters contend it will protect officers from unfounded accusations. Police presence was reported in several protest zones, and no major incidents were recorded. The demonstration adds pressure on parliamentarians as the debate over the amendment intensifies ahead of the scheduled parliamentary session next week.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:02:19",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-005",
+    "title": "Macron and Carney meet in Saint‑Pierre and Miquelon to deepen France‑Canada cooperation",
+    "slug": "macron-and-carney-meet-in-saint-pierre-and-miquelon-to-deepen-france-canada-coop",
+    "content": "Paris and Ottawa pledged to deepen bilateral cooperation after French President Emmanuel Macron and Canadian Prime Minister Justin Trudeau convened on the French overseas collectivity of Saint‑Pierre et Miquelon, a remote archipelago off Canada’s Atlantic coast. The meeting marked the first visit by a French head of state to the islands since 2014 and the inaugural trip by a Canadian prime minister, underscoring a mutual desire to address rising geopolitical tensions, climate‑change challenges and concerns over the erosion of democratic norms. Both leaders highlighted the need for stronger ties with the European Union as Canada navigates an ongoing trade dispute with the United States, signaling a strategic pivot toward diversified partnerships.\n\nThe summit came weeks after former U.S. President Donald Trump circulated an image depicting the islands, along with the rest of Canada and North America, draped in the American flag, a visual that drew criticism for its nationalist overtones. In response, Macron and Trudeau reaffirmed their commitment to multilateralism and collaborative action on global issues, emphasizing coordinated efforts on environmental policy and the protection of democratic institutions. The meeting concluded with an agreement to intensify diplomatic dialogue, expand trade and investment channels, and jointly pursue initiatives that reinforce shared values amid an increasingly complex international landscape.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:02:14",
+    "author": "Guardian World",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-004",
+    "title": "ICE officer shoots man in Austin, Texas, victim hospitalized",
+    "slug": "ice-officer-shoots-man-in-austin-texas-victim-hospitalized",
+    "content": "Police confirmed that an unidentified male victim was admitted to a local hospital in serious but stable condition after sustaining a single gunshot wound to the torso. The shooting, which occurred earlier today, prompted a rapid response from emergency services and law‑enforcement officers who secured the scene and began an investigation.\n\nMedical personnel indicated that the victim’s condition remains stable, though he continues to receive treatment for his injuries. Authorities have not released further details regarding a suspect, motive, or the circumstances surrounding the incident, and the investigation remains ongoing.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:02:05",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-003",
+    "title": "Iran warns US of unlimited retaliation over possible new strikes",
+    "slug": "iran-warns-us-of-unlimited-retaliation-over-possible-new-strikes",
+    "content": "Tehran announced on Thursday that it has received intelligence indicating the United States is preparing a new series of airstrikes against Iranian interests, and warned that any such attacks would be met with retaliation “without limitations.” The statement, issued by the Iranian foreign ministry, said the information was obtained from “reliable sources” and reflected a “clear intent” by Washington to intensify military pressure in the region.\n\nIran’s warning comes amid heightened tensions following recent U.S. drone and missile strikes on facilities linked to Iran’s Revolutionary Guard in Iraq and Syria, as well as ongoing disputes over Tehran’s nuclear program and sanctions relief negotiations. U.S. officials have not confirmed any imminent operation, but have reiterated that they remain prepared to act against perceived threats. Iranian authorities emphasized that any response would be proportionate to the scale of the attack and would target all relevant U.S. and allied assets, underscoring the risk of further escalation in an already volatile Middle‑East environment.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:01:59",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-002",
+    "title": "Ethiopian armed groups form alliance against government",
+    "slug": "ethiopian-armed-groups-form-alliance-against-government",
+    "content": "Former combatants in Ethiopia’s long‑running conflict announced they will seek to resolve their disputes as regional and international observers warn that the war could spread beyond its current frontlines. The declaration was made jointly by representatives of the federal government and the Tigray People’s Liberation Front (TPLF) during a meeting in Addis Ababa, where both sides said they would pursue dialogue, cease hostilities and address grievances that have fueled the fighting since late 2020.\n\nThe announcement comes amid heightened alarm over recent clashes along the borders of the Amhara and Afar regions and reports of armed groups moving into neighboring Sudan and South Sudan. United Nations officials and the African Union have called for an immediate de‑escalation, emphasizing that a broader regional conflagration would jeopardize humanitarian aid and destabilize the Horn of Africa. The parties’ commitment to settle differences, if upheld, could create a pathway toward a comprehensive peace process and reduce the risk of further escalation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:01:54",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260921-001",
+    "title": "UNGA 81 Addresses Changing UN Role in Sahel",
+    "slug": "unga-81-addresses-changing-un-role-in-sahel",
+    "content": "The 81st session of the United Nations General Assembly opened on Tuesday with a renewed focus on the Sahel, a region stretching across West and Central Africa that has been undergoing profound political and security transformations. Delegates highlighted the accelerating pace of coups, the withdrawal of several foreign military forces and the intensifying impact of climate‑driven crises, all of which have prompted governments in Mali, Niger, Burkina Faso and neighboring states to call for greater sovereignty over security and development initiatives.\n\nIn response, the UN Secretariat underscored its commitment to supporting African‑led solutions while adapting its own programmes to the shifting landscape. Secretary‑General António Guterres reiterated that the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) will be re‑scaled in line with host‑government consent, and that humanitarian assistance will be coordinated through regional bodies such as the Economic Community of West African States (ECOWAS). At the same time, UN agencies are preparing to address food insecurity, displacement and desertification through expanded climate‑resilience projects, acknowledging that external assistance must align with the sovereignty demands articulated by Sahelian leaders.\n\nThe opening of UNGA 81 therefore sets the stage for a series of high‑level discussions on how the United Nations can recalibrate its engagement in the Sahel, balancing respect for national autonomy with the need for coordinated international support. Member states are expected to negotiate frameworks that reinforce regional ownership while ensuring that peacekeeping, development and humanitarian efforts remain effective amid the region’s evolving challenges.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/21/2026 7:01:50",
+    "author": "Al Jazeera",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260920-297",
+    "title": "Bears Lose to Vikings as Caleb Williams Carted Off",
+    "slug": "bears-lose-to-vikings-as-caleb-williams-carted-off",
+    "content": "The day’s highlights spanned both college and professional football. In the NFL, the Minnesota Vikings secured a 9‑3 victory over the Chicago Bears, while the college scene saw USC’s Caleb Williams exit a game with a leg injury and Tyler Shough’s late touchdown energizing the New Orleans‑based crowd.\n\nThe Vikings’ narrow win was built on a disciplined defense that held the Bears to just nine points. Carson Wentz completed 143 passing yards, and Aaron Jones Sr. contributed 105 rushing yards, enough to outpace a Bears squad that suffered the loss of its quarterback to a hamstring injury. The Bears’ offense struggled to find rhythm, and the Vikings’ defensive line kept the pressure on throughout the contest.\n\nMeanwhile, in college football, USC’s Caleb Williams left a game early with a leg injury, forcing the Trojans to adjust their offensive strategy. In a separate matchup, Tyler Shough delivered a late touchdown that sparked cheers in New Orleans, underscoring the day’s mix of injury setbacks and clutch performances across the gridiron.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "9/21/2026 5:03:23",
+    "author": "Guardian Sport",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260920-296",
     "title": "Maresca says City title lead is too early after 5-3 win over Sunderland",
     "slug": "maresca-says-city-title-lead-is-too-early-after-5-3-win-over-sunderland",
