@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260923-289",
+    "title": "28% of job postings on company career sites have been open over 90 days",
+    "slug": "28-of-job-postings-on-company-career-sites-have-been-open-over-90-days",
+    "content": "A new report on “ghost jobs” was released in September 2026 on an unlisted careers platform, drawing attention from the tech community. The document, titled *Ghost Jobs Report 2026‑09*, claims that roughly 12 % of job postings across major online boards are either fake, duplicated, or no longer active. It also identifies the most common industries affected—technology, finance, and marketing—and notes a rising trend in automated posting tools that generate these listings.\n\nThe report was compiled by scraping over 500,000 job ads from sites such as LinkedIn, Indeed, and niche industry boards. After cross‑checking each listing against company websites and direct employer contact, the authors flagged 62,400 entries as invalid. They argue that these “ghost jobs” inflate applicant numbers, distort hiring metrics, and waste job seekers’ time. The findings sparked a lively discussion on Hacker News (post ID 49818698), where the thread accumulated 74 points and 84 comments, with users debating verification methods and the role of job boards in policing listings.\n\nIndustry observers note that the report highlights a gap in current hiring practices and suggests that employers and platforms adopt stricter validation protocols. While the study has not yet prompted regulatory action, it has increased awareness of the prevalence of fraudulent or outdated job ads and may influence future policy discussions on transparency in online recruitment.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:28",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-286",
+    "title": "YouTube Introduces Custom Feeds for Personalized Front Page",
+    "slug": "youtube-introduces-custom-feeds-for-personalized-front-page",
+    "content": "YouTube has rolled out a new feature that lets users fine‑tune the content shown on their home feed, allowing them to curate the algorithm’s recommendations to match a particular “vibe.” The update, announced in a company blog post on September 12, gives subscribers the ability to select mood‑based filters—such as “Relax,” “Workout,” or “News”—which the platform’s recommendation engine will then prioritize when populating the front page. Users can adjust these settings through a new panel in the app’s settings menu, and the changes take effect immediately, reshaping the mix of videos that appear in the feed.\n\nThe tweak builds on YouTube’s long‑standing focus on personalization, which has traditionally relied on viewing history, likes, and watch time to surface content. By adding a mood dimension, the company aims to give viewers more control over the tone of their browsing experience, while still maintaining the algorithm’s core relevance metrics. Early beta testers reported that the new filters helped surface more contextually appropriate videos, and YouTube said it will monitor engagement data to refine the algorithm’s response to these user‑defined preferences.\n\nIndustry analysts see the update as part of a broader trend toward user‑centric curation on streaming platforms, where audiences increasingly demand that recommendation engines align with their current interests and emotional states. While the feature is currently available only in select regions, YouTube plans a global rollout over the next few weeks. The company has indicated that it will continue to experiment with additional mood categories and may integrate the system with its existing “Explore” and “Trending” tabs in future releases.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:21",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-285",
+    "title": "Discord introduces automatic age estimation for users worldwide (excluding Australia and UK)",
+    "slug": "discord-introduces-automatic-age-estimation-for-users-worldwide-excluding-austra",
+    "content": "Discord has launched a new global age‑assurance system that will take effect today in every country except Australia and the United Kingdom. The platform will automatically place users into an estimated age group using “multiple account signals,” and will impose restrictions on accounts that the system deems to belong to individuals aged 13 to 17. The change follows Discord’s decision in February to halt its earlier age‑verification rollout, which had required adults to submit video selfies or government ID documents and drew criticism over data‑privacy concerns.\n\nThe new approach replaces the more intrusive verification process with a less burdensome, algorithmic method that relies on existing account data. By doing so, Discord aims to balance compliance with age‑restriction laws while addressing user privacy. The update is part of the company’s broader effort to refine its moderation tools and protect younger users on its platform.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:16",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-284",
+    "title": "YouTube Updates AI Creator Tools to Simplify Content Creation",
+    "slug": "youtube-updates-ai-creator-tools-to-simplify-content-creation",
+    "content": "YouTube announced a new wave of AI‑powered creator tools at its annual Made on YouTube event, expanding the platform’s suite of resources that help creators grow their audiences. The company has been moving from a “crack the algorithm” mindset to a more prescriptive approach, offering creators step‑by‑step guidance on how to optimize their content. The updated dashboard builds on the 2025 release, which introduced features such as A/B testing for video thumbnails and a chatbot that answers questions about channel performance.\n\nThis year’s update adds several advanced AI capabilities designed to streamline more complex production tasks. Creators can now use machine‑learning models to generate script outlines, suggest editing cues, and even preview how changes might affect viewer engagement before publishing. The tools also incorporate predictive analytics that flag potential copyright issues and recommend monetization strategies tailored to a channel’s niche. By integrating these features into a single dashboard, YouTube aims to reduce the time creators spend on technical experimentation and free them to focus on creative work.\n\nThe rollout signals a broader shift toward AI‑driven content creation support, positioning YouTube as a platform that not only hosts videos but actively assists creators in navigating the algorithm. As the tools become more sophisticated, the company hopes to lower barriers for emerging creators while giving established channels deeper insights into audience behavior. The Verge will cover the full details of the new features and their expected impact on the creator ecosystem.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:12",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-283",
+    "title": "Una Watch Drops to $199, Offers Modular, Repairable GPS Sports Features",
+    "slug": "una-watch-drops-to-199-offers-modular-repairable-gps-sports-features",
+    "content": "The Una Watch, now priced at $199 after a recent drop from its original $350 Kickstarter offer, has drawn attention for its modular, repair‑friendly design and competitive specs. The device features a 1.2‑inch MIP LCD display and up to ten days of battery life, positioning it alongside Garmin’s Forerunner 70 and the Pebble Round 2 that many early adopters have already ordered.\n\nUnlike Pebble’s newer models, the Una Watch comes with a fully open‑source ecosystem—including its SDK, housing, and circuit boards—allowing users to develop and deploy their own applications. The watch already offers a broader set of fitness features out of the box than Pebble’s current lineup, and it encourages developers to create custom apps, even incorporating “vibe coding” for haptic feedback. This blend of affordability, modularity, and developer support makes the Una Watch a noteworthy contender in the growing market for customizable wearable technology.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:08",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-282",
+    "title": "Metroid Prime Remastered Digital Now 30% Off on Switch",
+    "slug": "metroid-prime-remastered-digital-now-30-off-on-switch",
+    "content": "Nintendo’s “Customer Appreciation” sale is running through September 26, offering discounts on Switch titles and accessories. Among the highlighted deals is *Metroid Prime Remastered*, now available for $27.99 in digital format on the Switch and Switch 2, down from its original price. Physical copies retail for about $42 at major retailers such as Amazon, Best Buy, and Walmart. The same price point is also available for the *Metroid Prime 1‑3: A Visual Retrospective* hardcover, which has been discounted to $28.50 at Amazon and Walmart.\n\nThe remastered version updates the 2002 GameCube classic with improved textures, lighting, and a smooth frame rate while retaining the original control scheme—no motion controls are required. The accompanying art book offers a 208‑page look at the trilogy’s design and development, making it a suitable gift for fans. Additional deals in the sale include a $4.99 digital copy of the animated film *Flow*, a $15.99 Anker 2‑in‑1 USB‑C cable, and a $149.99 white Magic Keyboard with Touch ID for Apple silicon Macs.\n\nWith the sale ending on September 26, consumers can take advantage of these reduced prices before the promotions expire. Digital copies of *Metroid Prime Remastered* can be purchased directly from Amazon, Best Buy, or Walmart, while the physical edition is also available at those retailers. The discounted price points on both the game and related accessories provide a timely opportunity for Switch owners and Nintendo enthusiasts to upgrade their libraries.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:52:03",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-281",
+    "title": "Xbox Introduces Mythic Achievements, Echoing PlayStation Platinum Trophies",
+    "slug": "xbox-introduces-mythic-achievements-echoing-playstation-platinum-trophies",
+    "content": "Xbox has announced a new feature that mirrors PlayStation’s platinum trophy system, calling it “Mythic Achievements.” The update to the Xbox PC app indicates that Mythic Achievements will unlock when a player completes every achievement in a game, and they will be highlighted on screen with a distinctive sound cue. Users will be able to track these completions through the Xbox dashboard and display their Mythic count on their profiles, providing a clear visual record of their in‑game mastery.\n\nEarly reports from Xbox Insider testers suggest that references to Mythic Achievements have already appeared in preliminary versions of the dashboard, hinting at a broader rollout. The feature’s integration into the PC app implies that it will be accessible across multiple platforms, offering a unified experience for players who wish to showcase their full completion status. The exact release window remains unconfirmed, but the update signals Xbox’s intent to expand its achievement ecosystem.\n\nIf adopted widely, Mythic Achievements could become a new benchmark for players seeking to demonstrate comprehensive engagement with a title. By aligning with a familiar concept from competing consoles, Xbox aims to enhance competitive bragging rights and encourage deeper exploration of its game library. The feature’s success will likely depend on its visibility within the community and the ease with which players can track and display their completions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:51:59",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-280",
+    "title": "Logitech Launches X3 Superstrike Gaming Mouse for $199.99",
+    "slug": "logitech-launches-x3-superstrike-gaming-mouse-for-199-99",
+    "content": "Logitech has announced the release of its latest gaming mouse, the G Pro X3 Superstrike, which will hit the market on October 6th for $199.99. The new model follows the G Pro X2 Superstrike, which debuted in February with a focus on haptic actuators under its main buttons instead of traditional mechanical switches. The haptic technology reduces latency and allows users to customize the click feel, ranging from subtle to jolty or even disabling the click entirely.\n\nThe G Pro X3 arrives in two color options—bold pink and black—and retains the same core design as its predecessor while offering incremental improvements. Pricing remains competitive, with the X3 positioned at $199.99 and the X2 continuing to be available for $179.99. The updated model is marketed as a 1.5‑generation successor rather than a full redesign, providing a familiar form factor with refined haptic performance.\n\nWith the launch of the G Pro X3, Logitech expands its Superstrike lineup, offering gamers a choice between two distinct price points and color schemes. The product’s emphasis on haptic feedback and low latency positions it as a noteworthy option for players seeking a responsive and customizable input device.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:51:54",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-279",
+    "title": "Logitech Releases Blue Yeti 2 Microphone with AI Noise Reduction",
+    "slug": "logitech-releases-blue-yeti-2-microphone-with-ai-noise-reduction",
+    "content": "Logitech G has unveiled the Blue Yeti 2, the successor to its long‑running Blue Yeti USB microphone that has been a staple for content creators since 2009. The new model introduces a series of modern upgrades, most notably an interactive LED display that features the Yeti mascot, AI‑powered de‑noising, and a proximity‑based voice sensor that addresses a design flaw in the original microphone. These enhancements aim to improve user experience by providing real‑time visual feedback and reducing background noise.\n\nThe Blue Yeti 2 is offered in black or white and retails for $159.99, positioning it as a more affordable option compared to competitors such as Shure’s MV7 series, which starts at $299. The price point, combined with the added features, makes the Yeti 2 an attractive choice for podcasters and creators seeking a balance of performance and cost. Logitech G’s release underscores the brand’s commitment to evolving its audio products while maintaining the iconic Yeti identity.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:51:50",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-278",
+    "title": "Sanders and Casar introduce bill to ban artificial superintelligence development",
+    "slug": "sanders-and-casar-introduce-bill-to-ban-artificial-superintelligence-development",
+    "content": "Senate Majority Leader Bernie Sanders (I‑VT) and Representative Greg Casar (D‑TX) have introduced the Ban Artificial Superintelligence Act, a bill that would prohibit the development of artificial superintelligence—defined by the proposal as a system capable of “destruction or disempowerment of humanity,” including the potential to overthrow government.  Under the measure, any AI leader who violates the ban could face up to 20 years in prison.  \n\nThe legislation does more than target the most powerful form of AI.  It also calls for a pause on the creation of advanced AI systems, and would require a review of any ongoing projects that might cross the threshold into superintelligence.  The bill comes amid President Donald Trump’s recent statement that the United States will use the term “superintelligence” in official documents in place of “AI,” underscoring the growing concern among lawmakers about the rapid pace of AI development.  \n\nIf passed, the Ban Artificial Superintelligence Act would represent a significant regulatory shift, marking the first federal effort to curb the creation of AI systems that could pose existential risks.  The proposal remains in the early stages, with its future depending on congressional debate and the broader national conversation about the balance between innovation and safety.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/23/2026 23:51:45",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260923-277",
     "title": "America Loses Rare Earth Edge to China",
     "slug": "america-loses-rare-earth-edge-to-china",
@@ -5387,116 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/22/2026 23:02:47",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-243",
-    "title": "EU Grapples with Record Fuel Prices Amid Middle East Conflict",
-    "slug": "eu-grapples-with-record-fuel-prices-amid-middle-east-conflict",
-    "content": "Fuel prices across Europe have surged to record levels in recent days, a sharp rise that mirrors the steep climb in global oil prices triggered by the war in the Middle East and Ukrainian attacks on Russian refineries. The combination of supply disruptions and geopolitical tension has tightened the global oil market, pushing benchmark prices higher and forcing European fuel markets to adjust rapidly.\n\nThe extent of the price hikes and the policy responses differ markedly between countries. Nations that rely heavily on Russian crude, such as Poland and the Baltic states, have seen the largest increases and have introduced temporary fuel tax cuts or subsidies to cushion consumers. In contrast, the United Kingdom and Germany, where domestic refining capacity is greater and fuel taxes are lower, have experienced more modest rises and have opted for targeted price caps on diesel and gasoline. France and Italy, with higher fuel taxes, have implemented temporary tax reductions and increased fuel subsidies, while Spain has focused on expanding fuel supply routes and boosting domestic refining output to mitigate price pressure. These varied measures reflect each country’s fiscal policy framework, energy mix, and the urgency of protecting vulnerable households and transport sectors.\n\nOverall, the European fuel price surge underscores how intertwined global supply chains and regional policy tools are in shaping market outcomes. While the war in the Middle East and Ukrainian strikes have created a common shock, the diverse policy responses illustrate the different priorities and economic structures of European nations in addressing the immediate impact on consumers and the broader economy.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:39",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-242",
-    "title": "Trump Urges Nations to Leave ICC, Blames Iran War for Preventing Nuclear Weapon",
-    "slug": "trump-urges-nations-to-leave-icc-blames-iran-war-for-preventing-nuclear-weapon",
-    "content": "President Donald Trump delivered a speech on Tuesday in which he urged all member states of the International Criminal Court (ICC) to leave the organization, describing it as “out of control.”  Trump also addressed the ongoing conflict with Iran, asserting that the war has prevented Tehran from acquiring a nuclear weapon.  He warned that, should a diplomatic settlement not be reached, he could “annihilate the Islamic Republic,” implying a potential escalation of military action.\n\nThe remarks came amid heightened tensions between the United States and Iran, with Trump emphasizing the U.S. stance that the current hostilities serve as a deterrent against Iran’s nuclear ambitions.  His call for ICC members to exit the body reflects a broader critique of the court’s perceived overreach and influence on U.S. foreign policy.  The speech was widely reported and sparked discussion among policymakers and international observers about the implications for both the ICC and U.S.–Iran relations.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:34",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-241",
-    "title": "Trump Says He Will Decide on Iran After US Midterms",
-    "slug": "trump-says-he-will-decide-on-iran-after-us-midterms",
-    "content": "Former U.S. President Donald Trump addressed the United Nations General Assembly on Tuesday, warning that he would have to decide whether to “annihilate” Iran if Tehran failed to reach a deal to end the war in the Middle East. Speaking as a former president, Trump said the United States would consider military options if diplomatic efforts stalled, framing the situation as a potential escalation in an already volatile region.\n\nTrump added that he believes a resolution is possible after the U.S. midterm elections in November, implying that a change in domestic politics could influence the country’s approach to Iran. The remarks came amid ongoing tensions between Iran and its regional rivals, as well as U.S. concerns over Iranian missile and drone capabilities. While the statement drew attention from policymakers and analysts, no immediate policy shift was announced.\n\nThe speech was noted by UN officials and observers, who highlighted that Trump’s comments reflect a broader debate over U.S. strategy toward Iran. As the General Assembly concluded its session, the United States has yet to announce any concrete action in response to the former president’s warning.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:28",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-240",
-    "title": "Trump defends Iran policy, opposes AI regulation and urges ICC resignations at UNGA",
-    "slug": "trump-defends-iran-policy-opposes-ai-regulation-and-urges-icc-resignations-at-un",
-    "content": "On Tuesday at the United Nations General Assembly, former U.S. President Donald Trump delivered a robust defense of the U.S.-Israeli military campaign against Iran, describing it as a necessary response to Tehran’s hostile posture. He asserted that Washington would negotiate a settlement with Iran after the forthcoming U.S. mid‑term elections, suggesting that diplomatic engagement would follow the conflict. Trump also addressed a range of unrelated topics, dismissing calls for global regulation of artificial intelligence and predicting that the Cuban government would soon collapse.\n\nDuring the same address, Trump urged members of the International Criminal Court to resign, framing the court’s authority as illegitimate. His remarks were part of a broader effort to challenge international institutions and highlight his perspective on U.S. foreign policy. The speech was delivered amid heightened tensions in the Middle East and growing debate over the U.S. role in regional security.\n\nThe statements were met with a mix of criticism and support from various diplomatic circles. While some observers noted the alignment of Trump’s positions with certain U.S. policy factions, others highlighted the controversial nature of his claims regarding the Cuban regime and the ICC. The U.N. General Assembly concluded the session without a formal response to the former president’s assertions.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:22",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-239",
-    "title": "Nepal seeks climate justice and compensation after August floods",
-    "slug": "nepal-seeks-climate-justice-and-compensation-after-august-floods",
-    "content": "Kathmandu’s environment ministry has formally requested compensation from the United Nations‑backed Loss and Damage Fund, citing the catastrophic floods that struck Nepal in August. Environment Minister Geeta Chaudhary told Deutsche Welle that the country is still grappling with widespread destruction of homes, infrastructure and agricultural land, and that the financial assistance is essential for rebuilding and for addressing the broader climate‑related vulnerabilities exposed by the disaster.\n\nThe appeal aligns with a growing global push for climate justice, as nations most affected by extreme weather events seek support from the newly established fund, which is intended to help vulnerable states recover from loss and damage that cannot be mitigated through adaptation alone. Nepal’s request underscores the urgency of operationalising the fund’s mechanisms and highlights the need for swift international cooperation to aid communities still reeling from the August floods.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:16",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-238",
-    "title": "Trump proposes AI task force and envoy to address China competition",
-    "slug": "trump-proposes-ai-task-force-and-envoy-to-address-china-competition",
-    "content": "Washington has established a new artificial‑intelligence task force under former President Donald Trump’s administration and appointed a special envoy to oversee AI policy, signaling a coordinated federal effort to address the rapidly evolving technology. The task force, composed of senior officials from the Department of Commerce, the National Security Council and the Office of Science and Technology Policy, is charged with reviewing AI development, export controls and national‑security implications. The envoy, a senior diplomat with a background in technology and trade, will serve as the primary liaison between U.S. agencies, industry stakeholders and foreign partners, focusing on aligning domestic AI strategies with broader geopolitical objectives.\n\nAnalysts note that the timing of these moves coincides with growing concerns over China’s advancements in generative AI and related fields, prompting the United States to consider more stringent regulatory frameworks. While no specific legislation has been announced, the task force is expected to draft recommendations on data governance, intellectual‑property protections and export restrictions that could shape future policy. The establishment of the envoy role further underscores a strategic intent to coordinate international dialogue and potentially curb the transfer of critical AI capabilities to adversarial nations, marking a notable shift toward more proactive oversight of the technology.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:08",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-237",
-    "title": "F-16 crashes near Spangdahlem Air Base in Germany",
-    "slug": "f-16-crashes-near-spangdahlem-air-base-in-germany",
-    "content": "A United States Air Force F‑16 fighter jet experienced a malfunction near Spangdahlem Air Base in the German state of Rhineland‑Palatinate, prompting the pilot to initiate an emergency ejection. The aircraft descended over the training area before the pilot successfully exited the cockpit and deployed his parachute, landing safely in the vicinity of the base.\n\nEmergency responders arrived promptly, and the pilot was retrieved and transported to a medical facility for evaluation and treatment. No injuries were reported beyond those associated with the ejection, and authorities are conducting an investigation to determine the cause of the incident. The event underscores the ongoing safety protocols in place for NATO‑aligned air operations conducted from the Spangdahlem installation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:02:02",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-236",
-    "title": "UNHCR says displacement rising in Yemen as fighting escalates",
-    "slug": "unhcr-says-displacement-rising-in-yemen-as-fighting-escalates",
-    "content": "Hostilities in Yemen have escalated further, prompting the United Nations Refugee Agency (UNHCR) to warn on Tuesday that an increasing number of people are fleeing their homes, deepening an already severe humanitarian crisis in the region. The agency highlighted that intensified fighting between the Houthi movement and government-aligned forces has disrupted civilian life across several governorates, forcing families to abandon their homes in search of safety.\n\nUNHCR estimates that more than 4 million Yemenis are now internally displaced, with an additional 2 million seeking refuge in neighboring countries such as Saudi Arabia and Oman. The surge in displacement has strained the limited capacity of humanitarian organizations, which report shortages of shelter, food, clean water, and medical supplies. Access constraints, including damaged infrastructure and ongoing security risks, have hampered aid deliveries to the most affected areas, raising concerns about the potential for disease outbreaks and heightened vulnerability among women, children, and the elderly.\n\nThe agency urged the international community to expand funding and to support safe corridors for aid distribution, emphasizing that without immediate assistance the humanitarian situation could deteriorate further. UNHCR called on all parties to the conflict to respect international humanitarian law and to facilitate the safe return of displaced populations once hostilities subside.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 23:01:57",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-235",
-    "title": "Millions of children attend schools lacking clean water and functional toilets",
-    "slug": "millions-of-children-attend-schools-lacking-clean-water-and-functional-toilets",
-    "content": "The new academic year has begun for millions of students worldwide, yet a substantial share of schools still cannot guarantee the most basic hygiene standards. UNICEF estimates that more than 663 million children attend institutions where drinking water is unsafe, toilets are non‑functional, and hand‑washing facilities are absent, exposing them to preventable illnesses and undermining learning outcomes.\n\nIn schools lacking safe water, children are forced to rely on contaminated sources, increasing the risk of diarrheal diseases that account for a significant proportion of absenteeism. Inadequate sanitation disproportionately affects girls, who may miss classes during menstruation due to insufficient toilet privacy and hygiene supplies. The deficiency also hampers broader public‑health goals, as schools are pivotal sites for disease transmission and health education. Despite international commitments such as the Sustainable Development Goal 6, progress remains uneven, with low‑income regions reporting the highest gaps in water, sanitation, and hygiene (WASH) services.\n\nAddressing these deficiencies will require coordinated investment from governments, donors, and the private sector to upgrade infrastructure, train staff, and ensure reliable maintenance. Strengthening WASH provisions in schools is essential not only for protecting children’s health but also for sustaining attendance and educational achievement as the new school year unfolds.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 22:53:40",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-234",
-    "title": "UN chief warns of four global challenges shaping future cooperation",
-    "slug": "un-chief-warns-of-four-global-challenges-shaping-future-cooperation",
-    "content": "The United Nations Secretary‑General António Guterres warned the General Assembly on Tuesday that humanity is confronting four defining “tests of power” that will shape the planet’s trajectory. He identified the challenges as the balance between war and peace, rising inequality, the accelerating climate crisis, and the rapid development of artificial intelligence, noting that the world’s response will determine whether a new era of cooperation emerges or deeper division takes hold.\n\nGuterres outlined each test: ongoing armed conflicts and fragile peace processes risk destabilising regions; widening economic and social gaps threaten social cohesion and inclusive growth; unchecked greenhouse‑gas emissions and extreme weather events intensify pressure on vulnerable populations; and the unchecked deployment of AI raises concerns about governance, ethics, and security. He emphasized that these issues are interlinked, with progress—or setbacks—in one area influencing the others, and called for coordinated multilateral action to address them comprehensively.\n\nIn concluding his remarks, the Secretary‑General urged member states to translate the Assembly’s commitments into concrete policies, strengthen international institutions, and foster collaborative frameworks that can manage these pivotal challenges. He stressed that the collective ability to meet the four tests will define the global order for generations to come.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/22/2026 22:53:34",
-    "author": "UN News",
     "isFeatured": false
   }
 ]
