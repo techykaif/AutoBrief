@@ -1,5 +1,137 @@
 [
   {
+    "id": "BLOG-20260923-446",
+    "title": "MSK Researchers Identify Structural Weakness in Rogue DNA Linked to Aggressive Cancers",
+    "slug": "msk-researchers-identify-structural-weakness-in-rogue-dna-linked-to-aggressive-c",
+    "content": "Researchers at Memorial Sloan Kettering Cancer Center (MSK) and their colleagues have identified a hidden structural weakness in a type of rogue DNA present in aggressive cancers. They found that this DNA relies on two proteins to prevent and repair breaks, and that blocking a single repair protein can cause the structure to fall apart.\n\nThis discovery suggests a new therapeutic opportunity for treating aggressive cancers by targeting the specific proteins responsible for maintaining the integrity of this rogue DNA.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/24/2026 3:32:45",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-445",
+    "title": "High-fat diets suppress enzyme in immune cells to promote fat inflammation",
+    "slug": "high-fat-diets-suppress-enzyme-in-immune-cells-to-promote-fat-inflammation",
+    "content": "A group of innate immune cells called group 2 lymphoid cells (ILC2) are essential for maintaining a stable metabolism in adipose tissue. Obesity significantly impairs the number and function of these cells, which leads to the progression of metabolism-related inflammation.\n\nUntil now, it was unknown how ILC2 cells are disrupted in obesity.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/24/2026 3:32:41",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-442",
+    "title": "Texas A&M study identifies cellular stress-protection system in tumor cells",
+    "slug": "texas-a-m-study-identifies-cellular-stress-protection-system-in-tumor-cells",
+    "content": "A new study from Texas A&M University has identified a cellular stress-protection system that may enable tumors to withstand chemotherapy. While many cancer treatments function by exploiting weaknesses in tumor cells to overwhelm their ability to survive, repair damage, or continue growing, some cancer cells manage to survive these therapeutic interventions.\n\nThe research sheds light on one reason for this treatment resistance, revealing that certain cancer cells possess a specific survival toolkit. This toolkit allows them to endure the stresses induced by chemotherapy, highlighting a potential mechanism for tumor persistence.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/24/2026 3:32:34",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-439",
+    "title": "Shorter, gentler exercise programs may ease pain more than tougher workouts",
+    "slug": "shorter-gentler-exercise-programs-may-ease-pain-more-than-tougher-workouts",
+    "content": "New research from Adelaide University, published in PAIN Reports, suggests that exercise can be an effective method for alleviating pain symptoms associated with conditions ranging from osteoarthritis to migraines. The study indicates that shorter and gentler exercise programs may provide greater pain relief than more rigorous workouts, offering a potential solution for individuals who find intense physical activity daunting when managing pain.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/24/2026 3:32:27",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-437",
+    "title": "McDonald's Launches Media Network Following Amazon and Walmart",
+    "slug": "mcdonald-s-launches-media-network-following-amazon-and-walmart",
+    "content": "McDonald's is entering the advertising sector by launching its own media network, a strategic move that aligns it with major retail competitors. The fast-food chain is adopting a similar business model to that of Amazon and Walmart, both of which have expanded their operations into the media and advertising industries.\n\nThis development marks McDonald's as the latest major brand to diversify its revenue streams through digital media assets. By establishing this network, the company joins the ranks of Amazon and Walmart in leveraging its customer base for advertising purposes.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/24/2026 3:32:22",
+    "author": "CNBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-435",
+    "title": "Bentley unveils its first fully electric car",
+    "slug": "bentley-unveils-its-first-fully-electric-car",
+    "content": "Bentley has unveiled its first fully electric car, marking a significant shift in the luxury automaker's product lineup. The new electric SUVs are scheduled to be manufactured on a dedicated production line located in Crewe, a facility that has served as Bentley's operational base since 1946. This integration of electric vehicle production into the company's long-standing manufacturing site underscores the brand's commitment to expanding its electric offerings.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/24/2026 3:32:16",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-434",
+    "title": "Barrecore and Boom Cycle Owner Common Bond Closes Studios",
+    "slug": "barrecore-and-boom-cycle-owner-common-bond-closes-studios",
+    "content": "Common Bond, the owner of the Barrecore and Boom Cycle studio chains, has abruptly closed its locations. The company notified customers via email that the studios are shut down \"until further notice.\"",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/24/2026 3:32:12",
+    "author": "BBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-432",
+    "title": "Cooling investments in apparel factories can pay for themselves, study shows",
+    "slug": "cooling-investments-in-apparel-factories-can-pay-for-themselves-study-shows",
+    "content": "New research from Cornell University's Global Labor Institute (GLI) indicates that investing in cooling systems for Bangladesh's apparel factories is commercially viable. The study found that these investments have an average payback period ranging from one to four years.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/24/2026 3:32:07",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-431",
+    "title": "Centromere study reveals ancient genome function persists despite frequent mutations",
+    "slug": "centromere-study-reveals-ancient-genome-function-persists-despite-frequent-mutat",
+    "content": "A new study on centromeres reveals that ancient genome functions persist despite frequent mutations. The centromere is a specialized region of the chromosome that serves as the attachment site for the cellular machinery responsible for pulling chromosomes apart.\n\nThis structure is central to the process where chromosomes are distributed correctly between two daughter cells every time a cell divides. The findings highlight the stability of this essential genomic function even in the presence of frequent mutations.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/24/2026 3:32:04",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-429",
+    "title": "Evolved enzymes produce tuberculosis antibiotic ingredient to reduce manufacturing waste",
+    "slug": "evolved-enzymes-produce-tuberculosis-antibiotic-ingredient-to-reduce-manufacturi",
+    "content": "Tuberculosis, a contagious bacterial infection that primarily affects the lungs, presents significant challenges in low- and middle-income nations where more than 80% of cases occur. In these regions, the rise of drug-resistant strains and the financial burden of medications complicate treatment efforts. Although a new class of antibiotics has demonstrated promise against multidrug- and extensively drug-resistant TB, the high manufacturing costs associated with these drugs remain a major barrier to access in the poorer countries that require them most.\n\nThe development of evolved enzymes capable of building the tuberculosis antibiotic ingredient in the desired form offers a potential solution to this manufacturing hurdle. By optimizing the production process, this approach could reduce waste and lower costs, thereby improving the availability of these critical treatments for populations in low- and middle-income nations.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/24/2026 3:31:57",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-428",
+    "title": "ChatGPT Misstates Biden's Candidacy Ahead of 2024 Election",
+    "slug": "chatgpt-misstates-biden-s-candidacy-ahead-of-2024-election",
+    "content": "On October 25, 2024, ten days before the presidential election, ChatGPT was still telling users that Joe Biden was running for a second term as president. The statement was made at a time when the election was poised to return Republican Donald Trump to the White House.  \n\nThe election had already seen Kamala Harris ascend to the top of the Democratic ticket more than three months earlier. Despite that development, the AI continued to provide the outdated information about Biden’s candidacy.  \n\nOn October 25, 2024, ChatGPT incorrectly claimed that Joe Biden was running for a second term, ten days before the election that would return Donald Trump to the White House and after Harris had become the Democratic ticket’s top candidate.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/24/2026 3:31:53",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260923-427",
+    "title": "Graphene study finds energy-loss and quantum-coherence exponents diverge with gate control",
+    "slug": "graphene-study-finds-energy-loss-and-quantum-coherence-exponents-diverge-with-ga",
+    "content": "Scientists have shown that the two exponents commonly used to describe electron scattering in graphene—the inelastic scattering exponent and the dephasing exponent—do not necessarily follow the same behavior. The finding comes from a multi‑institutional team that investigated gated epitaxial graphene.\n\nThe researchers independently extracted the two exponents using current‑heating measurements and weak‑localization analysis, observing a contrasting dependence on gate voltage. This contrasting gate‑voltage dependence provides evidence that energy relaxation and loss of quantum phase coherence can be governed by different microscopic processes.\n\nThe study demonstrates that the inelastic scattering exponent and the dephasing exponent in graphene can diverge under gate control.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/24/2026 3:31:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260923-425",
     "title": "Brazil Election Seen As Choice Between Lula And Flávio Bolsonaro",
     "slug": "brazil-election-seen-as-choice-between-lula-and-fl-vio-bolsonaro",
@@ -5365,138 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "9/22/2026 23:33:17",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-308",
-    "title": "Trump Meets Britain’s New PM Burnham, Praises Country’s Potential",
-    "slug": "trump-meets-britain-s-new-pm-burnham-praises-country-s-potential",
-    "content": "President Donald J. Trump met with Britain’s newly elected prime minister, Andy Burnham, in Washington for the first time since Burnham took office in July. The meeting, held at the White House, was part of a broader diplomatic outreach by the U.S. administration to engage with the UK’s new leadership. Burnham, a left‑leaning member of the Labour Party, is the first Labour prime minister to hold a formal audience with the president since the United Kingdom’s 2019 election.\n\nThe encounter came after the British head of state, King Charles III, publicly criticized Trump’s conduct following the Jan. 6, 2021 attacks on the U.S. Capitol. In the meeting, Burnham emphasized the importance of continued cooperation on security, trade and climate policy, while acknowledging the need to address differences in approach. The discussion also touched on the UK’s support for U.S. initiatives in the Indo‑Pacific region and the ongoing effort to strengthen the trans‑Atlantic alliance.\n\nThe meeting signals a potential shift in U.S.–UK relations, with both leaders expressing a willingness",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/22/2026 23:33:11",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-307",
-    "title": "Pentagon to introduce battlefield test for general officer promotions",
-    "slug": "pentagon-to-introduce-battlefield-test-for-general-officer-promotions",
-    "content": "The Pentagon announced a revision to the promotion pathway that leads to the rank of general, aiming to “cut bureaucracy and demand true meritocracy” across senior ranks. Defense Secretary Pete Hegseth revealed the change in a video posted to X on Tuesday, stating that the Department of Defense will roll out the Joint Promotion Process this year. The new system is intended to streamline decision‑making, reduce administrative layers, and place greater emphasis on performance metrics and mission accomplishments.\n\nUnder the revised framework, senior officers will be evaluated through a more transparent set of criteria, with a focus on measurable results rather than tenure or traditional patronage. The Department said the process will be implemented across all services, and that it will be subject to periodic review to ensure it remains aligned with the goal of merit‑based advancement. The initiative is part of a broader effort to modernize the military’s leadership pipeline and to address concerns that existing promotion practices can be slow and opaque.\n\nWhile the Pentagon has not yet released detailed guidance on the specific criteria or timelines, officials expect the new promotion system to accelerate the advancement of high‑performing officers and to foster a culture of accountability. The Defense Department plans to monitor the rollout closely, with the hope that the changes will ultimately enhance operational readiness and strengthen the overall effectiveness of the armed forces.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/22/2026 23:33:05",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-306",
-    "title": "Vance Announces Removal of 750,000 ACA Enrollees Over Fraud Claims",
-    "slug": "vance-announces-removal-of-750-000-aca-enrollees-over-fraud-claims",
-    "content": "The Trump administration announced on Tuesday that it will remove roughly 750,000 individuals from Affordable Care Act (ACA) coverage, citing fraudulent enrollment. Vice President Mike Pence’s spokesperson said the cancellations are expected to save about $2.2 billion in taxpayer funds. The move is part of a broader effort to curb alleged abuses of the ACA’s enrollment system.\n\nAccording to the administration, the identified enrollments were “not real people,” a claim echoed by Dr. Mehmet Oz, former administrator of the Centers for Medicare & Medicaid Services. Oz stated, “We’re not paying insurance for non‑existent ghosts,” underscoring the agency’s intent to eliminate what it describes as phantom enrollments that drain public resources. The policy will affect coverage for individuals who have been incorrectly listed on ACA plans, with the federal government taking steps to revoke their benefits and redirect the savings toward other programs.\n\nThe administration’s action follows a series of audits aimed at tightening eligibility checks across the ACA marketplace. While the exact process for verifying and removing these enrollments has not been fully detailed, officials say the initiative will reduce unnecessary spending and improve the integrity of the ACA system. The move is expected to be implemented over the coming weeks, with affected individuals notified of the changes in accordance with federal notification requirements.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/22/2026 23:32:58",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-305",
-    "title": "Trump urges Ukraine and Russia to end war, save diesel",
-    "slug": "trump-urges-ukraine-and-russia-to-end-war-save-diesel",
-    "content": "President Trump has publicly lauded his administration’s efforts to advance peace in the ongoing conflict, emphasizing diplomatic initiatives and economic measures aimed at reducing hostilities. In a recent statement, the former president highlighted his outreach to key international partners and his support for sanctions designed to pressure parties involved in the war.\n\nAnalysts and political commentators note that the ultimate resolution of the conflict may depend heavily on the actions of Russian President Vladimir Putin. They point to Russia’s strategic position and its influence over the war’s dynamics as central factors that could determine whether a lasting ceasefire is achieved. The debate continues over the extent to which diplomatic engagement with Moscow could alter the course of the hostilities.\n\nAs diplomatic channels remain open, international observers are monitoring the evolving stances of both the United States and Russia. The focus remains on finding a sustainable solution that ends the conflict while addressing the security concerns of all parties involved.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/22/2026 23:32:53",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-304",
-    "title": "National Trust of Victoria Announces Tree of the Year Finalists",
-    "slug": "national-trust-of-victoria-announces-tree-of-the-year-finalists",
-    "content": "The National Trust of Victoria’s “Tree of the Year” competition, launched in 2016, has once again drawn attention to the state’s most iconic and historically significant trees. This year’s finalists include a decades‑old shady eucalyptus, an elm that has become a beloved landmark for commuters, and a type of ginkgo that was once thought to be extinct in the wild. The contest, which invites the public to nominate and vote for trees that embody cultural, ecological, or historical value, aims to raise awareness and advocate for the protection of Victoria’s natural heritage.\n\nThe competition has grown in scope since its inception, now featuring entries from across the state—from the outskirts of Carlton to the rural town of Castlemaine. Each finalist represents a different ecological story: the eucalyptus, with its long canopy and role in local microclimates; the elm, a living reminder of Victorian-era urban planning; and the ginkgo, a living relic of ancient flora that survived through human intervention. By spotlighting these trees, the National Trust seeks to highlight the importance of conservation efforts and the need for ongoing stewardship of Victoria’s diverse arboreal landscape.\n\nAs voting continues, the public’s choice will determine which tree receives the title of Victoria’s Tree of the Year, a symbolic honor that underscores the broader mission of the National Trust to protect and celebrate the state’s natural environment. The outcome will not only recognize a single tree but also reinforce the message that every significant tree contributes to the ecological and cultural fabric of Victoria.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "9/22/2026 23:32:46",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-303",
-    "title": "Kidney Transplant Disparities Persist for IDD Patients Despite State Laws",
-    "slug": "kidney-transplant-disparities-persist-for-idd-patients-despite-state-laws",
-    "content": "A new study from The Ohio State University College of Medicine, published in *JAMA Internal Medicine*, reports that state laws designed to prevent disability‑based discrimination in organ transplantation are not achieving their intended effect. The research examined national policies that aim to give all patients an equal opportunity to receive an organ and found that, despite 40 states enacting prohibitive statutes, individuals with intellectual and/or developmental disabilities (IDD) remain less likely to receive a kidney transplant than those without such disabilities.\n\nThe investigators reviewed transplant outcomes across the United States and compared them to the presence of state‑level anti‑discrimination laws. Their analysis revealed a persistent gap: IDD patients were significantly underrepresented on transplant waitlists and received transplants at lower rates, even in jurisdictions with explicit legal protections. The study suggests that the mere existence of legislation does not guarantee equitable access, pointing to possible gaps in enforcement, awareness, or implementation within transplant centers.\n\nThese findings underscore the need for more robust mechanisms to ensure that anti‑discrimination laws translate into practice. Strengthening oversight, improving provider education, and monitoring transplant outcomes for compliance could help close the disparity and uphold the promise of fair access to life‑saving organs for all patients, regardless of disability status.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:41",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-302",
-    "title": "Study Finds Sex Differences in Pacemaker Survival After TAVI",
-    "slug": "study-finds-sex-differences-in-pacemaker-survival-after-tavi",
-    "content": "A recent analysis of more than 1,100 patients who underwent transcatheter aortic valve implantation (TAVI) has revealed that the impact of pacemaker implantation on long‑term survival differs between women and men. Conducted by physicians at Karl Landsteiner University in Krems, the study examined both short‑ and long‑term outcomes following TAVI‑related conduction disturbances that often necessitate a pacemaker.\n\nThe data showed clear sex‑specific differences in prognosis after pacemaker placement, suggesting that women and men experience varying degrees of benefit or risk from the device. These findings highlight the need for a more individualized risk assessment before and after TAVI, especially as the procedure is increasingly performed in younger patients who may have longer life expectancy and different comorbidities.\n\nThe study underscores the importance of tailoring post‑TAVI care to patient sex, potentially influencing guidelines for pacemaker implantation and follow‑up strategies. As TAVI continues to expand into broader patient populations, incorporating sex‑specific considerations could improve long‑term outcomes and optimize resource use.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:34",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-301",
-    "title": "Immune Cells Identified That Sustain Type 1 Diabetes Attack",
-    "slug": "immune-cells-identified-that-sustain-type-1-diabetes-attack",
-    "content": "Type 1 diabetes is not a sudden assault on the body’s insulin production; rather, it is a prolonged autoimmune process that can span many years. The disease involves the immune system gradually attacking and destroying the insulin‑producing β‑cells in the pancreas, leading to a chronic deficiency of insulin.  \n\nResearchers continue to investigate why this immune attack persists instead of resolving on its own. Current studies suggest that a combination of genetic susceptibility, environmental triggers, and dysregulation of immune checkpoints may sustain the destructive response. Understanding these mechanisms is essential for developing therapies that could halt or reverse the loss of β‑cells.  \n\nDespite ongoing research, the exact reasons for the longevity of the autoimmune attack remain unclear. Continued investigation into the underlying biology of type 1 diabetes is critical for identifying interventions that could restore insulin production and improve patient outcomes.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:30",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-300",
-    "title": "First Mouse Model Created for Rare DHDDS Encephalopathy",
-    "slug": "first-mouse-model-created-for-rare-dhdds-encephalopathy",
-    "content": "A research team at the Centre de recherche Azrieli du CHU Sainte‑Justine has announced a breakthrough in the study of a rare, severe genetic encephalopathy linked to mutations in the DHDDS gene. By engineering the first mouse model that accurately mirrors one of the human disease phenotypes, the team has created a critical tool for dissecting the underlying biology of this neurodevelopmental disorder.\n\nThe model was developed by Professor Alexey Pshezhetsky of the Department of Pediatrics and Professor Dr. Elsa Rossignol of the Department of Neuroscience at the Université de Montréal. Their work provides the scientific community with an unprecedented platform to examine how DHDDS mutations disrupt cellular processes in the brain, to identify biomarkers, and to test potential therapeutic interventions in a controlled, in‑vivo setting.\n\nWith this milestone, researchers can now accelerate the pace of discovery and drug development for a condition that has long lacked effective treatments. The mouse model will enable systematic evaluation of candidate therapies and deepen understanding of the disease’s pathogenesis, bringing the medical community closer to viable clinical solutions.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:23",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-299",
-    "title": "Bangladesh Reports 900 Measles Deaths, Mostly Children",
-    "slug": "bangladesh-reports-900-measles-deaths-mostly-children",
-    "content": "Bangladesh is grappling with a severe measles outbreak that began in March, with health officials reporting that nearly 900 people have died, most of them children. The outbreak has spread across several districts, overwhelming local hospitals and prompting emergency response teams to deploy additional medical supplies and vaccination drives.\n\nThe high mortality rate reflects gaps in routine immunisation coverage and the rapid spread of the virus among vulnerable populations. Public health authorities have intensified efforts to administer measles vaccines and are coordinating with international partners to secure additional doses and medical support. They are also conducting community outreach to raise awareness about symptoms and the importance of early treatment.\n\nAs the country continues to battle the outbreak, officials stress the need for sustained vaccination campaigns and improved surveillance to prevent further loss of life. The situation remains a critical public health concern, with ongoing monitoring and response efforts aimed at curbing the spread and reducing fatalities.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:17",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-298",
-    "title": "Mental Fatigue Reduces Physical Endurance, Study Finds",
-    "slug": "mental-fatigue-reduces-physical-endurance-study-finds",
-    "content": "A recent study has shed light on why a bike ride can feel more exhausting after a mentally demanding day, even when your muscles are not physically weakened. Benjamin Pageaux, a professor at the Université de Montréal’s School of Kinesiology and Physical Activity Sciences, together with colleagues from Nantes Université, investigated the impact of mental fatigue on physical endurance. Their research, now published in the Peer Community Journal, examined how sustained cognitive effort influences subsequent physical performance.\n\nThe investigators subjected participants to a mentally taxing task before having them complete a cycling endurance test. They measured changes in power output, perceived exertion, and physiological markers during the ride. Results indicated that mental fatigue significantly reduced endurance performance, suggesting that cognitive load can impair the body’s ability to sustain physical effort. The study also highlighted that the decline in performance was not due to a loss of muscular strength but rather to altered motivation and altered perception of effort.\n\nThese findings underscore the importance of managing mental workload for athletes, commuters, and anyone who relies on physical activity after a demanding day. By acknowledging the link between cognitive exertion and physical performance, coaches, trainers, and individuals can better structure training and recovery to mitigate the adverse effects of mental fatigue on endurance tasks.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:12",
-    "author": "Medical Xpress",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260922-297",
-    "title": "FAU researchers develop AI imaging to detect skin cancer before visible signs",
-    "slug": "fau-researchers-develop-ai-imaging-to-detect-skin-cancer-before-visible-signs",
-    "content": "Diagnosing skin tumors has traditionally depended on the identification of visible alterations in the skin, with Line‑Field Confocal Optical Coherence Tomography (LC‑OCT) serving as a well‑established imaging method for this purpose. Researchers at Friedrich‑Alexander‑Universität Erlangen‑Nürnberg (FAU), led by Dr. Moritz Ronicke of the Department of Dermatology at Uniklinikum Erlangen, have now introduced a novel diagnostic approach that builds on the capabilities of LC‑OCT.\n\nThe new technique seeks to enhance the precision of tumor assessment while potentially reducing reliance on invasive biopsies. By refining image acquisition and analysis, the FAU team aims to provide clinicians with more detailed information about tumor morphology at an earlier stage. If validated in clinical settings, the approach could streamline dermatological workflows and improve patient outcomes through faster, more accurate diagnosis.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/22/2026 23:32:05",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
