@@ -1,5 +1,49 @@
 [
   {
+    "id": "BLOG-20260922-481",
+    "title": "Yellowstone Staffers Remove Record 20,100 Trash Items from Hot Springs",
+    "slug": "yellowstone-staffers-remove-record-20-100-trash-items-from-hot-springs",
+    "content": "Yellowstone National Park, the most‑visited national park in the United States, is grappling with an escalating waste problem exacerbated by the region’s strong, gusty winds. The high volume of visitors combined with frequent storms has caused litter to be blown across the park’s fragile hydrothermal landscapes, creating a persistent environmental hazard.\n\nIn response, park staff have removed a record‑setting 20,100 pieces of trash from hydrothermal areas this year alone. The most common items recovered include 280 hats, 54 camera lens caps, 47 hair ties, 42 pencils, 36 pairs of sunglasses, 20 hotel key cards, and 17 baby pacifiers. These findings underscore the diverse range of personal belongings that visitors leave behind, while also highlighting the challenges of maintaining the park’s ecological integrity amid heavy winds.\n\nThe park’s cleanup efforts continue as officials work to mitigate the impact of wind‑blown debris on sensitive geothermal features and wildlife. Ongoing public education and stricter enforcement of litter‑free policies are expected to help reduce future waste and preserve Yellowstone’s natural heritage for generations to come.",
+    "category": "Environment",
+    "categorySlug": "environment",
+    "publishedAt": "9/23/2026 5:12:45",
+    "author": "Guardian Environment",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260922-480",
+    "title": "Rheumatic Side Effects of Immune Checkpoint Inhibitors Often Severe, Study Reports",
+    "slug": "rheumatic-side-effects-of-immune-checkpoint-inhibitors-often-severe-study-report",
+    "content": "Patients treated with immune checkpoint inhibitors (ICIs) for various cancers are increasingly experiencing rheumatic immune‑related adverse events (rh‑irAEs), a study released online on September 8 in *ACR Open Rheumatology* reports. The research found that most rh‑irAEs are moderate to severe in severity, and more than one‑third of affected individuals had to discontinue ICI therapy permanently because of these complications.\n\nThe investigators analyzed clinical data from a large cohort of ICI recipients and identified a range of rheumatic manifestations—including arthritis, myositis, and vasculitis—that frequently required aggressive immunosuppressive treatment. The high rate of treatment cessation underscores the challenge of balancing the oncologic benefits of ICIs against the risk of debilitating rheumatic toxicity, and it highlights the need for early recognition and multidisciplinary management of these adverse events.\n\nThese findings suggest that rheumatologists and oncologists must collaborate closely to monitor for rh‑irAEs and to develop strategies that preserve cancer control while minimizing irreversible treatment interruption. The study adds to growing evidence that vigilant assessment and timely intervention are essential for optimizing outcomes in patients receiving immune checkpoint blockade.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/23/2026 5:12:41",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260922-479",
+    "title": "Study Finds AI Could Cut Medical Device Recalls by 30%",
+    "slug": "study-finds-ai-could-cut-medical-device-recalls-by-30",
+    "content": "The Food and Drug Administration’s 510(k) clearance pathway allows most medical devices to reach market without the extensive safety testing required for new, innovative products. Under this system, a manufacturer can obtain approval by demonstrating that its device is “substantially equivalent” to a previously approved “predicate” device, rather than by proving safety and effectiveness through clinical trials. The result is a streamlined approval process that relies on similarity rather than on rigorous, independent evaluation.\n\nHowever, similarity does not guarantee safety. Several devices cleared through the 510(k) route have been recalled after market release, and the FDA has repeatedly highlighted the risk of approving high‑risk devices without thorough testing. In practice, the agency spends significant time reviewing 510(k) submissions, often treating them the same way regardless of the device’s inherent danger. This approach has drawn criticism from safety advocates who argue that a more stringent review is necessary for devices that could pose serious health risks.\n\nThe continued reliance on the 510(k) pathway underscores a tension between rapid product availability and patient safety. While the system accelerates innovation and reduces regulatory burden, the pattern of post‑market recalls suggests that additional safeguards may be needed. Policymakers and industry stakeholders are now debating reforms that could require more robust evidence for devices that are not truly comparable to existing products, aiming to balance timely access with the protection of public health.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/23/2026 5:12:36",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260922-478",
+    "title": "Cirrhosis Can Recur After Liver Transplant, Study Finds",
+    "slug": "cirrhosis-can-recur-after-liver-transplant-study-finds",
+    "content": "A recent study published online on September 3 in the journal *Portal Hypertension & Cirrhosis* reports that cirrhosis can recur after liver transplantation. The research, which analyzed outcomes in a cohort of transplant recipients, found that a measurable proportion of patients experienced a return of liver scarring and associated portal hypertension within the first few years following surgery. The authors emphasize that recurrence is not inevitable but represents a significant complication that can impact graft survival and patient quality of life.\n\nThe investigators identified several factors that may predispose to recurrence, including underlying etiologies such as alcohol use disorder and non‑alcoholic steatohepatitis, as well as metabolic comorbidities like obesity and diabetes. They also noted that early post‑transplant surveillance—through imaging, liver function tests, and, when indicated, biopsy—can aid in the timely detection of cirrhosis re‑development. The study underscores the need for ongoing monitoring and tailored management strategies to mitigate the risk of graft failure.\n\nThese findings highlight that liver transplantation, while life‑saving, does not guarantee permanent resolution of cirrhosis. Clinicians and patients should remain vigilant for signs of recurrence and engage in comprehensive post‑transplant care to preserve graft function and improve long‑term outcomes.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/23/2026 5:12:31",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260922-477",
     "title": "Researchers Create Interactive Tool to Track Agricultural Injuries",
     "slug": "researchers-create-interactive-tool-to-track-agricultural-injuries",
