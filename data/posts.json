@@ -1,5 +1,115 @@
 [
   {
+    "id": "BLOG-20260924-420",
+    "title": "Wiskott-Aldrich syndrome: Long-term results of gene therapy developed",
+    "slug": "wiskott-aldrich-syndrome-long-term-results-of-gene-therapy-developed",
+    "content": "A single infusion of genetically corrected autologous hematopoietic stem cells has been shown to provide lasting clinical benefits for patients with Wiskott-Aldrich syndrome. This rare genetic disorder impairs immune and platelet function, which exposes affected children from an early age to severe infections, bleeding episodes, eczema, and autoimmune complications.\n\nThe gene therapy approach offers a durable solution to the health challenges associated with the condition.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/25/2026 3:43:13",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-418",
+    "title": "Prison admissions rose 3% in district attorney election years during 'tough on crime' era",
+    "slug": "prison-admissions-rose-3-in-district-attorney-election-years-during-tough-on-cri",
+    "content": "New research from the Northwestern Pritzker School of Law indicates that public sentiment linked to \"tough on crime\" politics may correlate with higher prison admissions during election years. The study suggests a connection between this political climate and an increase in the number of individuals admitted to state prisons specifically during these periods.\n\nThe findings highlight a potential relationship between electoral cycles and incarceration rates within the context of strict law enforcement rhetoric.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/25/2026 3:43:06",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-412",
+    "title": "South Korean Team Develops Hydrogen Membrane for Cleaner Ammonia Synthesis",
+    "slug": "south-korean-team-develops-hydrogen-membrane-for-cleaner-ammonia-synthesis",
+    "content": "A South Korean research team has developed an environmentally friendly ammonia synthesis process that reduces carbon emissions. The method utilizes a membrane that selectively transports hydrogen, allowing the system to separate hydrogen from water.\n\nThis palladium membrane enables the synthesis of ammonia by facilitating the movement of hydrogen while keeping water behind. The process is designed to lower the carbon footprint associated with ammonia production.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/25/2026 3:42:49",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-411",
+    "title": "Scientists map the changing sounds of the Arctic to strengthen global monitoring",
+    "slug": "scientists-map-the-changing-sounds-of-the-arctic-to-strengthen-global-monitoring",
+    "content": "As Arctic sea ice retreats, the region is undergoing transformation due to new shipping routes, expanding resource development, and growing geopolitical competition. In response to these changes in one of the world's least-monitored areas, scientists at Los Alamos National Laboratory have established one of the first long-term acoustic baselines for the Arctic's underwater soundscape.\n\nThis scientific effort is designed to strengthen the detection and interpretation of various events, including earthquakes, underwater and nearshore detonations, and ship traffic. By mapping these changing sounds, the initiative supports the monitoring of activities of national security interest.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/25/2026 3:42:43",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-407",
+    "title": "Creatine uptake enhances antitumor immunity",
+    "slug": "creatine-uptake-enhances-antitumor-immunity",
+    "content": "A recent article titled \"Creatine uptake enhances antitumor immunity\" has been published, with the full text available at a Cell Press URL. The specific research findings or methodological details regarding how creatine uptake influences the immune system's response to tumors are not described in the provided content.\n\nThe article has garnered significant attention online, accumulating 125 points and 158 comments on the Y Combinator news platform. This level of engagement indicates a notable level of interest in the study among the community members who discussed the piece.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:31",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-406",
+    "title": "Stable Hires Product Engineers",
+    "slug": "stable-hires-product-engineers",
+    "content": "Stable, a company from the Y Combinator Winter 2020 cohort, is currently seeking to hire product engineers. The recruitment announcement is available on the company’s careers page at usestable.com. This hiring update has been shared on the Y Combinator news feed.\n\nThe specific job posting for the product engineer position can be accessed via the provided link on the Y Combinator platform. At the time of the report, the listing had received zero points and zero comments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:26",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-405",
+    "title": "LLMs Used to Trace Alchemical Knowledge and Decode 17th Century Letters",
+    "slug": "llms-used-to-trace-alchemical-knowledge-and-decode-17th-century-letters",
+    "content": "The provided article title indicates the use of Large Language Models (LLMs) to trace alchemical knowledge and decode 17th-century letters. The accompanying content consists solely of a URL to a Substack post titled \"ai-labs-need-to-start-funding-historical\" and a link to a Hacker News discussion thread. This thread has recorded 34 points and 7 comments. No further details, specific findings, or narrative elements are included in the source material.\n\nThe source text provides no additional facts regarding the methodology, results, or specific individuals involved in the alchemical research. The only verifiable information available is the existence of the linked online discussion and its associated engagement metrics. Consequently, the article is limited to stating these available data points without elaboration.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:21",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-404",
+    "title": "August 27 TCRF DDoS Attack Postmortem",
+    "slug": "august-27-tcrf-ddos-attack-postmortem",
+    "content": "The provided content consists solely of metadata regarding a postmortem article titled \"August 27 TCRF DDoS Attack Postmortem,\" which is hosted on the Xkeeper blog and has been discussed on Y Combinator News. The available data indicates that the article has garnered 12 points and two comments on the platform. No specific details regarding the nature of the attack, the technical response, or the outcomes of the incident are included in the source text.\n\nThe information is limited to the article’s URLs, point count, and comment count, with no further narrative or factual details available for reporting.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:11",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-403",
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "slug": "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html",
+    "content": "A security vulnerability in Sourcehut has been disclosed, involving an account takeover attack vector that exploits a cross-site scripting (XSS) flaw within the ansi2html component. The issue specifically relates to the handling of build logs, which allowed for the compromise of user accounts.\n\nThe details of this security incident were published in a blog post by Arusekk, which has since been discussed on the Hacker News platform. The discussion thread associated with the article has garnered 32 points and 3 comments from the community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:05",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-402",
+    "title": "Opus 5.5 is good at explainer videos",
+    "slug": "opus-5-5-is-good-at-explainer-videos",
+    "content": "Opus 5.5 has been highlighted for its effectiveness in producing explainer videos.  \n\nThe observation originates from an article posted at https://launchvideo. Io and was shared on the Hacker News discussion thread https://news. Ycombinator. Com/item? Id=49836374, where it accumulated 27 points and attracted 17 comments.  \n\nThe post received 27 points and 17 comments on Hacker News.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:42:00",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260924-399",
     "title": "AI Agent Instinct Saves User $550 and Detects Phishing Scam",
     "slug": "ai-agent-instinct-saves-user-550-and-detects-phishing-scam",
@@ -5387,116 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/23/2026 23:42:41",
     "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-259",
-    "title": "Russia drone attacks kill two in Kyiv ahead of Zelenskyy's UN address",
-    "slug": "russia-drone-attacks-kill-two-in-kyiv-ahead-of-zelenskyy-s-un-address",
-    "content": "Russia launched a series of daylight drone strikes on Kyiv on Wednesday, killing two civilians and injuring 23 others, according to local authorities. The attacks occurred just hours before Ukrainian President Volodymyr Zelenskyy was scheduled to address world leaders at the United Nations General Assembly, prompting heightened concerns about security in the capital ahead of the high‑profile speech.\n\nThe drone assaults came after Zelenskyy’s meeting with U.S. President Donald Trump on Tuesday, during which Trump voiced frustration over the stalled progress of negotiations aimed at ending the war and the ongoing escalation of aerial attacks by both sides. The latest strike underscores the volatile security environment surrounding diplomatic efforts, as officials continue to seek avenues for de‑escalation. Emerald Maxwell reports.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:42:34",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-258",
-    "title": "US urges Ukraine and Russia to stop attacks on energy infrastructure",
-    "slug": "us-urges-ukraine-and-russia-to-stop-attacks-on-energy-infrastructure",
-    "content": "Ukrainian President Volodymyr Zelenskyy is scheduled to address the United Nations General Assembly on Wednesday, marking a high‑profile diplomatic appearance as the war in Ukraine enters its fifth year. The speech comes amid renewed calls from U.S. President Donald Trump for a swift end to Russia’s invasion, a stance that aligns with Kyiv’s effort to shape a broader international push for peace and reconstruction after more than four and a half years of conflict. France 24 international affairs commentator Douglas Herbert noted that Zelenskyy’s remarks are expected to underscore Ukraine’s demand for sustained security guarantees, the reconstruction of war‑torn regions, and the enforcement of accountability for alleged war crimes.\n\nThe upcoming address follows a series of diplomatic initiatives aimed at consolidating support for Ukraine, including recent high‑level meetings in Europe and the United States. While Trump’s advocacy for a negotiated settlement adds a new dimension to the diplomatic landscape, analysts say the effectiveness of such overtures will depend on coordinated action among NATO allies and the willingness of the Russian government to engage in meaningful talks. Zelenskyy’s UN appearance is therefore poised to serve both as a platform for reaffirming Ukraine’s sovereignty and as a catalyst for renewed multilateral engagement on ending the conflict.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:42:26",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-257",
-    "title": "Paris prosecutors investigate non-consensual filming with smart glasses",
-    "slug": "paris-prosecutors-investigate-non-consensual-filming-with-smart-glasses",
-    "content": "Paris prosecutors have launched multiple investigations after receiving complaints that women were filmed on public streets without their consent by individuals wearing so‑called “smart glasses.” The complaints allege that the devices, which resemble ordinary eyewear, were used to capture video covertly and that the resulting footage was subsequently posted online. Prosecutors in the French capital said they are examining the incidents under existing privacy and harassment statutes, and have begun gathering evidence from victims and potential witnesses.\n\nThe cases have intensified a broader European debate over the regulation of wearable recording technology, which campaigners have labeled “pervert” smart glasses following a series of viral videos showing women and girls filmed in public spaces. Advocacy groups are urging legislators to introduce stricter controls on the sale and use of such devices, while technology firms face pressure to implement safeguards that prevent illicit recording. The investigations remain ongoing, and authorities have indicated that any individuals found to have violated privacy laws will be prosecuted. Solange Mougin reports.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:42:18",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-256",
-    "title": "Iranian President Pezeshkian delivers defiant UN address, accuses US of terrorism",
-    "slug": "iranian-president-pezeshkian-delivers-defiant-un-address-accuses-us-of-terrorism",
-    "content": "Iranian President Masoud Pezeshkian delivered a forceful speech to the United Nations on Wednesday, labeling United States actions in Iran as terrorism and asserting that Tehran would not “bend at the knee.” In the address, Pezeshkian called for diplomatic engagement while emphasizing the country’s resolve to defend its sovereignty amid heightened regional tensions.\n\nThe remarks came as Iranian officials met with U.S. counterparts on the sidelines of the General Assembly, a series of contacts they described as routine and “not anything new.” Both sides exchanged statements indicating a willingness to explore diplomatic channels, though no concrete agreements were announced. The meetings occurred against a backdrop of ongoing disputes over nuclear negotiations, sanctions, and regional security concerns.\n\nPezeshkian’s speech and the subsequent diplomatic overtures highlight a dual strategy of public defiance paired with private dialogue. While Tehran projects steadfastness on the international stage, the continuation of back‑channel talks suggests that both nations remain open to negotiation as a means of managing their contentious relationship.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:36",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-255",
-    "title": "Harvey Weinstein sentenced to 15 years for 2006 sexual assault",
-    "slug": "harvey-weinstein-sentenced-to-15-years-for-2006-sexual-assault",
-    "content": "Harvey Weinstein, the former film producer whose 2020 New York conviction sparked the #MeToo movement, was sentenced to 15 years in prison on Wednesday after a Los Angeles jury found him guilty of sexually assaulting a former production assistant in 2006. The assault, which involved non‑consensual oral sex, was part of a broader pattern of alleged misconduct that has been detailed in numerous civil lawsuits and criminal cases over the past decade. The sentencing follows a trial that lasted several weeks, during which the victim testified about the encounter and the power imbalance that enabled the abuse.\n\nThe 15‑year term adds to Weinstein’s existing 23‑year sentence from the New York case, effectively ensuring he will spend the remainder of his life in custody. Legal analysts note that the verdict underscores the continued momentum of the #MeToo reckoning, as prosecutors and victims pursue accountability for historic offenses. The court’s decision also serves as a precedent for other high‑profile figures facing similar allegations, reinforcing the judiciary’s willingness to impose substantial penalties for sexual violence.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:30",
-    "author": "France 24",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-254",
-    "title": "Slovak PM Robert Fico's NATO Article 5 comments attract criticism",
-    "slug": "slovak-pm-robert-fico-s-nato-article-5-comments-attract-criticism",
-    "content": "Slovak Prime Minister Robert Fico said on Thursday that he fears an imminent war and pledged to do everything within his power to keep Slovakia out of any armed conflict. Speaking at a press conference in Bratislava, Fico emphasized the need for diplomatic solutions and warned that the country must remain vigilant amid rising regional tensions.\n\nCritics have warned that the prime minister’s statements could undermine NATO’s collective‑defence posture, arguing that public doubts about the alliance’s ability to prevent war may weaken solidarity among member states. NATO, founded to deter aggression through a unified response, has reiterated its commitment to member security, while observers note that Slovakia’s stance will be closely watched as the alliance navigates escalating security challenges in Europe.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:25",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-253",
-    "title": "Imran Khan's sons say father ill and family detained before PTI protest",
-    "slug": "imran-khan-s-sons-say-father-ill-and-family-detained-before-pti-protest",
-    "content": "Sons of former Pakistani prime minister Imran Khan, who is currently serving a prison sentence, told Deutsche Welle that their father’s health is deteriorating and that he is being kept apart from both relatives and medical professionals. The family members, who have been denied regular visits, claim that Khan’s condition is worsening while he remains in isolation within the detention facility.\n\nIn parallel, several other relatives have been detained by authorities in the days leading up to a scheduled opposition rally, a move that critics say aims to curb dissent ahead of the protest. The arrests come amid heightened political tension in Pakistan, where Khan’s supporters have repeatedly called for his release and for broader reforms, while the government maintains that the legal proceedings are unrelated to the planned demonstration.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:20",
-    "author": "DW World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-251",
-    "title": "UN health agency urges increased funding to improve youth cancer survival",
-    "slug": "un-health-agency-urges-increased-funding-to-improve-youth-cancer-survival",
-    "content": "More children and young people are surviving cancer than ever before, according to a recent international health report that shows steady gains in five‑year survival rates for patients under 15 across high‑income nations. Advances in early diagnosis, targeted therapies and multidisciplinary care have driven the improvement, with survival now exceeding 80 % in many countries. However, the same data reveal pronounced disparities: adolescents and young adults aged 15‑24 experience slower progress, and low‑ and middle‑income regions lag behind, with survival often falling below 50 %. The uneven outcomes reflect gaps in access to specialized treatment centres, limited availability of novel drugs, and insufficient funding for pediatric oncology programs.\n\nThe report urges governments and donors to increase investment in research, infrastructure and workforce training to close the gaps and sustain the upward trend. Strengthening cross‑border collaborations, expanding clinical trial networks and ensuring equitable drug pricing are highlighted as priority actions. Policymakers are called upon to allocate resources that will raise survival rates uniformly across age groups and regions, thereby turning the current gains into a global standard for childhood and adolescent cancer care.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:13",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-250",
-    "title": "UN chief unveils blueprint for Right to Development at 40th anniversary meeting",
-    "slug": "un-chief-unveils-blueprint-for-right-to-development-at-40th-anniversary-meeting",
-    "content": "World leaders convened on Wednesday for a High‑Level Week meeting to assess progress toward the United Nations’ Declaration on the Right to Development as the 40th anniversary of the landmark 1986 resolution approaches in December. The gathering, organized by the UN, served as a forum to review achievements and to identify the persistent gaps that the declaration’s implementation has left unaddressed, particularly in the context of rapid technological change.\n\nDuring the session, UN Secretary‑General António Guterres unveiled a comprehensive “blueprint” that targets the remaining challenges of the 21st century, including narrowing the digital divide and creating an equitable framework for artificial‑intelligence development. Delegates discussed concrete steps to ensure that all nations can benefit from digital advancements and to prevent disparities in AI capabilities from undermining the right to development. The meeting concluded with a consensus to pursue coordinated international action, aiming to fulfill the declaration’s promises before its milestone anniversary.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:08",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-249",
-    "title": "UN Security Council debates Ukraine war as Russia threatens veto",
-    "slug": "un-security-council-debates-ukraine-war-as-russia-threatens-veto",
-    "content": "The United Nations Security Council convened today as the conflict now entering its fifth year faces the onset of another harsh winter. Delegates from the council’s fifteen member states gathered to discuss a renewed peace initiative, emphasizing the urgent humanitarian concerns that accompany the prolonged hostilities and the deteriorating conditions for civilians in the combat zone. The agenda highlighted proposals ranging from cease‑fire negotiations to the establishment of protected corridors for aid delivery, reflecting the council’s continued effort to translate diplomatic discourse into actionable measures on the ground.\n\nHowever, the prospect of a binding resolution remains constrained by the veto power of Russia, one of the council’s five permanent members, whose repeated objections have prevented consensus on previous peace drafts. Russian representatives have cited concerns over sovereignty and the terms of any settlement, reiterating their stance that any agreement must address what they describe as security guarantees for their interests. The divergence between the diplomatic process within the Security Council and the stark realities of the battlefield underscores the challenges of achieving a unified international response, leaving the conflict’s trajectory uncertain as winter deepens.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:33:03",
-    "author": "UN News",
     "isFeatured": false
   }
 ]
