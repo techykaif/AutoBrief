@@ -1,5 +1,148 @@
 [
   {
+    "id": "BLOG-20260924-399",
+    "title": "AI Agent Instinct Saves User $550 and Detects Phishing Scam",
+    "slug": "ai-agent-instinct-saves-user-550-and-detects-phishing-scam",
+    "content": "Instinct, an AI agent, reportedly saved a user $550, booked restaurant reservations, and warned them about a phishing scam. However, the same tool also wasted $64 and raised concerns about potential security risks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:34:22",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-397",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "slug": "gemini-3-8-live-with-live-avatar-gives-google-8217-s-ai-a-face",
+    "content": "Google has introduced a new Gemini 3.8 Live update that enables users to engage in real-time conversations with the AI model while observing an animated persona. This feature, known as \"Live Avatar,\" allows the AI to lip-sync and display various facial expressions during interactions. Currently, the capability is restricted to Gemini Enterprise customers.\n\nAccording to Google, the Live Avatar can switch between the 97 languages it supports without compromising video fidelity or causing visual drift. A demonstration video shared by the company illustrates the avatar speaking in both English and Japanese, with mouth animations accurately matching the spoken words in each language. The system is also capable of displaying information on-screen during these interactions.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:34:11",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-396",
+    "title": "F1 Considers 3.0 L V8 Turbos and Smaller Hybrids for 2030",
+    "slug": "f1-considers-3-0-l-v8-turbos-and-smaller-hybrids-for-2030",
+    "content": "Formula 1 is considering the adoption of 3.0-liter V8 turbo engines paired with smaller hybrid systems for its 2030 regulations. This potential shift is driven by a desire to create smaller and lighter cars that avoid the energy constraints associated with the 2026 hybrid power units.\n\nThe proposed changes aim to address the specific limitations of the current technical direction, ensuring future vehicles are not energy-starved. This strategic evaluation focuses on optimizing performance and vehicle design for the upcoming decade.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:34:05",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-392",
+    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+    "slug": "robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer",
+    "content": "Ukraine’s Operation Vivaldi has successfully erased Russian military gains, a strategic achievement attributed in part to the utilization of robotic systems. These automated units have been deployed to support ground forces by executing combat airdrops and clearing mines, directly contributing to the disruption of a Russian pincer maneuver.\n\nThe integration of these robots into the battlefield has allowed Ukrainian forces to neutralize specific tactical threats and maintain operational momentum against advancing Russian units. As a result of these combined efforts, the Russian pincer strategy was defeated, solidifying the success of Operation Vivaldi.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:33:45",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-390",
+    "title": "New York Sues Polymarket to Block Trump Administration’s Override of Gambling Laws",
+    "slug": "new-york-sues-polymarket-to-block-trump-administration-s-override-of-gambling-la",
+    "content": "New York has filed a lawsuit against Polymarket after the Trump administration attempted to override state gambling regulations. The suit comes as the state seeks to enforce its own gambling laws against the online betting platform.\n\nIn the complaint, New York requests that a court order Polymarket to cease its gambling operations. The action underscores the state's commitment to upholding its regulatory framework in the face of federal interference.\n\nNew York sued Polymarket and asks the court to shut down its gambling services amid the Trump administration’s attempts to override state gambling laws.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:33:29",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-389",
+    "title": "F-Droid releases biggest update in a decade",
+    "slug": "f-droid-releases-biggest-update-in-a-decade",
+    "content": "F‑Droid’s Android app store has received its most significant update in a decade, introducing a new user interface and smoother app installation processes.  \n\nThe overhaul involved rebuilding the store from the ground up, providing a refreshed experience for users.  \n\nThis update marks the biggest change to F‑Droid’s Android app store in ten years.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:33:18",
+    "author": "Ars Technica",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-388",
+    "title": "Feather Unveils $30,000 Customizable Robotics Platform for Developers",
+    "slug": "feather-unveils-30-000-customizable-robotics-platform-for-developers",
+    "content": "Feather is a startup positioning itself as the “Android of robotics” for developers. The company’s mission is to provide a flexible, developer‑centric robotics platform that can be tailored to a wide range of applications.\n\nFeather is betting on a customizable platform priced at $30,000, designed specifically for software developers. The focus on customization and developer use is intended to differentiate Feather’s offering in the robotics market.\n\nFeather is betting on a customizable $30,000 platform built for software developers.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:33:07",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-387",
+    "title": "PrismML Deploys Tiny LLMs on Qualcomm Smart Glasses",
+    "slug": "prismml-deploys-tiny-llms-on-qualcomm-smart-glasses",
+    "content": "PrismML has announced the deployment of its tiny large language models (LLMs) on Qualcomm‑powered smart glasses, expanding the company’s reach into wearable AI technology. The move highlights PrismML’s commitment to delivering compact, efficient AI solutions that can run directly on consumer devices.\n\nThe company’s broader objective is to develop open‑weight AI that operates on devices, enabling users to make better use of the computing power already present in their hardware. By embedding these lightweight models into Qualcomm‑based smart glasses, PrismML aims to demonstrate how open‑weight AI can enhance device performance without relying on external cloud resources.\n\nPrismML’s larger goal is open‑weight AI that runs on devices and makes better use of the computing power they already have.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:33:00",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-386",
+    "title": "Buy One TechCrunch Disrupt 2026 Pass, Get 50% Off Second Pass",
+    "slug": "buy-one-techcrunch-disrupt-2026-pass-get-50-off-second-pass",
+    "content": "TechCrunch Disrupt 2026 is offering a discount for attendees who bring a co‑founder, partner, or colleague.  \n\nBuy one pass to the event and receive 50 % off a second pass of the same ticket type. The offer is available only if registration is completed before the event begins on October 13 at 8 a.m. PT.  \n\nThe promotion allows attendees to bring a second person at a reduced rate, with registration required before the event starts on October 13 at 8 a.m. PT.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:32:52",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-385",
+    "title": "Nexterity develops robot to automate dangerous pipefitting tasks",
+    "slug": "nexterity-develops-robot-to-automate-dangerous-pipefitting-tasks",
+    "content": "Nexterity, a startup focused on industrial robotics, is developing technology to automate the hard, dangerous part of pipefitting. The company’s goal is to reduce the risk to workers by handling the most hazardous tasks in the pipefitting process.\n\nThe robot designed by Nexterity can tighten or loosen four bolts at a time. It is compact enough to fit inside a Pelican case, allowing for easy transport and deployment on job sites.\n\nNexterity’s robot can tighten or loosen four bolts at a time and fits in a Pelican case.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:32:44",
+    "author": "TechCrunch",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-384",
+    "title": "Australia news live: Paterson says PM’s AI hack timing not a coincidence; gen Z going without for a house",
+    "slug": "australia-news-live-paterson-says-pm-s-ai-hack-timing-not-a-coincidence-gen-z-go",
+    "content": "A police officer was killed in a crash in Sydney, as reported in the day’s news coverage. The incident was highlighted in the morning briefing by Nick Visser, who introduced the weekend’s updates.\n\nA police officer was killed in a crash in Sydney.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 3:32:36",
+    "author": "Guardian Technology",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-383",
+    "title": "Israeli army demolishes Khirbet a-Taban village in West Bank",
+    "slug": "israeli-army-demolishes-khirbet-a-taban-village-in-west-bank",
+    "content": "On September 2, the Israeli army demolished the village of Khirbet a‑Taban in the occupied West Bank. The village lies within Masafer Yatta, an area Israel has declared a restricted military zone.  \n\nResidents of the area have reported an increase in demolitions by the Israeli army and harassment by Israeli settlers since the October 7 Hamas attack.  \n\nThe village of Khirbet a‑Taban was demolished on September 2, and residents have reported increased demolitions and harassment since October 7.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/25/2026 3:32:26",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-382",
+    "title": "Trump and Xi reject global AI oversight at Washington summit",
+    "slug": "trump-and-xi-reject-global-ai-oversight-at-washington-summit",
+    "content": "The summit between President Trump and Chinese President Xi, described as the first state visit by the Chinese leader to Washington in nine years, dismissed calls for global oversight of artificial intelligence, according to the event’s coverage.  \n\nBoth of the planet’s biggest superpowers agreed that now is not the time for global regulation of AI, and they met for a White House dinner only hours after news emerged that OpenAI had hacked the Australian government. The gathering raised questions about who will hold U.S. technology companies accountable during the discussions.  \n\nThe summit concluded without endorsing any global AI regulation.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "9/25/2026 3:32:18",
+    "author": "France 24",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260924-381",
     "title": "Netanyahu defends Israel at UNGA",
     "slug": "netanyahu-defends-israel-at-unga",
@@ -5354,149 +5497,6 @@
     "categorySlug": "world",
     "publishedAt": "9/23/2026 23:33:03",
     "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-248",
-    "title": "Syrian President declares new phase of revival at UN General Assembly",
-    "slug": "syrian-president-declares-new-phase-of-revival-at-un-general-assembly",
-    "content": "Syrian President Ahmad Al‑Sharaa addressed the United Nations General Assembly on Wednesday, declaring that Syria “is rising” on many levels and attributing the progress to the resilience of its people. Speaking in New York during the opening session of the 78th General Assembly, the president highlighted advances in reconstruction, economic stabilization and social services that have taken place since the end of major hostilities in 2017.\n\nAl‑Sharaa’s remarks came amid ongoing international discussions about Syria’s post‑conflict recovery and the country’s reintegration into diplomatic and humanitarian frameworks. He called for continued support from the United Nations and partner nations to sustain development efforts, emphasizing that the nation’s forward momentum depends on both internal determination and external assistance. The statement underscores Syria’s intent to present a narrative of renewal as it seeks broader acceptance on the world stage.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:57",
-    "author": "UN News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-247",
-    "title": "UN General Assembly Gains Influence Amid Security Council Gridlock",
-    "slug": "un-general-assembly-gains-influence-amid-security-council-gridlock",
-    "content": "Washington, D.C. – Stalemate within the United Nations Security Council (UNSC) and the rise of a more multipolar international order are prompting a measurable shift of diplomatic activity toward the United Nations General Assembly (UNGA). Recent vetoes by permanent members on resolutions addressing conflicts in the Middle East and Eastern Europe have underscored the Council’s growing inability to achieve consensus, while emerging powers such as China, India, Brazil and South Africa are leveraging the broader, more inclusive forum of the General Assembly to advance their agendas.\n\nAnalysts note that the UNGA’s “one‑state‑one‑vote” structure is increasingly attractive to nations seeking collective action on climate change, global health and peace‑building, areas where the Security Council’s procedural constraints have limited progress. The 78th session of the General Assembly, convened in September, saw a surge in resolutions on humanitarian corridors, cyber‑security norms and equitable vaccine distribution, many of which were co‑sponsored by a coalition of developing and middle‑power states. This trend reflects a strategic recalibration, as member states use the Assembly’s deliberative platform to circumvent Security Council deadlock and shape normative frameworks on issues of global concern.\n\nThe realignment suggests that the UNGA may assume a more prominent role in shaping international policy, particularly as the world moves toward a multipolar balance of power. While the Security Council remains the primary body for authorizing peace‑keeping operations and sanctions, its diminished efficacy is prompting the United Nations system to rely more heavily on the General Assembly’s capacity to forge consensus and mobilize collective action.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:52",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-246",
-    "title": "Syria's President al-Sharaa urges Israeli withdrawal amid post-war recovery",
-    "slug": "syria-s-president-al-sharaa-urges-israeli-withdrawal-amid-post-war-recovery",
-    "content": "President Ahmed al‑Sharaa urged the immediate withdrawal of Israeli forces from Syrian territory in a televised address on Tuesday, denouncing recent Israeli airstrikes that targeted infrastructure in the northwestern province of Idlib. The president described the attacks as “unjustified aggression” that jeopardizes the fragile stability of a country that is still emerging from an eight‑year civil war, and called on the international community to hold Israel accountable for violations of Syrian sovereignty.\n\nThe statement comes as Syria’s government consolidates control over former rebel-held areas and seeks to rebuild war‑torn regions while confronting ongoing security challenges along its borders. Al‑Sharaa appealed to the United Nations and regional partners to intervene diplomatically, emphasizing that any further Israeli incursions could reignite hostilities and undermine reconstruction efforts. The president’s call underscores the heightened sensitivity of Syrian leadership to external military actions as the nation moves toward post‑conflict recovery.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:47",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-245",
-    "title": "Israeli strikes devastate villages along Lebanon border",
-    "slug": "israeli-strikes-devastate-villages-along-lebanon-border",
-    "content": "Israeli military operations along the Lebanon‑Israel frontier have left several border villages in southern Lebanon heavily damaged, according to local authorities and humanitarian agencies. The strikes, carried out over the past week in response to cross‑border incidents, targeted infrastructure and residential areas in villages such as Marjayoun, Qana and Kfarkela, resulting in extensive structural collapse and the displacement of hundreds of civilians.\n\nThe Lebanese Ministry of Public Works reported that homes, schools and medical clinics were either destroyed or rendered unusable, while the United Nations Relief and Works Agency documented a surge in internally displaced persons seeking shelter in temporary camps. Roads connecting the affected villages to larger towns were blocked by debris, hampering the delivery of aid and emergency services. No official casualty figures have been released, but local health centers indicated an increase in injuries related to the bombardment.\n\nInternational observers called for an immediate cease‑fire and the opening of humanitarian corridors to allow relief supplies to reach the affected populations. The Lebanese government has appealed for reconstruction assistance, while diplomatic efforts continue to address the escalation of hostilities along the shared border.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:42",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-244",
-    "title": "Seven armed groups ally to launch offensive in Ethiopia",
-    "slug": "seven-armed-groups-ally-to-launch-offensive-in-ethiopia",
-    "content": "A coalition of seven armed groups announced on Monday that it has formed an alliance with the stated aim of overthrowing Ethiopia’s federal government, prompting renewed concerns of a broader conflict. The alliance, which includes the Tigray People’s Liberation Front, the Oromo Liberation Army and five other regional militias, issued a joint statement declaring the current administration “illegitimate” and calling for a nationwide uprising. Ethiopian officials have condemned the declaration as a threat to national unity and have warned that any attempt to destabilise the state will be met with decisive security measures.\n\nThe development comes amid lingering tensions from the 2020‑2022 civil war in the northern Tigray region and ongoing insurgencies in Oromia and other parts of the country. International observers, including the United Nations and the African Union, have called for restraint and dialogue, noting that a resurgence of large‑scale fighting could exacerbate humanitarian crises that have already displaced millions. While the government has not yet disclosed specific counter‑operations, security forces have been placed on heightened alert, and diplomatic channels are reportedly being engaged to prevent the alliance from escalating into renewed war.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:37",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-243",
-    "title": "Hurricane Polo strengthens, brings heavy rain and high waves to Mexico",
-    "slug": "hurricane-polo-strengthens-brings-heavy-rain-and-high-waves-to-mexico",
-    "content": "Hurricane Polo, classified as a Category 4 storm with sustained winds exceeding 130 mph, made landfall on Mexico’s Pacific coast on Thursday, delivering some of the most severe wave action and rainfall the region has experienced in several decades. The cyclone’s eye passed near the states of Guerrero and Oaxaca, generating surf heights of up to 15 feet and precipitating more than 12 inches of rain in a 24‑hour period, according to the National Meteorological Service.\n\nEmergency officials reported widespread flooding, road closures, and power outages affecting over 150,000 residents, while evacuation orders were issued for low‑lying communities along the shoreline. The Mexican Red Cross deployed relief teams to deliver food, water, and medical supplies, and the federal government activated disaster response units to assist in cleanup and infrastructure repairs. Preliminary assessments indicated minimal structural damage to major urban centers, but isolated incidents of roof collapse and landslides were confirmed. Authorities continue to monitor river levels and advise residents to remain vigilant as the storm’s remnants move inland.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:32",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-242",
-    "title": "World leaders condemn Israel at UN as Palestinians protest prison bans",
-    "slug": "world-leaders-condemn-israel-at-un-as-palestinians-protest-prison-bans",
-    "content": "Palestinian activists staged demonstrations on Monday to denounce Israel’s recent prohibition on family visits to inmates held in West Bank prisons, a measure the authorities say is intended to tighten security amid rising tensions. The protests, organized by several local NGOs and coordinated through social‑media calls, gathered in the cities of Ramallah and Nablus, where participants held signs and chanted slogans calling for the restoration of visitation rights. Israeli officials explained that the ban, which affects roughly 2,000 detainees, is a temporary response to “security concerns” following a series of attacks on prison facilities, though they declined to specify a timeline for its reversal.\n\nAt the same time, human‑rights monitors reported a continuation of settler‑linked violence across the occupied West Bank, describing a series of incidents that local authorities have labeled “pogroms.” Over the past week, at least six Palestinian civilians were injured in clashes near the settlements of Itamar and Elon Moreh, and several homes were reported damaged by arson. The Israeli military said it was investigating the incidents and had deployed additional forces to the area, while Palestinian leaders condemned what they called “systematic aggression” and urged the international community to intervene. The overlapping issues of prison‑visit restrictions and settler attacks underscore the volatile security situation in the territory, with both sides awaiting further developments.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:27",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-241",
-    "title": "Portugal face Wales in Nations League as Ronaldo targets 1,000 career goals",
-    "slug": "portugal-face-wales-in-nations-league-as-ronaldo-targets-1-000-career-goals",
-    "content": "Portugal will defend its UEFA Nations League title when it faces Wales in the upcoming semi‑final, a match that also marks a milestone for veteran forward Cristiano Ronaldo. The Portuguese side, who captured the 2022‑23 Nations League trophy, entered the tie as favorites after a strong qualifying campaign, while Wales, who qualified by finishing second in Group B, will look to upset the reigning champions on neutral ground.\n\nRonaldo, who entered the game with 819 career goals for club and country, has publicly set a personal target of reaching 1,000 goals before he hangs up his boots. The striker, now 39, has already surpassed the 800‑goal mark and is expected to feature prominently in the encounter, adding further intrigue to a contest that will determine the finalists for the tournament’s concluding stage. Portugal’s defense of the title and Ronaldo’s pursuit of a historic scoring record will be closely watched by fans and analysts alike.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:21",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-240",
-    "title": "Board of Peace proposes $2.4bn Gaza reconstruction plan as Israeli forces kill seven Palestinians",
-    "slug": "board-of-peace-proposes-2-4bn-gaza-reconstruction-plan-as-israeli-forces-kill-se",
-    "content": "Violations against Palestinians in Gaza have persisted despite renewed calls from international leaders for Israel to honor the cease‑fire agreement brokered earlier this year. Humanitarian agencies reported continued airstrikes and artillery fire in densely populated neighborhoods, resulting in civilian casualties and further displacement of families already living in temporary shelters. The United Nations Office for the Coordination of Humanitarian Affairs said that the number of injuries and deaths among civilians has risen sharply in the past week, while access to medical facilities and essential supplies remains severely restricted.\n\nWorld leaders, including representatives from the United States, the European Union and the United Nations, have urged Israel to fully implement the terms of the cease‑fire, emphasizing the need to protect civilians and allow unhindered humanitarian aid into the enclave. Diplomatic statements highlighted the importance of respecting international humanitarian law and called for an immediate cessation of hostilities that target non‑military infrastructure. Israeli officials have acknowledged the concerns but maintain that operations are aimed at neutralizing militant positions.\n\nThe ongoing violations underscore the fragility of the cease‑fire and the challenges facing efforts to stabilize the region. Observers note that continued breaches could jeopardize diplomatic momentum and exacerbate the humanitarian crisis, prompting further international scrutiny and calls for accountability.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:15",
-    "author": "Al Jazeera",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-239",
-    "title": "Poland says Russian helicopter violated its airspace for 42 seconds",
-    "slug": "poland-says-russian-helicopter-violated-its-airspace-for-42-seconds",
-    "content": "Poland reported that an unidentified aircraft entered its national airspace and remained overhead for 42 seconds before being intercepted. The incursion prompted the NATO member state to scramble fighter jets, which were dispatched to monitor and escort the intruding plane out of Polish skies, according to statements from the Polish Ministry of Defence.\n\nThe brief violation underscores ongoing regional tensions and the readiness of NATO allies to respond to airspace breaches. Polish officials emphasized that the rapid deployment of fighters demonstrated the country's commitment to safeguarding its sovereign airspace while cooperating with alliance partners to maintain security in the region.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:10",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-238",
-    "title": "Harvey Weinstein sentenced to 15 years for sexual assault",
-    "slug": "harvey-weinstein-sentenced-to-15-years-for-sexual-assault",
-    "content": "During a recent court hearing, Miriam Haley testified that the assault she experienced had a “devastating effect on my life and sense of security that may never go away.” Her statement was made on the stand as part of the proceedings addressing the alleged attack, underscoring the personal toll the incident has taken on the victim.\n\nHaley’s remarks highlighted the lasting emotional and psychological impact of the assault, emphasizing that the repercussions may persist indefinitely. The testimony adds a personal dimension to the case as the court continues to evaluate the evidence and determine appropriate legal outcomes.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:32:05",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-237",
-    "title": "Xi Jinping to begin multi‑day visit to Washington, discuss trade and AI",
-    "slug": "xi-jinping-to-begin-multi-day-visit-to-washington-discuss-trade-and-ai",
-    "content": "Former President Donald Trump is set to host Chinese President Xi Jinping for a multi‑day visit to Washington, during which the two leaders are expected to cover a broad agenda that includes trade, artificial intelligence and other strategic topics. The talks, scheduled to begin later this week, mark the first high‑level engagement between the United States and China since the latter’s last state visit in 2019 and come amid ongoing tensions over tariffs, technology transfer restrictions and geopolitical competition in the Indo‑Pacific region.\n\nU.S. officials have indicated that the discussions will aim to address lingering trade disputes, explore cooperation on emerging AI standards, and assess bilateral security concerns. Both sides have signaled a willingness to explore pathways for de‑escalation while safeguarding national interests, suggesting the meetings could influence future policy directions on economic and technological fronts. The outcome of the talks is expected to be closely monitored by businesses and policymakers worldwide for indications of any shift in the U.S.–China relationship.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:31:59",
-    "author": "BBC World",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-236",
-    "title": "Iran official says country will not submit to U.S. demands",
-    "slug": "iran-official-says-country-will-not-submit-to-u-s-demands",
-    "content": "Masoud Pezeshkian delivered a forceful address to the United Nations on Thursday, denouncing recent U.S. statements that threatened to “annihilate” Iran if a peace agreement is not reached promptly. The speech came hours after President Joe Biden warned that continued delays in negotiations over Iran’s nuclear program could lead to severe consequences, emphasizing the United States’ willingness to consider “maximum pressure” measures.\n\nIn his remarks, Pezeshkian, Iran’s deputy foreign minister for international affairs, rejected the U.S. ultimatum as an infringement on Iran’s sovereignty and a violation of diplomatic norms. He called for a return to constructive dialogue, highlighting that the Joint Comprehensive Plan of Action (JCPOA) remains the most viable framework for regional stability. Pezeshkian also noted that Iran has complied with its obligations under the agreement and urged the Security Council to condemn any threats that could undermine the peace process.\n\nThe exchange underscores heightened tensions surrounding the stalled nuclear talks and signals a potential escalation in diplomatic rhetoric. Analysts suggest that both sides may now face increased pressure to either resume negotiations or risk further isolation, with the United Nations likely to become a focal point for any subsequent diplomatic initiatives.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "9/23/2026 23:31:53",
-    "author": "BBC World",
     "isFeatured": false
   }
 ]
