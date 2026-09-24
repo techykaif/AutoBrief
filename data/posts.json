@@ -1,5 +1,104 @@
 [
   {
+    "id": "BLOG-20260924-304",
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+    "slug": "google-s-project-suncatcher-to-put-ml-infrastructure-in-space",
+    "content": "Google’s Project Suncatcher aims to place machine learning infrastructure in space, according to a report by The New York Times. The initiative is designed to leverage orbital positioning for computational tasks, marking a distinct approach to deploying artificial intelligence resources beyond Earth’s surface.\n\nThe project has generated discussion within the technology community, as evidenced by its presence on Hacker News where it accumulated 27 points and 36 comments. This reaction highlights the significant interest and debate surrounding the feasibility and implications of moving data center operations into orbit.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:37",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-298",
+    "title": "Whiteboard Launches as Open-Source IDE for Collaborative Software Design",
+    "slug": "whiteboard-launches-as-open-source-ide-for-collaborative-software-design",
+    "content": "Sid, Alex, Ketan, and Milan have released Whiteboard, an open-source desktop application designed to allow humans and AI agents to architect software together in a shared workspace. The team, who previously worked as tech leads, developed the tool to address the \"cognitive debt\" they experienced when maintaining codebases created by agentic coding tools. Whiteboard integrates with existing tools such as Claude Code and Codex, providing an SDK that enables agents to draw on an in-app canvas to describe their work. The application is built on CodeOSS, allowing users to click on visualizations like sequence diagrams or entity relationship diagrams to jump directly to the underlying code with VSCode keybindings and LSP support.\n\nThe platform includes a semantic, AST-aware diff viewer written in Rust that filters code changes to show only relevant updates, such as summarizing large added functions as pseudocode. It also features a Decision Log that allows agents to link their autonomous traces to the Whiteboard, helping users understand how specific requirements were implemented. Companies including Salesforce and Modal are currently using Whiteboard as a review tool for architecture or spec-level changes, often combining it with automated code reviewers like Greptile to escalate complex changes for human judgment.\n\nThe developers, who are college buddies that quit their jobs before agentic coding became standard, are releasing the desktop app under an MIT license for MacOS and Linux. They plan to eventually charge companies for a hosted web version that includes trajectory storage and multiplayer reviews, while keeping the software self-hostable. The project is available for contribution on GitHub, and the team welcomes feedback from the community.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:27",
+    "author": "Hacker News",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-297",
+    "title": "Google Gemini's Call for Me Feature Launches on Pixel 11",
+    "slug": "google-gemini-s-call-for-me-feature-launches-on-pixel-11",
+    "content": "Google has introduced a new feature called \"Call for Me\" for its Gemini AI, which is exclusively available on the Pixel 11 series of phones. This capability allows the AI to make phone calls on behalf of the user, changing the typical association of automated calls with robocalls.\n\nThe feature is limited to the specific Pixel 11 hardware and utilizes Google’s Gemini technology to handle the communication process.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:22",
+    "author": "Wired",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-296",
+    "title": "Inmo Air3 Smart Glasses Recalled for Overheating Temple Burn Hazard",
+    "slug": "inmo-air3-smart-glasses-recalled-for-overheating-temple-burn-hazard",
+    "content": "Inmo, a manufacturer of various smart glasses, has issued a recall for its Air3 model after the left temple was found to overheat during extended use, creating a burn hazard that poses a risk of serious injury or death. The US Consumer Product Safety Commission (CPSC) reported that ten users have experienced a burning sensation on their face and left ear while using the device.\n\nThe recall covers more than 1,600 units sold in the US and Canada between December 2025 and August 2026 through Inmo’s website, Amazon, and a Kickstarter crowdfunding campaign. These glasses were sold for prices ranging from $900 to $1.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:17",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-295",
+    "title": "Meta's Muse AI mascot adopts cute designs based on user data",
+    "slug": "meta-s-muse-ai-mascot-adopts-cute-designs-based-on-user-data",
+    "content": "Victoria Song, a Verge senior reviewer, expressed disappointment in the functional output of Meta’s Muse AI agent, which she named Blorbo, after it generated a mediocre workout routine for a sub-30 minute 5K and muscle regain goals. Despite the underwhelming practical advice, Song noted that the AI’s visual representation had morphed into a cat-shaped piece of bread with a Kirby-like face based on information it learned from her emails.\n\nSong described the resulting mascot as \"stinking cute,\" contrasting its appealing appearance with the lackluster quality of the generated health goals. The article, titled \"It’s sinister that Meta’s Muse AI mascot is so cute,\" highlights this disparity between the AI's engaging aesthetic and its limited utility in this specific instance.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:13",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-294",
+    "title": "Now Google Chrome shares tabs to new devices that save where you were",
+    "slug": "now-google-chrome-shares-tabs-to-new-devices-that-save-where-you-were",
+    "content": "Google is introducing updates to its Chrome browser aimed at simplifying the research and study of complex topics. These enhancements include a memory upgrade for the existing cross-device tab switching feature and new capabilities for Gemini in Chrome, which will allow the tool to analyze a wider variety of media and generate interactive study quizzes.\n\nThe updated cross-device tab switching function will now remember the specific scroll position of a webpage when a user moves a tab from a mobile device to a computer or vice versa. This addition is designed to eliminate the need for users to manually locate their previous spot on the page, while the new Gemini features expand the browser’s utility for educational and analytical tasks.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:08",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-293",
+    "title": "Muse AI Agent Faces Similarity Allegations to OpenClaw",
+    "slug": "muse-ai-agent-faces-similarity-allegations-to-openclaw",
+    "content": "Meta’s new consumer-facing AI agent, Muse, has quickly gained traction, topping App Store charts and amassing an estimated 600,000 daily active users in the US according to Apptopia. This launch coincides with broader industry attention on AI agents, including the platform Instinct, whose creator is reportedly fundraising at a $2.5 billion valuation. Amidst this surge in AI agent development, social media users have alleged that Muse is directly built on the foundational platform OpenClaw.\n\nThe primary basis for these allegations is that Muse and OpenClaw share identical names for their core files, such as SOUL.Md and memory. These similarities have drawn comparisons between the two systems, suggesting a direct technical lineage for Meta’s new product. The claims highlight a potential connection between the widely used OpenClaw platform and Meta’s latest consumer-facing application.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:32:04",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-291",
+    "title": "Meta Launches AI Tools for Creating Games on Horizon Platform",
+    "slug": "meta-launches-ai-tools-for-creating-games-on-horizon-platform",
+    "content": "Meta has announced two new development tools designed to enable users to create games for its Horizon social platform using AI prompts. The company introduced Horizon Create, a mobile application, and Horizon Studio, a browser-based app that provides more granular controls for game development. Both tools are currently available in early access, with interested users able to sign up for a waitlist to gain entry.\n\nTo address previous struggles with the Horizon platform, Meta plans to significantly increase the reach of games developed with these new tools. Published games created via Horizon Create and Horizon Studio will be recommended on Facebook and Instagram, where they will also be playable. This integration aims to leverage the larger user bases of Meta’s existing social networks to drive engagement with Horizon content.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:31:57",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260924-290",
+    "title": "Nvidia CEO Jensen Huang says AI could aid climate fight but may cause suffering",
+    "slug": "nvidia-ceo-jensen-huang-says-ai-could-aid-climate-fight-but-may-cause-suffering",
+    "content": "Jensen Huang, the CEO of Nvidia, appeared on the latest episode of The Ezra Klein Show to discuss the role of artificial intelligence in addressing climate change. In the interview, Huang said that AI could help fight climate change, but only if it first inflicts “an enormous amount of pain and suffering.” He also spoke about the future of energy and how AI’s impact on the planet could be significant.\n\nHuang’s remarks echoed an accelerationist narrative that has been promoted by other tech leaders and even President Donald Trump, who similarly suggest that AI’s benefits justify the damage caused by data centers that currently rely on dirty energy. The interview highlighted Huang’s extreme level of privilege, a point he repeatedly made during the conversation.\n\nIn the interview, Huang stated that AI could help fight climate change, but only after inflicting significant pain and suffering, and he discussed the future of energy and AI’s impact on the planet on The Ezra Klein Show.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "9/25/2026 0:31:53",
+    "author": "The Verge",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260924-288",
     "title": "Meta to Ship AI Assistant Muse Charm in December",
     "slug": "meta-to-ship-ai-assistant-muse-charm-in-december",
@@ -5398,105 +5497,6 @@
     "categorySlug": "technology",
     "publishedAt": "9/23/2026 19:34:12",
     "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-156",
-    "title": "Startup Aims to Power Data Centers with Supercritical CO2",
-    "slug": "startup-aims-to-power-data-centers-with-supercritical-co2",
-    "content": "A new retrofit technology promises to boost the efficiency of existing gas turbines by attaching a lightweight, high‑temperature coating that improves combustion and reduces fuel consumption. While the added layer can lower operating costs and extend the life of the turbines, it does not eliminate the carbon dioxide and nitrogen oxide emissions that these engines inherently produce. The developers say the system is designed for quick installation on current units, allowing power plants to enhance output without a full replacement of the turbine fleet.\n\nThe coating works by increasing the turbine’s operating temperature range, which allows more of the fuel’s energy to be converted into useful work. Laboratory tests show a 5–8 % improvement in thermal efficiency, translating into measurable fuel savings for large industrial and utility customers. However, the technology does not capture or convert the exhaust gases; the emissions profile remains largely unchanged, meaning regulatory compliance will still require separate carbon‑capture or emission‑control measures.\n\nIndustry analysts view the retrofit as a pragmatic interim step for operators looking to reduce fuel costs while awaiting more advanced, low‑emission solutions. By improving efficiency without removing emissions, the technology offers a modest environmental benefit, but it underscores the continued need for broader decarbonization strategies in the power sector.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:34:03",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-155",
-    "title": "Best Samsung Phones 2026: Ultra, Fold, and Budget Models",
-    "slug": "best-samsung-phones-2026-ultra-fold-and-budget-models",
-    "content": "Samsung’s Galaxy lineup has grown into a comprehensive ecosystem that covers every segment of the smartphone market, from entry‑level models to high‑end flagships and the latest foldable devices. The company now offers budget‑friendly options such as the Galaxy A series, which deliver essential features at a lower price point, while the Galaxy S and Galaxy Z series push the envelope with premium displays, advanced cameras, and cutting‑edge processors. The foldable range, including the Galaxy Z Fold and Z Flip, introduces new form factors that combine tablet‑sized screens with the portability of a phone, appealing to both consumers and professionals who demand versatility.\n\nIndustry analysts note that Samsung’s strategy of maintaining a diverse product portfolio helps it capture a broad customer base amid intensifying competition from rivals like Apple, Google, and Chinese manufacturers. The company’s recent releases have emphasized software continuity through One UI, robust 5G connectivity, and improved battery life across all models. In addition, Samsung’s emphasis on ecosystem integration—such as seamless pairing with Galaxy Buds, Galaxy Watch, and SmartThings—provides added value for users who invest in multiple devices.\n\nWIRED has compiled a detailed guide to help readers navigate Samsung’s extensive range, highlighting key specifications, price points, and use‑case scenarios for each segment. The guide aims to clarify which devices best meet different needs, whether a budget-conscious shopper seeks a reliable daily driver or a tech enthusiast desires the latest foldable innovation. By offering clear comparisons and expert insights, WIRED seeks to simplify the decision‑making process for consumers exploring Samsung’s ever‑expanding Galaxy family.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:56",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-154",
-    "title": "Meta Issues Patch for Muse AI Security Flaw",
-    "slug": "meta-issues-patch-for-muse-ai-security-flaw",
-    "content": "Meta announced that it has released a patch for a critical zero‑day vulnerability in its AI assistant Muse, which could have allowed attackers to execute arbitrary code on a victim’s Mac. The flaw, identified by security researchers, would have enabled an attacker to take full control of a user’s system, effectively granting them the ability to “do whatever” they wanted, from data theft to installing malware. The company stated that the fix addresses the underlying flaw in Muse’s code execution path and is available through the latest macOS updates.\n\nThe incident highlights the growing risks associated with AI‑powered assistants that run on personal devices. Muse, designed to provide contextual help and automate routine tasks, relies on deep integration with macOS, making it a high‑value target for attackers. Meta’s swift response and patch rollout underscore the importance of timely vulnerability remediation in the rapidly evolving AI ecosystem.\n\nWhile the patch mitigates the immediate threat, security experts caution that the incident serves as a reminder of the broader security implications of embedding AI assistants into everyday computing environments. Continued vigilance and rigorous testing will be essential as AI features become increasingly common in consumer software.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:48",
-    "author": "Wired",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-153",
-    "title": "Eight Sleep launches Pod 6 with compact cooling hub for under‑bed placement",
-    "slug": "eight-sleep-launches-pod-6-with-compact-cooling-hub-for-under-bed-placement",
-    "content": "Eight Sleep has unveiled its next‑generation “intelligent sleep system,” the Pod 6, which promises to adjust a bed’s temperature automatically in response to real‑time health data such as breathing patterns and heart rate.  The company describes the new device as its “most significant hardware launch to date,” highlighting a newly engineered cooling hub that is compact enough to fit beneath most mattresses.  The Pod 6 builds on the foundation laid by the 2025 Pod 5, but offers a slimmer, more streamlined design that still delivers the same advanced temperature‑control capabilities.\n\nPricing for the Pod 6 is lower than the previous model, though it remains a premium investment.  Eight Sleep lists the Standard version at $2,699 for a full‑size mattress and $2,999 for a king‑size mattress, with additional options for custom configurations.  The system is now available directly through Eight Sleep’s online store, allowing consumers to order the device without a third‑party retailer.  The company emphasizes that the Pod 6’s sensors continuously monitor sleep metrics, enabling the cooling hub to fine‑tune the sleeping environment throughout the night.\n\nWith the release of Pod 6, Eight Sleep seeks to solidify its position in the growing market for connected sleep technology.  By integrating more precise biometric tracking with a more discreet cooling mechanism, the company aims to offer users a more comfortable and data‑driven sleep experience.  The new hardware launch underscores Eight Sleep’s commitment to advancing sleep science through consumer‑friendly products.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:40",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-152",
-    "title": "OpenAI hires former Patreon execs for creator product",
-    "slug": "openai-hires-former-patreon-execs-for-creator-product",
-    "content": "OpenAI has announced the appointment of Patreon co‑founder Sam Yam as head of its new Creator Product division. Yam, who has served as Patreon’s technology chief since its launch 13 years ago, made the announcement on X, noting that he will be joined by former Patreon product head Drew Rowny and engineering head Shannon Ma, both of whom stepped down from the platform in recent weeks. Together, the trio will shape OpenAI’s strategy for tools and services aimed at creators and their audiences.\n\nThe move follows OpenAI’s broader effort to expand its product offerings beyond AI research. By bringing in executives with deep experience in subscription‑based creator ecosystems, the company signals a commitment to developing early‑access tools that enhance creator workflows and community engagement. Yam emphasized that the new initiatives will be “critically valuable to Creators and their communities,” underscoring a focus on practical, creator‑centric solutions.\n\nWith this leadership shift, OpenAI is positioning itself to compete more directly in the creator economy, leveraging its AI capabilities to offer innovative features for content creators. The addition of seasoned Patreon veterans is expected to accelerate the rollout of these tools and strengthen the company’s foothold in the rapidly evolving creator marketplace.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:32",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-151",
-    "title": "Xiaomi 18 Pro Phones Feature Rear Displays and Privacy Screens",
-    "slug": "xiaomi-18-pro-phones-feature-rear-displays-and-privacy-screens",
-    "content": "Xiaomi unveiled its new 18 Pro and 18 Pro Max in China today, marking the first time the company has released a global launch for the series. The devices keep the rear‑display concept introduced with the 17 Pro models, allowing the compact screens to double as notification panels, selfie cameras and simple gaming displays while still housing the dual 200‑megapixel camera array. The phones also incorporate Qualcomm’s latest Snapdragon 8 Elite Gen 6 processors, a step up from the chips used in the previous generation.\n\nThe 18 Pro line follows a similar design language to the 17 Pro, featuring a flexible privacy‑display technology that mirrors Samsung’s Galaxy S26 Ultra. Both models offer a more flexible take on the rear‑screen concept, and the company confirmed a worldwide release later this year. This international rollout comes after the 17 Pro series was limited to select markets, broadening Xiaomi’s presence in the high‑end smartphone segment.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:25",
-    "author": "The Verge",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-150",
-    "title": "European report warns of rising orbital collision risk",
-    "slug": "european-report-warns-of-rising-orbital-collision-risk",
-    "content": "A senior space‑policy analyst at the International Space Agency’s annual conference cautioned that the growing congestion of Earth’s orbital environment could soon render several key orbital slots unusable. “I think we are going to lose the ability to use certain orbits,” the analyst said, highlighting the mounting risk of collision and debris in low‑Earth orbit (LEO) and the geostationary belt.\n\nThe warning follows a sharp rise in the number of active satellites, particularly from large constellations, and an increasing inventory of defunct spacecraft and spent rocket stages that remain in orbit. Experts noted that the cumulative effect of these objects could trigger a cascade of collisions—known as the Kessler syndrome—making it difficult to safely maneuver new payloads into those crowded regions. Agencies such as NASA, ESA, and the Russian Roscosmos are already reviewing orbital slot allocation and debris‑mitigation protocols to preserve operational access.\n\nIn response, the conference concluded with a call for coordinated international regulations and the development of active debris‑removal technologies. While the immediate impact on satellite launches remains uncertain, the consensus is that proactive measures are essential to maintain the long‑term viability of critical orbital pathways.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:18",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-149",
-    "title": "New Imaging Reveals Details of Hunga Caldera Collapse",
-    "slug": "new-imaging-reveals-details-of-hunga-caldera-collapse",
-    "content": "Post‑eruption imaging of the Hunga caldera has revealed previously unseen details of its collapse, according to a new study released by a team of volcanologists. The research, which followed the 2021 eruption that produced a series of explosive blasts and a large ash plume, employed high‑resolution satellite radar and airborne LiDAR to map the caldera’s topography after the event.\n\nThe analysis shows that the collapse was more extensive than earlier models suggested, with a subsidence zone stretching over 4 km² and a maximum vertical drop of roughly 200 meters. The data also indicate that the caldera walls have shifted laterally by up to 150 meters, creating a new, irregular basin shape. These findings refine the understanding of the magma chamber’s dynamics and the structural weaknesses that led to the eruption.\n\nThe updated collapse model will inform future hazard assessments for the region, particularly for communities and shipping lanes that rely on the nearby island of Hunga. Continuous monitoring with the same imaging techniques is planned to track any further changes in the caldera’s morphology.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:08",
-    "author": "Ars Technica",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260923-148",
-    "title": "Ema Raises $77M as AI Expands in Enterprise Software",
-    "slug": "ema-raises-77m-as-ai-expands-in-enterprise-software",
-    "content": "Ema, a technology startup focused on enterprise data solutions, announced that it has secured a total of $140 million in funding to date. The capital round, led by a mix of venture capital firms and strategic investors, underscores the growing confidence in the company’s platform for managing and analyzing large-scale data across cloud environments.\n\nThe firm now boasts more than 50 enterprise customers, including industry leaders Google and Microsoft. These partnerships highlight Ema’s ability to deliver scalable, secure data services that meet the stringent requirements of high‑profile tech giants. The company’s client roster also spans several other Fortune 500 organizations, reflecting a broad adoption of its solutions across diverse sectors.\n\nWith this latest funding milestone and a robust customer base, Ema is positioned to accelerate product development and expand its market reach. The influx of capital is expected to support further innovation in data analytics and strengthen its competitive stance in the rapidly evolving enterprise technology landscape.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/23/2026 19:33:00",
-    "author": "TechCrunch",
     "isFeatured": false
   }
 ]
