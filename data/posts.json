@@ -1,5 +1,126 @@
 [
   {
+    "id": "BLOG-20260925-488",
+    "title": "Supreme Court blocks use of GOP-favored map in Missouri — again",
+    "slug": "supreme-court-blocks-use-of-gop-favored-map-in-missouri-again",
+    "content": "The Supreme Court on Friday blocked a directive requiring Missouri Republicans to use their favored congressional map, signaling that officials must revert to an older design for the November elections. This ruling marks another intervention in the state’s contentious redistricting dispute and represents a setback for the GOP, which had sought to implement a more advantageous 7-1 House map.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/26/2026 4:42:55",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-486",
+    "title": "White House defends pro-Trump TV ads timed with midterms: ‘Patriotism isn’t partisan’",
+    "slug": "white-house-defends-pro-trump-tv-ads-timed-with-midterms-patriotism-isn-t-partis",
+    "content": "The White House defended a pro-President Trump television campaign that aired this week ahead of the 2026 midterm election, asserting that “patriotism isn’t partisan.” The administration stated that the announcements serve as a reminder for Americans to love their country and understand why it is worth defending at home, at the border, and abroad.\n\nThe White House maintained that these messages are intended to reinforce national values rather than engage in partisan politics.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/26/2026 4:42:49",
+    "author": "The Hill",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-484",
+    "title": "With primaries over, some members of the GOP are breaking with President Trump",
+    "slug": "with-primaries-over-some-members-of-the-gop-are-breaking-with-president-trump",
+    "content": "With the primary elections concluded, several Republican candidates in competitive races have broken with President Trump on key agenda issues this week. This divergence occurs as voters continue to express concern regarding the economy and the war with Iran.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "9/26/2026 4:42:44",
+    "author": "NPR Politics",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-480",
+    "title": "Virtual Reality and Classical Music Reduce Emergency Department Blood Pressure",
+    "slug": "virtual-reality-and-classical-music-reduce-emergency-department-blood-pressure",
+    "content": "A virtual reality landscape featuring a flowing river and trees, accompanied by classical music, has been shown to significantly reduce patients' blood pressure within 15 minutes of being seen in an emergency department. This intervention utilizes immersive technology and auditory elements to impact physiological responses during the initial phase of emergency care.\n\nThe combination of visual and auditory stimuli is specifically designed to lower blood pressure levels rapidly for patients in the emergency setting.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "9/26/2026 4:42:37",
+    "author": "Medical Xpress",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-478",
+    "title": "Paramount CEO David Ellison's antitrust settlement addresses theatrical concerns",
+    "slug": "paramount-ceo-david-ellison-s-antitrust-settlement-addresses-theatrical-concerns",
+    "content": "Paramount CEO David Ellison has secured an antitrust settlement that alleviates certain concerns within the theatrical industry, a move intended to facilitate the acquisition of Warner Bros. Discovery. This agreement is set to remain in effect for a period of five years, during which time it addresses specific regulatory issues that had previously posed obstacles to the transaction.\n\nDespite the settlement easing some immediate worries, skepticism persists among industry observers regarding the long-term implications of the deal. Questions remain about the potential consequences that may arise once the five-year agreement expires, leaving uncertainty about the future stability of the arrangement.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "9/26/2026 4:42:31",
+    "author": "CNBC Business",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-476",
+    "title": "Ultrathin materials may enable programmable quantum light circuits",
+    "slug": "ultrathin-materials-may-enable-programmable-quantum-light-circuits",
+    "content": "A new review paper suggests that quantum photonics could become a pivotal component of future quantum technology, provided that the appropriate materials are developed. The study highlights the potential of ultrathin materials to enable the creation of programmable quantum light circuits.\n\nThis research indicates that advancing material science is essential for realizing the full capabilities of quantum photonic systems. The findings underscore the importance of material innovation in the broader development of quantum technology.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:42:26",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-475",
+    "title": "Century-Old Solvent Enables Efficient Amide Bond Synthesis",
+    "slug": "century-old-solvent-enables-efficient-amide-bond-synthesis",
+    "content": "Amide bonds are critical chemical linkages utilized across biology, medicine, and materials chemistry, with peptide bonds specifically serving to link amino acids in the formation of proteins. These bonds are also vital components in the development of medicines and polymers, making their efficient synthesis a significant area of focus within the field of green chemistry. The research highlights the potential of a century-old solvent to facilitate this process.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:42:22",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-474",
+    "title": "Natural proteins guide drug ingredients to diseased cells",
+    "slug": "natural-proteins-guide-drug-ingredients-to-diseased-cells",
+    "content": "Oral medications are distributed throughout the body after ingestion, reaching both diseased tissues and healthy cells. While the drugs perform their intended function in affected areas, their presence in healthy cells often causes more harm than good. This widespread distribution highlights the challenge of targeting specific diseased cells without affecting healthy tissue.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:42:17",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-473",
+    "title": "Blood pressure enzyme found to produce sulfur rings for cellular antioxidants",
+    "slug": "blood-pressure-enzyme-found-to-produce-sulfur-rings-for-cellular-antioxidants",
+    "content": "Antioxidants, including vitamins C and E, serve to protect cells by neutralizing free radicals like reactive oxygen species. This process prevents these molecules from damaging genetic material or cell membranes. Such cellular damage is noted to potentially contribute to the development of neurodegenerative diseases.\n\nConsequently, antioxidants help prevent this cellular damage.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:42:12",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-470",
+    "title": "Human Cells Detect Fusion Viruses in an Hour",
+    "slug": "human-cells-detect-fusion-viruses-in-an-hour",
+    "content": "Researchers have identified a previously missing component in the biological process that allows human cells to detect invading viruses and initiate an immune response within an hour. This discovery clarifies the rapid mechanism by which cells recognize viral fusion with their membranes. The findings provide a clearer understanding of the swift defensive actions taken by human cells against viral threats.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:42:04",
+    "author": "Phys.org",
+    "isFeatured": false
+  },
+  {
+    "id": "BLOG-20260925-468",
+    "title": "Virtual reality river and classical music lower hospital blood pressure",
+    "slug": "virtual-reality-river-and-classical-music-lower-hospital-blood-pressure",
+    "content": "A study conducted in a hospital setting found that patients who watched a river flow through a virtual‑reality headset while listening to classical music experienced a rapid reduction in blood pressure that had been dangerously high. The intervention combined visual exposure to a virtual green space with auditory stimulation from classical music, and the effect was observed quickly after the treatment began.\n\nThe findings suggest that the simultaneous use of immersive river imagery and classical music can bring patients’ blood pressure down from a dangerously high level in the hospital. The combination of virtual river viewing and classical music quickly lowered patients’ dangerously high blood pressure in the hospital.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "9/26/2026 4:41:58",
+    "author": "New Scientist",
+    "isFeatured": false
+  },
+  {
     "id": "BLOG-20260925-466",
     "title": "San Marino Becomes 76th Signatory to Artemis Accords",
     "slug": "san-marino-becomes-76th-signatory-to-artemis-accords",
@@ -5376,127 +5497,6 @@
     "categorySlug": "politics",
     "publishedAt": "9/25/2026 0:53:01",
     "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-345",
-    "title": "State Department Orders Diplomats to Use 'Super Intelligence' Over 'Artificial Intelligence'",
-    "slug": "state-department-orders-diplomats-to-use-super-intelligence-over-artificial-inte",
-    "content": "The State Department has instructed its diplomats to adopt the term “super intelligence” (SI) in place of “artificial intelligence” across all official communications, a directive issued following President Trump’s push for the terminology change, according to a report by The Associated Press on Wednesday. The news outlet disclosed an email with the subject line “Change in Nomenclature AI to SI” that was sent to the department’s Bureau of.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:57",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-344",
-    "title": "Reasons Phone Weather Forecasts Can Be Inaccurate",
-    "slug": "reasons-phone-weather-forecasts-can-be-inaccurate",
-    "content": "Weather forecasts displayed on mobile phone applications frequently fail to match actual weekend conditions, resulting in significant discrepancies between predicted and observed weather patterns. Users often encounter situations where the highs, lows, and probability of precipitation shown in their apps are entirely different from the reality experienced during the weekend.\n\nThese inaccuracies can manifest in various ways, such as rain occurring despite forecasts indicating dry weather or temperatures being substantially hotter than anticipated. The mismatch between the digital predictions and the physical weather events highlights the potential unreliability of the numerical data provided by these mobile services.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:53",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-343",
-    "title": "CNN Poll: 75% of Americans Fear AI Development",
-    "slug": "cnn-poll-75-of-americans-fear-ai-development",
-    "content": "A majority of Americans are worried about the progress of artificial intelligence, with tech industry leaders and lawmakers simultaneously calling for a slowdown in its development, according to a poll released Thursday. The CNN survey found that three-quarters of respondents reported some level of “fear and concern” regarding the “growth and development of AI technology.”\n\nThe remaining 25 percent of respondents did not report such fear or concern in the new survey.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:49",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-342",
-    "title": "Harmeet Dhillon Accuses UC School of Racial Discrimination",
-    "slug": "harmeet-dhillon-accuses-uc-school-of-racial-discrimination",
-    "content": "Harmeet Dhillon has accused a University of California school of discriminating against white and Asian students. The content asserts that higher education admissions officers seek to select students based on skin color, although such practices are no longer permitted.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:44",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-341",
-    "title": "NY congressional candidate Darializa Avila Chevalier arrested at UN protest",
-    "slug": "ny-congressional-candidate-darializa-avila-chevalier-arrested-at-un-protest",
-    "content": "New York congressional candidate Darializa Avila Chevalier (D) was arrested on Thursday during a protest against Israeli Prime Minister Benjamin Netanyahu’s speech at the United Nations. Avila Chevalier is all but assured to win Rep. Adiriano Espaillat’s (D-N. Y.) blue House seat after besting him in this year’s primary. She was among roughly a group of individuals involved in the demonstration.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:40",
-    "author": "The Hill",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-340",
-    "title": "Glasgow City Council to fire and rehire over 23,000 employees",
-    "slug": "glasgow-city-council-to-fire-and-rehire-over-23-000-employees",
-    "content": "Glasgow City Council has announced plans to fire and rehire more than 23,000 of its employees. The council stated that redundancy notices would be withdrawn if the three involved unions agree to ballot their members regarding the pay offer.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:36",
-    "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-339",
-    "title": "Ministers reject dog ownership licence scheme",
-    "slug": "ministers-reject-dog-ownership-licence-scheme",
-    "content": "Ministers have turned down a proposal to introduce a licence scheme for dog owners, rejecting the plan that had been put forward as a new legal requirement. The decision was announced after a taskforce had suggested that such measures could help promote dog control and reduce attacks.\n\nThe taskforce’s recommendation centered on the idea that additional legal requirements would improve public safety by encouraging responsible ownership and lowering the incidence of dog‑related incidents. Despite the taskforce’s arguments, the ministers chose not to adopt the licence scheme.\n\nMinisters rejected the dog ownership licence scheme, and the taskforce had suggested new legal requirements could help promote dog control and reduce attacks.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "9/25/2026 0:52:32",
-    "author": "BBC Politics",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-338",
-    "title": "Kenya President and British envoy push for clean cooking in COP31 electrification agenda",
-    "slug": "kenya-president-and-british-envoy-push-for-clean-cooking-in-cop31-electrificatio",
-    "content": "The President of Kenya and the British climate envoy have stated that Africa should leverage the global electrification push to implement clean cooking solutions. This advocacy aims to integrate cooking into the broader electrification agenda at COP31.\n\nThe two officials emphasized the importance of including this specific energy sector in international climate discussions. Their comments highlight a strategic approach to addressing energy access in Africa through electrification. This joint position underscores the role of high-level diplomatic engagement in shaping the COP31 agenda.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "9/25/2026 0:52:28",
-    "author": "Climate Home News",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-337",
-    "title": "Rick Wakeman Plays Piano for 150 Rescued Moon Bears in Vietnam",
-    "slug": "rick-wakeman-plays-piano-for-150-rescued-moon-bears-in-vietnam",
-    "content": "Former Yes musician Rick Wakeman performed a piano concert for an audience of 150 rescued moon bears at a sanctuary in Vietnam. The event was organized to raise awareness for animals that remain trapped in cages at “bile farms.” This performance marked a unique experience for Wakeman, who has previously played for various audiences around the globe but had never encountered a bear enclosure before.\n\nWakeman, known for his prolific solo career following his time with Yes, played the piano specifically for the bears at the Vietnamese facility. The concert served as a highlight for the sanctuary, drawing attention to the plight of the animals still held in captivity.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "9/25/2026 0:52:20",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-336",
-    "title": "Gavin Newsom condemns Democrats’ ‘climate hushing’, predicts Trump’s downfall and expects AOC to run in 2028",
-    "slug": "gavin-newsom-condemns-democrats-climate-hushing-predicts-trump-s-downfall-and-ex",
-    "content": "California Governor Gavin Newsom criticized Democratic politicians for avoiding discussions on climate change, a practice he termed “climate hushing,” arguing that the issue is often ignored because candidates lack the skills to connect environmental shocks to everyday “kitchen table” concerns. Speaking during an interview with the Guardian and Covering Climate Now on the sidelines of the UN General Assembly and New York Climate Week, Newsom emphasized the necessity for the party to articulate the direct impact of climate change on voters.\n\nThe governor also forecast that the upcoming November midterm elections would mark “the end of Donald Trump’s presidency as we know it,” urging voters to turn out in such overwhelming numbers that any attempt by Trump to contest the results would be impossible. Newsom stated that if the US president declares a national emergency or attempts to invalidate the outcome, the courts must intervene and Congress must stand up for the rule of law to ensure the democratic process is upheld.",
-    "category": "Environment",
-    "categorySlug": "environment",
-    "publishedAt": "9/25/2026 0:52:15",
-    "author": "Guardian Environment",
-    "isFeatured": false
-  },
-  {
-    "id": "BLOG-20260924-334",
-    "title": "Healthcare's high-stakes game of brinkmanship threatens patient care",
-    "slug": "healthcare-s-high-stakes-game-of-brinkmanship-threatens-patient-care",
-    "content": "For most Americans with private health insurance, hospital prices are not set by the government. Instead, these costs are determined through negotiations between hospitals and insurers, who agree on the payment amounts when an insurer’s members receive care.",
-    "category": "Health",
-    "categorySlug": "health",
-    "publishedAt": "9/25/2026 0:52:09",
-    "author": "Medical Xpress",
     "isFeatured": false
   }
 ]
