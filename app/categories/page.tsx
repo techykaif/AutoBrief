@@ -10,7 +10,7 @@ import {
 export const revalidate = false
 
 export const metadata: Metadata = {
-  title: "Categories | AutoBrief",
+  title: "Categories", // layout.tsx title.template appends " | AutoBrief"
   description: "Browse all news categories on AutoBrief — World, Technology, Science, Business, Health, Environment, Politics, Sports, Entertainment, Space.",
   alternates: { canonical: "/categories" },
 }

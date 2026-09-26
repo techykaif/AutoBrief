@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { slug } = await params
   const name = slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, " ")
   return {
-    title: `${name} News | AutoBrief`,
+    title: `${name} News`, // layout.tsx title.template appends " | AutoBrief"
     description: `Latest ${name} news and articles on AutoBrief.`,
     alternates: { canonical: `/category/${slug}` },
   }

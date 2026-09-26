@@ -15,6 +15,7 @@ export interface NewsPost {
 
   // Classification
   category: string
+  categorySlug?: string
   author?: string
 
   // Publishing

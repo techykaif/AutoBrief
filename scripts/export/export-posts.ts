@@ -90,6 +90,21 @@ function isValidAiOutput(value: string): boolean {
   )
 }
 
+// The article page renders content as plain <p> text, not markdown, so any
+// **bold**/*italic*/# heading syntax the model slips in shows up as literal
+// asterisks/hashes on the page instead of being styled. Strip it here so
+// existing AI output (and any future output) always renders as plain prose.
+function stripMarkdownArtifacts(text: string): string {
+  return text
+    .replace(/^#{1,6}\s+/gm, "")        // leading heading markers
+    .replace(/\*\*(.+?)\*\*/g, "$1")   // **bold**
+    .replace(/__(.+?)__/g, "$1")        // __bold__
+    .replace(/\*(.+?)\*/g, "$1")        // *italic*
+    .replace(/(?<!\w)_(.+?)_(?!\w)/g, "$1") // _italic_ (word-boundary guarded
+                                              // so file_name-style underscores
+                                              // in ordinary text are untouched)
+}
+
 // The original-article URL comes from an external RSS feed and ends up in an
 // <a href>, so only let plain http(s) links through (blocks javascript:, data:, etc).
 function safeHttpUrl(value: unknown): string {
@@ -115,8 +130,8 @@ function rowToPost(row: any[]) {
   const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
-  const finalTitle = isValidAiOutput(aiTitle) ? aiTitle : titleBase
-  const finalContent = isValidAiOutput(aiContent) ? aiContent : contentBase
+  const finalTitle = stripMarkdownArtifacts(isValidAiOutput(aiTitle) ? aiTitle : titleBase)
+  const finalContent = stripMarkdownArtifacts(isValidAiOutput(aiContent) ? aiContent : contentBase)
 
   const categoryRaw = String(row[6] || "").trim()
   const sourceUrl = safeHttpUrl(row[18]) // FINAL_BLOGS col S (source_url)
