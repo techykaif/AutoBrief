@@ -2,11 +2,11 @@
 import { JWT } from "google-auth-library"
 import * as fs from "fs"
 import * as path from "path"
+import { SITE_URL } from "./../../lib/site"
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
 const SITEMAP_URL_LIMIT = 5000
-const SITE_URL = "https://autobrief.blog"
 
 // How many of the most recent posts stay in data/posts.json and get
 // statically prerendered (generateStaticParams) at build time. Everything
@@ -90,6 +90,19 @@ function isValidAiOutput(value: string): boolean {
   )
 }
 
+// The original-article URL comes from an external RSS feed and ends up in an
+// <a href>, so only let plain http(s) links through (blocks javascript:, data:, etc).
+function safeHttpUrl(value: unknown): string {
+  const s = String(value || "").trim()
+  if (!s) return ""
+  try {
+    const u = new URL(s)
+    return u.protocol === "http:" || u.protocol === "https:" ? s : ""
+  } catch {
+    return ""
+  }
+}
+
 function rowToPost(row: any[]) {
   const titleBase = String(row[2] || "").trim()
   const slugBase = String(row[3] || "").trim()
@@ -106,6 +119,7 @@ function rowToPost(row: any[]) {
   const finalContent = isValidAiOutput(aiContent) ? aiContent : contentBase
 
   const categoryRaw = String(row[6] || "").trim()
+  const sourceUrl = safeHttpUrl(row[18]) // FINAL_BLOGS col S (source_url)
 
   // Use existing slug if valid length, otherwise regenerate and cap
   const rawSlug = slugBase && slugBase.length <= MAX_SLUG_LENGTH
@@ -122,6 +136,8 @@ function rowToPost(row: any[]) {
     publishedAt: row[8] || new Date().toISOString(),
     author: String(row[7] || "").trim(),
     isFeatured: row[10] === true || String(row[10]).toUpperCase() === "TRUE",
+    // only present when we have a link, so old rows don't bloat the JSON
+    ...(sourceUrl ? { sourceUrl } : {}),
   }
 }
 
@@ -183,7 +199,9 @@ function generateStaticSitemap(posts: ReturnType<typeof rowToPost>[], publicDir:
 async function exportPosts() {
   console.log("📥 Fetching published posts from Google Sheets...")
 
-  const rows = await fetchSheetData("FINAL_BLOGS!A2:Q")
+  // A2:S — S is the source_url column (index 18). Rows without it just come
+  // back shorter, which rowToPost handles.
+  const rows = await fetchSheetData("FINAL_BLOGS!A2:S")
 
   const posts = rows
     .filter((row) => {

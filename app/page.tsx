@@ -1,9 +1,14 @@
+import type { Metadata } from "next"
 import { InfiniteNews } from "@/components/infinite-news"
 import { FeaturedSection } from "@/components/featured-section"
 import { CategoryFilter } from "@/components/category-filter"
 import { getPublishedPosts, getCategories, getFeaturedPosts } from "@/lib/data-source"
 
 export const revalidate = false
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+}
 
 export default async function HomePage() {
   const PAGE = 1

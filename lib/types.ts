@@ -25,6 +25,9 @@ export interface NewsPost {
   // Meta
   readingTime?: number // in minutes
   views?: number
+
+  // Link to the original article this summary is based on (FINAL_BLOGS col S)
+  sourceUrl?: string
 }
 
 /**

@@ -7,12 +7,13 @@ import { VisitTracker } from "@/components/visit-tracker"
 import "./globals.css"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { SITE_URL } from "@/lib/site"
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" })
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://autobrief.blog"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "AutoBrief — Automated News Aggregation",
     template: "%s | AutoBrief",
@@ -34,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "AutoBrief",
-    url: "https://autobrief.blog",
+    url: SITE_URL,
     title: "AutoBrief — Automated News Aggregation",
     description: "Free, ad-free automated news from 50+ sources.",
   },

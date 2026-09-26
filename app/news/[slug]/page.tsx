@@ -6,10 +6,9 @@ import type { Metadata } from "next"
 import { ShareButtons } from "@/components/share-buttons"
 import { NewsCard } from "@/components/news-card"
 import { Badge } from "@/components/ui/badge"
-import { ArrowLeft, User, Calendar, Clock, BookOpen } from "lucide-react"
+import { ArrowLeft, User, Calendar, Clock, BookOpen, ExternalLink } from "lucide-react"
 import { getPostBySlug, getPostsByCategory, getAllPosts } from "@/lib/data-source"
-
-const SITE_URL = "https://autobrief.blog"
+import { SITE_URL } from "@/lib/site"
 
 export const revalidate = false
 
@@ -39,7 +38,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const description = post.content.substring(0, 160)
   return {
-    title: `${post.title} | AutoBrief`,
+    title: post.title, // layout.tsx title.template appends " | AutoBrief"
     description,
     alternates: { canonical: `/news/${post.slug}` },
     openGraph: {
@@ -69,6 +68,9 @@ export default async function NewsPostPage({ params }: PageProps) {
   const readingTime = post.readingTime ?? Math.max(1, Math.ceil(wordCount / 200))
   const paragraphs = post.content.split("\n\n").filter(Boolean)
 
+  // Original article link (validated again here — never render a non-http(s) href)
+  const sourceUrl = post.sourceUrl && /^https?:\/\//i.test(post.sourceUrl) ? post.sourceUrl : ""
+
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
@@ -86,6 +88,7 @@ export default async function NewsPostPage({ params }: PageProps) {
       "@type": "WebPage",
       "@id": `${SITE_URL}/news/${post.slug}`,
     },
+    ...(sourceUrl ? { isBasedOn: sourceUrl } : {}),
   }
 
   return (
@@ -151,6 +154,21 @@ export default async function NewsPostPage({ params }: PageProps) {
               </p>
             ))}
           </div>
+
+          {/* Link to the original article */}
+          {sourceUrl && (
+            <p className="mb-8 text-sm">
+              <a
+                href={sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 font-medium text-primary hover:underline"
+              >
+                Read the original{post.author ? ` at ${post.author}` : ""}
+                <ExternalLink className="w-3.5 h-3.5" />
+              </a>
+            </p>
+          )}
 
           {/* AI disclosure */}
           <div className="mb-12 p-4 rounded-lg bg-muted/50 border border-border text-xs text-muted-foreground">

@@ -3,8 +3,8 @@ import Image from "next/image"
 import type { Metadata } from "next"
 import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
+import { SITE_URL } from "@/lib/site"
 
-const SITE_URL = "https://autobrief.blog"
 const AUTHOR_URL = "https://techykaif.site"
 
 export const metadata: Metadata = {
