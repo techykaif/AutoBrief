@@ -1,5 +1,17 @@
 [
   {
+    "id": "BLOG-20260928-086",
+    "title": "Madonna and Taylor Swift win top honors at the 2026 MTV Video Music Awards",
+    "slug": "madonna-and-taylor-swift-win-top-honors-at-the-2026-mtv-video-music-awards",
+    "content": "Madonna and Taylor Swift dominated the 2026 MTV Video Music Awards, taking four of the six prizes presented during the telecast. The ceremony, which largely honored female artists, also featured K‑pop star Lisa and British newcomer Sienna Spiro on the red carpet.\n\nMadonna entered the event as the most‑nominated artist of the year with 13 nods and ultimately secured seven awards, including three during the televised portion: Best Collaboration (with Sabrina Carpenter), Best Dance, and Artist of the Year. Taylor Swift captured the night’s top honor, extending her record as the most‑awarded artist in VMA history.\n\nMadonna and Swift won four of six telecast awards, with Madonna earning three trophies—including Artist of the Year—and Swift taking the top prize.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "9/28/2026 14:41:58",
+    "author": "Guardian Culture",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa"
+  },
+  {
     "id": "BLOG-20260928-084",
     "title": "Westminster City Council Custodian of Banksy Flag Statue",
     "slug": "westminster-city-council-custodian-of-banksy-flag-statue",
@@ -5986,17 +5998,5 @@
     "author": "Phys.org",
     "isFeatured": false,
     "sourceUrl": "https://phys.org/news/2026-09-tools-urban-trees-relief.html"
-  },
-  {
-    "id": "BLOG-20260925-385",
-    "title": "Laser light allows rapid detection of colorectal cancer biomarker in blood",
-    "slug": "laser-light-allows-rapid-detection-of-colorectal-cancer-biomarker-in-blood",
-    "content": "A new laser‑based technique can identify a colorectal cancer biomarker in blood samples within minutes, offering a rapid alternative to traditional detection methods. Researchers have long relied on antibodies to recognize specific molecules or biological markers because of their high precision, but the faint signals associated with cancer in blood present a persistent challenge even for the most reliable approaches.\n\nThe laser light method addresses this difficulty by amplifying the weak cancer signals that antibodies alone struggle to detect, enabling swift identification of the colorectal cancer biomarker directly from blood. This advancement could improve the speed and sensitivity of cancer screening by overcoming the limitations of conventional antibody‑based techniques.\n\nThe development demonstrates that laser light can enable detection of a colorectal cancer biomarker in blood within minutes despite the challenges of finding faint cancer signals.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/26/2026 1:32:03",
-    "author": "Phys.org",
-    "isFeatured": false,
-    "sourceUrl": "https://phys.org/news/2026-09-laser-enables-colorectal-cancer-biomarker.html"
   }
 ]
