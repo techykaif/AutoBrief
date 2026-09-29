@@ -99,18 +99,9 @@ jobs:
           KEY="$(tr -d '\r\n' < "$INDEXNOW_KEY_FILE")"
           KEY_LOCATION="https://www.autobrief.blog/$(basename "$INDEXNOW_KEY_FILE")"
 
-          node <<'NODE'
-          const fs = require("fs")
-          const payload = JSON.parse(fs.readFileSync("/tmp/indexnow-payload.json", "utf8"))
-          payload.key = process.env.INDEXNOW_KEY
-          payload.keyLocation = process.env.INDEXNOW_KEY_LOCATION
-          fs.writeFileSync("/tmp/indexnow-payload.json", JSON.stringify(payload))
-          NODE
-          
           export INDEXNOW_KEY="$KEY"
           export INDEXNOW_KEY_LOCATION="$KEY_LOCATION"
 
-          # Rebuild payload with the key fields after exporting the variables.
           node <<'NODE'
           const fs = require("fs")
           const payload = JSON.parse(fs.readFileSync("/tmp/indexnow-payload.json", "utf8"))
@@ -119,7 +110,10 @@ jobs:
           fs.writeFileSync("/tmp/indexnow-payload.json", JSON.stringify(payload))
           NODE
 
-          HTTP_CODE="$(curl -sS -o /tmp/indexnow-response.txt -w '%{http_code}'             -X POST 'https://api.indexnow.org/indexnow'             -H 'Content-Type: application/json; charset=utf-8'             --data-binary @/tmp/indexnow-payload.json)"
+          HTTP_CODE="$(curl -sS -o /tmp/indexnow-response.txt -w '%{http_code}' \
+            -X POST 'https://api.indexnow.org/indexnow' \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            --data-binary @/tmp/indexnow-payload.json)"
 
           echo "📡 IndexNow response: HTTP $HTTP_CODE"
           cat /tmp/indexnow-response.txt || true
