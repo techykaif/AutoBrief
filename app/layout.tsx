@@ -23,7 +23,18 @@ export const metadata: Metadata = {
   keywords: ["news", "automation", "technology", "science", "finance", "autobrief"],
   authors: [{ name: "Mohd Kaif Ansari" }],
   creator: "Mohd Kaif Ansari",
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      noimageindex: false,
+      "max-image-preview": "large",
+      "max-video-preview": -1,
+      "max-snippet": -1,
+    },
+  },
   verification: {
     google: "JaS2NIRQlSYOw0XEaYrSQP3RYE3kwbgxy5tV-6w4-x8",
   },
@@ -53,10 +64,22 @@ export const viewport: Viewport = {
   ],
 }
 
+const websiteStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": `${SITE_URL}/#website`,
+  name: "AutoBrief",
+  url: SITE_URL,
+}
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning className={`${geist.variable} ${geistMono.variable}`}>
       <body className="font-sans antialiased">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteStructuredData) }}
+        />
         <ThemeProvider>
           <VisitTracker />
           <Header />
