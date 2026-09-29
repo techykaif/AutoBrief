@@ -64,6 +64,9 @@ The export workflow:
 4. Commits changed data files to `main` using the GitHub Actions bot.
 5. Pushes the generated dataset.
 6. Triggers the configured Vercel deploy hook when one is available.
+7. Submits only newly published article URLs to IndexNow when the exported dataset contains new posts.
+
+IndexNow uses a domain-owned key file at `public/d772724038266eacc802a5965280c40b.txt` and notifies participating search engines through the global IndexNow endpoint. It is used only for newly added article URLs; existing unchanged URLs are not resubmitted.
 
 The repository history shows the automated data commits being produced successfully, so the generated dataset is an active part of the production workflow.
 
@@ -358,7 +361,6 @@ The following ideas are intentionally deferred until they can be added without d
 
 - **Newsletter:** add a subscriber system with signup, confirmation, unsubscribe, scheduled digests, and dedicated addresses such as `newsletter@autobrief.blog`, `support@autobrief.blog`, and `replies@autobrief.blog`.
 - **Article images:** carry suitable publisher-provided RSS image URLs through the pipeline and use the existing branded image as a fallback, with image-rights/usage rules verified before republication.
-- **Faster discovery:** add IndexNow URL submission for newly published articles.
 
 These are future work items, not part of the current production workflow.
 
