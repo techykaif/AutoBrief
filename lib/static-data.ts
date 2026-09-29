@@ -3,10 +3,36 @@ import type { NewsPost, Category } from "./types"
 
 let cachedPosts: NewsPost[] | null = null
 let cachedArchiveIndex: Record<string, string> | null = null
+let cachedMeta: DatasetMeta | null | undefined
 const shardCache = new Map<string, NewsPost[]>()
 
 function slugifyCategory(name: string): string {
   return name.toLowerCase().trim().replace(/\s+/g, "-")
+}
+
+interface DatasetMeta {
+  totalPosts: number
+  recentCount: number
+  archivedCount: number
+  archiveMonths: string[]
+  categoryCounts?: Category[]
+  todayArticles?: number
+  weekArticles?: number
+  lastUpdated?: string | null
+  generatedAt: string
+}
+
+function loadMeta(): DatasetMeta | null {
+  if (cachedMeta !== undefined) return cachedMeta
+
+  try {
+    const data = require("../data/meta.json")
+    cachedMeta = data && typeof data === "object" ? data : null
+  } catch {
+    cachedMeta = null
+  }
+
+  return cachedMeta
 }
 
 function calcReadingTime(content: string): number {
@@ -92,6 +118,11 @@ export async function getPostsByCategory(categorySlug: string): Promise<NewsPost
 }
 
 export async function getCategories(): Promise<Category[]> {
+  const meta = loadMeta()
+  if (meta?.categoryCounts?.length) {
+    return meta.categoryCounts
+  }
+
   const posts = loadPosts()
   const map = new Map<string, number>()
   posts.forEach((p) => {
@@ -99,11 +130,50 @@ export async function getCategories(): Promise<Category[]> {
     if (!name) return
     map.set(name, (map.get(name) || 0) + 1)
   })
+
   return Array.from(map.entries()).map(([name, count]) => ({
     name,
     slug: slugifyCategory(name),
     count,
   }))
+}
+
+export function getDatasetMeta(): DatasetMeta {
+  const meta = loadMeta()
+  if (meta) return meta
+
+  const posts = loadPosts()
+  const now = new Date()
+  const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime()
+  const weekStart = todayStart - 7 * 24 * 60 * 60 * 1000
+
+  const categoryMap = new Map<string, { name: string; slug: string; count: number }>()
+  posts.forEach((post) => {
+    const name = String(post.category || "").trim()
+    if (!name) return
+    const slug = post.categorySlug || slugifyCategory(name)
+    const current = categoryMap.get(slug)
+    if (current) current.count++
+    else categoryMap.set(slug, { name, slug, count: 1 })
+  })
+
+  return {
+    totalPosts: posts.length,
+    recentCount: posts.length,
+    archivedCount: 0,
+    archiveMonths: [],
+    categoryCounts: Array.from(categoryMap.values()).sort((a, b) => b.count - a.count),
+    todayArticles: posts.filter((post) => {
+      const time = new Date(post.publishedAt).getTime()
+      return Number.isFinite(time) && time >= todayStart && time <= now.getTime()
+    }).length,
+    weekArticles: posts.filter((post) => {
+      const time = new Date(post.publishedAt).getTime()
+      return Number.isFinite(time) && time >= weekStart && time <= now.getTime()
+    }).length,
+    lastUpdated: posts.length > 0 ? posts[0].publishedAt : null,
+    generatedAt: now.toISOString(),
+  }
 }
 
 export async function getFeaturedPosts(): Promise<NewsPost[]> {
