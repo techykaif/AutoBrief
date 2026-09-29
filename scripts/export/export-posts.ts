@@ -281,8 +281,45 @@ async function exportPosts() {
   const archiveIndexPath = path.join(dataDir, "archive-index.json")
   fs.writeFileSync(archiveIndexPath, JSON.stringify(archiveIndex), "utf-8")
 
-  // Lightweight totals so API routes (e.g. /api/status) can report accurate
-  // counts without loading every shard into memory.
+  // Lightweight dataset statistics so API routes/pages can report accurate
+  // totals without loading every archive shard at request time.
+  const generatedAt = new Date().toISOString()
+  const categoryMap = new Map<string, { name: string; slug: string; count: number }>()
+  for (const post of posts) {
+    if (!post.category) continue
+
+    const key = post.categorySlug || slugifyCategory(post.category)
+    const current = categoryMap.get(key)
+
+    if (current) {
+      current.count++
+    } else {
+      categoryMap.set(key, {
+        name: post.category,
+        slug: key,
+        count: 1,
+      })
+    }
+  }
+
+  const categoryCounts = Array.from(categoryMap.values()).sort((a, b) => b.count - a.count)
+
+  const nowMs = Date.now()
+  const todayStart = new Date()
+  todayStart.setHours(0, 0, 0, 0)
+  const todayStartMs = todayStart.getTime()
+  const weekStartMs = todayStartMs - 7 * 24 * 60 * 60 * 1000
+
+  const todayArticles = posts.filter((post) => {
+    const time = new Date(post.publishedAt).getTime()
+    return Number.isFinite(time) && time >= todayStartMs && time <= nowMs
+  }).length
+
+  const weekArticles = posts.filter((post) => {
+    const time = new Date(post.publishedAt).getTime()
+    return Number.isFinite(time) && time >= weekStartMs && time <= nowMs
+  }).length
+
   const metaPath = path.join(dataDir, "meta.json")
   fs.writeFileSync(
     metaPath,
@@ -292,7 +329,11 @@ async function exportPosts() {
         recentCount: recentPosts.length,
         archivedCount: archivedPosts.length,
         archiveMonths: Array.from(shards.keys()).sort().reverse(),
-        generatedAt: new Date().toISOString(),
+        categoryCounts,
+        todayArticles,
+        weekArticles,
+        lastUpdated: posts.length > 0 ? posts[0].publishedAt : null,
+        generatedAt,
       },
       null,
       2
