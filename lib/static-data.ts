@@ -32,7 +32,7 @@ function loadMeta(): DatasetMeta | null {
     cachedMeta = null
   }
 
-  return cachedMeta
+  return cachedMeta ?? null
 }
 
 function calcReadingTime(content: string): number {
