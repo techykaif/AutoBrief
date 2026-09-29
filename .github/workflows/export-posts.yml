@@ -19,6 +19,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
 
+      - name: Snapshot current posts for IndexNow
+        run: |
+          if [ -f data/posts.json ]; then
+            cp data/posts.json /tmp/posts-before-export.json
+          else
+            printf '[]\n' > /tmp/posts-before-export.json
+          fi
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -33,6 +41,28 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
         run: npx tsx scripts/export/export-posts.ts
+
+      - name: Prepare IndexNow submission list
+        run: |
+          node <<'NODE'
+          const fs = require("fs")
+
+          const before = JSON.parse(fs.readFileSync("/tmp/posts-before-export.json", "utf8") || "[]")
+          const after = JSON.parse(fs.readFileSync("data/posts.json", "utf8") || "[]")
+
+          const beforeIds = new Set(before.map((post) => String(post.id || "").trim()).filter(Boolean))
+          const newUrls = after
+            .filter((post) => post && post.id && !beforeIds.has(String(post.id).trim()))
+            .map((post) => `https://www.autobrief.blog/news/${post.slug}`)
+            .filter((url) => /^https:\/\/www\.autobrief\.blog\/news\//.test(url))
+
+          fs.writeFileSync("/tmp/indexnow-payload.json", JSON.stringify({
+            host: "www.autobrief.blog",
+            urlList: newUrls.slice(0, 10000),
+          }, null, 2))
+
+          console.log(`🔎 IndexNow: detected ${newUrls.length} newly published URL(s)`)
+          NODE
 
       - name: Commit exported data and sitemap
         run: |
@@ -50,5 +80,56 @@ jobs:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
           echo "🚀 Triggering Vercel rebuild..."
-          curl -s -X POST "$VERCEL_DEPLOY_HOOK"
+          curl -sS -X POST "$VERCEL_DEPLOY_HOOK"
           echo "✅ Vercel rebuild triggered"
+
+      - name: Submit newly published URLs to IndexNow
+        if: ${{ hashFiles('public/d772724038266eacc802a5965280c40b.txt') != '' }}
+        continue-on-error: true
+        env:
+          INDEXNOW_KEY_FILE: public/d772724038266eacc802a5965280c40b.txt
+        run: |
+          URL_COUNT="$(node -e 'const fs=require("fs"); const p=JSON.parse(fs.readFileSync("/tmp/indexnow-payload.json","utf8")); console.log((p.urlList||[]).length)')"
+
+          if [ "$URL_COUNT" -eq 0 ]; then
+            echo "📭 IndexNow: no newly published URLs to submit"
+            exit 0
+          fi
+
+          KEY="$(tr -d '\r\n' < "$INDEXNOW_KEY_FILE")"
+          KEY_LOCATION="https://www.autobrief.blog/$(basename "$INDEXNOW_KEY_FILE")"
+
+          node <<'NODE'
+          const fs = require("fs")
+          const payload = JSON.parse(fs.readFileSync("/tmp/indexnow-payload.json", "utf8"))
+          payload.key = process.env.INDEXNOW_KEY
+          payload.keyLocation = process.env.INDEXNOW_KEY_LOCATION
+          fs.writeFileSync("/tmp/indexnow-payload.json", JSON.stringify(payload))
+          NODE
+          
+          export INDEXNOW_KEY="$KEY"
+          export INDEXNOW_KEY_LOCATION="$KEY_LOCATION"
+
+          # Rebuild payload with the key fields after exporting the variables.
+          node <<'NODE'
+          const fs = require("fs")
+          const payload = JSON.parse(fs.readFileSync("/tmp/indexnow-payload.json", "utf8"))
+          payload.key = process.env.INDEXNOW_KEY
+          payload.keyLocation = process.env.INDEXNOW_KEY_LOCATION
+          fs.writeFileSync("/tmp/indexnow-payload.json", JSON.stringify(payload))
+          NODE
+
+          HTTP_CODE="$(curl -sS -o /tmp/indexnow-response.txt -w '%{http_code}'             -X POST 'https://api.indexnow.org/indexnow'             -H 'Content-Type: application/json; charset=utf-8'             --data-binary @/tmp/indexnow-payload.json)"
+
+          echo "📡 IndexNow response: HTTP $HTTP_CODE"
+          cat /tmp/indexnow-response.txt || true
+
+          case "$HTTP_CODE" in
+            200|202)
+              echo "✅ IndexNow accepted $URL_COUNT URL(s)"
+              ;;
+            *)
+              echo "⚠️ IndexNow submission was not accepted (HTTP $HTTP_CODE)"
+              exit 1
+              ;;
+          esac
