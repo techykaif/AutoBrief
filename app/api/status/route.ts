@@ -4,7 +4,7 @@
 
 import { NextResponse } from "next/server"
 import { JWT } from "google-auth-library"
-import { getAllPosts, getCategories } from "@/lib/data-source"
+import { getCategories, getDatasetMeta } from "@/lib/data-source"
 
 export const runtime = "nodejs"
 
@@ -39,36 +39,22 @@ async function getVisitCount(): Promise<number> {
 
 export async function GET() {
   try {
-    const [posts, categories, visits] = await Promise.all([
-      getAllPosts(),
+    const [meta, categories, visits] = await Promise.all([
+      getDatasetMeta(),
       getCategories(),
       getVisitCount(),
     ])
 
     const now = new Date()
-    const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate())
-    const weekStart = new Date(todayStart.getTime() - 7 * 24 * 60 * 60 * 1000)
-
-    const todayCount = posts.filter(p =>
-      new Date(p.publishedAt) >= todayStart
-    ).length
-
-    const weekCount = posts.filter(p =>
-      new Date(p.publishedAt) >= weekStart
-    ).length
-
-    const lastUpdated = posts.length > 0
-      ? posts[0].publishedAt
-      : null
 
     return NextResponse.json({
-      totalArticles: posts.length,
-      todayArticles: todayCount,
-      weekArticles: weekCount,
+      totalArticles: meta.totalPosts,
+      todayArticles: meta.todayArticles ?? 0,
+      weekArticles: meta.weekArticles ?? 0,
       totalVisits: visits,
       categories: categories.length,
       categoryBreakdown: categories.slice(0, 5),
-      lastUpdated,
+      lastUpdated: meta.lastUpdated ?? null,
       timestamp: now.toISOString(),
     }, {
       headers: { "Cache-Control": "public, s-maxage=300, stale-while-revalidate=60" }

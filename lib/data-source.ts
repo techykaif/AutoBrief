@@ -31,6 +31,11 @@ export async function getCategories() {
   return s.getCategories()
 }
 
+export async function getDatasetMeta() {
+  const s = await import("./static-data")
+  return s.getDatasetMeta()
+}
+
 export async function getFeaturedPosts() {
   const s = await getService()
   return s.getFeaturedPosts()
