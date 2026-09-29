@@ -37,6 +37,28 @@ async function fetchSheet(range: string): Promise<any[][]> {
   return data.values || []
 }
 
+async function updateSourceLastFetched(values: string[][]): Promise<void> {
+  if (!values.length) return
+
+  const token = await getWriteAccessToken()
+  const endRow = values.length + 1
+  const res = await fetch(
+    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/SOURCES!F2:F${endRow}?valueInputOption=USER_ENTERED`,
+    {
+      method: "PUT",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ values }),
+    }
+  )
+
+  if (!res.ok) {
+    console.error("Failed to update SOURCES.last_fetched:", await res.text())
+  }
+}
+
 async function appendRows(rows: any[][]): Promise<number> {
   if (!rows.length) return 0
 
@@ -111,12 +133,16 @@ export async function runRssScraper() {
   const sourceRows = await fetchSheet("SOURCES!A2:F")
   const enabledSources = sourceRows
     .filter(r => String(r[4] || "").trim().toUpperCase() === "TRUE")
-    .map(r => ({
+    .map((r, index) => ({
+      sourceIndex: index,
       name: String(r[1] || "").trim(),
       url: String(r[2] || "").trim(),
       category: String(r[3] || "").trim(),
     }))
     .filter(s => s.name && s.url.startsWith("http"))
+
+  // Preserve existing timestamps and update only sources whose RSS fetch succeeds.
+  const lastFetchedValues = sourceRows.map(r => [String(r[5] || "").trim()])
 
   console.log(`📡 Scraping ${enabledSources.length} enabled sources...`)
 
@@ -140,6 +166,7 @@ export async function runRssScraper() {
     try {
       console.log(`  📰 Fetching: ${source.name}`)
       const feed = await parser.parseURL(source.url)
+      lastFetchedValues[source.sourceIndex] = [new Date().toISOString()]
 
       let inserted = 0
 
@@ -197,6 +224,11 @@ export async function runRssScraper() {
     console.log(`\n✅ Inserted ${rowsToInsert.length} new articles into RAW_NEWS`)
   } else {
     console.log("\n📭 No new articles found this run")
+  }
+
+  if (sourceRows.length > 0) {
+    await updateSourceLastFetched(lastFetchedValues)
+    console.log("🕒 Updated SOURCES.last_fetched for successful RSS fetches")
   }
 
   if (failedSources.length > 0) {
