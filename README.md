@@ -352,6 +352,18 @@ AutoBrief treats generated news data as a production artifact. Changes to applic
 
 ---
 
+## Future Improvements
+
+The following ideas are intentionally deferred until they can be added without destabilizing the current publishing pipeline:
+
+- **Newsletter:** add a subscriber system with signup, confirmation, unsubscribe, scheduled digests, and dedicated addresses such as `newsletter@autobrief.blog`, `support@autobrief.blog`, and `replies@autobrief.blog`.
+- **Article images:** carry suitable publisher-provided RSS image URLs through the pipeline and use the existing branded image as a fallback, with image-rights/usage rules verified before republication.
+- **Faster discovery:** add IndexNow URL submission for newly published articles.
+
+These are future work items, not part of the current production workflow.
+
+---
+
 ## Contributing
 
 Before changing application behavior:
