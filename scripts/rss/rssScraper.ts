@@ -132,14 +132,14 @@ export async function runRssScraper() {
   // Columns: source_id, source_name, rss_url, category, enabled, last_fetched
   const sourceRows = await fetchSheet("SOURCES!A2:F")
   const enabledSources = sourceRows
-    .filter(r => String(r[4] || "").trim().toUpperCase() === "TRUE")
     .map((r, index) => ({
       sourceIndex: index,
+      enabled: String(r[4] || "").trim().toUpperCase() === "TRUE",
       name: String(r[1] || "").trim(),
       url: String(r[2] || "").trim(),
       category: String(r[3] || "").trim(),
     }))
-    .filter(s => s.name && s.url.startsWith("http"))
+    .filter(s => s.enabled && s.name && s.url.startsWith("http"))
 
   // Preserve existing timestamps and update only sources whose RSS fetch succeeds.
   const lastFetchedValues = sourceRows.map(r => [String(r[5] || "").trim()])
