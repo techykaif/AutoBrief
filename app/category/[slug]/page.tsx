@@ -62,6 +62,7 @@ export default async function CategoryPage({ params }: PageProps) {
 
   const { icon: Icon, color, bg } = getCategoryMeta(slug)
   const categoryName = slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, " ")
+  const totalCategoryArticles = categories.find((category) => category.slug === slug)?.count ?? posts.length
 
   return (
     <div className="min-h-screen bg-background">
@@ -76,7 +77,7 @@ export default async function CategoryPage({ params }: PageProps) {
             <div>
               <h1 className="text-2xl font-bold text-foreground">{categoryName}</h1>
               <p className="text-sm text-muted-foreground">
-                {posts.length} article{posts.length !== 1 ? "s" : ""} · Updated every 30 minutes
+                {totalCategoryArticles.toLocaleString()} total article{totalCategoryArticles !== 1 ? "s" : ""} · Latest articles shown below
               </p>
             </div>
           </div>
