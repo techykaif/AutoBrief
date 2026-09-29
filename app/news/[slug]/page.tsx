@@ -70,6 +70,7 @@ export default async function NewsPostPage({ params }: PageProps) {
 
   // Original article link (validated again here — never render a non-http(s) href)
   const sourceUrl = post.sourceUrl && /^https?:\/\//i.test(post.sourceUrl) ? post.sourceUrl : ""
+  const description = post.summary?.trim() || post.content.substring(0, 160)
 
   const structuredData = {
     "@context": "https://schema.org",
