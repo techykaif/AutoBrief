@@ -146,6 +146,7 @@ function rowToPost(row: any[]) {
     title: finalTitle,
     slug: rawSlug,
     content: finalContent,
+    summary: String(row[14] || row[12] || "").trim(),
     category: categoryRaw,
     categorySlug: slugifyCategory(categoryRaw),
     publishedAt: row[8] || new Date().toISOString(),

@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const post = await getPostBySlug(slug)
   if (!post) return { title: "Post Not Found | AutoBrief" }
 
-  const description = post.content.substring(0, 160)
+  const description = post.summary?.trim() || post.content.substring(0, 160)
   return {
     title: post.title, // layout.tsx title.template appends " | AutoBrief"
     description,
@@ -76,14 +76,15 @@ export default async function NewsPostPage({ params }: PageProps) {
     "@type": "NewsArticle",
     headline: post.title,
     datePublished: post.publishedAt,
-    author: { "@type": "Person", name: post.author || "AutoBrief" },
+    author: { "@type": "Organization", name: post.author || "AutoBrief" },
     publisher: {
       "@type": "Organization",
       name: "AutoBrief",
       url: SITE_URL,
       logo: { "@type": "ImageObject", url: `${SITE_URL}/favicon.png` },
     },
-    description: post.content.substring(0, 160),
+    description,
+    image: [`${SITE_URL}/news/${post.slug}/opengraph-image`],
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `${SITE_URL}/news/${post.slug}`,
