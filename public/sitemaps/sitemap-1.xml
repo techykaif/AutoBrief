@@ -6,6 +6,8 @@
   <url><loc>https://www.autobrief.blog/privacy</loc></url>
   <url><loc>https://www.autobrief.blog/disclaimer</loc></url>
   <url><loc>https://www.autobrief.blog/dmca</loc></url>
+  <url><loc>https://www.autobrief.blog/category/technology</loc></url>
+  <url><loc>https://www.autobrief.blog/category/world</loc></url>
   <url><loc>https://www.autobrief.blog/category/entertainment</loc></url>
   <url><loc>https://www.autobrief.blog/category/sports</loc></url>
   <url><loc>https://www.autobrief.blog/category/politics</loc></url>
@@ -13,9 +15,22 @@
   <url><loc>https://www.autobrief.blog/category/health</loc></url>
   <url><loc>https://www.autobrief.blog/category/business</loc></url>
   <url><loc>https://www.autobrief.blog/category/science</loc></url>
-  <url><loc>https://www.autobrief.blog/category/technology</loc></url>
-  <url><loc>https://www.autobrief.blog/category/world</loc></url>
   <url><loc>https://www.autobrief.blog/category/space</loc></url>
+  <url><loc>https://www.autobrief.blog/news/openai-launches-dots-ai-agent-after-scrapping-model-due-to-safety-concerns</loc></url>
+  <url><loc>https://www.autobrief.blog/news/white-house-ads-glorifying-donald-trump-spark-criticism-over-alleged-propaganda</loc></url>
+  <url><loc>https://www.autobrief.blog/news/expert-says-ai-safeguards-create-moat-around-us-firms-block-open-source-models</loc></url>
+  <url><loc>https://www.autobrief.blog/news/trump-says-he-won-t-work-with-china-on-ai-oversight</loc></url>
+  <url><loc>https://www.autobrief.blog/news/trump-signs-voluntary-accord-with-ai-companies-to-strengthen-safety-reviews</loc></url>
+  <url><loc>https://www.autobrief.blog/news/us-supreme-court-lifts-third-country-deportation-restrictions</loc></url>
+  <url><loc>https://www.autobrief.blog/news/supreme-court-grants-emergency-petition-lets-trump-continue-third-country-deport</loc></url>
+  <url><loc>https://www.autobrief.blog/news/us-consumer-confidence-falls-to-lowest-since-2014-ahead-of-midterms</loc></url>
+  <url><loc>https://www.autobrief.blog/news/un-extends-haiti-gang-suppression-force-mandate-by-six-months</loc></url>
+  <url><loc>https://www.autobrief.blog/news/man-city-ceo-says-premier-league-verdict-is-a-conspiracy-theory-club-to-appeal-c</loc></url>
+  <url><loc>https://www.autobrief.blog/news/iraq-marks-sovereignty-days-as-us-troops-withdraw-faces-security-balancing-act</loc></url>
+  <url><loc>https://www.autobrief.blog/news/venezuelan-man-shot-by-ice-officer-in-texas-faces-assault-charge</loc></url>
+  <url><loc>https://www.autobrief.blog/news/jack-smith-defends-trump-investigations-at-tense-senate-hearing</loc></url>
+  <url><loc>https://www.autobrief.blog/news/six-flags-closes-x2-coaster-after-hundreds-claim-brain-injuries</loc></url>
+  <url><loc>https://www.autobrief.blog/news/chinese-ai-tool-kimi-models-evade-safety-limits-reportedly-guide-bioweapon-resea</loc></url>
   <url><loc>https://www.autobrief.blog/news/jon-stewart-questions-us-status-after-trump-offers-weapons-to-china</loc></url>
   <url><loc>https://www.autobrief.blog/news/katherine-hubbard-photographs-mother-s-decline-with-late</loc></url>
   <url><loc>https://www.autobrief.blog/news/tom-cruise-stars-as-oil-tycoon-digger-rockwell-in-alejandro-gonz-lez-i-rritu-s-e</loc></url>
@@ -4985,19 +5000,4 @@
   <url><loc>https://www.autobrief.blog/news/zambia-warns-against-eating-dead-wildlife-after-anthrax-kills-dozens-of-animals</loc></url>
   <url><loc>https://www.autobrief.blog/news/malaysian-teen-acquitted-of-schoolgirl-murder-on-insanity-grounds</loc></url>
   <url><loc>https://www.autobrief.blog/news/thousands-protest-against-cartel-violence-in-culiac-n</loc></url>
-  <url><loc>https://www.autobrief.blog/news/china-rejects-claims-of-malicious-ai-competition-after-anthropic-ceo-urges-slowd</loc></url>
-  <url><loc>https://www.autobrief.blog/news/emmy-awards-nominees-oscar-isaac-and-carey-mulligan-announced-for-los-angeles-ce</loc></url>
-  <url><loc>https://www.autobrief.blog/news/bears-bills-and-ravens-win-in-record-breaking-nfl-sunday</loc></url>
-  <url><loc>https://www.autobrief.blog/news/alexander-zverev-wins-us-open-men-s-singles-defeating-ben-shelton</loc></url>
-  <url><loc>https://www.autobrief.blog/news/us-air-force-colonel-survives-f-15e-shootdown-over-iran-in-april</loc></url>
-  <url><loc>https://www.autobrief.blog/news/white-house-adds-ethics-provision-to-senate-crypto-bill</loc></url>
-  <url><loc>https://www.autobrief.blog/news/trump-urges-ukraine-to-pause-russian-refinery-strikes-over-diesel-price-surge</loc></url>
-  <url><loc>https://www.autobrief.blog/news/uk-government-to-debate-changes-to-expat-political-donation-rules-after-reform-s</loc></url>
-  <url><loc>https://www.autobrief.blog/news/pfas-manufacturers-plan-output-boost-to-meet-ai-data-centre-demand</loc></url>
-  <url><loc>https://www.autobrief.blog/news/amivantamab-chemotherapy-shows-longest-overall-survival-for-egfr-exon-20-inserti</loc></url>
-  <url><loc>https://www.autobrief.blog/news/zidesamtinib-shows-93-response-rate-in-ros1-positive-lung-cancer-trial</loc></url>
-  <url><loc>https://www.autobrief.blog/news/adaura-trial-shows-sustained-overall-survival-benefit-of-adjuvant-osimertinib-in</loc></url>
-  <url><loc>https://www.autobrief.blog/news/trastuzumab-deruxtecan-improves-progression-free-survival-versus-pembrolizumab-i</loc></url>
-  <url><loc>https://www.autobrief.blog/news/zipalertinib-plus-chemotherapy-extends-progression-free-survival-in-egfr-exon-20</loc></url>
-  <url><loc>https://www.autobrief.blog/news/bc-drug-decriminalization-lowers-police-encounters-without-affecting-overdose-de</loc></url>
 </urlset>
