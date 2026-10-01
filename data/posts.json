@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261001-408",
+    "title": "Canada Rocket Company to build first large-scale rocket engine test site in London, Ontario",
+    "slug": "canada-rocket-company-to-build-first-large-scale-rocket-engine-test-site-in-lond",
+    "content": "Canada Rocket Company (CRC) announced plans to construct Canada’s first large‑scale rocket engine test facility in London, Ontario.\n\nThe project will create a dedicated site for testing rocket engines, marking the country’s inaugural large‑scale capability of this type. The announcement was reported by NASASpaceFlight.",
+    "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility. The facility will be located in London, Ontario.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/2/2026 3:01:54",
+    "author": "NASASpaceFlight",
+    "isFeatured": false,
+    "sourceUrl": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"
+  },
+  {
     "id": "BLOG-20261001-403",
     "title": "Warrington Wolves seek fifth title in Super League Grand Final",
     "slug": "warrington-wolves-seek-fifth-title-in-super-league-grand-final",
@@ -6485,18 +6498,5 @@
     "author": "Phys.org",
     "isFeatured": false,
     "sourceUrl": "https://phys.org/news/2026-09-wild-crabapples-genetic-potential-domestic.html"
-  },
-  {
-    "id": "BLOG-20260930-206",
-    "title": "Kentucky entomologist develops gene‑silencing tech to target invasive beetles",
-    "slug": "kentucky-entomologist-develops-gene-silencing-tech-to-target-invasive-beetles",
-    "content": "Gene‑silencing technology to protect forests from invasive pests\n\nA forest entomologist at the University of Kentucky is advancing a pest‑control approach that targets destructive forest beetles while minimizing effects on surrounding wildlife. The method uses gene‑silencing technology to specifically disrupt beetle populations, offering a more selective alternative to conventional pesticides.",
-    "summary": "A forest entomologist at the University of Kentucky is advancing a pest‑control approach that targets destructive forest beetles. The approach is designed to minimize effects on surrounding wildlife.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "9/30/2026 18:32:18",
-    "author": "Phys.org",
-    "isFeatured": false,
-    "sourceUrl": "https://phys.org/news/2026-09-gene-silencing-technology-forests-invasive.html"
   }
 ]
