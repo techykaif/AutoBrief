@@ -1,7 +1,7 @@
 {
-  "totalPosts": 33978,
+  "totalPosts": 33980,
   "recentCount": 500,
-  "archivedCount": 33478,
+  "archivedCount": 33480,
   "archiveMonths": [
     "2026-09",
     "2026-08",
@@ -27,7 +27,7 @@
     {
       "name": "Politics",
       "slug": "politics",
-      "count": 3234
+      "count": 3236
     },
     {
       "name": "Sports",
@@ -62,6 +62,6 @@
   ],
   "todayArticles": 66,
   "weekArticles": 2138,
-  "lastUpdated": "10/1/2026 7:22:49",
-  "generatedAt": "2026-10-01T01:53:26.453Z"
+  "lastUpdated": "10/1/2026 7:32:05",
+  "generatedAt": "2026-10-01T02:02:41.646Z"
 }
