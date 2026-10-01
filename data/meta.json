@@ -1,7 +1,7 @@
 {
-  "totalPosts": 34029,
+  "totalPosts": 34031,
   "recentCount": 500,
-  "archivedCount": 33529,
+  "archivedCount": 33531,
   "archiveMonths": [
     "2026-09",
     "2026-08",
@@ -47,7 +47,7 @@
     {
       "name": "Entertainment",
       "slug": "entertainment",
-      "count": 709
+      "count": 711
     },
     {
       "name": "Space",
@@ -62,6 +62,6 @@
   ],
   "todayArticles": 177,
   "weekArticles": 2249,
-  "lastUpdated": "10/1/2026 13:34:49",
-  "generatedAt": "2026-10-01T08:05:38.140Z"
+  "lastUpdated": "10/1/2026 13:42:29",
+  "generatedAt": "2026-10-01T08:13:12.663Z"
 }

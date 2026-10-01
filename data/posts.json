@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261001-126",
+    "title": "Brit Awards add £5m to Manchester economy, study says",
+    "slug": "brit-awards-add-5m-to-manchester-economy-study-says",
+    "content": "A recent study has found that hosting the Brit Awards in Manchester boosted the local economy by £5 million. The research highlights the financial impact of the event on the Greater Manchester region.\n\nGreater Manchester mayor Bev Craig welcomed the awards’ relocation north for the first time, describing it as a “massive moment.” Her remarks underscored the significance of the event for the city’s cultural and economic profile.",
+    "summary": "A study found the Brit Awards boosted Manchester's economy by £5 million. Greater Manchester mayor Bev Craig said the awards' move north for the first time was a “massive moment”.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "10/1/2026 13:42:29",
+    "author": "BBC Entertainment",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o"
+  },
+  {
+    "id": "BLOG-20261001-125",
+    "title": "US filmmaker Hopwood DePree loses High Court case over Grade II-listed mansion",
+    "slug": "us-filmmaker-hopwood-depree-loses-high-court-case-over-grade-ii-listed-mansion",
+    "content": "US film‑maker Hopwood DePree has lost a High Court case over his attempt to acquire a Grade II‑listed mansion for £1.  \n\nDePree had taken the council to court in a bid to take over the historic property at the nominal price.",
+    "summary": "US filmmaker Hopwood DePree took the council to the High Court in a bid to acquire a Grade II‑listed mansion for £1. The court ruled against him, and he lost the case.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "10/1/2026 13:42:20",
+    "author": "BBC Entertainment",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o"
+  },
+  {
     "id": "BLOG-20261001-121",
     "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
     "slug": "manchester-city-whistleblower-rui-pinto-no-longer-a-protected-witness-in-portuga",
@@ -6472,31 +6498,5 @@
     "author": "Hacker News",
     "isFeatured": false,
     "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
-  },
-  {
-    "id": "BLOG-20260929-351",
-    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-    "slug": "show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites",
-    "content": "A new real-time Solar System visualization featuring 526,000 asteroids and all tracked satellites has been shared on Hacker News. The project is hosted at space.bl2.net.\n\nThe submission, titled \"Show HN: Real-time Solar System with 526k asteroids and all tracked satellites,\" has received six points and three comments.",
-    "summary": "The article presents a real-time Solar System visualization that includes 526k asteroids and all tracked satellites. It was shared on Hacker News and received 6 points and 3 comments.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/30/2026 2:42:20",
-    "author": "Hacker News",
-    "isFeatured": false,
-    "sourceUrl": "https://space.bl2.net/"
-  },
-  {
-    "id": "BLOG-20260929-350",
-    "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-    "slug": "nicholas-polson-has-authored-258-academic-papers-in-2026-so-far",
-    "content": "Nicholas Polson has authored 258 academic papers in 2026 (so far), according to a recent article. The piece is available at https://statmodeling. Stat. Columbia. Edu/2026/08/27/258/, where it details Polson’s publication record for the year.\n\nThe article was posted on August 27, 2026 and has attracted attention on the Y Combinator news platform. It has received 70 points and 45 comments, which can be viewed at https://news. Ycombinator. Com/item? Id=49898877.",
-    "summary": "Nicholas Polson has authored 258 academic papers in 2026 (so far). The article was posted on the Columbia Statistical Modeling site and received 70 points and 45 comments on Y Combinator.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "9/30/2026 2:42:15",
-    "author": "Hacker News",
-    "isFeatured": false,
-    "sourceUrl": "https://statmodeling.stat.columbia.edu/2026/08/27/258/"
   }
 ]
