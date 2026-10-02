@@ -213,7 +213,7 @@ export async function runRssScraper() {
       }
 
     } catch (err: any) {
-      console.error(`    ❌ Failed: ${source.name} — ${err.message}`)
+      console.error(`    ❌ Failed: ${source.name} - ${err.message}`)
       failedSources.push(source.name)
     }
   }

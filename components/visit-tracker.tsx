@@ -7,7 +7,7 @@ export function VisitTracker() {
   const pathname = usePathname()
 
   useEffect(() => {
-    // Don't track status page — it has its own logic
+    // Don't track status page - it has its own logic
     if (pathname === "/status") return
 
     const key = "ab_last_track"

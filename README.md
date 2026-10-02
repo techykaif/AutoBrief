@@ -1,4 +1,4 @@
-# AutoBrief — Automated News Platform
+# AutoBrief - Automated News Platform
 
 AutoBrief is a production Next.js news platform with an automated content pipeline. News is collected from RSS sources, processed through the Google Sheets/AI workflow, exported into versioned static JSON data, and served by the website from that generated dataset.
 
@@ -28,10 +28,10 @@ The deployed website uses the **static data provider by default** (`DATA_PROVIDE
 
 Generated data is stored under `data/`:
 
-- `data/posts.json` — the latest 500 posts used for the primary news experience.
-- `data/archive-index.json` — maps archived article slugs to their monthly shard.
-- `data/archive/YYYY-MM.json` — monthly archive shards for older articles.
-- `data/meta.json` — generated dataset metadata and counts.
+- `data/posts.json` - the latest 500 posts used for the primary news experience.
+- `data/archive-index.json` - maps archived article slugs to their monthly shard.
+- `data/archive/YYYY-MM.json` - monthly archive shards for older articles.
+- `data/meta.json` - generated dataset metadata and counts.
 
 When an archived article is requested, AutoBrief uses the archive index to load only the relevant monthly shard instead of scanning the entire archive.
 
@@ -267,13 +267,13 @@ public/                 Static assets
 
 ### Important entry points
 
-- `lib/data-source.ts` — selects the static or Sheets data provider.
-- `lib/static-data.ts` — reads recent posts and archive shards.
-- `lib/google-sheets.ts` — Google Sheets integration.
-- `scripts/rss/rssScraper.ts` — RSS ingestion.
-- `scripts/export/export-posts.ts` — generated dataset export.
-- `app/page.tsx` — homepage.
-- `app/api/*` — JSON API surface.
+- `lib/data-source.ts` - selects the static or Sheets data provider.
+- `lib/static-data.ts` - reads recent posts and archive shards.
+- `lib/google-sheets.ts` - Google Sheets integration.
+- `scripts/rss/rssScraper.ts` - RSS ingestion.
+- `scripts/export/export-posts.ts` - generated dataset export.
+- `app/page.tsx` - homepage.
+- `app/api/*` - JSON API surface.
 
 ---
 

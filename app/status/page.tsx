@@ -78,7 +78,7 @@ export default function StatusPage() {
 
   useEffect(() => { setMounted(true) }, [])
 
-  // Track visit — fire once on mount
+  // Track visit - fire once on mount
   useEffect(() => {
     if (!mounted) return
     const key = "ab_last_track"
@@ -220,13 +220,13 @@ export default function StatusPage() {
           <StatCard
             icon={Users}
             label="Total Visits"
-            value={statsLoading ? "—" : (stats?.totalVisits ?? 0).toLocaleString()}
+            value={statsLoading ? "-" : (stats?.totalVisits ?? 0).toLocaleString()}
             sub="all time"
           />
           <StatCard
             icon={FileText}
             label="Articles"
-            value={statsLoading ? "—" : (stats?.totalArticles ?? 0).toLocaleString()}
+            value={statsLoading ? "-" : (stats?.totalArticles ?? 0).toLocaleString()}
             sub={stats ? `+${stats.todayArticles} today` : undefined}
           />
           <StatCard
@@ -238,7 +238,7 @@ export default function StatusPage() {
           <StatCard
             icon={Clock}
             label="Last Updated"
-            value={statsLoading || !stats?.lastUpdated ? "—" : timeAgo(stats.lastUpdated)}
+            value={statsLoading || !stats?.lastUpdated ? "-" : timeAgo(stats.lastUpdated)}
             sub={stats?.lastUpdated ? formatTime(stats.lastUpdated) : undefined}
           />
         </div>
@@ -289,8 +289,8 @@ export default function StatusPage() {
                 { label: "RSS Scraper", detail: "Every 30 minutes", ok: true },
                 { label: "AI Processing", detail: "Groq Llama 3.3 70B", ok: true },
                 { label: "Export & Deploy", detail: "Auto after processing", ok: true },
-                { label: "Sources", detail: `${stats?.categories ?? "—"} categories active`, ok: true },
-                { label: "This week", detail: stats ? `${stats.weekArticles} articles published` : "—", ok: true },
+                { label: "Sources", detail: `${stats?.categories ?? "-"} categories active`, ok: true },
+                { label: "This week", detail: stats ? `${stats.weekArticles} articles published` : "-", ok: true },
               ].map(item => (
                 <div key={item.label} className="flex items-center justify-between">
                   <div className="flex items-center gap-2">

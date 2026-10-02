@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "Privacy Policy | AutoBrief",
-  description: "Privacy policy for AutoBrief — what data we collect and how we use it.",
+  description: "Privacy policy for AutoBrief - what data we collect and how we use it.",
   alternates: { canonical: "/privacy" },
 }
 
@@ -66,7 +66,7 @@ export default function PrivacyPage() {
               </li>
               <li>
                 <span className="text-foreground font-medium">Google Sheets API:</span> Used as
-                the data pipeline backend. No user data is stored here — only article content and
+                the data pipeline backend. No user data is stored here - only article content and
                 aggregate visit counts.
               </li>
               <li>

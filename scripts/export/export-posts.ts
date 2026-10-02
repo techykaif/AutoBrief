@@ -50,7 +50,7 @@ function safeSlug(text: string): string {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "")
-  // Cap at MAX_SLUG_LENGTH — prevents ENAMETOOLONG on Vercel/OS
+  // Cap at MAX_SLUG_LENGTH - prevents ENAMETOOLONG on Vercel/OS
   return raw.slice(0, MAX_SLUG_LENGTH).replace(/-+$/, "")
 }
 
@@ -126,7 +126,7 @@ function rowToPost(row: any[]) {
   const rawAiContent = String(row[15] || "").trim()
 
   // If the reasoning block got cut off mid-thought, there's no usable
-  // output at all — don't try to salvage it, just fall back to base content.
+  // output at all - don't try to salvage it, just fall back to base content.
   const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
@@ -215,7 +215,7 @@ function generateStaticSitemap(posts: ReturnType<typeof rowToPost>[], publicDir:
 async function exportPosts() {
   console.log("📥 Fetching published posts from Google Sheets...")
 
-  // A2:S — S is the source_url column (index 18). Rows without it just come
+  // A2:S - S is the source_url column (index 18). Rows without it just come
   // back shorter, which rowToPost handles.
   const rows = await fetchSheetData("FINAL_BLOGS!A2:S")
 
@@ -228,7 +228,7 @@ async function exportPosts() {
     .map(rowToPost)
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 
-  // Deduplicate slugs — if two articles have same slug after truncation, append index
+  // Deduplicate slugs - if two articles have same slug after truncation, append index
   const seenSlugs = new Map<string, number>()
   posts.forEach((post) => {
     const count = seenSlugs.get(post.slug) || 0
@@ -256,7 +256,7 @@ async function exportPosts() {
   console.log(`📄 Wrote ${recentPosts.length} recent posts to ${postsPath}`)
 
   // --- archive: full rebuild every run, so wipe and re-shard from scratch ---
-  // (mirrors posts.json itself, which is always rebuilt from the full sheet —
+  // (mirrors posts.json itself, which is always rebuilt from the full sheet -
   // this keeps a single source of truth and auto-heals any prior bad shard)
   if (fs.existsSync(archiveDir)) {
     fs.rmSync(archiveDir, { recursive: true, force: true })

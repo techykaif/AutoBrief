@@ -51,7 +51,7 @@ function loadPosts(): NewsPost[] {
     const data = require("../data/posts.json")
     cachedPosts = Array.isArray(data) ? data.map(withReadingTime) : []
   } catch {
-    console.warn("⚠️ data/posts.json not found — returning empty array")
+    console.warn("⚠️ data/posts.json not found - returning empty array")
     cachedPosts = []
   }
 
