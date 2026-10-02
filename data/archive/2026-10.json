@@ -1,0 +1,93 @@
+[
+  {
+    "id": "BLOG-20260930-305",
+    "title": "Sonos Ace Ultra: Improved Design, Sound, and App Fixes Over Original Ace",
+    "slug": "sonos-ace-ultra-improved-design-sound-and-app-fixes-over-original-ace",
+    "content": "Sonos has released the Ace Ultra headphones, which maintain the same exterior design as the original Ace model but offer improved internal performance. The initial Ace headphones were intended to be a strong entry into the category but were overshadowed by a poorly received app redesign. While the original models were noted for their build quality, sound, and comfort, they suffered from significant functional limitations.\n\nThe primary feature of the original Ace headphones allowed users to reroute audio from a Sonos soundbar to the headphones. However, this functionality was initially glitchy and restricted to compatibility with the $1,000 Arc soundbar and only one pair of headphones at a time. Sonos has since fixed these specific issues, though the original models still could not connect to the rest of the system.",
+    "summary": "The Sonos Ace Ultra headphones resemble the original Ace but offer improved internal features. The original Ace's flagship audio‑rerouting feature was glitchy, worked only with the $1,000 Arc soundbar, and supported only one pair of headphones at launch, but those issues have now been fixed.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:42",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
+  },
+  {
+    "id": "BLOG-20260930-304",
+    "title": "Amazon's Fire TV Stick 4K Now Powers Directly from TV USB",
+    "slug": "amazon-s-fire-tv-stick-4k-now-powers-directly-from-tv-usb",
+    "content": "Amazon has announced a new Fire TV Stick 4K that no longer requires a separate power adapter. The device can be powered directly from a TV’s USB port, making setup easier than earlier 4K sticks.\n\nThe new stick is available today for $59.99 and runs on Amazon’s refreshed TV OS. It includes Wi‑Fi 6, Bluetooth 5.3, and Bluetooth Low Energy connectivity.  \n\nAmazon is also simplifying its streaming‑stick lineup, now offering four models instead of five: the Fire TV Stick HD, Fire TV Stick 4K, Fire TV Stick 4K Max, and Fire TV Cube.",
+    "summary": "The new Fire TV Stick 4K no longer needs a power adapter and can be powered from a TV's USB port. It is available for $59.99, runs Amazon's refreshed TV OS, and includes Wi‑Fi 6, Bluetooth 5.3, and Bluetooth Low Energy.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:33",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power"
+  },
+  {
+    "id": "BLOG-20260930-303",
+    "title": "Instagram Adds AI Assistant to Provide Post Feedback",
+    "slug": "instagram-adds-ai-assistant-to-provide-post-feedback",
+    "content": "Instagram announced on Wednesday that its standalone Edits app will now include an AI “creative assistant” that pulls data from a user’s Instagram account to offer suggestions on how to improve posts.  \n\nThe assistant lets creators ask open‑ended questions such as what’s trending on Instagram, why one video performed better than another, or which content resonated most with their audience. It uses metrics from the account—including likes, views, video retention, and shares—to generate its feedback.  \n\nAccording to Instagram, the tool can spot patterns in a creator’s performance data to help guide future content decisions.",
+    "summary": "Instagram announced that its standalone Edits app will now include an AI “creative assistant” that pulls data from a user’s Instagram account and offers suggestions on what to change. The assistant can answer open‑ended questions about trending content and uses metrics such as likes, views, retention on videos, and shares.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:26",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
+  },
+  {
+    "id": "BLOG-20260930-302",
+    "title": "Google Tests Paying Publishers for AI Search Contributions",
+    "slug": "google-tests-paying-publishers-for-ai-search-contributions",
+    "content": "Google has launched a pilot program that pays publishers for their contributions to its AI‑powered search features, according to a report from The Information. The pilot, which began less than a year ago, reportedly includes around 100 publishers and is part of Google’s response to scrutiny over how its AI features affect web traffic.\n\nUnder the test, Google is paying participating publishers based on how much their content is used in AI Overviews and AI Mode in Search, as well as in its Gemini chatbot. Digiday first reported on the pilot program, and one publisher that joined when it started earned over $1 million.\n\nThe program’s details were first disclosed by Digiday.",
+    "summary": "Google has launched a pilot program that pays publishers for how much their content contributes to its AI Overviews, AI Mode in Search, and Gemini chatbot. The pilot involves around 100 publishers and began less than a year ago.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:17",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+  },
+  {
+    "id": "BLOG-20260930-301",
+    "title": "Meta Launches Muse AI Agent with New Features and Security Patch",
+    "slug": "meta-launches-muse-ai-agent-with-new-features-and-security-patch",
+    "content": "Meta has unveiled Muse, a new AI agent that claims to assist users with tasks ranging from sending emails to making online purchases. The company says Muse can perform these functions effectively, provided users are willing to share personal data and credit card information with the platform.\n\nMuse’s capabilities extend beyond basic tasks. Meta has made the agent’s filesystem more accessible, allowing users to download its entire contents, and plans to add video‑chat functionality. The company is also developing a Tamagotchi‑style Muse Charm device that will not include Instagram integration but can interact with other Muse Charms. In addition, Muse is slated for integration with Meta smart glasses and a standalone gadget, and the platform’s Enterprise version will bring Muse AI tools to small businesses.\n\nThe launch has sparked security concerns, as Muse was reported to have sent a YouTuber’s address to a stranger and an exploit that could let attackers control the agent. Meta patched the vulnerability, but Amazon has blocked the Muse AI agent, and Mark Zuckerberg has urged users to trust the system. Muse now also has a Mac app, and Meta continues to position the agent as a key player in its AI strategy.",
+    "summary": "Meta launched Muse AI, an agent that can send emails and handle online purchases, and has added new features such as a Muse Charm device and a Mac app. The company also patched a security exploit that allowed attackers to control the AI agent.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:10",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+  },
+  {
+    "id": "BLOG-20260930-300",
+    "title": "Halide Camera App Adds Full Aperture Control for iPhone 18 Pro",
+    "slug": "halide-camera-app-adds-full-aperture-control-for-iphone-18-pro",
+    "content": "A new update to Lux Optics’ anti‑algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the iPhone 18 Pro’s main camera.  \n\nThe update gives users more precise control than the native iOS camera, which limits aperture adjustments to just four presets. Third‑party apps such as BlackMagic Camera and Moment Pro Camera II already expand that to 10 presets in 1/3‑stop increments, similar to most digital cameras.  \n\nHalide Mark III goes even further by offering additional aperture control, although the exact details are not included in the brief.  \n\nRead the full story at The Verge.",
+    "summary": "The latest update to Lux Optics' Halide camera app adds two new photography looks and full support for the variable aperture on the iPhone 18 Pro’s main camera. Halide provides more granular aperture control than other third‑party apps, surpassing the four presets of the native iOS camera.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:02:03",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture"
+  },
+  {
+    "id": "BLOG-20260930-299",
+    "title": "Xbox CEO Asha Sharma says Xbox is not for sale amid spin‑out speculation",
+    "slug": "xbox-ceo-asha-sharma-says-xbox-is-not-for-sale-amid-spin-out-speculation",
+    "content": "Microsoft Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling its Xbox business. In an interview with The New York Times, Sharma said, “Xbox is not for sale,” and added that the company will pursue “the right partnerships, the right operating model and everything needed to achieve that” to set the unit up for success.\n\nEarlier this month, The Information reported that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, but had recently supported Sharma’s plans to overhaul the unit. The article notes that it appears Nadella and Hood have favored the … (the sentence ends abruptly).",
+    "summary": "Xbox CEO Asha Sharma denied reports that Microsoft CEO Satya Nadella and CFO Amy Hood were considering spinning out the Xbox business. In a New York Times interview she said “Xbox is not for sale” and that the company will pursue the right partnerships and operating model to set the unit up for success.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/1/2026 0:01:56",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"
+  }
+]
