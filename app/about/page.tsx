@@ -45,7 +45,7 @@ const PRINCIPLES = [
   {
     emoji: "🤖",
     title: "Fully Automated",
-    desc: "From RSS ingestion to AI rewriting to publishing — zero manual intervention. The pipeline runs itself.",
+    desc: "From RSS ingestion to AI rewriting to publishing - zero manual intervention. The pipeline runs itself.",
   },
   {
     emoji: "⚡",
@@ -90,7 +90,7 @@ export default function AboutPage() {
 
             <p className="text-muted-foreground text-lg leading-relaxed max-w-2xl mx-auto">
               AutoBrief is a fully automated news platform that ingests RSS feeds from 50+ sources,
-              rewrites them into clear readable articles using AI, and publishes them — completely
+              rewrites them into clear readable articles using AI, and publishes them - completely
               hands-free, completely free to read.
             </p>
           </section>
