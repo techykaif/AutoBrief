@@ -13,7 +13,7 @@ import { SITE_URL } from "@/lib/site"
 export const revalidate = false
 
 // getAllPosts() now returns only the bounded "recent window" written by
-// scripts/export/export-posts.ts (data/posts.json), not the full archive —
+// scripts/export/export-posts.ts (data/posts.json), not the full archive -
 // so this only prerenders recent articles at build time.
 // dynamicParams defaults to true, but is set explicitly here because the
 // whole point of the archive split is relying on it: a slug outside the
@@ -68,7 +68,7 @@ export default async function NewsPostPage({ params }: PageProps) {
   const readingTime = post.readingTime ?? Math.max(1, Math.ceil(wordCount / 200))
   const paragraphs = post.content.split("\n\n").filter(Boolean)
 
-  // Original article link (validated again here — never render a non-http(s) href)
+  // Original article link (validated again here - never render a non-http(s) href)
   const sourceUrl = post.sourceUrl && /^https?:\/\//i.test(post.sourceUrl) ? post.sourceUrl : ""
   const description = post.summary?.trim() || post.content.substring(0, 160)
 
@@ -174,7 +174,7 @@ export default async function NewsPostPage({ params }: PageProps) {
 
           {/* AI disclosure */}
           <div className="mb-12 p-4 rounded-lg bg-muted/50 border border-border text-xs text-muted-foreground">
-            <span className="font-medium">🤖 AI-generated content</span> — This article was automatically summarised from public RSS feeds by AutoBrief. Verify important information with the original source.
+            <span className="font-medium">🤖 AI-generated content</span> - This article was automatically summarised from public RSS feeds by AutoBrief. Verify important information with the original source.
           </div>
 
           {/* Related */}
