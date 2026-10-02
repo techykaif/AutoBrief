@@ -4,7 +4,7 @@
 // show the actual story instead of a blank card or one generic image.
 // Twitter cards fall back to this same image automatically since the
 // article page's metadata sets card: "summary_large_image" but no
-// explicit twitter image — Next.js uses opengraph-image for both.
+// explicit twitter image - Next.js uses opengraph-image for both.
 import { ImageResponse } from "next/og"
 import { getPostBySlug, getAllPosts } from "@/lib/data-source"
 import { getLogoDataUrl } from "@/lib/og-logo"
@@ -15,7 +15,7 @@ export const revalidate = false
 // Mirrors page.tsx's own generateStaticParams: pre-renders an image at
 // build time for every post in the "recent window" (data/posts.json).
 // Archived posts (outside that window) generate their image on first
-// request instead, then it's cached — same pattern as the article page
+// request instead, then it's cached - same pattern as the article page
 // itself (dynamicParams).
 export async function generateStaticParams() {
   const posts = await getAllPosts()
