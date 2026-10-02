@@ -1,7 +1,7 @@
 // app/opengraph-image.tsx
 // Root-level Open Graph image. Next.js applies a route segment's
 // opengraph-image to that segment and any nested segment that doesn't
-// define its own — so this one covers the homepage, /about, /categories,
+// define its own - so this one covers the homepage, /about, /categories,
 // /category/[slug], /privacy, /disclaimer and /dmca. app/news/[slug] has
 // its own opengraph-image.tsx (per-article) that overrides this default.
 import { ImageResponse } from "next/og"
@@ -10,7 +10,7 @@ import { getLogoDataUrl } from "@/lib/og-logo"
 export const runtime = "nodejs"
 export const revalidate = false
 
-export const alt = "AutoBrief — Automated News Aggregation"
+export const alt = "AutoBrief - Automated News Aggregation"
 export const size = { width: 1200, height: 630 }
 export const contentType = "image/png"
 
