@@ -31,10 +31,10 @@ export default function DmcaPage() {
               AutoBrief operates under fair use principles (17 U.S.C. § 107) as our content is:
             </p>
             <ul className="list-disc pl-5 mt-3 space-y-2">
-              <li>Transformative — rewritten by AI, not reproduced verbatim</li>
-              <li>Non-commercial — AutoBrief carries no advertising and generates no revenue</li>
-              <li>Informational — for public benefit and education</li>
-              <li>Attribution-respecting — source publications are credited</li>
+              <li>Transformative - rewritten by AI, not reproduced verbatim</li>
+              <li>Non-commercial - AutoBrief carries no advertising and generates no revenue</li>
+              <li>Informational - for public benefit and education</li>
+              <li>Attribution-respecting - source publications are credited</li>
             </ul>
           </section>
 
