@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono"
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "AutoBrief — Automated News Aggregation",
+    default: "AutoBrief - Automated News Aggregation",
     template: "%s | AutoBrief",
   },
   description:
@@ -47,12 +47,12 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "AutoBrief",
     url: SITE_URL,
-    title: "AutoBrief — Automated News Aggregation",
+    title: "AutoBrief - Automated News Aggregation",
     description: "Free, ad-free automated news from 50+ sources.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AutoBrief — Automated News Aggregation",
+    title: "AutoBrief - Automated News Aggregation",
     description: "Free, ad-free automated news from 50+ sources.",
   },
 }
