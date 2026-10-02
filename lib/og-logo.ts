@@ -1,6 +1,6 @@
 // lib/og-logo.ts
 // next/og's ImageResponse (Satori) can't load images by plain file path or
-// relative URL — an <img> needs a remote URL or a base64 data: URI. Reading
+// relative URL - an <img> needs a remote URL or a base64 data: URI. Reading
 // the file and caching the data URI here means opengraph-image routes only
 // touch disk once per server instance instead of on every image render.
 import { readFileSync } from "fs"
