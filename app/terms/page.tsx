@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "Terms of Use | AutoBrief",
-  description: "Terms of use for AutoBrief — automated news aggregation platform.",
+  description: "Terms of use for AutoBrief - automated news aggregation platform.",
   alternates: { canonical: "/terms" },
 }
 
