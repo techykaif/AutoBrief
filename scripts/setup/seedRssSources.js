@@ -1,14 +1,14 @@
 /**
  * seedRssSources()
  * Run ONCE from Apps Script to populate the SOURCES sheet
- * Safe — clears old sources and inserts fresh complete list
+ * Safe - clears old sources and inserts fresh complete list
  * 
  * How to run:
  * 1. Open Apps Script in your Google Sheet
  * 2. Paste this function alongside your existing code
  * 3. Select seedRssSources from the function dropdown
  * 4. Click Run
- * 5. Done — check your SOURCES sheet
+ * 5. Done - check your SOURCES sheet
  */
 function seedRssSources() {
   const sheet = SpreadsheetApp.getActive().getSheetByName("SOURCES")
