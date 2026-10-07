@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261007-289",
+    "title": "Goodbye Warner, hello Skydance: how will the major merger really impact Hollywood?",
+    "slug": "goodbye-warner-hello-skydance-how-will-the-major-merger-really-impact-hollywood",
+    "content": "Paramount and Warner Bros. have officially merged under the corporate umbrella of Skydance, reducing Hollywood’s major studio count from five to four. The deal, led by billionaire David Ellison, concluded after Skydance outbid Netflix for the century-old studio and overcame legal opposition. Skydance now joins Sony, Disney, and Universal as the remaining major players in the film industry.\n\nThe merger extends beyond film production to include the eventual combination of streaming services HBO Max and Paramount+, although no specific timeline has been provided. The combined entity now owns a vast array of television channels, including HBO, Showtime, CBS, MTV, Comedy Central, Cartoon Network, Nickelodeon, TNT, TBS, and CNN.\n\nThe inclusion of CNN has drawn particular scrutiny due to recent changes at CBS News, where Bari Weiss’s stewardship has been linked to declines in ratings and prestige for the program 60 Minutes. While Weiss is not expected to oversee CNN and current chair Mark Thompson remains in place, Skydance has stated that CNN will maintain editorial independence. However, concerns persist regarding an oversight board with Ellison appointees, especially given Ellison’s relationship with Donald Trump, who has frequently criticized CNN.",
+    "summary": "After a windier road than expected, Paramount and Warner are now one, under the banner of Skydance, and the film industry is set for a shake-upHollywood’s big five have officially become the big four. Following a twist-filled saga that saw the century-old studio Warner Bros nearly acquired by the streaming giant Netflix, only to be outbid by Paramount owners Skydance, the company led by billionaire scion David Ellison.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "10/7/2026 21:12:21",
+    "author": "Guardian Culture",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/film/2026/oct/07/paramount-warner-bros-skydance-merger-explainer"
+  },
+  {
+    "id": "BLOG-20261007-280",
+    "title": "Tom Pidcock furious after police motorbike hits two teammates at Tre Valli Varesine",
+    "slug": "tom-pidcock-furious-after-police-motorbike-hits-two-teammates-at-tre-valli-vares",
+    "content": "Tom Pidcock was furious after a police motorcyclist crashed into two of his teammates during the Tre Valli Varesine in Italy, saying he almost quit the race in a rage.  \n\nThe incident involved a police motorbike that was traveling the wrong way down the course and struck Pinarello‑Q36.5 riders Camprubí and Gloag, sending them floored in the crash. Pidcock described the event as something that “shouldn’t happen.”  \n\nDespite the chaos, Pidcock finished second in the race. He attributed his frustration to the unexpected collision caused by the police motorcyclist.",
+    "summary": "Tom Pidcock said he almost quit the Tre Valli Varesine after a police motorbike traveling the wrong way struck his Pinarello Q36.5 teammates Camprubí and Gloag. He finished second in the race.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "10/7/2026 21:11:57",
+    "author": "Guardian Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/sport/2026/oct/07/pidcock-mad-two-teammates-collide-police-motorcyclist-italy-cycling"
+  },
+  {
     "id": "BLOG-20261007-279",
     "title": "Ronaldo says Jorge Jesus agreed to make eight points on his behalf",
     "slug": "ronaldo-says-jorge-jesus-agreed-to-make-eight-points-on-his-behalf",
@@ -6472,31 +6498,5 @@
     "author": "The Verge",
     "isFeatured": false,
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
-  },
-  {
-    "id": "BLOG-20261006-010",
-    "title": "MCP protocol for agent-to-agent communication flagged as risky due to trust gaps",
-    "slug": "mcp-protocol-for-agent-to-agent-communication-flagged-as-risky-due-to-trust-gaps",
-    "content": "The MCP protocol, designed for agent-to-agent communications, has been highlighted as potentially the riskiest protocol many have never heard of.  \n\nAccording to recent analysis, trust gaps within this new protocol enable malicious prompts to spread from one agent to another, raising concerns about its security.",
-    "summary": "MCP is a protocol for agent-to-agent communications. Trust gaps in the protocol can spread malicious prompts between agents.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/6/2026 8:02:36",
-    "author": "Ars Technica",
-    "isFeatured": false,
-    "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
-  },
-  {
-    "id": "BLOG-20261006-009",
-    "title": "Trump approves firing‑squad execution of Fort Hood shooter Nidal Hasan",
-    "slug": "trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
-    "content": "President Donald Trump approved a firing‑squad execution on Monday for Nidal Hasan, the U.S. Army psychiatrist convicted of killing 13 people at Fort Hood in 2009.\n\nThe execution will be the first carried out by the U.S. military since 1961, with the Army yet to set a date or location for the execution.",
-    "summary": "President Donald Trump approved a firing‑squad execution on Monday for Nidal Hasan, the US Army psychiatrist convicted of killing 13 people at Fort Hood in 2009. The execution will be the first carried out by the US military since 1961, with the Army yet to set the date and location.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/6/2026 8:02:30",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan"
   }
 ]

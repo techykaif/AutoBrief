@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261006-010",
+    "title": "MCP protocol for agent-to-agent communication flagged as risky due to trust gaps",
+    "slug": "mcp-protocol-for-agent-to-agent-communication-flagged-as-risky-due-to-trust-gaps",
+    "content": "The MCP protocol, designed for agent-to-agent communications, has been highlighted as potentially the riskiest protocol many have never heard of.  \n\nAccording to recent analysis, trust gaps within this new protocol enable malicious prompts to spread from one agent to another, raising concerns about its security.",
+    "summary": "MCP is a protocol for agent-to-agent communications. Trust gaps in the protocol can spread malicious prompts between agents.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/6/2026 8:02:36",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+  },
+  {
+    "id": "BLOG-20261006-009",
+    "title": "Trump approves firing‑squad execution of Fort Hood shooter Nidal Hasan",
+    "slug": "trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+    "content": "President Donald Trump approved a firing‑squad execution on Monday for Nidal Hasan, the U.S. Army psychiatrist convicted of killing 13 people at Fort Hood in 2009.\n\nThe execution will be the first carried out by the U.S. military since 1961, with the Army yet to set a date or location for the execution.",
+    "summary": "President Donald Trump approved a firing‑squad execution on Monday for Nidal Hasan, the US Army psychiatrist convicted of killing 13 people at Fort Hood in 2009. The execution will be the first carried out by the US military since 1961, with the Army yet to set the date and location.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/6/2026 8:02:30",
+    "author": "France 24",
+    "isFeatured": false,
+    "sourceUrl": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan"
+  },
+  {
     "id": "BLOG-20261006-008",
     "title": "New York state declares measles disaster amid US outbreak resurgence",
     "slug": "new-york-state-declares-measles-disaster-amid-us-outbreak-resurgence",
