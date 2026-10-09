@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261008-174",
+    "title": "30 killed in Russian strike on public bus in eastern Ukraine",
+    "slug": "30-killed-in-russian-strike-on-public-bus-in-eastern-ukraine",
+    "content": "Thirty people were killed and at least 18 injured by Russian strikes in eastern Ukraine, including an attack on a public bus, authorities said Thursday.\n\nThe casualties occurred as part of an intensive pre‑winter wave of attacks that continued across the region.",
+    "summary": "Thirty people were killed and at least 18 were injured by Russian strikes in eastern Ukraine that included an attack on a public bus, authorities said Thursday. The attack occurred as an intensive pre‑winter wave of attacks continued.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/8/2026 19:42:34",
+    "author": "France 24",
+    "isFeatured": false,
+    "sourceUrl": "https://www.france24.com/en/video/20261008-30-dead-in-strike-on-ukraine-bus-as-russian-attacks-intensify"
+  },
+  {
+    "id": "BLOG-20261008-173",
+    "title": "Microsoft unveils PC‑run AI coding model and security tech, challenging Apple",
+    "slug": "microsoft-unveils-pc-run-ai-coding-model-and-security-tech-challenging-apple",
+    "content": "Microsoft announced on Wednesday a new AI coding model that operates directly on personal computers, alongside security technology designed to block AI agents from accessing data without permission.  \n\nThe company said the on‑device model enables developers to write code using artificial intelligence without relying on cloud services, while the accompanying security feature aims to safeguard user data from unauthorized AI access.  \n\nMicrosoft’s moves are positioned as a challenge to Apple’s efforts to integrate more artificial‑intelligence capabilities into its own personal devices.",
+    "summary": "Microsoft unveiled on Wednesday an AI coding model that can run directly on personal computers. It also introduced security technology to block AI agents from accessing data without permission, positioning the moves against Apple's push to add more AI to personal devices.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/8/2026 19:42:29",
+    "author": "France 24",
+    "isFeatured": false,
+    "sourceUrl": "https://www.france24.com/en/video/20261008-microsoft-brings-more-ai-to-pcs-as-it-challenges-apple"
+  },
+  {
+    "id": "BLOG-20261008-172",
+    "title": "EU seeks more Middle Corridor trade; drone attacks off Bulgaria raise security concerns",
+    "slug": "eu-seeks-more-middle-corridor-trade-drone-attacks-off-bulgaria-raise-security-co",
+    "content": "The European Union is seeking to boost trade through the Middle Corridor, viewing the route as a potential gateway for Asian imports that could bring significant benefits to Bulgaria.\n\nHowever, drone attacks on commercial ships off the Bulgarian coast on Tuesday serve as a stark reminder of the security risks that could affect the corridor’s viability.",
+    "summary": "The EU wants to increase trade via the Middle Corridor, which could bring big benefits for Bulgaria. Recent drone attacks on commercial ships off the Bulgarian coast underscore the security risks involved.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/8/2026 19:42:22",
+    "author": "DW World",
+    "isFeatured": false,
+    "sourceUrl": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-world-4025-xml-mrss"
+  },
+  {
+    "id": "BLOG-20261008-171",
+    "title": "Russia intensifies attacks on Ukrainian data centers, but internet remains resilient",
+    "slug": "russia-intensifies-attacks-on-ukrainian-data-centers-but-internet-remains-resili",
+    "content": "Russia has intensified attacks on Ukraine’s data centers, prompting concerns about the country’s online connectivity.  \n\nExperts note that Ukraine’s internet infrastructure is sufficiently robust to avoid a total shutdown, though the heightened targeting could lead to higher costs for online services.",
+    "summary": "Russia is targeting Ukraine's data centers more frequently. Experts say Ukraine's internet system is too robust to be shut down entirely, though services could become more expensive.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/8/2026 19:42:16",
+    "author": "DW World",
+    "isFeatured": false,
+    "sourceUrl": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-world-4025-xml-mrss"
+  },
+  {
     "id": "BLOG-20261008-170",
     "title": "South Korea to recall its ambassador to Ukraine over UN POW disclosure",
     "slug": "south-korea-to-recall-its-ambassador-to-ukraine-over-un-pow-disclosure",
