@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261008-230",
+    "title": "Record El Niño threatens Great Barrier Reef",
+    "slug": "record-el-ni-o-threatens-great-barrier-reef",
+    "content": "Researchers have expressed concern over the potential impact of the strongest‑known El Niño on the Great Barrier Reef. The event could trigger significant ecological changes in the World Heritage Area.\n\nScientists are questioning whether any measures can be taken to prevent the reef’s possible demise.",
+    "summary": "Researchers are worried about the impact the strongest-known El Niño will have on the Great Barrier Reef. They are questioning whether anything can be done to avert the World Heritage Area’s demise.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/8/2026 20:12:07",
+    "author": "New Scientist",
+    "isFeatured": false,
+    "sourceUrl": "https://www.newscientist.com/article/2592422-record-el-nino-threatens-great-barrier-reef-with-ecological-shift/"
+  },
+  {
+    "id": "BLOG-20261008-229",
+    "title": "Study links Brexit, Truss mini‑budget, Covid lockdowns to UK mental health decline",
+    "slug": "study-links-brexit-truss-mini-budget-covid-lockdowns-to-uk-mental-health-decline",
+    "content": "A recent study has identified five major events that have caused serious damage to mental wellbeing across the United Kingdom. The research notes that Brexit, Liz Truss’s mini‑budget, and other shocks over the past decade have led to a lasting deterioration in the population’s mental health.  \n\nThe study also found that Russia’s invasion of Ukraine, as well as the first and second COVID‑19 lockdowns, triggered significant rises in psychological distress, measured by increases in the number of people experiencing depression and anxiety.  \n\nThe findings highlight the cumulative impact of these events on the UK’s mental health over the last ten years.",
+    "summary": "Researchers found that five events, including Russia’s invasion of Ukraine, Brexit, Liz Truss’s mini‑budget, and the first and second Covid lockdowns, caused serious damage to mental wellbeing across the UK. The study reports a serious and lasting deterioration in the UK population’s mental health over the last 10 years, with big rises in depression and anxiety during those shocks.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/8/2026 20:12:02",
+    "author": "Guardian Science",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study"
+  },
+  {
+    "id": "BLOG-20261008-228",
+    "title": "All the news and science from the 2026 Nobel prizes – podcast",
+    "slug": "all-the-news-and-science-from-the-2026-nobel-prizes-podcast",
+    "content": "The 2026 Nobel Prizes in chemistry, physics and physiology or medicine highlighted breakthroughs that have shaped modern science and medicine. The awards recognized work that has helped develop countless drugs, enabled physicists to observe a mysterious particle, and created a tool that could act as an on‑off switch for brain cells.\n\nIn medicine, the prize was awarded for research into the mysteries of the brain. The physics prize went to Francis Halzen for his work at the South Pole on neutrinos. The chemistry prize honored research on mirror‑image molecules.\n\nMadeleine Finlay discussed the prizes with science editor Ian Sample and correspondents Nicola Davis and Linda Geddes.",
+    "summary": "This year’s Nobel prizes in chemistry, physics and physiology or medicine have celebrated work that has been used to develop countless drugs and transform modern medicine, allowed physicists to observe one of the most mysterious particles, and provided a tool that could act as an on/off switch for brain cells. To find out more, Madeleine Finlay talks to our science editor, Ian Sample, and correspondents Nicola Davis and Linda GeddesNobel prize in medicine 2026 awarded for research into mysteries of brainNobel prize in physics goes to Francis Halzen for south pole work on neutrinosNobel prize in chemistry awarded for work on mirror-image molecules Continue reading...",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/8/2026 20:11:56",
+    "author": "Guardian Science",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast"
+  },
+  {
+    "id": "BLOG-20261008-227",
+    "title": "MIT computer scientist Margaret Hamilton, Apollo 11 software pioneer, dies at 90",
+    "slug": "mit-computer-scientist-margaret-hamilton-apollo-11-software-pioneer-dies-at-90",
+    "content": "MIT announced on Wednesday that Margaret Hamilton, the computer pioneer whose software powered the first moon landing, has died at the age of 90.  \n\nHamilton led the development of software for the Apollo 11 mission and was a recipient of the Presidential Medal of Freedom. She learned to program under the tutelage of a renowned MIT meteorologist.  \n\nShe died on 30 September.",
+    "summary": "Margaret Hamilton, a MIT computer scientist, led the development of the software that powered the Apollo 11 moon landing. She died on 30 September at the age of 90.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/8/2026 20:06:44",
+    "author": "Guardian Science",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software"
+  },
+  {
     "id": "BLOG-20261008-226",
     "title": "TypeScript compiler, checker, and LSP ported to Rust by LLM",
     "slug": "typescript-compiler-checker-and-lsp-ported-to-rust-by-llm",

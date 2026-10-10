@@ -1,7 +1,7 @@
 {
-  "totalPosts": 36454,
+  "totalPosts": 36458,
   "recentCount": 500,
-  "archivedCount": 35954,
+  "archivedCount": 35958,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -28,7 +28,7 @@
     {
       "name": "Politics",
       "slug": "politics",
-      "count": 3485
+      "count": 3489
     },
     {
       "name": "Sports",
@@ -61,8 +61,8 @@
       "count": 444
     }
   ],
-  "todayArticles": 318,
-  "weekArticles": 2164,
-  "lastUpdated": "10/10/2026 5:22:59",
-  "generatedAt": "2026-10-09T23:53:37.560Z"
+  "todayArticles": 0,
+  "weekArticles": 1844,
+  "lastUpdated": "10/10/2026 5:32:31",
+  "generatedAt": "2026-10-10T00:03:30.082Z"
 }
