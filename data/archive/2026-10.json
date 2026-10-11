@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261009-224",
+    "title": "Iranian campaign planted fake articles in U.S. publications using ChatGPT",
+    "slug": "iranian-campaign-planted-fake-articles-in-u-s-publications-using-chatgpt",
+    "content": "A Washington Post article titled “Iranian campaign planted fake articles in real U.S. publications using ChatGPT” reports that an Iranian campaign used the language model to plant fake articles in genuine U.S. publications. The piece is available at https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/. It has received 23 points and 2 comments on the Y Combinator news discussion page.",
+    "summary": "The Washington Post published a story about an Iranian campaign that planted fake articles in real U.S. publications using ChatGPT. The story was discussed on Y Combinator's news comments, which received 23 points and 2 comments.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/9/2026 19:42:05",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/"
+  },
+  {
     "id": "BLOG-20261009-223",
     "title": "Deno Announces Joining Cloudflare",
     "slug": "deno-announces-joining-cloudflare",
