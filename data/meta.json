@@ -1,7 +1,7 @@
 {
-  "totalPosts": 37554,
+  "totalPosts": 37570,
   "recentCount": 500,
-  "archivedCount": 37054,
+  "archivedCount": 37070,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -13,7 +13,7 @@
     {
       "name": "World",
       "slug": "world",
-      "count": 12683
+      "count": 12699
     },
     {
       "name": "Technology",
@@ -63,6 +63,6 @@
   ],
   "todayArticles": 176,
   "weekArticles": 2047,
-  "lastUpdated": "10/14/2026 18:02:13",
-  "generatedAt": "2026-10-14T12:33:02.645Z"
+  "lastUpdated": "10/14/2026 22:34:15",
+  "generatedAt": "2026-10-14T17:05:02.475Z"
 }
