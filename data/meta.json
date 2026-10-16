@@ -1,7 +1,7 @@
 {
-  "totalPosts": 38244,
+  "totalPosts": 38245,
   "recentCount": 500,
-  "archivedCount": 37744,
+  "archivedCount": 37745,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -33,7 +33,7 @@
     {
       "name": "Sports",
       "slug": "sports",
-      "count": 3461
+      "count": 3462
     },
     {
       "name": "Health",
@@ -61,8 +61,8 @@
       "count": 468
     }
   ],
-  "todayArticles": 154,
-  "weekArticles": 2153,
-  "lastUpdated": "10/16/2026 15:13:46",
-  "generatedAt": "2026-10-16T09:44:22.600Z"
+  "todayArticles": 159,
+  "weekArticles": 2158,
+  "lastUpdated": "10/16/2026 15:21:59",
+  "generatedAt": "2026-10-16T09:52:47.303Z"
 }

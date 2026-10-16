@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261016-107",
+    "title": "Australia vs Samoa women's Rugby League World Cup opener in Sydney",
+    "slug": "australia-vs-samoa-women-s-rugby-league-world-cup-opener-in-sydney",
+    "content": "Australia’s women’s Rugby League World Cup opener began today in Sydney, with the Jillaroos facing Fetu Samoa. The match kicked off with Australia already underway. During the anthem, several Samoan players were seen tearing up, a moment highlighted as special for them to represent their country on the world stage.",
+    "summary": "The Jillaroos faced Fetu Samoa in the opening match of the women's Rugby League World Cup in Sydney. Several Samoan players were seen tearing up during the national anthem.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "10/16/2026 15:21:59",
+    "author": "Guardian Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/sport/live/2026/oct/16/australia-vs-samoa-womens-rugby-league-world-cup-live-updates"
+  },
+  {
     "id": "BLOG-20261016-106",
     "title": "Opta analysis questions if Premier League teams must run more to win",
     "slug": "opta-analysis-questions-if-premier-league-teams-must-run-more-to-win",
@@ -6485,18 +6498,5 @@
     "author": "The Verge",
     "isFeatured": false,
     "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
-  },
-  {
-    "id": "BLOG-20261014-501",
-    "title": "IMSA 2026 season end prompts thoughts on 2030 prototype racing",
-    "slug": "imsa-2026-season-end-prompts-thoughts-on-2030-prototype-racing",
-    "content": "IMSA is looking ahead to the future of its sport following the conclusion of the 2026 season. The upcoming era will focus on software development and the stability of the rules. A key component of this future direction is the introduction of prototype racing in 2030.",
-    "summary": "The conclusion of IMSA's 2026 season has sparked discussion regarding the future of the sport. These thoughts focus on software development and rules stability for prototype racing in 2030.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/15/2026 5:15:09",
-    "author": "Ars Technica",
-    "isFeatured": false,
-    "sourceUrl": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
   }
 ]
