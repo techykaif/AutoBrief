@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261016-359",
+    "title": "Joel Edgerton, Jennifer Connelly",
+    "slug": "joel-edgerton-jennifer-connelly",
+    "content": "Joel Edgerton and Jennifer Connelly spoke in an interview about the challenges faced in S2, describing the marital disintegration and the humility involved in “hanging on wires.”  \n\nThey said, “It makes you think about how you can be a better person in life. And there’s always room for improvement.”",
+    "summary": "It makes you think about how you can be a better person in life. And there’s always room for improvement.'",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/17/2026 0:51:54",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/entertainment/space-movies-shows/dark-matters-joel-edgerton-and-jennifer-connelly-talk-s2s-marital-disintegration-and-the-humility-of-hanging-on-wires-interview"
+  },
+  {
     "id": "BLOG-20261016-357",
     "title": "Tesla Unveils New Roadster With SpaceX Thruster Stunt",
     "slug": "tesla-unveils-new-roadster-with-spacex-thruster-stunt",
@@ -6485,18 +6498,5 @@
     "author": "Phys.org",
     "isFeatured": false,
     "sourceUrl": "https://phys.org/news/2026-10-quantum-sensor-earth-spacetime.html"
-  },
-  {
-    "id": "BLOG-20261015-162",
-    "title": "Ohio State study shows green space reduces gun homicides, but location matters",
-    "slug": "ohio-state-study-shows-green-space-reduces-gun-homicides-but-location-matters",
-    "content": "A new study from The Ohio State University links green space with fewer gun‑related homicides, but the effect is not uniform across all areas. The research highlights that the presence of green space can help reduce gun violence in a community, though its impact depends on where the space is located.\n\nThe study notes that physical surroundings influence everything from personal well‑being to neighborhood safety. It finds that while green space can aid in preventing gun violence, its effectiveness varies with its location.",
-    "summary": "A new study from The Ohio State University found that green space can help prevent gun violence in a community. The study found that the effect depends on the location of the green space.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "10/15/2026 18:52:26",
-    "author": "Phys.org",
-    "isFeatured": false,
-    "sourceUrl": "https://phys.org/news/2026-10-green-space-linked-gun-homicides.html"
   }
 ]
