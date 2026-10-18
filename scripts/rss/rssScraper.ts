@@ -364,4 +364,27 @@ export async function runRssScraper() {
   console.log("🎉 Scraper complete.")
 }
 
+// This file is a one-shot CLI for GitHub Actions. All sheet reads/writes are awaited
+// before runRssScraper resolves. Some RSS HTTP transports can leave idle sockets
+// alive after the work has finished, keeping the action step spinning for minutes.
+// Flush the action logs before forcing exit, so the final diagnostics are preserved.
+function exitAfterLogFlush(code: number): void {
+  let pending = 2
+  const finish = () => {
+    pending--
+    if (pending === 0) process.exit(code)
+  }
+
+  process.stdout.write("", finish)
+  process.stderr.write("", finish)
+}
+
 runRssScraper()
+  .then(() => {
+    console.log("✅ RSS scraper process exiting after all awaited work completed.")
+    exitAfterLogFlush(0)
+  })
+  .catch((error: unknown) => {
+    console.error("❌ RSS scraper failed:", error)
+    exitAfterLogFlush(1)
+  })
