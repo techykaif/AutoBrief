@@ -186,6 +186,29 @@ export function validateExportArticle(
   return { valid: true, reason: "OK" }
 }
 
+export function validateExportSummary(
+  summary: string,
+  sourceText: string,
+  title: string,
+): ArticleValidation {
+  if (!isValidAiOutput(summary)) return { valid: false, reason: "INVALID_AI_OUTPUT" }
+  if (hasIncompleteArticleEnding(summary)) return { valid: false, reason: "INCOMPLETE_OR_DANGLING_ENDING" }
+  if (hasUnsupportedQuotedText(summary, sourceText, title)) {
+    return { valid: false, reason: "UNSUPPORTED_QUOTED_TEXT" }
+  }
+  if (wordCount(sourceText) < MIN_SOURCE_WORDS_FOR_ARTICLE) {
+    return { valid: false, reason: "INSUFFICIENT_SOURCE" }
+  }
+  const words = wordCount(summary)
+  if (words < 10) return { valid: false, reason: "SUMMARY_TOO_SHORT" }
+  if (words > 55) return { valid: false, reason: "SUMMARY_TOO_LONG" }
+  const sentences = String(summary).split(/[.!?]+/).map(s => s.trim()).filter(Boolean)
+  if (sentences.length < 1 || sentences.length > 3) {
+    return { valid: false, reason: "SUMMARY_SENTENCE_COUNT" }
+  }
+  return { valid: true, reason: "OK" }
+}
+
 type SluggedPost = { id: string; title: string; slug: string }
 
 /** Assign a stable, distinct, length-bounded slug to each post in list order. */
