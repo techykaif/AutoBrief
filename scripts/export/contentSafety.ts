@@ -141,7 +141,11 @@ function hasUnsupportedQuotedText(article: string, sourceText: string, title: st
   return false
 }
 
-export function isValidExportHeadline(value: string): boolean {
+export function isValidExportHeadline(
+  value: string,
+  sourceText = "",
+  sourceTitle = "",
+): boolean {
   if (!value || typeof value !== "string") return false
   const v = value.trim()
   if (v.length < 10 || v.length > 100) return false
@@ -151,7 +155,8 @@ export function isValidExportHeadline(value: string): boolean {
       lower.includes("i'm unable") || lower.includes("<think>") || lower.includes("</think>")) return false
   if (/[.…]\s*$/.test(v)) return false
   if (/^(headline|summary)\s*[:\-]/i.test(v)) return false
-  if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than)$/i.test(v.replace(/[.!?]+$/, "").split(/\s+/).pop() || "")) return false
+  if (hasUnsupportedQuotedText(v, sourceText, sourceTitle)) return false
+  if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(v.replace(/[.!?]+$/, "").split(/\s+/).pop() || "")) return false
   return true
 }
 
