@@ -582,11 +582,11 @@ function hasIncompleteArticleEnding(article) {
   if (!value) return true
 
   // Ellipses at the end usually indicate the model stopped mid-thought.
-  if (/(?:\\.{3}|…)[\s"'”’)\\]]*$/.test(value)) return true
+  if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
 
-  // Allow closing quotes/brackets after sentence punctuation, but require a
+  // Allow closing quotes/parentheses after sentence punctuation, but require a
   // real terminal mark rather than a comma, colon, or dangling clause.
-  const withoutClosers = value.replace(/["'”’)\\]]+\\s*$/, "").trim()
+  const withoutClosers = value.replace(/["'”’)]{1,}\s*$/, "").trim()
   if (!/[.!?]$/.test(withoutClosers)) return true
 
   const sentenceBody = withoutClosers.replace(/[.!?]+$/, "").trim()
