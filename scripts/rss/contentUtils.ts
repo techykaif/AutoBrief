@@ -51,6 +51,39 @@ export function decodeHtmlEntities(value: string): string {
   )
 }
 
+export type PublicationDateStatus = "fresh" | "stale" | "missing" | "invalid" | "future"
+
+/**
+ * Classify an RSS item's publication date before it is admitted to RAW_NEWS.
+ * Undated items cannot be safely distinguished from old stories left in a feed,
+ * so the caller can hold them for review rather than publish them as current.
+ */
+export function classifyPublicationDate(
+  value: unknown,
+  now: Date = new Date(),
+  maxAgeDays = 7
+): PublicationDateStatus {
+  if (value === null || value === undefined || String(value).trim() === "") {
+    return "missing"
+  }
+
+  const publishedAt = value instanceof Date
+    ? new Date(value.getTime())
+    : new Date(String(value).trim())
+
+  if (Number.isNaN(publishedAt.getTime())) return "invalid"
+  if (!(now instanceof Date) || Number.isNaN(now.getTime())) return "invalid"
+
+  const ageMs = now.getTime() - publishedAt.getTime()
+  const maxAgeMs = maxAgeDays * 24 * 60 * 60 * 1000
+  const maxFutureSkewMs = 24 * 60 * 60 * 1000
+
+  if (ageMs > maxAgeMs) return "stale"
+  if (ageMs < -maxFutureSkewMs) return "future"
+
+  return "fresh"
+}
+
 export function cleanContent(raw: unknown): string {
   const html = String(raw || "")
     .replace(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/i, "$1")

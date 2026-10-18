@@ -7,6 +7,7 @@ import Parser from "rss-parser"
 import { getWriteAccessToken } from "../googleSheets"
 import {
   cleanContent,
+  classifyPublicationDate,
   countWords,
   normalizeUrlForDedup,
   selectFeedContent,
@@ -23,6 +24,7 @@ const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_NEW_ITEMS_PER_SOURCE = 8
 const MAX_FEED_ITEMS_TO_INSPECT = 100
 const MIN_CONTENT_CHARS = 30
+const MAX_PUBLISHED_AGE_DAYS = 7
 
 if (!SHEET_ID) {
   console.error("❌ Missing GOOGLE_SHEET_ID")
@@ -159,6 +161,10 @@ export async function runRssScraper() {
   let duplicateItems = 0
   let invalidItems = 0
   let metadataOnlyItems = 0
+  let stalePublishedDateItems = 0
+  let undatedPublishedDateItems = 0
+  let invalidPublishedDateItems = 0
+  let futurePublishedDateItems = 0
   let tooShortItems = 0
   let acceptedShortItems = 0
   let feedInspectionCapsReached = 0
@@ -197,6 +203,32 @@ export async function runRssScraper() {
         const dedupUrl = normalizeUrlForDedup(link)
         if (existingUrls.has(dedupUrl)) {
           duplicateItems++
+          continue
+        }
+
+        // Never ingest known-stale or undated stories as if they were current.
+        // Some feeds retain old posts in their first page for weeks or months.
+        const publicationDate = item.isoDate || item.pubDate
+        const publicationStatus = classifyPublicationDate(
+          publicationDate,
+          new Date(),
+          MAX_PUBLISHED_AGE_DAYS
+        )
+
+        if (publicationStatus === "stale") {
+          stalePublishedDateItems++
+          continue
+        }
+        if (publicationStatus === "missing") {
+          undatedPublishedDateItems++
+          continue
+        }
+        if (publicationStatus === "invalid") {
+          invalidPublishedDateItems++
+          continue
+        }
+        if (publicationStatus === "future") {
+          futurePublishedDateItems++
           continue
         }
 
@@ -271,6 +303,11 @@ export async function runRssScraper() {
       duplicateItems,
       invalidItems,
       metadataOnlyItems,
+      stalePublishedDateItems,
+      undatedPublishedDateItems,
+      invalidPublishedDateItems,
+      futurePublishedDateItems,
+      maxPublishedAgeDays: MAX_PUBLISHED_AGE_DAYS,
       tooShortItems,
       acceptedShortItemsUnder50Words: acceptedShortItems,
       selectedContentFields: contentFieldCounts,

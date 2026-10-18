@@ -2,11 +2,40 @@ import assert from "node:assert/strict"
 import test from "node:test"
 import {
   cleanContent,
+  classifyPublicationDate,
   countWords,
   isMetadataOnlyContent,
   normalizeUrlForDedup,
   selectFeedContent,
 } from "./contentUtils"
+
+test("classifyPublicationDate accepts dates within the configured freshness window", () => {
+  const now = new Date("2026-10-18T00:00:00.000Z")
+
+  assert.equal(classifyPublicationDate("2026-10-17T00:00:00.000Z", now, 7), "fresh")
+  assert.equal(classifyPublicationDate("2026-10-11T00:00:00.000Z", now, 7), "fresh")
+})
+
+test("classifyPublicationDate rejects dated RSS items older than seven days", () => {
+  const now = new Date("2026-10-18T00:00:00.000Z")
+
+  assert.equal(classifyPublicationDate("2026-10-09T00:00:00.000Z", now, 7), "stale")
+  assert.equal(classifyPublicationDate("2026-06-23T00:00:00.000Z", now, 7), "stale")
+})
+
+test("classifyPublicationDate identifies missing and invalid publication dates", () => {
+  const now = new Date("2026-10-18T00:00:00.000Z")
+
+  assert.equal(classifyPublicationDate("", now, 7), "missing")
+  assert.equal(classifyPublicationDate(undefined, now, 7), "missing")
+  assert.equal(classifyPublicationDate("not-a-date", now, 7), "invalid")
+})
+
+test("classifyPublicationDate holds dates more than 24 hours in the future", () => {
+  const now = new Date("2026-10-18T00:00:00.000Z")
+
+  assert.equal(classifyPublicationDate("2026-10-20T00:00:00.000Z", now, 7), "future")
+})
 
 test("cleanContent preserves paragraph boundaries and decodes common HTML entities", () => {
   const actual = cleanContent(
