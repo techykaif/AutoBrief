@@ -456,36 +456,15 @@ function parseSourceDateValue(value) {
   return isNaN(parsed.getTime()) ? null : parsed
 }
 
-function parseDateFromRawId(rawId) {
-  const match = String(rawId || "").trim().match(/^(\d{4})(\d{2})(\d{2})(?:-|$)/)
-  if (!match) return null
-
-  const year = Number(match[1])
-  const month = Number(match[2])
-  const day = Number(match[3])
-  const parsed = new Date(Date.UTC(year, month - 1, day))
-
-  // Reject impossible dates such as 20261340.
-  if (
-    parsed.getUTCFullYear() !== year ||
-    parsed.getUTCMonth() !== month - 1 ||
-    parsed.getUTCDate() !== day
-  ) {
-    return null
-  }
-
-  return parsed
-}
-
 /**
- * Returns an empty string for a fresh row, or a hold status for a row that
- * cannot safely be published as current news. The scrape timestamp is primary;
- * the date prefix in scraper-generated IDs is a fallback for legacy rows.
+ * Returns an empty string for a fresh item, or a hold status if its actual
+ * RSS publication date is missing or outside the freshness window. Do not use
+ * scraped_at or the row ID: both describe ingestion, not when the story happened.
  */
-function getSourceFreshnessStatus(scrapedAt, rawId, now) {
+function getSourceFreshnessStatus(publishedAt, now) {
   const referenceTime = parseSourceDateValue(now) || new Date()
 
-  const sourceDate = parseSourceDateValue(scrapedAt) || parseDateFromRawId(rawId)
+  const sourceDate = parseSourceDateValue(publishedAt)
   if (!sourceDate) return "MISSING_SOURCE_DATE"
 
   const ageMs = referenceTime.getTime() - sourceDate.getTime()
@@ -676,7 +655,8 @@ function processRawNewsToFinalBlogs() {
     content: 4,
     category: 5,
     scraped_at: 6,
-    status: 7
+    status: 7,
+    published_at: 8
   }
 
   let processed = 0
@@ -727,8 +707,7 @@ function processRawNewsToFinalBlogs() {
     }
 
     const freshnessStatus = getSourceFreshnessStatus(
-      row[IDX.scraped_at],
-      rawId,
+      row[IDX.published_at],
       new Date()
     )
 

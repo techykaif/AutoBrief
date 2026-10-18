@@ -48,6 +48,39 @@ async function fetchSheet(range: string): Promise<any[][]> {
   return data.values || []
 }
 
+/**
+ * Keep publication date separate from scraped_at. The Apps Script processor
+ * must validate when a story was published, not when our crawler ingested it.
+ */
+async function ensurePublishedAtHeader(): Promise<void> {
+  const values = await fetchSheet("RAW_NEWS!I1:I1")
+  const current = String(values[0]?.[0] || "").trim()
+
+  if (current && current.toLowerCase() !== "published_at") {
+    throw new Error(
+      `RAW_NEWS!I1 is already "${current}"; expected an empty cell or "published_at". Refusing to overwrite it.`
+    )
+  }
+
+  if (current.toLowerCase() === "published_at") return
+
+  const token = await getWriteAccessToken()
+  const res = await fetch(
+    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!I1?valueInputOption=RAW`,
+    {
+      method: "PUT",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ values: [["published_at"]] }),
+    }
+  )
+
+  if (!res.ok) throw new Error("Failed to create RAW_NEWS published_at header: " + await res.text())
+  console.log("🗓️ Ensured RAW_NEWS column I header: published_at")
+}
+
 async function updateSourceLastFetched(values: string[][]): Promise<void> {
   if (!values.length) return
 
@@ -76,7 +109,7 @@ async function appendRows(rows: any[][]): Promise<number> {
   const token = await getWriteAccessToken()
 
   const res = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:H:append?valueInputOption=RAW`,
+    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:I:append?valueInputOption=RAW`,
     {
       method: "POST",
       headers: {
@@ -121,6 +154,9 @@ function generateNextId(lastId?: string) {
 
 export async function runRssScraper() {
   console.log("🚀 Starting RSS scraper...")
+
+  // Ensure new raw rows keep the article publication date separately from ingest time.
+  await ensurePublishedAtHeader()
 
   // Load enabled sources from SOURCES sheet
   // Columns: source_id, source_name, rss_url, category, enabled, last_fetched
@@ -259,6 +295,7 @@ export async function runRssScraper() {
           source.category,
           new Date().toISOString(),
           "NEW",
+          new Date(String(publicationDate)).toISOString(),
         ])
 
         existingUrls.add(dedupUrl)
