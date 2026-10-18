@@ -7,6 +7,9 @@ const BATCH_LIMIT = 20
 const SLEEP_BETWEEN_MS = 2000
 // Hold stories with too little source text instead of padding them into weak articles.
 const MIN_SOURCE_WORDS_FOR_ARTICLE = 25
+// Historical queue rows must not be revived into current news articles.
+const MAX_SOURCE_AGE_DAYS = 7
+const FUTURE_SOURCE_SKEW_HOURS = 24
 
 // All models — used for article generation
 // Re-verified against console.groq.com/docs/models and /docs/deprecations on 2026-09-24.
@@ -432,6 +435,71 @@ function wordCount(text) {
     .length
 }
 
+function parseSourceDateValue(value) {
+  if (value instanceof Date && !isNaN(value.getTime())) {
+    return new Date(value.getTime())
+  }
+
+  if (typeof value === "number" && isFinite(value)) {
+    // Google Sheets serial dates count days from 1899-12-30.
+    const milliseconds = value > 100000000000
+      ? value
+      : (value - 25569) * 24 * 60 * 60 * 1000
+    const numericDate = new Date(milliseconds)
+    return isNaN(numericDate.getTime()) ? null : numericDate
+  }
+
+  const text = String(value || "").trim()
+  if (!text) return null
+
+  const parsed = new Date(text)
+  return isNaN(parsed.getTime()) ? null : parsed
+}
+
+function parseDateFromRawId(rawId) {
+  const match = String(rawId || "").trim().match(/^(\\d{4})(\\d{2})(\\d{2})(?:-|$)/)
+  if (!match) return null
+
+  const year = Number(match[1])
+  const month = Number(match[2])
+  const day = Number(match[3])
+  const parsed = new Date(Date.UTC(year, month - 1, day))
+
+  // Reject impossible dates such as 20261340.
+  if (
+    parsed.getUTCFullYear() !== year ||
+    parsed.getUTCMonth() !== month - 1 ||
+    parsed.getUTCDate() !== day
+  ) {
+    return null
+  }
+
+  return parsed
+}
+
+/**
+ * Returns an empty string for a fresh row, or a hold status for a row that
+ * cannot safely be published as current news. The scrape timestamp is primary;
+ * the date prefix in scraper-generated IDs is a fallback for legacy rows.
+ */
+function getSourceFreshnessStatus(scrapedAt, rawId, now) {
+  const referenceTime = now instanceof Date && !isNaN(now.getTime())
+    ? now
+    : new Date()
+
+  const sourceDate = parseSourceDateValue(scrapedAt) || parseDateFromRawId(rawId)
+  if (!sourceDate) return "MISSING_SOURCE_DATE"
+
+  const ageMs = referenceTime.getTime() - sourceDate.getTime()
+  const maximumAgeMs = MAX_SOURCE_AGE_DAYS * 24 * 60 * 60 * 1000
+  const maximumFutureMs = FUTURE_SOURCE_SKEW_HOURS * 60 * 60 * 1000
+
+  if (ageMs > maximumAgeMs) return "STALE_SOURCE"
+  if (ageMs < -maximumFutureMs) return "FUTURE_SOURCE_DATE"
+
+  return ""
+}
+
 function isSufficientSourceText(sourceText) {
   return wordCount(sourceText) >= MIN_SOURCE_WORDS_FOR_ARTICLE
 }
@@ -616,6 +684,7 @@ function processRawNewsToFinalBlogs() {
   let processed = 0
   let skipped = 0
   let duplicates = 0
+  let freshnessHeld = 0
   let batchCount = 0
 
   for (let i = 1; i < rawData.length; i++) {
@@ -656,6 +725,27 @@ function processRawNewsToFinalBlogs() {
       duplicates++
 
       Logger.log("⚠️ Duplicate: " + title)
+      continue
+    }
+
+    const freshnessStatus = getSourceFreshnessStatus(
+      row[IDX.scraped_at],
+      rawId,
+      new Date()
+    )
+
+    if (freshnessStatus) {
+      rawSheet
+        .getRange(i + 1, IDX.status + 1)
+        .setValue(freshnessStatus)
+
+      freshnessHeld++
+      batchCount++
+
+      Logger.log(
+        "⏭️ Held " + freshnessStatus + " (" +
+        String(row[IDX.scraped_at] || rawId) + "): " + title
+      )
       continue
     }
 
@@ -782,8 +872,10 @@ function processRawNewsToFinalBlogs() {
     processed +
     " | Dupes: " +
     duplicates +
-    " | Failed: " +
-    skipped
+    " | Failed/insufficient: " +
+    skipped +
+    " | Held for freshness: " +
+    freshnessHeld
   )
 
   return processed
