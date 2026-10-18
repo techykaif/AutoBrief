@@ -57,6 +57,8 @@ test("export headline validation rejects broken or malformed generated headings"
   assert.equal(isValidExportHeadline("Council approves new transport plan"), true)
   assert.equal(isValidExportHeadline("Council approves new transport plan…"), false)
   assert.equal(isValidExportHeadline("Summary: Council approves a transport plan"), false)
+  assert.equal(isValidExportHeadline("Mayor says “We will review the proposal”", "The mayor said “We will review the proposal.”", "Mayor addresses proposal"), true)
+  assert.equal(isValidExportHeadline("Mayor calls proposal “a historic breakthrough”", "The mayor said the proposal would be reviewed.", "Mayor addresses proposal"), false)
 })
 
 test("slug collisions get distinct incrementing suffixes", () => {
