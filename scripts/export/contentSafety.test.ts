@@ -1,6 +1,6 @@
 import assert from "node:assert/strict"
 import test from "node:test"
-import { ensureUniquePostSlugs, validateExportArticle } from "./contentSafety"
+import { ensureUniquePostSlugs, isValidExportHeadline, validateExportArticle } from "./contentSafety"
 
 const shortSource = [
   "Researchers reported the discovery of a previously unobserved pattern.",
@@ -25,11 +25,11 @@ test("export validator rejects terminal ellipses and dangling clauses", () => {
 
 test("export validator accepts valid numeric and alphanumeric sentence endings", () => {
   assert.equal(
-    validateExportArticle("Researchers presented their findings at COP17 and said the study describes a pattern that remains unexplained by the evidence collected so far.", shortSource, "Conference report").valid,
+    validateExportArticle("Researchers reported the study's findings after a detailed review of the evidence collected by the team at COP17.", shortSource, "Conference report").valid,
     true
   )
   assert.equal(
-    validateExportArticle("The team said the final match ended with a score of 6-1 after a close contest, while officials cautioned that the source offers no further details about the team's performance.", shortSource, "Sports report").valid,
+    validateExportArticle("The team said the final match ended after a close contest, and officials said their review of the full match report confirmed the score of 6-1.", shortSource, "Sports report").valid,
     true
   )
 })
@@ -42,6 +42,21 @@ test("export validator rejects a 180-word podcast listing as too long", () => {
   const result = validateExportArticle(article, source, title)
   assert.equal(result.valid, false)
   assert.match(result.reason, /^TOO_LONG:/)
+})
+
+test("export validator rejects quotation marks around unsupported wording", () => {
+  const source = "Officials said “We will review the proposal.” " +
+    "They described the timetable and the limits of the current analysis."
+  const grounded = "Officials said “We will review the proposal.” The review will continue with the available evidence and all submitted information."
+  const invented = "Officials called it “a historic breakthrough” after the review. The report describes the timetable and its current limits."
+  assert.equal(validateExportArticle(grounded, source, "Officials discuss a proposal").valid, true)
+  assert.equal(validateExportArticle(invented, source, "Officials discuss a proposal").reason, "UNSUPPORTED_QUOTED_TEXT")
+})
+
+test("export headline validation rejects broken or malformed generated headings", () => {
+  assert.equal(isValidExportHeadline("Council approves new transport plan"), true)
+  assert.equal(isValidExportHeadline("Council approves new transport plan…"), false)
+  assert.equal(isValidExportHeadline("Summary: Council approves a transport plan"), false)
 })
 
 test("slug collisions get distinct incrementing suffixes", () => {
