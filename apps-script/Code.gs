@@ -457,7 +457,7 @@ function parseSourceDateValue(value) {
 }
 
 function parseDateFromRawId(rawId) {
-  const match = String(rawId || "").trim().match(/^(\\d{4})(\\d{2})(\\d{2})(?:-|$)/)
+  const match = String(rawId || "").trim().match(/^(\d{4})(\d{2})(\d{2})(?:-|$)/)
   if (!match) return null
 
   const year = Number(match[1])
