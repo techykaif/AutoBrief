@@ -29,7 +29,7 @@ test("export validator accepts valid numeric and alphanumeric sentence endings",
     true
   )
   assert.equal(
-    validateExportArticle("The final match ended with a score of 6-1.", shortSource, "Sports report").valid,
+    validateExportArticle("The team said the final match ended with a score of 6-1 after a close contest, while officials cautioned that the source offers no further details about the team's performance.", shortSource, "Sports report").valid,
     true
   )
 })
