@@ -590,12 +590,14 @@ function hasIncompleteArticleEnding(article) {
   if (!/[.!?]$/.test(withoutClosers)) return true
 
   const sentenceBody = withoutClosers.replace(/[.!?]+$/, "").trim()
-  const finalWordMatch = sentenceBody.match(/([A-Za-z]+)$/)
-  if (!finalWordMatch) return true
+  // A finished sentence may end in a numeral, score, year, acronym, or version
+  // (e.g. "COP17", "July 2027", "6-1", or "U.S."). Don't mark these as cut-offs.
+  const finalTokenMatch = sentenceBody.match(/([A-Za-z0-9]+(?:['’][A-Za-z0-9]+)*(?:[-–][A-Za-z0-9]+)*)$/)
+  if (!finalTokenMatch) return true
 
   // Catch common model cut-offs even when the model incorrectly adds a period.
   return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus)$/i
-    .test(finalWordMatch[1])
+    .test(finalTokenMatch[1])
 }
 
 
