@@ -144,7 +144,11 @@ function hasUnsupportedQuotedText(article: string, sourceText: string, title: st
 export function isValidExportHeadline(value: string): boolean {
   if (!value || typeof value !== "string") return false
   const v = value.trim()
-  if (v.length < 10 || v.length > 100 || !isValidAiOutput(v)) return false
+  if (v.length < 10 || v.length > 100) return false
+  const lower = v.toLowerCase()
+  if (v.startsWith("=") || lower.includes("=ai(")) return false
+  if (lower.includes("as an ai language model") || lower.includes("i cannot") ||
+      lower.includes("i'm unable") || lower.includes("<think>") || lower.includes("</think>")) return false
   if (/[.…]\s*$/.test(v)) return false
   if (/^(headline|summary)\s*[:\-]/i.test(v)) return false
   if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than)$/i.test(v.replace(/[.!?]+$/, "").split(/\s+/).pop() || "")) return false
