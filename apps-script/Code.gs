@@ -430,10 +430,11 @@ function generateAiArticle(title, content) {
 /***********************
  * VALIDATE AI OUTPUT
  ***********************/
-function isValidAiOutput(value) {
+function isValidAiOutput(value, minimumLength) {
   if (!value || typeof value !== "string") return false
   const v = value.trim()
-  if (v.length < 20 || hasUnclosedThinkingBlock(v)) return false
+  const requiredLength = typeof minimumLength === "number" ? minimumLength : 20
+  if (v.length < requiredLength || hasUnclosedThinkingBlock(v)) return false
   const lower = v.toLowerCase()
   if (v.startsWith("=") || lower.includes("=ai(")) return false
   if (lower.includes("write a short, clear") ||
@@ -450,7 +451,7 @@ function isValidAiOutput(value) {
 
 
 function isValidHeadline(value, sourceText, title) {
-  if (!isValidAiOutput(value)) return false
+  if (!isValidAiOutput(value, 10)) return false
   const v = value.trim()
   if (v.length < 10 || v.length > 100) return false
   if (/[.…]\s*$/.test(v) || hasUnbalancedDoubleQuotes(v)) return false
@@ -913,6 +914,70 @@ function resetAiFailedToNew() {
     "Review individual failures and retry only explicitly approved, fresh source IDs."
   Logger.log("⛔ " + message)
   throw new Error(message)
+}
+
+
+function retrySelectedFreshAiFailedRow() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const ui = SpreadsheetApp.getUi()
+  const activeSheet = ss.getActiveSheet()
+  const activeRange = ss.getActiveRange()
+
+  if (!rawSheet || !activeSheet || activeSheet.getName() !== "RAW_NEWS" || !activeRange) {
+    throw new Error("Select exactly one row in RAW_NEWS before using this function.")
+  }
+  if (activeRange.getNumRows() !== 1 || activeRange.getRow() < 2) {
+    throw new Error("Select one data row (not the header) in RAW_NEWS.")
+  }
+
+  const rowNumber = activeRange.getRow()
+  const row = rawSheet.getRange(rowNumber, 1, 1, 9).getValues()[0]
+  const id = String(row[0] || "").trim()
+  const title = String(row[2] || "").trim()
+  const sourceText = cleanText(String(row[4] || ""))
+  const status = String(row[7] || "").trim().toUpperCase()
+
+  if (status !== "AI_FAILED") {
+    throw new Error("Selected row must have status AI_FAILED; found " + (status || "(blank)") + ".")
+  }
+  if (!id || !title || !sourceText) {
+    throw new Error("Selected row is missing its ID, title, or source content.")
+  }
+  if (!isSufficientSourceText(sourceText)) {
+    throw new Error("Selected source is too short to retry safely.")
+  }
+  const freshness = getSourceFreshnessStatus(row[8], new Date())
+  if (freshness) {
+    throw new Error("Selected source cannot be requeued: " + freshness + ".")
+  }
+
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!finalSheet) throw new Error("FINAL_BLOGS not found.")
+  const finalLastRow = finalSheet.getLastRow()
+  if (finalLastRow > 1) {
+    const ids = finalSheet.getRange(2, 2, finalLastRow - 1, 1).getValues()
+    if (ids.some(value => String(value[0] || "").trim() === id)) {
+      throw new Error("This source ID is already in FINAL_BLOGS; refusing to retry.")
+    }
+  }
+
+  const choice = ui.alert(
+    "Requeue one failed article?",
+    "This will change RAW_NEWS row " + rowNumber + " (" + id +
+      ") from AI_FAILED to NEW. It does not generate or publish immediately. " +
+      "The next scheduled/manual processor run may handle it.",
+    ui.ButtonSet.YES_NO
+  )
+  if (choice !== ui.Button.YES) {
+    Logger.log("Retry cancelled for " + id + "; no changes made.")
+    return false
+  }
+
+  rawSheet.getRange(rowNumber, 8).setValue("NEW")
+  SpreadsheetApp.flush()
+  Logger.log("✅ Requeued one approved fresh AI_FAILED row: " + id)
+  return true
 }
 
 
