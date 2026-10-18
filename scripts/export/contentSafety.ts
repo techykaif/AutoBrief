@@ -12,10 +12,10 @@ function wordCount(value: unknown): number {
 
 function isEpisodeListing(title: string, sourceText: string): boolean {
   const combined = String(title || "") + "\n" + String(sourceText || "")
-  const hasPodcastSignal = /\b(podcast|podcasts|audio series)\b/i.test(combined)
   const hasEpisodeSignal = /\b(episode|episodes)\b/i.test(combined)
-  const hasListingSignal = /\b(listen(?:\s+to)?|subscribe|stream|download|show notes|episode notes|suggested reading|more ways to listen|in this episode|in the latest episode|this week's episode|topics? (?:include|covered|discussed)|presented by|transcript|watch the full episode|the latest episode of the podcast|podcast will be published|listen now)\b/i.test(combined)
-  return hasPodcastSignal && hasEpisodeSignal && hasListingSignal
+  // Match the Apps Script rules, including shows that omit the word podcast.
+  const hasListingSignal = /\b(listen(?:\s+to)?|subscribe|stream|download|show notes|episode notes|suggested reading|more ways to listen|in this episode|in the latest episode|this week's episode|topics? (?:include|covered|discussed)|presented by|transcript|watch the full episode|podcast will be published|listen now)\b/i.test(combined)
+  return hasEpisodeSignal && hasListingSignal
 }
 
 function articleWordBounds(sourceText: string, title: string) {
