@@ -688,237 +688,148 @@ function isSimilarTitle(titleA, titleB) {
  * RAW → FINAL PROCESSOR
  ***********************/
 function processRawNewsToFinalBlogs() {
-  const ss = SpreadsheetApp.getActiveSpreadsheet()
-  const rawSheet = ss.getSheetByName("RAW_NEWS")
-  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
-
-  const rawData = rawSheet.getDataRange().getValues()
-  const finalLastRow = finalSheet.getLastRow()
-
-  const existingIds = new Set()
-  const existingTitles = []
-
-  if (finalLastRow > 1) {
-    const finalData = finalSheet
-      .getRange(2, 1, finalLastRow - 1, 3)
-      .getValues()
-
-    finalData.forEach(row => {
-      existingIds.add(String(row[1]).trim())
-      existingTitles.push(String(row[2]).trim())
-    })
+  const lock = LockService.getScriptLock()
+  if (!lock.tryLock(PROCESS_LOCK_WAIT_MS)) {
+    Logger.log("⏭️ Another processor run is active; this run will exit without changes.")
+    return 0
   }
 
-  const IDX = {
-    id: 0,
-    source: 1,
-    title: 2,
-    url: 3,
-    content: 4,
-    category: 5,
-    scraped_at: 6,
-    status: 7,
-    published_at: 8
-  }
+  try {
+    const ss = SpreadsheetApp.getActiveSpreadsheet()
+    const rawSheet = ss.getSheetByName("RAW_NEWS")
+    const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+    if (!rawSheet || !finalSheet) throw new Error("Required sheet missing: RAW_NEWS or FINAL_BLOGS.")
 
-  let processed = 0
-  let skipped = 0
-  let duplicates = 0
-  let freshnessHeld = 0
-  let batchCount = 0
-
-  for (let i = 1; i < rawData.length; i++) {
-
-    if (batchCount >= BATCH_LIMIT) {
-      Logger.log("⏸️ Batch limit reached — next run picks up the rest")
-      break
+    const rawLastRow = rawSheet.getLastRow()
+    if (rawLastRow < 2) {
+      Logger.log("📭 RAW_NEWS has no data rows.")
+      return 0
+    }
+    const header = String(rawSheet.getRange(1, 9).getValue() || "").trim().toLowerCase()
+    if (header !== "published_at") {
+      throw new Error('RAW_NEWS!I1 must be "published_at"; refusing to process rows with an unknown schema.')
     }
 
-    const row = rawData[i]
-
-    if (String(row[IDX.status]).toUpperCase() !== "NEW") {
-      continue
+    const rawData = rawSheet.getRange(1, 1, rawLastRow, 9).getValues()
+    const finalLastRow = finalSheet.getLastRow()
+    const existingIds = new Set()
+    const existingTitles = []
+    if (finalLastRow > 1) {
+      finalSheet.getRange(2, 1, finalLastRow - 1, 3).getValues().forEach(row => {
+        const id = String(row[1] || "").trim()
+        const title = String(row[2] || "").trim()
+        if (id) existingIds.add(id)
+        if (title) existingTitles.push(title)
+      })
     }
 
-    if (!row[IDX.title] || !row[IDX.content]) {
-      continue
-    }
-
-    const rawId = String(row[IDX.id]).trim()
-    const title = String(row[IDX.title]).trim()
-
-    if (existingIds.has(rawId)) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("PROCESSED")
-
-      continue
-    }
-
-    const isDuplicate = existingTitles.some(t => isSimilarTitle(title, t))
-
-    if (isDuplicate) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("DUPLICATE")
-
-      duplicates++
-
-      Logger.log("⚠️ Duplicate: " + title)
-      continue
-    }
-
-    const freshnessStatus = getSourceFreshnessStatus(
-      row[IDX.published_at],
-      new Date()
-    )
-
-    if (freshnessStatus) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue(freshnessStatus)
-
-      freshnessHeld++
-      batchCount++
-
-      Logger.log(
-        "⏭️ Held " + freshnessStatus + " (" +
-        String(row[IDX.scraped_at] || rawId) + "): " + title
-      )
-      continue
-    }
-
-    const cleaned = cleanText(String(row[IDX.content]))
-
-    // Weak snippets cannot support a reliable article. Hold them for later
-    // source enrichment instead of paying for generation and publishing padding.
-    if (!isSufficientSourceText(cleaned)) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("INSUFFICIENT_SOURCE")
-
-      Logger.log(
-        "⏭️ Held for insufficient source text (" +
-        wordCount(cleaned) + " words): " + title
-      )
-
-      skipped++
-      batchCount++
-      continue
-    }
-
-    const summary = generateBaseSummary(cleaned)
-
-    Logger.log(
-      "🤖 [" +
-      (batchCount + 1) +
-      "/" +
-      BATCH_LIMIT +
-      "] " +
-      title
-    )
-
-    // Call 1: headline + summary
-    const {
-      headline: aiHeadline,
-      summary: aiSummary
-    } = generateAiHeadlineAndSummary(title, cleaned)
-
-    // Call 2: article
-    const aiArticle = generateAiArticle(title, cleaned)
-
-    const articleIsValid = isValidArticleOutput(
-      aiArticle,
-      cleaned,
-      title
-    )
-
-    if (!articleIsValid) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("AI_FAILED")
-
-      Logger.log("❌ Article failed: " + title)
-
-      skipped++
-      batchCount++
-
-      continue
-    }
-
-    const finalTitle = isValidHeadline(aiHeadline)
-      ? aiHeadline
-      : title
-
-    const finalSummary = isValidSummary(aiSummary, cleaned)
-      ? aiSummary
-      : summary
-
-    const finalContent = aiArticle
-
-    Logger.log(
-      "📊 Source: " +
-      wordCount(cleaned) +
-      " words | Article: " +
-      wordCount(finalContent) +
-      " words | Headline: " +
-      finalTitle.length +
-      " chars | Summary: " +
-      finalSummary.length +
-      " chars"
-    )
-
+    const IDX = { id: 0, source: 1, title: 2, url: 3, content: 4,
+      category: 5, scraped_at: 6, status: 7, published_at: 8 }
+    let published = 0
+    let skipped = 0
+    let duplicates = 0
+    let alreadyPublished = 0
+    let freshnessHeld = 0
+    let invalidRows = 0
+    let batchCount = 0
     const now = new Date()
 
-    finalSheet.appendRow([
-      "BLOG-" + rawId,
-      rawId,
-      finalTitle,
-      slugify(finalTitle),
-      cleaned,
-      finalSummary,
-      row[IDX.category],
-      row[IDX.source],
-      now,
-      true,
-      false,
-      finalTitle,
-      finalSummary.slice(0, 160),
-      "LIVE",
-      finalSummary,
-      finalContent,
-      finalTitle,
-      now,
-      cleanSourceUrl(row[IDX.url])
-    ])
+    for (let i = 1; i < rawData.length; i++) {
+      if (batchCount >= BATCH_LIMIT) {
+        Logger.log("⏸️ Batch limit reached — next run picks up the rest")
+        break
+      }
+      const row = rawData[i]
+      if (String(row[IDX.status] || "").trim().toUpperCase() !== "NEW") continue
 
-    existingIds.add(rawId)
-    existingTitles.push(title)
+      const rawId = String(row[IDX.id] || "").trim()
+      const title = String(row[IDX.title] || "").trim()
+      const rawContent = String(row[IDX.content] || "").trim()
 
-    rawSheet
-      .getRange(i + 1, IDX.status + 1)
-      .setValue("PROCESSED")
+      // Malformed NEW rows must leave the queue with a visible hold status.
+      if (!rawId || !title || !rawContent) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("MISSING_REQUIRED_FIELDS")
+        invalidRows++
+        batchCount++
+        Logger.log("⏭️ Held MISSING_REQUIRED_FIELDS at RAW_NEWS row " + (i + 1))
+        continue
+      }
+      if (existingIds.has(rawId)) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("PROCESSED")
+        alreadyPublished++
+        batchCount++
+        continue
+      }
+      if (existingTitles.some(t => isSimilarTitle(title, t))) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("DUPLICATE")
+        duplicates++
+        batchCount++
+        Logger.log("⚠️ Duplicate: " + title)
+        continue
+      }
 
-    processed++
-    batchCount++
+      const freshness = getSourceFreshnessStatus(row[IDX.published_at], now)
+      if (freshness) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue(freshness)
+        freshnessHeld++
+        batchCount++
+        Logger.log("⏭️ Held " + freshness + " (" + String(row[IDX.scraped_at] || rawId) + "): " + title)
+        continue
+      }
 
-    Logger.log("✅ " + finalTitle)
+      const cleaned = cleanText(rawContent)
+      if (!isSufficientSourceText(cleaned)) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("INSUFFICIENT_SOURCE")
+        skipped++
+        batchCount++
+        Logger.log("⏭️ Held for insufficient source text (" + wordCount(cleaned) + " words): " + title)
+        continue
+      }
 
-    Utilities.sleep(SLEEP_BETWEEN_MS)
+      Logger.log("🤖 [" + (batchCount + 1) + "/" + BATCH_LIMIT + "] " + title)
+      const fallbackSummary = generateBaseSummary(cleaned)
+      const aiFields = generateAiHeadlineAndSummary(title, cleaned)
+      const aiArticle = generateAiArticle(title, cleaned)
+      const validation = validateArticleOutput(aiArticle, cleaned, title)
+      if (!validation.valid) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("AI_FAILED")
+        skipped++
+        batchCount++
+        Logger.log("❌ Article failed (" + validation.reason + "): " + title)
+        continue
+      }
+
+      const finalTitle = isValidHeadline(aiFields.headline) ? aiFields.headline : title
+      const finalSummary = isValidSummary(aiFields.summary, cleaned) ? aiFields.summary : fallbackSummary
+      const finalContent = aiArticle
+      Logger.log("📊 Source: " + wordCount(cleaned) + " words | Article: " +
+        wordCount(finalContent) + " words | Headline: " + finalTitle.length +
+        " chars | Summary: " + finalSummary.length + " chars")
+
+      const publishedAt = new Date()
+      finalSheet.appendRow([
+        "BLOG-" + rawId, rawId, finalTitle, slugify(finalTitle), cleaned,
+        finalSummary, row[IDX.category], row[IDX.source], publishedAt,
+        true, false, finalTitle, finalSummary.slice(0, 160), "LIVE",
+        finalSummary, finalContent, finalTitle, publishedAt, cleanSourceUrl(row[IDX.url])
+      ])
+
+      existingIds.add(rawId)
+      existingTitles.push(finalTitle)
+      rawSheet.getRange(i + 1, IDX.status + 1).setValue("PROCESSED")
+      published++
+      batchCount++
+      Logger.log("✅ " + finalTitle)
+      Utilities.sleep(SLEEP_BETWEEN_MS)
+    }
+
+    Logger.log("🎉 Published: " + published + " | Already in FINAL_BLOGS: " +
+      alreadyPublished + " | Dupes: " + duplicates + " | AI/insufficient failures: " +
+      skipped + " | Invalid raw rows: " + invalidRows + " | Held for freshness: " + freshnessHeld)
+    return published
+  } finally {
+    lock.releaseLock()
   }
-
-  Logger.log(
-    "🎉 Published: " +
-    processed +
-    " | Dupes: " +
-    duplicates +
-    " | Failed/insufficient: " +
-    skipped +
-    " | Held for freshness: " +
-    freshnessHeld
-  )
-
-  return processed
 }
 
 
@@ -926,28 +837,11 @@ function processRawNewsToFinalBlogs() {
  * RESET AI_FAILED → NEW
  ***********************/
 function resetAiFailedToNew() {
-  const sheet = SpreadsheetApp
-    .getActive()
-    .getSheetByName("RAW_NEWS")
-
-  const data = sheet.getDataRange().getValues()
-  let reset = 0
-
-  for (let i = 1; i < data.length; i++) {
-    if (String(data[i][7]).toUpperCase() === "AI_FAILED") {
-      sheet
-        .getRange(i + 1, 8)
-        .setValue("NEW")
-
-      reset++
-    }
-  }
-
-  Logger.log("✅ Reset " + reset + " rows to NEW")
-
-  SpreadsheetApp
-    .getUi()
-    .alert("✅ Reset " + reset + " rows back to NEW")
+  const message =
+    "Bulk AI_FAILED reset is disabled to protect historical rows. " +
+    "Review individual failures and retry only explicitly approved, fresh source IDs."
+  Logger.log("⛔ " + message)
+  throw new Error(message)
 }
 
 
@@ -1074,7 +968,7 @@ function triggerGithubExport(articlesProcessed) {
  * MASTER AUTOMATION
  ***********************/
 function masterAutomation() {
-  Logger.log("🚀 Starting masterAutomation...")
+  Logger.log("🚀 Starting masterAutomation " + SCRIPT_VERSION)
 
   const processed = processRawNewsToFinalBlogs()
 
