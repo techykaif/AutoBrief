@@ -577,8 +577,31 @@ function paragraphCount(article) {
     .length
 }
 
+function hasIncompleteArticleEnding(article) {
+  const value = String(article || "").trim()
+  if (!value) return true
+
+  // Ellipses at the end usually indicate the model stopped mid-thought.
+  if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
+
+  // Allow closing quotes/parentheses after sentence punctuation, but require a
+  // real terminal mark rather than a comma, colon, or dangling clause.
+  const withoutClosers = value.replace(/["'”’)]{1,}\s*$/, "").trim()
+  if (!/[.!?]$/.test(withoutClosers)) return true
+
+  const sentenceBody = withoutClosers.replace(/[.!?]+$/, "").trim()
+  const finalWordMatch = sentenceBody.match(/([A-Za-z]+)$/)
+  if (!finalWordMatch) return true
+
+  // Catch common model cut-offs even when the model incorrectly adds a period.
+  return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus)$/i
+    .test(finalWordMatch[1])
+}
+
+
 function isValidArticleOutput(article, sourceText, title) {
   if (!isValidAiOutput(article)) return false
+  if (hasIncompleteArticleEnding(article)) return false
   if (!isSufficientSourceText(sourceText)) return false
 
   const bounds = articleWordBounds(sourceText, title)
