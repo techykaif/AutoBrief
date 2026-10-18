@@ -104,9 +104,9 @@ test("rejects overlong output for a podcast listing", () => {
 test("accepts a concise single-paragraph podcast summary with title-aware validation", () => {
   const title = "Radical Thinking podcast episode"
   const sourceText = [
-    "In the latest episode of Radical Thinking, a guest discusses policy and public debate.",
-    "Watch the full episode here.",
-    "More ways to listen.",
+    "The listing identifies a guest and several topics for discussion.",
+    "Suggested reading:",
+    "Presented by the programme team.",
     words(280)
   ].join(" ")
   const article = "The episode features a guest discussing policy and public debate. The listing names the programme and its topics but does not provide a full transcript. Listeners can watch the full episode online for the complete discussion."
