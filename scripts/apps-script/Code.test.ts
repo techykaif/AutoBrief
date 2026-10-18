@@ -73,9 +73,9 @@ test("base-summary fallback never truncates a single sentence with an ellipsis",
 
 test("article validator rejects quoted text not present in the source", () => {
   const sourceText = "Officials said, “We will review the proposal.” " + words(30)
-  const supportedQuote = "Officials said “We will review the proposal.” The review will continue with the available evidence."
-  const unsupportedQuote = "Officials described the proposal as “a historic breakthrough”. " + words(25)
-  assert.equal(runtime.validateArticleOutput(supportedQuote, sourceText, "Officials discuss proposal").reason !== "UNSUPPORTED_QUOTED_TEXT", true)
+  const supportedQuote = "Officials said “We will review the proposal.” The review will continue with available evidence as officials evaluate submissions from residents."
+  const unsupportedQuote = "Officials described the proposal as “a historic breakthrough”. " + words(25) + "."
+  assert.equal(runtime.validateArticleOutput(supportedQuote, sourceText, "Officials discuss proposal").valid, true)
   assert.equal(runtime.validateArticleOutput(unsupportedQuote, sourceText, "Officials discuss proposal").reason, "UNSUPPORTED_QUOTED_TEXT")
 })
 
