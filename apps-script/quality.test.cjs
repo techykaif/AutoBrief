@@ -101,6 +101,27 @@ test("rejects overlong output for a podcast listing", () => {
   assert.equal(sandbox.isValidArticleOutput(overlongArticle, sourceText, title), false)
 })
 
+test("accepts a concise single-paragraph podcast summary with title-aware validation", () => {
+  const title = "Radical Thinking podcast episode"
+  const sourceText = [
+    "In the latest episode of Radical Thinking, a guest discusses policy and public debate.",
+    "Watch the full episode here.",
+    "More ways to listen.",
+    words(280)
+  ].join(" ")
+  const article = "The episode features a guest discussing policy and public debate. The listing names the programme and its topics but does not provide a full transcript. Listeners can watch the full episode online for the complete discussion."
+
+  assert.equal(sandbox.isValidArticleOutput(article, sourceText, title), true)
+  assert.equal(sandbox.isValidArticleOutput(article, sourceText), false)
+})
+
+test("the publication processor applies the title-aware article validator", () => {
+  assert.match(
+    source,
+    /const articleIsValid = isValidArticleOutput\(\s*aiArticle,\s*cleaned,\s*title\s*\)/
+  )
+})
+
 test("holds snippets with fewer than 25 words", () => {
   assert.equal(sandbox.isSufficientSourceText(words(24)), false)
   assert.equal(sandbox.isSufficientSourceText(words(25)), true)
