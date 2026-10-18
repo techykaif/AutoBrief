@@ -115,10 +115,18 @@ test("accepts a concise single-paragraph podcast summary with title-aware valida
   assert.equal(sandbox.isValidArticleOutput(article, sourceText), false)
 })
 
-test("the publication processor applies the title-aware article validator", () => {
+test("the publication processor uses title-aware validation with explicit failure reasons", () => {
   assert.match(
     source,
-    /const articleIsValid = isValidArticleOutput\(\s*aiArticle,\s*cleaned,\s*title\s*\)/
+    /const validation = validateArticleOutput\(\s*aiArticle,\s*cleaned,\s*title\s*\)/
+  )
+  assert.match(
+    source,
+    /if \(!validation\.valid\)/
+  )
+  assert.match(
+    source,
+    /Article failed \(" \+ validation\.reason \+ "\)/
   )
 })
 
