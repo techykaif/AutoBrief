@@ -74,7 +74,7 @@ async function appendRows(rows: any[][]): Promise<number> {
   const token = await getWriteAccessToken()
 
   const res = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:H:append?valueInputOption=USER_ENTERED`,
+    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:H:append?valueInputOption=RAW`,
     {
       method: "POST",
       headers: {
