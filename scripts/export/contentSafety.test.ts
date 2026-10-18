@@ -34,6 +34,16 @@ test("export validator accepts valid numeric and alphanumeric sentence endings",
   )
 })
 
+test("export validator detects episode listings when the source omits the word podcast", () => {
+  const title = "How a guest describes a political debate | Weekly Thinking"
+  const source = "In the latest episode of Weekly Thinking, the guest discusses policy and the future of the debate. Watch the full episode here. Suggested reading follows. " +
+    Array.from({ length: 280 }, (_, i) => "sourceword" + String(i)).join(" ")
+  const article = Array.from({ length: 180 }, (_, i) => "articleword" + String(i)).join(" ") + "."
+  const result = validateExportArticle(article, source, title)
+  assert.equal(result.valid, false)
+  assert.match(result.reason, /^TOO_LONG:/)
+})
+
 test("export validator rejects a 180-word podcast listing as too long", () => {
   const title = "How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty"
   const source = ("Listen to the latest episode of the podcast. Suggested reading follows. Topics include economics and politics. " +
