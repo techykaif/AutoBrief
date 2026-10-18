@@ -419,31 +419,22 @@ function generateAiArticle(title, content) {
  ***********************/
 function isValidAiOutput(value) {
   if (!value || typeof value !== "string") return false
-
   const v = value.trim()
-
-  if (v.length < 20) return false
-
+  if (v.length < 20 || hasUnclosedThinkingBlock(v)) return false
   const lower = v.toLowerCase()
-
-  if (v.startsWith("=")) return false
-  if (lower.includes("=ai(")) return false
-  if (lower.includes("write a short, clear")) return false
-  if (lower.includes("write a clear and well-structured")) return false
-  if (lower.includes("summarize the following news")) return false
-  if (lower.includes("as an ai language model")) return false
-  if (lower.includes("i cannot")) return false
-  if (lower.includes("i'm unable")) return false
-
-  // Reject if it looks like leaked reasoning
-  if (lower.includes("self-correction")) return false
-  if (lower.includes("let me ensure")) return false
-  if (lower.includes("check constraints")) return false
-  if (lower.includes("draft:")) return false
-  if (lower.includes("step 1:") || lower.includes("step 2:")) return false
-
+  if (v.startsWith("=") || lower.includes("=ai(")) return false
+  if (lower.includes("write a short, clear") ||
+      lower.includes("write a clear and well-structured") ||
+      lower.includes("summarize the following news")) return false
+  if (lower.includes("as an ai language model") ||
+      lower.includes("i cannot") || lower.includes("i'm unable")) return false
+  if (lower.includes("self-correction") || lower.includes("let me ensure") ||
+      lower.includes("check constraints") || lower.includes("draft:") ||
+      lower.includes("step 1:") || lower.includes("step 2:") ||
+      lower.includes("<think>") || lower.includes("</think>")) return false
   return true
 }
+
 
 function isValidHeadline(value) {
   if (!isValidAiOutput(value)) return false
@@ -601,48 +592,43 @@ function paragraphCount(article) {
 function hasIncompleteArticleEnding(article) {
   const value = String(article || "").trim()
   if (!value) return true
-
-  // Ellipses at the end usually indicate the model stopped mid-thought.
   if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
 
-  // Allow closing quotes/parentheses after sentence punctuation, but require a
-  // real terminal mark rather than a comma, colon, or dangling clause.
+  // Quoted/bracketed endings are allowed only when the underlying sentence
+  // has terminal punctuation. Digits and acronyms are valid terminal tokens.
   const withoutClosers = value.replace(/["'”’)]{1,}\s*$/, "").trim()
   if (!/[.!?]$/.test(withoutClosers)) return true
-
   const sentenceBody = withoutClosers.replace(/[.!?]+$/, "").trim()
-  // A finished sentence may end in a numeral, score, year, acronym, or version
-  // (e.g. "COP17", "July 2027", "6-1", or "U.S."). Don't mark these as cut-offs.
-  const finalTokenMatch = sentenceBody.match(/([A-Za-z0-9]+(?:['’][A-Za-z0-9]+)*(?:[-–][A-Za-z0-9]+)*)$/)
-  if (!finalTokenMatch) return true
+  const finalToken = sentenceBody.match(/([A-Za-z0-9]+(?:['’][A-Za-z0-9]+)*(?:[-–][A-Za-z0-9]+)*)$/)
+  if (!finalToken) return true
 
-  // Catch common model cut-offs even when the model incorrectly adds a period.
-  return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus)$/i
-    .test(finalTokenMatch[1])
+  return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(finalToken[1])
 }
 
 
-function isValidArticleOutput(article, sourceText, title) {
-  if (!isValidAiOutput(article)) return false
-  if (hasIncompleteArticleEnding(article)) return false
-  if (!isSufficientSourceText(sourceText)) return false
-
+function validateArticleOutput(article, sourceText, title) {
+  if (!isValidAiOutput(article)) return { valid: false, reason: "INVALID_AI_OUTPUT" }
+  if (hasIncompleteArticleEnding(article)) return { valid: false, reason: "INCOMPLETE_OR_DANGLING_ENDING" }
+  if (!isSufficientSourceText(sourceText)) return { valid: false, reason: "INSUFFICIENT_SOURCE" }
   const bounds = articleWordBounds(sourceText, title)
   const words = wordCount(article)
-
-  if (words < bounds.min || words > bounds.max) return false
-  if (hasRepetitiveSentences(article)) return false
-
-  // Longer sources should produce readable paragraph structure, not one blob.
+  if (words < bounds.min) return { valid: false, reason: "TOO_SHORT:" + words + "<" + bounds.min }
+  if (words > bounds.max) return { valid: false, reason: "TOO_LONG:" + words + ">" + bounds.max }
+  if (hasRepetitiveSentences(article)) return { valid: false, reason: "REPETITIVE_SENTENCES" }
   if (wordCount(sourceText) >= 80 && paragraphCount(article) < bounds.minParagraphs) {
-    return false
+    return { valid: false, reason: "INSUFFICIENT_PARAGRAPH_STRUCTURE" }
   }
-
-  return true
+  return { valid: true, reason: "OK" }
 }
+
+function isValidArticleOutput(article, sourceText, title) {
+  return validateArticleOutput(article, sourceText, title).valid
+}
+
 
 function isValidSummary(value, sourceText) {
   if (!isValidAiOutput(value)) return false
+  if (hasIncompleteArticleEnding(value)) return false
 
   const words = wordCount(value)
   if (words < 10 || words > 55) return false
@@ -662,9 +648,11 @@ function isValidSummary(value, sourceText) {
  * DEDUPLICATION
  ***********************/
 function normalizeTitleForDedup(title) {
-  return title
+  return String(title || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, "")
+    .replace(/[^a-z0-9\s]/g, " ")
     .replace(/\s+/g, " ")
     .trim()
 }
@@ -672,19 +660,31 @@ function normalizeTitleForDedup(title) {
 function isSimilarTitle(titleA, titleB) {
   const a = normalizeTitleForDedup(titleA)
   const b = normalizeTitleForDedup(titleB)
-
+  if (!a || !b) return false
   if (a === b) return true
-  if (a.includes(b) || b.includes(a)) return true
 
-  const wordsA = new Set(a.split(" "))
-  const wordsB = b.split(" ")
-  const overlap = wordsB.filter(w => wordsA.has(w)).length
+  const shorterLength = Math.min(a.length, b.length)
+  if (shorterLength >= 25 && (a.includes(b) || b.includes(a))) return true
 
-  return overlap / Math.max(wordsA.size, wordsB.length) >= 0.7
+  const stopWords = new Set([
+    "the", "a", "an", "and", "or", "but", "to", "of", "in", "on",
+    "for", "at", "by", "as", "is", "are", "was", "were", "with",
+    "from", "after", "before", "amid", "into", "over", "about"
+  ])
+  const wordsA = new Set(a.split(" ").filter(w => w.length > 2 && !stopWords.has(w)))
+  const wordsB = new Set(b.split(" ").filter(w => w.length > 2 && !stopWords.has(w)))
+  if (!wordsA.size || !wordsB.size) return false
+
+  let overlap = 0
+  wordsB.forEach(w => { if (wordsA.has(w)) overlap++ })
+  const smaller = Math.min(wordsA.size, wordsB.size)
+  const union = new Set([...wordsA, ...wordsB]).size
+  return (overlap >= 3 && overlap / smaller >= 0.85) || (union > 0 && overlap / union >= 0.8)
 }
 
 
 /***********************
+ * RAW → FINAL PROCESSOR/***********************
  * RAW → FINAL PROCESSOR
  ***********************/
 function processRawNewsToFinalBlogs() {
