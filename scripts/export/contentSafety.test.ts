@@ -1,6 +1,6 @@
 import assert from "node:assert/strict"
 import test from "node:test"
-import { ensureUniquePostSlugs, isValidExportHeadline, validateExportArticle } from "./contentSafety"
+import { ensureUniquePostSlugs, isValidExportHeadline, validateExportArticle, validateExportSummary } from "./contentSafety"
 
 const shortSource = [
   "Researchers reported the discovery of a previously unobserved pattern.",
@@ -70,6 +70,16 @@ test("export headline validation rejects broken or malformed generated headings"
   assert.equal(isValidExportHeadline("Summary: Council approves a transport plan"), false)
   assert.equal(isValidExportHeadline("Mayor says “We will review the proposal”", "The mayor said “We will review the proposal.”", "Mayor addresses proposal"), true)
   assert.equal(isValidExportHeadline("Mayor calls proposal “a historic breakthrough”", "The mayor said the proposal would be reviewed.", "Mayor addresses proposal"), false)
+})
+
+test("export summary validator rejects incomplete and unsupported quoted output", () => {
+  assert.equal(validateExportSummary(completeArticle, shortSource, "Researchers report a new pattern").valid, true)
+  assert.equal(validateExportSummary("Researchers reported the finding and…", shortSource, "Research report").valid, false)
+  assert.equal(
+    validateExportSummary("Researchers called the outcome “a historic breakthrough” after reviewing the report. The team described the available information and limits of the analysis.", shortSource, "Research report").reason,
+    "UNSUPPORTED_QUOTED_TEXT"
+  )
+  assert.equal(validateExportSummary(Array.from({ length: 60 }, (_, i) => "summaryword" + String(i)).join(" ") + ".", shortSource, "Research report").reason, "SUMMARY_TOO_LONG")
 })
 
 test("slug collisions get distinct incrementing suffixes", () => {
