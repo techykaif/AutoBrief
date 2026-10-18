@@ -1006,6 +1006,240 @@ function triggerGithubExport(articlesProcessed) {
 
 
 /***********************
+ * PIPELINE DIAGNOSTICS
+ * Read-only unless dryRunFreshNewArticle makes an AI call.
+ ***********************/
+function auditPipelineHealth() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!rawSheet || !finalSheet) throw new Error("Required sheet missing: RAW_NEWS or FINAL_BLOGS.")
+
+  const rawData = rawSheet.getDataRange().getValues()
+  const finalData = finalSheet.getDataRange().getValues()
+  const statusCounts = {}
+  const recentStatusCounts = {}
+  const finalById = new Map()
+  const finalIds = new Set()
+  const finalTitles = []
+
+  for (let i = 1; i < finalData.length; i++) {
+    const row = finalData[i]
+    const id = String(row[1] || "").trim()
+    const title = String(row[2] || "").trim()
+    if (id) {
+      finalById.set(id, row)
+      finalIds.add(id)
+    }
+    if (title) finalTitles.push(title)
+  }
+
+  const recentStart = Math.max(1, rawData.length - 250)
+  const candidateStats = {
+    newRows: 0,
+    missingFields: 0,
+    alreadyInFinalBlogs: 0,
+    similarTitle: 0,
+    missingDate: 0,
+    staleDate: 0,
+    futureDate: 0,
+    insufficientSource: 0,
+    eligible: 0
+  }
+  const qualityStats = {
+    processedRowsChecked: 0,
+    missingFinalRows: 0,
+    emptyArticles: 0,
+    invalidArticles: 0,
+    invalidReasons: {},
+    incompleteEndings: 0,
+    unsupportedQuotes: 0,
+    samples: []
+  }
+
+  const now = new Date()
+
+  for (let i = 1; i < rawData.length; i++) {
+    const row = rawData[i]
+    const status = String(row[7] || "").trim().toUpperCase() || "(BLANK)"
+    statusCounts[status] = (statusCounts[status] || 0) + 1
+    if (i >= recentStart) {
+      recentStatusCounts[status] = (recentStatusCounts[status] || 0) + 1
+    }
+
+    if (status === "NEW") {
+      candidateStats.newRows++
+      const id = String(row[0] || "").trim()
+      const title = String(row[2] || "").trim()
+      const content = cleanText(String(row[4] || ""))
+      if (!id || !title || !content) {
+        candidateStats.missingFields++
+        continue
+      }
+      if (finalIds.has(id)) {
+        candidateStats.alreadyInFinalBlogs++
+        continue
+      }
+      if (finalTitles.some(existing => isSimilarTitle(title, existing))) {
+        candidateStats.similarTitle++
+        continue
+      }
+      const freshness = getSourceFreshnessStatus(row[8], now)
+      if (freshness === "MISSING_SOURCE_DATE") {
+        candidateStats.missingDate++
+        continue
+      }
+      if (freshness === "STALE_SOURCE") {
+        candidateStats.staleDate++
+        continue
+      }
+      if (freshness === "FUTURE_SOURCE_DATE") {
+        candidateStats.futureDate++
+        continue
+      }
+      if (freshness) continue
+      if (!isSufficientSourceText(content)) {
+        candidateStats.insufficientSource++
+        continue
+      }
+      candidateStats.eligible++
+    }
+
+    if (i < recentStart || status !== "PROCESSED") continue
+    qualityStats.processedRowsChecked++
+
+    const id = String(row[0] || "").trim()
+    const finalRow = finalById.get(id)
+    if (!finalRow) {
+      qualityStats.missingFinalRows++
+      continue
+    }
+
+    const sourceText = String(finalRow[4] || "")
+    const article = String(finalRow[15] || "")
+    if (!article.trim()) qualityStats.emptyArticles++
+
+    if (hasIncompleteArticleEnding(article)) qualityStats.incompleteEndings++
+    if (hasUnsupportedQuotedText(article, sourceText, String(row[2] || ""))) {
+      qualityStats.unsupportedQuotes++
+    }
+
+    const validation = validateArticleOutput(article, sourceText, String(row[2] || ""))
+    if (!validation.valid) {
+      qualityStats.invalidArticles++
+      qualityStats.invalidReasons[validation.reason] =
+        (qualityStats.invalidReasons[validation.reason] || 0) + 1
+
+      if (qualityStats.samples.length < 12) {
+        qualityStats.samples.push({
+          id: id,
+          title: String(row[2] || "").slice(0, 120),
+          reason: validation.reason,
+          articleWords: wordCount(article),
+          sourceWords: wordCount(sourceText),
+          articleEnd: article.trim().slice(-100)
+        })
+      }
+    }
+  }
+
+  const output = {
+    scriptVersion: SCRIPT_VERSION,
+    rawRows: Math.max(0, rawData.length - 1),
+    finalRows: Math.max(0, finalData.length - 1),
+    statuses: statusCounts,
+    last250RawRows: recentStatusCounts,
+    newQueueEligibility: candidateStats,
+    recentArticleQuality: qualityStats,
+    note: "Read-only audit; no Sheet rows, statuses, or published content were changed."
+  }
+
+  Logger.log("PIPELINE_HEALTH_AUDIT " + JSON.stringify(output))
+  return output
+}
+
+
+/**
+ * Makes one AI generation call chain for one eligible NEW row.
+ * This function does not change statuses, append to FINAL_BLOGS, or publish.
+ */
+function dryRunFreshNewArticle() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!rawSheet || !finalSheet) throw new Error("RAW_NEWS or FINAL_BLOGS not found.")
+
+  const rawData = rawSheet.getDataRange().getValues()
+  const finalData = finalSheet.getDataRange().getValues()
+  const existingIds = new Set()
+  const existingTitles = []
+
+  for (let i = 1; i < finalData.length; i++) {
+    const id = String(finalData[i][1] || "").trim()
+    const title = String(finalData[i][2] || "").trim()
+    if (id) existingIds.add(id)
+    if (title) existingTitles.push(title)
+  }
+
+  let candidate = null
+  const now = new Date()
+
+  for (let i = 1; i < rawData.length; i++) {
+    const row = rawData[i]
+    if (String(row[7] || "").trim().toUpperCase() !== "NEW") continue
+
+    const id = String(row[0] || "").trim()
+    const title = String(row[2] || "").trim()
+    const content = cleanText(String(row[4] || ""))
+
+    if (!id || !title || !content || existingIds.has(id)) continue
+    if (existingTitles.some(existing => isSimilarTitle(title, existing))) continue
+    if (getSourceFreshnessStatus(row[8], now)) continue
+    if (!isSufficientSourceText(content)) continue
+
+    candidate = {
+      rowNumber: i + 1,
+      id: id,
+      title: title,
+      content: content,
+      sourceWords: wordCount(content),
+      publishedAt: String(row[8] || "")
+    }
+    break
+  }
+
+  if (!candidate) {
+    Logger.log("DRY_RUN: No eligible candidate found. No AI call was made and no Sheet rows changed.")
+    return null
+  }
+
+  Logger.log("DRY_RUN_SOURCE " + JSON.stringify({
+    row: candidate.rowNumber,
+    id: candidate.id,
+    title: candidate.title,
+    sourceWords: candidate.sourceWords,
+    publishedAt: candidate.publishedAt
+  }))
+
+  const article = generateAiArticle(candidate.title, candidate.content)
+  const validation = validateArticleOutput(article, candidate.content, candidate.title)
+
+  Logger.log("DRY_RUN_RESULT " + JSON.stringify({
+    valid: validation.valid,
+    reason: validation.reason,
+    articleWords: wordCount(article),
+    paragraphs: paragraphCount(article),
+    incompleteEnding: hasIncompleteArticleEnding(article),
+    unsupportedQuotedText: hasUnsupportedQuotedText(article, candidate.content, candidate.title),
+    generated: Boolean(article)
+  }))
+  Logger.log("DRY_RUN_ARTICLE\n" + (article || "[No valid article returned]"))
+  Logger.log("DRY_RUN_COMPLETE: No sheet rows changed and nothing published.")
+  return validation
+}
+
+
+/***********************
  * MASTER AUTOMATION
  ***********************/
 function masterAutomation() {
