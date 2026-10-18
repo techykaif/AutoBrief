@@ -9,6 +9,7 @@ This directory contains the proposed Apps Script source for the article-generati
 - The RSS scraper stores publication time in `RAW_NEWS` column I (`published_at`), separate from column G (`scraped_at`). It creates the I1 header only when the cell is blank and stops rather than overwriting a different existing header.
 - The RSS scraper now rejects items with stale, missing, invalid, or implausibly future publication dates before inserting them into `RAW_NEWS`. Publication-date holds are included in the feed-quality audit.
 - Article length ranges scale with the available source instead of relying on a single minimum-only word gate.
+- Podcast/episode listings are treated as announcements, not transcripts: generated copy is capped at 130 words and must not invent what a guest argued or concluded from a list of discussion topics.
 - Model responses that fail article validation are rejected so the next configured model can be tried.
 - Validation rejects repeated/near-repeated sentences, out-of-range length, prompt leakage, and missing paragraph structure for longer sources.
 - Summary validation is more deliberate; invalid summaries fall back to the existing source-derived summary.
