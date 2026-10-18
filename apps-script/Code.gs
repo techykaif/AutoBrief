@@ -767,6 +767,15 @@ function processRawNewsToFinalBlogs() {
       })
     }
 
+    // Include original source titles for already-processed rows too; AI headlines
+    // may differ from their input headlines, and both should participate in dedupe.
+    for (let i = 1; i < rawData.length; i++) {
+      if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+        const sourceTitle = String(rawData[i][2] || "").trim()
+        if (sourceTitle) existingTitles.push(sourceTitle)
+      }
+    }
+
     const IDX = { id: 0, source: 1, title: 2, url: 3, content: 4,
       category: 5, scraped_at: 6, status: 7, published_at: 8 }
     let published = 0
@@ -1075,6 +1084,10 @@ function auditPipelineHealth() {
     const row = rawData[i]
     const status = String(row[7] || "").trim().toUpperCase() || "(BLANK)"
     statusCounts[status] = (statusCounts[status] || 0) + 1
+    if (status === "PROCESSED") {
+      const sourceTitle = String(row[2] || "").trim()
+      if (sourceTitle) finalTitles.push(sourceTitle)
+    }
     if (i >= recentStart) {
       recentStatusCounts[status] = (recentStatusCounts[status] || 0) + 1
     }
@@ -1191,6 +1204,12 @@ function dryRunFreshNewArticle() {
     const title = String(finalData[i][2] || "").trim()
     if (id) existingIds.add(id)
     if (title) existingTitles.push(title)
+  }
+  for (let i = 1; i < rawData.length; i++) {
+    if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+      const sourceTitle = String(rawData[i][2] || "").trim()
+      if (sourceTitle) existingTitles.push(sourceTitle)
+    }
   }
 
   let candidate = null
