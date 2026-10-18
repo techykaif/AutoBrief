@@ -64,6 +64,12 @@ test("export validator rejects quotation marks around unsupported wording", () =
   assert.equal(validateExportArticle(invented, source, "Officials discuss a proposal").reason, "UNSUPPORTED_QUOTED_TEXT")
 })
 
+test("export validator rejects unbalanced double quotes", () => {
+  assert.equal(validateExportArticle("Officials said “the plan would continue.", shortSource, "Officials discuss a plan").reason,
+    "INCOMPLETE_OR_DANGLING_ENDING")
+  assert.equal(isValidExportHeadline("Officials describe “the plan", shortSource, "Officials discuss a plan"), false)
+})
+
 test("export headline validation rejects broken or malformed generated headings", () => {
   assert.equal(isValidExportHeadline("Council approves new transport plan"), true)
   assert.equal(isValidExportHeadline("Council approves new transport plan…"), false)
