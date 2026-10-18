@@ -159,11 +159,16 @@ function cleanSourceUrl(url) {
  ***********************/
 function stripThinkingBlocks(text) {
   if (!text) return text
-
   return text
     .replace(/<think>[\s\S]*?<\/think>/gi, "")
     .replace(/^[\s\n]+/, "")
     .trim()
+}
+
+function hasUnclosedThinkingBlock(text) {
+  const lower = String(text || "").toLowerCase()
+  return (lower.match(/<think>/g) || []).length >
+    (lower.match(/<\/think>/g) || []).length
 }
 
 
@@ -232,7 +237,19 @@ function callGroq(systemPrompt, userContent, modelList, responseValidator) {
         if (code === 200) {
           const raw = body && body.choices && body.choices[0] &&
             body.choices[0].message && body.choices[0].message.content
+          if (typeof raw !== "string" || !raw.trim()) {
+            Logger.log("⚠️ Empty model response from " + model + "; trying next model")
+            break
+          }
+          if (hasUnclosedThinkingBlock(raw)) {
+            Logger.log("⚠️ Incomplete reasoning block from " + model + "; trying next model")
+            break
+          }
           const result = stripThinkingBlocks(raw)
+          if (typeof result !== "string" || !result.trim()) {
+            Logger.log("⚠️ Empty cleaned response from " + model + "; trying next model")
+            break
+          }
 
           // Article generation can reject a syntactically successful response.
           // Break the retry loop and continue to the next model in the rotation.
@@ -345,9 +362,10 @@ function generateAiHeadlineAndSummary(title, content) {
  ***********************/
 function isEpisodeListing(title, sourceText) {
   const combined = String(title || "") + "\n" + String(sourceText || "")
-  const hasEpisodeSignal = /\b(podcast|episode|podcast series|listen to the episode)\b/i.test(combined)
-  const hasListingSignal = /\b(watch the full episode|more ways to listen|suggested reading|presented by|in the latest episode|podcast will be published)\b/i.test(combined)
-  return hasEpisodeSignal && hasListingSignal
+  const hasPodcastSignal = /\b(podcast|podcasts|audio series)\b/i.test(combined)
+  const hasEpisodeSignal = /\b(episode|episodes)\b/i.test(combined)
+  const hasListingSignal = /\b(listen(?:\s+to)?|subscribe|stream|download|show notes|episode notes|suggested reading|more ways to listen|in this episode|in the latest episode|this week\x27s episode|topics? (?:include|covered|discussed)|presented by|transcript|watch the full episode|the latest episode of the podcast|podcast will be published|listen now)\b/i.test(combined)
+  return hasPodcastSignal && hasEpisodeSignal && hasListingSignal
 }
 
 function articleLengthGuidance(sourceText, title) {
@@ -376,16 +394,21 @@ function generateAiArticle(title, content) {
     "You are a professional news writer. Write a useful, well-structured article using ONLY facts explicitly stated in the provided title and source content. " +
     "First identify what the source actually reports; do not turn a topic, headline, or implication into an unsupported claim. " +
     "If the source is an announcement, podcast listing, teaser, or topic preview, summarize that announcement only. Never reconstruct an unseen interview, event, article, or argument from the topic label. " +
-    "Do not attribute a motive, rationale, conclusion, quote, stance, or detailed action to a person unless the source explicitly states it. A title is not evidence for additional supporting facts beyond its literal wording. " +
+    "Do not attribute a motive, rationale, conclusion, quote, stance, or detailed action to a person unless the source explicitly states it. " +
+    "Any quotation marks must enclose wording found verbatim in the title or source; never manufacture quotes. " +
+    "A title is not evidence for additional supporting facts beyond its literal wording. " +
     "Cover the central event and only the important supporting details that the source actually supplies. " +
     articleLengthGuidance(content, title) + " " +
     "Use separate paragraphs with a clear progression when the source supports it. Do not invent, infer, add outside context, repeat the same fact in different words, add generic filler, or stretch the article to meet a length target. " +
+    "Never end with an ellipsis or dangling conjunction/preposition; finish the final sentence completely. " +
     "Do not use bullet points or mention the AI, prompt, RSS feed, or writing process. Keep the tone factual, neutral, and professional.\n\n" +
     GROUNDING_RULES,
     "TITLE: " + title + "\n\nCONTENT: " + content,
     GROQ_MODELS,
     function (candidate) {
-      return isValidArticleOutput(candidate, content, title)
+      const validation = validateArticleOutput(candidate, content, title)
+      if (!validation.valid) Logger.log("⚠️ Article output rejected: " + validation.reason)
+      return validation.valid
     }
   )
 }
