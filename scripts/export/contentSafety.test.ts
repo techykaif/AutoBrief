@@ -56,7 +56,8 @@ test("export validator rejects a 180-word podcast listing as too long", () => {
 
 test("export validator rejects quotation marks around unsupported wording", () => {
   const source = "Officials said “We will review the proposal.” " +
-    "They described the timetable and the limits of the current analysis."
+    "They described the timetable and the limits of the current analysis. " +
+    "The report described a timetable for residents and outlined the limits of the current review process."
   const grounded = "Officials said “We will review the proposal.” The review will continue with the available evidence and all submitted information."
   const invented = "Officials called it “a historic breakthrough” after the review. The report describes the timetable and its current limits."
   assert.equal(validateExportArticle(grounded, source, "Officials discuss a proposal").valid, true)
