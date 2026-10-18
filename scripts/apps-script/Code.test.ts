@@ -33,6 +33,13 @@ test("rejects ellipses, missing punctuation, and dangling clause endings", () =>
   assert.equal(runtime.hasIncompleteArticleEnding("Officials discussed the deal"), true)
 })
 
+test("rejects unbalanced straight and curly double quotes", () => {
+  assert.equal(runtime.hasUnbalancedDoubleQuotes("The official said “the plan was approved."), true)
+  assert.equal(runtime.hasUnbalancedDoubleQuotes('The official said "the plan was approved."'), true)
+  assert.equal(runtime.hasUnbalancedDoubleQuotes("The official said “the plan was approved.”"), false)
+  assert.equal(runtime.hasUnbalancedDoubleQuotes('The official said "the plan was approved."'), false)
+})
+
 test("accepts complete endings with acronyms, dates, years, and sports scores", () => {
   assert.equal(runtime.hasIncompleteArticleEnding("Delegates will meet again at COP17."), false)
   assert.equal(runtime.hasIncompleteArticleEnding("The report was published on September 24."), false)
