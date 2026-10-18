@@ -64,3 +64,23 @@ test("empty and invalid URLs do not throw", () => {
   assert.equal(normalizeUrlForDedup(""), "")
   assert.equal(normalizeUrlForDedup("not-a-url"), "not-a-url")
 })
+
+test("selectFeedContent prefers fuller available feed text over a short teaser", () => {
+  const fullText = "The agency announced a new programme. The programme includes funding for local authorities, a timetable for implementation, and new reporting requirements for participating organisations."
+  const selected = selectFeedContent({
+    content: fullText,
+    contentSnippet: "The agency announced a new programme.",
+    summary: "A programme was announced.",
+  })
+
+  assert.equal(selected.field, "content")
+  assert.equal(selected.content, fullText)
+})
+
+test("selectFeedContent returns an empty result when all fields are empty", () => {
+  assert.deepEqual(selectFeedContent({ content: "", contentSnippet: null, summary: undefined }), {
+    content: "",
+    field: "none",
+    metadataOnly: false,
+  })
+})
