@@ -131,7 +131,7 @@ function rowToPost(row: any[]) {
   const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
-  const finalTitle = stripMarkdownArtifacts(isValidExportHeadline(aiTitle) ? aiTitle : titleBase)
+  const finalTitle = stripMarkdownArtifacts(isValidExportHeadline(aiTitle, contentBase, titleBase) ? aiTitle : titleBase)
 
   // Keep the static site from preferring AI output that the latest structural
   // checks would reject. Existing sheet rows are not changed; base source text
