@@ -783,7 +783,8 @@ function processRawNewsToFinalBlogs() {
 
     const articleIsValid = isValidArticleOutput(
       aiArticle,
-      cleaned
+      cleaned,
+      title
     )
 
     if (!articleIsValid) {
