@@ -3,6 +3,7 @@ import { JWT } from "google-auth-library"
 import * as fs from "fs"
 import * as path from "path"
 import { SITE_URL } from "./../../lib/site"
+import { ensureUniquePostSlugs, validateExportArticle } from "./contentSafety"
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
@@ -131,7 +132,12 @@ function rowToPost(row: any[]) {
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
   const finalTitle = stripMarkdownArtifacts(isValidAiOutput(aiTitle) ? aiTitle : titleBase)
-  const finalContent = stripMarkdownArtifacts(isValidAiOutput(aiContent) ? aiContent : contentBase)
+
+  // Keep the static site from preferring AI output that the latest structural
+  // checks would reject. Existing sheet rows are not changed; base source text
+  // is the non-generative fallback until the row is explicitly repaired.
+  const articleCheck = validateExportArticle(aiContent, contentBase, titleBase)
+  const finalContent = stripMarkdownArtifacts(articleCheck.valid ? aiContent : contentBase)
 
   const categoryRaw = String(row[6] || "").trim()
   const sourceUrl = safeHttpUrl(row[18]) // FINAL_BLOGS col S (source_url)
@@ -228,15 +234,9 @@ async function exportPosts() {
     .map(rowToPost)
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 
-  // Deduplicate slugs - if two articles have same slug after truncation, append index
-  const seenSlugs = new Map<string, number>()
-  posts.forEach((post) => {
-    const count = seenSlugs.get(post.slug) || 0
-    if (count > 0) {
-      post.slug = `${post.slug}-${count}`
-    }
-    seenSlugs.set(post.slug, count + 1)
-  })
+  // Assign unique slugs from the original base on every collision.
+  // The helper enforces the limit even after appending a numeric suffix.
+  ensureUniquePostSlugs(posts, MAX_SLUG_LENGTH)
 
   console.log(`✅ ${posts.length} published posts found`)
 
