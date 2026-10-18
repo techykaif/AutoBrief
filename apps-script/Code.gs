@@ -607,9 +607,42 @@ function hasIncompleteArticleEnding(article) {
 }
 
 
+function normalizeQuoteComparison(value) {
+  return String(value || "")
+    .normalize("NFKC")
+    .replace(/[‘’]/g, "'")
+    .replace(/[“”]/g, '"')
+    .replace(/[‐‑‒–—]/g, "-")
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase()
+}
+
+function hasUnsupportedQuotedText(article, sourceText, title) {
+  const output = String(article || "")
+  const supported = normalizeQuoteComparison(String(title || "") + " " + String(sourceText || ""))
+  const quotePatterns = [
+    /“([^”\n]{2,240})”/g,
+    /"([^"\n]{2,240})"/g,
+    /‘([^’\n]{2,240})’/g
+  ]
+
+  for (let p = 0; p < quotePatterns.length; p++) {
+    let match
+    while ((match = quotePatterns[p].exec(output)) !== null) {
+      const quote = normalizeQuoteComparison(match[1])
+      if (quote && !supported.includes(quote)) return true
+    }
+  }
+  return false
+}
+
+
 function validateArticleOutput(article, sourceText, title) {
   if (!isValidAiOutput(article)) return { valid: false, reason: "INVALID_AI_OUTPUT" }
   if (hasIncompleteArticleEnding(article)) return { valid: false, reason: "INCOMPLETE_OR_DANGLING_ENDING" }
+  if (hasUnsupportedQuotedText(article, sourceText, title)) return { valid: false, reason: "UNSUPPORTED_QUOTED_TEXT" }
   if (!isSufficientSourceText(sourceText)) return { valid: false, reason: "INSUFFICIENT_SOURCE" }
   const bounds = articleWordBounds(sourceText, title)
   const words = wordCount(article)
