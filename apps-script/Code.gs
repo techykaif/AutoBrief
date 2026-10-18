@@ -3,8 +3,10 @@
  ***********************/
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 const RETRY_DELAY_MS = 2000
+const SCRIPT_VERSION = "2026.10.19.1"
 const BATCH_LIMIT = 20
 const SLEEP_BETWEEN_MS = 2000
+const PROCESS_LOCK_WAIT_MS = 5000
 // Hold stories with too little source text instead of padding them into weak articles.
 const MIN_SOURCE_WORDS_FOR_ARTICLE = 25
 // Historical queue rows must not be revived into current news articles.
@@ -104,14 +106,10 @@ function cleanText(text) {
 
 function generateBaseSummary(text) {
   const cleaned = cleanText(text)
+  if (!cleaned) return ""
   const sentences = cleaned.split(/(?<=[.!?])\s+/).filter(Boolean)
-
-  if (sentences.length >= 2) {
-    return sentences.slice(0, 2).join(" ")
-  }
-
-  const words = cleaned.split(/\s+/).filter(Boolean)
-  return words.length > 35 ? words.slice(0, 35).join(" ") + "…" : cleaned
+  // Never truncate a sentence and add an ellipsis that can masquerade as a complete summary.
+  return sentences.length >= 2 ? sentences.slice(0, 2).join(" ") : cleaned
 }
 
 function slugify(text) {
