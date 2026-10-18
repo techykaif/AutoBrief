@@ -345,9 +345,19 @@ function generateAiHeadlineAndSummary(title, content) {
  * Uses all models including Qwen (good for long-form)
  * Now receives the title too, so the model has more to stay grounded in.
  ***********************/
-function articleLengthGuidance(sourceText) {
+function isEpisodeListing(title, sourceText) {
+  const combined = String(title || "") + "\n" + String(sourceText || "")
+  const hasEpisodeSignal = /\b(podcast|episode|podcast series|listen to the episode)\b/i.test(combined)
+  const hasListingSignal = /\b(watch the full episode|more ways to listen|suggested reading|presented by|in the latest episode|podcast will be published)\b/i.test(combined)
+  return hasEpisodeSignal && hasListingSignal
+}
+
+function articleLengthGuidance(sourceText, title) {
   const sourceWords = wordCount(sourceText)
 
+  if (isEpisodeListing(title, sourceText)) {
+    return "This is a podcast/episode listing, not a transcript. Write a concise 50–110 word overview in one or two paragraphs. State only who is featured and which topics the source explicitly says the episode covers. Do not narrate unprovided details of the conversation. Do not say the guest argued, defended, claimed, explained, or justified a particular position unless that argument or position is explicitly stated in the source. A topic being discussed is not evidence of what the guest concluded. Ignore suggested-reading and footer link lists; do not treat them as the main story."
+  }
   if (sourceWords < 60) {
     return "Write one or two compact paragraphs, usually about 25–70 words. Include the available facts without repeating them."
   }
@@ -365,17 +375,19 @@ function articleLengthGuidance(sourceText) {
 
 function generateAiArticle(title, content) {
   return callGroq(
-    "You are a professional news writer. Write a useful, well-structured news article using ONLY the provided title and source content. " +
-    "Cover the central event, who is involved, what happened, and the important supporting details that the source actually supplies. " +
-    articleLengthGuidance(content) + " " +
-    "Use separate paragraphs with a clear progression: lead, key supporting facts, then further reported details when available. " +
-    "Do not invent, infer, or add outside context. Do not repeat the same fact in different words, add generic filler, or stretch the article merely to meet a length target. " +
+    "You are a professional news writer. Write a useful, well-structured article using ONLY facts explicitly stated in the provided title and source content. " +
+    "First identify what the source actually reports; do not turn a topic, headline, or implication into an unsupported claim. " +
+    "If the source is an announcement, podcast listing, teaser, or topic preview, summarize that announcement only. Never reconstruct an unseen interview, event, article, or argument from the topic label. " +
+    "Do not attribute a motive, rationale, conclusion, quote, stance, or detailed action to a person unless the source explicitly states it. A title is not evidence for additional supporting facts beyond its literal wording. " +
+    "Cover the central event and only the important supporting details that the source actually supplies. " +
+    articleLengthGuidance(content, title) + " " +
+    "Use separate paragraphs with a clear progression when the source supports it. Do not invent, infer, add outside context, repeat the same fact in different words, add generic filler, or stretch the article to meet a length target. " +
     "Do not use bullet points or mention the AI, prompt, RSS feed, or writing process. Keep the tone factual, neutral, and professional.\n\n" +
     GROUNDING_RULES,
     "TITLE: " + title + "\n\nCONTENT: " + content,
     GROQ_MODELS,
     function (candidate) {
-      return isValidArticleOutput(candidate, content)
+      return isValidArticleOutput(candidate, content, title)
     }
   )
 }
@@ -481,8 +493,12 @@ function isSufficientSourceText(sourceText) {
   return wordCount(sourceText) >= MIN_SOURCE_WORDS_FOR_ARTICLE
 }
 
-function articleWordBounds(sourceText) {
+function articleWordBounds(sourceText, title) {
   const sourceWords = wordCount(sourceText)
+
+  if (isEpisodeListing(title, sourceText)) {
+    return { min: 30, max: 130, minParagraphs: 1 }
+  }
 
   if (sourceWords < MIN_SOURCE_WORDS_FOR_ARTICLE) {
     return { min: Infinity, max: 0, minParagraphs: 1 }
@@ -561,11 +577,11 @@ function paragraphCount(article) {
     .length
 }
 
-function isValidArticleOutput(article, sourceText) {
+function isValidArticleOutput(article, sourceText, title) {
   if (!isValidAiOutput(article)) return false
   if (!isSufficientSourceText(sourceText)) return false
 
-  const bounds = articleWordBounds(sourceText)
+  const bounds = articleWordBounds(sourceText, title)
   const words = wordCount(article)
 
   if (words < bounds.min || words > bounds.max) return false
