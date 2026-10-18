@@ -658,9 +658,10 @@ function isValidArticleOutput(article, sourceText, title) {
 }
 
 
-function isValidSummary(value, sourceText) {
+function isValidSummary(value, sourceText, title) {
   if (!isValidAiOutput(value)) return false
   if (hasIncompleteArticleEnding(value)) return false
+  if (hasUnsupportedQuotedText(value, sourceText || "", title || "")) return false
 
   const words = wordCount(value)
   if (words < 10 || words > 55) return false
@@ -834,7 +835,7 @@ function processRawNewsToFinalBlogs() {
       const finalTitle = isValidHeadline(aiFields.headline, cleaned, title)
         ? aiFields.headline
         : title
-      const finalSummary = isValidSummary(aiFields.summary, cleaned)
+      const finalSummary = isValidSummary(aiFields.summary, cleaned, title)
         ? aiFields.summary
         : (isValidSummary(fallbackSummary, cleaned)
           ? fallbackSummary
