@@ -4,6 +4,10 @@ import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { runInNewContext } from "node:vm"
 
+function words(count: number, prefix = "detail"): string {
+  return Array.from({ length: count }, (_, i) => prefix + String(i)).join(" ")
+}
+
 const sourceCode = readFileSync(resolve(process.cwd(), "apps-script/Code.gs"), "utf8")
 const runtime: Record<string, any> = {
   Logger: { log: () => undefined },
