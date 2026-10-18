@@ -85,6 +85,14 @@ test("article validator rejects quoted text not present in the source", () => {
   assert.equal(runtime.validateArticleOutput(unsupportedQuote, sourceText, "Officials discuss proposal").reason, "UNSUPPORTED_QUOTED_TEXT")
 })
 
+test("summary validator rejects unsupported quotations", () => {
+  const sourceText = "Officials said, “We will review the proposal.” " + words(30)
+  const supported = "Officials said “We will review the proposal.” The report describes the timeline and available information for residents."
+  const invented = "Officials called the proposal “a historic breakthrough” after the meeting. The report outlines the timeline and available information."
+  assert.equal(runtime.isValidSummary(supported, sourceText, "Officials discuss proposal"), true)
+  assert.equal(runtime.isValidSummary(invented, sourceText, "Officials discuss proposal"), false)
+})
+
 test("bulk retry command is fail-closed instead of resetting historical failures", () => {
   const start = sourceCode.indexOf("function resetAiFailedToNew() {")
   const end = sourceCode.indexOf("function backfillSourceUrls()", start)
