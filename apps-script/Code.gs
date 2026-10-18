@@ -1128,6 +1128,13 @@ function auditPipelineHealth() {
     }
     if (title) finalTitles.push(title)
   }
+  // Rebuild the same source-title + generated-title dedup pool the processor uses.
+  for (let i = 1; i < rawData.length; i++) {
+    if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+      const sourceTitle = String(rawData[i][2] || "").trim()
+      if (sourceTitle) finalTitles.push(sourceTitle)
+    }
+  }
 
   const recentStart = Math.max(1, rawData.length - 250)
   const candidateStats = {
@@ -1158,10 +1165,6 @@ function auditPipelineHealth() {
     const row = rawData[i]
     const status = String(row[7] || "").trim().toUpperCase() || "(BLANK)"
     statusCounts[status] = (statusCounts[status] || 0) + 1
-    if (status === "PROCESSED") {
-      const sourceTitle = String(row[2] || "").trim()
-      if (sourceTitle) finalTitles.push(sourceTitle)
-    }
     if (i >= recentStart) {
       recentStatusCounts[status] = (recentStatusCounts[status] || 0) + 1
     }
