@@ -324,11 +324,11 @@ export async function runRssScraper() {
   // Batch insert
   if (rowsToInsert.length > 0) {
     const insertedRows = await appendRows(rowsToInsert)
-    if (insertedRows > 0) {
-      console.log(`\n✅ Inserted ${insertedRows} new articles into RAW_NEWS`)
-    } else {
-      console.error(`\n❌ Failed to persist ${rowsToInsert.length} prepared rows to RAW_NEWS`)
+    if (insertedRows !== rowsToInsert.length) {
+      // A failed Sheet write must fail the action, not look like a successful scrape.
+      throw new Error(`Failed to persist all prepared rows to RAW_NEWS (${insertedRows}/${rowsToInsert.length})`)
     }
+    console.log(`\n✅ Inserted ${insertedRows} new articles into RAW_NEWS`)
   } else {
     console.log("\n📭 No new articles found this run")
   }
