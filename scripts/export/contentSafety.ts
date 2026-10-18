@@ -43,9 +43,17 @@ function hasUnclosedThinkingBlock(value: string): boolean {
     (lower.match(/<\/think>/g) || []).length
 }
 
+function hasUnbalancedDoubleQuotes(value: string): boolean {
+  const text = String(value || "")
+  const straight = (text.match(/(?<!\\)"/g) || []).length
+  const curlyOpen = (text.match(/“/g) || []).length
+  const curlyClose = (text.match(/”/g) || []).length
+  return straight % 2 !== 0 || curlyOpen !== curlyClose
+}
+
 function hasIncompleteArticleEnding(article: string): boolean {
   const value = String(article || "").trim()
-  if (!value) return true
+  if (!value || hasUnbalancedDoubleQuotes(value)) return true
   if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
   const withoutClosers = value.replace(/["'”’)]{1,}\s*$/, "").trim()
   if (!/[.!?]$/.test(withoutClosers)) return true
@@ -153,7 +161,7 @@ export function isValidExportHeadline(
   if (v.startsWith("=") || lower.includes("=ai(")) return false
   if (lower.includes("as an ai language model") || lower.includes("i cannot") ||
       lower.includes("i'm unable") || lower.includes("<think>") || lower.includes("</think>")) return false
-  if (/[.…]\s*$/.test(v)) return false
+  if (/[.…]\s*$/.test(v) || hasUnbalancedDoubleQuotes(v)) return false
   if (/^(headline|summary)\s*[:\-]/i.test(v)) return false
   if (hasUnsupportedQuotedText(v, sourceText, sourceTitle)) return false
   if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(v.replace(/[.!?]+$/, "").split(/\s+/).pop() || "")) return false
