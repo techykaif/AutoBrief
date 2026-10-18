@@ -23,39 +23,39 @@ function words(count, prefix = "detail") {
   return Array.from({ length: count }, (_, i) => prefix + i).join(" ")
 }
 
-test("holds old queued stories before any model call", () => {
-  const now = "2026-10-18T00:00:00.000Z"
-
+test("holds old stories using the actual publication date", () => {
   assert.equal(
-    sandbox.getSourceFreshnessStatus("2026-06-23T09:00:00.000Z", "20260623-169", now),
+    sandbox.getSourceFreshnessStatus("2026-06-23T09:00:00.000Z", "2026-10-18T00:00:00.000Z"),
     "STALE_SOURCE"
   )
 })
 
-test("uses the date prefix of legacy raw IDs when scraped_at is missing", () => {
+test("does not mistake a recent ingest time or row ID for a publication date", () => {
+  // The second argument is the reference time; only the first argument is used
+  // as the actual source publication date. An unknown publication date fails closed.
   assert.equal(
-    sandbox.getSourceFreshnessStatus("", "20260623-169", "2026-10-18T00:00:00.000Z"),
-    "STALE_SOURCE"
-  )
-})
-
-test("holds rows with no verifiable source date", () => {
-  assert.equal(
-    sandbox.getSourceFreshnessStatus("", "legacy-row-no-date", "2026-10-18T00:00:00.000Z"),
+    sandbox.getSourceFreshnessStatus("", "2026-10-18T00:00:00.000Z"),
     "MISSING_SOURCE_DATE"
   )
 })
 
-test("holds implausibly future-dated rows", () => {
+test("holds rows with no verifiable publication date", () => {
   assert.equal(
-    sandbox.getSourceFreshnessStatus("2026-10-22T00:00:00.000Z", "20261022-001", "2026-10-18T00:00:00.000Z"),
+    sandbox.getSourceFreshnessStatus(null, "2026-10-18T00:00:00.000Z"),
+    "MISSING_SOURCE_DATE"
+  )
+})
+
+test("holds implausibly future-dated publication timestamps", () => {
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("2026-10-22T00:00:00.000Z", "2026-10-18T00:00:00.000Z"),
     "FUTURE_SOURCE_DATE"
   )
 })
 
-test("accepts fresh queued rows", () => {
+test("accepts fresh publication timestamps", () => {
   assert.equal(
-    sandbox.getSourceFreshnessStatus("2026-10-17T12:00:00.000Z", "20261017-001", "2026-10-18T00:00:00.000Z"),
+    sandbox.getSourceFreshnessStatus("2026-10-17T12:00:00.000Z", "2026-10-18T00:00:00.000Z"),
     ""
   )
 })
