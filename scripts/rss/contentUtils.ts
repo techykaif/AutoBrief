@@ -23,7 +23,7 @@ const NAMED_ENTITIES: Record<string, string> = {
   reg: "®",
 }
 
-const TRACKING_PARAM = /^(?:utm_.+|at_medium|at_campaign|ocid|cmpid|traffic_source)$/i
+const TRACKING_PARAM = /^(?:utm_.+|at_medium|at_campaign|ocid|cmpid|maca|traffic_source|fbclid|gclid|srsltid)$/i
 
 export function countWords(value: string): number {
   return String(value || "").trim().split(/\s+/).filter(Boolean).length
