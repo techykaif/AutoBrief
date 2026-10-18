@@ -3,7 +3,7 @@ import { JWT } from "google-auth-library"
 import * as fs from "fs"
 import * as path from "path"
 import { SITE_URL } from "./../../lib/site"
-import { ensureUniquePostSlugs, validateExportArticle } from "./contentSafety"
+import { ensureUniquePostSlugs, isValidExportHeadline, validateExportArticle } from "./contentSafety"
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
@@ -131,7 +131,7 @@ function rowToPost(row: any[]) {
   const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
-  const finalTitle = stripMarkdownArtifacts(isValidAiOutput(aiTitle) ? aiTitle : titleBase)
+  const finalTitle = stripMarkdownArtifacts(isValidExportHeadline(aiTitle) ? aiTitle : titleBase)
 
   // Keep the static site from preferring AI output that the latest structural
   // checks would reject. Existing sheet rows are not changed; base source text
