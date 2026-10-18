@@ -1,0 +1,29 @@
+name: Apps Script Article Quality Tests
+
+permissions:
+  contents: read
+
+on:
+  pull_request:
+    paths:
+      - "apps-script/**"
+      - ".github/workflows/apps-script-quality-tests.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "apps-script/**"
+      - ".github/workflows/apps-script-quality-tests.yml"
+
+jobs:
+  test-apps-script-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run Apps Script quality tests
+        run: node --test apps-script/quality.test.cjs
