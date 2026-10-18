@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261018-461",
+    "title": "Computer scientist Margaret Hamilton dies at 90, key to Apollo 11",
+    "slug": "computer-scientist-margaret-hamilton-dies-at-90-key-to-apollo-11",
+    "content": "Margaret Hamilton, who passed away on September 30 at the age of 90, was a pioneering computer scientist whose work helped bring astronauts to the Moon. Her obituary in Space’s Expert Voices: Op‑Ed & Insights highlighted how Hamilton’s problem‑solving talent began in early childhood, when she renamed half of the “daddy longlegs” she saw in her yard “mommy longlegs” and joined a neighborhood baseball team of boys. She also noted that doctors, judges and scientists were almost always men, and resolved to study hard so she could qualify for any job she desired.\n\nHamilton’s academic path led her to a college math major, and in the late 1950s she turned to the emerging field of computers. A philosophical father had taught her to love the night sky, and in 1965 after stints in meteorology and satellite tracking she became involved with a Massachusetts Institute of Technology project that designed in‑flight computers for NASA’s moon mission. Though the team was all‑male, Hamilton rose to director of software engineering, devising solutions to seemingly insoluble problems. She anticipated the many mishaps that could occur on a spaceflight and designed software to handle every contingency.\n\nThe 1969 Apollo 11 mission tested Hamilton’s planning when an error overloaded the lunar module’s onboard computer. Her programming allowed the system to prioritize essential tasks while canceling the inessential ones, enabling the module to touch down without a hitch and allowing Neil Armstrong and Buzz Aldrin to become famous. Hamilton continued to work behind the scenes on five additional lunar landings, Skylab and the space shuttle.\n\nIn 1976 she founded her own software company. A black‑and‑white photograph from 1969, showing Hamilton wedged between a coatrack and a blackboard at MIT beside a stack of printed Apollo code, later attracted internet attention in the 2010s. She eventually agreed to be profiled in a children’s book, sending examples of her Apollo code to illustrator Lucy Knisley. The resulting book, Margaret and the Moon: How Margaret Hamilton Saved the First Lunar Landing, was published in 2017.\n\nHamilton received a Presidential Medal of Freedom and was immortalized in the LEGO “Women of NASA” set. In 2019 Google honored her with a massive portrait in the Mojave Desert. Her legacy endures as a reminder that, no matter how daunting the obstacles, there are few problems we cannot solve.",
+    "summary": "Margaret Hamilton, a pioneering computer scientist, played a key role in NASA's Apollo 11 moon landing by designing software that handled critical contingencies. She died on Sept. 30 at age 90.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/18/2026 23:31:52",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed"
+  },
+  {
     "id": "BLOG-20261018-460",
     "title": "Michael Carrick: Manchester United's Leeds draw feels like a fresh start",
     "slug": "michael-carrick-manchester-united-s-leeds-draw-feels-like-a-fresh-start",
@@ -6485,18 +6498,5 @@
     "author": "NASA News",
     "isFeatured": false,
     "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
-  },
-  {
-    "id": "BLOG-20261016-169",
-    "title": "Bark: A Toll-Free BBS for 90s Teens",
-    "slug": "bark-a-toll-free-bbs-for-90s-teens",
-    "content": "An article titled \"Bark: The Toll-Free BBS for 90s Teens\" has been published on the blog Bityard.Net. The piece is categorized under the October 2026 archive of the site.\n\nThe article has currently received four points on the Hacker News platform, which is linked via the YCombinator comments URL. As of the provided data, there are zero comments associated with the post.",
-    "summary": "The article discusses a service called Bark that functioned as a toll-free BBS for teenagers in the 1990s. The post has received four points on the platform.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/16/2026 20:03:25",
-    "author": "Hacker News",
-    "isFeatured": false,
-    "sourceUrl": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens"
   }
 ]
