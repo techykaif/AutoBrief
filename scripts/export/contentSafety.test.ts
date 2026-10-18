@@ -25,7 +25,7 @@ test("export validator rejects terminal ellipses and dangling clauses", () => {
 
 test("export validator accepts valid numeric and alphanumeric sentence endings", () => {
   assert.equal(
-    validateExportArticle("Researchers presented the findings at COP17.", shortSource, "Conference report").valid,
+    validateExportArticle("Researchers presented their findings at COP17 and said the study describes a pattern that remains unexplained by the evidence collected so far.", shortSource, "Conference report").valid,
     true
   )
   assert.equal(
