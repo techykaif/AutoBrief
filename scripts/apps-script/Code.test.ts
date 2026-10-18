@@ -18,6 +18,8 @@ test("complete Apps Script loads in the V8-compatible test context", () => {
   assert.equal(typeof runtime.masterAutomation, "function")
   assert.equal(typeof runtime.processRawNewsToFinalBlogs, "function")
   assert.equal(typeof runtime.validateArticleOutput, "function")
+  assert.equal(typeof runtime.auditPipelineHealth, "function")
+  assert.equal(typeof runtime.dryRunFreshNewArticle, "function")
 })
 
 test("rejects ellipses, missing punctuation, and dangling clause endings", () => {
