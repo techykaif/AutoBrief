@@ -463,14 +463,14 @@ function minimumArticleWords(sourceText) {
 function sentenceWords(sentence) {
   return String(sentence || "")
     .toLowerCase()
-    .replace(/[^a-z0-9\\s]/g, " ")
-    .split(/\\s+/)
+    .replace(/[^a-z0-9\s]/g, " ")
+    .split(/\s+/)
     .filter(Boolean)
 }
 
 function hasRepetitiveSentences(article) {
   const sentences = String(article || "")
-    .split(/[.!?]+\\s*|\\n+/)
+    .split(/[.!?]+\s*|\n+/)
     .map(function (sentence) {
       return sentence.trim()
     })
@@ -509,7 +509,7 @@ function hasRepetitiveSentences(article) {
 function paragraphCount(article) {
   return String(article || "")
     .trim()
-    .split(/\\n\\s*\\n|\\n+/)
+    .split(/\n\s*\n|\n+/)
     .filter(function (paragraph) {
       return paragraph.trim().length > 0
     })
