@@ -23,6 +23,43 @@ function words(count, prefix = "detail") {
   return Array.from({ length: count }, (_, i) => prefix + i).join(" ")
 }
 
+test("holds old queued stories before any model call", () => {
+  const now = "2026-10-18T00:00:00.000Z"
+
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("2026-06-23T09:00:00.000Z", "20260623-169", now),
+    "STALE_SOURCE"
+  )
+})
+
+test("uses the date prefix of legacy raw IDs when scraped_at is missing", () => {
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("", "20260623-169", "2026-10-18T00:00:00.000Z"),
+    "STALE_SOURCE"
+  )
+})
+
+test("holds rows with no verifiable source date", () => {
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("", "legacy-row-no-date", "2026-10-18T00:00:00.000Z"),
+    "MISSING_SOURCE_DATE"
+  )
+})
+
+test("holds implausibly future-dated rows", () => {
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("2026-10-22T00:00:00.000Z", "20261022-001", "2026-10-18T00:00:00.000Z"),
+    "FUTURE_SOURCE_DATE"
+  )
+})
+
+test("accepts fresh queued rows", () => {
+  assert.equal(
+    sandbox.getSourceFreshnessStatus("2026-10-17T12:00:00.000Z", "20261017-001", "2026-10-18T00:00:00.000Z"),
+    ""
+  )
+})
+
 test("holds snippets with fewer than 25 words", () => {
   assert.equal(sandbox.isSufficientSourceText(words(24)), false)
   assert.equal(sandbox.isSufficientSourceText(words(25)), true)
