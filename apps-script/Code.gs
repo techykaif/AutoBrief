@@ -453,7 +453,7 @@ function isValidHeadline(value, sourceText, title) {
   if (!isValidAiOutput(value)) return false
   const v = value.trim()
   if (v.length < 10 || v.length > 100) return false
-  if (/[.…]\s*$/.test(v)) return false
+  if (/[.…]\s*$/.test(v) || hasUnbalancedDoubleQuotes(v)) return false
   if (/^headline\s*[:\-]/i.test(v) || /^summary\s*[:\-]/i.test(v)) return false
   if (hasUnsupportedQuotedText(v, sourceText || "", title || "")) return false
 
@@ -600,9 +600,18 @@ function paragraphCount(article) {
     .length
 }
 
+function hasUnbalancedDoubleQuotes(value) {
+  const text = String(value || "")
+  const straight = (text.match(/(?<!\\)"/g) || []).length
+  const curlyOpen = (text.match(/“/g) || []).length
+  const curlyClose = (text.match(/”/g) || []).length
+  return straight % 2 !== 0 || curlyOpen !== curlyClose
+}
+
+
 function hasIncompleteArticleEnding(article) {
   const value = String(article || "").trim()
-  if (!value) return true
+  if (!value || hasUnbalancedDoubleQuotes(value)) return true
   if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
 
   // Quoted/bracketed endings are allowed only when the underlying sentence
