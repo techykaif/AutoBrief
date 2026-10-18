@@ -3,6 +3,7 @@ import { JWT } from "google-auth-library"
 import * as fs from "fs"
 import * as path from "path"
 import { SITE_URL } from "./../../lib/site"
+import { ensureUniquePostSlugs, isValidExportHeadline, validateExportArticle, validateExportSummary } from "./contentSafety"
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
 const MAX_SLUG_LENGTH = 80 // OS safe, SEO friendly
@@ -130,8 +131,26 @@ function rowToPost(row: any[]) {
   const aiTitle = hasUnclosedThinkingBlock(rawAiTitle) ? "" : stripThinkingBlocks(rawAiTitle)
   const aiContent = hasUnclosedThinkingBlock(rawAiContent) ? "" : stripThinkingBlocks(rawAiContent)
 
-  const finalTitle = stripMarkdownArtifacts(isValidAiOutput(aiTitle) ? aiTitle : titleBase)
-  const finalContent = stripMarkdownArtifacts(isValidAiOutput(aiContent) ? aiContent : contentBase)
+  const finalTitle = stripMarkdownArtifacts(isValidExportHeadline(aiTitle, contentBase, titleBase) ? aiTitle : titleBase)
+
+  // Keep the static site from preferring AI output that the latest structural
+  // checks would reject. Existing sheet rows are not changed; base source text
+  // is the non-generative fallback until the row is explicitly repaired.
+  const articleCheck = validateExportArticle(aiContent, contentBase, titleBase)
+  const finalContent = stripMarkdownArtifacts(articleCheck.valid ? aiContent : contentBase)
+
+  const summaryCandidates = [row[14], row[5], row[12]]
+    .map(value => String(value || "").trim())
+    .filter(Boolean)
+  let finalSummary = ""
+  for (const candidate of summaryCandidates) {
+    if (validateExportSummary(candidate, contentBase, titleBase).valid) {
+      finalSummary = candidate
+      break
+    }
+  }
+  if (!finalSummary) finalSummary = /[.!?]$/.test(titleBase) ? titleBase : titleBase + "."
+  finalSummary = stripMarkdownArtifacts(finalSummary)
 
   const categoryRaw = String(row[6] || "").trim()
   const sourceUrl = safeHttpUrl(row[18]) // FINAL_BLOGS col S (source_url)
@@ -146,7 +165,7 @@ function rowToPost(row: any[]) {
     title: finalTitle,
     slug: rawSlug,
     content: finalContent,
-    summary: String(row[14] || row[12] || "").trim(),
+    summary: finalSummary,
     category: categoryRaw,
     categorySlug: slugifyCategory(categoryRaw),
     publishedAt: row[8] || new Date().toISOString(),
@@ -228,15 +247,9 @@ async function exportPosts() {
     .map(rowToPost)
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 
-  // Deduplicate slugs - if two articles have same slug after truncation, append index
-  const seenSlugs = new Map<string, number>()
-  posts.forEach((post) => {
-    const count = seenSlugs.get(post.slug) || 0
-    if (count > 0) {
-      post.slug = `${post.slug}-${count}`
-    }
-    seenSlugs.set(post.slug, count + 1)
-  })
+  // Assign unique slugs from the original base on every collision.
+  // The helper enforces the limit even after appending a numeric suffix.
+  ensureUniquePostSlugs(posts, MAX_SLUG_LENGTH)
 
   console.log(`✅ ${posts.length} published posts found`)
 

@@ -1,5 +1,9 @@
 name: RSS Scraper Automation
 
+concurrency:
+  group: autobrief-rss-scraper
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: "7,37 * * * *" # Every 30 minutes

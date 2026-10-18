@@ -1,4 +1,4 @@
-name: RSS Content Utility Tests
+name: AutoBrief Content Pipeline Quality Tests
 
 permissions:
   contents: read
@@ -7,6 +7,9 @@ on:
   pull_request:
     paths:
       - "scripts/rss/**"
+      - "scripts/apps-script/**"
+      - "scripts/export/**"
+      - "apps-script/**"
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/rss-content-tests.yml"
@@ -15,12 +18,15 @@ on:
       - main
     paths:
       - "scripts/rss/**"
+      - "scripts/apps-script/**"
+      - "scripts/export/**"
+      - "apps-script/**"
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/rss-content-tests.yml"
 
 jobs:
-  test-rss-content:
+  test-content-pipeline:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -42,5 +48,12 @@ jobs:
           --types node scripts/rss/rssScraper.ts scripts/rss/contentUtils.ts
           scripts/googleSheets.ts
 
-      - name: Run RSS content utility tests
-        run: npm run test:rss
+      - name: Run all content pipeline regression tests
+        run: npm test
+
+      - name: Type-check export safety helpers and tests
+        run: >-
+          npx tsc --noEmit --target ES2020 --module ESNext
+          --moduleResolution bundler --strict --skipLibCheck --esModuleInterop
+          --types node scripts/export/contentSafety.ts
+          scripts/export/contentSafety.test.ts

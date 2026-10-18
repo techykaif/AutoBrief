@@ -3,8 +3,10 @@
  ***********************/
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 const RETRY_DELAY_MS = 2000
+const SCRIPT_VERSION = "2026.10.19.1"
 const BATCH_LIMIT = 20
 const SLEEP_BETWEEN_MS = 2000
+const PROCESS_LOCK_WAIT_MS = 5000
 // Hold stories with too little source text instead of padding them into weak articles.
 const MIN_SOURCE_WORDS_FOR_ARTICLE = 25
 // Historical queue rows must not be revived into current news articles.
@@ -84,7 +86,19 @@ function normalizeText(text) {
 
 function decodeHtmlEntities(text) {
   return String(text || "")
-    .replace(/&#039;|&#39;/gi, "'")
+    .replace(/&#x([0-9a-f]+);/gi, function (match, hex) {
+      const code = parseInt(hex, 16)
+      return code >= 0 && code <= 0x10ffff ? String.fromCodePoint(code) : match
+    })
+    .replace(/&#(\d+);/g, function (match, decimal) {
+      const code = parseInt(decimal, 10)
+      return code >= 0 && code <= 0x10ffff ? String.fromCodePoint(code) : match
+    })
+    .replace(/&#039;|&#39;|&apos;/gi, "'")
+    .replace(/&rsquo;/gi, "’")
+    .replace(/&lsquo;/gi, "‘")
+    .replace(/&rdquo;/gi, "”")
+    .replace(/&ldquo;/gi, "“")
     .replace(/&quot;/gi, '"')
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
@@ -104,14 +118,10 @@ function cleanText(text) {
 
 function generateBaseSummary(text) {
   const cleaned = cleanText(text)
+  if (!cleaned) return ""
   const sentences = cleaned.split(/(?<=[.!?])\s+/).filter(Boolean)
-
-  if (sentences.length >= 2) {
-    return sentences.slice(0, 2).join(" ")
-  }
-
-  const words = cleaned.split(/\s+/).filter(Boolean)
-  return words.length > 35 ? words.slice(0, 35).join(" ") + "…" : cleaned
+  // Never truncate a sentence and add an ellipsis that can masquerade as a complete summary.
+  return sentences.length >= 2 ? sentences.slice(0, 2).join(" ") : cleaned
 }
 
 function slugify(text) {
@@ -161,11 +171,16 @@ function cleanSourceUrl(url) {
  ***********************/
 function stripThinkingBlocks(text) {
   if (!text) return text
-
   return text
     .replace(/<think>[\s\S]*?<\/think>/gi, "")
     .replace(/^[\s\n]+/, "")
     .trim()
+}
+
+function hasUnclosedThinkingBlock(text) {
+  const lower = String(text || "").toLowerCase()
+  return (lower.match(/<think>/g) || []).length >
+    (lower.match(/<\/think>/g) || []).length
 }
 
 
@@ -234,7 +249,19 @@ function callGroq(systemPrompt, userContent, modelList, responseValidator) {
         if (code === 200) {
           const raw = body && body.choices && body.choices[0] &&
             body.choices[0].message && body.choices[0].message.content
+          if (typeof raw !== "string" || !raw.trim()) {
+            Logger.log("⚠️ Empty model response from " + model + "; trying next model")
+            break
+          }
+          if (hasUnclosedThinkingBlock(raw)) {
+            Logger.log("⚠️ Incomplete reasoning block from " + model + "; trying next model")
+            break
+          }
           const result = stripThinkingBlocks(raw)
+          if (typeof result !== "string" || !result.trim()) {
+            Logger.log("⚠️ Empty cleaned response from " + model + "; trying next model")
+            break
+          }
 
           // Article generation can reject a syntactically successful response.
           // Break the retry loop and continue to the next model in the rotation.
@@ -347,8 +374,10 @@ function generateAiHeadlineAndSummary(title, content) {
  ***********************/
 function isEpisodeListing(title, sourceText) {
   const combined = String(title || "") + "\n" + String(sourceText || "")
-  const hasEpisodeSignal = /\b(podcast|episode|podcast series|listen to the episode)\b/i.test(combined)
-  const hasListingSignal = /\b(watch the full episode|more ways to listen|suggested reading|presented by|in the latest episode|podcast will be published)\b/i.test(combined)
+  const hasEpisodeSignal = /\b(episode|episodes)\b/i.test(combined)
+  // Strong listing markers are enough even when the feed never says the word podcast.
+  // This catches episode pages such as Radical Thinking that provide show notes and links.
+  const hasListingSignal = /\b(listen(?:\s+to)?|subscribe|stream|download|show notes|episode notes|suggested reading|more ways to listen|in this episode|in the latest episode|this week's episode|topics? (?:include|covered|discussed)|presented by|transcript|watch the full episode|podcast will be published|listen now)\b/i.test(combined)
   return hasEpisodeSignal && hasListingSignal
 }
 
@@ -378,16 +407,21 @@ function generateAiArticle(title, content) {
     "You are a professional news writer. Write a useful, well-structured article using ONLY facts explicitly stated in the provided title and source content. " +
     "First identify what the source actually reports; do not turn a topic, headline, or implication into an unsupported claim. " +
     "If the source is an announcement, podcast listing, teaser, or topic preview, summarize that announcement only. Never reconstruct an unseen interview, event, article, or argument from the topic label. " +
-    "Do not attribute a motive, rationale, conclusion, quote, stance, or detailed action to a person unless the source explicitly states it. A title is not evidence for additional supporting facts beyond its literal wording. " +
+    "Do not attribute a motive, rationale, conclusion, quote, stance, or detailed action to a person unless the source explicitly states it. " +
+    "Any quotation marks must enclose wording found verbatim in the title or source; never manufacture quotes. " +
+    "A title is not evidence for additional supporting facts beyond its literal wording. " +
     "Cover the central event and only the important supporting details that the source actually supplies. " +
     articleLengthGuidance(content, title) + " " +
     "Use separate paragraphs with a clear progression when the source supports it. Do not invent, infer, add outside context, repeat the same fact in different words, add generic filler, or stretch the article to meet a length target. " +
+    "Never end with an ellipsis or dangling conjunction/preposition; finish the final sentence completely. " +
     "Do not use bullet points or mention the AI, prompt, RSS feed, or writing process. Keep the tone factual, neutral, and professional.\n\n" +
     GROUNDING_RULES,
     "TITLE: " + title + "\n\nCONTENT: " + content,
     GROQ_MODELS,
     function (candidate) {
-      return isValidArticleOutput(candidate, content, title)
+      const validation = validateArticleOutput(candidate, content, title)
+      if (!validation.valid) Logger.log("⚠️ Article output rejected: " + validation.reason)
+      return validation.valid
     }
   )
 }
@@ -396,46 +430,36 @@ function generateAiArticle(title, content) {
 /***********************
  * VALIDATE AI OUTPUT
  ***********************/
-function isValidAiOutput(value) {
+function isValidAiOutput(value, minimumLength) {
   if (!value || typeof value !== "string") return false
-
   const v = value.trim()
-
-  if (v.length < 20) return false
-
+  const requiredLength = typeof minimumLength === "number" ? minimumLength : 20
+  if (v.length < requiredLength || hasUnclosedThinkingBlock(v)) return false
   const lower = v.toLowerCase()
-
-  if (v.startsWith("=")) return false
-  if (lower.includes("=ai(")) return false
-  if (lower.includes("write a short, clear")) return false
-  if (lower.includes("write a clear and well-structured")) return false
-  if (lower.includes("summarize the following news")) return false
-  if (lower.includes("as an ai language model")) return false
-  if (lower.includes("i cannot")) return false
-  if (lower.includes("i'm unable")) return false
-
-  // Reject if it looks like leaked reasoning
-  if (lower.includes("self-correction")) return false
-  if (lower.includes("let me ensure")) return false
-  if (lower.includes("check constraints")) return false
-  if (lower.includes("draft:")) return false
-  if (lower.includes("step 1:") || lower.includes("step 2:")) return false
-
+  if (v.startsWith("=") || lower.includes("=ai(")) return false
+  if (lower.includes("write a short, clear") ||
+      lower.includes("write a clear and well-structured") ||
+      lower.includes("summarize the following news")) return false
+  if (lower.includes("as an ai language model") ||
+      lower.includes("i cannot") || lower.includes("i'm unable")) return false
+  if (lower.includes("self-correction") || lower.includes("let me ensure") ||
+      lower.includes("check constraints") || lower.includes("draft:") ||
+      lower.includes("step 1:") || lower.includes("step 2:") ||
+      lower.includes("<think>") || lower.includes("</think>")) return false
   return true
 }
 
-function isValidHeadline(value) {
-  if (!isValidAiOutput(value)) return false
 
+function isValidHeadline(value, sourceText, title) {
+  if (!isValidAiOutput(value, 10)) return false
   const v = value.trim()
+  if (v.length < 10 || v.length > 100) return false
+  if (/[.…]\s*$/.test(v) || hasUnbalancedDoubleQuotes(v)) return false
+  if (/^headline\s*[:\-]/i.test(v) || /^summary\s*[:\-]/i.test(v)) return false
+  if (hasUnsupportedQuotedText(v, sourceText || "", title || "")) return false
 
-  // Keep generated headlines usable in search results and UI.
-  if (v.length > 100) return false
-
-  // Don't accept parser labels as actual headline content.
-  if (/^headline\s*[:\-]/i.test(v)) return false
-  if (/^summary\s*[:\-]/i.test(v)) return false
-
+  const finalToken = v.replace(/[.!?]+$/, "").split(/\s+/).pop() || ""
+  if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(finalToken)) return false
   return true
 }
 
@@ -577,51 +601,89 @@ function paragraphCount(article) {
     .length
 }
 
+function hasUnbalancedDoubleQuotes(value) {
+  const text = String(value || "")
+  const straight = (text.match(/(?<!\\)"/g) || []).length
+  const curlyOpen = (text.match(/“/g) || []).length
+  const curlyClose = (text.match(/”/g) || []).length
+  return straight % 2 !== 0 || curlyOpen !== curlyClose
+}
+
+
 function hasIncompleteArticleEnding(article) {
   const value = String(article || "").trim()
-  if (!value) return true
-
-  // Ellipses at the end usually indicate the model stopped mid-thought.
+  if (!value || hasUnbalancedDoubleQuotes(value)) return true
   if (/(?:\.{3}|…)\s*["'”’)]*$/.test(value)) return true
 
-  // Allow closing quotes/parentheses after sentence punctuation, but require a
-  // real terminal mark rather than a comma, colon, or dangling clause.
+  // Quoted/bracketed endings are allowed only when the underlying sentence
+  // has terminal punctuation. Digits and acronyms are valid terminal tokens.
   const withoutClosers = value.replace(/["'”’)]{1,}\s*$/, "").trim()
   if (!/[.!?]$/.test(withoutClosers)) return true
-
   const sentenceBody = withoutClosers.replace(/[.!?]+$/, "").trim()
-  // A finished sentence may end in a numeral, score, year, acronym, or version
-  // (e.g. "COP17", "July 2027", "6-1", or "U.S."). Don't mark these as cut-offs.
-  const finalTokenMatch = sentenceBody.match(/([A-Za-z0-9]+(?:['’][A-Za-z0-9]+)*(?:[-–][A-Za-z0-9]+)*)$/)
-  if (!finalTokenMatch) return true
+  const finalToken = sentenceBody.match(/([A-Za-z0-9]+(?:['’][A-Za-z0-9]+)*(?:[-–][A-Za-z0-9]+)*)$/)
+  if (!finalToken) return true
 
-  // Catch common model cut-offs even when the model incorrectly adds a period.
-  return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus)$/i
-    .test(finalTokenMatch[1])
+  return /^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(finalToken[1])
 }
 
 
-function isValidArticleOutput(article, sourceText, title) {
-  if (!isValidAiOutput(article)) return false
-  if (hasIncompleteArticleEnding(article)) return false
-  if (!isSufficientSourceText(sourceText)) return false
+function normalizeQuoteComparison(value) {
+  return String(value || "")
+    .normalize("NFKC")
+    .replace(/[‘’]/g, "'")
+    .replace(/[“”]/g, '"')
+    .replace(/[‐‑‒–—]/g, "-")
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase()
+}
 
+function hasUnsupportedQuotedText(article, sourceText, title) {
+  const output = String(article || "")
+  const supported = normalizeQuoteComparison(String(title || "") + " " + String(sourceText || ""))
+  const quotePatterns = [
+    /“([^”\n]{2,240})”/g,
+    /"([^"\n]{2,240})"/g,
+    /‘([^’\n]{2,240})’/g
+  ]
+
+  for (let p = 0; p < quotePatterns.length; p++) {
+    let match
+    while ((match = quotePatterns[p].exec(output)) !== null) {
+      const quote = normalizeQuoteComparison(match[1])
+      if (quote && !supported.includes(quote)) return true
+    }
+  }
+  return false
+}
+
+
+function validateArticleOutput(article, sourceText, title) {
+  if (!isValidAiOutput(article)) return { valid: false, reason: "INVALID_AI_OUTPUT" }
+  if (hasIncompleteArticleEnding(article)) return { valid: false, reason: "INCOMPLETE_OR_DANGLING_ENDING" }
+  if (hasUnsupportedQuotedText(article, sourceText, title)) return { valid: false, reason: "UNSUPPORTED_QUOTED_TEXT" }
+  if (!isSufficientSourceText(sourceText)) return { valid: false, reason: "INSUFFICIENT_SOURCE" }
   const bounds = articleWordBounds(sourceText, title)
   const words = wordCount(article)
-
-  if (words < bounds.min || words > bounds.max) return false
-  if (hasRepetitiveSentences(article)) return false
-
-  // Longer sources should produce readable paragraph structure, not one blob.
+  if (words < bounds.min) return { valid: false, reason: "TOO_SHORT:" + words + "<" + bounds.min }
+  if (words > bounds.max) return { valid: false, reason: "TOO_LONG:" + words + ">" + bounds.max }
+  if (hasRepetitiveSentences(article)) return { valid: false, reason: "REPETITIVE_SENTENCES" }
   if (wordCount(sourceText) >= 80 && paragraphCount(article) < bounds.minParagraphs) {
-    return false
+    return { valid: false, reason: "INSUFFICIENT_PARAGRAPH_STRUCTURE" }
   }
-
-  return true
+  return { valid: true, reason: "OK" }
 }
 
-function isValidSummary(value, sourceText) {
+function isValidArticleOutput(article, sourceText, title) {
+  return validateArticleOutput(article, sourceText, title).valid
+}
+
+
+function isValidSummary(value, sourceText, title) {
   if (!isValidAiOutput(value)) return false
+  if (hasIncompleteArticleEnding(value)) return false
+  if (hasUnsupportedQuotedText(value, sourceText || "", title || "")) return false
 
   const words = wordCount(value)
   if (words < 10 || words > 55) return false
@@ -641,9 +703,11 @@ function isValidSummary(value, sourceText) {
  * DEDUPLICATION
  ***********************/
 function normalizeTitleForDedup(title) {
-  return title
+  return String(title || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, "")
+    .replace(/[^a-z0-9\s]/g, " ")
     .replace(/\s+/g, " ")
     .trim()
 }
@@ -651,15 +715,26 @@ function normalizeTitleForDedup(title) {
 function isSimilarTitle(titleA, titleB) {
   const a = normalizeTitleForDedup(titleA)
   const b = normalizeTitleForDedup(titleB)
-
+  if (!a || !b) return false
   if (a === b) return true
-  if (a.includes(b) || b.includes(a)) return true
 
-  const wordsA = new Set(a.split(" "))
-  const wordsB = b.split(" ")
-  const overlap = wordsB.filter(w => wordsA.has(w)).length
+  const shorterLength = Math.min(a.length, b.length)
+  if (shorterLength >= 25 && (a.includes(b) || b.includes(a))) return true
 
-  return overlap / Math.max(wordsA.size, wordsB.length) >= 0.7
+  const stopWords = new Set([
+    "the", "a", "an", "and", "or", "but", "to", "of", "in", "on",
+    "for", "at", "by", "as", "is", "are", "was", "were", "with",
+    "from", "after", "before", "amid", "into", "over", "about"
+  ])
+  const wordsA = new Set(a.split(" ").filter(w => w.length > 2 && !stopWords.has(w)))
+  const wordsB = new Set(b.split(" ").filter(w => w.length > 2 && !stopWords.has(w)))
+  if (!wordsA.size || !wordsB.size) return false
+
+  let overlap = 0
+  wordsB.forEach(w => { if (wordsA.has(w)) overlap++ })
+  const smaller = Math.min(wordsA.size, wordsB.size)
+  const union = new Set([...wordsA, ...wordsB]).size
+  return (overlap >= 3 && overlap / smaller >= 0.85) || (union > 0 && overlap / union >= 0.8)
 }
 
 
@@ -667,237 +742,166 @@ function isSimilarTitle(titleA, titleB) {
  * RAW → FINAL PROCESSOR
  ***********************/
 function processRawNewsToFinalBlogs() {
-  const ss = SpreadsheetApp.getActiveSpreadsheet()
-  const rawSheet = ss.getSheetByName("RAW_NEWS")
-  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
-
-  const rawData = rawSheet.getDataRange().getValues()
-  const finalLastRow = finalSheet.getLastRow()
-
-  const existingIds = new Set()
-  const existingTitles = []
-
-  if (finalLastRow > 1) {
-    const finalData = finalSheet
-      .getRange(2, 1, finalLastRow - 1, 3)
-      .getValues()
-
-    finalData.forEach(row => {
-      existingIds.add(String(row[1]).trim())
-      existingTitles.push(String(row[2]).trim())
-    })
+  const lock = LockService.getScriptLock()
+  if (!lock.tryLock(PROCESS_LOCK_WAIT_MS)) {
+    Logger.log("⏭️ Another processor run is active; this run will exit without changes.")
+    return 0
   }
 
-  const IDX = {
-    id: 0,
-    source: 1,
-    title: 2,
-    url: 3,
-    content: 4,
-    category: 5,
-    scraped_at: 6,
-    status: 7,
-    published_at: 8
-  }
+  try {
+    const ss = SpreadsheetApp.getActiveSpreadsheet()
+    const rawSheet = ss.getSheetByName("RAW_NEWS")
+    const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+    if (!rawSheet || !finalSheet) throw new Error("Required sheet missing: RAW_NEWS or FINAL_BLOGS.")
 
-  let processed = 0
-  let skipped = 0
-  let duplicates = 0
-  let freshnessHeld = 0
-  let batchCount = 0
-
-  for (let i = 1; i < rawData.length; i++) {
-
-    if (batchCount >= BATCH_LIMIT) {
-      Logger.log("⏸️ Batch limit reached — next run picks up the rest")
-      break
+    const rawLastRow = rawSheet.getLastRow()
+    if (rawLastRow < 2) {
+      Logger.log("📭 RAW_NEWS has no data rows.")
+      return 0
+    }
+    const header = String(rawSheet.getRange(1, 9).getValue() || "").trim().toLowerCase()
+    if (header !== "published_at") {
+      throw new Error('RAW_NEWS!I1 must be "published_at"; refusing to process rows with an unknown schema.')
     }
 
-    const row = rawData[i]
-
-    if (String(row[IDX.status]).toUpperCase() !== "NEW") {
-      continue
+    const rawData = rawSheet.getRange(1, 1, rawLastRow, 9).getValues()
+    const finalLastRow = finalSheet.getLastRow()
+    const existingIds = new Set()
+    const existingTitles = []
+    if (finalLastRow > 1) {
+      finalSheet.getRange(2, 1, finalLastRow - 1, 3).getValues().forEach(row => {
+        const id = String(row[1] || "").trim()
+        const title = String(row[2] || "").trim()
+        if (id) existingIds.add(id)
+        if (title) existingTitles.push(title)
+      })
     }
 
-    if (!row[IDX.title] || !row[IDX.content]) {
-      continue
+    // Include original source titles for already-processed rows too; AI headlines
+    // may differ from their input headlines, and both should participate in dedupe.
+    for (let i = 1; i < rawData.length; i++) {
+      if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+        const sourceTitle = String(rawData[i][2] || "").trim()
+        if (sourceTitle) existingTitles.push(sourceTitle)
+      }
     }
 
-    const rawId = String(row[IDX.id]).trim()
-    const title = String(row[IDX.title]).trim()
-
-    if (existingIds.has(rawId)) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("PROCESSED")
-
-      continue
-    }
-
-    const isDuplicate = existingTitles.some(t => isSimilarTitle(title, t))
-
-    if (isDuplicate) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("DUPLICATE")
-
-      duplicates++
-
-      Logger.log("⚠️ Duplicate: " + title)
-      continue
-    }
-
-    const freshnessStatus = getSourceFreshnessStatus(
-      row[IDX.published_at],
-      new Date()
-    )
-
-    if (freshnessStatus) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue(freshnessStatus)
-
-      freshnessHeld++
-      batchCount++
-
-      Logger.log(
-        "⏭️ Held " + freshnessStatus + " (" +
-        String(row[IDX.scraped_at] || rawId) + "): " + title
-      )
-      continue
-    }
-
-    const cleaned = cleanText(String(row[IDX.content]))
-
-    // Weak snippets cannot support a reliable article. Hold them for later
-    // source enrichment instead of paying for generation and publishing padding.
-    if (!isSufficientSourceText(cleaned)) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("INSUFFICIENT_SOURCE")
-
-      Logger.log(
-        "⏭️ Held for insufficient source text (" +
-        wordCount(cleaned) + " words): " + title
-      )
-
-      skipped++
-      batchCount++
-      continue
-    }
-
-    const summary = generateBaseSummary(cleaned)
-
-    Logger.log(
-      "🤖 [" +
-      (batchCount + 1) +
-      "/" +
-      BATCH_LIMIT +
-      "] " +
-      title
-    )
-
-    // Call 1: headline + summary
-    const {
-      headline: aiHeadline,
-      summary: aiSummary
-    } = generateAiHeadlineAndSummary(title, cleaned)
-
-    // Call 2: article
-    const aiArticle = generateAiArticle(title, cleaned)
-
-    const articleIsValid = isValidArticleOutput(
-      aiArticle,
-      cleaned,
-      title
-    )
-
-    if (!articleIsValid) {
-      rawSheet
-        .getRange(i + 1, IDX.status + 1)
-        .setValue("AI_FAILED")
-
-      Logger.log("❌ Article failed: " + title)
-
-      skipped++
-      batchCount++
-
-      continue
-    }
-
-    const finalTitle = isValidHeadline(aiHeadline)
-      ? aiHeadline
-      : title
-
-    const finalSummary = isValidSummary(aiSummary, cleaned)
-      ? aiSummary
-      : summary
-
-    const finalContent = aiArticle
-
-    Logger.log(
-      "📊 Source: " +
-      wordCount(cleaned) +
-      " words | Article: " +
-      wordCount(finalContent) +
-      " words | Headline: " +
-      finalTitle.length +
-      " chars | Summary: " +
-      finalSummary.length +
-      " chars"
-    )
-
+    const IDX = { id: 0, source: 1, title: 2, url: 3, content: 4,
+      category: 5, scraped_at: 6, status: 7, published_at: 8 }
+    let published = 0
+    let skipped = 0
+    let duplicates = 0
+    let alreadyPublished = 0
+    let freshnessHeld = 0
+    let invalidRows = 0
+    let batchCount = 0
     const now = new Date()
 
-    finalSheet.appendRow([
-      "BLOG-" + rawId,
-      rawId,
-      finalTitle,
-      slugify(finalTitle),
-      cleaned,
-      finalSummary,
-      row[IDX.category],
-      row[IDX.source],
-      now,
-      true,
-      false,
-      finalTitle,
-      finalSummary.slice(0, 160),
-      "LIVE",
-      finalSummary,
-      finalContent,
-      finalTitle,
-      now,
-      cleanSourceUrl(row[IDX.url])
-    ])
+    for (let i = 1; i < rawData.length; i++) {
+      if (batchCount >= BATCH_LIMIT) {
+        Logger.log("⏸️ Batch limit reached — next run picks up the rest")
+        break
+      }
+      const row = rawData[i]
+      if (String(row[IDX.status] || "").trim().toUpperCase() !== "NEW") continue
 
-    existingIds.add(rawId)
-    existingTitles.push(title)
+      const rawId = String(row[IDX.id] || "").trim()
+      const title = String(row[IDX.title] || "").trim()
+      const rawContent = String(row[IDX.content] || "").trim()
 
-    rawSheet
-      .getRange(i + 1, IDX.status + 1)
-      .setValue("PROCESSED")
+      // Malformed NEW rows must leave the queue with a visible hold status.
+      if (!rawId || !title || !rawContent) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("MISSING_REQUIRED_FIELDS")
+        invalidRows++
+        batchCount++
+        Logger.log("⏭️ Held MISSING_REQUIRED_FIELDS at RAW_NEWS row " + (i + 1))
+        continue
+      }
+      if (existingIds.has(rawId)) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("PROCESSED")
+        alreadyPublished++
+        batchCount++
+        continue
+      }
+      if (existingTitles.some(t => isSimilarTitle(title, t))) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("DUPLICATE")
+        duplicates++
+        batchCount++
+        Logger.log("⚠️ Duplicate: " + title)
+        continue
+      }
 
-    processed++
-    batchCount++
+      const freshness = getSourceFreshnessStatus(row[IDX.published_at], now)
+      if (freshness) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue(freshness)
+        freshnessHeld++
+        batchCount++
+        Logger.log("⏭️ Held " + freshness + " (" + String(row[IDX.scraped_at] || rawId) + "): " + title)
+        continue
+      }
 
-    Logger.log("✅ " + finalTitle)
+      const cleaned = cleanText(rawContent)
+      if (!isSufficientSourceText(cleaned)) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("INSUFFICIENT_SOURCE")
+        skipped++
+        batchCount++
+        Logger.log("⏭️ Held for insufficient source text (" + wordCount(cleaned) + " words): " + title)
+        continue
+      }
 
-    Utilities.sleep(SLEEP_BETWEEN_MS)
+      Logger.log("🤖 [" + (batchCount + 1) + "/" + BATCH_LIMIT + "] " + title)
+      const fallbackSummary = generateBaseSummary(cleaned)
+      const aiFields = generateAiHeadlineAndSummary(title, cleaned)
+      const aiArticle = generateAiArticle(title, cleaned)
+      const validation = validateArticleOutput(aiArticle, cleaned, title)
+      if (!validation.valid) {
+        rawSheet.getRange(i + 1, IDX.status + 1).setValue("AI_FAILED")
+        skipped++
+        batchCount++
+        Logger.log("❌ Article failed (" + validation.reason + "): " + title)
+        continue
+      }
+
+      const finalTitle = isValidHeadline(aiFields.headline, cleaned, title)
+        ? aiFields.headline
+        : title
+      const finalSummary = isValidSummary(aiFields.summary, cleaned, title)
+        ? aiFields.summary
+        : (isValidSummary(fallbackSummary, cleaned)
+          ? fallbackSummary
+          : (/[.!?]$/.test(title) ? title : title + "."))
+      const finalContent = aiArticle
+      Logger.log("📊 Source: " + wordCount(cleaned) + " words | Article: " +
+        wordCount(finalContent) + " words | Headline: " + finalTitle.length +
+        " chars | Summary: " + finalSummary.length + " chars")
+
+      const publishedAt = new Date()
+      finalSheet.appendRow([
+        "BLOG-" + rawId, rawId, finalTitle, slugify(finalTitle), cleaned,
+        finalSummary, row[IDX.category], row[IDX.source], publishedAt,
+        true, false, finalTitle, finalSummary.slice(0, 160), "LIVE",
+        finalSummary, finalContent, finalTitle, publishedAt, cleanSourceUrl(row[IDX.url])
+      ])
+
+      existingIds.add(rawId)
+      existingTitles.push(finalTitle)
+      if (normalizeTitleForDedup(title) !== normalizeTitleForDedup(finalTitle)) {
+        existingTitles.push(title)
+      }
+      rawSheet.getRange(i + 1, IDX.status + 1).setValue("PROCESSED")
+      published++
+      batchCount++
+      Logger.log("✅ " + finalTitle)
+      Utilities.sleep(SLEEP_BETWEEN_MS)
+    }
+
+    Logger.log("🎉 Published: " + published + " | Already in FINAL_BLOGS: " +
+      alreadyPublished + " | Dupes: " + duplicates + " | AI/insufficient failures: " +
+      skipped + " | Invalid raw rows: " + invalidRows + " | Held for freshness: " + freshnessHeld)
+    return published
+  } finally {
+    lock.releaseLock()
   }
-
-  Logger.log(
-    "🎉 Published: " +
-    processed +
-    " | Dupes: " +
-    duplicates +
-    " | Failed/insufficient: " +
-    skipped +
-    " | Held for freshness: " +
-    freshnessHeld
-  )
-
-  return processed
 }
 
 
@@ -905,28 +909,75 @@ function processRawNewsToFinalBlogs() {
  * RESET AI_FAILED → NEW
  ***********************/
 function resetAiFailedToNew() {
-  const sheet = SpreadsheetApp
-    .getActive()
-    .getSheetByName("RAW_NEWS")
+  const message =
+    "Bulk AI_FAILED reset is disabled to protect historical rows. " +
+    "Review individual failures and retry only explicitly approved, fresh source IDs."
+  Logger.log("⛔ " + message)
+  throw new Error(message)
+}
 
-  const data = sheet.getDataRange().getValues()
-  let reset = 0
 
-  for (let i = 1; i < data.length; i++) {
-    if (String(data[i][7]).toUpperCase() === "AI_FAILED") {
-      sheet
-        .getRange(i + 1, 8)
-        .setValue("NEW")
+function retrySelectedFreshAiFailedRow() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const ui = SpreadsheetApp.getUi()
+  const activeSheet = ss.getActiveSheet()
+  const activeRange = ss.getActiveRange()
 
-      reset++
+  if (!rawSheet || !activeSheet || activeSheet.getName() !== "RAW_NEWS" || !activeRange) {
+    throw new Error("Select exactly one row in RAW_NEWS before using this function.")
+  }
+  if (activeRange.getNumRows() !== 1 || activeRange.getRow() < 2) {
+    throw new Error("Select one data row (not the header) in RAW_NEWS.")
+  }
+
+  const rowNumber = activeRange.getRow()
+  const row = rawSheet.getRange(rowNumber, 1, 1, 9).getValues()[0]
+  const id = String(row[0] || "").trim()
+  const title = String(row[2] || "").trim()
+  const sourceText = cleanText(String(row[4] || ""))
+  const status = String(row[7] || "").trim().toUpperCase()
+
+  if (status !== "AI_FAILED") {
+    throw new Error("Selected row must have status AI_FAILED; found " + (status || "(blank)") + ".")
+  }
+  if (!id || !title || !sourceText) {
+    throw new Error("Selected row is missing its ID, title, or source content.")
+  }
+  if (!isSufficientSourceText(sourceText)) {
+    throw new Error("Selected source is too short to retry safely.")
+  }
+  const freshness = getSourceFreshnessStatus(row[8], new Date())
+  if (freshness) {
+    throw new Error("Selected source cannot be requeued: " + freshness + ".")
+  }
+
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!finalSheet) throw new Error("FINAL_BLOGS not found.")
+  const finalLastRow = finalSheet.getLastRow()
+  if (finalLastRow > 1) {
+    const ids = finalSheet.getRange(2, 2, finalLastRow - 1, 1).getValues()
+    if (ids.some(value => String(value[0] || "").trim() === id)) {
+      throw new Error("This source ID is already in FINAL_BLOGS; refusing to retry.")
     }
   }
 
-  Logger.log("✅ Reset " + reset + " rows to NEW")
+  const choice = ui.alert(
+    "Requeue one failed article?",
+    "This will change RAW_NEWS row " + rowNumber + " (" + id +
+      ") from AI_FAILED to NEW. It does not generate or publish immediately. " +
+      "The next scheduled/manual processor run may handle it.",
+    ui.ButtonSet.YES_NO
+  )
+  if (choice !== ui.Button.YES) {
+    Logger.log("Retry cancelled for " + id + "; no changes made.")
+    return false
+  }
 
-  SpreadsheetApp
-    .getUi()
-    .alert("✅ Reset " + reset + " rows back to NEW")
+  rawSheet.getRange(rowNumber, 8).setValue("NEW")
+  SpreadsheetApp.flush()
+  Logger.log("✅ Requeued one approved fresh AI_FAILED row: " + id)
+  return true
 }
 
 
@@ -1050,10 +1101,257 @@ function triggerGithubExport(articlesProcessed) {
 
 
 /***********************
+ * PIPELINE DIAGNOSTICS
+ * Read-only unless dryRunFreshNewArticle makes an AI call.
+ ***********************/
+function auditPipelineHealth() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!rawSheet || !finalSheet) throw new Error("Required sheet missing: RAW_NEWS or FINAL_BLOGS.")
+
+  const rawData = rawSheet.getDataRange().getValues()
+  const finalData = finalSheet.getDataRange().getValues()
+  const statusCounts = {}
+  const recentStatusCounts = {}
+  const finalById = new Map()
+  const finalIds = new Set()
+  const finalTitles = []
+
+  for (let i = 1; i < finalData.length; i++) {
+    const row = finalData[i]
+    const id = String(row[1] || "").trim()
+    const title = String(row[2] || "").trim()
+    if (id) {
+      finalById.set(id, row)
+      finalIds.add(id)
+    }
+    if (title) finalTitles.push(title)
+  }
+  // Rebuild the same source-title + generated-title dedup pool the processor uses.
+  for (let i = 1; i < rawData.length; i++) {
+    if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+      const sourceTitle = String(rawData[i][2] || "").trim()
+      if (sourceTitle) finalTitles.push(sourceTitle)
+    }
+  }
+
+  const recentStart = Math.max(1, rawData.length - 250)
+  const candidateStats = {
+    newRows: 0,
+    missingFields: 0,
+    alreadyInFinalBlogs: 0,
+    similarTitle: 0,
+    missingDate: 0,
+    staleDate: 0,
+    futureDate: 0,
+    insufficientSource: 0,
+    eligible: 0
+  }
+  const qualityStats = {
+    processedRowsChecked: 0,
+    missingFinalRows: 0,
+    emptyArticles: 0,
+    invalidArticles: 0,
+    invalidReasons: {},
+    incompleteEndings: 0,
+    unsupportedQuotes: 0,
+    samples: []
+  }
+
+  const now = new Date()
+
+  for (let i = 1; i < rawData.length; i++) {
+    const row = rawData[i]
+    const status = String(row[7] || "").trim().toUpperCase() || "(BLANK)"
+    statusCounts[status] = (statusCounts[status] || 0) + 1
+    if (i >= recentStart) {
+      recentStatusCounts[status] = (recentStatusCounts[status] || 0) + 1
+    }
+
+    if (status === "NEW") {
+      candidateStats.newRows++
+      const id = String(row[0] || "").trim()
+      const title = String(row[2] || "").trim()
+      const content = cleanText(String(row[4] || ""))
+      if (!id || !title || !content) {
+        candidateStats.missingFields++
+        continue
+      }
+      if (finalIds.has(id)) {
+        candidateStats.alreadyInFinalBlogs++
+        continue
+      }
+      if (finalTitles.some(existing => isSimilarTitle(title, existing))) {
+        candidateStats.similarTitle++
+        continue
+      }
+      const freshness = getSourceFreshnessStatus(row[8], now)
+      if (freshness === "MISSING_SOURCE_DATE") {
+        candidateStats.missingDate++
+        continue
+      }
+      if (freshness === "STALE_SOURCE") {
+        candidateStats.staleDate++
+        continue
+      }
+      if (freshness === "FUTURE_SOURCE_DATE") {
+        candidateStats.futureDate++
+        continue
+      }
+      if (freshness) continue
+      if (!isSufficientSourceText(content)) {
+        candidateStats.insufficientSource++
+        continue
+      }
+      candidateStats.eligible++
+    }
+
+    if (i < recentStart || status !== "PROCESSED") continue
+    qualityStats.processedRowsChecked++
+
+    const id = String(row[0] || "").trim()
+    const finalRow = finalById.get(id)
+    if (!finalRow) {
+      qualityStats.missingFinalRows++
+      continue
+    }
+
+    const sourceText = String(finalRow[4] || "")
+    const article = String(finalRow[15] || "")
+    if (!article.trim()) qualityStats.emptyArticles++
+
+    if (hasIncompleteArticleEnding(article)) qualityStats.incompleteEndings++
+    if (hasUnsupportedQuotedText(article, sourceText, String(row[2] || ""))) {
+      qualityStats.unsupportedQuotes++
+    }
+
+    const validation = validateArticleOutput(article, sourceText, String(row[2] || ""))
+    if (!validation.valid) {
+      qualityStats.invalidArticles++
+      qualityStats.invalidReasons[validation.reason] =
+        (qualityStats.invalidReasons[validation.reason] || 0) + 1
+
+      if (qualityStats.samples.length < 12) {
+        qualityStats.samples.push({
+          id: id,
+          title: String(row[2] || "").slice(0, 120),
+          reason: validation.reason,
+          articleWords: wordCount(article),
+          sourceWords: wordCount(sourceText),
+          articleEnd: article.trim().slice(-100)
+        })
+      }
+    }
+  }
+
+  const output = {
+    scriptVersion: SCRIPT_VERSION,
+    rawRows: Math.max(0, rawData.length - 1),
+    finalRows: Math.max(0, finalData.length - 1),
+    statuses: statusCounts,
+    last250RawRows: recentStatusCounts,
+    newQueueEligibility: candidateStats,
+    recentArticleQuality: qualityStats,
+    note: "Read-only audit; no Sheet rows, statuses, or published content were changed."
+  }
+
+  Logger.log("PIPELINE_HEALTH_AUDIT " + JSON.stringify(output))
+  return output
+}
+
+
+/**
+ * Makes one AI generation call chain for one eligible NEW row.
+ * This function does not change statuses, append to FINAL_BLOGS, or publish.
+ */
+function dryRunFreshNewArticle() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet()
+  const rawSheet = ss.getSheetByName("RAW_NEWS")
+  const finalSheet = ss.getSheetByName("FINAL_BLOGS")
+  if (!rawSheet || !finalSheet) throw new Error("RAW_NEWS or FINAL_BLOGS not found.")
+
+  const rawData = rawSheet.getDataRange().getValues()
+  const finalData = finalSheet.getDataRange().getValues()
+  const existingIds = new Set()
+  const existingTitles = []
+
+  for (let i = 1; i < finalData.length; i++) {
+    const id = String(finalData[i][1] || "").trim()
+    const title = String(finalData[i][2] || "").trim()
+    if (id) existingIds.add(id)
+    if (title) existingTitles.push(title)
+  }
+  for (let i = 1; i < rawData.length; i++) {
+    if (String(rawData[i][7] || "").trim().toUpperCase() === "PROCESSED") {
+      const sourceTitle = String(rawData[i][2] || "").trim()
+      if (sourceTitle) existingTitles.push(sourceTitle)
+    }
+  }
+
+  let candidate = null
+  const now = new Date()
+
+  for (let i = 1; i < rawData.length; i++) {
+    const row = rawData[i]
+    if (String(row[7] || "").trim().toUpperCase() !== "NEW") continue
+
+    const id = String(row[0] || "").trim()
+    const title = String(row[2] || "").trim()
+    const content = cleanText(String(row[4] || ""))
+
+    if (!id || !title || !content || existingIds.has(id)) continue
+    if (existingTitles.some(existing => isSimilarTitle(title, existing))) continue
+    if (getSourceFreshnessStatus(row[8], now)) continue
+    if (!isSufficientSourceText(content)) continue
+
+    candidate = {
+      rowNumber: i + 1,
+      id: id,
+      title: title,
+      content: content,
+      sourceWords: wordCount(content),
+      publishedAt: String(row[8] || "")
+    }
+    break
+  }
+
+  if (!candidate) {
+    Logger.log("DRY_RUN: No eligible candidate found. No AI call was made and no Sheet rows changed.")
+    return null
+  }
+
+  Logger.log("DRY_RUN_SOURCE " + JSON.stringify({
+    row: candidate.rowNumber,
+    id: candidate.id,
+    title: candidate.title,
+    sourceWords: candidate.sourceWords,
+    publishedAt: candidate.publishedAt
+  }))
+
+  const article = generateAiArticle(candidate.title, candidate.content)
+  const validation = validateArticleOutput(article, candidate.content, candidate.title)
+
+  Logger.log("DRY_RUN_RESULT " + JSON.stringify({
+    valid: validation.valid,
+    reason: validation.reason,
+    articleWords: wordCount(article),
+    paragraphs: paragraphCount(article),
+    incompleteEnding: hasIncompleteArticleEnding(article),
+    unsupportedQuotedText: hasUnsupportedQuotedText(article, candidate.content, candidate.title),
+    generated: Boolean(article)
+  }))
+  Logger.log("DRY_RUN_ARTICLE\n" + (article || "[No valid article returned]"))
+  Logger.log("DRY_RUN_COMPLETE: No sheet rows changed and nothing published.")
+  return validation
+}
+
+
+/***********************
  * MASTER AUTOMATION
  ***********************/
 function masterAutomation() {
-  Logger.log("🚀 Starting masterAutomation...")
+  Logger.log("🚀 Starting masterAutomation " + SCRIPT_VERSION)
 
   const processed = processRawNewsToFinalBlogs()
 

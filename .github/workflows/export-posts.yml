@@ -1,5 +1,9 @@
 name: Export Posts & Deploy
 
+concurrency:
+  group: autobrief-export-posts
+  cancel-in-progress: false
+
 on:
   workflow_dispatch:
     inputs:
