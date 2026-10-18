@@ -22,6 +22,11 @@ test("complete Apps Script loads in the V8-compatible test context", () => {
   assert.equal(typeof runtime.dryRunFreshNewArticle, "function")
 })
 
+test("decodes decimal, hexadecimal, and named HTML entities before article checks", () => {
+  assert.equal(runtime.decodeHtmlEntities("A&#8217;s &ldquo;quote&rdquo; &amp; facts"), "A’s “quote” & facts")
+  assert.equal(runtime.decodeHtmlEntities("A&#x2019;s item"), "A’s item")
+})
+
 test("rejects ellipses, missing punctuation, and dangling clause endings", () => {
   assert.equal(runtime.hasIncompleteArticleEnding("Officials discussed the deal and…"), true)
   assert.equal(runtime.hasIncompleteArticleEnding("Officials discussed the deal and."), true)
