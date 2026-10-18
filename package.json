@@ -7,7 +7,10 @@
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start",
-    "test:rss": "tsx --test scripts/rss/contentUtils.test.ts"
+    "test:rss": "tsx --test scripts/rss/contentUtils.test.ts",
+    "test:apps-script": "tsx --test scripts/apps-script/Code.test.ts",
+    "test:export": "tsx --test scripts/export/contentSafety.test.ts",
+    "test": "npm run test:rss && npm run test:apps-script && npm run test:export"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
