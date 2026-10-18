@@ -5,6 +5,12 @@
 import "dotenv/config"
 import Parser from "rss-parser"
 import { getWriteAccessToken } from "../googleSheets"
+import {
+  cleanContent,
+  countWords,
+  normalizeUrlForDedup,
+  selectFeedContent,
+} from "./contentUtils"
 
 const parser = new Parser({
   timeout: 10000,
@@ -14,6 +20,9 @@ const parser = new Parser({
 })
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!
+const MAX_NEW_ITEMS_PER_SOURCE = 8
+const MAX_FEED_ITEMS_TO_INSPECT = 100
+const MIN_CONTENT_CHARS = 30
 
 if (!SHEET_ID) {
   console.error("❌ Missing GOOGLE_SHEET_ID")
@@ -65,7 +74,7 @@ async function appendRows(rows: any[][]): Promise<number> {
   const token = await getWriteAccessToken()
 
   const res = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:H:append?valueInputOption=USER_ENTERED`,
+    `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/RAW_NEWS!A:H:append?valueInputOption=RAW`,
     {
       method: "POST",
       headers: {
@@ -105,23 +114,6 @@ function generateNextId(lastId?: string) {
 }
 
 /* =========================
-   CONTENT CLEANER
-   ========================= */
-
-function cleanContent(raw: string): string {
-  return raw
-    .replace(/<[^>]+>/g, "")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
-}
-
-/* =========================
    MAIN SCRAPER
    ========================= */
 
@@ -150,7 +142,8 @@ export async function runRssScraper() {
   const existingUrls = new Set(
     (await fetchSheet("RAW_NEWS!D2:D"))
       .flat()
-      .map(v => String(v).trim())
+      .map(v => normalizeUrlForDedup(v))
+      .filter(Boolean)
   )
 
   // Get last ID for sequential generation
@@ -161,6 +154,14 @@ export async function runRssScraper() {
 
   const rowsToInsert: any[][] = []
   const failedSources: string[] = []
+  const contentFieldCounts: Record<string, number> = {}
+  let itemsInspected = 0
+  let duplicateItems = 0
+  let invalidItems = 0
+  let metadataOnlyItems = 0
+  let tooShortItems = 0
+  let acceptedShortItems = 0
+  let feedInspectionCapsReached = 0
 
   for (const source of enabledSources) {
     try {
@@ -169,24 +170,50 @@ export async function runRssScraper() {
       lastFetchedValues[source.sourceIndex] = [new Date().toISOString()]
 
       let inserted = 0
+      const candidateItems = feed.items.slice(0, MAX_FEED_ITEMS_TO_INSPECT)
 
-      for (const item of feed.items.slice(0, 8)) {
+      // Inspect beyond already-seen items, up to a bounded window. The old
+      // feed.items.slice(0, 8) happened before duplicate filtering, so a feed
+      // with eight old entries could hide newer eligible stories further down.
+      for (const item of candidateItems) {
+        if (inserted >= MAX_NEW_ITEMS_PER_SOURCE) break
+        itemsInspected++
+
         const title = typeof item.title === "string" ? item.title.trim() : ""
         const link = typeof item.link === "string" ? item.link.trim() : ""
 
-        const rawContent =
-          item.content ||
-          item.contentSnippet ||
-          item.summary ||
-          ""
+        let parsedLink: URL | null = null
+        try {
+          parsedLink = new URL(link)
+        } catch {
+          parsedLink = null
+        }
 
-        const content = cleanContent(String(rawContent))
+        if (title.length < 10 || !parsedLink || !["http:", "https:"].includes(parsedLink.protocol)) {
+          invalidItems++
+          continue
+        }
 
-        // Quality filters
-        if (title.length < 10) continue
-        if (!link.startsWith("http")) continue
-        if (content.length < 30) continue
-        if (existingUrls.has(link)) continue
+        const dedupUrl = normalizeUrlForDedup(link)
+        if (existingUrls.has(dedupUrl)) {
+          duplicateItems++
+          continue
+        }
+
+        const selected = selectFeedContent(item)
+        if (selected.metadataOnly) {
+          metadataOnlyItems++
+          continue
+        }
+
+        const content = cleanContent(selected.content)
+        if (content.length < MIN_CONTENT_CHARS) {
+          tooShortItems++
+          continue
+        }
+
+        contentFieldCounts[selected.field] = (contentFieldCounts[selected.field] || 0) + 1
+        if (countWords(content) < 50) acceptedShortItems++
 
         const newId = generateNextId(lastId)
         lastId = newId
@@ -202,8 +229,15 @@ export async function runRssScraper() {
           "NEW",
         ])
 
-        existingUrls.add(link)
+        existingUrls.add(dedupUrl)
         inserted++
+      }
+
+      if (feed.items.length > MAX_FEED_ITEMS_TO_INSPECT && inserted < MAX_NEW_ITEMS_PER_SOURCE) {
+        feedInspectionCapsReached++
+        console.log(
+          `    ⚠️ Inspection cap reached for ${source.name}: checked ${MAX_FEED_ITEMS_TO_INSPECT} of ${feed.items.length} feed items`
+        )
       }
 
       if (inserted > 0) {
@@ -220,11 +254,29 @@ export async function runRssScraper() {
 
   // Batch insert
   if (rowsToInsert.length > 0) {
-    await appendRows(rowsToInsert)
-    console.log(`\n✅ Inserted ${rowsToInsert.length} new articles into RAW_NEWS`)
+    const insertedRows = await appendRows(rowsToInsert)
+    if (insertedRows > 0) {
+      console.log(`\n✅ Inserted ${insertedRows} new articles into RAW_NEWS`)
+    } else {
+      console.error(`\n❌ Failed to persist ${rowsToInsert.length} prepared rows to RAW_NEWS`)
+    }
   } else {
     console.log("\n📭 No new articles found this run")
   }
+
+  console.log(
+    "\n🔎 Feed quality audit: " +
+    JSON.stringify({
+      itemsInspected,
+      duplicateItems,
+      invalidItems,
+      metadataOnlyItems,
+      tooShortItems,
+      acceptedShortItemsUnder50Words: acceptedShortItems,
+      selectedContentFields: contentFieldCounts,
+      feedInspectionCapsReached,
+    })
+  )
 
   if (sourceRows.length > 0) {
     await updateSourceLastFetched(lastFetchedValues)
