@@ -483,9 +483,7 @@ function parseDateFromRawId(rawId) {
  * the date prefix in scraper-generated IDs is a fallback for legacy rows.
  */
 function getSourceFreshnessStatus(scrapedAt, rawId, now) {
-  const referenceTime = now instanceof Date && !isNaN(now.getTime())
-    ? now
-    : new Date()
+  const referenceTime = parseSourceDateValue(now) || new Date()
 
   const sourceDate = parseSourceDateValue(scrapedAt) || parseDateFromRawId(rawId)
   if (!sourceDate) return "MISSING_SOURCE_DATE"
