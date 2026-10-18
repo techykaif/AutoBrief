@@ -86,7 +86,19 @@ function normalizeText(text) {
 
 function decodeHtmlEntities(text) {
   return String(text || "")
-    .replace(/&#039;|&#39;/gi, "'")
+    .replace(/&#x([0-9a-f]+);/gi, function (match, hex) {
+      const code = parseInt(hex, 16)
+      return code >= 0 && code <= 0x10ffff ? String.fromCodePoint(code) : match
+    })
+    .replace(/&#(\d+);/g, function (match, decimal) {
+      const code = parseInt(decimal, 10)
+      return code >= 0 && code <= 0x10ffff ? String.fromCodePoint(code) : match
+    })
+    .replace(/&#039;|&#39;|&apos;/gi, "'")
+    .replace(/&rsquo;/gi, "’")
+    .replace(/&lsquo;/gi, "‘")
+    .replace(/&rdquo;/gi, "”")
+    .replace(/&ldquo;/gi, "“")
     .replace(/&quot;/gi, '"')
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
@@ -717,7 +729,6 @@ function isSimilarTitle(titleA, titleB) {
 
 
 /***********************
- * RAW → FINAL PROCESSOR/***********************
  * RAW → FINAL PROCESSOR
  ***********************/
 function processRawNewsToFinalBlogs() {
