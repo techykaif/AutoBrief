@@ -60,6 +60,47 @@ test("accepts fresh publication timestamps", () => {
   )
 })
 
+test("recognizes podcast listings and limits their article length", () => {
+  const title = "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty"
+  const sourceText = [
+    "For more than three decades, Michael Gove has been a leading figure in British Conservatism.",
+    "In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator's position on Islam.",
+    "Watch the full episode with Michael Gove here.",
+    "Aditya's suggested reading:",
+    words(280)
+  ].join(" ")
+
+  assert.equal(sandbox.isEpisodeListing(title, sourceText), true)
+  assert.deepEqual(
+    JSON.parse(JSON.stringify(sandbox.articleWordBounds(sourceText, title))),
+    { min: 30, max: 130, minParagraphs: 1 }
+  )
+})
+
+test("does not classify an ordinary news report as a podcast listing", () => {
+  const title = "City council approves transport plan"
+  const sourceText = "The council approved a new transport plan after a public meeting. Officials said the project will begin next spring and provided a timetable for residents."
+
+  assert.equal(sandbox.isEpisodeListing(title, sourceText), false)
+})
+
+test("rejects overlong output for a podcast listing", () => {
+  const title = "Radical Thinking podcast episode"
+  const sourceText = [
+    "In the latest episode of Radical Thinking, the guest discusses policy.",
+    "Watch the full episode here.",
+    "More ways to listen.",
+    words(280)
+  ].join(" ")
+  const overlongArticle = [
+    "The episode features a guest discussing policy and public debate. " + words(55, "context"),
+    "The discussion covers policy themes and the guest's views. " + words(55, "detail"),
+    "Listeners can watch the episode online. " + words(55, "filler")
+  ].join("\\n\\n")
+
+  assert.equal(sandbox.isValidArticleOutput(overlongArticle, sourceText, title), false)
+})
+
 test("holds snippets with fewer than 25 words", () => {
   assert.equal(sandbox.isSufficientSourceText(words(24)), false)
   assert.equal(sandbox.isSufficientSourceText(words(25)), true)
