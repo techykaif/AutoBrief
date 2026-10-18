@@ -35,7 +35,7 @@ test("rejects ellipses, missing punctuation, and dangling clause endings", () =>
 
 test("rejects unbalanced straight and curly double quotes", () => {
   assert.equal(runtime.hasUnbalancedDoubleQuotes("The official said “the plan was approved."), true)
-  assert.equal(runtime.hasUnbalancedDoubleQuotes('The official said "the plan was approved."'), true)
+  assert.equal(runtime.hasUnbalancedDoubleQuotes('The official said "the plan was approved.'), true)
   assert.equal(runtime.hasUnbalancedDoubleQuotes("The official said “the plan was approved.”"), false)
   assert.equal(runtime.hasUnbalancedDoubleQuotes('The official said "the plan was approved."'), false)
 })
@@ -107,8 +107,10 @@ test("summary validator rejects unsupported quotations", () => {
 
 test("bulk retry command is fail-closed instead of resetting historical failures", () => {
   const start = sourceCode.indexOf("function resetAiFailedToNew() {")
-  const end = sourceCode.indexOf("function backfillSourceUrls()", start)
+  const end = sourceCode.indexOf("function retrySelectedFreshAiFailedRow()", start)
   assert.ok(start >= 0 && end > start)
   assert.match(sourceCode.slice(start, end), /throw new Error\(message\)/)
   assert.doesNotMatch(sourceCode.slice(start, end), /setValue\("NEW"\)/)
+  assert.match(sourceCode, /function retrySelectedFreshAiFailedRow\(\)/)
+  assert.match(sourceCode, /getSourceFreshnessStatus\(row\[8\], new Date\(\)\)/)
 })
