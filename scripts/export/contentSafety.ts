@@ -110,6 +110,47 @@ function paragraphCount(article: string): number {
     .filter(paragraph => paragraph.trim().length > 0).length
 }
 
+function normalizeQuoteComparison(value: string): string {
+  return String(value || "")
+    .normalize("NFKC")
+    .replace(/[‘’]/g, "'")
+    .replace(/[“”]/g, '"')
+    .replace(/[‐‑‒–—]/g, "-")
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase()
+}
+
+function hasUnsupportedQuotedText(article: string, sourceText: string, title: string): boolean {
+  const output = String(article || "")
+  const supported = normalizeQuoteComparison(String(title || "") + " " + String(sourceText || ""))
+  const quotePatterns = [
+    /“([^”\n]{2,240})”/g,
+    /"([^"\n]{2,240})"/g,
+    /‘([^’\n]{2,240})’/g,
+  ]
+
+  for (const pattern of quotePatterns) {
+    let match: RegExpExecArray | null
+    while ((match = pattern.exec(output)) !== null) {
+      const quote = normalizeQuoteComparison(match[1])
+      if (quote && !supported.includes(quote)) return true
+    }
+  }
+  return false
+}
+
+export function isValidExportHeadline(value: string): boolean {
+  if (!value || typeof value !== "string") return false
+  const v = value.trim()
+  if (v.length < 10 || v.length > 100 || !isValidAiOutput(v)) return false
+  if (/[.…]\s*$/.test(v)) return false
+  if (/^(headline|summary)\s*[:\-]/i.test(v)) return false
+  if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than)$/i.test(v.replace(/[.!?]+$/, "").split(/\s+/).pop() || "")) return false
+  return true
+}
+
 /**
  * Structural checks do not prove that every generated claim is factual.
  * They prevent known malformed/overlong outputs from being chosen at export.
@@ -121,6 +162,7 @@ export function validateExportArticle(
 ): ArticleValidation {
   if (!isValidAiOutput(article)) return { valid: false, reason: "INVALID_AI_OUTPUT" }
   if (hasIncompleteArticleEnding(article)) return { valid: false, reason: "INCOMPLETE_OR_DANGLING_ENDING" }
+  if (hasUnsupportedQuotedText(article, sourceText, title)) return { valid: false, reason: "UNSUPPORTED_QUOTED_TEXT" }
   if (wordCount(sourceText) < MIN_SOURCE_WORDS_FOR_ARTICLE) {
     return { valid: false, reason: "INSUFFICIENT_SOURCE" }
   }
