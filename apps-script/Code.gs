@@ -437,18 +437,16 @@ function isValidAiOutput(value) {
 }
 
 
-function isValidHeadline(value) {
+function isValidHeadline(value, sourceText, title) {
   if (!isValidAiOutput(value)) return false
-
   const v = value.trim()
+  if (v.length < 10 || v.length > 100) return false
+  if (/[.…]\s*$/.test(v)) return false
+  if (/^headline\s*[:\-]/i.test(v) || /^summary\s*[:\-]/i.test(v)) return false
+  if (hasUnsupportedQuotedText(v, sourceText || "", title || "")) return false
 
-  // Keep generated headlines usable in search results and UI.
-  if (v.length > 100) return false
-
-  // Don't accept parser labels as actual headline content.
-  if (/^headline\s*[:\-]/i.test(v)) return false
-  if (/^summary\s*[:\-]/i.test(v)) return false
-
+  const finalToken = v.replace(/[.!?]+$/, "").split(/\s+/).pop() || ""
+  if (/^(and|or|but|because|although|though|while|when|if|which|that|who|whom|whose|with|to|of|for|from|by|as|than|including|amid|into|onto|over|under|through|between|among|against|during|without|within|about|before|after|near|despite|versus|in|on|at|up|off|via|around|toward|towards|until|since|upon|across|along|outside|inside|beyond)$/i.test(finalToken)) return false
   return true
 }
 
@@ -833,8 +831,14 @@ function processRawNewsToFinalBlogs() {
         continue
       }
 
-      const finalTitle = isValidHeadline(aiFields.headline) ? aiFields.headline : title
-      const finalSummary = isValidSummary(aiFields.summary, cleaned) ? aiFields.summary : fallbackSummary
+      const finalTitle = isValidHeadline(aiFields.headline, cleaned, title)
+        ? aiFields.headline
+        : title
+      const finalSummary = isValidSummary(aiFields.summary, cleaned)
+        ? aiFields.summary
+        : (isValidSummary(fallbackSummary, cleaned)
+          ? fallbackSummary
+          : (/[.!?]$/.test(title) ? title : title + "."))
       const finalContent = aiArticle
       Logger.log("📊 Source: " + wordCount(cleaned) + " words | Article: " +
         wordCount(finalContent) + " words | Headline: " + finalTitle.length +
@@ -850,6 +854,9 @@ function processRawNewsToFinalBlogs() {
 
       existingIds.add(rawId)
       existingTitles.push(finalTitle)
+      if (normalizeTitleForDedup(title) !== normalizeTitleForDedup(finalTitle)) {
+        existingTitles.push(title)
+      }
       rawSheet.getRange(i + 1, IDX.status + 1).setValue("PROCESSED")
       published++
       batchCount++
