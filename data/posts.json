@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261019-195",
+    "title": "Japan Launches MMX Sample-Return Mission to Mars Moon Phobos Today",
+    "slug": "japan-launches-mmx-sample-return-mission-to-mars-moon-phobos-today",
+    "content": "Japan is set to launch a bold sample‑return mission to Mars’ moon Phobos today, October 19. The Martian Moons eXploration (MMX) spacecraft will lift off from Japan’s Tanegashima Space Center on an H3 rocket at 3:41 p.m. Eastern Daylight Time (1941 GMT), which is 4:41 a.m. local Japan time on October 20. Viewers can watch the launch live through Japan Aerospace Exploration Agency (JAXA) coverage that begins at 2:45 p.m. EDT (1845 GMT).\n\nMMX’s primary objective is to study Mars’ two small moons, Phobos and Deimos, and to return samples from Phobos to Earth. Phobos is about 14 miles (22 km) wide, while Deimos measures roughly 8 miles (13 km). Their origins remain uncertain; they may be remnants of a massive impact on Mars or captured asteroids, according to Tom Statler, MMX program executive and program scientist at NASA Headquarters. NASA partners on the mission by providing a scientific instrument, a technology demonstration, communication support, and funding for American scientists on the MMX team.\n\nThe spacecraft is scheduled to arrive in the Mars system in August 2027, then enter orbit around Phobos a month later. It will conduct a 18‑month study of both moons before deploying the French‑German Idefix rover onto Phobos’ surface in early 2029. Idefix, weighing 55 pounds (25 kg) in Earth gravity, will perform two main tasks: gathering information to prepare for the main spacecraft’s sample‑collection landing and analyzing the composition and texture of Phobos’ surface. On the moon’s low gravity, Idefix will weigh only about 15 grams (0.5 ounces). The MMX mothership will land on Phobos in 2030, collect at least 10 grams (0.4 ounces) of samples, and then return to Earth. The return capsule is expected to land in 2031, where scientists worldwide will examine the samples for insights into Mars and the broader solar system.\n\nMMX was originally slated to launch in 2024, but problems with the H3 rocket delayed it. Because Mars and Earth align for interplanetary launches only once every 26 months, the mission had to wait for its next opportunity. Japan’s successful sample‑return history—including the Hayabusa mission that returned material from the asteroid Itokawa in 2010 and Hayabusa2’s return from Ryugu a decade later—underscores the country’s expertise in this field.",
+    "summary": "Japan will launch the Martian Moons eXploration (MMX) mission on Oct. 19 from Tanegashima Space Center aboard an H3 rocket. MMX will travel to Mars, orbit Phobos and Deimos, deploy the Idefix rover in 2029, collect at least 10 grams of Phobos samples in 2030, and return them to Earth in 2031.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/19/2026 16:42:03",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live"
+  },
+  {
+    "id": "BLOG-20261019-192",
+    "title": "Rays lead ALCS 3-2 after Drew Rasmussen's seven-inning win over Guardians",
+    "slug": "rays-lead-alcs-3-2-after-drew-rasmussen-s-seven-inning-win-over-guardians",
+    "content": "The Tampa Bay Rays defeated the Cleveland Guardians 3‑1, moving ahead 3‑2 in the best‑of‑seven American League Championship Series. Starting pitcher Drew Rasmussen worked seven innings, limiting the Guardians’ offense and earning praise for his performance in Game 5. Rays outfielder Jonny DeLuca noted that the presence of Rasmussen on the mound promised a quiet day for the outfielders, a prediction that held true as the pitcher subdued Cleveland’s attack on Sunday. The win puts Tampa Bay on the brink of a World Series appearance.",
+    "summary": "The Tampa Bay Rays defeated the Cleveland Guardians 3-1 in Game 5 of the AL Championship Series. Drew Rasmussen pitched seven innings, quieting the Guardians' offense and giving Tampa Bay a 3-2 series lead.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "10/19/2026 16:41:53",
+    "author": "Guardian Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/sport/2026/oct/18/rays-on-verge-of-world-series-return-after-rasmussen-dazzles-in-win-over-guardians"
+  },
+  {
     "id": "BLOG-20261019-190",
     "title": "South Africa host Australia at St George's Park; rain delays second Test day two",
     "slug": "south-africa-host-australia-at-st-george-s-park-rain-delays-second-test-day-two",
@@ -6472,31 +6498,5 @@
     "author": "Phys.org",
     "isFeatured": false,
     "sourceUrl": "https://phys.org/news/2026-10-scientists-uncover-mystery-snail-shells.html"
-  },
-  {
-    "id": "BLOG-20261016-453",
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "slug": "llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console",
-    "content": "Article URL: https://github. Com/cobanov/PS5LM Comments URL: https://news. Ycombinator. Com/item? Id=50122431 Points: 154 # Comments: 44",
-    "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/17/2026 5:23:04",
-    "author": "Hacker News",
-    "isFeatured": false,
-    "sourceUrl": "https://github.com/cobanov/PS5LM"
-  },
-  {
-    "id": "BLOG-20261016-452",
-    "title": "Apple Updates App Store Rules to Ban ‘Nudify’ AI Apps",
-    "slug": "apple-updates-app-store-rules-to-ban-nudify-ai-apps",
-    "content": "Apple has revised its App Store rules to explicitly ban “nudify” apps that use artificial‑intelligence tools to generate intimate images of people without their consent.  \n\nThe rule changes follow criticism after X users employed the AI program Grok earlier this year to create nonconsensual, sexualized deepfakes, some involving minors. Apple has not removed X or Grok from the App Store, but it told senators that it threatened to pull Grok.  \n\nAt Apple’s WWDC event in June, protestors urged the company to remove Grok, X, and all nudify technology from the App Store. In July, a San Francisco city attorney ordered Apple to delete 13 nudify apps.  \n\nThe full story was reported by The Verge.",
-    "summary": "Apple's App Store rules now explicitly ban \"nudify\" apps that generate intimate images without consent using AI tools. The changes follow criticism after X users used Grok to create nonconsensual, sexualized deepfakes, including minors, and a San Francisco city attorney ordered Apple to remove 13 nudify apps.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/17/2026 5:22:57",
-    "author": "The Verge",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
   }
 ]
