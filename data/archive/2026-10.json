@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261016-306",
+    "title": "NASA Operations Manager Allison Mjoen Watches SLS Launch",
+    "slug": "nasa-operations-manager-allison-mjoen-watches-sls-launch",
+    "content": "Allison Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, watched alongside her family as NASA’s SLS (Space Launch System) rocket roared to life. The launch event featured supercooled propellant flowing into the core stage, an occasion that Mjoen and her family observed with awe and pride. Mjoen has helped shape the systems and ground operations that are intended to eventually send humans back to the Moon.",
+    "summary": "Allison Mjoen, NASA's operations manager for the Exploration Ground Systems Program, watched the SLS rocket launch with her family. She helped shape the systems and ground operations that will send humans back to the Moon.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/17/2026 0:22:17",
+    "author": "NASA News",
+    "isFeatured": false,
+    "sourceUrl": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
+  },
+  {
+    "id": "BLOG-20261016-305",
+    "title": "NASA Confirms Artemis II Heat Shield Safeguarded Crew During Reentry",
+    "slug": "nasa-confirms-artemis-ii-heat-shield-safeguarded-crew-during-reentry",
+    "content": "Following the April 10, 2026, splashdown of NASA’s Artemis II mission, U.S. Navy divers captured underwater images of the Orion spacecraft’s heat shield. In the subsequent months, the agency conducted measurements to determine if the thermal protection system successfully protected the crew and Orion systems during atmospheric reentry. This rigorous analysis confirmed that the heat shield performed as intended.",
+    "summary": "NASA Confirms Artemis II Heat Shield Safeguarded Crew During Reentry.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/17/2026 0:22:12",
+    "author": "NASA News",
+    "isFeatured": false,
+    "sourceUrl": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
+  },
+  {
+    "id": "BLOG-20261016-304",
+    "title": "Eufy HomeStation 2 Firmware Reveals WiFi Secrets and UART Lockdowns",
+    "slug": "eufy-homestation-2-firmware-reveals-wifi-secrets-and-uart-lockdowns",
+    "content": "Article URL: https://adepts. Of0x. Cc/eufy-homestation2-firmware/ Comments URL: https://news. Ycombinator. Com/item? Id=50119751 Points: 8 # Comments: 1",
+    "summary": "Eufy HomeStation 2 Firmware Reveals WiFi Secrets and UART Lockdowns.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/17/2026 0:22:07",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://adepts.of0x.cc/eufy-homestation2-firmware/"
+  },
+  {
+    "id": "BLOG-20261016-301",
+    "title": "Polymarket's paid quote‑retweet esports program examined",
+    "slug": "polymarket-s-paid-quote-retweet-esports-program-examined",
+    "content": "Article URL: https://www. Readergrev. Com/p/polymarket-paid-quote-retweet-esports-investigation Comments URL: https://news. Ycombinator. Com/item? Id=50120010 Points: 66 # Comments: 48",
+    "summary": "Polymarket's paid quote‑retweet esports program examined.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/17/2026 0:22:00",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation"
+  },
+  {
     "id": "BLOG-20261016-300",
     "title": "US Rep Torres Announces Power to the Players Act to Protect Video Game Ownership",
     "slug": "us-rep-torres-announces-power-to-the-players-act-to-protect-video-game-ownership",
