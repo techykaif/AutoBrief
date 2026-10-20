@@ -1,7 +1,7 @@
 {
-  "totalPosts": 39087,
+  "totalPosts": 39090,
   "recentCount": 500,
-  "archivedCount": 38587,
+  "archivedCount": 38590,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -53,7 +53,7 @@
     {
       "name": "Space",
       "slug": "space",
-      "count": 555
+      "count": 558
     },
     {
       "name": "Environment",
@@ -63,6 +63,6 @@
   ],
   "todayArticles": 0,
   "weekArticles": 2047,
-  "lastUpdated": "10/20/2026 8:03:18",
-  "generatedAt": "2026-10-20T02:34:09.737Z"
+  "lastUpdated": "10/20/2026 8:12:19",
+  "generatedAt": "2026-10-20T02:43:27.288Z"
 }
