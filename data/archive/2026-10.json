@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261020-711",
+    "title": "Google brings Gemini Personal Intelligence feature to cars",
+    "slug": "google-brings-gemini-personal-intelligence-feature-to-cars",
+    "content": "Google is extending the Personal Intelligence feature of its Gemini AI assistant to vehicles. This update enables the in-car assistant to access data from Gmail, Calendar, Maps, YouTube, and other Google services. By leveraging this information, Gemini can provide more personalized responses to drivers.",
+    "summary": "Google is adding Gemini's Personal Intelligence feature to its in-car AI assistant. This allows the assistant to use data from Gmail, Calendar, Maps, and YouTube to provide personalized responses while driving.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/21/2026 5:02:07",
+    "author": "TechCrunch",
+    "isFeatured": false,
+    "sourceUrl": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+  },
+  {
     "id": "BLOG-20261020-710",
     "title": "OpenAI acquires Orchestra Bio to enhance Rosalind AI for life sciences",
     "slug": "openai-acquires-orchestra-bio-to-enhance-rosalind-ai-for-life-sciences",
