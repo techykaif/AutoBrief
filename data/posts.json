@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261022-523",
+    "title": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
+    "slug": "after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communica",
+    "content": "Ukraine has signed a letter of intent with Finnish telecommunications company Nokia and satellite manufacturer ICEYE to explore the development of a sovereign satellite-communications network. The agreement, announced on October 22, aims to establish secure, high-performance satellite systems that Ukraine fully controls. Rafal Modrzewski, ICEYE’s cofounder and CEO, stated that the company has a proven track record of delivering sovereign missions and has supported Ukraine since 2022. He emphasized the need for Ukraine to possess communications infrastructure it can rely on independently.\n\nThe move comes in response to recent disruptions in Ukraine’s access to existing satellite services. Ukraine currently relies heavily on SpaceX’s Starlink megaconstellation and Starshield, a military-grade version of Starlink used by the U.S. Government and its allies. Starshield is particularly crucial for Ukraine, as it enables the operation of fast-moving drones over large distances in both offensive and defensive capacities. On October 14, Ukrainian soldiers and officials reported a severe throttling of Starshield services, which imposed speed limits on terminal-carrying drones and caused many to crash.\n\nResponsibility for the throttling remains unclear. Some U.S. officials indicated the order came from Elon Musk, but Musk stated that Starshield systems are owned and controlled by the U.S. government. In a post on X on October 14, Musk asserted that any limits on speed or usage are decided by the U.S. military and ultimately the President. The throttling appears to still be in effect, reinforcing Ukraine’s desire to control its own satellite-communications infrastructure.\n\nMikko Hautala, Nokia’s chief geopolitical and government relations officer and chairman of Nokia Defense, noted that satellite networks are key to secure communications when ground networks are disrupted. He stated that through the letter of intent, Nokia, Ukraine, and ICEYE will explore how trusted, sovereign satellite communications can strengthen Ukraine’s resilience. This partnership builds on an agreement announced on October 1 between Nokia and ICEYE to help nations develop similar sovereign systems.\n\nICEYE already supports the Ukrainian defense effort through its fleet of Earth-observing satellites in low Earth orbit, which use synthetic aperture radar. Ukraine utilizes data from the ICEYE constellation for intelligence and planning. This relationship has placed ICEYE in a vulnerable position, as a Russian inspector satellite named Kosmos 2612 recently made an extremely close approach to ICEYE-X36, a satellite operated by ICEYE US. The goal of this unsanctioned rendezvous is unclear, though it may have been intended to assess capabilities, interfere with the satellite, or send a message regarding Russia’s ability to interact with satellites.",
+    "summary": "Ukraine wants its own satellite-communication system, which shouldn't be surprising given the events of the past week or so. The Ukrainian military just signed a letter of intent with two Finnish companies — the telecom giant Nokia and satellite maker ICEYE — to look into developing a sovereign satellite-communications network for Ukraine.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/23/2026 5:01:55",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia"
+  },
+  {
+    "id": "BLOG-20261022-522",
+    "title": "Space Shuttle Columbia carries Gene Roddenberry's ashes into space on STS-52",
+    "slug": "space-shuttle-columbia-carries-gene-roddenberry-s-ashes-into-space-on-sts-52",
+    "content": "On Oct. 22, 1992, the space shuttle Columbia launched into space with the ashes of Gene Roddenberry, the creator of \" Star Trek,\" aboard. During mission STS-52, NASA astronaut and shuttle commander James Wetherbee brought a small container with a portion of Roddenberry's ashes into space as part of his personal effects at the request of Roddenberry's widow, Majel Barrett. It was Roddenberry's lifelong dream to go to space, but he never got to go while he was alive. But thanks to his wife, a little bit of Roddenberry finally made it to space almost exactly one year after his death. NASA and his family didn't tell anyone about it until almost two years later in 1994. Wetherbee said he was \"honored to be asked\" by Barrett to carry Roddenberry's ashses on the spaceflight. \"I'm just glad I was able to bring a little happiness to the family,\" he said, according to Newsweek. The Space Shuttle Columbia (STS-52) launches from NASA's Kennedy Space Center on Oct. 22, 1992. (Image credit: NASA) Here's why it mattered The launch of Roddenberry's ashes into space on NASA's STS-52 mission aboard the space shuttle Columbia marked the world's first \" space burial,\" but it wouldn't be the last. About five years after Roddenberry's memorial flight, in 1997, the space memorial company Celestis began launching a series of \"burial\" flights by flying capsules with human cremains on rockets. In fact, more of Roddenberry's ashes flew on Celestis' \"founders flight\" in April 1997 aboard an air-launched Pegasus rocket that took off from the Canary Islands in Spain. The ashes of Roddenberry's wife and of Star Trek actor James Dooha n have also flown in space, among others. Celestis has gone on to launch human cremains on many suborbital and orbital flights, including some on SpaceX Falcon 9 rockets. The company even launched the ashes of the late astronomer Eugene Shoemaker to the moon in 1999 on the Luna 1 flight, with another set of cremains launched into deep space on the Enterprise mission in 2023. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.",
+    "summary": "On Oct. 22, 1992, NASA shuttle Columbia on mission STS-52 carried a small container of Gene Roddenberry’s ashes into space. The ashes were placed aboard at the request of his widow Majel Barrett and were later disclosed in 1994, marking the first space burial.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/23/2026 5:01:50",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026"
+  },
+  {
     "id": "BLOG-20261022-521",
     "title": "Europe's Space Rider vehicle comes crashing down during drop test",
     "slug": "europe-s-space-rider-vehicle-comes-crashing-down-during-drop-test",
@@ -6472,31 +6498,5 @@
     "author": "Phys.org",
     "isFeatured": false,
     "sourceUrl": "https://phys.org/news/2026-10-smart-outdoor-sports-tournaments-environmental.html"
-  },
-  {
-    "id": "BLOG-20261021-186",
-    "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
-    "slug": "atomic-memory-keeps-distant-ions-entangled-for-about-10-seconds",
-    "content": "Atomic memory keeps distant ions entangled for about 10 seconds, a development that could extend the coherence time of quantum information stored in separate particles.  \n\nQuantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists need to devise strategies that allow distant particles to share quantum states, preserving them long enough to perform calculations or enable communication between devices.",
-    "summary": "Atomic memory can keep distant ions entangled for about 10 seconds, a step toward quantum networks. Quantum networks connect devices by exchanging information encoded in quantum states, requiring strategies that preserve entanglement long enough for calculations or communication.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "10/21/2026 18:24:12",
-    "author": "Phys.org",
-    "isFeatured": false,
-    "sourceUrl": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html"
-  },
-  {
-    "id": "BLOG-20261021-184",
-    "title": "Russia Performs World’s First Spinal Cord Transplant Using Donor Tissue",
-    "slug": "russia-performs-world-s-first-spinal-cord-transplant-using-donor-tissue",
-    "content": "A surgeon told New Scientist that a spinal cord transplant was performed in Russia on a patient with a complete spinal cord injury. The procedure utilized a piece of spinal cord from a brain-dead donor. However, researchers have raised concerns regarding the operation.",
-    "summary": "A surgeon performed the world’s first spinal cord transplant in Russia on a patient with a complete spinal cord injury. The transplant used a piece of spinal cord from a brain‑dead donor, but researchers have raised concerns.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "10/21/2026 18:22:51",
-    "author": "New Scientist",
-    "isFeatured": false,
-    "sourceUrl": "https://www.newscientist.com/article/2594991-the-worlds-first-spinal-cord-transplant-has-been-performed-in-russia/"
   }
 ]
