@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261023-306",
+    "title": "Rocket Lab launches three HawkEye 360 satellites into low Earth orbit",
+    "slug": "rocket-lab-launches-three-hawkeye-360-satellites-into-low-earth-orbit",
+    "content": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 23). The mission lifted off aboard an Electron rocket from Rocket Lab’s New Zealand launch site today at 3:11 a. M. EDT (0711 GMT; 8:11 p. M. Local time in New Zealand). The Electron carried three \"Hawk\" satellites for the Virginia-based company HawkEye 360, which explains the name Rocket Lab gave to the mission: \"We're Not Hawking Around.\" If all goes according to plan, the three Hawks will be deployed into low Earth orbit (LEO), at an altitude of 323 miles (520 kilometers). Once up there and commissioned, the satellites will scan the globe for radio frequency (RF) emissions. \"Operating in clusters of three, HawkEye 360's satellites collect signal data from across the RF spectrum for maritime tracking, GNSS jamming detection, radar monitoring, communications mapping and space defense,\" Rocket Lab wrote in a mission description. HawkEye 360 provides this data to the U. S. Government and its allies \"to enable faster, better decision-making,\" according to the company. \"Our space-based collection, proprietary signal processing and AI-powered analytics transform knowledge of the RF spectrum into a strategic advantage.\" The patch for Rocket Lab's \"We're Not Hawking Around\" mission. (Image credit: Rocket Lab) HawkEye 360's first satellites launched in 2018, and the company has now sent nearly 50 of them to LEO. The most recent Hawk launch before \"We're Not Hawking Around\" came just two days ago; three of the satellites went up on SpaceX 's Bandwagon-5 rideshare mission. \"We're Not Hawking Around \"was Rocket Lab's 98th launch to date and its 19th of 2026 so far. Sixteen of this year's flights have been performed by the two-stage, 59-foot-tall (18 meters) Electron. The other three have been conducted by HASTE, a suborbital variant of Electron that allows customers to test technologies in a hypersonic flight environment.",
+    "summary": "Rocket Lab launched three HawkEye 360 satellites aboard an Electron rocket from New Zealand on Oct. 23, aiming to deploy them into low Earth orbit at 323 miles. The satellites will scan the globe for radio frequency emissions to support maritime tracking, GNSS jamming detection, radar monitoring, communications mapping and space defense.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/23/2026 18:02:03",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence"
+  },
+  {
+    "id": "BLOG-20261023-303",
+    "title": "Mysterious caped figure aids London, some suspect Niko Omilana as Batman",
+    "slug": "mysterious-caped-figure-aids-london-some-suspect-niko-omilana-as-batman",
+    "content": "A mysterious caped figure has been helping people in London. Some observers suspect the individual may be Niko Omilana in a Batman disguise, though no proof has been presented.",
+    "summary": "A mysterious caped figure has been helping the people of London. Some are convinced it is Niko Omilana disguised as Batman, but no proof has been presented.",
+    "category": "Entertainment",
+    "categorySlug": "entertainment",
+    "publishedAt": "10/23/2026 18:01:56",
+    "author": "BBC Entertainment",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/bitesize/articles/zkk9g2p"
+  },
+  {
     "id": "BLOG-20261023-297",
     "title": "11-year-old Bodhana Sivanandan nears youngest female IM chess record",
     "slug": "11-year-old-bodhana-sivanandan-nears-youngest-female-im-chess-record",
@@ -6472,31 +6498,5 @@
     "author": "The Verge",
     "isFeatured": false,
     "sourceUrl": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield"
-  },
-  {
-    "id": "BLOG-20261021-470",
-    "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-    "slug": "meta-ordered-to-pay-25-billion-in-penalties-over-the-cambridge-analytica-scandal",
-    "content": "A New Mexico judge has ordered Meta to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. This ruling, linked to the Cambridge Analytica scandal, represents the largest legal loss for the company this year, occurring alongside other recent settlements and adverse rulings.\n\nThe decision follows a September jury verdict in which jurors found that Meta misled consumers regarding its data protection measures and its efforts to prevent misinformation and hate speech on its platforms. The legal action originated from a complaint filed in 2021, which was prompted by earlier revelations that UK political consultancy Cambridge Analytica harvested data from millions of users.",
-    "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/22/2026 3:01:58",
-    "author": "The Verge",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty"
-  },
-  {
-    "id": "BLOG-20261021-469",
-    "title": "Walmart to let customers connect AI agents for shopping on its site",
-    "slug": "walmart-to-let-customers-connect-ai-agents-for-shopping-on-its-site",
-    "content": "Walmart announced that it will soon let customers use AI agents to shop on its website. Beginning next month, shoppers can connect their own AI agent to the site, and the retailer has built in controls that allow users to approve and review purchases and set spending limits.  \n\nThe company has also issued a set of terms for the agents. Agents must not take actions beyond what the shopper intends, cannot change a customer’s payment method, and can only … (the final restriction was not fully disclosed). Walmart’s move contrasts with Amazon, which has blocked Perplexity’s shopping agent and Meta’s Muse AI assistant.",
-    "summary": "Walmart will allow shoppers to connect their own AI agents to its website next month, with tools to approve purchases and set spending limits. The retailer’s rules require agents to act only as the shopper intends, forbid changing payment methods, and contrast with Amazon’s blocking of Perplexity’s shopping agent and Meta’s Muse AI assistant.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/22/2026 3:01:54",
-    "author": "The Verge",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
   }
 ]
