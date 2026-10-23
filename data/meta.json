@@ -1,7 +1,7 @@
 {
-  "totalPosts": 40253,
+  "totalPosts": 40256,
   "recentCount": 500,
-  "archivedCount": 39753,
+  "archivedCount": 39756,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -48,12 +48,12 @@
     {
       "name": "Entertainment",
       "slug": "entertainment",
-      "count": 849
+      "count": 850
     },
     {
       "name": "Space",
       "slug": "space",
-      "count": 566
+      "count": 568
     },
     {
       "name": "Environment",
@@ -61,8 +61,8 @@
       "count": 517
     }
   ],
-  "todayArticles": 245,
-  "weekArticles": 2114,
-  "lastUpdated": "10/23/2026 22:32:35",
-  "generatedAt": "2026-10-23T17:03:37.709Z"
+  "todayArticles": 251,
+  "weekArticles": 2120,
+  "lastUpdated": "10/23/2026 22:42:08",
+  "generatedAt": "2026-10-23T17:12:59.977Z"
 }
