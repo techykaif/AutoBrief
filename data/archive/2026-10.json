@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261021-351",
+    "title": "T cell survival protein controls gene activity, offering clues to HIV persistence",
+    "slug": "t-cell-survival-protein-controls-gene-activity-offering-clues-to-hiv-persistence",
+    "content": "A new study published in Science Immunology suggests that a prominent protein on most human cells may be key to understanding human susceptibility to pathogenic bacteria and viruses, including HIV. The research was led by scientists from Purdue University and the National Heart, Lung, and Blood Institute.",
+    "summary": "A new study led by researchers at Purdue University and the National Heart, Lung, and Blood Institute was published in Science Immunology. The research suggests a prominent protein on most human cells may be key to understanding human susceptibility to pathogenic bacteria and viruses, including HIV.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "10/22/2026 0:04:17",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-cell-survival-protein-gene-clues.html"
+  },
+  {
+    "id": "BLOG-20261021-349",
+    "title": "Goldman Sachs, JPMorgan, Morgan Stanley earn $52B, hold 80% of equity trading market",
+    "slug": "goldman-sachs-jpmorgan-morgan-stanley-earn-52b-hold-80-of-equity-trading-market",
+    "content": "Wall Street’s Big Three, Goldman Sachs, JPMorgan, and Morgan Stanley, have generated $52 billion in equity trading revenue this year. The firms have captured approximately 80% of the market, a position attributed to rising margin lending to hedge funds.",
+    "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year. They are capturing about 80% of the market on rising margin lending to hedge funds.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "10/22/2026 0:02:05",
+    "author": "CNBC Business",
+    "isFeatured": false,
+    "sourceUrl": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
+  },
+  {
+    "id": "BLOG-20261021-346",
+    "title": "France 10‑year bond yield tops 5% as unrest and budget deadlock spook markets",
+    "slug": "france-10-year-bond-yield-tops-5-as-unrest-and-budget-deadlock-spook-markets",
+    "content": "French borrowing costs have surged past 5% for the first time in 24 years, driven by political instability and the government’s inability to agree on a delayed budget. This spike in yields reflects growing anxiety in financial markets, which were further unsettled by recent violent street protests that left some civic buildings smouldering.\n\nAs the second largest economy in the eurozone, France faces significant pressure from these economic headwinds. The combination of civil unrest and fiscal uncertainty has triggered a fresh wave of selling, pushing the interest rate on ten-year government bonds to historic levels.",
+    "summary": "The yield on France's 10‑year government bonds rose above 5%, the highest level in 24 years, amid the failure to pass a budget and fallout from violent street protests. Continued unrest, with some civic buildings still smouldering, prompted fresh selling that pushed the yield higher on bonds issued by the eurozone's second‑largest economy.",
+    "category": "Business",
+    "categorySlug": "business",
+    "publishedAt": "10/22/2026 0:01:58",
+    "author": "Guardian Business",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
+  },
+  {
+    "id": "BLOG-20261021-342",
+    "title": "Africa's bats face climate change and land‑use threats",
+    "slug": "africa-s-bats-face-climate-change-and-land-use-threats",
+    "content": "Climate change and land-use changes pose the two greatest threats to wildlife by altering the environments necessary for animal survival. Understanding how species respond to these pressures is essential for developing effective conservation strategies.",
+    "summary": "Climate change and changes in land use are the two biggest threats to wildlife, including Africa's bats. Understanding how species respond to these pressures is essential for conservation planning.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/21/2026 23:53:55",
+    "author": "Phys.org",
+    "isFeatured": false,
+    "sourceUrl": "https://phys.org/news/2026-10-africa-survive-climate.html"
+  },
+  {
     "id": "BLOG-20261021-341",
     "title": "New tool tracks viral RNA in live infected cells in real time",
     "slug": "new-tool-tracks-viral-rna-in-live-infected-cells-in-real-time",
