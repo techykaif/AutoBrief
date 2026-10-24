@@ -5,7 +5,7 @@ import { Github, Globe, Twitter, Rss, Database, Bot, Cpu, ArrowRight } from "luc
 import { Badge } from "@/components/ui/badge"
 import { SITE_URL } from "@/lib/site"
 
-const AUTHOR_URL = "https://techykaif.site"
+const AUTHOR_URL = "https://www.techykaif.site"
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
