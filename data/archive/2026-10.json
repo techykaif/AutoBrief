@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261022-244",
+    "title": "VBoy Color emulator adds full-color palette to Nintendo Virtual Boy games",
+    "slug": "vboy-color-emulator-adds-full-color-palette-to-nintendo-virtual-boy-games",
+    "content": "A new emulator called VBoy Color expands on the earlier Red Viper Virtual Boy emulator by introducing a tile‑based palette system that supports many more colors in each frame. According to the emulator’s readme files, game‑specific “Color Packs” can assign a distinct four‑color palette to each 8×8 tile, rather than merely swapping the original four shades of red for four different hues.\n\nThe approach lets the emulator differentiate objects that shared the same red tones in the original hardware. For example, in Mario Clash the emulator can render green pipes, grey platforms and red brick walls with separate palettes, and in titles such as Jack Bros. or Vertical Force it improves contrast between the player character and busy red backgrounds. The resulting visuals are described as reminiscent of a Game Boy Color‑style display, as if Nintendo had originally equipped the Virtual Boy with a full‑color screen.",
+    "summary": "VBoy Color is an emulator that uses a tile‑based palette system to assign a distinct four‑color palette to each 8×8 tile in Virtual Boy games. This lets titles such as Mario Clash, Jack Bros. and Vertical Force display many more colors and improve contrast compared with the original red‑on‑red display.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 0:52:34",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/"
+  },
+  {
+    "id": "BLOG-20261022-243",
+    "title": "Guinea-Bissau rejects US‑funded hepatitis B newborn vaccine trial",
+    "slug": "guinea-bissau-rejects-us-funded-hepatitis-b-newborn-vaccine-trial",
+    "content": "Government officials in Guinea‑Bissau have formally rejected a clinical trial that would be conducted by Danish researchers and financed by the United States. The study was intended to investigate alleged nonspecific harms from the newborn dose of the hepatitis B vaccine, a dose that is currently recommended worldwide and has been used safely for decades.\n\nIn an email to Ars Technica, lead researcher Christine Stabell Benn of the Bandim Health Project and the University of Southern Denmark said that Guinea‑Bissau’s Council of Ministers “formally reaffirmed its non‑acceptance of the study on 16 October.” The rejection was reported after judicial police in the country raided the Bandim Health offices and seized vaccines; the police action followed the council’s decision.",
+    "summary": "Government officials in Guinea‑Bissau formally rejected a US‑funded clinical trial by Danish researchers that aimed to investigate alleged nonspecific harms of the newborn hepatitis B vaccine. The Council of Ministers reaffirmed its non‑acceptance on 16 October, and judicial police subsequently raided the Bandim Health Project offices and seized vaccines.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 0:52:20",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/"
+  },
+  {
+    "id": "BLOG-20261022-242",
+    "title": "Meta ordered to pay $25 billion fine after New Mexico rejects settlement",
+    "slug": "meta-ordered-to-pay-25-billion-fine-after-new-mexico-rejects-settlement",
+    "content": "A jury in New Mexico found Meta guilty of nearly 44 million violations of state consumer‑protection laws, ordering the company to pay a $25 billion fine. The penalty is the largest ever imposed on Meta, according to the court’s ruling.\n\nThe fine followed New Mexico Attorney General Raúl Torrez’s decision not to join an $18 billion settlement that Meta had reached earlier this year with attorneys general in almost every other state. Torrez’s refusal left New Mexico to pursue its own case against the tech giant.\n\nIn his opinion issued Wednesday, US district court judge Francis J. Mathew noted that there is no “bright line rule” for setting a penalty for Meta’s repeated and willful deception of users since 2010 over issues such as data control, third‑party data misuse, misinformation, hate speech, and equal enforcement.",
+    "summary": "Meta must pay $25 billion to New Mexico after a jury found it guilty of nearly 44 million violations of state consumer protection laws. The penalty follows New Mexico Attorney General Raúl Torrez’s decision not to join an $18 billion multistate settlement Meta reached earlier this year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 0:42:50",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
+  },
+  {
     "id": "BLOG-20261022-241",
     "title": "Spotify says QR code check for Family Plan is routine improvement, not crackdown",
     "slug": "spotify-says-qr-code-check-for-family-plan-is-routine-improvement-not-crackdown",
