@@ -16,7 +16,7 @@ import {
 const parser = new Parser({
   timeout: 10000,
   headers: {
-    "User-Agent": "AutoBrief RSS Reader/1.0 (https://autobrief-ai.netlify.app)",
+    "User-Agent": "AutoBrief RSS Reader/1.0 (https://autobrief.blog)",
   },
 })
 
