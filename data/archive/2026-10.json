@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261023-371",
+    "title": "Apple Music features hidden first-generation iPod on 404 pages",
+    "slug": "apple-music-features-hidden-first-generation-ipod-on-404-pages",
+    "content": "Users discovered a hidden, fully functional virtual iPod on Apple Music’s 404 error page on Friday. This easter egg, identified via social media, appears when accessing non-existent pages on the platform by adding random characters to the main URL. The virtual device features a recreation of the first-generation iPod.\n\nThe embedded player is stocked with tracks from the early 2000s, including Coldplay’s \"Viva La Vida\" and Gorillaz’s \"Feel Good Inc.\" This nostalgic addition allows users to listen to music through the interface of the original portable media player.",
+    "summary": "Apple Music now displays a virtual recreation of the first-generation iPod on its 404 error page. The hidden feature is stocked with music from the early 2000s and can be accessed by entering a non-existent URL.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 22:02:21",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"
+  },
+  {
+    "id": "BLOG-20261023-370",
+    "title": "iPhone Duo: Essential Tips for New Owners After Preorder Lottery",
+    "slug": "iphone-duo-essential-tips-for-new-owners-after-preorder-lottery",
+    "content": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands on one today, you'll see what that means. You'll laugh, you'll cry, you'll lose track of the volume buttons as you turn the thing around. We've learned a few tricks over the past week of flipping and folding the Duo as much as we could. Here are our favorite tips and hacks for newly minted Duo owners. You can set orientation lock on each screen independent …",
+    "summary": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 22:02:17",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe"
+  },
+  {
+    "id": "BLOG-20261023-369",
+    "title": "Sigma FP2 Adds Upgrades to World's Smallest Full-Frame Camera",
+    "slug": "sigma-fp2-adds-upgrades-to-world-s-smallest-full-frame-camera",
+    "content": "Sigma has announced the FP2, a compact full-frame mirrorless camera that marks a seven-year evolution from its original fp model. The new device features an improved sensor, an articulating LCD display, and extended battery life. While the company continues to label the FP2 as the \"world's smallest\" full-frame shooter, the additional upgrades have increased the body-only weight by approximately six grams compared to its predecessor.\n\nThe Sigma FP2 is scheduled for release on November 11th. Pricing begins at $2,199 for the camera body alone. Customers can also purchase a bundle for $2,749 that includes Sigma's upgraded EVF-21 viewfinder, which features a 5.76 millimeter display.",
+    "summary": "Sigma announced the FP2, a compact full-frame camera with an improved sensor, articulating LCD, and longer battery life, though its weight is about six grams heavier than the original fp. The FP2 will ship on November 11th, starting at $2,199 for the body and $2,749 for a bundle with the upgraded EVF-21 viewfinder.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/23/2026 22:02:11",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade"
+  },
+  {
     "id": "BLOG-20261023-368",
     "title": "Meta delays new business terms after publishers object to AI scraping",
     "slug": "meta-delays-new-business-terms-after-publishers-object-to-ai-scraping",
