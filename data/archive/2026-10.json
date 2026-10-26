@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261024-312",
+    "title": "LG C6 OLED TV on Sale with $400 Discount Ahead of Black Friday",
+    "slug": "lg-c6-oled-tv-on-sale-with-400-discount-ahead-of-black-friday",
+    "content": "LG has begun its early Black Friday promotion, offering its C6 OLED TV at discounted prices through November 1. The 55‑inch model is available for $999.99, a $400 reduction from its regular price, with Amazon and Best Buy matching the offer. The 65‑inch version is on sale for $1,399.99, a $300 discount, also available at Amazon, Best Buy, and directly from LG. A 77‑inch C6 can be purchased for $1,999.99 from Amazon, down from $2,499.99. Purchases made directly from LG include a free Xbox Wireless Controller and a complimentary wall mount.\n\nThe C6 builds on last year’s C5 with several upgrades. It features the Alpha 11 AI Gen3 processor, which improves picture and sound quality, and a brighter display. The refresh rate is increased to 165 Hz, up from 144 Hz, and the TV retains four HDMI 2.1 ports with support for AMD FreeSync Premium and Nvidia G‑Sync. OLED technology delivers deep blacks, vibrant color, and high contrast. The TV supports Dolby Vision and Dolby Atmos, and it has built‑in streaming apps such as Netflix and HBO Max. Google Cast, Apple AirPlay 2, and Matter support enable easy content sharing and smart‑home integration.\n\nLG has addressed recent concerns about data collection on its smart TVs. The company states that its TVs do not continuously record conversations and that voice‑recognition and interest‑based advertising features are optional and disabled by default. While some data‑collection practices remain under scrutiny, they do not affect the C6’s feature set.",
+    "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/24/2026 23:52:48",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"
+  },
+  {
+    "id": "BLOG-20261024-311",
+    "title": "Fielded Evolves from Experimental Noise to Restless R&B with 2020 Album",
+    "slug": "fielded-evolves-from-experimental-noise-to-restless-r-b-with-2020-album",
+    "content": "Lindsay Powell, who releases music under the name Fielded, has built a career around subverting expectations and genre conventions. According to her Bandcamp page, Fielded began as an experimental noise project before evolving into a sound closer to R&B, but the artist has always approached the genre with a restless, boundary‑pushing attitude.\n\nFielded’s debut album, Ninety‑Thirty‑Thirty, features tracks heavily indebted to ’80s synth‑pop and includes multiple saxophone solos. The follow‑up, Boy Angel, is described as a quirky electronic exploration that uses huge saw‑wave synths, jittery percussion, and sky‑high vocal stacks. In 2020, the artist released Demisexual Lovelace, continuing her exploration of unconventional musical forms.",
+    "summary": "Fielded Evolves from Experimental Noise to Restless R&B with 2020 Album.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/24/2026 23:52:43",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview"
+  },
+  {
+    "id": "BLOG-20261024-310",
+    "title": "Study finds Grok AI favors Republicans, OpenAI GPT favors Democrats in 500 races",
+    "slug": "study-finds-grok-ai-favors-republicans-openai-gpt-favors-democrats-in-500-races",
+    "content": "A new study compared the political recommendations of two AI models, Grok and OpenAI's GPT.\n\nThe study found Grok's AI overwhelmingly recommended Republican candidates, while GPT favored Democrats. The models disagreed in more than 90% of nearly 500 election races.",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats. The two AI models disagreed in more than 90% of nearly 500 election races.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/24/2026 23:52:36",
+    "author": "TechCrunch",
+    "isFeatured": false,
+    "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+  },
+  {
+    "id": "BLOG-20261024-309",
+    "title": "Developers unveil cassette, notebook, flight tracker, toaster apps for iPhone Duo",
+    "slug": "developers-unveil-cassette-notebook-flight-tracker-toaster-apps-for-iphone-duo",
+    "content": "Developers are releasing a range of inventive apps—such as retro cassette‑player simulations, virtual notebooks, flight‑tracking tools and a digital toaster—to demonstrate the capabilities of Apple’s first foldable device, the iPhone Duo. These creations highlight how the new form factor can be leveraged for diverse user experiences.",
+    "summary": "Developers are creating retro cassette player, virtual notebook, flight tracker and digital toaster apps for Apple’s first foldable iPhone. These apps showcase creative ways to take advantage of the iPhone Duo’s capabilities.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/24/2026 23:52:30",
+    "author": "TechCrunch",
+    "isFeatured": false,
+    "sourceUrl": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/"
+  },
+  {
     "id": "BLOG-20261024-308",
     "title": "Two critical PHP bugs threatened to upend the internet",
     "slug": "two-critical-php-bugs-threatened-to-upend-the-internet",
