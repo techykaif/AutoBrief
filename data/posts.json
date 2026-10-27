@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261027-385",
+    "title": "SpaceX Falcon 9 lifts off early Oct. 27 from Vandenberg, deploys 27 Starlink satellites",
+    "slug": "spacex-falcon-9-lifts-off-early-oct-27-from-vandenberg-deploys-27-starlink-satel",
+    "content": "SpaceX successfully launched a new batch of 27 Starlink satellites into low Earth orbit on October 27, 2026. The Falcon 9 rocket lifted off at 3:25 a.m. EDT (0725 GMT) from Pad 4E at Vandenberg Space Force Base in California. The mission, designated Starlink Group 15-16, marked the 117th Falcon 9 launch of the year, with approximately three-quarters of these launches dedicated to the company’s satellite network.\n\nThe flight featured a successful first-stage booster landing. Booster B1082 separated from the upper stage approximately 2.5 minutes into the flight and adjusted its trajectory to land on SpaceX’s droneship, Of Course I Still Love You (OCISLY), in the Pacific Ocean. The booster touched down at T+8:23, just seconds before the Falcon 9’s second stage completed its first engine burn. This marked B1082’s 21st Starlink mission and its 26th overall flight, following previous missions including USSF-62, OneWeb Launch 20, NROL-145, and Transporter-18.\n\nAfter liftoff, the upper stage ignited its engine for a second time about 53 minutes later. This brief three-second burn circularized the orbit, followed several minutes later by the deployment of the Starlink payloads. While SpaceX’s Starlink network currently consists of more than 11,000 active spacecraft, the pace of bulk deliveries has slowed as the company shifts focus to developing its larger Starship rocket. Plans to retire the Falcon 9 have already begun, a process that included ending Starlink launches from Florida earlier this year.",
+    "summary": "A new stack of Starlink satellites is now in orbit following an early morning SpaceX launch from California. A Falcon 9 rocket lifted off at 3:25 a.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "10/27/2026 22:52:15",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly"
+  },
+  {
     "id": "BLOG-20261027-379",
     "title": "‘If a person isn’t conscious, they’re not saying yes’: Cynthia Erivo on her searing new film about sexual assault",
     "slug": "if-a-person-isn-t-conscious-they-re-not-saying-yes-cynthia-erivo-on-her-searing",
@@ -6485,18 +6498,5 @@
     "author": "DW World",
     "isFeatured": false,
     "sourceUrl": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-xml-mrss"
-  },
-  {
-    "id": "BLOG-20261025-336",
-    "title": "Prague exhibition honors over 1,400 Roma who fought Nazis in Czechoslovakia",
-    "slug": "prague-exhibition-honors-over-1-400-roma-who-fought-nazis-in-czechoslovakia",
-    "content": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague now showcases the stories of these partisans and soldiers, whose fates had received little attention for decades.",
-    "summary": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of those partisans and soldiers, whose fates have received little attention for decades.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/26/2026 2:43:04",
-    "author": "DW World",
-    "isFeatured": false,
-    "sourceUrl": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-xml-mrss"
   }
 ]
