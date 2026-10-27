@@ -1,7 +1,7 @@
 {
-  "totalPosts": 41182,
+  "totalPosts": 41199,
   "recentCount": 500,
-  "archivedCount": 40682,
+  "archivedCount": 40699,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -13,12 +13,12 @@
     {
       "name": "World",
       "slug": "world",
-      "count": 13800
+      "count": 13816
     },
     {
       "name": "Technology",
       "slug": "technology",
-      "count": 8702
+      "count": 8703
     },
     {
       "name": "Science",
@@ -61,8 +61,8 @@
       "count": 531
     }
   ],
-  "todayArticles": 199,
-  "weekArticles": 2159,
-  "lastUpdated": "10/27/2026 16:03:17",
-  "generatedAt": "2026-10-27T10:34:07.603Z"
+  "todayArticles": 208,
+  "weekArticles": 2168,
+  "lastUpdated": "10/27/2026 16:13:39",
+  "generatedAt": "2026-10-27T10:44:22.001Z"
 }
