@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261026-190",
+    "title": "MIT develops implantable ultrasound device to boost brain drug delivery for glioblastoma",
+    "slug": "mit-develops-implantable-ultrasound-device-to-boost-brain-drug-delivery-for-glio",
+    "content": "MIT researchers have introduced a new implantable device intended to improve drug delivery to the brain, particularly for patients with glioblastoma, an aggressive brain tumor. The device, named LUCID (Long‑term Ultrasound‑enhanced Convective Injection Device), combines a drug‑reservoir with an array of 24 miniature ultrasound transducers that generate sound waves at the tip of a 3‑D‑printed cannula. The ultrasound is designed to help drug molecules travel farther through brain tissue and to temporarily increase the permeability of the blood‑brain barrier.\n\nThe implant can be placed in the skull during tumor‑removal surgery. Its reservoir holds roughly 100 microliters of fluid, and drug infusion is driven by a passive osmotic pump. Ultrasound dosing is programmed wirelessly via a Bluetooth‑enabled controller, while a small rechargeable battery powers the transducers. According to senior author Canan Dagdeviren, an associate professor of media arts and sciences at MIT, the system offers clinicians flexibility in the size, length, and number of infusions.\n\nIn laboratory tests, the researchers demonstrated that ultrasound‑assisted delivery spread molecules significantly farther than passive diffusion alone. Experiments using a gel‑like “tissue phantom” and a mouse model—where an MRI contrast agent was delivered—showed enhanced distribution when the ultrasound array was activated. Lead author Sarah Ornellas noted that this localized, programmable enhancement could reduce systemic toxicity while improving drug reach within the target area.\n\nBeyond small‑molecule chemotherapy, the team suggests the platform could deliver immunotherapies, nucleic acids, or gene‑therapy agents, and may be adaptable for soft‑tissue treatments in organs other than the brain. The study, published in the journal Device, lists co‑authors from MIT, Harvard Medical School, Massachusetts General Hospital, Boston University and other institutions. Funding for the work came from the MIT Media Lab Consortium and the National Institutes of Health.",
+    "summary": "MIT researchers designed an implantable drug‑delivery device that includes a reservoir and 24 ultrasound transducers to release drugs and enhance their spread in the brain. In tissue‑phantom tests and a mouse study, ultrasound activation increased molecule distribution, and the device can be programmed wirelessly via Bluetooth.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/27/2026 2:22:08",
+    "author": "MIT News",
+    "isFeatured": false,
+    "sourceUrl": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026"
+  },
+  {
+    "id": "BLOG-20261026-189",
+    "title": "Arctic winter sea ice could vanish faster, up to 1 million km² less than predicted",
+    "slug": "arctic-winter-sea-ice-could-vanish-faster-up-to-1-million-km-less-than-predicted",
+    "content": "New research indicates Arctic winter sea ice may vanish faster than earlier expectations. The study used climate clues from 6,000‑year‑old ocean sediments compared with modern climate models, finding future winter ice coverage could be about one million square kilometers less than prior forecasts.",
+    "summary": "New research using climate clues from 6,000 years ago indicates Arctic winter sea ice could disappear much faster than previously expected. Comparing ancient ocean sediments with modern climate models, researchers estimate future winter ice coverage may be about one million square kilometers smaller than earlier predictions.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/27/2026 2:22:02",
+    "author": "Science Daily",
+    "isFeatured": false,
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm"
+  },
+  {
+    "id": "BLOG-20261026-188",
+    "title": "AI system REDMOD spots pancreatic cancer signs 475 days before diagnosis",
+    "slug": "ai-system-redmod-spots-pancreatic-cancer-signs-475-days-before-diagnosis",
+    "content": "A new artificial‑intelligence system named REDMOD can detect pancreatic cancer long before it appears on standard imaging. The technology identified hidden warning signs an average of 475 days prior to a formal diagnosis and demonstrated nearly double the sensitivity of experienced radiologists. By revealing cancer‑related changes at an early stage, REDMOD may substantially increase the likelihood of successful treatment for pancreatic cancer, a disease noted for its high mortality.",
+    "summary": "The AI system called REDMOD identified hidden warning signs of pancreatic cancer an average of 475 days before diagnosis. It was nearly twice as sensitive as experienced radiologists, potentially improving treatment chances for the deadly disease.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/27/2026 2:21:56",
+    "author": "Science Daily",
+    "isFeatured": false,
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
+  },
+  {
+    "id": "BLOG-20261026-187",
+    "title": "Chinese scientists find giant fungus “D-rex” dating to 65 million years ago",
+    "slug": "chinese-scientists-find-giant-fungus-d-rex-dating-to-65-million-years-ago",
+    "content": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about how that ancient catastrophe may have shaped its evolution.",
+    "summary": "Chinese scientists have discovered a giant new fungus in China called “D-rex” that can grow up to 20 inches tall and weigh nearly five pounds, making it the largest known of its kind. Its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, about 65 million years ago.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/27/2026 2:21:50",
+    "author": "Science Daily",
+    "isFeatured": false,
+    "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm"
+  },
+  {
     "id": "BLOG-20261026-186",
     "title": "Possible 4,500‑year‑old shipwreck discovered off Turkey's coast",
     "slug": "possible-4-500-year-old-shipwreck-discovered-off-turkey-s-coast",
