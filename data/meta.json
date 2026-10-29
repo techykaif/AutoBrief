@@ -1,7 +1,7 @@
 {
-  "totalPosts": 42033,
+  "totalPosts": 42034,
   "recentCount": 500,
-  "archivedCount": 41533,
+  "archivedCount": 41534,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -48,7 +48,7 @@
     {
       "name": "Entertainment",
       "slug": "entertainment",
-      "count": 903
+      "count": 904
     },
     {
       "name": "Space",
@@ -61,8 +61,8 @@
       "count": 546
     }
   ],
-  "todayArticles": 257,
-  "weekArticles": 2294,
-  "lastUpdated": "10/30/2026 3:03:28",
-  "generatedAt": "2026-10-29T21:34:22.175Z"
+  "todayArticles": 260,
+  "weekArticles": 2297,
+  "lastUpdated": "10/30/2026 3:12:05",
+  "generatedAt": "2026-10-29T21:43:22.066Z"
 }
