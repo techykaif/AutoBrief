@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261027-435",
+    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+    "slug": "ford-simplifies-using-your-ev-as-a-home-battery-with-the-30k-fathom",
+    "content": "Ford announced that the forthcoming Fathom, a sub‑$30,000 electric pickup truck slated for release next year, will include built‑in vehicle‑to‑home technology. Unlike the now‑discontinued F‑150 Lightning, which relied on a wallbox inverter to convert DC power from the vehicle into AC for the home, the Fathom’s inverter is integrated into the truck itself. This design means every Fathom will be able to function as a backup battery for a household.\n\nThe company’s reveal comes amid a broader shift toward affordable electric trucks. Ford’s Fathom is priced about $5,000 higher than a competing “Blank Slate” pickup from a new startup. The Slate is marketed as a bare‑bones two‑door vehicle that omits an onboard modem, touchscreens, and an infotainment system, focusing on the features the internet suggests consumers want.\n\nIn contrast, the Fathom offers additional doors, a modern infotainment system, CarPlay, electric windows, and access to Ford’s extensive dealership network. These extras may appeal to buyers who value service convenience, especially given Ford’s history of frequent recalls.",
+    "summary": "Ford simplifies using your EV as a home battery with the $30K Fathom.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/28/2026 2:32:27",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+  },
+  {
+    "id": "BLOG-20261027-434",
+    "title": "Warner Bros. releases final trailer for Dune: Part Three",
+    "slug": "warner-bros-releases-final-trailer-for-dune-part-three",
+    "content": "Warner Bros. has released the final trailer for Dune: Part Three, the last film in Denis Villeneuve’s adaptation of Frank Herbert’s novels. The new clip arrives ahead of the pre‑Christmas release of the movie.\n\nThe action‑packed trailer focuses on the iconic anti‑hero Paul Atreides, portrayed by Timothée Chalamet, and sets up the film’s final act. It follows the momentum built in earlier promotional material, including a broody extended teaser in March and a July trailer that packed in hints and Easter eggs for fans of the books.\n\nA brief recap of the first two films shows that 2021’s Dune ended with the brutal defeat of House Atreides by rival House Harkonnen. Paul and his mother, Lady Jessica (Rebecca Ferguson), flee to the desert and take refuge among the Fremen, where Paul meets Chani (Zendaya), a woman he has been seeing in visions.",
+    "summary": "Warner Bros. releases final trailer for Dune: Part Three.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/28/2026 2:32:20",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
+  },
+  {
+    "id": "BLOG-20261027-433",
+    "title": "China team releases natural-language protein design tool",
+    "slug": "china-team-releases-natural-language-protein-design-tool",
+    "content": "Protein‑design software is becoming more powerful, yet it still demands a deep understanding of protein structure. Users must specify details such as the exact positions of amino acids involved in enzyme mechanisms and the water molecules present in the catalytic site. Once these parameters are set, the software can generate the remainder of the protein around the target.\n\nA large collaboration of researchers in China has developed a new tool that accepts natural‑language prompts to produce proteins with a user‑specified function. While the success rate for producing fully functional proteins is modest, the team reports that the tool can still deliver usable designs.\n\nSeparately, Hugging Face announced that it now hosts a similar tool for DNA‑level design. The combination of natural‑language input and automated design—sometimes called “vibe coding”—may bring protein design to a broader audience, provided users have laboratory resources to evaluate and refine the resulting proteins.",
+    "summary": "A collaboration of researchers in China has released a protein design tool that accepts natural language prompts to generate proteins with specified functions. Hugging Face also announced a similar DNA‑level design tool, though the new protein tool's success rate is modest and requires lab validation to separate good designs from failures.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/28/2026 2:32:13",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+  },
+  {
+    "id": "BLOG-20261027-432",
+    "title": "Google opens applications for Android Registered App Stores program launching Dec. 1",
+    "slug": "google-opens-applications-for-android-registered-app-stores-program-launching-de",
+    "content": "Google has announced that its Android Registered App Stores program will officially launch on December 1, and applications to join the program are now open. The program follows a court‑ordered requirement that U.S. users have access to app stores within Google Play, while international users can participate through Google’s voluntary program.\n\nStores that are accepted into the program will receive preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, mirroring the Play Store experience, and the stores will also be permitted to update apps silently in the background.\n\nA Google spokesperson noted that the program was first announced in March to give third‑party app stores a more streamlined way to reach users while maintaining the safety and security of the Android ecosystem. Eligible app stores outside the U.S. can now apply to register their stores ahead of the new simplified installation experience that will roll out to users later this year.",
+    "summary": "Google announced that third‑party app stores outside the United States can now apply to its Registered App Stores program, which will launch on Dec. 1. Accepted stores will receive preferential treatment on Android, enabling single‑click installs and silent background updates, with support rolling out to some devices later this year.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/28/2026 2:32:06",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+  },
+  {
     "id": "BLOG-20261027-424",
     "title": "Flávio Bolsonaro reportedly left Brazil for US after election defeat",
     "slug": "fl-vio-bolsonaro-reportedly-left-brazil-for-us-after-election-defeat",
