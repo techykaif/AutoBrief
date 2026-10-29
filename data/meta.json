@@ -1,7 +1,7 @@
 {
-  "totalPosts": 41784,
+  "totalPosts": 41785,
   "recentCount": 500,
-  "archivedCount": 41284,
+  "archivedCount": 41285,
   "archiveMonths": [
     "2026-10",
     "2026-09",
@@ -33,7 +33,7 @@
     {
       "name": "Sports",
       "slug": "sports",
-      "count": 3896
+      "count": 3897
     },
     {
       "name": "Health",
@@ -63,6 +63,6 @@
   ],
   "todayArticles": 18,
   "weekArticles": 2055,
-  "lastUpdated": "10/29/2026 7:52:40",
-  "generatedAt": "2026-10-29T02:23:33.262Z"
+  "lastUpdated": "10/29/2026 8:02:05",
+  "generatedAt": "2026-10-29T02:33:08.042Z"
 }
