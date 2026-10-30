@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261030-578",
+    "title": "Chemists create disappearing tattoos: Here's the science behind how they work",
+    "slug": "chemists-create-disappearing-tattoos-here-s-the-science-behind-how-they-work",
+    "content": "Chemists have developed disappearing tattoos that allow individuals to make ink invisible for job interviews and reveal it again for evening events. While the technology currently sounds like science fiction, the source suggests it may soon become a reality.",
+    "summary": "How handy would it be if you could make your tattoos invisible for a job interview in the morning, and reveal them again for a party in the evening? This sounds like science fiction, but it may soon be reality.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/31/2026 5:02:13",
+    "author": "Phys.org",
+    "isFeatured": false,
+    "sourceUrl": "https://phys.org/news/2026-10-chemists-tattoos-science.html"
+  },
+  {
+    "id": "BLOG-20261030-571",
+    "title": "Sketch Stadium enables AI agents to play Pictionary via Wakeshift SDK",
+    "slug": "sketch-stadium-enables-ai-agents-to-play-pictionary-via-wakeshift-sdk",
+    "content": "Sketch Stadium is a new platform that allows artificial intelligence agents to play Pictionary. The project was initially developed as a proof-of-concept for delivering push notifications to AI agents but has been released as a standalone demonstration. Users can connect their own agents to the platform or simply observe ongoing games via a provided link.\n\nIn the game, agents subscribe to game events and take turns either drawing or guessing clues. The scoring system awards one point for easy clues, two for medium, and three for hard. The developer noted that the initial version allowed agents to draw lines ten at a time to mimic real Pictionary, but this method proved ineffective. The platform now permits agents to use a subset of SVG for drawing, which has improved performance even for lower-cost models.\n\nTo integrate an agent, users do not need to create an account; they only need to add the MCP and authorize it. The project serves as a technical demo for Wakeshift, a cross-harness SDK designed to provide push notifications for agents. This tool attaches to an MCP to allow consumers to subscribe to real-time events and uses specific methods per harness to wake dormant agents.\n\nThe developer explained that agents often initiate processes with indeterminate completion times, such as continuous integration or waiting for approvals. Currently, there is no consistent method to wake agents via webhook or push notification, forcing reliance on polling or bespoke integrations. The developer previously addressed this challenge with Clawvisor, where long-polling was the best-supported method for recognizing out-of-band approval actions. Wakeshift aims to solve this by providing a simple SDK that upgrades automatically as harnesses adopt MCP events.",
+    "summary": "The platform allows agents to subscribe to game events and take turns drawing or guessing using a subset of SVG. The project serves as a tech demo for Wakeshift, an SDK designed to provide push notifications for AI agents.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:59",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://sketch.wakeshift.ai/games/q5ucru"
+  },
+  {
+    "id": "BLOG-20261030-570",
+    "title": "Demo Shows FlashAttention Kernel Derived from ~25 Lines of SQL Using New SQL Extensions",
+    "slug": "demo-shows-flashattention-kernel-derived-from-25-lines-of-sql-using-new-sql-exte",
+    "content": "A developer has shared a demonstration on Hacker News that automatically deduces a FlashAttention kernel using approximately 25 lines of SQL. The SQL code expresses vanilla attention, a feat made possible by three portable SQL extensions currently under development. These extensions include xarray-sql, a library designed to represent petabyte-scale array datasets in the cloud as tables; ddx, a database extension that adds automatic differentiation in the style of JAX to standard SQL; and einfold, a modular query planner for fast tensor contractions.\n\nThe project is built on the thesis that separating logical layers in tensor programs from physical layers is both more correct and more scalable. The author suggests that the relational model and algebra offer fresh perspectives on accelerator programming, proposing to formalize the \"Bitter Lesson\" of machine learning using relational algebra. The post invites interest from those working at the intersection of database theory and ML systems, directing them to a Discord community for further engagement.",
+    "summary": "An automatic demo derives a FlashAttention kernel from about 25 lines of SQL using three portable SQL extensions: xarray-sql, ddx, and einfold. The authors invite readers to join their Discord community to explore relational algebra for accelerator programming.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:54",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py"
+  },
+  {
+    "id": "BLOG-20261030-569",
+    "title": "Supply chain attack spreads malicious Anthropic Claude extensions to thousands of devices",
+    "slug": "supply-chain-attack-spreads-malicious-anthropic-claude-extensions-to-thousands-o",
+    "content": "A supply‑chain attack distributed malicious Anthropic Claude extensions to thousands of devices. A flaw in the tainted extension’s code limited the attacker’s ability to fully infiltrate roughly 5,000 developer machines, preventing a complete worming of those systems.",
+    "summary": "A supply chain attack placed malicious Anthropic Claude extensions on thousands of devices. Flawed code in a tainted Claude extension limited the attacker’s ability to fully compromise about 5,000 developer machines.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:48",
+    "author": "Wired",
+    "isFeatured": false,
+    "sourceUrl": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
+  },
+  {
     "id": "BLOG-20261030-562",
     "title": "Rare meteorite from Mars gives us a view into its ancient crust",
     "slug": "rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
@@ -6446,57 +6498,5 @@
     "author": "Euronews",
     "isFeatured": false,
     "sourceUrl": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks"
-  },
-  {
-    "id": "BLOG-20261029-238",
-    "title": "Visitors to Amsterdam's Rembrandt House Museum can get his art as tattoos",
-    "slug": "visitors-to-amsterdam-s-rembrandt-house-museum-can-get-his-art-as-tattoos",
-    "content": "Visitors to Amsterdam’s Rembrandt House Museum can now take home a piece of the Dutch master’s art in the form of a permanent tattoo. The museum offers the option for guests to have Rembrandt’s masterpieces inked onto their skin.",
-    "summary": "Visitors to the Rembrandt House Museum in Amsterdam can once again take home a piece of the Dutch master's art as a permanent tattoo. The tattoos let them carry Rembrandt's masterpieces on their skin.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/29/2026 21:14:56",
-    "author": "Euronews",
-    "isFeatured": false,
-    "sourceUrl": "https://www.euronews.com/video/2026/10/29/rembrandts-masterpieces-become-tattoos-in-the-netherlands"
-  },
-  {
-    "id": "BLOG-20261029-237",
-    "title": "Serbia’s Student List confronts foreign policy, governing challenges after win",
-    "slug": "serbia-s-student-list-confronts-foreign-policy-governing-challenges-after-win",
-    "content": "Serbia’s Student List has won an election, a result the source says has fundamentally changed the country’s political landscape. The victory, however, is described as possibly the easier part, as the student movement now faces foreign‑policy and governing challenges.",
-    "summary": "The victory of Serbia’s Student List has fundamentally changed the country’s political landscape. Winning the election may prove to have been the easier part.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/29/2026 21:14:48",
-    "author": "Euronews",
-    "isFeatured": false,
-    "sourceUrl": "https://www.euronews.com/2026/10/29/after-the-victory-the-foreign-policy-and-governing-challenges-facing-serbias-student-movem"
-  },
-  {
-    "id": "BLOG-20261029-236",
-    "title": "Albanian opposition MPs disrupt parliament with smoke flares, protest police violence",
-    "slug": "albanian-opposition-mps-disrupt-parliament-with-smoke-flares-protest-police-viol",
-    "content": "Opposition MPs disrupted a parliamentary session in Albania, brandishing smoke flares and showing photographs of injured protesters. They accused the police of using violence against demonstrators who were calling for Prime Minister Edi Rama’s resignation.",
-    "summary": "Opposition MPs disrupted a parliamentary session in Albania by brandishing smoke flares and displaying photographs of injured protesters. They accused police of using violence against demonstrators demanding Prime Minister Edi Rama's resignation.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/29/2026 21:14:40",
-    "author": "Euronews",
-    "isFeatured": false,
-    "sourceUrl": "https://www.euronews.com/video/2026/10/29/albania-opposition-mps-disrupt-parliament-with-smoke-flares"
-  },
-  {
-    "id": "BLOG-20261029-235",
-    "title": "DRC opposition coalition C64 meets in Rome, urges inclusive dialogue",
-    "slug": "drc-opposition-coalition-c64-meets-in-rome-urges-inclusive-dialogue",
-    "content": "The Democratic Republic of Congo’s main opposition coalition, C64, convened in Rome on Tuesday. Its five leaders, speaking from the Italian capital amid pressure to respond to Joseph Kabila’s rebellion, condemned any seizure of power by force and urged an inclusive dialogue, according to FRANCE 24’s Emmet Livingston.",
-    "summary": "The Democratic Republic of Congo's main opposition coalition, C64, met in Rome on Tuesday. Its five leaders condemned any seizure of power by force and called for inclusive dialogue in response to Joseph Kabila’s rebellion.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "10/29/2026 21:14:31",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/video/20261029-drc-c64-opposition-coalition-meets-in-rome-calls-for-inclusive-dialogue"
   }
 ]
