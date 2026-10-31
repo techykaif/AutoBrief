@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261029-264",
+    "title": "Apple announces first touchscreen MacBook",
+    "slug": "apple-announces-first-touchscreen-macbook",
+    "content": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet touched it, and I still can't quite believe it. Steve Jobs first called touchscreen laptops \"ergonomically terrible\" in 2010, arguing that \"touch surfaces don't want to be vertical\" and that using one for an extended period of time makes \"your arm want to fall off.\" He wasn't wrong about the fatigue aspect of using a touchscreen laptop for long periods of time, but …",
+    "summary": "Apple announces first touchscreen MacBook.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/29/2026 21:33:05",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator"
+  },
+  {
+    "id": "BLOG-20261029-263",
+    "title": "Anthropic's Business Plan: Build a Machine God or Face Bankruptcy",
+    "slug": "anthropic-s-business-plan-build-a-machine-god-or-face-bankruptcy",
+    "content": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT contracts, Anthropic has just offered a handy solution: Doing a bunch of things that look like you're trying to build the machine god is the only way to avoid going bankrupt. Forget about the machine god for a minute. At least in my read of the S-1, it seems like Anthropic is pinning the future of its company to dramatic growth; it has to, in orde …",
+    "summary": "The S‑1 shows Anthropic plans to spend heavily on compute to avoid bankruptcy. Anthropic frames building a machine god as a way to secure dramatic growth and keep the company afloat.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/29/2026 21:32:53",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+  },
+  {
     "id": "BLOG-20261029-261",
     "title": "Amazon adds editing features for grocery lists and gift registries to Alexa for Shopping",
     "slug": "amazon-adds-editing-features-for-grocery-lists-and-gift-registries-to-alexa-for",

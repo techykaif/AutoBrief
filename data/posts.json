@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261031-018",
+    "title": "Rex Patrick wins bid to access docs on 2004 Australian spy bugging of Timor-Leste",
+    "slug": "rex-patrick-wins-bid-to-access-docs-on-2004-australian-spy-bugging-of-timor-lest",
+    "content": "Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the world Get our daily political email, free app or daily news podcast A campaign to uncover any documents relating to whether Australian spies bugged Timor-Leste to gain the upper hand in sensitive oil and gas negotiations will be a little less secret after a critical win by the former senator Rex Patrick. The politician turned transparency advocate is trying to finally lift the lid on the top-secret mission in 2004 that became a public scandal years later after an ex-spy and a former attorney general attempted to mount a case in The Hague.",
+    "summary": "Former senator and transparency advocate Rex Patrick is seeking documents on whether Australian spies bugged Timor-Leste during 2004 oil and gas negotiations. He secured a critical win to lift the secrecy on the mission that later became a public scandal after an ex‑spy and former attorney general tried to bring a case before the Hague.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/31/2026 7:52:37",
+    "author": "Guardian World",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb"
+  },
+  {
+    "id": "BLOG-20261031-017",
+    "title": "US cancels G20 family photo after Australia, UK refuse to appear with Russia",
+    "slug": "us-cancels-g20-family-photo-after-australia-uk-refuse-to-appear-with-russia",
+    "content": "The U.S. has cancelled the customary “family photo” that opens the G20 foreign ministers’ meeting.\n\nThe decision follows refusals by several countries, including Australia and the United Kingdom, to stand beside Russian Foreign Minister Sergei Lavrov in the snapshot.\n\nSecretary of State Marco Rubio ended the photo op after European officials, the UK and Australia announced they would boycott or walk out of the session.",
+    "summary": "US cancels G20 family photo after Australia, UK refuse to appear with Russia.",
+    "category": "World",
+    "categorySlug": "world",
+    "publishedAt": "10/31/2026 7:52:30",
+    "author": "Guardian World",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+  },
+  {
     "id": "BLOG-20261030-618",
     "title": "‘There’s a new chapter to write’: Le Bris upbeat as Sunderland eye Coventry reunion",
     "slug": "there-s-a-new-chapter-to-write-le-bris-upbeat-as-sunderland-eye-coventry-reunion",
@@ -6472,31 +6498,5 @@
     "author": "The Verge",
     "isFeatured": false,
     "sourceUrl": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
-  },
-  {
-    "id": "BLOG-20261029-264",
-    "title": "Apple announces first touchscreen MacBook",
-    "slug": "apple-announces-first-touchscreen-macbook",
-    "content": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet touched it, and I still can't quite believe it. Steve Jobs first called touchscreen laptops \"ergonomically terrible\" in 2010, arguing that \"touch surfaces don't want to be vertical\" and that using one for an extended period of time makes \"your arm want to fall off.\" He wasn't wrong about the fatigue aspect of using a touchscreen laptop for long periods of time, but …",
-    "summary": "Apple announces first touchscreen MacBook.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/29/2026 21:33:05",
-    "author": "The Verge",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator"
-  },
-  {
-    "id": "BLOG-20261029-263",
-    "title": "Anthropic's Business Plan: Build a Machine God or Face Bankruptcy",
-    "slug": "anthropic-s-business-plan-build-a-machine-god-or-face-bankruptcy",
-    "content": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT contracts, Anthropic has just offered a handy solution: Doing a bunch of things that look like you're trying to build the machine god is the only way to avoid going bankrupt. Forget about the machine god for a minute. At least in my read of the S-1, it seems like Anthropic is pinning the future of its company to dramatic growth; it has to, in orde …",
-    "summary": "The S‑1 shows Anthropic plans to spend heavily on compute to avoid bankruptcy. Anthropic frames building a machine god as a way to secure dramatic growth and keep the company afloat.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/29/2026 21:32:53",
-    "author": "The Verge",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
   }
 ]
