@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261102-048",
+    "title": "Kangaroos face internal threat as Rugby League World Cup knockout stage begins",
+    "slug": "kangaroos-face-internal-threat-as-rugby-league-world-cup-knockout-stage-begins",
+    "content": "The Rugby League World Cup has entered its knockout phase, and Australia’s national side, the Kangaroos, sit atop the competition with three wins from three matches. While the team has struggled to overcome the errors and disconnection of its first two games, it remains the front‑runner and is pursuing the trophy for a fourth consecutive tournament in front of home supporters.\n\nThree remaining opponents are set to test the Kangaroos, yet the article notes a growing sense of unease, suggesting that the most significant threat may arise from within the Australian camp itself.",
+    "summary": "The Kangaroos have won three of three matches and are pursuing a fourth consecutive Rugby League World Cup title. As the tournament reaches the knockout stage, the team faces a potential internal threat despite upcoming tests from three remaining opponents.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/2/2026 11:42:47",
+    "author": "Guardian Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/sport/2026/nov/02/australia-rugby-league-world-cup-kangaroos-vs-samoa-semi-final"
+  },
+  {
+    "id": "BLOG-20261102-047",
+    "title": "Australia rests Pat Cummins, Mitchell Starc and Josh Hazlewood for England ODIs and T20s",
+    "slug": "australia-rests-pat-cummins-mitchell-starc-and-josh-hazlewood-for-england-odis-a",
+    "content": "Australia’s one‑day and T20 squads for the upcoming series against England will not include Test captain Pat Cummins, nor fast‑bowling partners Mitchell Starc and Josh Hazlewood. The trio were omitted from both the three‑ODI and five‑T20 international squads announced on Monday, with officials saying the rest will help them prepare for a demanding schedule of ten Tests in fourteen weeks this summer.\n\nThe England side is set to introduce debutants Beardman and Shaw as the series approaches.",
+    "summary": "Pat Cummins, Mitchell Starc and Josh Hazlewood will be rested for Australia's upcoming one‑day and T20 series against England. The trio were omitted from the ODI and T20 squads announced on Monday as part of a refresh ahead of a demanding summer Test schedule.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/2/2026 11:42:35",
+    "author": "Guardian Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/sport/2026/nov/02/australia-test-captain-pat-cummins-to-miss-upcoming-england-matches"
+  },
+  {
+    "id": "BLOG-20261102-042",
+    "title": "BBC panel says Declan Rice is a rounded Arsenal midfielder but could be more selfish, says Murphy",
+    "slug": "bbc-panel-says-declan-rice-is-a-rounded-arsenal-midfielder-but-could-be-more-sel",
+    "content": "BBC Sport’s Kelly Cates and Micah Richards noted that Declan Rice has become a rounded presence in Arsenal’s midfield. Former player Danny Murphy added that, were Rice more selfish, he would likely increase his goal tally.",
+    "summary": "BBC Sport's Kelly Cates and Micah Richards discuss how Declan Rice has become a rounded midfielder for Arsenal. Danny Murphy argues that if Rice were more selfish he would score more goals.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/2/2026 11:42:21",
+    "author": "BBC Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o"
+  },
+  {
     "id": "BLOG-20261102-040",
     "title": "Arsenal defender Jurrien Timber denies Liverpool penalty claim over Isak pull",
     "slug": "arsenal-defender-jurrien-timber-denies-liverpool-penalty-claim-over-isak-pull",
@@ -6459,44 +6498,5 @@
     "author": "Hacker News",
     "isFeatured": false,
     "sourceUrl": "https://sketch.wakeshift.ai/games/q5ucru"
-  },
-  {
-    "id": "BLOG-20261030-570",
-    "title": "Demo Shows FlashAttention Kernel Derived from ~25 Lines of SQL Using New SQL Extensions",
-    "slug": "demo-shows-flashattention-kernel-derived-from-25-lines-of-sql-using-new-sql-exte",
-    "content": "A developer has shared a demonstration on Hacker News that automatically deduces a FlashAttention kernel using approximately 25 lines of SQL. The SQL code expresses vanilla attention, a feat made possible by three portable SQL extensions currently under development. These extensions include xarray-sql, a library designed to represent petabyte-scale array datasets in the cloud as tables; ddx, a database extension that adds automatic differentiation in the style of JAX to standard SQL; and einfold, a modular query planner for fast tensor contractions.\n\nThe project is built on the thesis that separating logical layers in tensor programs from physical layers is both more correct and more scalable. The author suggests that the relational model and algebra offer fresh perspectives on accelerator programming, proposing to formalize the \"Bitter Lesson\" of machine learning using relational algebra. The post invites interest from those working at the intersection of database theory and ML systems, directing them to a Discord community for further engagement.",
-    "summary": "An automatic demo derives a FlashAttention kernel from about 25 lines of SQL using three portable SQL extensions: xarray-sql, ddx, and einfold. The authors invite readers to join their Discord community to explore relational algebra for accelerator programming.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/31/2026 5:01:54",
-    "author": "Hacker News",
-    "isFeatured": false,
-    "sourceUrl": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py"
-  },
-  {
-    "id": "BLOG-20261030-569",
-    "title": "Supply chain attack spreads malicious Anthropic Claude extensions to thousands of devices",
-    "slug": "supply-chain-attack-spreads-malicious-anthropic-claude-extensions-to-thousands-o",
-    "content": "A supply‑chain attack distributed malicious Anthropic Claude extensions to thousands of devices. A flaw in the tainted extension’s code limited the attacker’s ability to fully infiltrate roughly 5,000 developer machines, preventing a complete worming of those systems.",
-    "summary": "A supply chain attack placed malicious Anthropic Claude extensions on thousands of devices. Flawed code in a tainted Claude extension limited the attacker’s ability to fully compromise about 5,000 developer machines.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/31/2026 5:01:48",
-    "author": "Wired",
-    "isFeatured": false,
-    "sourceUrl": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
-  },
-  {
-    "id": "BLOG-20261030-562",
-    "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-    "slug": "rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
-    "content": "A team of scientists led by Yang Liu of NASA's Jet Propulsion Laboratory has identified a third genuinely ancient Martian meteorite, Teghaza 001. Discovered in the Sahara Desert in Mali in 2022, the rock formed at least 4.1 billion years ago. This discovery adds to the limited number of known ancient Martian samples, which previously included Allan Hills 84001 from Antarctica and a rock from northwest Africa known as Black Beauty. The finding provides a new perspective on Mars’ ancient crust, as most other Martian meteorites on Earth are significantly younger, dating to 2.4 billion years or less.\n\nLiu noted that the rarity of old Martian rocks on Earth may be due to the physical conditions required for a rock to leave the planet. A large impact is necessary to launch material into space, but not all rocks can survive such an event. Weak or loose material may fail to cement into a solid rock capable of overcoming Mars’ gravity. Consequently, the impact process itself acts as a natural filter, preventing weaker rocks from reaching Earth.",
-    "summary": "Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "10/31/2026 4:52:41",
-    "author": "Ars Technica",
-    "isFeatured": false,
-    "sourceUrl": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
   }
 ]

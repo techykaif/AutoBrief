@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261030-570",
+    "title": "Demo Shows FlashAttention Kernel Derived from ~25 Lines of SQL Using New SQL Extensions",
+    "slug": "demo-shows-flashattention-kernel-derived-from-25-lines-of-sql-using-new-sql-exte",
+    "content": "A developer has shared a demonstration on Hacker News that automatically deduces a FlashAttention kernel using approximately 25 lines of SQL. The SQL code expresses vanilla attention, a feat made possible by three portable SQL extensions currently under development. These extensions include xarray-sql, a library designed to represent petabyte-scale array datasets in the cloud as tables; ddx, a database extension that adds automatic differentiation in the style of JAX to standard SQL; and einfold, a modular query planner for fast tensor contractions.\n\nThe project is built on the thesis that separating logical layers in tensor programs from physical layers is both more correct and more scalable. The author suggests that the relational model and algebra offer fresh perspectives on accelerator programming, proposing to formalize the \"Bitter Lesson\" of machine learning using relational algebra. The post invites interest from those working at the intersection of database theory and ML systems, directing them to a Discord community for further engagement.",
+    "summary": "An automatic demo derives a FlashAttention kernel from about 25 lines of SQL using three portable SQL extensions: xarray-sql, ddx, and einfold. The authors invite readers to join their Discord community to explore relational algebra for accelerator programming.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:54",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py"
+  },
+  {
+    "id": "BLOG-20261030-569",
+    "title": "Supply chain attack spreads malicious Anthropic Claude extensions to thousands of devices",
+    "slug": "supply-chain-attack-spreads-malicious-anthropic-claude-extensions-to-thousands-o",
+    "content": "A supply‑chain attack distributed malicious Anthropic Claude extensions to thousands of devices. A flaw in the tainted extension’s code limited the attacker’s ability to fully infiltrate roughly 5,000 developer machines, preventing a complete worming of those systems.",
+    "summary": "A supply chain attack placed malicious Anthropic Claude extensions on thousands of devices. Flawed code in a tainted Claude extension limited the attacker’s ability to fully compromise about 5,000 developer machines.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:48",
+    "author": "Wired",
+    "isFeatured": false,
+    "sourceUrl": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
+  },
+  {
+    "id": "BLOG-20261030-562",
+    "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+    "slug": "rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
+    "content": "A team of scientists led by Yang Liu of NASA's Jet Propulsion Laboratory has identified a third genuinely ancient Martian meteorite, Teghaza 001. Discovered in the Sahara Desert in Mali in 2022, the rock formed at least 4.1 billion years ago. This discovery adds to the limited number of known ancient Martian samples, which previously included Allan Hills 84001 from Antarctica and a rock from northwest Africa known as Black Beauty. The finding provides a new perspective on Mars’ ancient crust, as most other Martian meteorites on Earth are significantly younger, dating to 2.4 billion years or less.\n\nLiu noted that the rarity of old Martian rocks on Earth may be due to the physical conditions required for a rock to leave the planet. A large impact is necessary to launch material into space, but not all rocks can survive such an event. Weak or loose material may fail to cement into a solid rock capable of overcoming Mars’ gravity. Consequently, the impact process itself acts as a natural filter, preventing weaker rocks from reaching Earth.",
+    "summary": "Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 4:52:41",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
+  },
+  {
     "id": "BLOG-20261030-561",
     "title": "DoorDash CEO: AI agents generate only several hundred orders per quarter",
     "slug": "doordash-ceo-ai-agents-generate-only-several-hundred-orders-per-quarter",
