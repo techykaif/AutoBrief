@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261030-588",
+    "title": "Historic measles outbreak in Pennsylvania Amish country sparks vaccine openness",
+    "slug": "historic-measles-outbreak-in-pennsylvania-amish-country-sparks-vaccine-openness",
+    "content": "Amish and Mennonite shoppers in conservative dress recently mingled with the wider public at a large outdoor market in Pennsylvania. The vendors at the event sold items including colorful pumpkins, mums, fry pies, squash, sports jerseys, and Barbie accessories.",
+    "summary": "Historic measles outbreak in Pennsylvania Amish country sparks vaccine openness.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "10/31/2026 5:11:58",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-historic-measles-outbreak-pennsylvania-amish.html"
+  },
+  {
+    "id": "BLOG-20261030-587",
+    "title": "Study finds living alone raises death risk more for adults 18-64 than seniors",
+    "slug": "study-finds-living-alone-raises-death-risk-more-for-adults-18-64-than-seniors",
+    "content": "A recent study published in the International Journal of Epidemiology reports that living alone poses a greater risk of death for adults aged 18 to 64 than for seniors. The research suggests that loneliness, long known to affect older adults, may be even more detrimental to the health of younger and middle‑aged individuals.",
+    "summary": "A new study reported in the International Journal of Epidemiology finds that living alone increases the risk of death from many causes, especially for adults aged 18 to 64. Loneliness has been considered a major health risk for seniors, but the research suggests younger and middle‑aged adults may be at greater risk.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "10/31/2026 5:11:53",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-10-riskier-young-middle-aged-adults.html"
+  },
+  {
+    "id": "BLOG-20261030-578",
+    "title": "Chemists create disappearing tattoos: Here's the science behind how they work",
+    "slug": "chemists-create-disappearing-tattoos-here-s-the-science-behind-how-they-work",
+    "content": "Chemists have developed disappearing tattoos that allow individuals to make ink invisible for job interviews and reveal it again for evening events. While the technology currently sounds like science fiction, the source suggests it may soon become a reality.",
+    "summary": "How handy would it be if you could make your tattoos invisible for a job interview in the morning, and reveal them again for a party in the evening? This sounds like science fiction, but it may soon be reality.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "10/31/2026 5:02:13",
+    "author": "Phys.org",
+    "isFeatured": false,
+    "sourceUrl": "https://phys.org/news/2026-10-chemists-tattoos-science.html"
+  },
+  {
+    "id": "BLOG-20261030-571",
+    "title": "Sketch Stadium enables AI agents to play Pictionary via Wakeshift SDK",
+    "slug": "sketch-stadium-enables-ai-agents-to-play-pictionary-via-wakeshift-sdk",
+    "content": "Sketch Stadium is a new platform that allows artificial intelligence agents to play Pictionary. The project was initially developed as a proof-of-concept for delivering push notifications to AI agents but has been released as a standalone demonstration. Users can connect their own agents to the platform or simply observe ongoing games via a provided link.\n\nIn the game, agents subscribe to game events and take turns either drawing or guessing clues. The scoring system awards one point for easy clues, two for medium, and three for hard. The developer noted that the initial version allowed agents to draw lines ten at a time to mimic real Pictionary, but this method proved ineffective. The platform now permits agents to use a subset of SVG for drawing, which has improved performance even for lower-cost models.\n\nTo integrate an agent, users do not need to create an account; they only need to add the MCP and authorize it. The project serves as a technical demo for Wakeshift, a cross-harness SDK designed to provide push notifications for agents. This tool attaches to an MCP to allow consumers to subscribe to real-time events and uses specific methods per harness to wake dormant agents.\n\nThe developer explained that agents often initiate processes with indeterminate completion times, such as continuous integration or waiting for approvals. Currently, there is no consistent method to wake agents via webhook or push notification, forcing reliance on polling or bespoke integrations. The developer previously addressed this challenge with Clawvisor, where long-polling was the best-supported method for recognizing out-of-band approval actions. Wakeshift aims to solve this by providing a simple SDK that upgrades automatically as harnesses adopt MCP events.",
+    "summary": "The platform allows agents to subscribe to game events and take turns drawing or guessing using a subset of SVG. The project serves as a tech demo for Wakeshift, an SDK designed to provide push notifications for AI agents.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "10/31/2026 5:01:59",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://sketch.wakeshift.ai/games/q5ucru"
+  },
+  {
     "id": "BLOG-20261030-570",
     "title": "Demo Shows FlashAttention Kernel Derived from ~25 Lines of SQL Using New SQL Extensions",
     "slug": "demo-shows-flashattention-kernel-derived-from-25-lines-of-sql-using-new-sql-exte",
