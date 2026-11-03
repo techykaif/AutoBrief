@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261101-027",
+    "title": "Manchester United's 9 points in 7 games suggests a full season under 30, raising relegation fears",
+    "slug": "manchester-united-s-9-points-in-7-games-suggests-a-full-season-under-30-raising",
+    "content": "Manchester United have accumulated nine points after seven league matches. At that rate, projecting the same pace over a full season would yield fewer than 30 points, a total that would typically place a club in relegation danger.",
+    "summary": "Manchester United have accumulated nine points from their first seven league matches. If that scoring rate continued, they would finish the season with fewer than 30 points.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/1/2026 7:52:31",
+    "author": "BBC Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo"
+  },
+  {
+    "id": "BLOG-20261101-026",
+    "title": "North Korean hacking group linked to $6.3B Binance breach",
+    "slug": "north-korean-hacking-group-linked-to-6-3b-binance-breach",
+    "content": "A North Korea‑based cybercrime group is identified as the source of a $6.3 billion hack of the cryptocurrency exchange Binance. Blockchain intelligence firms TRM Labs and Chainalysis linked the incident—the largest crypto hack on record—to TraderTraitor, a North Korean hacking unit previously known for targeting the digital‑asset sector.",
+    "summary": "A North Korea-based cybercrime group is alleged to have hacked Binance for $6.3 billion. Blockchain intelligence firms TRM Labs and Chainalysis tied the breach to TraderTraitor, a North Korean hacking unit that has previously targeted the digital asset industry.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "11/1/2026 7:52:25",
+    "author": "The Hill",
+    "isFeatured": false,
+    "sourceUrl": "https://thehill.com/policy/technology/6184178-north-korea-binance-crypto-hack/"
+  },
+  {
+    "id": "BLOG-20261101-025",
+    "title": "‘You Can See Everything’ film critiques modern manufactured reality",
+    "slug": "you-can-see-everything-film-critiques-modern-manufactured-reality",
+    "content": "The film “You Can See Everything,” created by Fielder and Oppenheim, presents a view in which everything can be seen, yet the creators emphasize that seeing does not equal knowing. According to the description, the film’s effectiveness stems from its awareness of this distinction.",
+    "summary": "The film “You Can See Everything” shows that seeing everything does not equal knowing. Directors Fielder and Oppenheim make the film effective by recognizing this distinction.",
+    "category": "Politics",
+    "categorySlug": "politics",
+    "publishedAt": "11/1/2026 7:52:20",
+    "author": "The Hill",
+    "isFeatured": false,
+    "sourceUrl": "https://thehill.com/opinion/technology/6182255-elizabeth-holmes-theranos-documentary/"
+  },
+  {
     "id": "BLOG-20261101-024",
     "title": "Blackburn's governor bid opens possible Senate seat for Defense Secretary Hegseth",
     "slug": "blackburn-s-governor-bid-opens-possible-senate-seat-for-defense-secretary-hegset",
