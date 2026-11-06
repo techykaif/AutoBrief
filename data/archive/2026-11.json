@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261104-482",
+    "title": "Hugging Face CEO Says His P(Doom) Is Close to Zero",
+    "slug": "hugging-face-ceo-says-his-p-doom-is-close-to-zero",
+    "content": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "summary": "Hugging Face CEO Clément Delangue said his P(Doom) is close to zero. He added that most risk is created by a couple of players building behind closed doors and highlighted the need for open source AI.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/5/2026 3:33:03",
+    "author": "Wired",
+    "isFeatured": false,
+    "sourceUrl": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
+  },
+  {
+    "id": "BLOG-20261104-481",
+    "title": "White House Officials Seek New Blame for Republican Losses",
+    "slug": "white-house-officials-seek-new-blame-for-republican-losses",
+    "content": "White House officials, including Pete Hegseth, and aides, along with right‑wing pundits, are racing to find a scapegoat other than Donald Trump for the Republicans’ catastrophic losses.",
+    "summary": "Top officials, including Pete Hegseth, White House aides, and right‑wing pundits are searching for someone other than Donald Trump to blame for the Republicans’ catastrophic losses. They are trying to find a new target for the party’s defeat.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/5/2026 3:32:56",
+    "author": "Wired",
+    "isFeatured": false,
+    "sourceUrl": "https://www.wired.com/story/knives-are-out-in-the-white-house/"
+  },
+  {
+    "id": "BLOG-20261104-478",
+    "title": "Leading the Future Super PAC’s $100M War Chest Fails to Affect Midterms",
+    "slug": "leading-the-future-super-pac-s-100m-war-chest-fails-to-affect-midterms",
+    "content": "Leading the Future, a pro‑AI Super PAC network backed by Silicon Valley’s biggest billionaires, amassed a war chest of $100 million and adopted an aggressive stance against AI regulation. Despite these resources, the effort had little impact on Tuesday night’s midterm elections.",
+    "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/5/2026 3:32:47",
+    "author": "Wired",
+    "isFeatured": false,
+    "sourceUrl": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
+  },
+  {
+    "id": "BLOG-20261104-476",
+    "title": "ChatGPT can now create animated GIFs from prompts or photos",
+    "slug": "chatgpt-can-now-create-animated-gifs-from-prompts-or-photos",
+    "content": "OpenAI has added a new feature that lets ChatGPT create animated GIFs directly within the chat. Users can generate a GIF by typing a prompt or uploading a photo, and the system will produce the animation in a single step. The update, released alongside the Images 2.6 model, also provides tools to adjust the GIF’s playback speed, edit individual frames, and share the finished file with others.\n\nPreviously, ChatGPT could not natively produce GIFs. In a demonstration, the AI responded to the prompt “can you make a gif of a cat dancing?” by generating the animation and offering options to change the speed and view each frame. The Images 2.6 update expands the platform’s image‑generation capabilities beyond static pictures.",
+    "summary": "ChatGPT can now generate GIFs from a prompt or an uploaded photo. The update also lets users adjust animation speed, edit frames, and share the GIF.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/5/2026 3:32:39",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+  },
+  {
     "id": "BLOG-20261104-475",
     "title": "Therapist Suggests Throwing Amazon Bee Frontier Out the Window",
     "slug": "therapist-suggests-throwing-amazon-bee-frontier-out-the-window",
