@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261107-044",
+    "title": "AI smartwatch detects high blood pressure with sensitivity similar to office screening",
+    "slug": "ai-smartwatch-detects-high-blood-pressure-with-sensitivity-similar-to-office-scr",
+    "content": "A paper in Nature reports that an AI system can detect hypertension by interpreting sensor readings from a consumer smartwatch. Tests of the system show it achieves sensitivities similar to traditional office-based blood pressure screening methods.",
+    "summary": "A paper in Nature reports that an AI system can interpret smartwatch sensor readings to detect hypertension. Tests using a consumer smartwatch show the system detects high blood pressure with sensitivity similar to traditional office-based screening methods.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/7/2026 9:02:05",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-ai-powered-smartwatch-high-blood.html"
+  },
+  {
+    "id": "BLOG-20261107-043",
+    "title": "Liver Drug Added to World's Largest Parkinson's Trial to Slow Disease Progression",
+    "slug": "liver-drug-added-to-world-s-largest-parkinson-s-trial-to-slow-disease-progressio",
+    "content": "A liver drug is set to join the world's largest clinical trial for Parkinson's disease treatments. The medication is being considered for its potential to slow the progression of the condition.",
+    "summary": "A liver drug could be used to slow down the progression of Parkinson's disease. It has joined the world's largest trial of Parkinson's treatments.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/7/2026 9:01:59",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-drug-discovery-scientists-world-largest.html"
+  },
+  {
+    "id": "BLOG-20261107-041",
+    "title": "Gene therapy shows sustained efficacy four years after treatment for Crigler-Najjar syndrome",
+    "slug": "gene-therapy-shows-sustained-efficacy-four-years-after-treatment-for-crigler-naj",
+    "content": "The New England Journal of Medicine has published a study evaluating the long‑term efficacy of AAV8‑mediated gene therapy (GNT0003) in patients with Crigler‑Najjar syndrome. The report shows that the therapy’s benefits are maintained four years after treatment.  \n\nCrigler‑Najjar syndrome is an extremely rare congenital liver disorder that affects roughly 500 people in Europe. It results from a deficiency of the enzyme UGT1A1, which is required for bilirubin metabolism. When bilirubin accumulates, it can cause irreversible neurological damage and, in the most severe cases, death.",
+    "summary": "The New England Journal of Medicine has published a study on the long-term efficacy of AAV8-mediated gene therapy (GNT0003) in patients with Crigler-Najjar syndrome, an extremely rare congenital liver disorder affecting approximately 500 people in Europe. It is caused by a deficiency of UGT1A1, an enzyme required for bilirubin metabolism.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/7/2026 9:01:54",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-crigler-najjar-syndrome-gene-therapy.html"
+  },
+  {
+    "id": "BLOG-20261107-040",
+    "title": "South African trial tests off-the-shelf killer cells against lymphoma",
+    "slug": "south-african-trial-tests-off-the-shelf-killer-cells-against-lymphoma",
+    "content": "South African researchers are testing \"off-the-shelf\" immune cells against lymphoma that has relapsed or resisted prior treatment. This approach investigates a method that avoids manufacturing individualized therapies from each patient’s own cells.",
+    "summary": "South African researchers are testing \"off-the-shelf\" immune cells against lymphoma that has returned or resisted treatment, investigating an approach that avoids having to manufacture a separate treatment from each patient's own cells.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/7/2026 8:53:47",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-south-african-trial-shelf-killer.html"
+  },
+  {
     "id": "BLOG-20261107-039",
     "title": "Bariatric surgery effective after GLP-1 failure, study finds",
     "slug": "bariatric-surgery-effective-after-glp-1-failure-study-finds",
