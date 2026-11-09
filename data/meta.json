@@ -1,7 +1,7 @@
 {
-  "totalPosts": 44764,
+  "totalPosts": 44783,
   "recentCount": 500,
-  "archivedCount": 44264,
+  "archivedCount": 44283,
   "archiveMonths": [
     "2026-11",
     "2026-10",
@@ -24,7 +24,7 @@
     {
       "name": "Science",
       "slug": "science",
-      "count": 5721
+      "count": 5740
     },
     {
       "name": "Politics",
@@ -64,6 +64,6 @@
   ],
   "todayArticles": 304,
   "weekArticles": 1959,
-  "lastUpdated": "11/10/2026 2:13:31",
-  "generatedAt": "2026-11-09T20:44:24.071Z"
+  "lastUpdated": "11/10/2026 2:23:59",
+  "generatedAt": "2026-11-09T20:54:51.667Z"
 }
