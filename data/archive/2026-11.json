@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261109-245",
+    "title": "Google says schools blocking its AI tools could lose access to Search, prompting criticism",
+    "slug": "google-says-schools-blocking-its-ai-tools-could-lose-access-to-search-prompting",
+    "content": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and administrators to restrict their use. The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine.",
+    "summary": "Google announced new AI tools for schools and said teachers and administrators could restrict their use. The company warned that schools blocking its AI tools would also lose access to Google Search, drawing criticism from parents and teachers across the US.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/10/2026 1:53:46",
+    "author": "Guardian Technology",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai"
+  },
+  {
+    "id": "BLOG-20261109-244",
+    "title": "AI leaders warn extinction risk even as superintelligence remains out of reach",
+    "slug": "ai-leaders-warn-extinction-risk-even-as-superintelligence-remains-out-of-reach",
+    "content": "The same technical limits that prevent superintelligence make these systems dangerous. But we know how to regulate them Many Silicon Valley leaders believe superintelligence is an imminent threat to society. The White House even published an accord about it. This isn’t enough. Geoffrey Hinton, the godfather of AI, estimates the risk of human extinction is at least 10% within the next few decades. The Anthropic CEO, Dario Amodei, argued that unchecked AI “could outrun our ability to understand and control these systems”. In response, 1,300 leaders and employees from many leading AI companies signed a letter calling to “deliberately pace” development.",
+    "summary": "The same technical limits that prevent superintelligence make these systems dangerous. But we know how to regulate them Many Silicon Valley leaders believe superintelligence is an imminent threat to society.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/10/2026 1:53:37",
+    "author": "Guardian Technology",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk"
+  },
+  {
+    "id": "BLOG-20261109-243",
+    "title": "Trump, Musk and Silicon Valley back Nvidia CEO Jensen Huang amid spy‑affair probe",
+    "slug": "trump-musk-and-silicon-valley-back-nvidia-ceo-jensen-huang-amid-spy-affair-probe",
+    "content": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. “I have not ​spoken to him about it,” the US president told reporters on Sunday. “I just know he’s a fine person, but you never know what is going on. I’m sure, I hope everything’s fine. He’s done such an incredible job”.",
+    "summary": "Donald Trump, Elon Musk and other prominent finance moguls have expressed support for Nvidia CEO Jensen Huang as he faces an internal investigation over a romantic relationship with an alleged Chinese spy. Huang admitted the affair in an email to employees, and Nvidia’s board is said to need to do some succession planning.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/10/2026 1:53:29",
+    "author": "Guardian Technology",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+  },
+  {
+    "id": "BLOG-20261109-242",
+    "title": "Palantir lobbied health minister Zubir Ahmed to extend AI tools to NHS GP records",
+    "slug": "palantir-lobbied-health-minister-zubir-ahmed-to-extend-ai-tools-to-nhs-gp-record",
+    "content": "Palantir, the U.S. data‑analytics firm, used a direct WhatsApp channel to press health minister Zubir Ahmed MP to consider extending the company’s artificial‑intelligence technology to General Practitioner (GP) records. In the messages, Palantir argued that “the logic of joining up primary and secondary [care] data is unarguable” and described its software as “ideal” for that purpose.\n\nThe lobbying effort took place in February, even though GP data had been expressly excluded from the scope of Palantir’s existing £330 million contract with NHS England for its federated data platform (FDP). The company says the FDP has helped cut surgery waiting times and discharge delays. Palantir was co‑founded by billionaire Peter Thiel, identified in the report as a Trump‑supporting figure.",
+    "summary": "WhatsApp messages show Palantir pressed MP Zubir Ahmed to help bring sensitive GP data onto its platform. The lobbying occurred in February despite GP data being expressly excluded from Palantir’s existing £330m NHS England contract for its federated data platform.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/10/2026 1:53:20",
+    "author": "Guardian Technology",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records"
+  },
+  {
     "id": "BLOG-20261109-240",
     "title": "Women protest in Manila demand “Trump out” ahead of 49th ASEAN summit",
     "slug": "women-protest-in-manila-demand-trump-out-ahead-of-49th-asean-summit",
