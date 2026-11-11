@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261110-523",
+    "title": "The PlayStation Plus PC app is shutting down next month",
+    "slug": "the-playstation-plus-pc-app-is-shutting-down-next-month",
+    "content": "Sony is set to retire the PlayStation Plus app for PC on December 10th, ending its cloud streaming feature for the platform. The company announced that it will directly notify users regarding the shutdown.\n\nSony stated that fewer than 0.4% of eligible PlayStation Plus Premium members were using the PC streaming perk. The company explained that this change allows it to focus on enhancing high-quality experiences that a larger portion of its members prefer to use.",
+    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/11/2026 5:42:15",
+    "author": "The Verge",
+    "isFeatured": false,
+    "sourceUrl": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+  },
+  {
+    "id": "BLOG-20261110-518",
+    "title": "November Pixel Drop brings new icon styles and Gemini AI features to Pixel 10",
+    "slug": "november-pixel-drop-brings-new-icon-styles-and-gemini-ai-features-to-pixel-10",
+    "content": "Google has released the November Pixel Drop, a quarterly update for its Pixel phones that introduces new interface elements and expands AI capabilities. This update includes new icon styles and a feature called Create My Widget. A significant portion of the release focuses on extending Gemini features, previously limited to the Pixel 11, to the Pixel 10 lineup. Notably, the budget-oriented Pixel 10a is excluded from this expansion of AI tools.\n\nThe Pixel 10 series will receive improved personalized suggestions, formerly known as Magic Cue, which debuted on the Pixel 11. This feature allows users to send grocery lists to Google Keep from other applications and generate summaries via the context menu. Additionally, Rambler, Google’s AI-assisted voice input system, is coming to the 2025 phones with this update.\n\nGemini app automation is also rolling out to the Pixel 10 with the November Pixel Drop. This functionality remains restricted to select applications within specific categories, including rideshare, food delivery, and travel. The update follows Google’s introduction of \"Gemini Intelligence\" branding with the Pixel 11, a designation expected to become more common in future releases.",
+    "summary": "The November Pixel Drop update introduces new icon styles and the Create My Widget feature to Google's Pixel phones. It also expands Gemini AI capabilities, including personalized suggestions and voice input, to the Pixel 10 lineup while excluding the Pixel 10a.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/11/2026 5:42:02",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
+  },
+  {
+    "id": "BLOG-20261110-517",
+    "title": "Google Fi adds second 5G network support without naming carrier",
+    "slug": "google-fi-adds-second-5g-network-support-without-naming-carrier",
+    "content": "Google has announced a “super network” upgrade for its Fi cell service, adding support for a second 5G network. While Google Fi has operated exclusively on the T-Mobile network in the United States for the past few years, this update returns the service to a dual-carrier model domestically. The company stated that connected phones will be able to switch between T-Mobile 5G and another 5G network to optimize connectivity.\n\nNotably, Google has not disclosed the identity of the second network. A blog post announcing the change described the service as supporting “two of America’s best 5G cellular networks” without naming the specific carrier. This marks a shift from the service’s previous configuration following the T-Mobile absorption of Sprint, which had reduced Fi to a single-network service in the U.S., though it continued to hop between networks for international travel.",
+    "summary": "Google has announced a \"super network\" upgrade that allows its Fi service to switch between T-Mobile and an unnamed second 5G network. The company stated that this dual-carrier setup will provide better connectivity but refused to identify the specific partner network.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/11/2026 5:41:57",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
+  },
+  {
     "id": "BLOG-20261110-515",
     "title": "Grok Build coding agent leaks confidential data from SpaceXSI and users",
     "slug": "grok-build-coding-agent-leaks-confidential-data-from-spacexsi-and-users",
@@ -6459,44 +6498,5 @@
     "author": "The Hill",
     "isFeatured": false,
     "sourceUrl": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/"
-  },
-  {
-    "id": "BLOG-20261109-066",
-    "title": "Hamilton says many Kansans view Schumer as polarizing",
-    "slug": "hamilton-says-many-kansans-view-schumer-as-polarizing",
-    "content": "Adam Hamilton, the newly elected Democratic Kansas senator, said Sunday that many people in Kansas view Senate Minority Leader Chuck Schumer (D-N. Y.) as “polarizing.” NBC News’s Kristen Welker asked Hamilton during his interview Sunday on “Meet the Press” why the top Senate Democrat, whom Hamilton has been critical of before, is not the right leader…",
-    "summary": "Adam Hamilton, newly elected Democratic Kansas senator, said Sunday that many people in Kansas view Senate Minority Leader Chuck Schumer as “polarizing.” He was interviewed by NBC News’s Kristen Welker on “Meet the Press” and questioned why Schumer is not the right leader.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/9/2026 8:02:22",
-    "author": "The Hill",
-    "isFeatured": false,
-    "sourceUrl": "https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/"
-  },
-  {
-    "id": "BLOG-20261109-065",
-    "title": "Zaporizhzhya Nuclear Plant loses final power line, switches to emergency generators",
-    "slug": "zaporizhzhya-nuclear-plant-loses-final-power-line-switches-to-emergency-generato",
-    "content": "A Ukrainian nuclear plant has lost its last external power line, forcing it to switch to emergency diesel generators. The Zaporizhzhya Nuclear Power Plant (ZNPP) now relies on these generators for reactor cooling and other essential nuclear safety and security functions. The cause of the latest disconnection remains unknown.",
-    "summary": "The Zaporizhzhya Nuclear Power Plant (ZNPP) lost all off‑site power after its final external power line disconnected. The plant is now using emergency diesel generators for reactor cooling and other essential nuclear safety and security functions.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/9/2026 8:02:17",
-    "author": "The Hill",
-    "isFeatured": false,
-    "sourceUrl": "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/"
-  },
-  {
-    "id": "BLOG-20261109-064",
-    "title": "Senator‑elect Abdul El‑Sayed calls Stephen Miller the most broken man to run White House",
-    "slug": "senator-elect-abdul-el-sayed-calls-stephen-miller-the-most-broken-man-to-run-whi",
-    "content": "Abdul El-Sayed, the newly elected Democratic Michigan senator, on Sunday slammed Trump administration adviser and recently appointed White House chief of staff Stephen Miller, calling him the “most broken man.” During the senator-elect’s “This Week” appearance on Sunday, ABC News’s Jonathan Karl asked El-Sayed about “what message” Miller’s new role “sends to the country and…",
-    "summary": "Abdul El‑Sayed, the newly elected Democratic Michigan senator, criticized Stephen Miller, a Trump administration adviser and newly appointed White House chief of staff, on Sunday. He said Miller is the most broken man and will run the most dysfunctional White House.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/9/2026 8:02:11",
-    "author": "The Hill",
-    "isFeatured": false,
-    "sourceUrl": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/"
   }
 ]
