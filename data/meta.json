@@ -1,7 +1,7 @@
 {
-  "totalPosts": 45996,
+  "totalPosts": 46004,
   "recentCount": 500,
-  "archivedCount": 45496,
+  "archivedCount": 45504,
   "archiveMonths": [
     "2026-11",
     "2026-10",
@@ -34,7 +34,7 @@
     {
       "name": "Sports",
       "slug": "sports",
-      "count": 4400
+      "count": 4405
     },
     {
       "name": "Health",
@@ -44,7 +44,7 @@
     {
       "name": "Entertainment",
       "slug": "entertainment",
-      "count": 1005
+      "count": 1006
     },
     {
       "name": "Business",
@@ -52,18 +52,18 @@
       "count": 995
     },
     {
-      "name": "Environment",
-      "slug": "environment",
-      "count": 635
-    },
-    {
       "name": "Space",
       "slug": "space",
+      "count": 637
+    },
+    {
+      "name": "Environment",
+      "slug": "environment",
       "count": 635
     }
   ],
   "todayArticles": 364,
   "weekArticles": 2029,
-  "lastUpdated": "11/14/2026 4:02:45",
-  "generatedAt": "2026-11-13T22:33:33.748Z"
+  "lastUpdated": "11/14/2026 4:12:54",
+  "generatedAt": "2026-11-13T22:43:40.403Z"
 }
