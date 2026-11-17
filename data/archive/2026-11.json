@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261113-247",
+    "title": "Brain Quickly Learns to Interpret Ambiguous Mooney Images",
+    "slug": "brain-quickly-learns-to-interpret-ambiguous-mooney-images",
+    "content": "Both humans and image‑recognition algorithms can require time to identify objects and scenes in certain images. Mooney images—pictures intentionally reduced to patches of black and white with no shades of gray—serve as emblematic examples of this phenomenon.",
+    "summary": "Both humans and image recognition algorithms can take time to identify objects and scenes in certain images. Mooney images, which are intentionally reduced to black and white patches with no shades of gray, illustrate this phenomenon.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/13/2026 21:23:29",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-brain-rapidly-ambiguous-images.html"
+  },
+  {
+    "id": "BLOG-20261113-246",
+    "title": "Travis Grotz, Mayo Clinic oncologist, explains evolving stomach cancer surgery",
+    "slug": "travis-grotz-mayo-clinic-oncologist-explains-evolving-stomach-cancer-surgery",
+    "content": "Innovation in cancer care can involve creating new treatments or revisiting old ideas with better knowledge and tools. Both approaches are currently seen in stomach cancer surgery, according to Travis Grotz, M.D., a Mayo Clinic surgical oncologist who specializes in treating stomach cancer.",
+    "summary": "Sometimes innovation in cancer care means developing something entirely new. Other times, it means returning to an old idea with the knowledge and tools to make it work better.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/13/2026 21:23:22",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-stomach-cancer-expert-surgical-approaches.html"
+  },
+  {
+    "id": "BLOG-20261113-245",
+    "title": "24-Month Study Shows Sustained Responses to Neuroimmune Modulation in RA",
+    "slug": "24-month-study-shows-sustained-responses-to-neuroimmune-modulation-in-ra",
+    "content": "A study presented at the American College of Rheumatology’s annual meeting in Orlando, Florida, reported that 24‑month data show sustained clinical responses in patients receiving neuroimmune modulation therapy for rheumatoid arthritis.",
+    "summary": "Twenty-four-month data show sustained clinical responses for patients receiving neuroimmune modulation therapy for rheumatoid arthritis. The study was presented at the American College of Rheumatology annual meeting in Orlando, Florida, from Nov. 6 to 11.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/13/2026 21:23:05",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-sustained-clinical-responses-neuroimmune-modulation.html"
+  },
+  {
     "id": "BLOG-20261113-244",
     "title": "Label-free imaging tracks lipid storage in living liver organoids",
     "slug": "label-free-imaging-tracks-lipid-storage-in-living-liver-organoids",
