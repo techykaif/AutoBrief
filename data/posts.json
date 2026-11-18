@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261118-168",
+    "title": "Astronomers discover rare black holes that formed when stars failed to go supernova",
+    "slug": "astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supern",
+    "content": "Gravitational wave data has identified a distinct population of black holes that may have formed when massive stars failed to undergo supernova explosions. While the standard model of black hole formation involves the collapse of a stellar core triggering a shockwave that blows away the outer layers, new research suggests some massive stars instead implode directly into black holes without a visible explosion. This finding is based on data collected by the Laser Interferometer Gravitational-Wave Observatory (LIGO) and its partners, Virgo and the Kamioka Gravitational Wave Detector (KAGRA).\n\nThe study, led by Katerina Chatziioannou of the California Institute of Technology (Caltech), analyzed the masses and spins of 257 black hole mergers detected by the LIGO-Virgo-KAGRA network over the past 10 years. The team observed that a vast majority of merging black holes in the universe are approximately 10 times the mass of the sun. In their sample, 10-solar-mass black holes represented 75% of the total, indicating a common origin for this specific group. Chatziioannou stated that these results represent a connection between gravitational-wave data and the underlying astrophysics of black hole birth.\n\nA significant and unexpected finding was the scarcity of black holes with masses between 12 and 16 times that of the sun. Isaac Legred of the University of Illinois Urbana-Champaign noted that while 10-solar-mass black holes are frequently observed, 14-solar-mass black holes are rare. This gap in the mass distribution suggests a specific set of internal physical processes responsible for forming the abundance of 10-solar-mass black holes. The researchers also examined the spin rates of these black holes, finding that the 10-solar-mass group possesses a distinct range of spin speeds, further supporting the hypothesis of a shared formation mechanism.\n\nThe existence of \"failed supernovas\" is theoretically well-supported, with scientists positing that a vast population of massive stars have imploded rather than exploded. The study notes that while there is currently no hard evidence of these events, they leave behind dark patches of sky because the stars vanish without a visible explosion. The gravitational wave data align with the idea that most binary black holes in this mass range formed from this type of stellar implosion.\n\nThe research provides a new perspective on how black holes are born in extreme environments, moving beyond the traditional narrative of supernova-driven formation. Although the data are consistent with the failed supernova theory, the team emphasizes that more research is needed to fully understand the process. The findings highlight the utility of gravitational wave observations in extracting astrophysical details that are difficult to obtain through traditional optical astronomy.\n\nThe study was published on Tuesday, November 10, in the journal Physical Review D.",
+    "summary": "Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova. Most of us know the origin story of black holes, or we thought we did.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/18/2026 8:12:23",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova"
+  },
+  {
+    "id": "BLOG-20261118-166",
+    "title": "British startup Foundational tests laser retroreflector in orbit",
+    "slug": "british-startup-foundational-tests-laser-retroreflector-in-orbit",
+    "content": "A London-based startup named Foundational has demonstrated a new technology designed to address the growing issue of space debris. According to the European Space Agency (ESA), millions of pieces of space debris currently circle Earth, posing potential dangers due to the high speeds at which objects travel in orbit. While experts have proposed various solutions, including large space nets, laser ablation, and deliberate deorbiting of large satellites, Foundational has introduced retroreflectors as an alternative approach to tracking and managing orbital objects.\n\nThe company recently completed an early-stage orbital test of its Retro-2 laser retroreflector system, which was developed in collaboration with ESA. The primary objective of the test was to verify that the device could return laser-ranging signals from a satellite operating at altitudes between approximately 600 kilometers and 870 kilometers (about 370 to 540 miles). The long-term goal of this technology is to create a tracking device that allows spacecraft to be monitored in orbit even after they cease transmitting data.\n\nFoundational stated that the Retro-2 system requires no electronics, power, or commands from its host spacecraft, enabling ground stations to maintain tracking of orbiting objects. The demonstration mission launched in July on SpaceX’s Transporter-17 rideshare flight. For the test, the Retro-2 device, a miniaturized unit containing seven reflectors, was attached to a small satellite integrated into an ION carrier craft operated by the Italian company D-Orbit.\n\nDuring the mission, the Retro-2 device successfully returned 6,111 laser shots beamed from the ground across five passes in low Earth orbit. Dave Gooding, Foundational’s co-founder and chief technical officer, noted that the tests demonstrated a device weighing just 50 grams (1.8 ounces) could deliver millimeter-level ranging precision. Gooding emphasized that as space becomes increasingly crowded, maintaining trackability of satellites throughout their lifetime and beyond is critical for managing collision risks.\n\nFounded in 2025, Foundational recently emerged from stealth mode last month. Despite its early stage, the company has raised £8.2 million ($10.9 million) in pre-seed funding. It joins a broader group of companies involved in debris removal, satellite servicing, and debris tracking that have secured funding in 2026, including Starfish Space, which raised over $100 million in a Series B round, Katalyst Space, which received $12 million, and international firms such as India’s Cosmoserve Space.",
+    "summary": "Foundational, a British startup founded in 2025, successfully demonstrated its Retro‑2 laser retroreflector system on a satellite launched in July on SpaceX’s Transporter‑17 rideshare flight. The 50‑gram device returned 6,111 laser shots over five passes in low Earth orbit, delivering millimeter‑level ranging precision without power or commands from its host spacecraft.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/18/2026 8:12:12",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up"
+  },
+  {
+    "id": "BLOG-20261118-165",
+    "title": "Voyager 1 to reach light-day distance in 2025; Voyager 2 expected in 2035",
+    "slug": "voyager-1-to-reach-light-day-distance-in-2025-voyager-2-expected-in-2035",
+    "content": "On November 18, NASA’s Voyager 1 will reach a distance of 16,094,799,096 miles (25,902,068,356 kilometers) from Earth, a point where it will take a full light-day, or 24 hours, for a signal to travel to the spacecraft. This milestone is significant because light is essentially the maximum speed in the universe. In contrast, Voyager 2 is not expected to reach the same light-day distance until approximately 2035. NASA plans to celebrate Voyager 1’s achievement by inviting fans to shine Morse Code signals at the sky.\n\nThe disparity in arrival times stems from trajectory decisions made during the first phase of the missions, which launched about two weeks apart in 1977 with Voyager 2 going first. Although both spacecraft were originally intended to observe Jupiter and Saturn, their paths diverged after that. Voyager 1 was placed on a faster trajectory to overtake Voyager 2 on the way to Jupiter, arriving on March 5, 1979, four months before Voyager 2 reached the planet on July 9, 1979.\n\nFollowing their encounters with Jupiter, both spacecraft utilized gravity assists, a technique that allows them to gain speed by taking a small amount of momentum from the planet without significantly affecting the planet itself. According to the Planetary Society, each Voyager gained about 10 km/s (6.2 miles/s) during the 1979 Jupiter encounter. This boost was sufficient to place them on a fast path to Saturn and, for Voyager 2, eventually to Uranus and Neptune.\n\nVoyager 1’s path included a turn at Saturn to examine the planet’s rings and the moon Titan, after which it flew outside the plane of the solar system. Voyager 2, however, continued to Uranus and Neptune to take advantage of a rare planetary alignment. During its Neptune encounter, Voyager 2 made a turn to fly by the moon Triton, which required the spacecraft to plunge down out of the plane of the solar system, resulting in a loss of speed. The Planetary Society noted that Voyager 2 gained about 10 km/s at Jupiter, 5 km/s at Saturn, and 2 km/s at Uranus, but lost about 2 km/s at Neptune.\n\nThese varying speeds explain why Voyager 1 is currently zooming out at 3.5 astronomical units per year, while Voyager 2 travels at a slower pace of 3.1 astronomical units per year. The different trajectories allowed both spacecraft to eventually reach interstellar space, with Voyager 1 arriving in 2012 and Voyager 2 in 2018. As both probes continue their journeys, NASA’s Jet Propulsion Laboratory is managing their power supplies to maximize scientific return, with the spacecraft potentially operating into the 2030s.",
+    "summary": "Voyager 1 is about to reach a light-day of distance in space, but Voyager 2 won't hit the mark until about 2035. Why the big difference?",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/18/2026 8:12:03",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade"
+  },
+  {
     "id": "BLOG-20261118-164",
     "title": "The Fantasticks makes Broadway debut in gay reimagining",
     "slug": "the-fantasticks-makes-broadway-debut-in-gay-reimagining",
@@ -6459,44 +6498,5 @@
     "author": "France 24",
     "isFeatured": false,
     "sourceUrl": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist"
-  },
-  {
-    "id": "BLOG-20261116-150",
-    "title": "Hundreds of thousands protest in Prague against plan to fund public media directly",
-    "slug": "hundreds-of-thousands-protest-in-prague-against-plan-to-fund-public-media-direct",
-    "content": "Hundreds of thousands of Czechs gathered in Prague on Sunday to protest a government proposal to replace public‑media fees with direct state funding, a move critics argue could jeopardise broadcasters’ independence. Organisers claimed the turnout surpassed a March rally of more than 200,000, possibly making it the largest demonstration in the country since the 1989 Velvet Revolution.",
-    "summary": "Hundreds of thousands of Czechs rallied in Prague on Sunday against the government's plan to replace public media fees with direct state funding. Organisers said the turnout exceeded a March protest of more than 200,000, possibly making it the largest demonstration since the 1989 Velvet Revolution.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/16/2026 12:52:34",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
-  },
-  {
-    "id": "BLOG-20261116-149",
-    "title": "Gadi Eisenkot says caretaker Netanyahu must quit over alleged aide election interference",
-    "slug": "gadi-eisenkot-says-caretaker-netanyahu-must-quit-over-alleged-aide-election-inte",
-    "content": "Israeli prime ministerial hopeful Gadi Eisenkot announced on Sunday that caretaker premier Benjamin Netanyahu must leave office immediately after reports surfaced of alleged electoral interference by a Netanyahu aide.  \n\nEisenkot, a former army chief, described Netanyahu and his entourage as an immediate threat to democracy, making his remarks hours after representatives were discussing the formation of a national unity government.",
-    "summary": "Prime ministerial hopeful Gadi Eisenkot said caretaker premier Benjamin Netanyahu must leave office immediately after reports of alleged electoral interference by a Netanyahu aide. He called Netanyahu and his entourage an immediate threat to democracy, hours after representatives discussed forming a national unity government.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/16/2026 12:52:29",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office"
-  },
-  {
-    "id": "BLOG-20261116-148",
-    "title": "600 Ukrainian drones intercepted over Moscow as Crimea bridge strike halts traffic",
-    "slug": "600-ukrainian-drones-intercepted-over-moscow-as-crimea-bridge-strike-halts-traff",
-    "content": "Russian air defences intercepted 600 Ukrainian drones heading toward the Moscow region overnight and into Monday morning, according to Moscow Mayor Sergey Sobyanin. The same period saw Ukraine strike the bridge that links Russia and Crimea across the Kerch Strait, a development reported by the peninsula’s Russia‑backed governor.\n\nRussia’s Defence Ministry said its air‑defence systems downed a total of 1,336 drones over Russian regions during the overnight operation. The liveblog continues to track further developments.",
-    "summary": "Russian air defenses intercepted 600 Ukrainian drones heading toward the Moscow region, Moscow Mayor Sergey Sobyanin said. Ukraine also struck the bridge linking Russia and Crimea across the Kerch Strait, and the Defence Ministry reported 1,336 drones were downed over Russian regions overnight.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/16/2026 12:52:25",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
   }
 ]
