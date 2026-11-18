@@ -1,7 +1,7 @@
 {
-  "totalPosts": 47005,
+  "totalPosts": 47011,
   "recentCount": 500,
-  "archivedCount": 46505,
+  "archivedCount": 46511,
   "archiveMonths": [
     "2026-11",
     "2026-10",
@@ -44,7 +44,7 @@
     {
       "name": "Entertainment",
       "slug": "entertainment",
-      "count": 1038
+      "count": 1044
     },
     {
       "name": "Business",
@@ -64,6 +64,6 @@
   ],
   "todayArticles": 289,
   "weekArticles": 1901,
-  "lastUpdated": "11/19/2026 0:54:37",
-  "generatedAt": "2026-11-18T19:25:35.619Z"
+  "lastUpdated": "11/19/2026 1:05:47",
+  "generatedAt": "2026-11-18T19:37:30.641Z"
 }
