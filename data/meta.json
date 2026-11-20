@@ -1,7 +1,7 @@
 {
-  "totalPosts": 47392,
+  "totalPosts": 47393,
   "recentCount": 500,
-  "archivedCount": 46892,
+  "archivedCount": 46893,
   "archiveMonths": [
     "2026-11",
     "2026-10",
@@ -59,11 +59,11 @@
     {
       "name": "Space",
       "slug": "space",
-      "count": 660
+      "count": 661
     }
   ],
   "todayArticles": 146,
   "weekArticles": 1766,
-  "lastUpdated": "11/20/2026 13:33:22",
-  "generatedAt": "2026-11-20T08:04:08.294Z"
+  "lastUpdated": "11/20/2026 13:42:23",
+  "generatedAt": "2026-11-20T08:13:12.880Z"
 }

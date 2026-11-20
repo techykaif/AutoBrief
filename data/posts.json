@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLOG-20261120-148",
+    "title": "Nonprofit Common Space to launch humanitarian satellite with Satellogic in July 2027",
+    "slug": "nonprofit-common-space-to-launch-humanitarian-satellite-with-satellogic-in-july",
+    "content": "Nonprofit Common Space has announced that its first “humanitarian satellite” will launch in 2027, marking the beginning of a six‑satellite constellation aimed at providing high‑resolution Earth‑observing imagery for first responders, journalists, scientists and human‑rights investigators. The organization plans to operate on a “club‑good model,” sharing infrastructure and costs across a broad community to enable low‑cost, high‑quality access to imagery that is currently largely proprietary or expensive.\n\nThe first satellite in the constellation will be built by Satellogic, an Argentine‑U.S. geospatial intelligence company. Common Space selected Satellogic’s NewSat Mark V after a competitive request‑for‑proposal process. The microsatellite, 32 inches (82 cm) long and 85 pounds (38.5 kg) on Earth, will resolve ground features as small as 27.5 inches (70 cm) from low Earth orbit, with proprietary algorithms boosting the resolution to 19.7 inches (50 cm). Satellogic will handle launch preparations and satellite operations, which are expected to last at least five years in orbit.\n\nThe satellite is scheduled to launch in July 2027 on a rocket that has not yet been announced. Satellogic will manage the mission, drawing on its experience of flying 61 Earth‑observing satellites to date, all of which deployed successfully. The company’s vice president of space systems, Luciano Giesso, emphasized that the partnership aligns with Common Space’s philosophy of democratizing persistent global intelligence for humanitarian responders and journalists.\n\nCommon Space is currently raising funds to expand the constellation to six satellites, with a goal of having all six in place by 2030. The expanded network would provide daily high‑resolution coverage of priority areas, according to the nonprofit. The launch of the first satellite represents a concrete step toward the organization’s vision of making high‑resolution Earth imagery widely available for public‑interest purposes.",
+    "summary": "The first satellite in a constellation designed for humanitarian use will lift off next year, if all goes according to plan. The nonprofit Common Space plans to assemble a six-spacecraft constellation of Earth-observing satellites, whose high-resolution imagery will aid first responders, journalists, scientists and human-rights investigators around the world.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/20/2026 13:42:23",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027"
+  },
+  {
     "id": "BLOG-20261120-145",
     "title": "The Altruists: Julia Garner and Anthony Boyle star in FTX fraud drama",
     "slug": "the-altruists-julia-garner-and-anthony-boyle-star-in-ftx-fraud-drama",
@@ -6485,18 +6498,5 @@
     "author": "Guardian Sport",
     "isFeatured": false,
     "sourceUrl": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates"
-  },
-  {
-    "id": "BLOG-20261118-279",
-    "title": "F1's Three US Grands Prix: Austin, Miami, Las Vegas Compared",
-    "slug": "f1-s-three-us-grands-prix-austin-miami-las-vegas-compared",
-    "content": "Formula 1, which previously struggled to establish itself in the United States, now hosts three grands prix. A comparison examines the merits of the Austin, Miami, and Las Vegas events, highlighting their distinct characteristics such as cowboy boots, cocktails, and casinos.",
-    "summary": "F1 has struggled to establish itself in the United States but now hosts three grands prix. The article compares the merits of Austin, Miami and Las Vegas.",
-    "category": "Sports",
-    "categorySlug": "sports",
-    "publishedAt": "11/18/2026 15:22:37",
-    "author": "BBC Sport",
-    "isFeatured": false,
-    "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/c6d91xl13pggo"
   }
 ]
