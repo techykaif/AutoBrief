@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261120-430",
+    "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+    "slug": "nasa-honor-awards-ceremony-recognizes-employees-at-stennis-space-center",
+    "content": "NASA’s Stennis Space Center near Bay St. Louis, Mississippi, held its Honor Awards ceremony on Nov. 18 to recognize employees contributing to the agency’s mission. The awards were presented by Christine Powell, the center director, and Jeremy Parsons, NASA’s Artemis program manager, who is responsible for the management and oversight of the initiative to return humans to the Moon. The event highlighted individual achievements in leadership, engineering, and service, as well as team accomplishments and long-term civil service milestones.\n\nStephen Rawls of Carriere, Mississippi, received the Center Director’s Excellence Award for exceptional leadership and technical excellence in advancing propulsion testing capabilities for critical NASA and commercial programs. Bradley Tyree, also of Carriere, was honored with the Engineering Excellence Award for his contributions to the successful testing of the Liquid Oxygen/Liquid Methane Assessment Confined by Missile Program. Anna Lizana of Diamondhead, Mississippi, received the Excellence in Customer Service Award for environmental compliance support that advanced commercial partnerships and reduced regulatory risk.\n\nAdditional individual recipients included Daniel Jones of Huntsville, Alabama, who received the Excellence in Innovation Award for inventing a system for low-cost aerodynamic data acquisition known as the Hydrocarbon Propellants Enabling Reproduction of Flows in Rocket Engines. Peyton Pinson of Carriere was awarded the Leadership Excellence Award for his role as E-1 test director, while Joseph Schuyler of Pass Christian received the J. Harry Guin Leadership Award for advancing the center’s propulsion testing capability. Michael McDaniel of Slidell, Louisiana, received the Roy S. Estess Service Leadership Award for his partnership and commitment to the community as the general manager of L3Harris Technologies at NASA Stennis.\n\nThe Space Flight Awareness Trailblazer Award was presented to Amer Arshad of Diamondhead and Claire O’Shaughnessy of Mandeville, Louisiana, for innovative leadership and collaborative efforts that strengthened the center’s mission and advanced critical facility capabilities for the Artemis program. The Liquid Oxygen/Liquid Methane Assessment, Confined by Missile Test Team also received the Space Flight Awareness Team Award for executing a test series that provided mission-critical safety data for human spaceflight. Briou Bourgeois accepted the team award on behalf of a group that included Chase Aubry, Brandon Carver, and numerous other staff members.\n\nThe ceremony also recognized employees who reached significant anniversary milestones in their civil service careers. Those with 40 years of service included Curtis Armstrong, Jason Edge, and Kevin Power. Employees with 35 years of service were Michael Brashear, Reginald Ellis II, Arlen Griffey, Bradley Messer, Christine Powell, and Michael Rewis. Skip Roberts was recognized for 30 years of service, while a group of 15 employees, including Gregory Carmouche, Thomas Carroll, and Joseph Schuyler, were honored for 25 years of service.",
+    "summary": "3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Stephen Rawls, second from right with guest, receives the Center Director’s Excellence Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center.",
+    "category": "Science",
+    "categorySlug": "science",
+    "publishedAt": "11/21/2026 4:52:17",
+    "author": "NASA News",
+    "isFeatured": false,
+    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
+  },
+  {
+    "id": "BLOG-20261120-428",
+    "title": "Peter Roberts, Immigration Attorney for YC and Startups, Hosts AMA",
+    "slug": "peter-roberts-immigration-attorney-for-yc-and-startups-hosts-ama",
+    "content": "I'll be here for the rest of the day. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers! Previous threads we've done: https://news. Ycombinator. Com/submitted? Id=proberts. Comments URL: https://news. Ycombinator. Com/item? Id=50577613 Points: 88 # Comments: 116",
+    "summary": "Peter Roberts, an immigration attorney who works for Y Combinator and startups, will be answering questions in an AMA session. He will not provide specific legal advice and encourages questions to be factual.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/21/2026 4:52:06",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://news.ycombinator.com/item?id=50577613"
+  },
+  {
+    "id": "BLOG-20261120-427",
+    "title": "OpenComputer offers open source cloud coding agent with 24‑second commit speed",
+    "slug": "opencomputer-offers-open-source-cloud-coding-agent-with-24-second-commit-speed",
+    "content": "Utpal, one of the founders of OpenComputer, announced the project on Hacker News. OpenComputer is an open‑source cloud coding agent designed for teams that can run directly in a user’s own cloud account, including AWS, GCP, and Azure. The agent harness and sandbox operate on the same durable virtual machine, as described in the architecture documentation. In benchmark tests, the first commit lands in 24 seconds, while the alternatives Utpal evaluated took between 53 and 72 seconds.\n\nThe system is built to scale horizontally with a single VM per team. Sessions are isolated in git worktrees, and session files are backed up to a repository after every turn, allowing any session to resume on another VM. Utpal notes that after roughly 640 session‑hours a month, a single always‑on 4‑vCPU VM becomes cheaper than per‑session E2B sandboxes, making the setup faster and more cost‑efficient than current state‑of‑the‑art coding agents.\n\nOpenComputer is available for a free cloud trial or can be self‑hosted. A full demo is posted on X, and the project welcomes feedback. The Hacker News discussion can be found at the provided comments URL, where the post has earned 31 points and 12 comments.",
+    "summary": "OpenComputer is an open source cloud coding agent that runs on a single durable VM in a user’s AWS, GCP or Azure account. Its first commit lands in 24 seconds, faster than the 53‑72 second benchmarked alternatives, and it becomes cheaper than per‑session sandboxes after roughly 640 session‑hours per month.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/21/2026 4:52:01",
+    "author": "Hacker News",
+    "isFeatured": false,
+    "sourceUrl": "https://github.com/diggerhq/opencomputer"
+  },
+  {
     "id": "BLOG-20261120-425",
     "title": "16-Year-Old Henrijs Dandzbergs Found AI Missile Startup, Targets Cost per Kill",
     "slug": "16-year-old-henrijs-dandzbergs-found-ai-missile-startup-targets-cost-per-kill",
@@ -6459,44 +6498,5 @@
     "author": "Science Daily",
     "isFeatured": false,
     "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm"
-  },
-  {
-    "id": "BLOG-20261119-090",
-    "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
-    "slug": "senate-committee-rejects-trump-nominee-to-lead-national-science-foundation",
-    "content": "Senate committee chair Bill Cassidy, a Republican from Louisiana, announced that Jim O’Neill will not undergo a confirmation hearing to lead the National Science Foundation. Cassidy, who heads the Senate committee on health, education, labor, and pensions, stated that O’Neill “did not do enough to stand up for science” in his previous position. This decision effectively ends O’Neill’s run for the top US scientific organization.\n\nThe NSF is described as an embattled independent federal agency that has experienced major budget cuts and grant freezes under the Trump administration. The article notes that the next nominee for the NSF position will face a Democratic-led Senate.",
-    "summary": "Senate committee rejects Trump nominee to lead National Science Foundation.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "11/19/2026 6:32:31",
-    "author": "Guardian Science",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee"
-  },
-  {
-    "id": "BLOG-20261119-089",
-    "title": "Colibactin from E. coli Toxin Suspected in Rising Early‑Onset Bowel Cancer",
-    "slug": "colibactin-from-e-coli-toxin-suspected-in-rising-early-onset-bowel-cancer",
-    "content": "Scientists have told the House of Commons that exposure to colibactin, a bacterial toxin produced by E. coli, is a leading suspect in the rising rates of bowel cancer among individuals under 50. They identified early-life exposure to this toxin as a potential driver of early-onset colorectal cancer.\n\nCases of early-onset bowel cancer have doubled in many countries over the past two decades. While researchers acknowledge that rising obesity and a decline in physical activity contribute to this trend, they believe other factors must also be involved to explain the increase.",
-    "summary": "Scientists told MPs that exposure to colibactin in early life may drive early‑onset colorectal cancer. Cases of early‑onset bowel cancer have doubled in many countries in the past two decades, and researchers say obesity and reduced physical activity are contributors but other factors are likely involved.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "11/19/2026 6:32:25",
-    "author": "Guardian Science",
-    "isFeatured": false,
-    "sourceUrl": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s"
-  },
-  {
-    "id": "BLOG-20261119-084",
-    "title": "MAF EAP Offers Holiday Stress Management Tips",
-    "slug": "maf-eap-offers-holiday-stress-management-tips",
-    "content": "6 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Feet in woolen socks by the fireplace. Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person. The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!!), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go, Holiday Calendar: Expected/ Obligated Need to do Would be fun to do Nope Family dinner Work party off-site Travel Host at my house Religious services Neighborhood party Shopping Restaurants Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc.). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”. Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go. Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal. When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety. If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe through it (avoid pushing it down). Remember how many times you have gotten through a “pressure moment” and give yourself credit. Call a trusted friend or your therapist if you feel overwhelmed for longer than a day…. And, please call 988 if you feel overwhelmed to an extreme. 988 is always available and waiting to help. Look for the glimmers – find a happy moment (no matter how brief), find the memories that make you smile. Thinking of something joyful changes your emotional state… train yourself to do this any time you need a lift. Ultimately, we want to move away from focusing on the future (It causes anxiety) or overthinking about the past (it causes depression) …. And find yourself in the here and now where you have power to manage things happening around you. Your power is with you in the present. (Eckert Tolle book – The Power of Now). The holiday season lasts for weeks – gift yourself with Honoring yourself – take a break if you need to Asking for help when necessary Preparing well and being realistic Acknowledge your emotions (holidays can be sad as well as joyful) Respect differences – focus on the reason you are together and celebrating Make adjustments as you go Give yourself Grace and Space Person sitting on sofa next to a holiday tree. With the extra pressure of the holiday season, our feelings can often be stronger than other times during the year…. If you start having feelings: Anxious – take deep breaths, focus ONLY on the present – your surroundings, what you see, count objects, put ice on the inside of your wrists (this works really well!) Angry – walk away for a moment, take a break, give yourself as long as you need to regulate these feelings, know that whoever gets angry first loses…be the winner in the moment. Helpless, hopeless, trapped (discouraged) – remember that you have a voice, it is sometimes difficult to use it in family situations, but you can talk to yourself. Remember how strong you are, how many accomplishments you have completed…. Reframe the situation so you recall all of your wonderful qualities. Overwhelmed – Check your list/holiday calendar again…what can you change or take off the list. What can you postpone for 24-48 hours? What can you give someone else to do? What can you order from the store rather than do the cooking or shopping yourself? Find a quick solution for one or two things (at least) and take some pressure off. Grief – acknowledge how you feel, we do not have to be cheerful just because it is a holiday. Say no to any event or activity that feels too “heavy” and give yourself permission to leave if it becomes too much. Find a way to keep their memory with you – carry a favorite picture or memento. Find a grief support group. Basically, we want to notice the small things and find gratitude in what we have. Our outward situation does not define us. If you find that holiday time is difficult or stressful, always give yourself permission to contact your EAP services for assistance and support.",
-    "summary": "MAF EAP advises employees to manage holiday stress by creating a calendar of obligations and setting realistic budgets. The guidance encourages prioritizing self-care, using \"I\" statements to set boundaries, and contacting EAP services or the 988 hotline for support.",
-    "category": "Science",
-    "categorySlug": "science",
-    "publishedAt": "11/19/2026 6:32:06",
-    "author": "NASA News",
-    "isFeatured": false,
-    "sourceUrl": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
   }
 ]
