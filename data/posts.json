@@ -1,5 +1,31 @@
 [
   {
+    "id": "BLOG-20261121-204",
+    "title": "SpaceX launches classified US Space Force mission from California",
+    "slug": "spacex-launches-classified-us-space-force-mission-from-california",
+    "content": "SpaceX carried out a classified launch for the U.S. Space Force on November 20, 2026. A Falcon 9 rocket lifted off from Vandenberg Space Force Base at 11:20 p.m. EST (8:20 p.m. local California time; 04:20 GMT on November 21). The mission, designated USSF‑317, sent an undisclosed payload into orbit from California’s central coast.\n\nThe Falcon 9’s first stage separated roughly 8.5 minutes after liftoff and returned to the Pacific Ocean, landing on the SpaceX drone ship “Of Course I Still Love You.” This was the 11th launch and landing for booster B1100, which now rests on the deck of the drone ship following the USSF‑317 launch. SpaceX concluded its launch webcast shortly after the touchdown, so the upper stage’s ascent to orbit was not televised.\n\nUSSF‑317 is a classified mission, so the upper stage’s cargo and destination are not publicly known. Some experts suggest the payload could be a group of SpaceX’s Starshield satellites, which would support the Space Force’s Space Based Sensing and Targeting portfolio and help the military monitor potential targets worldwide.\n\nThe 121st Falcon 9 launch of 2026, USSF‑317 is the third SpaceX mission for the Space Force in November. Most of this year’s Falcon 9 flights—about 70 %—have focused on expanding SpaceX’s Starlink low‑Earth‑orbit internet constellation, which now contains more than 11,000 satellites. The company has flown 165 Falcon 9 missions in 2025, but plans to retire the Falcon 9 and Falcon Heavy in favor of the fully reusable Starship megare‑rocket, which has already deployed 26 next‑generation Starlink V3 satellites on its latest test flights.",
+    "summary": "SpaceX launches classified US Space Force mission from California.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/21/2026 18:02:29",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317"
+  },
+  {
+    "id": "BLOG-20261121-203",
+    "title": "ESA-JAXA BepiColombo probe begins Mercury orbit insertion today",
+    "slug": "esa-jaxa-bepicolombo-probe-begins-mercury-orbit-insertion-today",
+    "content": "BepiColombo, the joint European Space Agency (ESA) and Japanese Aerospace Exploration Agency (JAXA) mission, entered orbit around Mercury today, November 21. The spacecraft will begin its orbit‑insertion burn at 1:24 p.m. EST (1824 GMT), a 37‑minute maneuver that will place the probe into the planet’s gravitational field.\n\nThe mission comprises ESA’s Mercury Planetary Orbiter (MPO) and JAXA’s Mercury Magnetospheric Orbiter (MMO), also called Mio. Both orbiter modules were launched together with the Mercury Transfer Module (MTM) aboard an Ariane 5 rocket from French Guiana in October 2018. The MTM released MPO and Mio on September 3, and the two spacecraft remain connected until about December 9, when they will separate.\n\nBepiColombo’s journey to Mercury involved one Earth flyby, two Venus flybys, and six Mercury flybys over roughly seven years—a duration extended by a year after a solar‑panel issue reduced power for the MTM’s electric thrusters. The arrival phase, lasting about six months, is now complete. Mio will settle into a highly elliptical polar orbit over Mercury’s poles, while MPO will perform engine burns before reaching its own polar orbit on March 10, 2027.\n\nScience operations will commence on April 6, 2027. ESA officials describe the mission as a comprehensive study of Mercury’s magnetosphere, its interaction with the solar wind, internal structure—including a large iron core—and the origin of its magnetic field. The data are expected to deepen understanding of the planet’s formation and the evolution of the inner solar system.",
+    "summary": "Mercury is about to receive a robotic visitor from Earth. The BepiColombo mission — a joint effort of the European Space Agency (ESA) and the Japanese Aerospace Exploration Agency ( JAXA ) — will arrive in orbit around Mercury today (Nov.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/21/2026 18:02:22",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
+  },
+  {
     "id": "BLOG-20261121-196",
     "title": "LIV Golf Liquidation Begins as Saudi Support Ends",
     "slug": "liv-golf-liquidation-begins-as-saudi-support-ends",
@@ -6472,31 +6498,5 @@
     "author": "The Verge",
     "isFeatured": false,
     "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-  },
-  {
-    "id": "BLOG-20261119-363",
-    "title": "Male mice that watch fights learn to defend better, study finds",
-    "slug": "male-mice-that-watch-fights-learn-to-defend-better-study-finds",
-    "content": "Scientists have used a mouse model to investigate why humans are drawn to violent entertainment. A recent paper published in Nature reports that male mice that observed other mice fighting performed better when later challenged by stronger opponents than mice that had no such exposure.\n\nIn the experiment, researchers divided male mice into three groups: fighters, spectators, and novices. Over eight days, each group received three 10‑minute training sessions per day. Novice mice played with stuffed mice in isolation, while spectator mice watched pairs of fighter mice battle from a raised platform behind a transparent barrier. This arrangement allowed the spectators to see, smell, and hear the fights.\n\nOn the ninth day, all mice faced a “fight night” against a formidable opponent in three 4‑minute rounds. Each bout was filmed from above to allow detailed behavioral analysis.\n\nTo track brain activity, the team genetically engineered the mice’s excitatory neurons to glow green when activated and inhibitory neurons to glow red. They also implanted optical fibers into 12 interconnected brain regions, enabling simultaneous monitoring of activity across the brain during the fights.",
-    "summary": "Researchers assigned male mice to fighter, spectator or novice groups and gave them eight days of training with three 10‑minute sessions per day. On the test day, spectator mice that had watched other mice fight performed better against a stronger opponent than novice mice, according to a Nature paper.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "11/20/2026 5:53:12",
-    "author": "Ars Technica",
-    "isFeatured": false,
-    "sourceUrl": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/"
-  },
-  {
-    "id": "BLOG-20261119-362",
-    "title": "Google to roll out global Android developer verification in January 2027",
-    "slug": "google-to-roll-out-global-android-developer-verification-in-january-2027",
-    "content": "Google has announced that it will extend its Android developer verification program worldwide in January 2027. The program, introduced last year, already blocks the installation of unregistered apps in several countries this fall and will soon apply to all regions. Developers who have not yet registered are urged to do so before the rollout.\n\nUnder the new rule, apps downloaded from the Play Store will continue to come from verified developers, and the requirement will now also cover apps from third‑party sources. When verification is active in a user’s region, sideloading apps will be prohibited unless the developer has registered with Google. Verification requires the submission of government identification and a $25 fee, a measure the company frames as a security improvement.\n\nIn September, Google launched verification in Brazil, Indonesia, Singapore, and Thailand without major incidents. The company previously indicated a 2027 global rollout and now confirms that the requirement will reach all devices within “several months” of the January start.",
-    "summary": "Google announced Android developer verification last year, and despite numerous objections from developers and users, the company is forging ahead. It began blocking the installation of unregistered apps in some countries this fall, and the system is expanding globally soon.",
-    "category": "Technology",
-    "categorySlug": "technology",
-    "publishedAt": "11/20/2026 5:53:07",
-    "author": "Ars Technica",
-    "isFeatured": false,
-    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
   }
 ]
