@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261120-511",
+    "title": "Japan's Hayabusa Makes First Spacecraft Liftoff From Asteroid Itokawa",
+    "slug": "japan-s-hayabusa-makes-first-spacecraft-liftoff-from-asteroid-itokawa",
+    "content": "On November 19, 2005, Japan’s Hayabusa spacecraft achieved the first-ever liftoff from the surface of an asteroid. The mission, operated by the Japan Aerospace Exploration Agency (JAXA), was primarily designed to collect samples from asteroid Itokawa and return them to Earth. Although the primary goal was sample collection rather than demonstrating a liftoff capability, the event marked a significant milestone in space exploration. Hayabusa had originally launched on May 9, 2003, but its arrival at the asteroid was delayed until September 2005 after a solar storm degraded its solar arrays and limited power for its ion engines.\n\nDespite these challenges, Hayabusa reached Itokawa on September 12, 2005. During its first landing attempt on November 19, the spacecraft descended to a point just 56 feet above the surface before going silent for three hours. Once contact was restored, JAXA officials confirmed the probe had landed. According to Andrew Cheng, a Hayabusa science team member at Johns Hopkins University Applied Physics Laboratory, the spacecraft bounced off the surface several times and rested on the asteroid for approximately 39 minutes. However, the samplers did not fire during this initial touchdown.\n\nFollowing the first landing, Hayabusa lifted off for a second attempt, which occurred on November 26, 2005. Controllers remained uncertain whether any material had been gathered during these events, so they proceeded to send the spacecraft back to Earth anyway. The sample return capsule eventually touched down in Australia in June 2010. In November 2010, JAXA announced that scientists had found 1,500 dust grains from Itokawa inside the capsule. These samples were confirmed to have been jammed into the collector by the two landings, despite the collector mechanism failing to fire.\n\nThe success of the Hayabusa mission spurred the creation of a follow-up sample-return mission called Hayabusa2. That probe launched in December 2014 and arrived at asteroid Ryugu in 2018. Hayabusa2 successfully collected its own samples and returned them to Earth in December 2020. Currently, the Hayabusa2 probe is on an extended mission to the asteroid 2015 BM510, which it will fly by in April 2028. A planned landing on the asteroid 1998 KY26 became impossible due to engine trouble.",
+    "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft achieved the first-ever liftoff from an asteroid surface during its mission to collect samples from Itokawa. Although the sampling mechanism did not fire, scientists later confirmed the capsule returned 1,500 dust grains to Earth in 2010.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/21/2026 5:32:50",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026"
+  },
+  {
+    "id": "BLOG-20261120-509",
+    "title": "Could an ancient solar eclipse rewrite Egyptian history?",
+    "slug": "could-an-ancient-solar-eclipse-rewrite-egyptian-history",
+    "content": "The solar system functions as a precise celestial clock that can be projected both into the future and the past. On August 2, 2027, a total solar eclipse will sweep across Egypt, with the moon’s shadow passing directly over Luxor. According to Time and Date, totality in Luxor will begin at approximately 1:02 p.m. EEST and last for 6 minutes and 22 seconds. While astronomers can calculate these events centuries in advance, the same calculations allow them to reconstruct where eclipses occurred thousands of years ago. When ancient texts reliably describe such events, they provide precise timestamps to anchor historical moments to specific places and times.\n\nAstronomical calculations indicate that a total solar eclipse crossed northern Egypt on April 1, 2471 B.C., during the age of the great pyramid builders. In research published in 2025, archaeoastronomer Giulio Magli at the Polytechnic University of Milan proposed that this event may explain why Pharaoh Shepseskaf departed from tradition to build a large rectangular tomb at South Saqqara instead of a pyramid. However, this remains a hypothesis because no surviving Egyptian text records the eclipse, and using it as a historical timestamp requires evidence that contemporaries observed and documented the event.\n\nA more intriguing possibility involves an annular solar eclipse that occurred over Canaan on October 30, 1207 B.C. Researchers Colin Humphreys and Graeme Waddington at Cambridge University in the U.K. published research in 2017 suggesting this event is described in the Old Testament book of Joshua. The biblical passage recounts Joshua praying for the sun and moon to stand still while the Israelites fought their enemies in Gibeon and the Valley of Aijalon. If this interpretation is correct, it would represent the oldest recorded solar eclipse with an identified date.\n\nThis potential identification has significant implications for Egyptian chronology, specifically regarding the reign of Pharaoh Ramesses II, who ruled for 66 years during the New Kingdom and commissioned major structures such as Abu Simbel and additions to Karnak and Luxor Temple. While historians generally date the reign of his successor, Pharaoh Merneptah, to approximately 1213–1203 B.C., the precise dates of Ramesses II’s rule remain subject to debate. Humphreys and Waddington proposed that the 1207 B.C. eclipse occurred during the second, third, or fourth year of Merneptah’s reign, which would refine the conventional dates for Ramesses II’s rule from 1279–1213 B.C. to approximately 1276–1210 B.C.\n\nThe interpretation of the biblical text remains controversial. Marinus Anthony van der Sluijs has challenged the eclipse theory, arguing that the narrative describes the sun over Gibeon and the moon over the Valley of Aijalon simultaneously, which is inconsistent with an eclipse. Despite the ambiguity surrounding the 1207 B.C. event, the celestial mechanics that predict the upcoming 2027 eclipse are the same forces that allow researchers to analyze ancient skies. While the 2027 event is certain, the 1207 B.C. eclipse serves as a potential, though debated, timestamp that could help clarify the timeline of ancient Egyptian imperial power.",
+    "summary": "The solar system is a clock that can be run in both directions. On Aug.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/21/2026 5:32:35",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history"
+  },
+  {
+    "id": "BLOG-20261120-507",
+    "title": "NASA Perseverance and Odyssey halt science work due to antenna and wheel glitches",
+    "slug": "nasa-perseverance-and-odyssey-halt-science-work-due-to-antenna-and-wheel-glitche",
+    "content": "NASA announced on Thursday, Nov. 19, that two of its Mars explorers, the Perseverance rover and the Mars Odyssey orbiter, have suspended science operations due to technical glitches. The agency expects both spacecraft to resume work by the end of November. Perseverance is dealing with an antenna issue, while the Odyssey orbiter is experiencing problems with a reaction wheel.\n\nPerseverance, which landed in Jezero Crater in February 2021, has recently set a new distance record for off-Earth driving, surpassing the previous record held by the Opportunity rover on Oct. 11. However, 19 days later, the mission team identified a problem where the rover’s main UHF downlink radio failed to send its usual \"heartbeat\" pings to the main computer. The rover autonomously switched to its backup UHF radio and entered a protective \"safe mode,\" shutting down non-essential systems. Although the team recovered the rover from safe mode, they discovered the backup radio was transmitting at approximately half of its expected power output. Consequently, handlers have stopped using the backup radio, and Perseverance is now communicating directly with Earth via its high-gain antenna and NASA’s Deep Space Network. This direct pathway offers lower data rates, prompting the team to pause science work, including camera observations, to prioritize diagnostic information. NASA officials stated that the rover is stable and communicating with the team.\n\nThe Mars Odyssey orbiter, which arrived at Mars in October 2001, recently lost the use of one of its four reaction wheels, which are essential for maintaining orientation in space. The issue began on Nov. 4 when the orbiter entered safe mode, a state it remained in until Nov. 6 while the team diagnosed the problem. Mission members have made some progress, including getting the faulty wheel to move when commanded, but further testing is required to confirm if the wheel is recoverable. Although Odyssey has been out of safe mode for two weeks, it has not yet resumed its science or data-relay operations. The goal is for the orbiter to return to full operations during the last week of November.\n\nIf the reaction wheel cannot be recovered, the mission team will have to orient the orbiter solely using its thrusters. According to NASA, Odyssey has enough hydrazine fuel left to perform this maneuver for only one or two months. Despite this potential limitation, the orbiter has operated at Mars longer than any other spacecraft and has made significant scientific contributions. These include creating the first global maps detailing the composition of the Martian surface, identifying hazards at landing sites, spotting locations of scientific interest for other missions, and mapping water molecules in the top three feet of the surface, including buried ice that could be useful for future astronauts.",
+    "summary": "NASA's Perseverance rover and Mars Odyssey orbiter have paused science operations due to an antenna issue and a faulty reaction wheel, respectively. NASA aims to have both spacecraft resume work by the end of November, though Odyssey's mission duration is limited if the wheel is not recoverable.",
+    "category": "Space",
+    "categorySlug": "space",
+    "publishedAt": "11/21/2026 5:32:22",
+    "author": "Space.com",
+    "isFeatured": false,
+    "sourceUrl": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches"
+  },
+  {
     "id": "BLOG-20261120-505",
     "title": "Don't turn the moon into the Wild West, scientists warn",
     "slug": "don-t-turn-the-moon-into-the-wild-west-scientists-warn",
@@ -6459,44 +6498,5 @@
     "author": "France 24",
     "isFeatured": false,
     "sourceUrl": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race"
-  },
-  {
-    "id": "BLOG-20261119-193",
-    "title": "China, US and Russia leaders to hold first-of-its-kind trilateral meeting in Shenzhen",
-    "slug": "china-us-and-russia-leaders-to-hold-first-of-its-kind-trilateral-meeting-in-shen",
-    "content": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The meeting between Xi Jinping, Donald Trump and Vladimir Putin, which Beijing said would involve \"safeguarding world peace\", has raised fears of a carve-up of the globe into \"spheres of influence\". Follow our liveblog for the latest developments.",
-    "summary": "Xi Jinping, Donald Trump and Vladimir Putin will meet in Shenzhen on Thursday during the APEC summit. Beijing says the meeting aims to safeguard world peace, while observers fear it could divide the globe into spheres of influence.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/19/2026 13:33:02",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
-  },
-  {
-    "id": "BLOG-20261119-192",
-    "title": "Vanuatu's Environment Minister calls for UN climate summit reform ahead of COP31",
-    "slug": "vanuatu-s-environment-minister-calls-for-un-climate-summit-reform-ahead-of-cop31",
-    "content": "Vanuatu’s Environment Minister Ralph Regenvanu urged reform of the United Nations climate‑summit process, saying a small group of countries is blocking progress. He cautioned that the upcoming COP31 could undo earlier climate commitments if the process is not changed.",
-    "summary": "Vanuatu's Environment Minister Ralph Regenvanu said a small group of countries is blocking progress in the UN climate summit process. He warned that COP31 could reverse earlier commitments.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/19/2026 13:32:55",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding"
-  },
-  {
-    "id": "BLOG-20261119-191",
-    "title": "IEA says Middle East crisis is biggest threat to energy security in history",
-    "slug": "iea-says-middle-east-crisis-is-biggest-threat-to-energy-security-in-history",
-    "content": "The International Energy Agency said on Thursday that the Middle East crisis sparked by U.S. and Israeli strikes on Iran in February represents the “largest threat” to energy security in history. The agency added that Iran’s blockade of the Strait of Hormuz has disrupted oil shipments, causing consumers to shoulder a larger share of the costs.",
-    "summary": "The International Energy Agency said the Middle East crisis triggered by US and Israeli strikes on Iran in February poses the largest threat to energy security in history. It warned that consumers were bearing more of the costs as Iran’s blockade of the Strait of Hormuz disrupted oil shipments.",
-    "category": "World",
-    "categorySlug": "world",
-    "publishedAt": "11/19/2026 13:32:48",
-    "author": "France 24",
-    "isFeatured": false,
-    "sourceUrl": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea"
   }
 ]
