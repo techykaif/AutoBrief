@@ -1,5 +1,44 @@
 [
   {
+    "id": "BLOG-20261121-081",
+    "title": "Price survives match darts to reach Grand Slam semis",
+    "slug": "price-survives-match-darts-to-reach-grand-slam-semis",
+    "content": "Gerwyn Price secured a place in the Grand Slam of Darts semifinals after surviving two match darts in a thrilling quarter-final victory over Nico Springer. In the same round, Jermaine Wattimena, who had previously defeated Luke Littler, was eliminated from the tournament.",
+    "summary": "Gerwyn Price faced two match darts before winning a thrilling quarter‑final against Nico Springer at the Grand Slam of Darts. Luke Littler's conqueror Jermaine Wattimena was knocked out.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/21/2026 9:32:39",
+    "author": "BBC Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo"
+  },
+  {
+    "id": "BLOG-20261121-079",
+    "title": "Man Utd manager hiring and firing costs near £100m",
+    "slug": "man-utd-manager-hiring-and-firing-costs-near-100m",
+    "content": "Manchester United’s recent managerial turnover has brought the total cost close to £100m. The club borrowed £10m three days after confirming Mauricio Pochettino as their new head coach. This appointment incurs a £7.5m compensation payment to US Soccer.",
+    "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino as their new head coach. The club will pay £7.5m in compensation to US Soccer for the appointment.",
+    "category": "Sports",
+    "categorySlug": "sports",
+    "publishedAt": "11/21/2026 9:32:32",
+    "author": "BBC Sport",
+    "isFeatured": false,
+    "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o"
+  },
+  {
+    "id": "BLOG-20261121-065",
+    "title": "Metastatic pancreatic cancer shows tumor shrinkage with daraxonrasib plus chemotherapy",
+    "slug": "metastatic-pancreatic-cancer-shows-tumor-shrinkage-with-daraxonrasib-plus-chemot",
+    "content": "A Phase I/II clinical trial found that combining daraxonrasib with chemotherapy produced substantial tumor shrinkage in patients whose pancreatic cancer had metastasized. The study reported significant responses in these metastatic pancreatic cancer patients.",
+    "summary": "Daraxonrasib combined with chemotherapy caused substantial tumor shrinkage in patients with pancreatic cancer that had spread to other parts of the body. The findings were reported in new results from a Phase I/II clinical trial.",
+    "category": "Health",
+    "categorySlug": "health",
+    "publishedAt": "11/21/2026 9:32:05",
+    "author": "Medical Xpress",
+    "isFeatured": false,
+    "sourceUrl": "https://medicalxpress.com/news/2026-11-metastatic-pancreatic-cancer-treatment-combination.html"
+  },
+  {
     "id": "BLOG-20261121-064",
     "title": "Study: Flu vaccine often less effective than advertised",
     "slug": "study-flu-vaccine-often-less-effective-than-advertised",
@@ -6459,44 +6498,5 @@
     "author": "The Hill",
     "isFeatured": false,
     "sourceUrl": "https://thehill.com/homenews/senate/6229401-slotkin-slams-reitz-investigation/"
-  },
-  {
-    "id": "BLOG-20261119-261",
-    "title": "Democrats nominate Hakeem Jeffries as House speaker, plan Trump investigations",
-    "slug": "democrats-nominate-hakeem-jeffries-as-house-speaker-plan-trump-investigations",
-    "content": "Democrats officially nominated Hakeem Jeffries as the next Speaker of the House. They are also preparing investigations into the Trump administration, scheduled to begin in January.",
-    "summary": "Democrats officially nominated Hakeem Jeffries to be the next speaker of the House. The party is also preparing investigations into the Trump administration scheduled to begin in January.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/19/2026 14:04:03",
-    "author": "NPR Politics",
-    "isFeatured": false,
-    "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit"
-  },
-  {
-    "id": "BLOG-20261119-260",
-    "title": "Nvidia scandal spills into Trump administration over AI chips in China",
-    "slug": "nvidia-scandal-spills-into-trump-administration-over-ai-chips-in-china",
-    "content": "The Nvidia scandal has expanded beyond the company itself, reaching the Trump administration. Officials are now facing intense scrutiny over how the U.S. allowed its top AI chips to end up in China. The focus centers on the administration’s role in the transfer of these critical technologies.",
-    "summary": "The Nvidia scandal has spilled over into the Trump administration. The administration is under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/19/2026 14:03:57",
-    "author": "NPR Politics",
-    "isFeatured": false,
-    "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue"
-  },
-  {
-    "id": "BLOG-20261119-259",
-    "title": "Epstein Files Transparency Act Passed a Year Ago, Justice Department Releases Millions of Files",
-    "slug": "epstein-files-transparency-act-passed-a-year-ago-justice-department-releases-mil",
-    "content": "A year after the House passed the Epstein Files Transparency Act, the Justice Department was compelled to release millions of documents related to the convicted sex offender. Victims of Epstein’s crimes have since spoken out about the impact of the newly available files.",
-    "summary": "The House passed the Epstein Files Transparency Act a year ago, requiring the Justice Department to release millions of files related to the convicted sex offender. Victims of Epstein have spoken out about the releases.",
-    "category": "Politics",
-    "categorySlug": "politics",
-    "publishedAt": "11/19/2026 14:03:49",
-    "author": "NPR Politics",
-    "isFeatured": false,
-    "sourceUrl": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say"
   }
 ]
