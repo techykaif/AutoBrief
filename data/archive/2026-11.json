@@ -1,5 +1,57 @@
 [
   {
+    "id": "BLOG-20261125-060",
+    "title": "Kalshi pauses Utah trading after losing court battles",
+    "slug": "kalshi-pauses-utah-trading-after-losing-court-battles",
+    "content": "Kalshi announced that it is pausing its operations in Utah after a series of court defeats, spokesperson Jacki McGavick said Monday. The company lost a legal effort to block Utah’s ongoing enforcement actions under the state’s gambling statutes.\n\nThe decision comes as multiple lawsuits in Utah continue to proceed, and Kalshi’s request to a federal appeals court to stay those cases pending an appeal was rejected. An emergency motion filed by the Commodity Futures Trading Commission, which maintains that it has exclusive jurisdiction over prediction‑market trading, also did not prevent Utah’s enforcement actions, and a federal district court has not granted that motion.",
+    "summary": "Kalshi made the “difficult decision” to pause operations in Utah after losing a court fight to block the state’s ongoing enforcement actions under Utah gambling laws, Kalshi spokesperson Jacki McGavick said Monday. It seems Kalshi’s legal troubles in Utah have become too much for the prediction market platform to gamble on continued operations there.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/25/2026 7:33:06",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/"
+  },
+  {
+    "id": "BLOG-20261125-059",
+    "title": "OSU study shows timing and amount of smoke‑tainted hops key to beer quality",
+    "slug": "osu-study-shows-timing-and-amount-of-smoke-tainted-hops-key-to-beer-quality",
+    "content": "Oregon State University scientists have investigated how brewers can mitigate the effects of smoke‑tainted hops that resulted from the 2020 wildfires, which burned over one million acres, destroyed thousands of structures, and killed 11 people. Smoke from the fires spread across the region and adversely affected hops grown for beer brewing, a crop that supplies more than 95 percent of U.S. hops and about 40 percent of the global supply.\n\nIn a new paper published in the Journal of the American Society of Brewing Chemists, the researchers found that the impact of smoke‑tainted hops depends on both the quantity of affected hops used and the timing of their addition during the brewing process. The study suggests that brewers can still incorporate these hops while reducing negative flavor contributions.\n\nThomas Shellhammer, an OSU chemist who co‑authored the paper, previously identified the growing popularity of dry hopping—adding hops after fermentation, common for pale ales—as a likely cause of the exploding beer bottle phenomenon.",
+    "summary": "OSU scientists found that the protection of beers from smoke‑tainted hops depends on the amount of affected hops used and when they are added during brewing. The findings were published in the Journal of the American Society of Brewing Chemists and co‑authored by OSU chemist Thomas Shellhammer.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/25/2026 7:33:00",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/"
+  },
+  {
+    "id": "BLOG-20261125-058",
+    "title": "Amazon Leo adds 36 satellites via Ariane 6 after Vulcan failure, speeds up Falcon 9 launches",
+    "slug": "amazon-leo-adds-36-satellites-via-ariane-6-after-vulcan-failure-speeds-up-falcon",
+    "content": "Amazon’s Leo broadband constellation has received a significant boost after a European Ariane 6 launch carried 36 satellites into orbit on Tuesday. The launch followed the loss of 40 satellites earlier this month when United Launch Alliance’s Vulcan rocket failed, leaving Amazon’s primary launch provider grounded. With the Ariane 6 flight, the Amazon Leo fleet now totals 432 satellites, a key step in filling the gap left by the Vulcan outage.\n\nIn a statement to Ars, an Amazon official announced that the company is accelerating several Falcon 9 launches it has purchased from SpaceX. SpaceX also operates the Starlink satellite network, which Amazon aims to surpass. The next Falcon 9 launch for Amazon Leo is now scheduled for December, a date moved forward from the previous plan for next year.\n\nFollowing the December flight, Amazon has several additional Falcon 9 missions planned to deploy Leo satellites in rapid succession, further expanding the constellation’s coverage.",
+    "summary": "A European Ariane 6 launch placed 36 satellites into orbit for Amazon's Leo broadband constellation, bringing the fleet to 432 satellites after 40 were lost in a United Launch Alliance Vulcan failure. Amazon said it is accelerating Falcon 9 launches, moving the next flight to December and scheduling additional Falcon 9 missions in rapid succession.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/25/2026 7:32:55",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/"
+  },
+  {
+    "id": "BLOG-20261125-057",
+    "title": "Amazon drone crashes onto Michigan garage after delivering shampoo, FAA investigates",
+    "slug": "amazon-drone-crashes-onto-michigan-garage-after-delivering-shampoo-faa-investiga",
+    "content": "An Amazon delivery drone that clipped a fiber-optic line before crashing onto a garage roof is now the subject of an investigation by the US Federal Aviation Administration. It’s the latest delivery drone mishap caught on video as Amazon and other companies are ramping up such aerial delivery operations across the United States. The November 20 incident began with Jim Brennan and his wife, residents of Huntington Woods, Michigan, placing an order for shampoo and being surprised by a notification about the package arriving by drone within seven minutes, according to WXYZ 7 News Detroit. After the drone dropped the package into Brennan’s backyard, it lost a propeller when it caught on fiber-optic cable and floundered sideways before getting pinned between the neighbor’s garage roof and some power lines. “Like a sick bird, it tried to go up, it tried to get out of here,” Brennan told WXYZ 7. Read full article Comments",
+    "summary": "On November 20, an Amazon delivery drone clipped a fiber‑optic line and crashed onto a garage roof in Huntington Woods, Michigan after dropping a shampoo package for Jim Brennan and his wife. The crash, which left the drone pinned between the garage and power lines, is now being investigated by the US Federal Aviation Administration.",
+    "category": "Technology",
+    "categorySlug": "technology",
+    "publishedAt": "11/25/2026 7:32:49",
+    "author": "Ars Technica",
+    "isFeatured": false,
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
+  },
+  {
     "id": "BLOG-20261125-055",
     "title": "Mathematician uses AI to produce proof of Riemann hypothesis",
     "slug": "mathematician-uses-ai-to-produce-proof-of-riemann-hypothesis",
